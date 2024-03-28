@@ -1,4 +1,4 @@
-import scoreWeight from "./data/charWeightList.json"
+import scoreWeight from "../../../../data/weight_data/charWeightList.json"
 
 export default function getCharScore(charId, charData) {
   let maxSchoolDataIndex = 0

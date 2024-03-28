@@ -1,8 +1,12 @@
 {
   "1001": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.5,
         "AttackAddedRatio": 0,
@@ -56,8 +60,12 @@
   },
   "1002": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -111,8 +119,12 @@
   },
   "1003": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -166,8 +178,12 @@
   },
   "1004": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -221,8 +237,12 @@
   },
   "1005": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 1,
@@ -276,8 +296,12 @@
   },
   "1006": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -331,8 +355,12 @@
   },
   "1008": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -386,8 +414,12 @@
   },
   "1009": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -441,8 +473,12 @@
   },
   "1013": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -496,8 +532,12 @@
   },
   "1101": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.5,
         "AttackAddedRatio": 0.5,
@@ -551,8 +591,12 @@
   },
   "1102": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -606,8 +650,12 @@
   },
   "1103": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -661,8 +709,12 @@
   },
   "1104": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.5,
         "AttackAddedRatio": 0,
@@ -716,8 +768,12 @@
   },
   "1105": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.8,
         "AttackAddedRatio": 0,
@@ -771,8 +827,12 @@
   },
   "1106": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -826,8 +886,12 @@
   },
   "1107": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -881,8 +945,12 @@
   },
   "1108": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 1,
@@ -936,8 +1004,12 @@
   },
   "1109": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -991,8 +1063,12 @@
   },
   "1110": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.8,
         "AttackAddedRatio": 0,
@@ -1046,8 +1122,12 @@
   },
   "1111": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 1,
@@ -1101,8 +1181,12 @@
   },
   "1112": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -1156,8 +1240,12 @@
   },
   "1201": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -1211,8 +1299,12 @@
   },
   "1202": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.5,
         "AttackAddedRatio": 1,
@@ -1266,8 +1358,12 @@
   },
   "1203": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.8,
         "AttackAddedRatio": 0,
@@ -1321,8 +1417,12 @@
   },
   "1204": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -1376,8 +1476,12 @@
   },
   "1205": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.8,
         "AttackAddedRatio": 0.8,
@@ -1431,8 +1535,12 @@
   },
   "1206": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -1486,8 +1594,12 @@
   },
   "1207": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 1,
@@ -1541,8 +1653,12 @@
   },
   "1208": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 1,
         "AttackAddedRatio": 0,
@@ -1596,8 +1712,12 @@
   },
   "1209": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -1651,8 +1771,12 @@
   },
   "1210": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 1,
@@ -1706,8 +1830,12 @@
   },
   "1211": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.8,
         "AttackAddedRatio": 0,
@@ -1761,8 +1889,12 @@
   },
   "1212": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -1816,8 +1948,12 @@
   },
   "1213": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -1871,8 +2007,12 @@
   },
   "1214": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -1926,8 +2066,12 @@
   },
   "1215": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 1,
         "AttackAddedRatio": 1,
@@ -1981,8 +2125,12 @@
   },
   "1217": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.8,
         "AttackAddedRatio": 0,
@@ -2036,8 +2184,12 @@
   },
   "1302": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -2091,8 +2243,12 @@
   },
   "1303": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 1,
         "AttackAddedRatio": 0,
@@ -2146,8 +2302,12 @@
   },
   "1305": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -2199,10 +2359,191 @@
     },
     "max": 0.0
   },
+  "1306": {
+    "main": {
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
+      "3": {
+        "HPAddedRatio": 0.8,
+        "AttackAddedRatio": 0,
+        "DefenceAddedRatio": 0.5,
+        "CriticalChanceBase": 0,
+        "CriticalDamageBase": 1,
+        "HealRatioBase": 0,
+        "StatusProbabilityBase": 0
+      },
+      "4": {
+        "HPAddedRatio": 0.8,
+        "AttackAddedRatio": 0,
+        "DefenceAddedRatio": 0,
+        "SpeedDelta": 1
+      },
+      "5": {
+        "HPAddedRatio": 1,
+        "AttackAddedRatio": 0,
+        "DefenceAddedRatio": 0.5,
+        "PhysicalAddedRatio": 0,
+        "FireAddedRatio": 0,
+        "IceAddedRatio": 0,
+        "ThunderAddedRatio": 0,
+        "WindAddedRatio": 0,
+        "QuantumAddedRatio": 0,
+        "ImaginaryAddedRatio": 0
+      },
+      "6": {
+        "BreakDamageAddedRatioBase": 0,
+        "SPRatioBase": 1,
+        "HPAddedRatio": 0.8,
+        "AttackAddedRatio": 0,
+        "DefenceAddedRatio": 0.5
+      }
+    },
+    "weight": {
+      "HPDelta": 0.3,
+      "AttackDelta": 0,
+      "DefenceDelta": 0.2,
+      "HPAddedRatio": 0.8,
+      "AttackAddedRatio": 0,
+      "DefenceAddedRatio": 0.5,
+      "SpeedDelta": 1,
+      "CriticalChanceBase": 0,
+      "CriticalDamageBase": 1,
+      "StatusProbabilityBase": 0,
+      "StatusResistanceBase": 0.8,
+      "BreakDamageAddedRatioBase": 0
+    },
+    "max": 10.06
+  },
+  "1307": {
+    "main": {
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
+      "3": {
+        "HPAddedRatio": 0,
+        "AttackAddedRatio": 0.8,
+        "DefenceAddedRatio": 0,
+        "CriticalChanceBase": 0,
+        "CriticalDamageBase": 0,
+        "HealRatioBase": 0,
+        "StatusProbabilityBase": 1
+      },
+      "4": {
+        "HPAddedRatio": 0,
+        "AttackAddedRatio": 1,
+        "DefenceAddedRatio": 0,
+        "SpeedDelta": 1
+      },
+      "5": {
+        "HPAddedRatio": 0,
+        "AttackAddedRatio": 0.8,
+        "DefenceAddedRatio": 0,
+        "PhysicalAddedRatio": 0,
+        "FireAddedRatio": 0,
+        "IceAddedRatio": 0,
+        "ThunderAddedRatio": 0,
+        "WindAddedRatio": 1,
+        "QuantumAddedRatio": 0,
+        "ImaginaryAddedRatio": 0
+      },
+      "6": {
+        "BreakDamageAddedRatioBase": 0,
+        "SPRatioBase": 1,
+        "HPAddedRatio": 0,
+        "AttackAddedRatio": 1,
+        "DefenceAddedRatio": 0
+      }
+    },
+    "weight": {
+      "HPDelta": 0,
+      "AttackDelta": 0.4,
+      "DefenceDelta": 0,
+      "HPAddedRatio": 0,
+      "AttackAddedRatio": 1,
+      "DefenceAddedRatio": 0,
+      "SpeedDelta": 1,
+      "CriticalChanceBase": 0.4,
+      "CriticalDamageBase": 0.4,
+      "StatusProbabilityBase": 1,
+      "StatusResistanceBase": 0,
+      "BreakDamageAddedRatioBase": 0
+    },
+    "max": 9.84
+  },
+  "1312": {
+    "main": {
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
+      "3": {
+        "HPAddedRatio": 0,
+        "AttackAddedRatio": 0.8,
+        "DefenceAddedRatio": 0,
+        "CriticalChanceBase": 1,
+        "CriticalDamageBase": 1,
+        "HealRatioBase": 0,
+        "StatusProbabilityBase": 0
+      },
+      "4": {
+        "HPAddedRatio": 0,
+        "AttackAddedRatio": 1,
+        "DefenceAddedRatio": 0,
+        "SpeedDelta": 1
+      },
+      "5": {
+        "HPAddedRatio": 0,
+        "AttackAddedRatio": 0.8,
+        "DefenceAddedRatio": 0,
+        "PhysicalAddedRatio": 0,
+        "FireAddedRatio": 0,
+        "IceAddedRatio": 1,
+        "ThunderAddedRatio": 0,
+        "WindAddedRatio": 0,
+        "QuantumAddedRatio": 0,
+        "ImaginaryAddedRatio": 0
+      },
+      "6": {
+        "BreakDamageAddedRatioBase": 0,
+        "SPRatioBase": 1,
+        "HPAddedRatio": 0,
+        "AttackAddedRatio": 1,
+        "DefenceAddedRatio": 0
+      }
+    },
+    "weight": {
+      "HPDelta": 0,
+      "AttackDelta": 0.3,
+      "DefenceDelta": 0,
+      "HPAddedRatio": 0,
+      "AttackAddedRatio": 0.8,
+      "DefenceAddedRatio": 0,
+      "SpeedDelta": 0.8,
+      "CriticalChanceBase": 1,
+      "CriticalDamageBase": 1,
+      "StatusProbabilityBase": 0.5,
+      "StatusResistanceBase": 0,
+      "BreakDamageAddedRatioBase": 0
+    },
+    "max": 10.16
+  },
   "8001": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -2256,8 +2597,12 @@
   },
   "8002": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0,
         "AttackAddedRatio": 0.8,
@@ -2311,8 +2656,12 @@
   },
   "8003": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.5,
         "AttackAddedRatio": 0,
@@ -2366,8 +2715,12 @@
   },
   "8004": {
     "main": {
-      "1": { "HPDelta": 1 },
-      "2": { "AttackDelta": 1 },
+      "1": {
+        "HPDelta": 1
+      },
+      "2": {
+        "AttackDelta": 1
+      },
       "3": {
         "HPAddedRatio": 0.5,
         "AttackAddedRatio": 0,
