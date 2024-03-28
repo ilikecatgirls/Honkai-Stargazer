@@ -346,6 +346,8 @@ export const strings = {
   WrapPopUpURLProgress: "Analysis Progess : Page ${2} of ${1}",
   //20240325
   AppInnerVersionCode: "Codename",
+  //20240328
+  VisitToDCServer: "Please visit our Discord Server for getting solutions / help",
 
 
 };

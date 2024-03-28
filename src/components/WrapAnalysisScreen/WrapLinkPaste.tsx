@@ -50,13 +50,17 @@ export default function WrapLinkPaste(props: Props) {
       <TextButton
         onPress={() => {
           //Linking.openURL("https://www.youtube.com/watch?v=CLkhV30kg_A");
+          Toast(LOCALES[language].VisitToDCServer,2,true);
+          setTimeout(() => {
+            Linking.openURL("https://discord.gg/uXatcbWKv2");
+          }, 2000);
         }}
         hasShadow={false}
         width={"100%"}
         height={46}
       >
         {/* @ts-ignore */}
-        {LOCALES[language].WrapPopUpURLTutorial}
+        {LOCALES[language].VisitToDCServer}
       </TextButton>
 
       <View className="w-full h-[280px]">

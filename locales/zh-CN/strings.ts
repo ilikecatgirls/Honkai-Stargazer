@@ -349,5 +349,7 @@ export const strings = {
   WrapPopUpURLAnalysisButton: "分析",
   WrapPopUpURLProgress: "分析进度 : ${1} 第${2}页",
   //20240325
-  AppInnerVersionCode: "开发代号"
+  AppInnerVersionCode: "开发代号",
+  //20240328
+  VisitToDCServer: "请到我们的Discord伺服器获取解决方法/协助"
 };
