@@ -136,8 +136,12 @@ export default function Menu() {
         </Text>)
       ) : null,
       onPress: () => {
-        setStaminaIsCheck(true);
-        setIsDisplayBackupStamina(!isDisplayBackupStamina);
+        if(playerNote.data === undefined || playerNote.data === null){
+          Toast.LoginFirst(language);
+        }else{
+          setStaminaIsCheck(true);
+          setIsDisplayBackupStamina(!isDisplayBackupStamina);
+        }
       },
       hasDot:
         !staminaIsCheck &&
@@ -200,9 +204,13 @@ export default function Menu() {
         </Text>
       ) : null,
       onPress: () => {
-        // @ts-ignore
-        navigation.navigate(SCREENS.ExpeditionPage.id);
-        setEpeditionIsCheck(true);
+        if(playerNote.data === undefined || playerNote.data === null){
+          Toast.LoginFirst(language);
+        }else{
+          // @ts-ignore
+          navigation.navigate(SCREENS.ExpeditionPage.id);
+          setEpeditionIsCheck(true);
+        }
       },
       hasDot:
         !epeditionIsCheck &&

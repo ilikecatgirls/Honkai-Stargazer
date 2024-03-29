@@ -39,3 +39,6 @@ Toast.CopyToClipboard = (lang: AppLanguage = "zh_hk") => {
 Toast.FailToCopy = (lang: AppLanguage = "zh_hk") => {
   return Toast(LOCALES[lang].FailToCopy);
 };
+Toast.LoginFirst = (lang: AppLanguage = "zh_hk") => {
+  return Toast(LOCALES[lang].PleaseLogin);
+};
