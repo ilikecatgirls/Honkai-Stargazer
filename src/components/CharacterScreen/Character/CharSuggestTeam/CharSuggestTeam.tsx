@@ -15,6 +15,7 @@ import {
   getCharFullData,
   getCharJsonData,
 } from "../../../../utils/data/getDataFromMap";
+import CharCard from "../../../global/CharCard/CharCard";
 
 export default React.memo(function CharSuggestTeam() {
   const { language: textLanguage } = useTextLanguage();
@@ -104,6 +105,17 @@ export default React.memo(function CharSuggestTeam() {
         <Text className="text-text text-[HY65]">
           {LOCALES[appLanguage].NoDataYet}
         </Text>
+        
+        
+        /*
+        <View style={{flexDirection:"row"}}>
+          <CharCard isShowMultiType={true} typeListStr={"Bailu||Huohuo"}/>
+          <CharCard isShowMultiType={true} typeListStr={"Bailu&&Huohuo||Abundance||Preservation"}/>
+          <CharCard isShowMultiType={true} typeListStr={"Bailu||Huohuo&&Abundance"}/>
+          <CharCard isShowMultiType={true} typeListStr={"Harmony||Hunt||Fire"}/>
+          <CharCard isShowMultiType={true} typeListStr={"Hunt&&Fire||Hunt&&Ice"}/>
+        </View>
+        */
       )}
     </View>
   );
