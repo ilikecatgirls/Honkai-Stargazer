@@ -92,9 +92,10 @@ export default function UserInfo(props: Props) {
   const isOwner = profileUUID === hsrUUID;
   const isShowInfo = userData?.show_info;
 
-  const playerAvatar =
-    // @ts-ignore
-    AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")];
+  const playerAvatar = (hsrInGameInfo?.player
+    ? AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")]
+    : AvatarIcon["Pam"]
+    )
 
   const [activeTab, setActiveTab] = useState("game-data");
   const isGameDataPage = activeTab === "game-data";

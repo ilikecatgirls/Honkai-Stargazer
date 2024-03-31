@@ -203,7 +203,10 @@ export default function HomeScreen() {
         const UserCharactersIsExist = UserCharacterDocGet.exists;
         console.log("UserCharactersIsExist : " + UserCharactersIsExist)
         console.log("uid : " + uid)
-        const charsData = {
+
+        console.log(hsrInGameInfo?.characters?.filter((data : any) => data?.id === Number(1308)?.toString())[0] !== undefined)
+
+        let charsData = {
           characters: hsrCharList.map((char: any) => ({
             id: char?.id,
             level: char?.level,
@@ -238,6 +241,17 @@ export default function HomeScreen() {
            */
           characters_details: hsrCharList.map((char: any) => {
             return ({
+              isHelperChar: (
+                //Check 1 : API是否在線
+                hsrInGameInfo?.characters !== undefined
+                ? (hsrInGameInfo?.characters?.filter((data : any) => data?.id === char?.id?.toString())[0] !== undefined)
+                
+                // Check 2 : 資料庫是否有紀錄
+                : UserCharactersIsExist 
+      
+                ? (UserCharacterDocGet.data()?.characters_details?.filter((data : any) => data?.id === char?.id?.toString())[0].isHelperChar || false)
+                : false
+              ),
               id: char?.id?.toString(),
               level: char?.level,
               promotion: getPromotionByLevel(char?.level),
