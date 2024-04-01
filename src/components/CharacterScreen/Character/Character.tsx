@@ -19,6 +19,7 @@ import Animated, {
 import CharImageFull from "./CharImageFull/CharImageFull";
 import CharEidolon from "./CharEidolon/CharEidolon";
 import { ScrollView } from "react-native-gesture-handler";
+import CharSuggestTeamNew from "./CharSuggestTeamNew/CharSuggestTeamNew";
 
 type Props = {
   scrollViewRef : MutableRefObject<ScrollView | Animated.ScrollView | undefined | null>;
@@ -81,7 +82,7 @@ export default React.memo(function Character(props : Props) {
                 <CharEidolon />
                 <CharSuggestLightCone />
                 <CharSuggestRelics />
-                <CharSuggestTeam />
+                <CharSuggestTeamNew />
                 <CharStory />
               </Animated.View>
             </View>

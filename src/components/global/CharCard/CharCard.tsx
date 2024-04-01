@@ -9,6 +9,8 @@ import CombatTypeCardIcon from "../CombatTypeCardIcon/CombatTypeCardIcon";
 import PathCardIcon from "../PathCardIcon/PathCardIcon";
 import CharacterImage from "../../../../assets/images/images_map/chacracterImage";
 import CombatTypeImage from "../../../../assets/images/images_map/combatType";
+import AdviceId from "../../../../map/character_advice_id_map";
+import CharacterOfficialId from "../../../../map/character_offical_id_map";
 import PathImage from "../../../../assets/images/images_map/path";
 // import FastImage from "react-native-fast-image";
 
@@ -105,10 +107,10 @@ export default React.memo(function CharCard(props: Props) {
       >
         {props.isShowMultiType ? (
           <View >
-            <View style={{ width: oneItemWidth - itemPadding, height: oneItemWidth - itemPadding, padding: 4, paddingRight: 10, flexDirection: "col" }}>
+            <View style={{ width: oneItemWidth - itemPadding, height: oneItemWidth - itemPadding, padding: 4, paddingRight: 10, flexDirection: "column" }}>
               {/*Row 1*/}
               <View style={{ flex: 1, flexDirection: "row", justifyContent: "center", alignItems: "center", alignSelf: "center" }}>
-                <View style={{ flex: 1 }}>{getIconByInfo(typeInUI[0], (typeInUI.length > 1 ? (oneItemWidth - itemPadding - 30) / 2 : oneItemWidth - itemPadding))}</View>
+                <View style={{ flex: 1 }}>{getIconByInfo(typeInUI[0], (typeInUI.length > 1 ? (oneItemWidth - itemPadding - 30) / 2 : oneItemWidth - itemPadding - 30))}</View>
                 {typeIsAdd[0] ? (plusUI) : (<></>)}
                 {typeInUI[1] && typeInUI[1] !== "EMPTY"? (
                   <View style={{ flex: 1 }}>{getIconByInfo(typeInUI[1], (oneItemWidth - itemPadding - 30) / 2)}</View>
@@ -117,7 +119,7 @@ export default React.memo(function CharCard(props: Props) {
               </View>
 
               {/*Row 2*/}
-              {true ? (
+              {typeInUI.length > 2 ? (
                 <View style={{ flex: 1, flexDirection: "row", justifyContent: "center", alignItems: "center", alignSelf: "center" }}>
                   {typeInUI[2] ? (
                     <View style={{ flex: 1 }}>{getIconByInfo(typeInUI[2], (oneItemWidth - itemPadding - 30) / 2)}</View>
@@ -217,14 +219,14 @@ export default React.memo(function CharCard(props: Props) {
   );
 });
 
-function getIconByInfo(info: string, widthx: number) {
+function getIconByInfo(infoId: string, widthx: number) {
   return (
     <View
       className="rounded-full bg-[#00000040]"
       style={{ justifyContent: "center", alignItems: "center", alignSelf: "center", width: widthx, height: widthx }}
     >
       <Image cachePolicy="none" className="rounded-full" style={{ flex: 1, width: widthx, height: widthx, minWidth: 20, minHeight: 20 }} source={
-        CharacterImage[info]?.icon || CombatTypeImage[info as CombatType]?.icon || PathImage[info]?.icon ||
+        CharacterImage[CharacterOfficialId[Number(infoId)]]?.icon || AdviceId[infoId] ||
         require("../../../../assets/images/ui_icon/ic_unknown.webp")
       } />
     </View>
