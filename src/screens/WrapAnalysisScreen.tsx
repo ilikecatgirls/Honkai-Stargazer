@@ -110,13 +110,20 @@ export default function WrapAnalysisScreen() {
 
   useEffect(() => {
     async function refreshData() {
+      let gachaSum = (await new GachaHandler().getGachaSummary());
+      gachaSum?.map((data: GachaSummary) => {
+        data.lastPulled = new GachaHandler().getPullBeforeCount(data.rare5Gacha, data.totalPulls);
+      })
       setGachaData((await new GachaHandler().getGachaRecord()) as GachaInfo[]);
-      setGachaSummary((await new GachaHandler().getGachaSummary()) as GachaSummary[])
+      setGachaSummary(gachaSum as GachaSummary[])
       setGachaEndId((await new GachaHandler().getGachaEndId()))
+
     }
 
     refreshData();
   }, [])
+
+  let tmpLastPulled = gachaSummary[selectedPage]?.lastPulled || 0;
 
   const tmpData = [
     { "title": LOCALES[appLanguage].WrapInfoPity, "data": ((1 - gachaSummary[selectedPage]?.rare5HavePityPercent) * 100)?.toFixed(1) + "%" },
@@ -179,10 +186,7 @@ export default function WrapAnalysisScreen() {
                 {/* 運氣評價 - 星星 */}
                 <PageStars
                   style={{ minHeight: 40, minWidth: 1 }}
-                  count={new GachaHandler().getWrapLuckyScore(
-                    (selectedPage == 0 || selectedPage == 1 ? -1 : gachaSummary[selectedPage]?.rare5HavePityPercent),
-                    (isNaN(parseFloat(gachaSummary[selectedPage]?.rare5GachaAverage)) ? -1 : gachaSummary[selectedPage]?.rare5GachaAverage)
-                  )}
+                  count={new GachaHandler().getWrapLuckyScoreV2(gachaSummary[selectedPage]?.rare5Gacha, gachaSummary[selectedPage]?.totalPulls)}
                 />
 
                 {/* 運氣評價 - 標題 */}
@@ -286,6 +290,50 @@ export default function WrapAnalysisScreen() {
               }}
             >
               <View style={{ padding: 8 }}>
+                <View key={"0x"} style={{ height: 36, margin: 8, flexDirection: 'row', backgroundColor: "#31313100" }}>
+                  {/* 角色圖片*/}
+
+                  <LinearGradient
+                    className="rounded-full"
+                    colors={["#905A52", "#C8A471"]}
+                    start={{ x: 0, y: 0 }}
+                    end={{ x: 1, y: 0 }}>
+                    <Image cachePolicy="none"
+                      transition={200}
+                      className="rounded-full"
+                      style={{ height: 36, width: 36 }}
+                      source={require("../../assets/images/ui_icon/ic_unknown.webp")}
+                    />
+                  </LinearGradient>
+
+                  {/* 角色名字 & 出貨抽數*/}
+                  <View style={{ height: 36, width: "100%", paddingLeft: 10 }}>
+                    <Text className="text-[11px] font-[HY65] text-[#FFFFFF]"
+                      style={{
+                        justifyContent: "center",
+                        alignSelf: 'flex-start',
+                        paddingBottom: 2
+                      }}
+                    >
+                      {" "}
+                    </Text>
+                    <LinearGradient
+                      colors={(tmpLastPulled <= avgGetUP ? goodRateColor : tmpLastPulled <= 70 ? midRateColor : poorRateColor)}
+                      start={{ x: 0, y: 0 }}
+                      end={{ x: 0.58, y: 0 }}
+                      style={{
+                        flexDirection: 'row',
+                        justifyContent: "space-between",
+                        padding: 3,
+                        width: (barMaxLength * tmpLastPulled / 90 < (minDpOfText) ? minDpOfText : barMaxLength * tmpLastPulled / 90) + 1,
+                      }}
+                    >
+                      <Text className="text-[12px] font-[HY65] text-[#000000]">
+                        {tmpLastPulled}
+                      </Text>
+                    </LinearGradient>
+                  </View>
+                </View>
                 {/* 詳細記錄 - 列表物件*/}
                 {gachaData.filter((data: GachaInfo) =>
                   ((parseInt(data.rank_type) === 4 && showRare4and5) || parseInt(data.rank_type) === 5) &&
@@ -295,17 +343,22 @@ export default function WrapAnalysisScreen() {
                   const dataFull = (gacha_id >= 10000 ? getLcFullData(officalLcId[gacha_id], appLanguage) : getCharFullData(officalCharId[gacha_id], appLanguage))
                   const dataIMG = (gacha_id >= 10000 ? LightconeImage[officalLcId[gacha_id]]?.icon : CharacterImage[officalCharId[gacha_id]]?.icon)
                   const dataPulled = (data?.afterPulled === undefined ? 1 : data?.afterPulled)
-                  const dataIsPity = (data?.isPity === undefined ? false : data?.isPity)
+                  const dataIsPity = data?.isPity || false
                   return (
                     <View key={index} style={{ height: 36, margin: 8, flexDirection: 'row', backgroundColor: "#31313100" }}>
                       {/* 角色圖片*/}
-                      <Image cachePolicy="none"
-                        transition={200}
+                      <LinearGradient
                         className="rounded-full"
-                        style={{ height: 36, width: 36 }}
-                        source={dataIMG}
-                      />
-
+                        colors={(Number(data?.rank_type) === 5 ? ["#905A52", "#C8A471"] : ["#404165", "#9763CE"])}
+                        start={{ x: 0, y: 0 }}
+                        end={{ x: 1, y: 0 }}>
+                        <Image cachePolicy="none"
+                          transition={200}
+                          className="rounded-full"
+                          style={{ height: 36, width: 36 }}
+                          source={dataIMG}
+                        />
+                      </LinearGradient>
                       {/* 角色名字 & 出貨抽數*/}
                       <View style={{ height: 36, width: "100%", paddingLeft: 10 }}>
                         <Text className="text-[11px] font-[HY65] text-[#FFFFFF]"
@@ -483,6 +536,8 @@ export default function WrapAnalysisScreen() {
 
             for (let x = 0; x < GachaPoolArray.length; x++) {
               let rare5IsPity = 0, rare5TotalPulled = 0, rare5PityPulled = 0;
+
+              tmpGachaSummary[x].lastPulled = new GachaHandler().getPullBeforeCount(tmpGachaSummary[x].rare5Gacha, tmpGachaSummary[x].totalPulls);
 
               for (let index = 0; index < tmpGachaSummary[x].rare5Gacha.length; index++) {
                 const gacha = tmpGachaSummary[x].rare5Gacha[index]

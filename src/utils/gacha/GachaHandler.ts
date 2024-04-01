@@ -48,6 +48,7 @@ export type GachaSummary = {
   rare5GachaAverage: number,
   rare5HavePityPercent: number,
   totalPulls: number,
+  lastPulled: number,
   luckyRanking: number,
   isInit: boolean,
 }
@@ -309,5 +310,47 @@ export default class GachaHandler {
 
     const divCheck = (2 - (wrapPityRate === -1 ? 1 : 0) - (wrapAvgGetUP === -1 ? 1 : 0))
     return divCheck > 0 ? Math.round((pityRateScore + avgGetUpScore) / divCheck) : 0
+  }
+
+  /**
+   * 
+   * @param wrapPityRate 抽卡歪了的機率
+   * @param wrapAvgGetUP 平均出貨機率（當期限定UP）
+   * @returns 介乎0-5的數值
+   */
+  public getWrapLuckyScoreV2(gachaArray : GachaInfo[], totalPulls : number) : number {
+    let limitedPullCount = 0, limitedPullChar = 0;
+    let pityPullCount = 0, pityPullChar = 0;
+    gachaArray?.map((gacha : GachaInfo) => {
+      if(gacha.isPity){
+        pityPullCount ++
+        pityPullChar += gacha.afterPulled
+      }else{
+        limitedPullCount ++
+        limitedPullChar += gacha.afterPulled
+      }
+    })
+
+    return Math.round(
+      this.getWrapLuckyRanking(limitedPullChar / Math.max(limitedPullCount,1)) * 0.6 + 
+      this.getWrapLuckyRanking(pityPullChar / Math.max(pityPullCount,1)) * 0.3 + 
+      this.getPullBeforeCount(gachaArray,totalPulls)/90 * 0.1 
+      )
+  }
+
+  public getPullBeforeCount(rare5Array : GachaInfo[], totalPulls : number) : number {
+    let rare5Pulls = 0
+    rare5Array?.map((gacha : GachaInfo) => {rare5Pulls += gacha.afterPulled});
+    return totalPulls - rare5Pulls;
+  }
+  public getWrapLuckyRanking(wrapAvgGetUP : number) : number{
+    return (
+      wrapAvgGetUP > 80 ? 0 : 
+      wrapAvgGetUP > 70 ? 1 : 
+      wrapAvgGetUP > 60 ? 2 : 
+      wrapAvgGetUP > 50 ? 3 : 
+      wrapAvgGetUP > 40 ? 4 :  
+      wrapAvgGetUP > 10 ? 5 : 6
+    )
   }
 }
