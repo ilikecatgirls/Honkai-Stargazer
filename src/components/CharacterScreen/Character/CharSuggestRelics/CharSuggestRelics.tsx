@@ -10,6 +10,8 @@ import useCharId from "../../../../context/CharacterData/hooks/useCharId";
 import charAdviceMap from "../../../../../map/character_advice_map";
 import { LOCALES } from "../../../../../locales";
 import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
+import CharWeightList from "../../../../../data/weight_data/charWeightList.json";
+import charIdMap from "../../../../../map/character_id_map";
 
 // Relic 遺器套裝
 // Ornaments 位面飾品
@@ -21,15 +23,15 @@ export default React.memo(function CharSuggestRelics() {
   const { language } = useAppLanguage();
 
   const charId = useCharId();
-  const advices = charAdviceMap?.[charId];
-  const suggestRelics = advices?.relics!;
+  const advices = CharWeightList[charIdMap[charId]][0];
+  const suggestRelics = advices?.advice_relic!;
 
   return (
     <View style={{ alignItems: "center" }}>
       <CharPageHeading Icon={BaseballCap}>
         {LOCALES[language].AdviceRelics}
       </CharPageHeading>
-      {suggestRelics ? (
+      {suggestRelics && suggestRelics.length > 0 ? (
         <View className="w-full" style={styles.lightconeImages}>
           <CharSuggestRelicsLeft />
           <View className="translate-y-[14px]">
@@ -42,7 +44,11 @@ export default React.memo(function CharSuggestRelics() {
           {LOCALES[language].NoDataYet}
         </Text>
       )}
-      <CharSuggestRelicsProps />
+      {suggestRelics && suggestRelics.length > 0 ?
+        (
+          <CharSuggestRelicsProps />
+        ) : (<></>)
+      }
     </View>
   );
 });

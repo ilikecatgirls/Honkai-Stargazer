@@ -14,6 +14,9 @@ import CharSuggestRelicsCard from "../CharSuggestRelicsCard/CharSuggestRelicsCar
 import { SCREENS } from "../../../../../constant/screens";
 import { useNavigation } from "@react-navigation/native";
 import charAdviceMap from "../../../../../../map/character_advice_map";
+import CharWeightList from "../../../../../../data/weight_data/charWeightList.json";
+import charIdMap from "../../../../../../map/character_id_map";
+import relicOfficalIdMap from "../../../../../../map/relic_offical_id_map";
 
 export default function CharSuggestRelicsLeft() {
   const { language: textLanguage } = useTextLanguage();
@@ -21,8 +24,8 @@ export default function CharSuggestRelicsLeft() {
   const navigation = useNavigation();
 
   const charId = useCharId();
-  const advices = charAdviceMap[charId];
-  const suggestRelics = advices?.relics!;
+  const advices = CharWeightList[charIdMap[charId]][0];
+  const suggestRelics = advices?.advice_relic!;
 
   const [selectedIndex, setSelectedIndex] = useState(0);
   const handleLeft = () => {
@@ -49,9 +52,9 @@ export default function CharSuggestRelicsLeft() {
           }}
         >
           {map(suggestRelics?.[selectedIndex], (v: RelicName, k) => {
-            let relic = v;
+            let relic = relicOfficalIdMap[v];
             if (!v) {
-              relic = suggestRelics?.[selectedIndex].relic as RelicName;
+              relic = relicOfficalIdMap[suggestRelics?.[selectedIndex]?.[0]]! as RelicName;
             }
             return (
               <RelicsCard

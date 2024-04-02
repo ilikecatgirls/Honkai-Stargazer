@@ -4,6 +4,9 @@ import useCharData from "../../../../../context/CharacterData/hooks/useCharData"
 import useAppLanguage from "../../../../../language/AppLanguage/useAppLanguage";
 import { LOCALES } from "../../../../../../locales";
 import charAdviceRelicMap from "../../../../../../map/character_advice_relic_map";
+import CharWeightList from "../../../../../../data/weight_data/charWeightList.json";
+import charIdMap from "../../../../../../map/character_id_map";
+import charOfficalIdMap from "../../../../../../map/character_offical_id_map";
 
 export default function CharSuggestRelicsProps() {
   const { language: appLanguage } = useAppLanguage();
@@ -16,8 +19,8 @@ export default function CharSuggestRelicsProps() {
     LOCALES[appLanguage].RelicPropLinkRopeShort,
   ];
 
-  const adviceRelics = charAdviceRelicMap?.[charId];
-
+  const adviceRelics = CharWeightList?.[charIdMap[charId]][0]?.advice_relic_attr;
+  const adviceRelicsSub = CharWeightList?.[charIdMap[charId]][0]?.advice_relic_sub;
 
   return (
     <View className="w-full mt-4 px-6">
@@ -71,10 +74,10 @@ export default function CharSuggestRelicsProps() {
           {LOCALES[appLanguage].SubAffix}
         </Text>
         <Text className="text-[13px] text-[#DDD] opacity-80 font-[HY65]">
-          {adviceRelics?.[4]?.map((sub: any, i: number) => (
+          {adviceRelicsSub?.map((sub: any, i: number) => (
             <Text>
               {LOCALES[appLanguage][sub]}
-              {i !== adviceRelics?.[4]?.length - 1 && ", "}
+              {i !== adviceRelicsSub?.length - 1 && ", "}
             </Text>
           )) || LOCALES[appLanguage].NoDataYet}
         </Text>

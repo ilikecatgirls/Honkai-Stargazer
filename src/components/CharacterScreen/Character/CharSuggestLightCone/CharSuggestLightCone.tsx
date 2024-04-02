@@ -13,16 +13,19 @@ import Lightcone from "../../../../../assets/images/images_map/lightcone";
 import charAdviceMap from "../../../../../map/character_advice_map";
 import { LOCALES } from "../../../../../locales";
 import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
+import CharWeightList from "../../../../../data/weight_data/charWeightList.json";
+import lcOfficalIdMap from "../../../../../map/lightcone_offical_id_map";
+import charIdMap from "../../../../../map/character_id_map";
 
 export default React.memo(function CharSuggestLightCone() {
   const { language: textLanguage } = useTextLanguage();
   const { language: appLanguage } = useAppLanguage();
   const charId = useCharId();
   // @ts-ignore
-  const suggestConesData = charAdviceMap[charId]?.conesNew;
-  const suggestCones = suggestConesData?.map((cone: any) => {
+  const suggestConesData = CharWeightList[charIdMap[charId]][0]?.advice_lightcone!.concat(CharWeightList[charIdMap[charId]][0]?.normal_lightcone!);
+  const suggestCones = suggestConesData?.filter((cone : any) => cone !== -1 && cone !== -2)?.map((cone: any) => {
     // @ts-ignore
-    const lcId: LightconeName = LightconeNameMap[cone.cone];
+    const lcId: LightconeName = lcOfficalIdMap[cone];
     const lcFullData = getLcFullData(lcId, textLanguage);
 
     return {
@@ -41,12 +44,11 @@ export default React.memo(function CharSuggestLightCone() {
       <CharPageHeading Icon={Sword}>
         {LOCALES[appLanguage].AdviceLightcones}
       </CharPageHeading>
-      {suggestCones ? (
+      {suggestCones && suggestCones.length > 0 ? (
         <ScrollView horizontal>
           <View
             style={{
               flexDirection: "row",
-              flexWrap: "wrap",
               columnGap: 8,
             }}
           >

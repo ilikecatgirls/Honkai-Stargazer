@@ -14,14 +14,17 @@ import CharSuggestRelicsCard from "../CharSuggestRelicsCard/CharSuggestRelicsCar
 import { SCREENS } from "../../../../../constant/screens";
 import { useNavigation } from "@react-navigation/native";
 import charAdviceMap from "../../../../../../map/character_advice_map";
+import CharWeightList from "../../../../../../data/weight_data/charWeightList.json";
+import charIdMap from "../../../../../../map/character_id_map";
+import relicOfficalIdMap from "../../../../../../map/relic_offical_id_map";
 
 export default function CharSuggestRelicsRight() {
   const { language: textLanguage } = useTextLanguage();
   const navigation = useNavigation();
 
   const charId = useCharId();
-  const advices = charAdviceMap[charId];
-  const suggestRelics = advices?.planars!;
+  const advices = CharWeightList[charIdMap[charId]][0];
+  const suggestRelics = advices?.advice_ornament!;
 
   const [selectedIndex, setSelectedIndex] = useState(0);
   const handleLeft = () => {
@@ -35,6 +38,7 @@ export default function CharSuggestRelicsRight() {
     );
   };
 
+  let relic = relicOfficalIdMap[suggestRelics[selectedIndex]];
   return (
     <View style={{ alignItems: "center", gap: 9 }}>
       <SelectedIndex max={suggestRelics?.length || 0} index={selectedIndex} />
@@ -47,26 +51,22 @@ export default function CharSuggestRelicsRight() {
             columnGap: 8,
           }}
         >
-          {map(suggestRelics?.[selectedIndex], (v: RelicName, k) => {
-            let relic = v;
-            return (
-              <RelicsCard
-                key={k}
-                // id={relic}
-                name={getRelicFullData(relic, textLanguage)?.name}
-                // description={"voc"}
-                rare={5}
-                image={Relic[relic]?.pcIcon}
-                onPress={() => {
-                  // @ts-ignore
-                  navigation.push(SCREENS.RelicPage.id, {
-                    id: relic,
-                    name: getRelicFullData(relic, textLanguage)?.name,
-                  });
-                }}
-              />
-            );
-          })}
+          <RelicsCard
+            key={relic}
+            // id={relic}
+            name={getRelicFullData(relic, textLanguage)?.name}
+            // description={"voc"}
+            rare={5}
+            image={Relic[relic]?.pcIcon}
+            onPress={() => {
+              // @ts-ignore
+              navigation.push(SCREENS.RelicPage.id, {
+                id: relic,
+                name: getRelicFullData(relic, textLanguage)?.name,
+              });
+            }}
+          />
+
         </View>
         <RightBtn onPress={handleRight} />
       </View>
