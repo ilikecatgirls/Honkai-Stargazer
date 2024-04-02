@@ -8,7 +8,7 @@ const adviceId: any = {
     "-204": { icon: require("../../assets/images/ui_icon/path_the_nihility.webp"), name: "虛無" },
     "-203": { icon: require("../../assets/images/ui_icon/path_the_erudition.webp"), name: "智識" },
     "-202": { icon: require("../../assets/images/ui_icon/path_the_hunt.webp"), name: "巡獵" },
-    "-201": { icon: require("../../assets/images/ui_icon/path_the_destruction.webp"), name: "存護" },
+    "-201": { icon: require("../../assets/images/ui_icon/path_the_preservation.webp"), name: "存護" },
     "-107": { icon: require("../../assets/images/ui_icon/element_quantum.webp"), name: "量子" },
     "-106": { icon: require("../../assets/images/ui_icon/element_lightning.webp"), name: "雷" },
     "-105": { icon: require("../../assets/images/ui_icon/element_physical.webp"), name: "物理" },

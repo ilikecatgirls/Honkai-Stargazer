@@ -1,5 +1,5 @@
 import { View, Text, TouchableOpacity, Dimensions, PixelRatio } from "react-native";
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import { LinearGradient } from "expo-linear-gradient";
 import { Image, ImageSource } from "expo-image";
 import { cn } from "../../../utils/css/cn";
@@ -72,7 +72,6 @@ export default React.memo(function CharCard(props: Props) {
     </View>
   )
 
-
   //console.log(dimension.width +" | "+totalAvailableWidth+" | "+itemInRow+ " | "+(totalAvailableWidth % itemMaxWidth)+ " | "+oneItemWidth2)
 
   return (
@@ -82,8 +81,8 @@ export default React.memo(function CharCard(props: Props) {
       onPress={() => {
         if (props.isShowMultiType === true) {
           props.onPressShowChoice && props.onPressShowChoice();
-        } else if (props.id !== undefined && props.name !== undefined) {
-          props.onPress && props.onPress(props.id, props.name);
+        } else{
+          props.onPress && props.onPress(props.id!, props.name!);
         }
       }}
     >
@@ -144,7 +143,7 @@ export default React.memo(function CharCard(props: Props) {
                 numberOfLines={1}
                 className="text-text2 font-[HY65] text-[12px] leading-4"
               >
-                可選
+                Press To View
               </Text>
             </View>
           </View>
@@ -226,7 +225,7 @@ function getIconByInfo(infoId: string, widthx: number) {
       style={{ justifyContent: "center", alignItems: "center", alignSelf: "center", width: widthx, height: widthx }}
     >
       <Image cachePolicy="none" className="rounded-full" style={{ flex: 1, width: widthx, height: widthx, minWidth: 20, minHeight: 20 }} source={
-        CharacterImage[CharacterOfficialId[Number(infoId)]]?.icon || AdviceId[infoId] ||
+        CharacterImage[CharacterOfficialId[Number(infoId)]]?.icon || AdviceId[infoId]?.icon ||
         require("../../../../assets/images/ui_icon/ic_unknown.webp")
       } />
     </View>
