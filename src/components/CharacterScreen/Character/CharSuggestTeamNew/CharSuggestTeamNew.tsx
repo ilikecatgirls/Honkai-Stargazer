@@ -126,7 +126,7 @@ export default React.memo(function CharSuggestTeamNew() {
                 >
                   <PopUpCard
                     title={"符合【"+getKeywordsRequire(optionValue)?.keywords?.map((keywords, index, array) => {
-                      return (CharAdviceIdMap[keywords]?.name + (index + 1 < array.length ? (getKeywordsRequire(optionValue).isAnd ? "和" : "或") : ""))
+                      return ((CharAdviceIdMap[keywords]?.name || getCharFullData(CharacterOfficialId[keywords], textLanguage)?.name || CharacterOfficialId[keywords]) + (index + 1 < array.length ? (getKeywordsRequire(optionValue).isAnd ? "和" : "或") : ""))
                     }).toString().replaceAll(",","") +"】要求的角色"}
                     content={(
 
@@ -143,7 +143,7 @@ export default React.memo(function CharSuggestTeamNew() {
                           {Object.keys(CharWeightList)?.filter((officialId: string) => {
                             const keywordRequire = getKeywordsRequire(optionValue);
                             for (let k = 0; k < keywordRequire.keywords?.length; k++) {
-                              if (CharWeightList[officialId][0]?.keywords?.includes(Number(keywordRequire.keywords[k])) === false) {
+                              if (CharWeightList[officialId][0]?.keywords?.includes(Number(keywordRequire.keywords[k])) === false && officialId !== keywordRequire.keywords[k]) {
                                 if (keywordRequire.isAnd === true) return false;
                               } else {
                                 return true

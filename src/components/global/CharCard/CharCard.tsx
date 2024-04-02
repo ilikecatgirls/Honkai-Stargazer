@@ -60,11 +60,10 @@ export default React.memo(function CharCard(props: Props) {
     typeInUI.splice(1,0,"EMPTY")
     typeIsAdd.splice(1,0,false)
   }
-  if(typeInUI.length === 2){
+  if(typeInUI.length === 2 && typeIsAdd[0] !== true){
     typeInUI.splice(1,0,"EMPTY")
     typeIsAdd.splice(1,0,false)
   }
-
 
   const plusUI = (
     <View style={{ width: 10, height: "auto", alignSelf: "center" }}>
