@@ -12,6 +12,8 @@ import CombatTypeImage from "../../../../assets/images/images_map/combatType";
 import AdviceId from "../../../../map/character_advice_id_map";
 import CharacterOfficialId from "../../../../map/character_offical_id_map";
 import PathImage from "../../../../assets/images/images_map/path";
+import { LOCALES } from "../../../../locales";
+import useAppLanguage from "../../../language/AppLanguage/useAppLanguage";
 // import FastImage from "react-native-fast-image";
 
 type Props = {
@@ -37,6 +39,7 @@ type Props = {
 };
 
 export default React.memo(function CharCard(props: Props) {
+  const { language } = useAppLanguage();
   //   const animation = useSpring({ from: { opacity: 0.25 }, to: { opacity: 1 } });
   const itemMaxWidth = 80;
   const itemPadding = 6;
@@ -142,7 +145,7 @@ export default React.memo(function CharCard(props: Props) {
                 numberOfLines={1}
                 className="text-text2 font-[HY65] text-[12px] leading-4"
               >
-                Press To View
+                {LOCALES[language].PressToView}
               </Text>
             </View>
           </View>

@@ -77,8 +77,9 @@ export default function ToLoginScreen(props: Props) {
         hasShadow={false}
         width={"100%"}
         height={46}
+        fontSize={20}
       >
-        {LOCALES[language].ManuallySetup}
+        {LOCALES[language].UseCookiesToLogin}
       </Button>
     </View>
   );

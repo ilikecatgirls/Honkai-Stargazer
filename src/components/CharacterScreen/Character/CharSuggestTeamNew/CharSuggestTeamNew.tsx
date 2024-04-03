@@ -125,9 +125,13 @@ export default React.memo(function CharSuggestTeamNew() {
                   }}
                 >
                   <PopUpCard
-                    title={"符合【"+getKeywordsRequire(optionValue)?.keywords?.map((keywords, index, array) => {
-                      return ((CharAdviceIdMap[keywords]?.name || getCharFullData(CharacterOfficialId[keywords], textLanguage)?.name || CharacterOfficialId[keywords]) + (index + 1 < array.length ? (getKeywordsRequire(optionValue).isAnd ? "和" : "或") : ""))
-                    }).toString().replaceAll(",","") +"】要求的角色"}
+                    title={LOCALES[appLanguage].MatchRequirementChar.replace("${1}", 
+                    getKeywordsRequire(optionValue)?.keywords?.map((keywords, index, array) => {
+                      return (
+                        (CharAdviceIdMap[keywords]?.name || getCharFullData(CharacterOfficialId[keywords], textLanguage)?.name || CharacterOfficialId[keywords]) 
+                        + (index + 1 < array.length ? (getKeywordsRequire(optionValue).isAnd ? LOCALES[appLanguage].RequirementAND : LOCALES[appLanguage].RequirementOR) : "")
+                      )
+                    }).toString().replaceAll(",",""))}
                     content={(
 
                       <ScrollView style={{ maxHeight: 300 }}>

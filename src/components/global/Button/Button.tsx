@@ -21,6 +21,7 @@ export default function Button({
   style,
   withArrow,
   activeOpacity,
+  fontSize,
 }: {
   children: any;
   width: DimensionValue;
@@ -31,6 +32,7 @@ export default function Button({
   withArrow?: boolean;
   style?: StyleProp<ViewStyle>;
   activeOpacity?: number;
+  fontSize?:number;
 }) {
   return disable ? (
     hasShadow ? (
@@ -55,7 +57,7 @@ export default function Button({
             }}
           >
             {typeof children === "string" ? (
-              <Text className="text-[#222] font-[HY65]">{children}</Text>
+              <Text className="text-[#222] font-[HY65]" style={{fontSize : fontSize || 14}}>{children}</Text>
             ) : (
               children
             )}
@@ -90,7 +92,7 @@ export default function Button({
           }}
         >
           {typeof children === "string" ? (
-            <Text className="text-[#222] font-[HY65]">{children}</Text>
+            <Text className="text-[#222] font-[HY65]" style={{fontSize : fontSize || 14}}>{children}</Text>
           ) : (
             children
           )}
@@ -127,7 +129,7 @@ export default function Button({
               }}
             >
               {typeof children === "string" ? (
-                <Text className="text-[#222] font-[HY65]">{children}</Text>
+                <Text className="text-[#222] font-[HY65]" style={{fontSize : fontSize || 14}}>{children}</Text>
               ) : (
                 children
               )}
@@ -161,7 +163,7 @@ export default function Button({
             }}
           >
             {typeof children === "string" ? (
-              <Text className="text-[#222] font-[HY65]">{children}</Text>
+              <Text className="text-[#222] font-[HY65]" style={{fontSize : fontSize || 14}}>{children}</Text>
             ) : (
               children
             )}

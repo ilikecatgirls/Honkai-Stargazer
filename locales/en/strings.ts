@@ -348,6 +348,12 @@ export const strings = {
   AppInnerVersionCode: "Codename",
   //20240328
   VisitToDCServer: "Please visit our Discord Server for getting solutions / help",
+  //20240403
+  UseCookiesToLogin: "Login via Cookies",
+  PressToView: "Press To View",
+  MatchRequirementChar: "Characters that matched【${1}】",
+  RequirementOR: " OR ",
+  RequirementAND: " AND ",
 
 
 };

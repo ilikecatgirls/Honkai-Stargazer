@@ -351,5 +351,11 @@ export const strings = {
   //20240325
   AppInnerVersionCode: "开发代号",
   //20240328
-  VisitToDCServer: "请到我们的Discord伺服器获取解决方法/协助"
+  VisitToDCServer: "请到我们的Discord伺服器获取解决方法/协助",
+  //20240403
+  UseCookiesToLogin: "透过Cookies登入",
+  PressToView: "按我查看",
+  MatchRequirementChar: "符合【${1}】要求的角色",
+  RequirementOR: "或",
+  RequirementAND: "和"
 };
