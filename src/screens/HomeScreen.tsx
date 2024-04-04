@@ -204,7 +204,7 @@ export default function HomeScreen() {
         console.log("UserCharactersIsExist : " + UserCharactersIsExist)
         console.log("uid : " + uid)
 
-        console.log(hsrInGameInfo?.characters?.filter((data : any) => data?.id === Number(1308)?.toString())[0] !== undefined)
+        //console.log(hsrInGameInfo?.characters?.filter((data : any) => data?.id === Number(1308)?.toString())[0] !== undefined)
 
         let charsData = {
           characters: hsrCharList.map((char: any) => ({

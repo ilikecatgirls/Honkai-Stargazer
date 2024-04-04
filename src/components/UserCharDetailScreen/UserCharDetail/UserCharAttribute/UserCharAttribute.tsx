@@ -77,20 +77,20 @@ export default React.memo(function UserCharAttribute() {
     {
       key: "spd",
       icon: AttributeImage.spd,
-      attr: inGameCharData?.attributes.filter(
+      attr: (inGameCharData?.attributes.filter(
         (attr: any) => attr.field === "spd"
-      )[0]?.display,
-      addi: inGameCharData?.additions.filter(
+      )[0]?.value)?.toFixed(1),
+      addi: (inGameCharData?.additions.filter(
         (attr: any) => attr.field === "spd"
-      )[0]?.display,
-      value: Math.floor(
+      )[0]?.value)?.toFixed(1),
+      value: (
         (inGameCharData?.attributes.filter(
           (attr: any) => attr.field === "spd"
         )[0]?.value || 0) +
           (inGameCharData?.additions.filter(
             (attr: any) => attr.field === "spd"
           )[0]?.value || 0)
-      ),
+      ).toFixed(1),
     },
     {
       key: "sp",
