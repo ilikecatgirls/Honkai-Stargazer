@@ -1,4 +1,4 @@
-import { View, Text, Dimensions, ScrollView, Platform, Share} from "react-native";
+import { View, Text, Dimensions, ScrollView, Platform, Share } from "react-native";
 import React, { useCallback, useRef, useState } from "react";
 import Header2 from "../../global/Header2/Header2";
 import { TouchableOpacity } from "react-native";
@@ -35,7 +35,7 @@ import { dynamicHeightUserInfoAnimView } from "../../../constant/ui";
 // import PagerView from "react-native-pager-view";
 import ViewShot, { captureRef } from "react-native-view-shot";
 import { GestureResponderEvent } from "react-native-modal";
-import {Image as ImageRN} from 'react-native'
+import { Image as ImageRN } from 'react-native'
 import WallPaper from "../../global/WallPaper/WallPaper";
 import { LinearGradient } from "expo-linear-gradient";
 import * as MediaLibrary from "expo-media-library"
@@ -58,25 +58,25 @@ export default function UserInfo(props: Props) {
   const captureFull = () => {
     setCapture(true)
     setTimeout(async () => {
-      try{
-        await captureRef(captureFullRef).then(async (uri : any) => {
-          if(Platform.OS === 'android'){
-            await MediaLibrary.requestPermissionsAsync().then(async (response : MediaLibrary.PermissionResponse) => {
-              if(response.granted){
-                await MediaLibrary.createAssetAsync(uri).then(async (result : any) => {
+      try {
+        await captureRef(captureFullRef).then(async (uri: any) => {
+          if (Platform.OS === 'android') {
+            await MediaLibrary.requestPermissionsAsync().then(async (response: MediaLibrary.PermissionResponse) => {
+              if (response.granted) {
+                await MediaLibrary.createAssetAsync(uri).then(async (result: any) => {
                   setCapture(false)
                   await Sharing.shareAsync(result.uri);
                 })
-              }else{
+              } else {
                 Toast(LOCALES[language].ErrorscreenshotPermissionRejected)
               }
             })
-          }else{
+          } else {
             setCapture(false)
-            await Share.share({url: uri});
+            await Share.share({ url: uri });
           }
         })
-      }catch(e : any){
+      } catch (e: any) {
         console.log(e)
       }
     }, 500)
@@ -95,7 +95,7 @@ export default function UserInfo(props: Props) {
   const playerAvatar = (hsrInGameInfo?.player
     ? AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")]
     : AvatarIcon["Pam"]
-    )
+  )
 
   const [activeTab, setActiveTab] = useState("game-data");
   const isGameDataPage = activeTab === "game-data";
@@ -107,9 +107,9 @@ export default function UserInfo(props: Props) {
     lastLoginDuration < 300
       ? LOCALES[language].StatusNow
       : LOCALES[language].UserInfoLastLoginAt.replace(
-          "${1}",
-          formatTimeDurationSimple(lastLoginDuration, language)
-        );
+        "${1}",
+        formatTimeDurationSimple(lastLoginDuration, language)
+      );
 
   // 用戶留言
   const parts = timeString.split(/([A-Za-z\u4e00-\u9fa5]+)/);
@@ -134,7 +134,7 @@ export default function UserInfo(props: Props) {
 
   return (
     <View className="z-30">
-      <Header2 rightBtn={isOwner ? <ShareBtn onPress={captureFull}/> : null}>
+      <Header2 rightBtn={isOwner ? <ShareBtn onPress={captureFull} /> : null}>
         <Animated.View style={headerAnimatedStyles}>
           <TopTabs
             tabs={[
@@ -152,181 +152,181 @@ export default function UserInfo(props: Props) {
         ref={aref}
         style={{ height: Dimensions.get("screen").height }}
       >
-      <ViewShot ref={captureFullRef} captureMode="mount">
-        {isCapture ? (
-          <>
-            <WallPaper isBlur />
-            <LinearGradient
-              className="absolute w-full h-full"
-              colors={["#00000080", "#00000020"]}
-            />
-            <LinearGradient
-              className="w-full h-[600px] absolute bottom-0"
-              colors={["#00000000", "#000000"]}
-            />
-          </>
-        ) : (<></>)}
-        {hsrInGameInfo ? (
-          <AnimatedView
-            className={dynamicHeightUserInfoAnimView}
-            style={{
-              alignItems: "center",
-              gap: 18,
-            }}
-          >
-            <View style={{ alignItems: "center", gap: 6 }}>
-              {/* 頭像 */}
-              <UserAvatar
-                image={playerAvatar}
-                onPress={() => {
-                  const signature = hsrInGameInfo?.player?.signature;
-
-                  if (signature) {
-                    Toast(signature);
-                  }
-                }}
+        <ViewShot ref={captureFullRef} captureMode="mount">
+          {isCapture ? (
+            <>
+              <WallPaper isBlur />
+              <LinearGradient
+                className="absolute w-full h-full"
+                colors={["#00000080", "#00000020"]}
               />
-              {/* 玩家名 */}
-              <Text className="text-text text-[24px] font-[HY65] leading-8">
-                {hsrInGameInfo?.player?.nickname}
-              </Text>
-              {/* UUID & 伺服器 */}
-              <UUIDBox uuid={props.uuid} />
-            </View>
-            {/* 等級 */}
-            <View
+              <LinearGradient
+                className="w-full h-[600px] absolute bottom-0"
+                colors={["#00000000", "#000000"]}
+              />
+            </>
+          ) : (<></>)}
+          {hsrInGameInfo ? (
+            <AnimatedView
+              className={dynamicHeightUserInfoAnimView}
               style={{
-                flexDirection: "row",
                 alignItems: "center",
+                gap: 18,
               }}
             >
-              <InfoItem
-                title={
-                  isGameDataPage
-                    ? LOCALES[language].UserInfoGamePlayerLevel
-                    : LOCALES[language].UserInfoCountComments
-                }
-                value={
-                  isGameDataPage
-                    ? hsrInGameInfo?.player?.level
-                    : userComments?.comments_num || 0
-                }
-              />
-              <View className="w-[1px] h-6 bg-[#F3F9FF40]"></View>
-              <InfoItem
-                title={
-                  isGameDataPage
-                    ? LOCALES[language].UserInfoGameWorldLevel
-                    : LOCALES[language].UserInfoLastOnlineTime
-                }
-                value={
-                  isGameDataPage ? (
-                    hsrInGameInfo?.player?.world_level
-                  ) : (
-                    <Text>
-                      {userData?.last_login ? (
-                        parts.map((part: any, index: number) =>
-                          // 检查每个部分是否为纯数字
-                          /^\d+$/.test(part) ? (
-                            <Text key={index}>{part}</Text>
-                          ) : (
-                            <Text className="text-[12px] leading-5" key={index}>
-                              {part}
-                            </Text>
-                          )
-                        )
-                      ) : (
-                        <Text className="text-[12px] leading-4">
-                          {LOCALES[language].NoOnlineData}
-                        </Text>
-                      )}
-                    </Text>
-                  )
-                }
-              />
-              {isGameDataPage && (
-                <>
-                  <View className="w-[1px] h-6 bg-[#F3F9FF40]"></View>
-                  <InfoItem
-                    title={LOCALES[language].UserInfoOwnedCharacters}
-                    value={hsrInGameInfo?.player?.space_info?.avatar_count}
-                  />
-                </>
-              )}
-            </View>
-            {/* 遊戲數據頁顯示 */}
-            <View
-              className="w-full"
-              style={{
-                position: isGameDataPage ? "relative" : "absolute",
-                left: isGameDataPage ? 0 : -10000,
-                alignItems: "center",
-                gap: 8,
-              }}
-            >
-              <UserInfoCharacters uuid={props.uuid} isCapture = {isCapture}/>
+              <View style={{ alignItems: "center", gap: 6 }}>
+                {/* 頭像 */}
+                <UserAvatar
+                  image={playerAvatar}
+                  onPress={() => {
+                    const signature = hsrInGameInfo?.player?.signature;
 
-              {isOwner || isShowInfo ? (
-                <View
-                  className="w-full px-4"
-                  style={{
-                    flexDirection: "row",
-                    justifyContent: "space-around",
+                    if (signature) {
+                      Toast(signature);
+                    }
                   }}
-                >
-                  <InfoItem
-                    title={LOCALES[language].UserInfoGameActiveDays}
-                    value={userData?.active_days || 0}
-                  />
-                  <InfoItem
-                    title={LOCALES[language].UserInfoGameAchievements}
-                    value={hsrInGameInfo?.player?.space_info?.achievement_count}
-                  />
-                  <InfoItem
-                    title={LOCALES[language].UserInfoGameOpenedChests}
-                    value={userData?.chest_num}
-                  />
-                  <InfoItem
-                    title={LOCALES[language].UserInfoGameForgottenHall}
-                    value={`${userMocData?.max_floor || 0}/12`}
-                  />
-                </View>
-              ) : (
-                <NoPublicData />
-              )}
-            </View>
-            {/* 其他頁顯示 */}
-            <View
-              className="w-full mb-12"
-              style={{
-                position: !isGameDataPage ? "relative" : "absolute",
-                left: !isGameDataPage ? 0 : -10000,
-                alignItems: "center",
-                gap: 8,
-              }}
-            >
-              {userComments?.comments ? (
-                userComments?.comments
-                  ?.slice()
-                  ?.reverse()
-                  ?.map((comment: any) => (
-                    <Comment {...comment} key={comment.id} />
-                  ))
-              ) : (
-                <NoComment />
-              )}
-            </View>
-            {/* 由 Stargazer 製作 */}
-            {isGameDataPage && (
-              <View className="mb-16 mt-0">
-                <ProducedByStargazer />
+                />
+                {/* 玩家名 */}
+                <Text className="text-text text-[24px] font-[HY65] leading-8">
+                  {hsrInGameInfo?.player?.nickname}
+                </Text>
+                {/* UUID & 伺服器 */}
+                <UUIDBox uuid={props.uuid} />
               </View>
-            )}
-          </AnimatedView>
-        ) : (
-          <Loading />
-        )}
-      </ViewShot>
+              {/* 等級 */}
+              <View
+                style={{
+                  flexDirection: "row",
+                  alignItems: "center",
+                }}
+              >
+                <InfoItem
+                  title={
+                    isGameDataPage
+                      ? LOCALES[language].UserInfoGamePlayerLevel
+                      : LOCALES[language].UserInfoCountComments
+                  }
+                  value={
+                    isGameDataPage
+                      ? hsrInGameInfo?.player?.level
+                      : userComments?.comments_num || 0
+                  }
+                />
+                <View className="w-[1px] h-6 bg-[#F3F9FF40]"></View>
+                <InfoItem
+                  title={
+                    isGameDataPage
+                      ? LOCALES[language].UserInfoGameWorldLevel
+                      : LOCALES[language].UserInfoLastOnlineTime
+                  }
+                  value={
+                    isGameDataPage ? (
+                      hsrInGameInfo?.player?.world_level
+                    ) : (
+                      <Text>
+                        {userData?.last_login ? (
+                          parts.map((part: any, index: number) =>
+                            // 检查每个部分是否为纯数字
+                            /^\d+$/.test(part) ? (
+                              <Text key={index}>{part}</Text>
+                            ) : (
+                              <Text className="text-[12px] leading-5" key={index}>
+                                {part}
+                              </Text>
+                            )
+                          )
+                        ) : (
+                          <Text className="text-[12px] leading-4">
+                            {LOCALES[language].NoOnlineData}
+                          </Text>
+                        )}
+                      </Text>
+                    )
+                  }
+                />
+                {isGameDataPage && (
+                  <>
+                    <View className="w-[1px] h-6 bg-[#F3F9FF40]"></View>
+                    <InfoItem
+                      title={LOCALES[language].UserInfoOwnedCharacters}
+                      value={hsrInGameInfo?.player?.space_info?.avatar_count}
+                    />
+                  </>
+                )}
+              </View>
+              {/* 遊戲數據頁顯示 */}
+              <View
+                className="w-full"
+                style={{
+                  position: isGameDataPage ? "relative" : "absolute",
+                  left: isGameDataPage ? 0 : -10000,
+                  alignItems: "center",
+                  gap: 8,
+                }}
+              >
+                <UserInfoCharacters uuid={props.uuid} isCapture={isCapture} />
+
+                {isOwner || isShowInfo ? (
+                  <View
+                    className="w-full px-4"
+                    style={{
+                      flexDirection: "row",
+                      justifyContent: "space-around",
+                    }}
+                  >
+                    <InfoItem
+                      title={LOCALES[language].UserInfoGameActiveDays}
+                      value={userData?.active_days || 0}
+                    />
+                    <InfoItem
+                      title={LOCALES[language].UserInfoGameAchievements}
+                      value={hsrInGameInfo?.player?.space_info?.achievement_count}
+                    />
+                    <InfoItem
+                      title={LOCALES[language].UserInfoGameOpenedChests}
+                      value={userData?.chest_num}
+                    />
+                    <InfoItem
+                      title={LOCALES[language].UserInfoGameForgottenHall}
+                      value={`${userMocData?.max_floor || 0}/12`}
+                    />
+                  </View>
+                ) : (
+                  <NoPublicData />
+                )}
+              </View>
+              {/* 其他頁顯示 */}
+              <View
+                className="w-full mb-12"
+                style={{
+                  position: !isGameDataPage ? "relative" : "absolute",
+                  left: !isGameDataPage ? 0 : -10000,
+                  alignItems: "center",
+                  gap: 8,
+                }}
+              >
+                {userComments?.comments ? (
+                  userComments?.comments
+                    ?.slice()
+                    ?.reverse()
+                    ?.map((comment: any) => (
+                      <Comment {...comment} key={comment.id} />
+                    ))
+                ) : (
+                  <NoComment />
+                )}
+              </View>
+              {/* 由 Stargazer 製作 */}
+              {isGameDataPage && (
+                <View className="mb-16 mt-0">
+                  <ProducedByStargazer />
+                </View>
+              )}
+            </AnimatedView>
+          ) : (
+            <Loading />
+          )}
+        </ViewShot>
       </Animated.ScrollView>
     </View>
   );
@@ -340,12 +340,18 @@ const InfoItem = ({
   value: string | number | undefined;
 }) => (
   <View style={{ alignItems: "center" }} className="w-20">
-    <Text className="text-text text-[24px] font-[HY65] leading-5">{value}</Text>
-    <Text className="text-text text-[12px] font-[HY65] leading-5 text-center">{title}</Text>
+    <Text className="text-text text-[24px] font-[HY65] leading-5"
+      style={{
+        paddingTop: 24 * 0.25
+      }}>{value}</Text>
+    <Text className="text-text text-[12px] font-[HY65] leading-5 text-center"
+      style={{
+        paddingTop: 12 * 0.25
+      }}>{title}</Text>
   </View>
 );
 
-const ShareBtn = (props : ShareX) => (
+const ShareBtn = (props: ShareX) => (
   <TouchableOpacity
     className="translate-x-[-2px]"
     onPress={props.onPress}
