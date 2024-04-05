@@ -3,10 +3,10 @@ import React from "react";
 import useCharData from "../../../../../context/CharacterData/hooks/useCharData";
 import useAppLanguage from "../../../../../language/AppLanguage/useAppLanguage";
 import { LOCALES } from "../../../../../../locales";
-import charAdviceRelicMap from "../../../../../../map/character_advice_relic_map";
-import CharWeightList from "../../../../../../data/weight_data/charWeightList.json";
 import charIdMap from "../../../../../../map/character_id_map";
 import charOfficalIdMap from "../../../../../../map/character_offical_id_map";
+import { useEffect, useState } from "react";
+import useCharWeightList from "../../../../../hooks/charWeightList/useCharWeightList";
 
 export default function CharSuggestRelicsProps() {
   const { language: appLanguage } = useAppLanguage();
@@ -19,8 +19,19 @@ export default function CharSuggestRelicsProps() {
     LOCALES[appLanguage].RelicPropLinkRopeShort,
   ];
 
-  const adviceRelics = CharWeightList?.[charIdMap[charId]][0]?.advice_relic_attr;
-  const adviceRelicsSub = CharWeightList?.[charIdMap[charId]][0]?.advice_relic_sub;
+  const [adviceRelics, setAdviceRelics] = useState<Object[]>([])
+  const [adviceRelicsSub, setAdviceRelicsSub] = useState<Object[]>([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      const CharWeightList = await useCharWeightList();
+      setAdviceRelics(CharWeightList?.[charIdMap[charId]][0]?.advice_relic_attr)
+      setAdviceRelicsSub(CharWeightList?.[charIdMap[charId]][0]?.advice_relic_sub)
+      setAlreadyInit(true)
+    }
+    if(!alreadyInit) init();
+  })
 
   return (
     <View className="w-full mt-4 px-6">

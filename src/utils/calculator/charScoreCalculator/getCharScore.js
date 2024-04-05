@@ -1,6 +1,17 @@
-import scoreWeight from "../../../../data/weight_data/charWeightList.json"
-
+import { useEffect , useState } from "react";
+import useCharWeightList from "../../../hooks/charWeightList/useCharWeightList";
 export default function getCharScore(charId, charData) {
+  const [scoreWeight, setScoreWeight] = useState([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setScoreWeight(await useCharWeightList());
+      setAlreadyInit(scoreWeight !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
+
   let maxSchoolDataIndex = 0
   let schoolData = []  
   //若果暫時沒有權重 必須返回空值
@@ -138,6 +149,17 @@ export function getCharRange(score) {
 }
 
 export function getCurrAndGradScore(charId, charData) {
+  const [scoreWeight, setScoreWeight] = useState([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setScoreWeight(await useCharWeightList());
+      setAlreadyInit(scoreWeight !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
+
   const returnValue = [] //返回變量
 
   //若果暫時沒有權重 必須返回空值
@@ -182,6 +204,16 @@ export function getCurrAndGradScore(charId, charData) {
  * 當中Normal = 普攻 ; BPSkill = 戰技 ; Ultra = 終結技 ; Talent = 天賦
  */
 export function getTraceInfo(charId, charData){
+  const [scoreWeight, setScoreWeight] = useState([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setScoreWeight(await useCharWeightList());
+      setAlreadyInit(scoreWeight !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
   //若果暫時沒有權重 必須返回空值
   if(scoreWeight === undefined || scoreWeight[charId] === undefined|| charData === undefined){
     return [];

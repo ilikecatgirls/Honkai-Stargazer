@@ -14,9 +14,10 @@ import CharSuggestRelicsCard from "../CharSuggestRelicsCard/CharSuggestRelicsCar
 import { SCREENS } from "../../../../../constant/screens";
 import { useNavigation } from "@react-navigation/native";
 import charAdviceMap from "../../../../../../map/character_advice_map";
-import CharWeightList from "../../../../../../data/weight_data/charWeightList.json";
 import charIdMap from "../../../../../../map/character_id_map";
 import relicOfficalIdMap from "../../../../../../map/relic_offical_id_map";
+import { useEffect } from "react";
+import useCharWeightList from "../../../../../hooks/charWeightList/useCharWeightList";
 
 export default function CharSuggestRelicsLeft() {
   const { language: textLanguage } = useTextLanguage();
@@ -24,8 +25,21 @@ export default function CharSuggestRelicsLeft() {
   const navigation = useNavigation();
 
   const charId = useCharId();
-  const advices = CharWeightList[charIdMap[charId]][0];
-  const suggestRelics = advices?.advice_relic!;
+
+  const [advices, setAdvices] = useState<Object[]>([])
+  const [suggestRelics, setSuggestRelics] = useState<Object[]>([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      const CharWeightList = await useCharWeightList();
+      
+      setAdvices(CharWeightList[charIdMap[charId]][0]);
+      setSuggestRelics(advices?.advice_relic!);
+      setAlreadyInit(true)
+    }
+    if(!alreadyInit) init();
+  })
 
   const [selectedIndex, setSelectedIndex] = useState(0);
   const handleLeft = () => {

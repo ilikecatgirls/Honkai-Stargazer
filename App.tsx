@@ -20,6 +20,7 @@ import AppLanguageProvider from "./src/language/AppLanguage/AppLanguageProvider"
 import NotificationWrapper from "./src/notifications/NotificationWrapper";
 import { pushExpoNotiType } from "./src/notifications/constant/pushExpoNotiType";
 import { SCREENS } from "./src/constant/screens";
+import checkCharWeightList from "./src/hooks/charWeightList/checkCharWeightList";
 
 
 // import playground for testing
@@ -43,6 +44,9 @@ export default function App() {
     if (Platform.OS === "android") {
       setupNavigationBar();
     }
+
+    //用來檢查評分表
+    checkCharWeightList();
     
   }, []);
 
@@ -50,7 +54,7 @@ export default function App() {
     //HY55: require("./assets/fonts/HYRunYuan-55W.ttf"),
     //HY65: require("./assets/fonts/HYRunYuan-65W.ttf"),
     //HY75: require("./assets/fonts/HYRunYuan-75W.ttf"),
-    HY65: require("./assets/fonts/MiSans-Regular.ttf"),
+    HY65: require("./assets/fonts/MiSans-Medium.ttf"),
   });
 
   const onLayoutRootView = useCallback(async () => {

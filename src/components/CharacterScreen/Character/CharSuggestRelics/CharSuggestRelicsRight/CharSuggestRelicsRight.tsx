@@ -13,20 +13,32 @@ import SelectedIndex from "../ui/SelectedIndex";
 import CharSuggestRelicsCard from "../CharSuggestRelicsCard/CharSuggestRelicsCard";
 import { SCREENS } from "../../../../../constant/screens";
 import { useNavigation } from "@react-navigation/native";
-import charAdviceMap from "../../../../../../map/character_advice_map";
-import CharWeightList from "../../../../../../data/weight_data/charWeightList.json";
 import charIdMap from "../../../../../../map/character_id_map";
 import relicOfficalIdMap from "../../../../../../map/relic_offical_id_map";
+import { useEffect } from "react";
+import useCharWeightList from "../../../../../hooks/charWeightList/useCharWeightList";
 
 export default function CharSuggestRelicsRight() {
   const { language: textLanguage } = useTextLanguage();
   const navigation = useNavigation();
 
   const charId = useCharId();
-  const advices = CharWeightList[charIdMap[charId]][0];
-  const suggestRelics = advices?.advice_ornament!;
 
+  const [advices, setAdvices] = useState<Object[]>([])
+  const [suggestRelics, setSuggestRelics] = useState<Object[]>([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
   const [selectedIndex, setSelectedIndex] = useState(0);
+
+  useEffect(() => {
+    async function init() {
+      const CharWeightList = await useCharWeightList();
+      setAdvices(CharWeightList[charIdMap[charId]][0]);
+      setSuggestRelics(advices?.advice_ornament!);
+      setAlreadyInit(true)
+    }
+    if(!alreadyInit) init();
+  })
+
   const handleLeft = () => {
     setSelectedIndex(
       selectedIndex - 1 < 0 ? suggestRelics?.length - 1 : selectedIndex - 1
@@ -38,7 +50,6 @@ export default function CharSuggestRelicsRight() {
     );
   };
 
-  let relic = relicOfficalIdMap[suggestRelics[selectedIndex]];
   return (
     <View style={{ alignItems: "center", gap: 9 }}>
       <SelectedIndex max={suggestRelics?.length || 0} index={selectedIndex} />
@@ -51,7 +62,20 @@ export default function CharSuggestRelicsRight() {
             columnGap: 8,
           }}
         >
-          <RelicsCard
+          {
+            generateRelicCard(suggestRelics?.[selectedIndex])
+          }
+
+        </View>
+        <RightBtn onPress={handleRight} />
+      </View>
+    </View>
+  );
+
+  function generateRelicCard(relicName : number){
+    let relic = relicOfficalIdMap[relicName]! as RelicName
+    return (
+      <RelicsCard
             key={relic}
             // id={relic}
             name={getRelicFullData(relic, textLanguage)?.name}
@@ -66,10 +90,6 @@ export default function CharSuggestRelicsRight() {
               });
             }}
           />
-
-        </View>
-        <RightBtn onPress={handleRight} />
-      </View>
-    </View>
-  );
+    )
+  }
 }

@@ -12,7 +12,6 @@ import CharAdviceIdMap from "../../../../../map/character_advice_id_map";
 import CharacterImage from "../../../../../assets/images/images_map/chacracterImage";
 import { CharacterName } from "../../../../types/character";
 import useTextLanguage from "../../../../language/TextLanguage/useTextLanguage";
-import CharWeightList from "../../../../../data/weight_data/charWeightList.json";
 import Modal from "react-native-modal";
 import {
   getCharFullData,
@@ -25,6 +24,8 @@ import { useNavigation } from "@react-navigation/native";
 import { SCREENS } from "../../../../constant/screens";
 import PopUpCard from "../../../global/PopUpCard/PopUpCard";
 import { ScrollView } from "react-native-gesture-handler";
+import { useEffect } from "react";
+import useCharWeightList from "../../../../hooks/charWeightList/useCharWeightList";
 
 export default React.memo(function CharSuggestTeamNew() {
   const { language: textLanguage } = useTextLanguage();
@@ -36,7 +37,18 @@ export default React.memo(function CharSuggestTeamNew() {
   const [isSelected, setIsSelected] = useState(false);
   const [optionValue, setOptionValue] = useState("");
   // @ts-ignore
-  const suggestTeamsData = CharWeightList[charOfficialId as string][0]?.team
+  const [suggestTeamsData, setSuggestTeamsData] = useState<Object[]>([])
+  const [CharWeightList, setCharWeightList] = useState<Object[]>([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setCharWeightList(await useCharWeightList());
+      setSuggestTeamsData(CharWeightList[charOfficialId as string][0]?.team)
+      setAlreadyInit(suggestTeamsData !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
 
   const charJsonData = getCharJsonData(charId);
   const charFullData = getCharFullData(charId, textLanguage);

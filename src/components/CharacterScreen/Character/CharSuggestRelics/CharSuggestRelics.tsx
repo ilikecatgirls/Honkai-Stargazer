@@ -10,8 +10,9 @@ import useCharId from "../../../../context/CharacterData/hooks/useCharId";
 import charAdviceMap from "../../../../../map/character_advice_map";
 import { LOCALES } from "../../../../../locales";
 import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
-import CharWeightList from "../../../../../data/weight_data/charWeightList.json";
 import charIdMap from "../../../../../map/character_id_map";
+import { useEffect, useState } from "react";
+import useCharWeightList from "../../../../hooks/charWeightList/useCharWeightList";
 
 // Relic 遺器套裝
 // Ornaments 位面飾品
@@ -23,8 +24,21 @@ export default React.memo(function CharSuggestRelics() {
   const { language } = useAppLanguage();
 
   const charId = useCharId();
-  const advices = CharWeightList[charIdMap[charId]][0];
-  const suggestRelics = advices?.advice_relic!;
+
+  const [advices, setAdvices] = useState<Object[]>([])
+  const [suggestRelics, setSuggestRelics] = useState<Object[]>([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      const CharWeightList = await useCharWeightList();
+      
+      setAdvices(CharWeightList[charIdMap[charId]][0]);
+      setSuggestRelics(advices?.advice_relic!);
+      setAlreadyInit(true)
+    }
+    if(!alreadyInit) init();
+  })
 
   return (
     <View style={{ alignItems: "center" }}>
