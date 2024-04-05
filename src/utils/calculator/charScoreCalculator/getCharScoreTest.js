@@ -1,5 +1,5 @@
-const scoreWeight = require("./data/charWeightList.json");
-const demoCharData = require("./data/charDataDemo.json");
+const scoreWeight = require("../sharedData/charWeightList.json");
+const demoCharData = require("../sharedData/charDataDemo.json");
 
 
 function getCharScore(charId, charData) {
