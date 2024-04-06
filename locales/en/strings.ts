@@ -93,15 +93,15 @@ export const strings = {
   // ui - Memory Of Chaos
   PlayersBattleReport: "${1}'s Battle Chronic",
   PlayersRemainRounds: "${1} Round(s) Remained",
-  PlayersAverageRounds: "${1} Round(s) Average",
+  PlayersAverageRounds: "${1} Round(s) in Average",
   PlayersRounds: "${1} Round(s)",
   // ui - Setting Page
   Navigate: "Navigate",
   SwitchOn: "ON",
   SwitchOff: "OFF",
   AccountSetup: "Account Setup (${1})",
-  UseInviteCode: "Use Invite Code",
-  HaveNotUsed: "Haven't Used",
+  UseInviteCode: "Use the Invite Code",
+  HaveNotUsed: "Haven't Used it yet",
   LanguageSetup: "Language Setup",
   DocumentLanguage: "Document Language",
   AppLanguage: "App Language",
@@ -125,9 +125,9 @@ export const strings = {
   SpecialThanks: "Special Thanks",
   SpecialThanksDevs: "Developers",
   SpecialThanksOpenSource: "Open Source Thanks",
-  SelectAccountInServer: "Please select the server you are playing.",
+  SelectAccountInServer: "Please select the server you are playing on.",
   ManuallySetup: "Setup Manually",
-  SelectServerTitle: "Select Server",
+  SelectServerTitle: "Select the Server",
   RemarksInLogin: "Login Remarks",
   CopyToClipBoard: "Copied to Clipboard ~",
   FailToCopy: "Failed to Copy : ",
@@ -138,14 +138,14 @@ export const strings = {
   HasCopy: "Copied",
   // toast
   PleaseLogin: "Please login first!",
-  //Add in 20240114
-  UserInfoLastLoginAt: "${1} Before",
+  //Add in 20240114 - User Info Page
+  UserInfoLastLoginAt: "${1} Before", //E.g. 10 Days Before / 30mins Before || In the User Info Page -> Status, which shows how long does he/she offline
   UserInfoGameData: "Game Data",
   UserInfoStatus: "Status",
   UserInfoGamePlayerLevel: "Trailblaze Lvl.",
   UserInfoCountComments: "Comments",
-  UserInfoGameWorldLevel: "Equili. Lvl.",
-  UserInfoLastOnlineTime: "Last Online At",
+  UserInfoGameWorldLevel: "Equili. Lvl.", //Equilibrium level
+  UserInfoLastOnlineTime: "Last Online Time",
   UserInfoOwnedCharacters: "Characters",
   UserInfoGameActiveDays: "Active Days",
   UserInfoGameAchievements: "Achievements",
@@ -156,10 +156,10 @@ export const strings = {
   ProducedByStargazer: "Produced By Stargazer",
   //Add in 20240114 - After 2.0.15
   NoOnlineData: "No record",
-  //Add in 20240115
+  //Add in 20240115 - Lightcone Info Page Buttons
   LightconeEffect: "Lightcone Effect",
   LightconeStory: "Lightcone Story",
-  //Add in 20240116
+  //Add in 20240116 - For identify the relic sub stat
   UseBlurEffect: "Use Blur Effect",
   ATTR_CRIT_RATE: "CritRate",
   ATTR_CRIT_DMG: "CritDMG",
@@ -184,17 +184,17 @@ export const strings = {
   ATTR_SP_RATE: "Energy Regen.",
   ATTR_HEAL_RATE: "Heal Bonus",
 
-  //Add in 20240117
+  //Add in 20240117 - Setting Page
   UnLockAll: "Unlock All",
   BlurOn: "Blur : ON",
   BlurOff: "Blur : OFF",
-  GetCharAndUnLock: "Unlock when owned he/her",
+  GetCharAndUnLock: "Unlock when u get that character.",
   Leaderboard: "Leaderboard",
   UIDSearch: "UID Search",
-  PublicChars: "Disclose characters",
+  PublicChars: "Disclose owned characters",
   Switch: "Switch",
 
-  //Add in 20240118
+  //Add in 20240118 - User Character Info Page
   Comments: "${1} Comments",
   UserOwned: "Owned",
   FullEidolon: "E6",
@@ -206,15 +206,15 @@ export const strings = {
   Superimpose: "Superimpose ${1}", //疊影
   RelicScore: "Relic Score",
   CharScore: "Char. Score",
-  RelicRank: "Relic Rank",
-  CharRank: "Char. Rank",
-  CharGradRate: "Char. Grad%",
-  LackOfUserData: "No leaderboard since lack of user data",
+  RelicRank: "Relic Rank", //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
+  CharRank: "Char. Rank", //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
+  CharGradRate: "Char. Grad%", //In the User Character's Info Page, showing percentage of character's graduation
+  LackOfUserData: "This leaderboard has no results due to lack of user data",
   LeaderboardOver: "Over ${1}% Users",
-  LeaderboardDataFrom: "(Data from All logged in user)",
+  LeaderboardDataFrom: "(Data were from All logged in users)",
   AppStatusLoading: "PomPom is Praying",
   AppStatusLostConnect: "Lost connection with Train...",
-  AppStatusPlayerNoReleaseData: "Player didn't disclose his/her data",
+  AppStatusPlayerNoReleaseData: "The player didn't disclose his/her data",
   AppStatusNoDataFound: "No Data Found ...",
   CharSoul: "Eidolon ${1}",
   StatusNow: "Now",
@@ -224,15 +224,17 @@ export const strings = {
   StatusDays: "${1}d",
   StatusToday: "Today ${1}",
   StatusTomorrow: "TMR ${1}",
-  SuperimposeLvl: "Sup.${1}",
-  SuperimposeNotEquipped: "N/A",
-  TrailblazerNoti: "Trailblazer Notification!",
+  SuperimposeLvl: "Sup.${1}", //Lightcone Superimpose Level
+  SuperimposeNotEquipped: "N/A", //That character is not equipping any lightcones
+  TrailblazerNoti: "Trailblazer Notification!", //Notification
+  // Character Page Comment Function
   CommentFailed: "Failed to comment, error : ",
   CommentPlsEnterComment: "Please enter your comment",
   CommentHaventLogin: "Please login first!",
   CommentSuccessful: "Success!",
   CommentTextInputHint: "Help me, Mr. Svarog!",
   CommentInDiscussion: "In \"${1}'s Disccusion\"",
+  // Memory Of Chaos (Leaderboard, MOC info)
   MOCMissionInfoTitle: "Mission Info",
   MOCSkipped: "Skipped",
   MOCMissionPart1: "Part I",
@@ -254,21 +256,25 @@ export const strings = {
   MOCShowMore: "Show More",
   MOCRounds: "${1} Rounds",
   MOCStars: "${1} Stars",
+  //UID Search
   Searching: "Searching...",
   UIDEnter: "Please Enter UID",
   UIDFormatError: "UID Format Error",
   UIDNoData: "No Data",
   UIDSearchRecord: "Search Records",
   UIDSearchRecordClear: "Clear",
+  //Redeem Star Rail Code
   RedeemCodeForever: "Forever",
   RedeemCodeUntil: "Until ${1}",
   RedeemCodeExpired: "Expired",
+  //Setting Page
   SettingPersonalPage: "Show Personal Page",
   SettingPersonalPageShow: "Show",
   SettingPersonalPageDisable: "Disable",
-  SettingChangedWallpaper: "Changed wallpaper to \"${1}\"",
-  SettingSaveWallpaperSuccess: "Saved wallpaper successfully",
+  SettingChangedWallpaper: "The wallpaper was set to \"${1}\"",
+  SettingSaveWallpaperSuccess: "Saved the wallpaper successfully",
   SettingSaveWallpaperError: "Error on saving wallpaper : ",
+  //Toast display / Donation Bar at the Home Page's bottom
   FunctionStillInDevelop: "This function is still in development",
   LoginEnterCookies: "Please enter Cookies!",
   ConfirmBTN: "Confirm",
@@ -276,57 +282,58 @@ export const strings = {
   ShareError: "Share Failed : ",
   CodeAll: "ALL Servers",
   CharSoulShort: "E${1}",
-  PlsDonateUs: "Pls consider to donate for supporting us, thx!",
+  PlsDonateUs: "Pls, consider donating to support us, thx!",
   DonateInRandomCount: "Random",
-  //20240122
+  //20240122 -> Home Page Button
   MemoryOfChaosShort: "MOC",
   ScoreLevel: "Proficiency",
   MemoryOfChaosLeaderboard: "MOC Leaderboard",
   ScoreLevelLeaderboard: "Proficiency Leaderboard",
-  //20240125
+  //20240125 -> Home Page Button
   PureFiction: "Pure Fiction",
-  //20240126
+  //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
   PureFictionShort: "Pure",
   PureFictionLeaderboard: "Pure Leaderboard",
-  About: "About",
-  AboutTheApp: "About Stargazer",
-  PFScore: "${1} pts",
+  About: "About", //Short form for display in Home Page
+  AboutTheApp: "About Stargazer", //Full form for display in Setting Page
+  PFScore: "${1} pts", //Pure Fiction Score, in Pure Fiction Leaderboard
   //20240127
   EventDuration: "Duration",
   //20240128
   Upgrade: "Upgrade",
-  OverWholeServerUser: "Top ${1}% of all users in record",
+  OverWholeServerUser: "Top ${1}% of all users in record", //In the bottom of User Character's Info Page
   //20240129
-  NoCommentYet: "No comments yet ...",
+  NoCommentYet: "No comments yet ...", //User Info Page -> Status 
   //20240131
-  SourceCode: "Source Code",
+  SourceCode: "Source Code", //Navigate User to read codes in GitHub, belongs to the "About" page
   PrevPage: "Previous Page",
   NextPage: "Next Page",
-  //20240209 - Lottery
+  //20240209 - Wrap Simulator
   LotterySimulator: "Wrap Simulator",
   MakeOnePull: "Wrap x1",
   MakeTenPull: "Wrap x10",
   TutorialVideo: "Instructional Video",
+  //Donation Message
   DonationDesc: 'Thanks for your donation, your support is important for us in improving this app, all donations will be used in <span style="color:#DD8200;">Necessary Expenses</span> and <span style="color:#DD8200;">Other Improvements</span>.',
   DonateUs: 'Donate Us',
   ShareToOthers: "Trailblazers, the vast universe is full of endless secrets, and on your journey to pursue the secrets, a reliable guide will help you! Stargazer is not only a Star Rail Assistant App that includes development suggestions, data query, training ranking, and other functions, but also a powerful partner for your exploration journey! Download now and start your own interstellar adventure!\nApp Store : ${AppStoreLink}\nPlay Store : ${PlayStoreLink}",
   //20240218 - Common Errors
-  ErrorDonationInBeta: "Donation is not available in BETA",
+  ErrorDonationInBeta: "Donation is not available in BETA", //Errors when user try to use in-app-purchase in BETA version, deprecated
   ErrorIdentifier: "Unable for find the donation...",
-  ErrorPurchaseAlready: "Please wait a minute and retry again",
+  ErrorPurchaseAlready: "Please try again in one minute.",
   //20240219 - Permissions and isNotch ...
-  ErrorscreenshotPermissionRejected: "Permission for accessing screenshot was rejected, please press the button again/ grant the permission in system setting.",
-  UserCustomHasNotch: "Notch Adaptation",
-  UserCustomHasDynamicIsland: "Dynamic Island Adaptation",
-  //20240302 - LotteryRecord
+  ErrorscreenshotPermissionRejected: "Permission for accessing the screenshot was rejected, please press the button again/ grant the permission in the system settings.",
+  UserCustomHasNotch: "Notch Adaptation", //The buttom button / geasure bar
+  UserCustomHasDynamicIsland: "Dynamic Island Adaptation", //iPhone 15 new design (靈動島)
+  //20240302 - Wrap Simulator (Record page) 
   LotterySimulatorRecord: "Wrap Simulator Record",
-  LotterySimulatorRecordNotice: "Records shown below are NOT from in-game, only from Simulator",
+  LotterySimulatorRecordNotice: "The records shown below are from the emulator and have nothing to do with game data.",
   LotteryRecordType: "Type",
   LotteryRecordName: "Name",
   LotteryRecordTime: "Time",
   //20240308 ~ 0311 - Wrap Analysis
   WrapAnalysis: "Wrap Analysis",
-  WrapNeedInit: "No reviews yet. Please click the button in the bottom-let corner to import the wrap URL.",
+  WrapNeedInit: "No reviews yet. Please click the button in the bottom-let corner to import the Wrap URL.",
   WrapCharPool: "Character Event Wrap",
   WrapLcPool: "Lightcone Event Wrap",
   WrapStaticPool: "Regular Wrap",
@@ -339,21 +346,21 @@ export const strings = {
   WrapTotalPull: "Total Pulled",
   WrapPopUpURLTitle: "Paste the Wrap URL",
   WrapPopUpURLInfo: "Please paste the Wrap URL below",
-  WrapPopUpURLToast: "Please enter the Wrap URL!",
-  WrapPopUpURLTextArea: "Pleas put the Wrap URL in there",
+  WrapPopUpURLToast: "Please enter the Wrap URL!", //Show when u don't enter the URL / token in Toast
+  WrapPopUpURLTextArea: "Please enter the Wrap URL here",
   WrapPopUpURLTutorial: "How to get the Wrap URL?",
   WrapPopUpURLAnalysisButton: "Analysis",
-  WrapPopUpURLProgress: "Analysis Progess : Page ${2} of ${1}",
-  //20240325
+  WrapPopUpURLProgress: "Analysis Progess : Page ${2} of ${1}",//Show when it's reading your Wrap Record one-by-one from official server
+  //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
   AppInnerVersionCode: "Codename",
-  //20240328
-  VisitToDCServer: "Please visit our Discord Server for getting solutions / help",
-  //20240403
-  UseCookiesToLogin: "Login via Cookies",
-  PressToView: "Press To View",
-  MatchRequirementChar: "Characters that matched【${1}】",
-  RequirementOR: " OR ",
-  RequirementAND: " AND ",
+  //20240328 - Wrap Analysis 
+  VisitToDCServer: "Please visit our Discord Server to get solutions/help",
+  //20240403 - New Update
+  UseCookiesToLogin: "Login via Cookies", //Replaced "ManuallySetup"
+  PressToView: "Press To View", //Character Info -> Advice Team
+  MatchRequirementChar: "Characters that matched【${1}】", //Character Info -> Advice Team -> Press To View
+  RequirementOR: " OR ", //Character Info -> Advice Team -> Press To View
+  RequirementAND: " AND ", //Character Info -> Advice Team -> Press To View
 
 
 };
