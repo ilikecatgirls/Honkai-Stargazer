@@ -15,7 +15,7 @@ import { Image } from "expo-image";
 import { useNavigation } from "@react-navigation/native";
 import useUserCharactersByUUID from "../../../../firebase/hooks/UserCharacters/useUserCharactersByUUID";
 import useUserByUUID from "../../../../firebase/hooks/User/useUserByUUID";
-import { Question } from "phosphor-react-native";
+import { Question, TrendUp } from "phosphor-react-native";
 import PopUpCard from "../../../global/PopUpCard/PopUpCard";
 import ReactNativeModal from "react-native-modal";
 import officalLightconeId from "../../../../../map/lightcone_offical_id_map";
@@ -70,7 +70,7 @@ export default React.memo(function UserInfoCharacters(props: Props , {isCapture}
         rank: char?.light_cone?.rank,
       },
     };
-  });
+  })
 
   const inGameCharactersIds: any[] = inGameCharacters?.map(
     (char: any) => char.id
@@ -265,7 +265,7 @@ export default React.memo(function UserInfoCharacters(props: Props , {isCapture}
                   dbUserCharacters,
                   (isOwner || isShowInfo) && userCharacters
                 )
-                  ?.slice(0, showMoreChars ? 50 : 8)
+                  ?.slice(0, showMoreChars ? undefined : 0) //這邊的undefined是為避免有超過50位角色而更改的, 0則是合理化設計
                   ?.map((char: any) => (
                     <CharCard
                       key={char.id}

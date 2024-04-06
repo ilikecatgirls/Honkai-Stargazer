@@ -68,7 +68,7 @@ export default function LoginScreen() {
         sharedCookiesEnabled
         thirdPartyCookiesEnabled={true}
         cacheEnabled={true}
-        setSupportMultipleWindows={false}
+        setSupportMultipleWindows={true}
         //userAgent={DeviceInfo.getUserAgentSync().replace("wv", "")} //Key of the Google Login
         originWhitelist={["*"]}
         source={{
