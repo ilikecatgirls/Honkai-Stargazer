@@ -138,13 +138,15 @@ export const strings = {
   HasCopy: "已複製",
   // toast
   PleaseLogin: "請先登入！",
-  //Add in 20240114
+  //Add in 20240114 - User Info Page
   UserInfoLastLoginAt: "${1}前",
+  //E.g. 10 Days Before / 30mins Before || In the User Info Page -> Status, which shows how long does he/she offline
   UserInfoGameData: "遊戲數據",
   UserInfoStatus: "動態",
   UserInfoGamePlayerLevel: "開拓等級",
   UserInfoCountComments: "留言數",
   UserInfoGameWorldLevel: "均衡等级",
+  //Equilibrium level
   UserInfoLastOnlineTime: "上次上線",
   UserInfoOwnedCharacters: "擁有角色",
   UserInfoGameActiveDays: "活躍天數",
@@ -156,10 +158,10 @@ export const strings = {
   ProducedByStargazer: "由 Stargazer 製作",
   //Add in 20240114 - After 2.0.15
   NoOnlineData: "無上線紀錄",
-  //Add in 20240115
+  //Add in 20240115 - Lightcone Info Page Buttons
   LightconeEffect: "光錐效果",
   LightconeStory: "光錐故事",
-  //Add in 20240116
+  //Add in 20240116 - For identify the relic sub stat
   UseBlurEffect: "使用模糊效果",
   ATTR_CRIT_RATE: "暴擊率",
   ATTR_CRIT_DMG: "暴擊傷害",
@@ -183,7 +185,7 @@ export const strings = {
   ATTR_PHYSICAL_DMG: "物理傷害提高",
   ATTR_SP_RATE: "能量恢復效率",
   ATTR_HEAL_RATE: "治療量加成",
-  //Add in 20240117
+  //Add in 20240117 - Setting Page
   UnLockAll: "解鎖全部",
   BlurOn: "模糊：開啟",
   BlurOff: "模糊：關閉",
@@ -192,7 +194,7 @@ export const strings = {
   UIDSearch: "UID查詢",
   PublicChars: "公開角色",
   Switch: "切換",
-  //Add in 20240118
+  //Add in 20240118 - User Character Info Page
   Comments: "${1}條評論",
   UserOwned: "已擁有",
   FullEidolon: "滿命",
@@ -211,8 +213,11 @@ export const strings = {
   RelicScore: "遺器評分",
   CharScore: "角色評分",
   RelicRank: "遺器評價",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharRank: "角色評價",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharGradRate: "角色畢業率",
+  //In the User Character's Info Page, showing percentage of character's graduation
   LackOfUserData: "用戶量不足 暫無排行",
   LeaderboardOver: "超過${1}%用戶",
   LeaderboardDataFrom: "（數據來自已登入用戶）",
@@ -229,14 +234,19 @@ export const strings = {
   StatusToday: "今天 ${1}",
   StatusTomorrow: "明天 ${1}",
   SuperimposeLvl: "${1}階",
+  //Lightcone Superimpose Level
   SuperimposeNotEquipped: "沒裝備",
+  //That character is not equipping any lightcones
   TrailblazerNoti: "開拓者快訊",
+  //Notification
+  // Character Page Comment Function
   CommentFailed: "留言失敗，錯誤訊息：",
   CommentPlsEnterComment: "請輸入訊息！",
   CommentHaventLogin: "您尚未登入！",
   CommentSuccessful: "留言成功！",
   CommentTextInputHint: "幫幫我 史瓦羅先生！",
   CommentInDiscussion: "在「${1}」的評論區",
+  // Memory Of Chaos (Leaderboard, MOC info)
   MOCMissionInfoTitle: "關卡資訊",
   MOCSkipped: "快速通關",
   MOCMissionPart1: "其一",
@@ -258,21 +268,25 @@ export const strings = {
   MOCShowMore: "展示更多",
   MOCRounds: "${1}輪",
   MOCStars: "${1}星",
+  //UID Search
   Searching: "搜尋中...",
   UIDEnter: "請輸入 UID",
   UIDFormatError: "UID 格式錯誤",
   UIDNoData: "查無資料",
   UIDSearchRecord: "查詢記錄",
   UIDSearchRecordClear: "清除",
+  //Redeem Star Rail Code
   RedeemCodeForever: "永久",
   RedeemCodeUntil: "直至${1}",
   RedeemCodeExpired: "已過期",
+  //Setting Page
   SettingPersonalPage: "展示個人頁面",
   SettingPersonalPageShow: "展示",
   SettingPersonalPageDisable: "隱藏",
   SettingChangedWallpaper: "已切換成壁紙 「${1}」",
   SettingSaveWallpaperSuccess: "成功儲存壁紙",
   SettingSaveWallpaperError: "儲存壁紙 : ",
+  //Toast display / Donation Bar at the Home Page's bottom
   FunctionStillInDevelop: "此功能仍在開發中",
   LoginEnterCookies: "請輸入 cookie！",
   ConfirmBTN: "確定",
@@ -282,47 +296,57 @@ export const strings = {
   CharSoulShort: "魂 ${1}",
   PlsDonateUs: "請考慮透過捐贈支持我們，謝謝！",
   DonateInRandomCount: "隨機",
-  //20240122
+  //20240122 -> Home Page Button
   MemoryOfChaosShort: "混沌",
   ScoreLevel: "練度",
   MemoryOfChaosLeaderboard: "混沌排行榜",
   ScoreLevelLeaderboard: "練度排行榜",
-  //20240125
+  //20240125 -> Home Page Button
   PureFiction: "虛構敘事",
-  //20240126
+  //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
   PureFictionShort: "虛構",
   PureFictionLeaderboard: "虛構排行榜",
   About: "關於",
+  //Short form for display in Home Page
   AboutTheApp: "關於 Stargazer",
+  //Full form for display in Setting Page
   PFScore: "${1}分",
+  //Pure Fiction Score, in Pure Fiction Leaderboard
   //20240127
   EventDuration: "活動期間",
   //20240128
   Upgrade: "提升",
   OverWholeServerUser: "超過全服 ${1}% 用戶",
+  //In the bottom of User Character's Info Page
   //20240129
   NoCommentYet: "還沒有留言...",
+  //User Info Page -> Status 
   //20240131
   SourceCode: "原始碼",
+  //Navigate User to read codes in GitHub, belongs to the "About" page
   PrevPage: "上一頁",
   NextPage: "下一頁",
-  //20240209 - Lottery
+  //20240209 - Wrap Simulator
   LotterySimulator: "躍遷模擬",
   MakeOnePull: "躍遷1次",
   MakeTenPull: "躍遷10次",
   TutorialVideo: "教學影片",
+  //Donation Message
   DonationDesc: "感謝您的捐贈，有您的支持我們才能更好地完善本App，所有捐贈都將用於Stargazer的<span style=\"color:#DD8200;\">必要支出</span>和<span style=\"color:#DD8200;\">其他提升</span>。",
   DonateUs: "捐贈",
   ShareToOthers: "開拓者們，浩瀚的宇宙中充滿了無盡的秘密，而在追尋秘密的旅途中，一位可靠的嚮導將助你一臂之力！ 星穹觀星者不僅是個包含養成建議、資料查詢、練度排名等功能的星穹鐵道小助手 App，更是你探索之旅的得力夥伴！ 立即下載，開啟屬於你的星際冒險之旅！ \nApp Store：${AppStoreLink}\nPlay Store：${PlayStoreLink}",
   //20240218 - Common Errors
   ErrorDonationInBeta: "BETA不開放App内捐贈哦~",
+  //Errors when user try to use in-app-purchase in BETA version, deprecated
   ErrorIdentifier: "暫時沒法找到該捐贈選項...",
   ErrorPurchaseAlready: "請在一分鐘後重試",
   //20240219 - Permissions and isNotch ...
   ErrorscreenshotPermissionRejected: "申請獲取存取截圖權限被拒絕，請重新按下按鈕/到系統設定允許存取權限。",
   UserCustomHasNotch: "瀏海屏適配",
+  //The buttom button / geasure bar
   UserCustomHasDynamicIsland: "動態島適配",
-  //20240302 - LotteryRecord
+  //iPhone 15 new design (靈動島)
+  //20240302 - Wrap Simulator (Record page) 
   LotterySimulatorRecord: "躍遷模擬紀錄",
   LotterySimulatorRecordNotice: "此處僅顯示躍遷模擬紀錄，並非遊戲內躍遷紀錄",
   LotteryRecordType: "類型",
@@ -344,18 +368,24 @@ export const strings = {
   WrapPopUpURLTitle: "粘貼躍遷連結",
   WrapPopUpURLInfo: "請在下方粘貼躍遷連結",
   WrapPopUpURLToast: "請輸入躍遷連結！",
+  //Show when u don't enter the URL / token in Toast
   WrapPopUpURLTextArea: "躍遷連結請放在這裏~",
   WrapPopUpURLTutorial: "如何獲取連結？",
   WrapPopUpURLAnalysisButton: "分析",
   WrapPopUpURLProgress: "分析進度 : ${1} 第${2}頁",
-  //20240325
+  //Show when it's reading your Wrap Record one-by-one from official server
+  //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
   AppInnerVersionCode: "開發代號",
-  //20240328
+  //20240328 - Wrap Analysis 
   VisitToDCServer: "請到我們的Discord伺服器獲取解決方法/協助",
-  //20240403
+  //20240403 - New Update
   UseCookiesToLogin: "透過Cookies登入",
+  //Replaced "ManuallySetup"
   PressToView: "按我查看",
+  //Character Info -> Advice Team
   MatchRequirementChar: "符合【${1}】要求的角色",
+  //Character Info -> Advice Team -> Press To View
   RequirementOR: "或",
-  RequirementAND: "和"
+  //Character Info -> Advice Team -> Press To View
+  RequirementAND: "和" //Character Info -> Advice Team -> Press To View
 };

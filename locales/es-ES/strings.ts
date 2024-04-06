@@ -6,7 +6,7 @@ export const strings = {
   twhkmo: "TW HK MO",
   cn1: "星穹列车",
   cn2: "无名客",
-  Trailblazer: "Traza caminos",
+  Trailblazer: "Trazacaminos",
   // path
   Abundance: "Abundancia",
   Destruction: "Destrucción",
@@ -26,8 +26,8 @@ export const strings = {
   // relic
   RelicPropBody: "Cuerpo",
   RelicPropFeet: "Pies",
-  RelicPropPlanarSphere: "Esfera Planar",
-  RelicPropLinkRope: "Cuerda de lino",
+  RelicPropPlanarSphere: "Esfera de plano",
+  RelicPropLinkRope: "Cuerda de unión",
   RelicPropBodyShort: "Cuerpo",
   RelicPropFeetShort: "Pies",
   RelicPropPlanarSphereShort: "Esfera",
@@ -93,15 +93,15 @@ export const strings = {
   // ui - Memory Of Chaos
   PlayersBattleReport: "Batalla crónica de ${1}",
   PlayersRemainRounds: "${1} Ronda(s) Restante",
-  PlayersAverageRounds: "${1} Ronda(s) Promedio",
+  PlayersAverageRounds: "${1} Round(s) in Average",
   PlayersRounds: "${1} Ronda(s)",
   // ui - Setting Page
   Navigate: "Navegar",
   SwitchOn: "Encendido",
   SwitchOff: "Apagado",
   AccountSetup: "Configuración de cuenta (${1})",
-  UseInviteCode: "Usar código de invitación",
-  HaveNotUsed: "No ha sido utilizado",
+  UseInviteCode: "Use the Invite Code",
+  HaveNotUsed: "Haven't Used it yet",
   LanguageSetup: "Configuración de Idioma",
   DocumentLanguage: "Idioma del Documento",
   AppLanguage: "Idioma de la Aplicación",
@@ -125,27 +125,29 @@ export const strings = {
   SpecialThanks: "Gracias Especiales",
   SpecialThanksDevs: "Desarrolladores",
   SpecialThanksOpenSource: "Código Abierto Gracias",
-  SelectAccountInServer: "Por favor, seleccione el servidor que está reproduciendo.",
+  SelectAccountInServer: "Please select the server you are playing on.",
   ManuallySetup: "Configuración manual",
-  SelectServerTitle: "Seleccionar Servidor",
+  SelectServerTitle: "Select the Server",
   RemarksInLogin: "Comentarios de acceso",
   CopyToClipBoard: "Copiado al Portapapeles ~",
   FailToCopy: "Error al Copiar: ",
   // ui - WallPaper Page
   SaveWallPaper: "Guardar",
-  SetWallPaper: "Configurar",
+  SetWallPaper: "Aplicar",
   // ui - Code Page
   HasCopy: "Copiado",
   // toast
   PleaseLogin: "¡Inicie sesión primero!",
-  //Add in 20240114
+  //Add in 20240114 - User Info Page
   UserInfoLastLoginAt: "${1} Antes",
+  //E.g. 10 Days Before / 30mins Before || In the User Info Page -> Status, which shows how long does he/she offline
   UserInfoGameData: "Datos del juego",
   UserInfoStatus: "Estado",
   UserInfoGamePlayerLevel: "Nivel de Traza caminos",
   UserInfoCountComments: "Comentarios",
   UserInfoGameWorldLevel: "Equili. Lvl.",
-  UserInfoLastOnlineTime: "Última conexión en",
+  //Equilibrium level
+  UserInfoLastOnlineTime: "Last Online Time",
   UserInfoOwnedCharacters: "Personajes",
   UserInfoGameActiveDays: "Días activos",
   UserInfoGameAchievements: "Logros",
@@ -156,10 +158,10 @@ export const strings = {
   ProducedByStargazer: "Producido por Stargazer",
   //Add in 20240114 - After 2.0.15
   NoOnlineData: "Sin registro",
-  //Add in 20240115
+  //Add in 20240115 - Lightcone Info Page Buttons
   LightconeEffect: "Efecto de Conos de luz",
   LightconeStory: "Historia de Conos de luz",
-  //Add in 20240116
+  //Add in 20240116 - For identify the relic sub stat
   UseBlurEffect: "Usar efecto de desenfoque",
   ATTR_CRIT_RATE: "Golpe crítico",
   ATTR_CRIT_DMG: "Daño crítico",
@@ -183,16 +185,16 @@ export const strings = {
   ATTR_PHYSICAL_DMG: "Daño físico",
   ATTR_SP_RATE: "Regeneración Energía",
   ATTR_HEAL_RATE: "Bono de Curación",
-  //Add in 20240117
+  //Add in 20240117 - Setting Page
   UnLockAll: "Desbloquear Todo",
   BlurOn: "Desenfoque: ACTIVADO",
   BlurOff: "Desenfoque: APAGADO",
-  GetCharAndUnLock: "Desbloquear cuando sea de su propiedad",
+  GetCharAndUnLock: "Unlock when u get that character.",
   Leaderboard: "Tabla de clasificación",
   UIDSearch: "Buscar UID",
-  PublicChars: "Mostrar caracteres",
+  PublicChars: "Disclose owned characters",
   Switch: "Interruptor",
-  //Add in 20240118
+  //Add in 20240118 - User Character Info Page
   Comments: "${1} Comentarios",
   UserOwned: "Ya tengo",
   FullEidolon: "E6",
@@ -211,14 +213,17 @@ export const strings = {
   RelicScore: "Puntuación Reliquias",
   CharScore: "Puntuación del Carácter",
   RelicRank: "Rango de Reliquia",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharRank: "Rango del Carácter",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharGradRate: "Grado del Personaje",
-  LackOfUserData: "Sin clasificación debido a la falta de datos del usuario",
+  //In the User Character's Info Page, showing percentage of character's graduation
+  LackOfUserData: "This leaderboard has no results due to lack of user data",
   LeaderboardOver: "Más de ${1}% usuarios",
-  LeaderboardDataFrom: "(Datos de todo el usuario conectado)",
+  LeaderboardDataFrom: "(Data were from All logged in users)",
   AppStatusLoading: "PomPom está Orando",
   AppStatusLostConnect: "Conexión perdida con el tren...",
-  AppStatusPlayerNoReleaseData: "Jugador no reveló sus datos",
+  AppStatusPlayerNoReleaseData: "The player didn't disclose his/her data",
   AppStatusNoDataFound: "No se encontraron datos...",
   CharSoul: "Eidolón ${1}",
   StatusNow: "Ahora",
@@ -229,14 +234,19 @@ export const strings = {
   StatusToday: "Hoy ${1}",
   StatusTomorrow: "Mañana ${1}",
   SuperimposeLvl: "S.${1}",
+  //Lightcone Superimpose Level
   SuperimposeNotEquipped: "N/A",
+  //That character is not equipping any lightcones
   TrailblazerNoti: "¡Notificación de Traza caminos!",
+  //Notification
+  // Character Page Comment Function
   CommentFailed: "Error al comentar, error: ",
   CommentPlsEnterComment: "Por favor introduzca un comentario",
   CommentHaventLogin: "¡Inicie sesión primero!",
   CommentSuccessful: "¡Éxito!",
   CommentTextInputHint: "¡Ayúdame, señor Svarog!",
   CommentInDiscussion: "En la Discusión de \"${1}\"",
+  // Memory Of Chaos (Leaderboard, MOC info)
   MOCMissionInfoTitle: "Información de Misión",
   MOCSkipped: "Omitidos",
   MOCMissionPart1: "Parte I",
@@ -258,21 +268,25 @@ export const strings = {
   MOCShowMore: "Mostrar más",
   MOCRounds: "${1} Rondas",
   MOCStars: "${1} Estrellas",
+  //UID Search
   Searching: "Buscando...",
   UIDEnter: "Por favor Ingrese UID",
   UIDFormatError: "Error de Formato UID",
   UIDNoData: "No hay datos",
   UIDSearchRecord: "Buscar registros",
   UIDSearchRecordClear: "Borrar",
+  //Redeem Star Rail Code
   RedeemCodeForever: "Por siempre",
   RedeemCodeUntil: "Hasta ${1}",
   RedeemCodeExpired: "Expirado",
+  //Setting Page
   SettingPersonalPage: "Mostrar página personal",
   SettingPersonalPageShow: "Mostrar",
   SettingPersonalPageDisable: "Deshabilitar",
-  SettingChangedWallpaper: "Fondo de pantalla cambiado a \"${1}\"",
-  SettingSaveWallpaperSuccess: "Fondo de pantalla guardado correctamente",
+  SettingChangedWallpaper: "The wallpaper was set to \"${1}\"",
+  SettingSaveWallpaperSuccess: "Saved the wallpaper successfully",
   SettingSaveWallpaperError: "Error al guardar fondo de pantalla: ",
+  //Toast display / Donation Bar at the Home Page's bottom
   FunctionStillInDevelop: "Esta función todavía está en desarrollo",
   LoginEnterCookies: "¡Por favor ingrese Cookies!",
   ConfirmBTN: "Confirmar",
@@ -280,82 +294,98 @@ export const strings = {
   ShareError: "Fallo al compartir: ",
   CodeAll: "Todos los servidores",
   CharSoulShort: "E${1}",
-  PlsDonateUs: "¡Considera donar para apoyarnos, por favor!",
+  PlsDonateUs: "Pls, consider donating to support us, thx!",
   DonateInRandomCount: "Aleatorio",
-  //20240122
-  MemoryOfChaosShort: "MOC",
-  ScoreLevel: "Proficiency",
-  MemoryOfChaosLeaderboard: "MOC Leaderboard",
-  ScoreLevelLeaderboard: "Proficiency Leaderboard",
-  //20240125
-  PureFiction: "Pure Fiction",
-  //20240126
-  PureFictionShort: "Pure",
-  PureFictionLeaderboard: "Pure Leaderboard",
-  About: "About",
-  AboutTheApp: "About Stargazer",
-  PFScore: "${1} pts",
+  //20240122 -> Home Page Button
+  MemoryOfChaosShort: "Memoria Del Caos",
+  ScoreLevel: "Clasificación",
+  MemoryOfChaosLeaderboard: "Clasificación MOC",
+  ScoreLevelLeaderboard: "Tabla de clasificación",
+  //20240125 -> Home Page Button
+  PureFiction: "Pura Ficción",
+  //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
+  PureFictionShort: "Pura Fic",
+  PureFictionLeaderboard: "Clasificación Pura Ficción",
+  About: "Acerca",
+  //Short form for display in Home Page
+  AboutTheApp: "Acerca de Stargazer",
+  //Full form for display in Setting Page
+  PFScore: "${1} ptos",
+  //Pure Fiction Score, in Pure Fiction Leaderboard
   //20240127
-  EventDuration: "Duration",
+  EventDuration: "Duración",
   //20240128
-  Upgrade: "Upgrade",
-  OverWholeServerUser: "Top ${1}% of all users in record",
+  Upgrade: "Mejorar",
+  OverWholeServerUser: "Top ${1}% de todos los usuarios registrados",
+  //In the bottom of User Character's Info Page
   //20240129
-  NoCommentYet: "No comments yet ...",
+  NoCommentYet: "Aún no hay comentarios ...",
+  //User Info Page -> Status 
   //20240131
-  SourceCode: "Source Code",
-  PrevPage: "Previous Page",
-  NextPage: "Next Page",
-  //20240209 - Lottery
-  LotterySimulator: "Wrap Simulator",
-  MakeOnePull: "Wrap x1",
-  MakeTenPull: "Wrap x10",
-  TutorialVideo: "Instructional Video",
-  DonationDesc: 'Thanks for your donation, your support is important for us in improving this app, all donations will be used in <span style="color:#DD8200;">Necessary Expenses</span> and <span style="color:#DD8200;">Other Improvements</span>.',
-  DonateUs: 'Donate Us',
-  ShareToOthers: "Trailblazers, the vast universe is full of endless secrets, and on your journey to pursue the secrets, a reliable guide will help you! Stargazer is not only a Star Rail Assistant App that includes development suggestions, data query, training ranking, and other functions, but also a powerful partner for your exploration journey! Download now and start your own interstellar adventure!\nApp Store : ${AppStoreLink}\nPlay Store : ${PlayStoreLink}",
+  SourceCode: "Código Fuente",
+  //Navigate User to read codes in GitHub, belongs to the "About" page
+  PrevPage: "Página anterior",
+  NextPage: "Siguiente Página",
+  //20240209 - Wrap Simulator
+  LotterySimulator: "Simulador de Saltos",
+  MakeOnePull: "Saltar x1",
+  MakeTenPull: "Saltar x10",
+  TutorialVideo: "Vídeo Instructivo",
+  //Donation Message
+  DonationDesc: "Gracias por tu donación, tu apoyo es muy importante para mejorar la aplicación, todas las donaciones serán utilizadas para <span style=\"color:#DD8200;\">Gastos Necesarios</span> y <span style=\"color:#DD8200;\">Otras Mejoras</span>.",
+  DonateUs: "Donar",
+  ShareToOthers: "¡Trazacaminos, el vasto universo está lleno de secretos sin fin, y en tu viaje para perseguir los secretos, una guía fiable te ayudará! Stargazer no es sólo una aplicación de asistente de Star Rail que incluye sugerencias de desarrollo, consulta de datos, clasificación de entrenamiento y otras funciones, ¡sino también un poderoso compañero para tu viaje de exploración! ¡Descárgala ahora y comienza tu propia aventura interestelar!\nApp Store : ${AppStoreLink}\nPlay Store : ${PlayStoreLink}",
   //20240218 - Common Errors
-  ErrorDonationInBeta: "Donation is not available in BETA",
-  ErrorIdentifier: "Unable for find the donation...",
-  ErrorPurchaseAlready: "Please wait a minute and retry again",
+  ErrorDonationInBeta: "Donación no disponible en la BETA",
+  //Errors when user try to use in-app-purchase in BETA version, deprecated
+  ErrorIdentifier: "No se pudo encontrar la donación...",
+  ErrorPurchaseAlready: "Please try again in one minute.",
   //20240219 - Permissions and isNotch ...
-  ErrorscreenshotPermissionRejected: "Permission for accessing screenshot was rejected, please press the button again/ grant the permission in system setting.",
-  UserCustomHasNotch: "Notch Adaptation",
-  UserCustomHasDynamicIsland: "Dynamic Island Adaptation",
-  //20240302 - LotteryRecord
-  LotterySimulatorRecord: "Wrap Simulator Record",
-  LotterySimulatorRecordNotice: "Records shown below are NOT from in-game, only from Simulator",
-  LotteryRecordType: "Type",
-  LotteryRecordName: "Name",
-  LotteryRecordTime: "Time",
+  ErrorscreenshotPermissionRejected: "Permission for accessing the screenshot was rejected, please press the button again/ grant the permission in the system settings.",
+  UserCustomHasNotch: "Adaptación de Notch",
+  //The buttom button / geasure bar
+  UserCustomHasDynamicIsland: "Adaptación de Isla Dinámica",
+  //iPhone 15 new design (靈動島)
+  //20240302 - Wrap Simulator (Record page) 
+  LotterySimulatorRecord: "Registro de Simulador de Saltos",
+  LotterySimulatorRecordNotice: "The records shown below are from the emulator and have nothing to do with game data.",
+  LotteryRecordType: "Tipo",
+  LotteryRecordName: "Nombre",
+  LotteryRecordTime: "Hora",
   //20240308 ~ 0311 - Wrap Analysis
-  WrapAnalysis: "Wrap Analysis",
-  WrapNeedInit: "No reviews yet. Please click the button in the bottom-let corner to import the wrap URL.",
-  WrapCharPool: "Character Event Wrap",
-  WrapLcPool: "Lightcone Event Wrap",
-  WrapStaticPool: "Regular Wrap",
-  WrapNewbiePool: "Departure Warp",
-  WrapLuckTitle: "Your Luck Review",
-  WrapDetails: "Detail of Records",
-  WrapFourFiveStarRecord: "4-Star & 5-Star",
-  WrapInfoPity: "Percentage of Non-pity",
-  WrapAvgGetUP: "Average Pulls for 5-Star",
-  WrapTotalPull: "Total Pulled",
-  WrapPopUpURLTitle: "Paste the Wrap URL",
-  WrapPopUpURLInfo: "Please paste the Wrap URL below",
-  WrapPopUpURLToast: "Please enter the Wrap URL!",
-  WrapPopUpURLTextArea: "Pleas put the Wrap URL in there",
-  WrapPopUpURLTutorial: "How to get the Wrap URL?",
-  WrapPopUpURLAnalysisButton: "Analysis",
-  WrapPopUpURLProgress: "Analysis Progess : Page ${2} of ${1}",
-  //20240325
-  AppInnerVersionCode: "Codename",
-  //20240328
-  VisitToDCServer: "Please visit our Discord Server for getting solutions / help",
-  //20240403
-  UseCookiesToLogin: "Login via Cookies",
-  PressToView: "Press To View",
-  MatchRequirementChar: "Characters that matched【${1}】",
-  RequirementOR: " OR ",
-  RequirementAND: " AND "
+  WrapAnalysis: "Análisis de Salto",
+  WrapNeedInit: "No reviews yet. Please click the button in the bottom-let corner to import the Wrap URL.",
+  WrapCharPool: "Salto de evento de personaje",
+  WrapLcPool: "Salto de evento de cono de luz",
+  WrapStaticPool: "Salto normal",
+  WrapNewbiePool: "Salto de partida",
+  WrapLuckTitle: "Revisión de tu suerte",
+  WrapDetails: "Detalle de registros",
+  WrapFourFiveStarRecord: "4 Estrellas y 5 Estrellas",
+  WrapInfoPity: "Porcentaje de no-pity",
+  WrapAvgGetUP: "Promedio de tiradas para 5 Estrellas",
+  WrapTotalPull: "Total de tiradas",
+  WrapPopUpURLTitle: "Pega la URL de Salto",
+  WrapPopUpURLInfo: "Por favor pega debajo la URL de Salto",
+  WrapPopUpURLToast: "¡Por favor, introduzca la URL de Salto!",
+  //Show when u don't enter the URL / token in Toast
+  WrapPopUpURLTextArea: "Please enter the Wrap URL here",
+  WrapPopUpURLTutorial: "¿Cómo obtener la URL de Salto?",
+  WrapPopUpURLAnalysisButton: "Análisis",
+  WrapPopUpURLProgress: "Progreso de Análisis: Página ${2} de ${1}",
+  //Show when it's reading your Wrap Record one-by-one from official server
+  //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
+  AppInnerVersionCode: "Nombre en clave",
+  //20240328 - Wrap Analysis 
+  VisitToDCServer: "Please visit our Discord Server to get solutions/help",
+  //20240403 - New Update
+  UseCookiesToLogin: "Iniciar Sesión mediante Cookies",
+  //Replaced "ManuallySetup"
+  PressToView: "Presiona para ver",
+  //Character Info -> Advice Team
+  MatchRequirementChar: "Personajes que coinciden 【${1}】",
+  //Character Info -> Advice Team -> Press To View
+  RequirementOR: " O ",
+  //Character Info -> Advice Team -> Press To View
+  RequirementAND: " Y " //Character Info -> Advice Team -> Press To View
 };

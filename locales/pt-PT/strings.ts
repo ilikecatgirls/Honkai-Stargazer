@@ -138,13 +138,15 @@ export const strings = {
   HasCopy: "Copiado",
   // toast
   PleaseLogin: "Por favor, primeiro faça o login!",
-  //Add in 20240114
+  //Add in 20240114 - User Info Page
   UserInfoLastLoginAt: "${1} Antes",
+  //E.g. 10 Days Before / 30mins Before || In the User Info Page -> Status, which shows how long does he/she offline
   UserInfoGameData: "Dados do Jogo",
   UserInfoStatus: "Status",
   UserInfoGamePlayerLevel: "Nível de Desbravamento.",
   UserInfoCountComments: "Comentários",
   UserInfoGameWorldLevel: "Nível de Equilíbrio.",
+  //Equilibrium level
   UserInfoLastOnlineTime: "Última vez Online em",
   UserInfoOwnedCharacters: "Personagens",
   UserInfoGameActiveDays: "Dias Ativos",
@@ -156,10 +158,10 @@ export const strings = {
   ProducedByStargazer: "Produzido por Stargazer",
   //Add in 20240114 - After 2.0.15
   NoOnlineData: "Sem registo",
-  //Add in 20240115
+  //Add in 20240115 - Lightcone Info Page Buttons
   LightconeEffect: "Efeito do Cone de Luz",
   LightconeStory: "História do Cone de Luz",
-  //Add in 20240116
+  //Add in 20240116 - For identify the relic sub stat
   UseBlurEffect: "Usar Efeito de Blur",
   ATTR_CRIT_RATE: "Taxa-Crit",
   ATTR_CRIT_DMG: "Dano-Crit",
@@ -183,7 +185,7 @@ export const strings = {
   ATTR_PHYSICAL_DMG: "Dano Físico",
   ATTR_SP_RATE: "Recup. de Energia.",
   ATTR_HEAL_RATE: "Bônus de Cura",
-  //Add in 20240117
+  //Add in 20240117 - Setting Page
   UnLockAll: "Destravar Todos",
   BlurOn: "Blur : LIGADO",
   BlurOff: "Blur : DESLIGADO",
@@ -192,7 +194,7 @@ export const strings = {
   UIDSearch: "Busca por UID",
   PublicChars: "Divulgar personagens",
   Switch: "Alternar",
-  //Add in 20240118
+  //Add in 20240118 - User Character Info Page
   Comments: "${1} Comentários",
   UserOwned: "Adquirido",
   FullEidolon: "E6",
@@ -211,8 +213,11 @@ export const strings = {
   RelicScore: "Pontuação de Relíquia",
   CharScore: "Pontuação de Pers.",
   RelicRank: "Rank de Relíquia",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharRank: "Rank de Pers.",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharGradRate: "Grau de Personagem",
+  //In the User Character's Info Page, showing percentage of character's graduation
   LackOfUserData: "Sem classificação devido à falta de dados do usuário",
   LeaderboardOver: "Mais de ${1}% Usuários",
   LeaderboardDataFrom: "(Dados de Todos os usuários logados)",
@@ -229,14 +234,19 @@ export const strings = {
   StatusToday: "Hoje ${1}",
   StatusTomorrow: "AMÂ ${1}",
   SuperimposeLvl: "S.${1}",
+  //Lightcone Superimpose Level
   SuperimposeNotEquipped: "Não Disponível",
+  //That character is not equipping any lightcones
   TrailblazerNoti: "Notificação de Desbravador!",
+  //Notification
+  // Character Page Comment Function
   CommentFailed: "Falha ao comentar, erro : ",
   CommentPlsEnterComment: "Por favor, escreva o seu comentário",
   CommentHaventLogin: "Por favor, primeiro faça o login!",
   CommentSuccessful: "Sucesso!",
   CommentTextInputHint: "Socorro, Sr. Svarog!",
   CommentInDiscussion: "Em \" Discissão de${1}\"",
+  // Memory Of Chaos (Leaderboard, MOC info)
   MOCMissionInfoTitle: "Informações da Missão",
   MOCSkipped: "Ignorado",
   MOCMissionPart1: "Parte I",
@@ -258,21 +268,25 @@ export const strings = {
   MOCShowMore: "Mostrar mais",
   MOCRounds: "${1} Ciclo(s)",
   MOCStars: "${1} Estrelas",
+  //UID Search
   Searching: "Procurando...",
   UIDEnter: "Por favor, insira o UID",
   UIDFormatError: "Erro no formato do UID",
   UIDNoData: "Sem Dados",
   UIDSearchRecord: "Registros de Busca",
   UIDSearchRecordClear: "Apagar",
+  //Redeem Star Rail Code
   RedeemCodeForever: "Para Sempre",
   RedeemCodeUntil: "Até ${1}",
   RedeemCodeExpired: "Expirado",
+  //Setting Page
   SettingPersonalPage: "Mostrar Página Pessoal",
   SettingPersonalPageShow: "Mostrar",
   SettingPersonalPageDisable: "Desativado",
   SettingChangedWallpaper: "Alterou o plano de fundo para \"${1}\"",
   SettingSaveWallpaperSuccess: "Plano de Fundo Salvo com Sucesso",
   SettingSaveWallpaperError: "Erro ao salvar plano de fundo : ",
+  //Toast display / Donation Bar at the Home Page's bottom
   FunctionStillInDevelop: "Essa função ainda está em desenvolvimento",
   LoginEnterCookies: "Por favor insira Cookies!",
   ConfirmBTN: "Confirmar",
@@ -282,47 +296,57 @@ export const strings = {
   CharSoulShort: "E${1}",
   PlsDonateUs: "Por favor, considere doar para nos apoiar, obrigado!",
   DonateInRandomCount: "Aleatório",
-  //20240122
+  //20240122 -> Home Page Button
   MemoryOfChaosShort: "MDC",
   ScoreLevel: "Proficiência",
   MemoryOfChaosLeaderboard: "Placar de MDC",
   ScoreLevelLeaderboard: "Placar de Proficiência",
-  //20240125
+  //20240125 -> Home Page Button
   PureFiction: "Pura Ficção",
-  //20240126
+  //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
   PureFictionShort: "Puro",
   PureFictionLeaderboard: "Placar de Pura Ficção",
   About: "Sobre",
+  //Short form for display in Home Page
   AboutTheApp: "Sobre Stargazer",
+  //Full form for display in Setting Page
   PFScore: "${1} pts",
+  //Pure Fiction Score, in Pure Fiction Leaderboard
   //20240127
   EventDuration: "Duração",
   //20240128
   Upgrade: "Atualizar",
   OverWholeServerUser: "Top ${1}% de todos os recordes dos usuários",
+  //In the bottom of User Character's Info Page
   //20240129
   NoCommentYet: "Sem comentários ainda...",
+  //User Info Page -> Status 
   //20240131
   SourceCode: "Código Fonte",
+  //Navigate User to read codes in GitHub, belongs to the "About" page
   PrevPage: "Página Anterior",
   NextPage: "Próxima Página",
-  //20240209 - Lottery
+  //20240209 - Wrap Simulator
   LotterySimulator: "Simulador de Saltos",
   MakeOnePull: "Usar Salto  x1",
   MakeTenPull: "Usar Saltos x10",
   TutorialVideo: "Vídeo de Instrução",
+  //Donation Message
   DonationDesc: "Obrigado pela sua doação, seu apoio é importante para melhorarmos este aplicativo, todas as doações serão utilizadas em <span style=\"color:#DD8200;\">Despesas Necessárias</span> e <span style=\"color:#DD8200;\">Outras Melhorias</span>.",
   DonateUs: "Doe-nos",
   ShareToOthers: "Desbravadores, o vasto universo está cheio de segredos infinitos e, em sua jornada para perseguir os segredos, um guia confiável irá ajudá-los! Stargazer não é apenas um Aplicativo de Assistência para Star Rail que inclui sugestões de desenvolvimento, consulta de dados, classificação de treinamento e outras funções, mas também um parceiro poderoso para sua jornada de exploração! Baixe agora e comece sua própria aventura interestelar!\nApp Store: ${AppStoreLink}\nPlay Store: ${PlayStoreLink}",
   //20240218 - Common Errors
   ErrorDonationInBeta: "Doação não está disponível em BETA",
+  //Errors when user try to use in-app-purchase in BETA version, deprecated
   ErrorIdentifier: "Não foi possível encontrar a doação...",
   ErrorPurchaseAlready: "Por favor, espere um pouco e tente novamente",
   //20240219 - Permissions and isNotch ...
   ErrorscreenshotPermissionRejected: "A permissão para acessar a captura de tela foi rejeitada, pressione o botão novamente/ conceda a permissão nas configurações do sistema.",
   UserCustomHasNotch: "Adaptação de Notch",
+  //The buttom button / geasure bar
   UserCustomHasDynamicIsland: "Adaptação para Dynamic Island",
-  //20240302 - LotteryRecord
+  //iPhone 15 new design (靈動島)
+  //20240302 - Wrap Simulator (Record page) 
   LotterySimulatorRecord: "Registro do Simulador",
   LotterySimulatorRecordNotice: "Os registros mostrados abaixo NÂO são do jogo, apenas do Simulador",
   LotteryRecordType: "Tipo",
@@ -344,18 +368,24 @@ export const strings = {
   WrapPopUpURLTitle: "Coloque o URL de Salto",
   WrapPopUpURLInfo: "Por favor cole o URL de Salto abaixo",
   WrapPopUpURLToast: "Por favor coloque o URL de Salto!",
+  //Show when u don't enter the URL / token in Toast
   WrapPopUpURLTextArea: "Por favor coloque o URL de Salto lá",
   WrapPopUpURLTutorial: "Como conseguir o URL de Salto?",
   WrapPopUpURLAnalysisButton: "Análise",
   WrapPopUpURLProgress: "Progresso da Análise: Página ${2} de ${1}",
-  //20240325
+  //Show when it's reading your Wrap Record one-by-one from official server
+  //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
   AppInnerVersionCode: "Codinome da versão",
-  //20240328
+  //20240328 - Wrap Analysis 
   VisitToDCServer: "Por favor, visite o nosso Server no Discord para receber ajuda / soluções",
-  //20240403
-  UseCookiesToLogin: "Login via Cookies",
-  PressToView: "Press To View",
-  MatchRequirementChar: "Characters that matched【${1}】",
-  RequirementOR: " OR ",
-  RequirementAND: " AND "
+  //20240403 - New Update
+  UseCookiesToLogin: "Logar via Cookies",
+  //Replaced "ManuallySetup"
+  PressToView: "Pressione Para Ver",
+  //Character Info -> Advice Team
+  MatchRequirementChar: "Personagens que combinam【${1}】",
+  //Character Info -> Advice Team -> Press To View
+  RequirementOR: " OU ",
+  //Character Info -> Advice Team -> Press To View
+  RequirementAND: " E " //Character Info -> Advice Team -> Press To View
 };

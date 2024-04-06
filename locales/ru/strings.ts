@@ -138,13 +138,15 @@ export const strings = {
   HasCopy: "Скопировано",
   // toast
   PleaseLogin: "Пожалуйста, сначала войдите!",
-  //Add in 20240114
+  //Add in 20240114 - User Info Page
   UserInfoLastLoginAt: "${1} Перед",
+  //E.g. 10 Days Before / 30mins Before || In the User Info Page -> Status, which shows how long does he/she offline
   UserInfoGameData: "Игровые данные",
   UserInfoStatus: "Статус",
   UserInfoGamePlayerLevel: "Уровень Освоения",
   UserInfoCountComments: "Комментарии",
   UserInfoGameWorldLevel: "Equili. Lvl.",
+  //Equilibrium level
   UserInfoLastOnlineTime: "Последний онлайн",
   UserInfoOwnedCharacters: "Персонажи",
   UserInfoGameActiveDays: "Активные дни",
@@ -156,13 +158,13 @@ export const strings = {
   ProducedByStargazer: "Произведено Stargazer",
   //Add in 20240114 - After 2.0.15
   NoOnlineData: "Нет записей",
-  //Add in 20240115
+  //Add in 20240115 - Lightcone Info Page Buttons
   LightconeEffect: "Эффект Световые конусы",
   LightconeStory: "История Световые конусы",
-  //Add in 20240116
+  //Add in 20240116 - For identify the relic sub stat
   UseBlurEffect: "Используй эффект размытия",
-  ATTR_CRIT_RATE: "CritRate",
-  ATTR_CRIT_DMG: "CritDMG",
+  ATTR_CRIT_RATE: "Курс крита",
+  ATTR_CRIT_DMG: "Критический урон",
   ATTR_HP: "HP",
   ATTR_HPP: "HP%",
   ATTR_ATK: "ATK",
@@ -183,7 +185,7 @@ export const strings = {
   ATTR_PHYSICAL_DMG: "Физический Урона",
   ATTR_SP_RATE: "Восст. Энергии",
   ATTR_HEAL_RATE: "Бонус лечения",
-  //Add in 20240117
+  //Add in 20240117 - Setting Page
   UnLockAll: "Разблокировать все",
   BlurOn: "Размытие: Вкл",
   BlurOff: "Размытие: выкл",
@@ -192,7 +194,7 @@ export const strings = {
   UIDSearch: "Поиск UID",
   PublicChars: "Раскрывать символы",
   Switch: "Переключатель",
-  //Add in 20240118
+  //Add in 20240118 - User Character Info Page
   Comments: "${1} Комментарии",
   UserOwned: "Приобретён",
   FullEidolon: "E6",
@@ -206,156 +208,184 @@ export const strings = {
   //天賦
   TraceTechnique: "Технология",
   //秘技
-  Superimpose: "Superimpose ${1}",
+  Superimpose: "Надлежащие ${1}",
   //疊影
-  RelicScore: "Relic Score",
-  CharScore: "Char. Score",
-  RelicRank: "Relic Rank",
-  CharRank: "Char. Rank",
-  CharGradRate: "Char. Grad%",
-  LackOfUserData: "No leaderboard since lack of user data",
-  LeaderboardOver: "Over ${1}% Users",
-  LeaderboardDataFrom: "(Data from All logged in user)",
-  AppStatusLoading: "PomPom is Praying",
-  AppStatusLostConnect: "Lost connection with Train...",
-  AppStatusPlayerNoReleaseData: "Player didn't disclose his/her data",
-  AppStatusNoDataFound: "No Data Found ...",
-  CharSoul: "Eidolon ${1}",
-  StatusNow: "Now",
-  StatusHours: "${1}Hrs",
-  StatusMinutes: "${1}Mins",
-  StatusSeconds: "${1}s",
-  StatusDays: "${1}d",
-  StatusToday: "Today ${1}",
-  StatusTomorrow: "TMR ${1}",
-  SuperimposeLvl: "Sup.${1}",
-  SuperimposeNotEquipped: "N/A",
-  TrailblazerNoti: "Trailblazer Notification!",
-  CommentFailed: "Failed to comment, error : ",
-  CommentPlsEnterComment: "Please enter your comment",
-  CommentHaventLogin: "Please login first!",
-  CommentSuccessful: "Success!",
-  CommentTextInputHint: "Help me, Mr. Svarog!",
-  CommentInDiscussion: "In \"${1}'s Disccusion\"",
-  MOCMissionInfoTitle: "Mission Info",
-  MOCSkipped: "Skipped",
-  MOCMissionPart1: "Part I",
-  MOCMissionPart2: "Part II",
-  MOCMissionPart3: "Part III",
-  MOCMissionPart4: "Part IV",
-  MOCMissionPart5: "Part V",
-  MOCMissionPart6: "Part VI",
-  MOCMissionPart7: "Part VII",
-  MOCMissionPart8: "Part VIII",
-  MOCMissionPart9: "Part IX",
-  MOCMissionPart10: "Part X",
-  MOCMissionPart11: "Part XI",
-  MOCMissionPart12: "Part XII",
-  MOCEffect: "Effect",
-  MOCMyBattleReport: "My Battle Report",
-  MOCPart1: "(Part1)",
-  MOCPart2: "(Part2)",
-  MOCShowMore: "Show More",
-  MOCRounds: "${1} Rounds",
-  MOCStars: "${1} Stars",
-  Searching: "Searching...",
-  UIDEnter: "Please Enter UID",
-  UIDFormatError: "UID Format Error",
-  UIDNoData: "No Data",
-  UIDSearchRecord: "Search Records",
-  UIDSearchRecordClear: "Clear",
-  RedeemCodeForever: "Forever",
-  RedeemCodeUntil: "Until ${1}",
-  RedeemCodeExpired: "Expired",
-  SettingPersonalPage: "Show Personal Page",
-  SettingPersonalPageShow: "Show",
-  SettingPersonalPageDisable: "Disable",
-  SettingChangedWallpaper: "Changed wallpaper to \"${1}\"",
-  SettingSaveWallpaperSuccess: "Saved wallpaper successfully",
-  SettingSaveWallpaperError: "Error on saving wallpaper : ",
-  FunctionStillInDevelop: "This function is still in development",
-  LoginEnterCookies: "Please enter Cookies!",
-  ConfirmBTN: "Confirm",
-  ShareSuccess: "Share Successfully!",
-  ShareError: "Share Failed : ",
-  CodeAll: "ALL Servers",
+  RelicScore: "Реликвии Результат",
+  CharScore: "Символ. Результат",
+  RelicRank: "Реликвии Ранг",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
+  CharRank: "Символ. Ранг",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
+  CharGradRate: "Символ. Аспирант%",
+  //In the User Character's Info Page, showing percentage of character's graduation
+  LackOfUserData: "Нет таблицы лидеров, так как нет данных пользователя",
+  LeaderboardOver: "Более ${1}% пользователей",
+  LeaderboardDataFrom: "(Данные от всех вошедших пользователей)",
+  AppStatusLoading: "PomPom молится",
+  AppStatusLostConnect: "Потеряно соединение с Поездом...",
+  AppStatusPlayerNoReleaseData: "Игрок не раскрыл свои данные",
+  AppStatusNoDataFound: "Данные не найдены...",
+  CharSoul: "Эйдолон ${1}",
+  StatusNow: "Сейчас",
+  StatusHours: "${1}часы",
+  StatusMinutes: "${1}минут",
+  StatusSeconds: "${1}сек",
+  StatusDays: "${1}день",
+  StatusToday: "Сегодня ${1}",
+  StatusTomorrow: "Завтра ${1}",
+  SuperimposeLvl: "Накладывать${1}",
+  //Lightcone Superimpose Level
+  SuperimposeNotEquipped: "Н/Д",
+  //That character is not equipping any lightcones
+  TrailblazerNoti: "Оповещение о прицепеи!",
+  //Notification
+  // Character Page Comment Function
+  CommentFailed: "Ошибка комментирования, ошибка: ",
+  CommentPlsEnterComment: "Введите комментарий",
+  CommentHaventLogin: "Пожалуйста, сначала войдите!",
+  CommentSuccessful: "Успешно!",
+  CommentTextInputHint: "Помогите мне, г-н Сварог!",
+  CommentInDiscussion: "В \"обсуждении ${1}\"",
+  // Memory Of Chaos (Leaderboard, MOC info)
+  MOCMissionInfoTitle: "Информация о миссии",
+  MOCSkipped: "Пропущено",
+  MOCMissionPart1: "Часть I",
+  MOCMissionPart2: "Часть II",
+  MOCMissionPart3: "Часть III",
+  MOCMissionPart4: "Часть IV",
+  MOCMissionPart5: "Часть V",
+  MOCMissionPart6: "Часть VI",
+  MOCMissionPart7: "Часть VII",
+  MOCMissionPart8: "Часть VIII",
+  MOCMissionPart9: "Часть IX",
+  MOCMissionPart10: "Часть X",
+  MOCMissionPart11: "Часть XI",
+  MOCMissionPart12: "Часть XII",
+  MOCEffect: "Эффект",
+  MOCMyBattleReport: "Отчет о битве",
+  MOCPart1: "(Часть1)",
+  MOCPart2: "(Часть2)",
+  MOCShowMore: "Показать еще",
+  MOCRounds: "${1} Раунды",
+  MOCStars: "${1} Звезды",
+  //UID Search
+  Searching: "Поиск...",
+  UIDEnter: "Введите UID",
+  UIDFormatError: "Ошибка формата UID",
+  UIDNoData: "Нет данных",
+  UIDSearchRecord: "Искать записи",
+  UIDSearchRecordClear: "Сбросить",
+  //Redeem Star Rail Code
+  RedeemCodeForever: "Навсегда",
+  RedeemCodeUntil: "До ${1}",
+  RedeemCodeExpired: "Истёкшие",
+  //Setting Page
+  SettingPersonalPage: "Показать личную страницу",
+  SettingPersonalPageShow: "Показать",
+  SettingPersonalPageDisable: "Отключить",
+  SettingChangedWallpaper: "Изменены обои на \"${1}\"",
+  SettingSaveWallpaperSuccess: "Обои успешно сохранены",
+  SettingSaveWallpaperError: "Ошибка сохранения обоев: ",
+  //Toast display / Donation Bar at the Home Page's bottom
+  FunctionStillInDevelop: "Функция находится в разработке",
+  LoginEnterCookies: "Пожалуйста, введите куки!",
+  ConfirmBTN: "Подтвердить",
+  ShareSuccess: "Успешно поделился!",
+  ShareError: "Рассказать не получается: ",
+  CodeAll: "Все серверы",
   CharSoulShort: "E${1}",
-  PlsDonateUs: "Pls consider to donate for supporting us, thx!",
-  DonateInRandomCount: "Random",
-  //20240122
+  PlsDonateUs: "Пожалуйста, сделайте пожертвование для поддержки нас!",
+  DonateInRandomCount: "Случайно",
+  //20240122 -> Home Page Button
   MemoryOfChaosShort: "MOC",
-  ScoreLevel: "Proficiency",
-  MemoryOfChaosLeaderboard: "MOC Leaderboard",
-  ScoreLevelLeaderboard: "Proficiency Leaderboard",
-  //20240125
-  PureFiction: "Pure Fiction",
-  //20240126
-  PureFictionShort: "Pure",
-  PureFictionLeaderboard: "Pure Leaderboard",
-  About: "About",
-  AboutTheApp: "About Stargazer",
-  PFScore: "${1} pts",
+  ScoreLevel: "Мастерство",
+  MemoryOfChaosLeaderboard: "MOC Таблица лидеров",
+  ScoreLevelLeaderboard: "Мастерство Таблица лидеров",
+  //20240125 -> Home Page Button
+  PureFiction: "Чистая пиктограмма",
+  //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
+  PureFictionShort: "Чистые",
+  PureFictionLeaderboard: "Чистая таблица лидеров",
+  About: "О программе",
+  //Short form for display in Home Page
+  AboutTheApp: "О программе Stargazer",
+  //Full form for display in Setting Page
+  PFScore: "${1} Баллов",
+  //Pure Fiction Score, in Pure Fiction Leaderboard
   //20240127
-  EventDuration: "Duration",
+  EventDuration: "Длительность",
   //20240128
-  Upgrade: "Upgrade",
-  OverWholeServerUser: "Top ${1}% of all users in record",
+  Upgrade: "Обновление",
+  OverWholeServerUser: "Топ ${1}% всех пользователей в записи",
+  //In the bottom of User Character's Info Page
   //20240129
-  NoCommentYet: "No comments yet ...",
+  NoCommentYet: "Нет комментариев...",
+  //User Info Page -> Status 
   //20240131
-  SourceCode: "Source Code",
-  PrevPage: "Previous Page",
-  NextPage: "Next Page",
-  //20240209 - Lottery
-  LotterySimulator: "Wrap Simulator",
-  MakeOnePull: "Wrap x1",
-  MakeTenPull: "Wrap x10",
-  TutorialVideo: "Instructional Video",
-  DonationDesc: 'Thanks for your donation, your support is important for us in improving this app, all donations will be used in <span style="color:#DD8200;">Necessary Expenses</span> and <span style="color:#DD8200;">Other Improvements</span>.',
-  DonateUs: 'Donate Us',
-  ShareToOthers: "Trailblazers, the vast universe is full of endless secrets, and on your journey to pursue the secrets, a reliable guide will help you! Stargazer is not only a Star Rail Assistant App that includes development suggestions, data query, training ranking, and other functions, but also a powerful partner for your exploration journey! Download now and start your own interstellar adventure!\nApp Store : ${AppStoreLink}\nPlay Store : ${PlayStoreLink}",
+  SourceCode: "Исходный код",
+  //Navigate User to read codes in GitHub, belongs to the "About" page
+  PrevPage: "Предыдущая страница",
+  NextPage: "След. страница",
+  //20240209 - Wrap Simulator
+  LotterySimulator: "Перенос симулятора",
+  MakeOnePull: "Перенос x1",
+  MakeTenPull: "Перенос x10",
+  TutorialVideo: "Обучающие видео",
+  //Donation Message
+  DonationDesc: "Спасибо за ваше пожертвование, ваша поддержка важна для нас в улучшении этого приложения, все пожертвования будут использованы на <span style=\"color:#DD8200;\">Необходимые расходы</span> и <span style=\"color:#DD8200;\">Другие улучшения</span>.",
+  DonateUs: "Пожертвовать нам",
+  ShareToOthers: "Путешественники, огромная вселенная полна бесконечных секретов, и в вашем путешествии по секретам, надежный путеводитель поможет вам! Stargazer это не только приложение Star Rail Assistant которое включает в себя предложения по разработке, запрос данных, обучение рейтингу и другим функциям, а также мощный партнер для вашей разведки! Скачайте сейчас и запустите свои межзвездные приключения!\nApp Store : ${AppStoreLink}\nPlay Store : ${PlayStoreLink}",
   //20240218 - Common Errors
-  ErrorDonationInBeta: "Donation is not available in BETA",
-  ErrorIdentifier: "Unable for find the donation...",
-  ErrorPurchaseAlready: "Please wait a minute and retry again",
+  ErrorDonationInBeta: "Пожертвование недоступно в BETA",
+  //Errors when user try to use in-app-purchase in BETA version, deprecated
+  ErrorIdentifier: "Не удается найти пожертвование...",
+  ErrorPurchaseAlready: "Подождите несколько минут, и повторите попытку",
   //20240219 - Permissions and isNotch ...
-  ErrorscreenshotPermissionRejected: "Permission for accessing screenshot was rejected, please press the button again/ grant the permission in system setting.",
-  UserCustomHasNotch: "Notch Adaptation",
-  UserCustomHasDynamicIsland: "Dynamic Island Adaptation",
-  //20240302 - LotteryRecord
-  LotterySimulatorRecord: "Wrap Simulator Record",
-  LotterySimulatorRecordNotice: "Records shown below are NOT from in-game, only from Simulator",
-  LotteryRecordType: "Type",
-  LotteryRecordName: "Name",
-  LotteryRecordTime: "Time",
+  ErrorscreenshotPermissionRejected: "Разрешение на доступ к скриншоту было отклонено. Пожалуйста, нажмите кнопку снова/предоставьте разрешение в системных настройках.",
+  UserCustomHasNotch: "Адаптация к вырезу",
+  //The buttom button / geasure bar
+  UserCustomHasDynamicIsland: "Адаптация Динамических Островов",
+  //iPhone 15 new design (靈動島)
+  //20240302 - Wrap Simulator (Record page) 
+  LotterySimulatorRecord: "Перенос записи симулятора",
+  LotterySimulatorRecordNotice: "Записи, показанные ниже, НЕ из игры, только от Симулятора",
+  LotteryRecordType: "Тип",
+  LotteryRecordName: "Имя",
+  LotteryRecordTime: "Время",
   //20240308 ~ 0311 - Wrap Analysis
-  WrapAnalysis: "Wrap Analysis",
-  WrapNeedInit: "No reviews yet. Please click the button in the bottom-let corner to import the wrap URL.",
-  WrapCharPool: "Character Event Wrap",
-  WrapLcPool: "Lightcone Event Wrap",
-  WrapStaticPool: "Regular Wrap",
-  WrapNewbiePool: "Departure Warp",
-  WrapLuckTitle: "Your Luck Review",
-  WrapDetails: "Detail of Records",
-  WrapFourFiveStarRecord: "4-Star & 5-Star",
-  WrapInfoPity: "Percentage of Non-pity",
-  WrapAvgGetUP: "Average Pulls for 5-Star",
-  WrapTotalPull: "Total Pulled",
-  WrapPopUpURLTitle: "Paste the Wrap URL",
-  WrapPopUpURLInfo: "Please paste the Wrap URL below",
-  WrapPopUpURLToast: "Please enter the Wrap URL!",
-  WrapPopUpURLTextArea: "Pleas put the Wrap URL in there",
-  WrapPopUpURLTutorial: "How to get the Wrap URL?",
-  WrapPopUpURLAnalysisButton: "Analysis",
-  WrapPopUpURLProgress: "Analysis Progess : Page ${2} of ${1}",
-  //20240325
-  AppInnerVersionCode: "Codename",
-  //20240328
-  VisitToDCServer: "Please visit our Discord Server for getting solutions / help",
-  //20240403
-  UseCookiesToLogin: "Login via Cookies",
-  PressToView: "Press To View",
-  MatchRequirementChar: "Characters that matched【${1}】",
-  RequirementOR: " OR ",
-  RequirementAND: " AND "
+  WrapAnalysis: "Обернуть анализ",
+  WrapNeedInit: "Пока нет отзывов. Нажмите кнопку в левом нижнем углу, чтобы импортировать URL-адрес переноса.",
+  WrapCharPool: "Перенос события персонажа",
+  WrapLcPool: "Перенос событий в Лай кон",
+  WrapStaticPool: "Обычный перенос",
+  WrapNewbiePool: "Отправление Варп",
+  WrapLuckTitle: "Ваш отзыв об удаче",
+  WrapDetails: "Детали записей",
+  WrapFourFiveStarRecord: "4 звезды & 5 звезды",
+  WrapInfoPity: "Процент от нежалости",
+  WrapAvgGetUP: "Средние яйца для 5 звезд",
+  WrapTotalPull: "Молитв за все время",
+  WrapPopUpURLTitle: "Вставить URL записи",
+  WrapPopUpURLInfo: "Пожалуйста, вставьте URL ниже",
+  WrapPopUpURLToast: "Пожалуйста, введите URL обертки!",
+  //Show when u don't enter the URL / token in Toast
+  WrapPopUpURLTextArea: "Введите URL для переноса здесь",
+  WrapPopUpURLTutorial: "Как получить Введите URL?",
+  WrapPopUpURLAnalysisButton: "Аналитика",
+  WrapPopUpURLProgress: "Сложность анализа: Страница ${2} из ${1}",
+  //Show when it's reading your Wrap Record one-by-one from official server
+  //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
+  AppInnerVersionCode: "Кодовое имя",
+  //20240328 - Wrap Analysis 
+  VisitToDCServer: "Пожалуйста, посетите наш сервер Discord для получения решений / помощи",
+  //20240403 - New Update
+  UseCookiesToLogin: "Войти через куки",
+  //Replaced "ManuallySetup"
+  PressToView: "Нажмите для просмотра",
+  //Character Info -> Advice Team
+  MatchRequirementChar: "Соответствующие символы [${1}]",
+  //Character Info -> Advice Team -> Press To View
+  RequirementOR: " Или ",
+  //Character Info -> Advice Team -> Press To View
+  RequirementAND: " И " //Character Info -> Advice Team -> Press To View
 };

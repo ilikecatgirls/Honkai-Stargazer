@@ -138,13 +138,15 @@ export const strings = {
   HasCopy: "已複製",
   // toast
   PleaseLogin: "請先登入！",
-  //Add in 20240114
+  //Add in 20240114 - User Info Page
   UserInfoLastLoginAt: "${1} ㄑ一ㄢ",
+  //E.g. 10 Days Before / 30mins Before || In the User Info Page -> Status, which shows how long does he/she offline
   UserInfoGameData: "一ㄡㄒ一ㄕㄨㄐㄩ",
   UserInfoStatus: "ㄉㄨㄥㄊㄞ",
   UserInfoGamePlayerLevel: "ㄎㄞㄊㄨㄛㄉㄥㄐ一",
   UserInfoCountComments: "ㄌ一ㄡ一ㄢㄕㄨ",
   UserInfoGameWorldLevel: "ㄐㄩㄣㄏㄥㄉㄥㄐ一",
+  //Equilibrium level
   UserInfoLastOnlineTime: "ㄕㄤㄘㄕㄤㄒ一ㄢ",
   UserInfoOwnedCharacters: "ㄩㄥ一ㄡㄐㄩㄝㄙㄜ",
   UserInfoGameActiveDays: "ㄏㄨㄛㄩㄝㄊ一ㄢㄕㄨ",
@@ -156,10 +158,10 @@ export const strings = {
   ProducedByStargazer: "由 Stargazer 製作",
   //Add in 20240114 - After 2.0.15
   NoOnlineData: "無上線紀錄",
-  //Add in 20240115
+  //Add in 20240115 - Lightcone Info Page Buttons
   LightconeEffect: "ㄍㄨㄤㄓㄨㄟㄒ一ㄠㄍㄨㄛ",
   LightconeStory: "ㄍㄨㄤ之ㄨㄟㄍㄨㄕ",
-  //Add in 20240116
+  //Add in 20240116 - For identify the relic sub stat
   UseBlurEffect: "ㄕㄩㄥㄇㄛㄏㄨㄒ一ㄠㄎㄨㄛ",
   ATTR_CRIT_RATE: "ㄅㄠㄐ一ㄌㄩ",
   ATTR_CRIT_DMG: "ㄅㄠㄐ一ㄕㄤㄏㄞ",
@@ -183,7 +185,7 @@ export const strings = {
   ATTR_PHYSICAL_DMG: "ㄨㄕㄤㄊ一ㄍㄠ",
   ATTR_SP_RATE: "ㄔㄨㄥㄋㄥㄒ一ㄠㄌㄩ",
   ATTR_HEAL_RATE: "ㄓㄌ一ㄠㄌ一ㄤㄐ一ㄚㄔㄥ",
-  //Add in 20240117
+  //Add in 20240117 - Setting Page
   UnLockAll: "ㄐㄧㄝㄙㄨㄛㄑㄩㄢㄅㄨ",
   BlurOn: "ㄇㄛㄏㄨ : ㄎㄞㄑ一",
   BlurOff: "ㄇㄛㄏㄨ : ㄍㄨㄢㄅ一",
@@ -192,7 +194,7 @@ export const strings = {
   UIDSearch: "UID ㄔㄚㄒㄩㄣ",
   PublicChars: "ㄍㄨㄥㄎㄞㄐㄩㄝㄙㄜ",
   Switch: "ㄑ一ㄝㄏㄨㄢ",
-  //Add in 20240118
+  //Add in 20240118 - User Character Info Page
   Comments: "${1} 條評論",
   UserOwned: "一ㄩㄥ一ㄡ",
   FullEidolon: "ㄇㄢㄇ一ㄥ",
@@ -211,8 +213,11 @@ export const strings = {
   RelicScore: "一ㄑ一ㄆ一ㄥㄈㄣ",
   CharScore: "ㄐㄩㄝㄙㄜㄆ一ㄥㄈㄣ",
   RelicRank: "一ㄑ一ㄆ一ㄥㄐ一ㄚ",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharRank: "ㄐㄩㄝㄙㄜㄆ一ㄥㄐ一ㄚ",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharGradRate: "ㄐㄩㄝㄙㄜㄅ一一ㄝㄌㄩ",
+  //In the User Character's Info Page, showing percentage of character's graduation
   LackOfUserData: "用戶量不足 暫無排行",
   LeaderboardOver: "ㄔㄠㄍㄨㄛ${1}%ㄩㄥㄏㄨ",
   LeaderboardDataFrom: "（數據來自已登入用戶）",
@@ -229,14 +234,19 @@ export const strings = {
   StatusToday: "ㄐ一ㄣㄊ一ㄢ ${1}",
   StatusTomorrow: "ㄇ一ㄥㄊ一ㄢ ${1}",
   SuperimposeLvl: "${1} ㄐ一ㄝ",
+  //Lightcone Superimpose Level
   SuperimposeNotEquipped: "ㄇㄟㄔㄨㄢ",
+  //That character is not equipping any lightcones
   TrailblazerNoti: "開拓者快訊",
+  //Notification
+  // Character Page Comment Function
   CommentFailed: "留言失敗，錯誤訊息： ",
   CommentPlsEnterComment: "請輸入訊息！",
   CommentHaventLogin: "您尚未登入！",
   CommentSuccessful: "留言成功！",
   CommentTextInputHint: "幫幫我 史瓦羅先生！",
   CommentInDiscussion: "在「${charName}」的評論區",
+  // Memory Of Chaos (Leaderboard, MOC info)
   MOCMissionInfoTitle: "ㄍㄨㄢㄎㄚㄗㄒㄩㄣ",
   MOCSkipped: "ㄎㄨㄞㄙㄨㄊㄨㄥㄍㄨㄢ",
   MOCMissionPart1: "一",
@@ -258,21 +268,25 @@ export const strings = {
   MOCShowMore: "ㄓㄢㄕㄍㄥㄉㄨㄛ",
   MOCRounds: "${1} ㄌㄨㄣ",
   MOCStars: "${1} ㄒ一ㄥ",
+  //UID Search
   Searching: "ㄙㄡㄒㄩㄣㄓㄨㄥ...",
   UIDEnter: "請輸入 UID",
   UIDFormatError: "UID 格式錯誤",
   UIDNoData: "查無資料",
   UIDSearchRecord: "查詢記錄",
   UIDSearchRecordClear: "ㄑ一ㄥㄔㄨ",
+  //Redeem Star Rail Code
   RedeemCodeForever: "ㄩㄥㄐ一ㄡ",
   RedeemCodeUntil: "ㄓㄉㄠ${1}",
   RedeemCodeExpired: "一ㄍㄨㄛㄑ一",
+  //Setting Page
   SettingPersonalPage: "展示個人頁面",
   SettingPersonalPageShow: "ㄓㄢㄕ",
   SettingPersonalPageDisable: "一ㄣㄘㄤ",
   SettingChangedWallpaper: "已切換成壁紙 「${1}」",
   SettingSaveWallpaperSuccess: "成功儲存壁紙",
   SettingSaveWallpaperError: "儲存壁紙 : ",
+  //Toast display / Donation Bar at the Home Page's bottom
   FunctionStillInDevelop: "ㄆㄚㄇㄨㄎㄞㄈㄚㄓㄨㄥ",
   LoginEnterCookies: "請輸入 cookie！",
   ConfirmBTN: "ㄑㄩㄝㄉ一ㄥ",
@@ -282,47 +296,57 @@ export const strings = {
   CharSoulShort: "ㄏㄨㄣ ${1}",
   PlsDonateUs: "請考慮透過捐贈支持我們，謝謝！",
   DonateInRandomCount: "ㄙㄨㄟㄐ一",
-  //20240122
+  //20240122 -> Home Page Button
   MemoryOfChaosShort: "ㄏㄨㄣㄉㄨㄣ",
   ScoreLevel: "ㄌ一ㄢㄉㄨ",
   MemoryOfChaosLeaderboard: "ㄏㄨㄣㄉㄨㄣㄆㄞㄏㄤㄅㄤ",
   ScoreLevelLeaderboard: "ㄌ一ㄢㄉㄨㄆㄞㄏㄤㄅㄤ",
-  //20240125
+  //20240125 -> Home Page Button
   PureFiction: "ㄒㄩㄍㄡㄒㄩㄕ",
-  //20240126
+  //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
   PureFictionShort: "ㄒㄩㄍㄡ",
   PureFictionLeaderboard: "ㄒㄩㄍㄡㄆㄞㄏㄤㄅㄤ",
   About: "ㄍㄨㄢㄩ",
+  //Short form for display in Home Page
   AboutTheApp: "關於 Stargazer",
+  //Full form for display in Setting Page
   PFScore: "${1} ㄈㄣ",
+  //Pure Fiction Score, in Pure Fiction Leaderboard
   //20240127
   EventDuration: "ㄏㄨㄛㄉㄨㄥㄑ一ㄐ一ㄢ",
   //20240128
   Upgrade: "ㄊ一ㄕㄥ",
   OverWholeServerUser: "超過全服 ${1}% 用戶",
+  //In the bottom of User Character's Info Page
   //20240129
   NoCommentYet: "還沒有留言...",
+  //User Info Page -> Status 
   //20240131
   SourceCode: "ㄩㄢㄕㄇㄚ",
+  //Navigate User to read codes in GitHub, belongs to the "About" page
   PrevPage: "ㄕㄤ一一ㄝ",
   NextPage: "ㄒ一ㄚ一一ㄝ",
-  //20240209 - Lottery
+  //20240209 - Wrap Simulator
   LotterySimulator: "ㄔㄡㄎㄚㄇㄛㄋ一",
   MakeOnePull: "一ㄠㄑ一ㄢ1ㄘ",
   MakeTenPull: "一ㄠㄑ一ㄢ10ㄘ",
   TutorialVideo: "教學影片",
+  //Donation Message
   DonationDesc: "感謝您的捐贈，有您的支持我們才能更好地完善本App，所有捐贈都將用於Stargazer的<span style=\"color:#DD8200;\">必要支出</span>和<span style=\"color:#DD8200;\">其他提升</span>。",
   DonateUs: "捐贈",
   ShareToOthers: "開拓者們，浩瀚的宇宙中充滿了無盡的秘密，而在追尋秘密的旅途中，一位可靠的嚮導將助你一臂之力！ 星穹觀星者不僅是個包含養成建議、資料查詢、練度排名等功能的星穹鐵道小助手 App，更是你探索之旅的得力夥伴！ 立即下載，開啟屬於你的星際冒險之旅！ \nApp Store：${AppStoreLink}\nPlay Store：${PlayStoreLink}",
   //20240218 - Common Errors
   ErrorDonationInBeta: "BETAㄅㄨㄎㄞㄈㄤAppㄋㄟㄐㄩㄢㄗㄥㄛ~",
+  //Errors when user try to use in-app-purchase in BETA version, deprecated
   ErrorIdentifier: "ㄓㄢㄕㄇㄟㄈㄚㄓㄠㄉㄠㄍㄞㄐㄩㄢㄗㄥㄒㄩㄢㄒㄧㄤ…",
   ErrorPurchaseAlready: "ㄑㄧㄥㄗㄞㄧㄈㄣㄓㄨㄥㄏㄡㄔㄨㄥㄕ",
   //20240219 - Permissions and isNotch ...
   ErrorscreenshotPermissionRejected: "ㄕㄣㄑㄏㄨㄛㄑㄩㄘㄨㄣㄑㄩㄐㄧㄝㄊㄨㄑㄩㄢㄒㄧㄢㄅㄟㄐㄩㄐㄩㄝ，ㄑㄧㄥㄔㄨㄥㄒㄧㄣㄢㄒㄧㄚㄢㄋㄧㄡ/ㄉㄠㄒㄧㄊㄨㄥㄕㄜㄉㄧㄥㄩㄣㄒㄩㄘㄨㄣㄑㄩㄑㄩㄢㄒㄧㄢ。",
   UserCustomHasNotch: "ㄌㄧㄡㄏㄞㄆㄧㄥㄕㄆㄟ",
+  //The buttom button / geasure bar
   UserCustomHasDynamicIsland: "ㄉㄨㄥㄊㄞㄉㄠㄕㄆㄟ",
-  //20240302 - LotteryRecord
+  //iPhone 15 new design (靈動島)
+  //20240302 - Wrap Simulator (Record page) 
   LotterySimulatorRecord: "Wrap Simulator Record",
   LotterySimulatorRecordNotice: "Records shown below are NOT from in-game, only from Simulator",
   LotteryRecordType: "Type",
@@ -344,18 +368,24 @@ export const strings = {
   WrapPopUpURLTitle: "Paste the Wrap URL",
   WrapPopUpURLInfo: "Please paste the Wrap URL below",
   WrapPopUpURLToast: "Please enter the Wrap URL!",
+  //Show when u don't enter the URL / token in Toast
   WrapPopUpURLTextArea: "Pleas put the Wrap URL in there",
   WrapPopUpURLTutorial: "How to get the Wrap URL?",
   WrapPopUpURLAnalysisButton: "Analysis",
   WrapPopUpURLProgress: "Analysis Progess : Page ${2} of ${1}",
-  //20240325
+  //Show when it's reading your Wrap Record one-by-one from official server
+  //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
   AppInnerVersionCode: "Codename",
-  //20240328
+  //20240328 - Wrap Analysis 
   VisitToDCServer: "Please visit our Discord Server for getting solutions / help",
-  //20240403
+  //20240403 - New Update
   UseCookiesToLogin: "Login via Cookies",
+  //Replaced "ManuallySetup"
   PressToView: "Press To View",
+  //Character Info -> Advice Team
   MatchRequirementChar: "Characters that matched【${1}】",
+  //Character Info -> Advice Team -> Press To View
   RequirementOR: " OR ",
-  RequirementAND: " AND "
+  //Character Info -> Advice Team -> Press To View
+  RequirementAND: " AND " //Character Info -> Advice Team -> Press To View
 };

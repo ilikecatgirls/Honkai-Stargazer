@@ -138,13 +138,15 @@ export const strings = {
   HasCopy: "Скопійовано",
   // toast
   PleaseLogin: "Будь ласка, спершу увійдіть!",
-  //Add in 20240114
+  //Add in 20240114 - User Info Page
   UserInfoLastLoginAt: "${1} назад",
+  //E.g. 10 Days Before / 30mins Before || In the User Info Page -> Status, which shows how long does he/she offline
   UserInfoGameData: "Ігрові дані",
   UserInfoStatus: "Характеристики",
   UserInfoGamePlayerLevel: "Рівень Освоєння",
   UserInfoCountComments: "Коментарі",
   UserInfoGameWorldLevel: "Рівень рівноваги",
+  //Equilibrium level
   UserInfoLastOnlineTime: "Останній онлайн",
   UserInfoOwnedCharacters: "Персонажі",
   UserInfoGameActiveDays: "Активні дні",
@@ -156,10 +158,10 @@ export const strings = {
   ProducedByStargazer: "Створено за Stargazer",
   //Add in 20240114 - After 2.0.15
   NoOnlineData: "Немає записів",
-  //Add in 20240115
+  //Add in 20240115 - Lightcone Info Page Buttons
   LightconeEffect: "Ефект конуса",
   LightconeStory: "Історія конуса",
-  //Add in 20240116
+  //Add in 20240116 - For identify the relic sub stat
   UseBlurEffect: "Ефект розмиття",
   ATTR_CRIT_RATE: "Шанс. крит шкоди",
   ATTR_CRIT_DMG: "Крит шкода",
@@ -183,7 +185,7 @@ export const strings = {
   ATTR_PHYSICAL_DMG: "Фізична шкода",
   ATTR_SP_RATE: "Відн. енергії",
   ATTR_HEAL_RATE: "Бонус лікування",
-  //Add in 20240117
+  //Add in 20240117 - Setting Page
   UnLockAll: "Розблокувати все",
   BlurOn: "Розмиття: Увімк.",
   BlurOff: "Розмиття: ВИМК",
@@ -192,7 +194,7 @@ export const strings = {
   UIDSearch: "Пошук UID",
   PublicChars: "Видимі персонажі",
   Switch: "Переключити",
-  //Add in 20240118
+  //Add in 20240118 - User Character Info Page
   Comments: "${1} коментарів",
   UserOwned: "Отримано",
   FullEidolon: "E6",
@@ -211,8 +213,11 @@ export const strings = {
   RelicScore: "Рейтинг реліквії",
   CharScore: "Рейтинг персонажу",
   RelicRank: "Ранг реліквії",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharRank: "Ранг персонажу",
+  //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharGradRate: "Оцінка персонажу%",
+  //In the User Character's Info Page, showing percentage of character's graduation
   LackOfUserData: "Немає таблиці лідерів, оскільки бракує даних користувача",
   LeaderboardOver: "Більше ${1}% гравців",
   LeaderboardDataFrom: "(Дані всіх зареєстрованих гравців)",
@@ -229,15 +234,20 @@ export const strings = {
   StatusToday: "Сьогодні ${1}",
   StatusTomorrow: "Завтра ${1}",
   SuperimposeLvl: "Накладено ${1}",
+  //Lightcone Superimpose Level
   SuperimposeNotEquipped: "Недоступно",
+  //That character is not equipping any lightcones
   TrailblazerNoti: "Сповіщення першопроходця!",
+  //Notification
+  // Character Page Comment Function
   CommentFailed: "Не вдалося прокоментувати, помилка:",
   CommentPlsEnterComment: "Будь ласка, додайте коментарі",
   CommentHaventLogin: "Будь ласка, спершу увійдіть!",
   CommentSuccessful: "Успіх!",
   CommentTextInputHint: "Допоможи мені, містере Сварог!",
   CommentInDiscussion: "В \"${1} обговореннях\"",
-  MOCMissionInfoTitle: "Інформація про місію",
+  // Memory Of Chaos (Leaderboard, MOC info)
+  MOCMissionInfoTitle: "Відомості про місію",
   MOCSkipped: "Пропущено",
   MOCMissionPart1: "Частина I:",
   MOCMissionPart2: "Частина II",
@@ -255,24 +265,28 @@ export const strings = {
   MOCMyBattleReport: "Мій звіт про битву",
   MOCPart1: "(Частина 1)",
   MOCPart2: "(Частина 2)",
-  MOCShowMore: "Показати ще",
+  MOCShowMore: "Деталі",
   MOCRounds: "${1} раундів",
   MOCStars: "${1} зірок",
+  //UID Search
   Searching: "Пошук...",
   UIDEnter: "Будь ласка, введіть UID",
   UIDFormatError: "Помилка формату UID",
   UIDNoData: "Немає даних",
   UIDSearchRecord: "Шукати записи",
   UIDSearchRecordClear: "Очистити",
+  //Redeem Star Rail Code
   RedeemCodeForever: "Без обмежень",
   RedeemCodeUntil: "До ${1}",
   RedeemCodeExpired: "Застарів",
+  //Setting Page
   SettingPersonalPage: "Показати особисту сторінку",
   SettingPersonalPageShow: "Показати",
   SettingPersonalPageDisable: "Вимкнути",
   SettingChangedWallpaper: "Змінено шпалери на \"${1}\"",
   SettingSaveWallpaperSuccess: "Шпалери успішно збережені",
   SettingSaveWallpaperError: "Помилка при збереженні шпалер: ",
+  //Toast display / Donation Bar at the Home Page's bottom
   FunctionStillInDevelop: "Ця функція все ще в розробці",
   LoginEnterCookies: "Будь ласка, введіть куки!",
   ConfirmBTN: "Підтвердити",
@@ -282,80 +296,96 @@ export const strings = {
   CharSoulShort: "Е${1}",
   PlsDonateUs: "Будь ласка, розгляньте можливість пожертвувати на нашу підтримку, дякуємо!",
   DonateInRandomCount: "Випадкове",
-  //20240122
+  //20240122 -> Home Page Button
   MemoryOfChaosShort: "Хаос",
   ScoreLevel: "Майстерність",
   MemoryOfChaosLeaderboard: "Лідери хаосу",
   ScoreLevelLeaderboard: "Лідери",
-  //20240125
-  PureFiction: "Pure Fiction",
-  //20240126
-  PureFictionShort: "Pure",
-  PureFictionLeaderboard: "Pure Leaderboard",
-  About: "About",
-  AboutTheApp: "About Stargazer",
-  PFScore: "${1} pts",
+  //20240125 -> Home Page Button
+  PureFiction: "Чиста Фікція",
+  //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
+  PureFictionShort: "Фікція",
+  PureFictionLeaderboard: "Лідери фікції",
+  About: "Про додаток",
+  //Short form for display in Home Page
+  AboutTheApp: "Про Stargazer",
+  //Full form for display in Setting Page
+  PFScore: "${1} оч.",
+  //Pure Fiction Score, in Pure Fiction Leaderboard
   //20240127
-  EventDuration: "Duration",
+  EventDuration: "Тривалість:",
   //20240128
-  Upgrade: "Upgrade",
-  OverWholeServerUser: "Top ${1}% of all users in record",
+  Upgrade: "Поліпшити",
+  OverWholeServerUser: "Топ ${1}% всіх користувачів",
+  //In the bottom of User Character's Info Page
   //20240129
-  NoCommentYet: "No comments yet ...",
+  NoCommentYet: "Ще немає коментарів...",
+  //User Info Page -> Status 
   //20240131
-  SourceCode: "Source Code",
-  PrevPage: "Previous Page",
-  NextPage: "Next Page",
-  //20240209 - Lottery
-  LotterySimulator: "Wrap Simulator",
-  MakeOnePull: "Wrap x1",
-  MakeTenPull: "Wrap x10",
-  TutorialVideo: "Instructional Video",
-  DonationDesc: 'Thanks for your donation, your support is important for us in improving this app, all donations will be used in <span style="color:#DD8200;">Necessary Expenses</span> and <span style="color:#DD8200;">Other Improvements</span>.',
-  DonateUs: 'Donate Us',
-  ShareToOthers: "Trailblazers, the vast universe is full of endless secrets, and on your journey to pursue the secrets, a reliable guide will help you! Stargazer is not only a Star Rail Assistant App that includes development suggestions, data query, training ranking, and other functions, but also a powerful partner for your exploration journey! Download now and start your own interstellar adventure!\nApp Store : ${AppStoreLink}\nPlay Store : ${PlayStoreLink}",
+  SourceCode: "Початковий код",
+  //Navigate User to read codes in GitHub, belongs to the "About" page
+  PrevPage: "Попередня сторінка",
+  NextPage: "Наступна стор.",
+  //20240209 - Wrap Simulator
+  LotterySimulator: "Симулятор стрибків",
+  MakeOnePull: "х1 Стрибок",
+  MakeTenPull: "10 Стрибків",
+  TutorialVideo: "Відеоінструкція",
+  //Donation Message
+  DonationDesc: "Дякуємо за вашу підтримку, яка має важливе значення для нас у покращенні цього додатку, всі пожертви будуть використовуватися в <span style=\"color:#DD8200;\">Необхідні витрати</span> та <span style=\"color:#DD8200;\">Інші покращення</span>.",
+  DonateUs: "Підтримати нас",
+  ShareToOthers: "Першопроходці, неосяжний всесвіт сповнений нескінченних таємниць, і у вашій подорожі за цими таємницями вам допоможе надійний провідник! Stargazer - це не лише додаток-помічник, який містить пропозиції щодо розвитку, запити даних, рейтинг тренувань та інші функції, але й потужний партнер у вашій дослідницькій подорожі! Завантажуйте зараз і розпочніть власну міжзоряну пригоду!\nApp Store : ${AppStoreLink}\nPlay Store : ${PlayStoreLink}",
   //20240218 - Common Errors
-  ErrorDonationInBeta: "Donation is not available in BETA",
-  ErrorIdentifier: "Unable for find the donation...",
-  ErrorPurchaseAlready: "Please wait a minute and retry again",
+  ErrorDonationInBeta: "Донат не доступний в бета-версії",
+  //Errors when user try to use in-app-purchase in BETA version, deprecated
+  ErrorIdentifier: "Не вдається знайти внесок...",
+  ErrorPurchaseAlready: "Зачекайте кілька хвилин і спробуйте ще раз",
   //20240219 - Permissions and isNotch ...
-  ErrorscreenshotPermissionRejected: "Permission for accessing screenshot was rejected, please press the button again/ grant the permission in system setting.",
-  UserCustomHasNotch: "Notch Adaptation",
-  UserCustomHasDynamicIsland: "Dynamic Island Adaptation",
-  //20240302 - LotteryRecord
-  LotterySimulatorRecord: "Wrap Simulator Record",
-  LotterySimulatorRecordNotice: "Records shown below are NOT from in-game, only from Simulator",
-  LotteryRecordType: "Type",
-  LotteryRecordName: "Name",
-  LotteryRecordTime: "Time",
+  ErrorscreenshotPermissionRejected: "Дозвіл на доступ до скріншота був відхилений, будь ласка, натисніть кнопку повторно / надайте дозвіл в налаштуваннях системи.",
+  UserCustomHasNotch: "Нотч Адаптація",
+  //The buttom button / geasure bar
+  UserCustomHasDynamicIsland: "Динамічний Острів",
+  //iPhone 15 new design (靈動島)
+  //20240302 - Wrap Simulator (Record page) 
+  LotterySimulatorRecord: "Записи емулятора стрибків",
+  LotterySimulatorRecordNotice: "Записи, що показані нижче, не в грі, а лише від симулятора",
+  LotteryRecordType: "Тип",
+  LotteryRecordName: "Назва",
+  LotteryRecordTime: "Час",
   //20240308 ~ 0311 - Wrap Analysis
-  WrapAnalysis: "Wrap Analysis",
-  WrapNeedInit: "No reviews yet. Please click the button in the bottom-let corner to import the wrap URL.",
-  WrapCharPool: "Character Event Wrap",
-  WrapLcPool: "Lightcone Event Wrap",
-  WrapStaticPool: "Regular Wrap",
-  WrapNewbiePool: "Departure Warp",
-  WrapLuckTitle: "Your Luck Review",
-  WrapDetails: "Detail of Records",
-  WrapFourFiveStarRecord: "4-Star & 5-Star",
-  WrapInfoPity: "Percentage of Non-pity",
-  WrapAvgGetUP: "Average Pulls for 5-Star",
-  WrapTotalPull: "Total Pulled",
-  WrapPopUpURLTitle: "Paste the Wrap URL",
-  WrapPopUpURLInfo: "Please paste the Wrap URL below",
-  WrapPopUpURLToast: "Please enter the Wrap URL!",
-  WrapPopUpURLTextArea: "Pleas put the Wrap URL in there",
-  WrapPopUpURLTutorial: "How to get the Wrap URL?",
-  WrapPopUpURLAnalysisButton: "Analysis",
-  WrapPopUpURLProgress: "Analysis Progess : Page ${2} of ${1}",
-  //20240325
-  AppInnerVersionCode: "Codename",
-  //20240328
-  VisitToDCServer: "Please visit our Discord Server for getting solutions / help",
-  //20240403
-  UseCookiesToLogin: "Login via Cookies",
-  PressToView: "Press To View",
-  MatchRequirementChar: "Characters that matched【${1}】",
-  RequirementOR: " OR ",
-  RequirementAND: " AND "
+  WrapAnalysis: "Аналіз Стрибків",
+  WrapNeedInit: "Ще немає даних для перегляду. Будь ласка, натисніть на кнопку у нижньому куті щоб імпортувати URL зі стрибками.",
+  WrapCharPool: "Подія Стрибків персонажа",
+  WrapLcPool: "Подія Стрибків конусів",
+  WrapStaticPool: "Звичайні стрибки",
+  WrapNewbiePool: "Відправний стрибок",
+  WrapLuckTitle: "Огляд вашої удачі",
+  WrapDetails: "Деталізація записів",
+  WrapFourFiveStarRecord: "4 і 5-зіркових",
+  WrapInfoPity: "Відсоток не по гаранту",
+  WrapAvgGetUP: "Середня к-сть стрибків 5⭐ персонажів",
+  WrapTotalPull: "Загальна к-сть стрибків",
+  WrapPopUpURLTitle: "Вставити URL стрибків",
+  WrapPopUpURLInfo: "Будь ласка, вставте URL стрибків нижче",
+  WrapPopUpURLToast: "Будь ласка, введіть URL стрибків!",
+  //Show when u don't enter the URL / token in Toast
+  WrapPopUpURLTextArea: "Будь ласка, вставте URL стрибків",
+  WrapPopUpURLTutorial: "Як отримати URL стрибків?",
+  WrapPopUpURLAnalysisButton: "Аналіз",
+  WrapPopUpURLProgress: "Аналіз: сторінка ${2} з ${1}",
+  //Show when it's reading your Wrap Record one-by-one from official server
+  //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
+  AppInnerVersionCode: "Кодова назва",
+  //20240328 - Wrap Analysis 
+  VisitToDCServer: "Будь ласка, відвідайте наш Discord сервер для отримання рішень / допомоги",
+  //20240403 - New Update
+  UseCookiesToLogin: "Увійти через Cookies",
+  //Replaced "ManuallySetup"
+  PressToView: "Натисніть для перегляду",
+  //Character Info -> Advice Team
+  MatchRequirementChar: "Символи, які збігаються【${1}】",
+  //Character Info -> Advice Team -> Press To View
+  RequirementOR: " АБО ",
+  //Character Info -> Advice Team -> Press To View
+  RequirementAND: " ТА " //Character Info -> Advice Team -> Press To View
 };
