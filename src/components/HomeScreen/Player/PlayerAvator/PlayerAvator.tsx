@@ -24,7 +24,6 @@ export default function PlayerAvator() {
 
   // 資料來自崩鐵
   const { data: hsrInGameInfo } = useHsrInGameInfo(hsrUUID) as any;
-  const avatar = AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")] || useUserByUUID(hsrUUID)?.data?.avatar_url;
 
   const handleNavigatUserInfoPage = () => {
     if (hsrUUID) {
@@ -37,7 +36,7 @@ export default function PlayerAvator() {
 
   return (
     <View className="mr-2">
-      <UserAvatar image={avatar} onPress={handleNavigatUserInfoPage} />
+      <UserAvatar image={AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")] || useUserByUUID(hsrUUID)?.data?.avatar_url} onPress={handleNavigatUserInfoPage} />
     </View>
   );
 }

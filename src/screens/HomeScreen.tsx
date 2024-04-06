@@ -44,6 +44,7 @@ import { getLcFullData } from "../utils/data/getDataFromMap";
 import useAppLanguage from "../language/AppLanguage/useAppLanguage";
 import { getLcAttrData, getLcAttrDataJSON } from "../utils/calculator/getAttrData";
 import { getAttrKeyByPropertyType } from "../utils/hoyolab/exchange/exchange";
+import AvatarIcon from "../../assets/images/images_map/avatarIcon";
 
 export default function HomeScreen() {
   const uid = useMyFirebaseUid();
@@ -116,26 +117,29 @@ export default function HomeScreen() {
         if (UserIsExist) {
           try {
             await db.Users.doc(uid).update({
-              avatar_url: hsrFullData.cur_head_icon_url,
-              level: hsrPlayerData.level,
-              active_days: hsrFullData.stats.active_days,
-              char_num: hsrFullData.stats.avatar_num,
-              achievement_num: hsrFullData.stats.achievement_num,
-              chest_num: hsrFullData.stats.chest_num,
+              avatar_url: hsrFullData?.cur_head_icon_url || "Anonymous",
+              level: hsrPlayerData?.level || 0,
+              active_days: hsrFullData?.stats?.active_days  || 0,
+              char_num: hsrFullData?.stats?.avatar_num  || 0,
+              achievement_num: hsrFullData?.stats?.achievement_num  || 0,
+              chest_num: hsrFullData?.stats?.chest_num  || 0,
               last_login: firestore.Timestamp.now(),
               app_version: askEnvDo({
                 development: "Development Version",
                 beta: VERSION.beta,
                 production: VERSION.production,
-              }),
+                unknown: "UNKNOWN",
+              }) || "UNKNOWN",
             });
+            console.log("update User la");
             if (!UserData?.data()?.invite_code) {
               await db.Users.doc(uid).update({
                 invite_code: "SG-" + genId(10),
               });
             }
+            
           } catch (e: any) {
-            console.log("update User: " + e.message);
+            console.log("update UserX: " + e.message);
           }
         } else {
           try {
@@ -157,6 +161,7 @@ export default function HomeScreen() {
                 development: "Development Version",
                 beta: VERSION.beta,
                 production: VERSION.production,
+                unknown: "UNKNOWN",
               }),
             });
           } catch (e: any) {

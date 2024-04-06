@@ -1,4 +1,4 @@
-import { View } from "react-native";
+import { BackHandler, View } from "react-native";
 import React, { useEffect, useRef, useState } from "react";
 import { StatusBar } from "expo-status-bar";
 import { WebView, WebViewNavigation } from "react-native-webview";
@@ -11,7 +11,7 @@ import {
   getHoyolabCookieFromCookieManager,
 } from "../utils/hoyolab/cookie/hoyolabCookie";
 import { ParamList } from "../types/navigation";
-import { RouteProp, useRoute } from "@react-navigation/native";
+import { RouteProp, useNavigation, useRoute } from "@react-navigation/native";
 import useHsrServerChosen from "../redux/hsrServerChosen/useHsrServerChosen";
 import { isHoyolabPlatform } from "../utils/hoyolab/utils";
 import useAppLanguage from "../language/AppLanguage/useAppLanguage";
@@ -22,6 +22,7 @@ import DeviceInfo from "react-native-device-info";
 export default function LoginScreen() {
   const { language } = useAppLanguage();
   const scrollViewRef = useRef();
+  const navigation = useNavigation();
 
   const route = useRoute<RouteProp<ParamList, "Login">>();
   const platform = route.params.platform;
@@ -40,7 +41,18 @@ export default function LoginScreen() {
       isHoyolabPlatform(serverId) ? "hoyolab" : "mihoyo"
     );
     setHoyolabCookie(cookie);
+    
+    navigation.goBack();
   };
+
+  useEffect(() => {
+    const backHandler = BackHandler.addEventListener(
+      'hardwareBackPress',
+      handleLogin,
+    );
+
+    return () => backHandler.remove();
+  }, []);
 
   return (
     <View style={{ flex: 1 }} className="overflow-hidden">
