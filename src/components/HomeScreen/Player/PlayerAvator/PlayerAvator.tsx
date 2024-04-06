@@ -11,6 +11,9 @@ import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
 import CharacterImage from "../../../../../assets/images/images_map/chacracterImage";
 import useHsrInGameInfo from "../../../../hooks/mihomo/useHsrInGameInfo";
 import AvatarIcon from "../../../../../assets/images/images_map/avatarIcon";
+import useMyFirebaseUid from "../../../../firebase/hooks/FirebaseUid/useMyFirebaseUid";
+import useUserByUUID from "../../../../firebase/hooks/User/useUserByUUID";
+import useUserByName from "../../../../firebase/hooks/User/useUserByName";
 
 export default function PlayerAvator() {
   const navigation = useNavigation();
@@ -21,7 +24,7 @@ export default function PlayerAvator() {
 
   // 資料來自崩鐵
   const { data: hsrInGameInfo } = useHsrInGameInfo(hsrUUID) as any;
-  const avatar = AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")];
+  const avatar = AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")] || useUserByUUID(hsrUUID)?.data?.avatar_url;
 
   const handleNavigatUserInfoPage = () => {
     if (hsrUUID) {

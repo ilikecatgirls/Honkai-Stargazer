@@ -94,7 +94,7 @@ export default function UserInfo(props: Props) {
 
   const playerAvatar = (hsrInGameInfo?.player
     ? AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")]
-    : AvatarIcon["Pam"]
+    : userData?.avatar_url || AvatarIcon["Pam"]
   )
 
   const [activeTab, setActiveTab] = useState("game-data");
@@ -166,7 +166,7 @@ export default function UserInfo(props: Props) {
               />
             </>
           ) : (<></>)}
-          {hsrInGameInfo ? (
+          {hsrInGameInfo || userData ? (
             <AnimatedView
               className={dynamicHeightUserInfoAnimView}
               style={{
@@ -180,7 +180,6 @@ export default function UserInfo(props: Props) {
                   image={playerAvatar}
                   onPress={() => {
                     const signature = hsrInGameInfo?.player?.signature;
-
                     if (signature) {
                       Toast(signature);
                     }
@@ -188,7 +187,7 @@ export default function UserInfo(props: Props) {
                 />
                 {/* 玩家名 */}
                 <Text className="text-text text-[24px] font-[HY65] leading-8">
-                  {hsrInGameInfo?.player?.nickname}
+                  {hsrInGameInfo?.player?.nickname || userData?.name}
                 </Text>
                 {/* UUID & 伺服器 */}
                 <UUIDBox uuid={props.uuid} />
@@ -208,7 +207,7 @@ export default function UserInfo(props: Props) {
                   }
                   value={
                     isGameDataPage
-                      ? hsrInGameInfo?.player?.level
+                      ? hsrInGameInfo?.player?.level || userData?.level
                       : userComments?.comments_num || 0
                   }
                 />
@@ -221,7 +220,7 @@ export default function UserInfo(props: Props) {
                   }
                   value={
                     isGameDataPage ? (
-                      hsrInGameInfo?.player?.world_level
+                      hsrInGameInfo?.player?.world_level || "?"
                     ) : (
                       <Text>
                         {userData?.last_login ? (
@@ -249,7 +248,7 @@ export default function UserInfo(props: Props) {
                     <View className="w-[1px] h-6 bg-[#F3F9FF40]"></View>
                     <InfoItem
                       title={LOCALES[language].UserInfoOwnedCharacters}
-                      value={hsrInGameInfo?.player?.space_info?.avatar_count}
+                      value={hsrInGameInfo?.player?.space_info?.avatar_count || userData?.char_num}
                     />
                   </>
                 )}
@@ -280,7 +279,7 @@ export default function UserInfo(props: Props) {
                     />
                     <InfoItem
                       title={LOCALES[language].UserInfoGameAchievements}
-                      value={hsrInGameInfo?.player?.space_info?.achievement_count}
+                      value={hsrInGameInfo?.player?.space_info?.achievement_count || "?"}
                     />
                     <InfoItem
                       title={LOCALES[language].UserInfoGameOpenedChests}

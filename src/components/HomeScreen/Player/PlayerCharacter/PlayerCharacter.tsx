@@ -1,22 +1,26 @@
 import { View, TouchableOpacity } from "react-native";
 import React from "react";
 import { Image } from "expo-image";
-import useHsrInGameInfo from "../../../../hooks/mihomo/useHsrInGameInfo";
 import useHsrUUID from "../../../../hooks/hoyolab/useHsrUUID";
 import officalCharId from "../../../../../map/character_offical_id_map";
 import CharacterImage from "../../../../../assets/images/images_map/chacracterImage";
 import { CharacterName } from "../../../../types/character";
 import { useNavigation } from "@react-navigation/native";
+import useMyFirebaseUid from "../../../../firebase/hooks/FirebaseUid/useMyFirebaseUid";
+import useUserCharacters from "../../../../firebase/hooks/UserCharacters/useUserCharacters";
 
 export default function PlayerCharacter() {
   const navigation = useNavigation();
 
   const hsrUUID = useHsrUUID();
-  const { data: inGameInfo } = useHsrInGameInfo(hsrUUID) as any;
+  
+  const uid = useMyFirebaseUid();
+  const userCharDetailList = useUserCharacters(uid).data?.characters_details;
+
   return (
     <View className="flex flex-row gap-1">
-      {inGameInfo?.characters ? (
-        inGameInfo?.characters?.slice(0, 5)?.map((char: any, i: number) => (
+      {userCharDetailList ? (
+        userCharDetailList?.filter((data : any) => data.isHelperChar === true)?.slice(0, 5)?.map((char: any, i: number) => (
           <TouchableOpacity
             key={char.id}
             activeOpacity={0.35}

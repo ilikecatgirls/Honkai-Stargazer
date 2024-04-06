@@ -51,7 +51,7 @@ export default React.memo(function UserInfoCharacters(props: Props , {isCapture}
 
   // 展櫃資料
   // @ts-ignore
-  const inGameCharacters = hsrInGameInfo?.characters?.map((char: any) => {
+  const inGameCharacters = (hsrInGameInfo?.characters || userDetailCharList?.filter((char : any) => char?.isHelperChar))?.map((char: any) => {
     // @ts-ignore
     const charId = officalCharId[char?.id] as CharacterName;
     const charJsonData = getCharJsonData(charId);
