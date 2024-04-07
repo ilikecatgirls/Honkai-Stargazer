@@ -3,7 +3,7 @@ import SettingGroup from "../../SettingGroup/SettingGroup";
 import SettingItem from "../../SettingGroup/SettingItem/SettingItem";
 import { LOCALES } from "../../../../../locales";
 import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
-import { ENV, VERSION, VERSION_NAME } from "../../../../../app.config";
+import { ENV, VERSION, VERSION_NAME, VERSION_NAME_BETA } from "../../../../../app.config";
 import * as Device from "expo-device";
 import useIsAdmin from "../../../../firebase/hooks/Role/useIsAdmin";
 import Noti from "../../../../notifications/utils/Noti";
@@ -24,7 +24,7 @@ export default function DevelopmentSetting() {
     <SettingItem
       type="none"
       title={LOCALES[language].AppInnerVersionCode}
-      content={VERSION_NAME}
+      content={(ENV === ("development" || "beta") ? VERSION_NAME_BETA : VERSION_NAME)}
     />
       <SettingItem
         type="none"
