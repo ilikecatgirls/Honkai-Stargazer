@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { View } from "react-native";
 import useHsrFullData from "../../../../hooks/hoyolab/useHsrFullData";
 import { useNavigation } from "@react-navigation/native";
@@ -21,6 +21,8 @@ export default function PlayerAvator() {
 
   const hsrUUID = useHsrUUID();
   const playerFullData = useHsrFullData();
+  const [ avatarIcon, setAvatarIcon ] = useState()
+  const [ isInit, setIsInit ] = useState(false)
 
   // 資料來自崩鐵
   const { data: hsrInGameInfo } = useHsrInGameInfo(hsrUUID) as any;
@@ -34,9 +36,17 @@ export default function PlayerAvator() {
     }
   };
 
+  useEffect(() => {
+    async function init() {
+      setAvatarIcon(AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")] || useUserByUUID(hsrUUID)?.data?.avatar_url || "Anonymous")
+      setIsInit(avatarIcon !== undefined)
+    }
+    if(!isInit) init();
+  })
+
   return (
     <View className="mr-2">
-      <UserAvatar image={AvatarIcon[hsrInGameInfo?.player?.avatar?.icon?.match(/\d+/g)?.join("")] || useUserByUUID(hsrUUID)?.data?.avatar_url} onPress={handleNavigatUserInfoPage} />
+      <UserAvatar image={avatarIcon} onPress={handleNavigatUserInfoPage} />
     </View>
   );
 }
