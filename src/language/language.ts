@@ -31,7 +31,7 @@ export const isGptTranslate = {
   de: false,
   pt: false,
   vi: false,
-  es: true,
+  es: false,
   kr: false,
   th: false,
   jyu_yam: false,
