@@ -19,12 +19,12 @@ export default function DevelopmentSetting() {
     <SettingItem
       type="none"
       title={LOCALES[language].AppVersion}
-      content={DeviceInfo.getVersion() + ` (${DeviceInfo.getBuildNumber()})`  }
+      content={((ENV === "development" ||ENV === "beta") ? "BETA " : "") + DeviceInfo.getVersion() + ` (${DeviceInfo.getBuildNumber()})`  }
     />
     <SettingItem
       type="none"
       title={LOCALES[language].AppInnerVersionCode}
-      content={(ENV === ("development" || "beta") ? VERSION_NAME_BETA : VERSION_NAME)}
+      content={((ENV === "development" ||ENV === "beta") ? VERSION_NAME_BETA : VERSION_NAME)}
     />
       <SettingItem
         type="none"
