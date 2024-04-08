@@ -93,15 +93,15 @@ export const strings = {
   // ui - Memory Of Chaos
   PlayersBattleReport: "Batalla crónica de ${1}",
   PlayersRemainRounds: "${1} Ronda(s) Restante",
-  PlayersAverageRounds: "${1} Round(s) in Average",
+  PlayersAverageRounds: "${1} Ronda(s) Promedio",
   PlayersRounds: "${1} Ronda(s)",
   // ui - Setting Page
   Navigate: "Navegar",
   SwitchOn: "Encendido",
   SwitchOff: "Apagado",
   AccountSetup: "Configuración de cuenta (${1})",
-  UseInviteCode: "Use the Invite Code",
-  HaveNotUsed: "Haven't Used it yet",
+  UseInviteCode: "Usa el código de invitación",
+  HaveNotUsed: "Aún no se ha usado",
   LanguageSetup: "Configuración de Idioma",
   DocumentLanguage: "Idioma del Documento",
   AppLanguage: "Idioma de la Aplicación",
@@ -125,9 +125,9 @@ export const strings = {
   SpecialThanks: "Gracias Especiales",
   SpecialThanksDevs: "Desarrolladores",
   SpecialThanksOpenSource: "Código Abierto Gracias",
-  SelectAccountInServer: "Please select the server you are playing on.",
+  SelectAccountInServer: "Por favor, selecciona el servidor en el que está jugando.",
   ManuallySetup: "Configuración manual",
-  SelectServerTitle: "Select the Server",
+  SelectServerTitle: "Selecciona el servidor",
   RemarksInLogin: "Comentarios de acceso",
   CopyToClipBoard: "Copiado al Portapapeles ~",
   FailToCopy: "Error al Copiar: ",
@@ -147,7 +147,7 @@ export const strings = {
   UserInfoCountComments: "Comentarios",
   UserInfoGameWorldLevel: "Equili. Lvl.",
   //Equilibrium level
-  UserInfoLastOnlineTime: "Last Online Time",
+  UserInfoLastOnlineTime: "Última conexión",
   UserInfoOwnedCharacters: "Personajes",
   UserInfoGameActiveDays: "Días activos",
   UserInfoGameAchievements: "Logros",
@@ -189,10 +189,10 @@ export const strings = {
   UnLockAll: "Desbloquear Todo",
   BlurOn: "Desenfoque: ACTIVADO",
   BlurOff: "Desenfoque: APAGADO",
-  GetCharAndUnLock: "Unlock when u get that character.",
+  GetCharAndUnLock: "Desbloquea al obtener el personaje.",
   Leaderboard: "Tabla de clasificación",
   UIDSearch: "Buscar UID",
-  PublicChars: "Disclose owned characters",
+  PublicChars: "Mostrar personajes obtenidos",
   Switch: "Interruptor",
   //Add in 20240118 - User Character Info Page
   Comments: "${1} Comentarios",
@@ -218,12 +218,12 @@ export const strings = {
   //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharGradRate: "Grado del Personaje",
   //In the User Character's Info Page, showing percentage of character's graduation
-  LackOfUserData: "This leaderboard has no results due to lack of user data",
+  LackOfUserData: "Esta tabla de clasificación no tiene resultados debido a falta de datos de usuario",
   LeaderboardOver: "Más de ${1}% usuarios",
-  LeaderboardDataFrom: "(Data were from All logged in users)",
+  LeaderboardDataFrom: "(Datos provenientes de todos los usuarios conectados)",
   AppStatusLoading: "PomPom está Orando",
   AppStatusLostConnect: "Conexión perdida con el tren...",
-  AppStatusPlayerNoReleaseData: "The player didn't disclose his/her data",
+  AppStatusPlayerNoReleaseData: "El jugador no ha compartido su información",
   AppStatusNoDataFound: "No se encontraron datos...",
   CharSoul: "Eidolón ${1}",
   StatusNow: "Ahora",
@@ -283,8 +283,8 @@ export const strings = {
   SettingPersonalPage: "Mostrar página personal",
   SettingPersonalPageShow: "Mostrar",
   SettingPersonalPageDisable: "Deshabilitar",
-  SettingChangedWallpaper: "The wallpaper was set to \"${1}\"",
-  SettingSaveWallpaperSuccess: "Saved the wallpaper successfully",
+  SettingChangedWallpaper: "El fondo de pantalla se ha establecido a \"${1}\"",
+  SettingSaveWallpaperSuccess: "Fondo de pantalla guardado correctamente",
   SettingSaveWallpaperError: "Error al guardar fondo de pantalla: ",
   //Toast display / Donation Bar at the Home Page's bottom
   FunctionStillInDevelop: "Esta función todavía está en desarrollo",
@@ -294,7 +294,7 @@ export const strings = {
   ShareError: "Fallo al compartir: ",
   CodeAll: "Todos los servidores",
   CharSoulShort: "E${1}",
-  PlsDonateUs: "Pls, consider donating to support us, thx!",
+  PlsDonateUs: "¡Por favor considera donar para apoyarnos!",
   DonateInRandomCount: "Aleatorio",
   //20240122 -> Home Page Button
   MemoryOfChaosShort: "Memoria Del Caos",
@@ -339,22 +339,22 @@ export const strings = {
   ErrorDonationInBeta: "Donación no disponible en la BETA",
   //Errors when user try to use in-app-purchase in BETA version, deprecated
   ErrorIdentifier: "No se pudo encontrar la donación...",
-  ErrorPurchaseAlready: "Please try again in one minute.",
+  ErrorPurchaseAlready: "Por favor, intente nuevamente en un momento.",
   //20240219 - Permissions and isNotch ...
-  ErrorscreenshotPermissionRejected: "Permission for accessing the screenshot was rejected, please press the button again/ grant the permission in the system settings.",
+  ErrorscreenshotPermissionRejected: "El permiso para acceder a la captura de pantalla ha sido denegado, por favor pulse el botón de nuevo o conceda el permiso en la configuración del sistema.",
   UserCustomHasNotch: "Adaptación de Notch",
   //The buttom button / geasure bar
   UserCustomHasDynamicIsland: "Adaptación de Isla Dinámica",
   //iPhone 15 new design (靈動島)
   //20240302 - Wrap Simulator (Record page) 
   LotterySimulatorRecord: "Registro de Simulador de Saltos",
-  LotterySimulatorRecordNotice: "The records shown below are from the emulator and have nothing to do with game data.",
+  LotterySimulatorRecordNotice: "Los registros mostrados a continuación son del simulador y no tienen nada que ver con los datos del juego.",
   LotteryRecordType: "Tipo",
   LotteryRecordName: "Nombre",
   LotteryRecordTime: "Hora",
   //20240308 ~ 0311 - Wrap Analysis
   WrapAnalysis: "Análisis de Salto",
-  WrapNeedInit: "No reviews yet. Please click the button in the bottom-let corner to import the Wrap URL.",
+  WrapNeedInit: "Aún no hay opiniones. Haga clic en el botón de la esquina inferior izquierda para importar la URL del salto.",
   WrapCharPool: "Salto de evento de personaje",
   WrapLcPool: "Salto de evento de cono de luz",
   WrapStaticPool: "Salto normal",
@@ -369,7 +369,7 @@ export const strings = {
   WrapPopUpURLInfo: "Por favor pega debajo la URL de Salto",
   WrapPopUpURLToast: "¡Por favor, introduzca la URL de Salto!",
   //Show when u don't enter the URL / token in Toast
-  WrapPopUpURLTextArea: "Please enter the Wrap URL here",
+  WrapPopUpURLTextArea: "Por favor introduce el URL de Salto",
   WrapPopUpURLTutorial: "¿Cómo obtener la URL de Salto?",
   WrapPopUpURLAnalysisButton: "Análisis",
   WrapPopUpURLProgress: "Progreso de Análisis: Página ${2} de ${1}",
@@ -377,7 +377,7 @@ export const strings = {
   //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
   AppInnerVersionCode: "Nombre en clave",
   //20240328 - Wrap Analysis 
-  VisitToDCServer: "Please visit our Discord Server to get solutions/help",
+  VisitToDCServer: "Por favor visita nuestro servidor de Discord para obtener ayuda",
   //20240403 - New Update
   UseCookiesToLogin: "Iniciar Sesión mediante Cookies",
   //Replaced "ManuallySetup"
