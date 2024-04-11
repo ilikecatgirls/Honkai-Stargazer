@@ -75,9 +75,9 @@ export const dynamicHeightUIDSearchView = (
 
 //對於EventList高度的動態設定 (活動列表頁)
 export const dynamicHeightEventList = (
-    getDynamicIsland ? "z-30 py-[147px] px-[17px] pb-0"
-    : getNotch ? "z-30 py-[127px] px-[17px] pb-0"
-    : "z-30 py-[112px] px-[17px] pb-0"
+    getDynamicIsland ? "z-30 py-[147px] px-[17px]"
+    : getNotch ? "z-30 py-[127px] px-[17px]"
+    : "z-30 py-[112px] px-[17px]"
 );
 
 //對於EventWebview高度的動態設定 (活動內容頁)

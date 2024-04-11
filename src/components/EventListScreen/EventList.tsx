@@ -41,7 +41,7 @@ export default function EventList(props : Props) {
           gap: 11,
           justifyContent: "center",
         }}
-        className="pb-12"
+        className="pb-24"
       >
         <View style={styles.listInner} className="mb-24">
           {hsrEvents?.data?.pic_list?.map(

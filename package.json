@@ -63,6 +63,7 @@
     "react-native-dotenv": "^3.4.10",
     "react-native-draggable-flatlist": "^4.0.1",
     "react-native-gesture-handler": "~2.14.0",
+    "react-native-inappbrowser-reborn": "^3.7.0",
     "react-native-keyboard-aware-scroll-view": "^0.9.5",
     "react-native-modal": "^13.0.1",
     "react-native-pager-view": "6.2.3",
