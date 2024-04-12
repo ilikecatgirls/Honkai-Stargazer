@@ -1,4 +1,4 @@
-import { View, Text, Platform } from "react-native";
+import { View, Text, Platform, Linking } from "react-native";
 import React from "react";
 import { useNavigation } from "@react-navigation/native";
 import { SCREENS } from "../../../../../../constant/screens";
@@ -11,6 +11,13 @@ import {
 } from "../../../../../../utils/hoyolab/servers/hsrServer.types";
 import Button from "../../../../../global/Button/Button";
 import Toast from "../../../../../../utils/toast/Toast";
+import {
+  cookieURLs,
+  getHoyolabCookieFromCookieManager,
+} from "../../../../../../utils/hoyolab/cookie/hoyolabCookie";
+import { InAppBrowser } from 'react-native-inappbrowser-reborn'
+import { isHoyolabPlatform } from "../../../../../../utils/hoyolab/utils";
+import CookieManager from "@react-native-cookies/cookies";
 
 type Server = {
   id: hsrServerId;
@@ -39,12 +46,32 @@ export default function ToLoginScreen(props: Props) {
   const handleChoseServer = (server: Server) => {
     props.onServerChosen && props.onServerChosen(server);
     // @ts-ignore
+    
     navigation.navigate(SCREENS.LoginPage.id, {
       serverId: server.id,
       platform: server.platform,
     });
   };
 
+  async function openInAppBrowser(server : Server){
+    try{
+      const url =  (server.platform === "hoyolab" ? cookieURLs.hoyolab : cookieURLs.mihoyo)
+      const serverId = server.id;
+      if (await InAppBrowser.isAvailable()) {
+        const result = await InAppBrowser.open(url, {
+        }).then(async (response : any) => {
+
+          const cookie = await getHoyolabCookieFromCookieManager(
+            isHoyolabPlatform(serverId) ? "hoyolab" : "mihoyo"
+          );
+        })
+        console.log(result)
+      }
+    }catch(error : any){
+      console.error(error)
+    }
+  }
+  
   return (
     <View style={{ gap: 12 }}>
       <Text className="text-[14px] font-[HY65] text-black leading-5">

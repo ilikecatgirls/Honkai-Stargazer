@@ -66,9 +66,12 @@ export default function LoginScreen() {
         javaScriptEnabled
         domStorageEnabled
         sharedCookiesEnabled
+        //injectedJavaScript="const elements = document.getElementsByClassName('hyv-third-party-login-container-base mt-p16 pb-p16'); while(elements.length > 0){ elements[0].parentNode.removeChild(elements[0]);}"
+        //injectedJavaScriptBeforeContentLoaded="const elements = document.getElementsByClassName('hyv-third-party-login-container-base mt-p16 pb-p16'); while(elements.length > 0){ elements[0].parentNode.removeChild(elements[0]);}"
         thirdPartyCookiesEnabled={true}
+        onMessage={(event : any) => {}}
         cacheEnabled={true}
-        setSupportMultipleWindows={true}
+        setSupportMultipleWindows={false}
         //userAgent={DeviceInfo.getUserAgentSync().replace("wv", "")} //Key of the Google Login
         originWhitelist={["*"]}
         source={{

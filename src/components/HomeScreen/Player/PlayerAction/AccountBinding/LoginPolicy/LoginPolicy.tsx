@@ -6,6 +6,7 @@ import loginPolicyText from "../../../../../../../data/sg_data/login_policy.json
 import useAppLanguage from "../../../../../../language/AppLanguage/useAppLanguage";
 import { LOCALES } from "../../../../../../../locales";
 import { ScrollView } from "react-native-gesture-handler";
+import { ENV } from "../../../../../../../app.config";
 
 type Props = {
   onAcceptPolicy: () => void;
@@ -15,7 +16,7 @@ type Props = {
 export default function LoginPolicy(props: Props) {
   const { language } = useAppLanguage();
 
-  const [countDown, setCountDown] = useState(5);
+  const [countDown, setCountDown] = useState((ENV === "development" ? 1 : 5));
   useEffect(() => {
     if (countDown > 0) {
       const i = setInterval(() => {

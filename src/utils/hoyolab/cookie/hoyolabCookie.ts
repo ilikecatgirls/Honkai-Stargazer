@@ -17,8 +17,10 @@ export const getHoyolabCookieFromCookieManager = async (
 
   try {
     const hoyolabCookieParse = await CookieManager.get(
-      platform === "hoyolab" ? cookieURLs.hoyolab : cookieURLs.mihoyo
+      platform === "hoyolab" ? cookieURLs.hoyolab : cookieURLs.mihoyo,
+      true
     );
+    console.log("hoyolabCookieParse : "+ JSON.stringify(hoyolabCookieParse))
     hoyolabCookie = map(hoyolabCookieParse, (c: any) => {
       return cookieUtil.serialize(c.name, c.value);
     }).join("; ");
