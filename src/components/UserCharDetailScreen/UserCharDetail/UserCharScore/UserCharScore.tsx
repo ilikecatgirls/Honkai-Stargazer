@@ -1,5 +1,5 @@
 import { View, Text, StyleSheet } from "react-native";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import getRelicScore, {
   getRelicTotalScoreRange,
 } from "../../../../utils/calculator/relicScoreCalculator/getRelicScore";
@@ -14,26 +14,36 @@ import getCharScore, {
 import UserCharScoreItem from "./UserCharScoreItem/UserCharScoreItem";
 import ScoreRangeFont from "../../../global/ScoreRangeFont/ScoreRangeFont";
 import UserCharScoreBar from "./UserCharScoreBar/UserCharScoreBar";
+import useCharWeightList from "../../../../hooks/charWeightList/useCharWeightList";
 
 export default React.memo(function UserCharScore() {
   const { language: appLanguage } = useAppLanguage();
 
+  const [scoreWeight, setScoreWeight] = useState()
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setScoreWeight(await useCharWeightList());
+      setAlreadyInit(scoreWeight !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
+
   const { inGameCharData } = useProfileHsrInGameInfo();
-  const userRelicsData: any[] = inGameCharData?.relics;
-  const charId = inGameCharData?.id;
   
   // 遺器總分
   const relicTotalScore = getRelicScore(
     inGameCharData?.id,
-    userRelicsData
+    inGameCharData?.relics
   ).totalScore;
   // 角色總分
   const charTotalScore = inGameCharData
-    ? getCharScore(charId, inGameCharData)
+    ? getCharScore(inGameCharData?.id, inGameCharData,scoreWeight)
     : 0;
   // 各屬性畢業度
   const currAndGrad = inGameCharData
-    ? getCurrAndGradScore(charId, inGameCharData)[0]
+    ? getCurrAndGradScore(inGameCharData?.id, inGameCharData,scoreWeight)[0]
     : [];
 
   return (

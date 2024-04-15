@@ -1,5 +1,5 @@
 import { View, Text } from "react-native";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { LOCALES } from "../../../../../locales";
 import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
 import useProfileCharId from "../../../../context/UserCharDetailData/hooks/useProfileCharId";
@@ -9,6 +9,7 @@ import db from "../../../../firebase/db";
 import useProfileHsrInGameInfo from "../../../../context/UserCharDetailData/hooks/useProfileHsrInGameInfo";
 import getCharScore from "../../../../utils/calculator/charScoreCalculator/getCharScore";
 import formatLocale from "../../../../utils/format/formatLocale";
+import useCharWeightList from "../../../../hooks/charWeightList/useCharWeightList";
 
 export default React.memo(function UserCharStats() {
   const { language: appLanguage } = useAppLanguage();
@@ -17,9 +18,23 @@ export default React.memo(function UserCharStats() {
   const { inGameCharData } = useProfileHsrInGameInfo();
   const charId = inGameCharData?.id;
 
+
+  const [scoreWeight, setScoreWeight] = useState()
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setScoreWeight(await useCharWeightList());
+      setAlreadyInit(scoreWeight !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
+
+  
+
   // 角色總分
   const charTotalScore = inGameCharData
-    ? getCharScore(charId, inGameCharData)
+    ? getCharScore(charId, inGameCharData,scoreWeight)
     : 0;
 
   const { data: overStat } = useQuery(

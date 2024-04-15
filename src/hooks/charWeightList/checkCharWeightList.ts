@@ -8,7 +8,7 @@ const CHAR_WEIGHT_LIST_JSON_KEY = "char-weight-list-json"
 async function checkCharWeightList() {
   const request = await axios(
     "https://firebasestorage.googleapis.com/v0/b/honkai-stargazer-bf382.appspot.com/o/static_data%2FcharWeightList.json",
-    { timeout: 5000, timeoutErrorMessage: "{downloadTokens: \"-3001\", retcode:-3001, message:\"Firebase CharWeightList Timeout La\"}" }
+    { timeoutErrorMessage: "{downloadTokens: \"-3001\", retcode:-3001, message:\"Firebase CharWeightList Timeout La\"}" }
   )
 
   const result = request?.data;
@@ -34,7 +34,7 @@ async function checkCharWeightList() {
       //申請獲取Firebase版本的檔案
       await axios(
         "https://firebasestorage.googleapis.com/v0/b/honkai-stargazer-bf382.appspot.com/o/static_data%2FcharWeightList.json?alt=media&token=" + fileToken,
-        { timeout: 5000, timeoutErrorMessage: "{downloadTokens: \"-3002\", retcode:-3002, message:\"Firebase CharWeightList Timeout La2\"}" }
+        { timeoutErrorMessage: "{downloadTokens: \"-3002\", retcode:-3002, message:\"Firebase CharWeightList Timeout La2\"}" }
       ).then((data) => {
         //獲取了Firebase版本的檔案
         const result = data?.data;
