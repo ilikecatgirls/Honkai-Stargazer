@@ -387,5 +387,8 @@ export const strings = {
   //Character Info -> Advice Team -> Press To View
   RequirementOR: "或",
   //Character Info -> Advice Team -> Press To View
-  RequirementAND: "和" //Character Info -> Advice Team -> Press To View
+  RequirementAND: "和", //Character Info -> Advice Team -> Press To View
+  //20240417 - Survey Button
+  SurveyButton: "问卷",
+  SurveyButtonNowDontHave: "目前暂时没有可填写的问卷",
 };

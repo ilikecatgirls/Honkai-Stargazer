@@ -5,10 +5,11 @@ import {
   LayoutChangeEvent,
   Text,
   Dimensions,
+  Linking,
 } from "react-native";
 import { cn } from "../../../utils/css/cn";
 import MenuItem from "./MenuItem/MenuItem";
-import { Calendar, Moon, Planet, ShootingStar, Star, StarOfDavid } from "phosphor-react-native";
+import { Calendar, ListChecks, Moon, Planet, ShootingStar, Star, StarOfDavid } from "phosphor-react-native";
 import MenuItemLarge from "./MenuItemLarge/MenuItemLarge";
 import { useNavigation } from "@react-navigation/native";
 import { SCREENS } from "../../../constant/screens";
@@ -23,6 +24,8 @@ import LotteryScreen from "../../../screens/LotteryScreen";
 import Toast from "../../../utils/toast/Toast";
 import { ENV } from "../../../../app.config";
 import WrapAnalysisScreen from "../../../screens/WrapAnalysisScreen";
+import AsyncStorage from "@react-native-async-storage/async-storage";
+import { SURVEY_URL_JSON_KEY } from "../../../hooks/survey/getSurveyURL";
 
 export default function Menu() {
   const navigation = useNavigation();
@@ -298,20 +301,6 @@ export default function Menu() {
         // @ts-ignore
         navigation.navigate(SCREENS.MapPage.id);
       },
-    },
-    // 關於 App
-    {
-      type: "normal",
-      name: SCREENS.AboutAppPage.getShortName(language),
-      icon: SCREENS.AboutAppPage.icon,
-      onPress: () => {
-        // @ts-ignore
-        navigation.navigate(SCREENS.DescriptionPage.id, {
-          title: LOCALES[language].AboutTheApp,
-          icon: Star,
-          content: <AboutTheApp />,
-        });
-      },
     },// 抽卡模擬
     {
       type: "normal",
@@ -338,6 +327,24 @@ export default function Menu() {
           icon: ShootingStar,
           content: <WrapAnalysisScreen />,
         });
+      },
+
+    },// 問卷
+    {
+      type: "normal",
+      name: LOCALES[language].SurveyButton,
+      icon: ListChecks,
+      onPress: () => {
+        AsyncStorage.getItem(SURVEY_URL_JSON_KEY).then(async(dataGet) => {
+          const json = JSON.parse(dataGet as string)
+          const currUnix = Date.now()/1000
+          if(dataGet === undefined || dataGet === "" || json.startUnix > currUnix || json.endUnix < currUnix || json.url === undefined || json.url === ""){
+              Toast(LOCALES[language].SurveyButtonNowDontHave)
+          }else{
+              Linking.openURL(json.url);
+          }
+          
+        })
       },
 
     },

@@ -361,6 +361,8 @@ export const strings = {
   MatchRequirementChar: "Characters that matched【${1}】", //Character Info -> Advice Team -> Press To View
   RequirementOR: " OR ", //Character Info -> Advice Team -> Press To View
   RequirementAND: " AND ", //Character Info -> Advice Team -> Press To View
-
+  //20240417 - Survey Button
+  SurveyButton: "Survey",
+  SurveyButtonNowDontHave: "There is currently no questionnaire to fill out",
 
 };

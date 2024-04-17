@@ -21,6 +21,7 @@ import NotificationWrapper from "./src/notifications/NotificationWrapper";
 import { pushExpoNotiType } from "./src/notifications/constant/pushExpoNotiType";
 import { SCREENS } from "./src/constant/screens";
 import checkCharWeightList from "./src/hooks/charWeightList/checkCharWeightList";
+import getSurveyURL from "./src/hooks/survey/getSurveyURL";
 
 
 // import playground for testing
@@ -47,6 +48,9 @@ export default function App() {
 
     //用來檢查評分表
     checkCharWeightList();
+
+    //用來更新問卷的
+    getSurveyURL();
     
   }, []);
 
