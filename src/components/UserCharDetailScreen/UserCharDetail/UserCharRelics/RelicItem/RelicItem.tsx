@@ -1,4 +1,4 @@
-import { View, Text, TouchableOpacity, Dimensions } from "react-native";
+import { View, Text, TouchableOpacity, Dimensions, PixelRatio } from "react-native";
 import React, { useState } from "react";
 import { Image } from "expo-image";
 import Relic from "../../../../../../assets/images/images_map/relic";
@@ -11,6 +11,7 @@ import { animated, useSpring } from "@react-spring/native";
 import { LOCALES } from "../../../../../../locales";
 import useAppLanguage from "../../../../../language/AppLanguage/useAppLanguage";
 import { upperCase } from "lodash";
+import DeviceInfo from "react-native-device-info";
 
 export default React.memo(function RelicItem({
   userRelicData,
@@ -132,11 +133,11 @@ export default React.memo(function RelicItem({
         // 簡短詞條
         <View>
           <View
-            className="w-[114px]"
             style={{
               flexDirection: "row",
               alignItems: "center",
               justifyContent: "space-between",
+              paddingRight:20 * PixelRatio.get()
             }}
           >
             {/* 主詞條 */}
@@ -154,11 +155,11 @@ export default React.memo(function RelicItem({
             <RelicScore score={score} />
           </View>
           {/* 副詞條 */}
-          <View style={{ flexDirection: "row", flexWrap: "wrap" }}>
+          <View style={{ flexDirection: "row", flexWrap: "wrap", maxWidth:300}}>
             {userRelicData.sub_affix.map((sub: any) => (
               <View
-                className="w-[61px]"
-                style={{ flexDirection: "row", alignItems: "center" }}
+                style={{ flexDirection: "row", alignItems: "center",flexBasis: '50%'
+              }}
               >
                 <Image cachePolicy="none"
                   className="w-[20px] h-[20px]"
