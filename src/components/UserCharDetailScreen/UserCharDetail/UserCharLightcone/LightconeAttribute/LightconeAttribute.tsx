@@ -42,8 +42,6 @@ export default React.memo(function LightconeAttribute({
     },
   ];
 
-  console.log(attributes)
-
   return (
     lcInGameData && (
       <View

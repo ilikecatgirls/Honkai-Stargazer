@@ -387,5 +387,9 @@ export const strings = {
   //Character Info -> Advice Team -> Press To View
   RequirementOR: " Или ",
   //Character Info -> Advice Team -> Press To View
-  RequirementAND: " И " //Character Info -> Advice Team -> Press To View
+  RequirementAND: " И ",
+  //Character Info -> Advice Team -> Press To View
+  //20240417 - Survey Button
+  SurveyButton: "Survey",
+  SurveyButtonNowDontHave: "There is currently no questionnaire to fill out"
 };
