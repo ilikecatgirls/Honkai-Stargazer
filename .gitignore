@@ -47,5 +47,3 @@ local.properties
 test.json
 
 env.ts
-eas.json
-app.config.ts
