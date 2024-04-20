@@ -38,7 +38,6 @@ export default class HoyolabRequest {
   public getHsrCharactersData(uuid: string, server: hsrServerId = "asia") {
     const getUrl = (uuid: string, server: hsrServerId) =>
       `https://bbs-api-os.hoyolab.com/game_record/hkrpg/api/avatar/info?server=${hsrServer[server]}&role_id=${uuid}`;
-
     return this.request.send(getUrl(uuid, server));
   }
 

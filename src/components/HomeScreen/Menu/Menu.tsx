@@ -301,7 +301,27 @@ export default function Menu() {
         // @ts-ignore
         navigation.navigate(SCREENS.MapPage.id);
       },
-    },// 抽卡模擬
+    },
+    // 問卷
+    {
+      type: "normal",
+      name: LOCALES[language].SurveyButton,
+      icon: ListChecks,
+      onPress: () => {
+        AsyncStorage.getItem(SURVEY_URL_JSON_KEY).then(async(dataGet) => {
+          const json = JSON.parse(dataGet as string)
+          const currUnix = Date.now()/1000
+          if(dataGet === undefined || dataGet === "" || json.startUnix > currUnix || json.endUnix < currUnix || json.url === undefined || json.url === ""){
+              Toast(LOCALES[language].SurveyButtonNowDontHave)
+          }else{
+              Linking.openURL(json.url);
+          }
+          
+        })
+      },
+
+    },
+    // 抽卡模擬
     {
       type: "normal",
       name: SCREENS.LotteryPage.getShortName(language),
@@ -327,24 +347,6 @@ export default function Menu() {
           icon: ShootingStar,
           content: <WrapAnalysisScreen />,
         });
-      },
-
-    },// 問卷
-    {
-      type: "normal",
-      name: LOCALES[language].SurveyButton,
-      icon: ListChecks,
-      onPress: () => {
-        AsyncStorage.getItem(SURVEY_URL_JSON_KEY).then(async(dataGet) => {
-          const json = JSON.parse(dataGet as string)
-          const currUnix = Date.now()/1000
-          if(dataGet === undefined || dataGet === "" || json.startUnix > currUnix || json.endUnix < currUnix || json.url === undefined || json.url === ""){
-              Toast(LOCALES[language].SurveyButtonNowDontHave)
-          }else{
-              Linking.openURL(json.url);
-          }
-          
-        })
       },
 
     },

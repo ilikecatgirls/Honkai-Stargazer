@@ -8,6 +8,7 @@ import { CharacterName } from "../../../../types/character";
 import { useNavigation } from "@react-navigation/native";
 import useMyFirebaseUid from "../../../../firebase/hooks/FirebaseUid/useMyFirebaseUid";
 import useUserCharacters from "../../../../firebase/hooks/UserCharacters/useUserCharacters";
+import useHsrInGameInfo from "../../../../hooks/mihomo/useHsrInGameInfo";
 
 export default function PlayerCharacter() {
   const navigation = useNavigation();
@@ -15,12 +16,13 @@ export default function PlayerCharacter() {
   const hsrUUID = useHsrUUID();
   
   const uid = useMyFirebaseUid();
-  const userCharDetailList = useUserCharacters(uid).data?.characters_details;
-
+  const userCharDetailHSRList = useHsrInGameInfo(hsrUUID)?.data?.characters;
+  const userCharDetailFirebaseList = useUserCharacters(uid).data?.characters_details;
+  const userCharDetailList = userCharDetailHSRList || userCharDetailFirebaseList
   return (
     <View className="flex flex-row gap-1">
       {userCharDetailList ? (
-        userCharDetailList?.filter((data : any) => data.isHelperChar === true)?.slice(0, 5)?.map((char: any, i: number) => (
+        userCharDetailList?.filter((data : any) => data.isHelperChar !== false )?.slice(0, 5)?.map((char: any, i: number) => (
           <TouchableOpacity
             key={char.id}
             activeOpacity={0.35}
