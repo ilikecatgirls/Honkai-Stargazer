@@ -26,6 +26,8 @@ import { ENV } from "../../../../app.config";
 import WrapAnalysisScreen from "../../../screens/WrapAnalysisScreen";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { SURVEY_URL_JSON_KEY } from "../../../hooks/survey/getSurveyURL";
+import db from "../../../firebase/db";
+import UserFunctionUsage from "../../../firebase/models/UserFunctionUsage";
 
 export default function Menu() {
   const navigation = useNavigation();
@@ -72,7 +74,9 @@ export default function Menu() {
       type: "normal",
       name: SCREENS.CharacterListPage.getShortName(language),
       icon: SCREENS.CharacterListPage.icon,
-      onPress: () => {
+      onPress: async () => {
+        const value = (await db.UserFunctionUsage.doc("CharacterListPage").get()).data() as UserFunctionUsage
+        db.UserFunctionUsage.doc("CharacterListPage").set({"count" : (isNaN(value?.count) ? 0 : value?.count)+1});
         // @ts-ignore
         navigation.navigate(SCREENS.CharacterListPage.id);
       },

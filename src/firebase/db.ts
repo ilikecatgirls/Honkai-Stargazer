@@ -31,6 +31,7 @@ const db = {
   UserCharacterScores(charId: string | number) {
     return firestore().collection(`UserCharacterScores-${charId}`);
   },
+  UserFunctionUsage: firestore().collection("UserFunctionUsage"),
 };
 
 export default db;
