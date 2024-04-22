@@ -9,7 +9,7 @@ import {
 } from "react-native";
 import { cn } from "../../../utils/css/cn";
 import MenuItem from "./MenuItem/MenuItem";
-import { Calendar, ListChecks, Moon, Planet, ShootingStar, Star, StarOfDavid } from "phosphor-react-native";
+import { AlignLeft, Calendar, ListChecks, Moon, Planet, ShootingStar, Star, StarOfDavid } from "phosphor-react-native";
 import MenuItemLarge from "./MenuItemLarge/MenuItemLarge";
 import { useNavigation } from "@react-navigation/native";
 import { SCREENS } from "../../../constant/screens";
@@ -28,6 +28,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { SURVEY_URL_JSON_KEY } from "../../../hooks/survey/getSurveyURL";
 import db from "../../../firebase/db";
 import UserFunctionUsage from "../../../firebase/models/UserFunctionUsage";
+import ActionOrderListScreen from "../../../screens/ActionOrderListScreen";
 
 export default function Menu() {
   const navigation = useNavigation();
@@ -296,15 +297,21 @@ export default function Menu() {
        },
     },
      */
-    // 地圖
+
+    //排軸 Action Order
     {
       type: "normal",
-      name: SCREENS.MapPage.getShortName(language),
-      icon: SCREENS.MapPage.icon,
+      name: SCREENS.ActionOrderListPage.getShortName(language),
+      icon: SCREENS.ActionOrderListPage.icon,
       onPress: () => {
         // @ts-ignore
-        navigation.navigate(SCREENS.MapPage.id);
+        navigation.navigate(SCREENS.ActionOrderListPage.id, {
+          title: LOCALES[language].ActionOrderListPage,
+          icon: AlignLeft,
+          content: <ActionOrderListScreen />,
+        });
       },
+
     },
     // 問卷
     {
@@ -353,6 +360,16 @@ export default function Menu() {
         });
       },
 
+    },
+    // 地圖
+    {
+      type: "normal",
+      name: SCREENS.MapPage.getShortName(language),
+      icon: SCREENS.MapPage.icon,
+      onPress: () => {
+        // @ts-ignore
+        navigation.navigate(SCREENS.MapPage.id);
+      },
     },
   ];
 

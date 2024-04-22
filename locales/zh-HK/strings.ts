@@ -391,5 +391,10 @@ export const strings = {
   //Character Info -> Advice Team -> Press To View
   //20240417 - Survey Button
   SurveyButton: "問卷",
-  SurveyButtonNowDontHave: "目前暫時沒有可填寫的問卷"
+  SurveyButtonNowDontHave: "目前暫時沒有可填寫的問卷",
+  //20240422 - Action Order List & Simulator
+  //Title of Action Order in menu and header
+  ActionOrder: "排軸工具", 
+  ActionOrderAddTeam: "添加",
+  ActionOrderEdit: "編輯",
 };

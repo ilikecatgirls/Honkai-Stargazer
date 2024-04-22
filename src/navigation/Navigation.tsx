@@ -33,6 +33,8 @@ import DescriptionScreen from "../screens/DescriptionScreen";
 import LotteryScreen from "../screens/LotteryScreen";
 import LotteryRecordScreen from "../screens/LotteryRecordScreen";
 import WrapAnalysisScreen from "../screens/WrapAnalysisScreen";
+import ActionOrderListScreen from "../screens/ActionOrderListScreen";
+import ActionOrderSimulatorScreen from "../screens/ActionOrderSimulatorScreen";
 
 export default function Navigation({
   initialRouteName,
@@ -201,6 +203,16 @@ export default function Navigation({
           name={SCREENS.WrapAnalysisPage.id}
           component={WrapAnalysisScreen}
           options={{ headerShown: false }}
+        />
+        <Stack.Screen
+          name={SCREENS.ActionOrderListPage.id}
+          component={ActionOrderListScreen}
+          options={{ headerShown: false}}
+        />
+        <Stack.Screen
+          name={SCREENS.ActionOrderSimulatorPage.id}
+          component={ActionOrderSimulatorScreen}
+          options={{ headerShown: false, orientation:"landscape"}}
         />
       </Stack.Navigator>
     </NavigationContainer>

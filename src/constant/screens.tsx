@@ -16,7 +16,8 @@ import {
   User,
   Users,
   StarOfDavid,
-  ShootingStar
+  ShootingStar,
+  AlignLeft
 } from "phosphor-react-native";
 import { AppLanguage } from "../language/language.types";
 import { LOCALES } from "../../locales";
@@ -225,5 +226,18 @@ export const SCREENS = {
     getName: (lang: AppLanguage) => `${LOCALES[lang].WrapAnalysis}`,
     getShortName: (lang: AppLanguage) => `${LOCALES[lang].WrapAnalysis}`,
     icon: ShootingStar,
+  },
+
+  ActionOrderListPage: {
+    id: "ActionOrderList",
+    getName: (lang: AppLanguage) => `${LOCALES[lang].ActionOrder}`,
+    getShortName: (lang: AppLanguage) => `${LOCALES[lang].ActionOrder}`,
+    icon: AlignLeft,
+  },
+  ActionOrderSimulatorPage: {
+    id: "ActionOrderSimulator",
+    getName: (lang: AppLanguage) => `${LOCALES[lang].ActionOrderSimulator}`,
+    getShortName: (lang: AppLanguage) => `${LOCALES[lang].ActionOrderSimulator}`,
+    icon: AlignLeft,
   },
 };
