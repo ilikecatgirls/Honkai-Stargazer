@@ -45,6 +45,7 @@ import useAppLanguage from "../language/AppLanguage/useAppLanguage";
 import { getLcAttrData, getLcAttrDataJSON } from "../utils/calculator/getAttrData";
 import { getAttrKeyByPropertyType } from "../utils/hoyolab/exchange/exchange";
 import AvatarIcon from "../../assets/images/images_map/avatarIcon";
+import useCharWeightList from "../hooks/charWeightList/useCharWeightList";
 
 export default function HomeScreen() {
   const uid = useMyFirebaseUid();
@@ -88,6 +89,18 @@ export default function HomeScreen() {
       console.log("signin: " + errorMessage);
     }
   };
+
+  /** 初始化(init) charWeightList.json */
+  const [scoreWeight, setScoreWeight] = useState()
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setScoreWeight(await useCharWeightList());
+      setAlreadyInit(scoreWeight !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
 
   //* Firebase 註冊或登入
   useEffect(() => {
@@ -720,12 +733,11 @@ export default function HomeScreen() {
           const relicScore = getRelicScore(char.id, char.relics);
 
           const scoreData: any = {
-            score: getCharScore(char.id, char),
+            score: getCharScore(char.id, char,scoreWeight),
             rank: char.rank,
             lightcone_id: Number(char.light_cone?.id) || null,
             relic_score: relicScore.totalScore,
           };
-
           relicScore.eachScore?.map((scoreObj: any) => {
             const [partName, score] = Object.entries(scoreObj)[0];
             if (partName === "Head") scoreData.relic_head_score = score;
