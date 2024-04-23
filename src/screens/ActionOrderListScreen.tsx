@@ -6,12 +6,12 @@ import { StatusBar } from "expo-status-bar";
 import WallPaper from "../components/global/WallPaper/WallPaper";
 import { LinearGradient } from "expo-linear-gradient";
 import { SCREENS } from "../constant/screens";
-import { Text, View } from "react-native";
-import { ScrollView } from "react-native-gesture-handler";
+import { KeyboardAvoidingView, Text, View } from "react-native";
+import { ScrollView, TouchableOpacity } from "react-native-gesture-handler";
 import UserCharacters from "../firebase/models/UserCharacters";
 import { CharacterName } from "../types/character";
 import { CharacterData } from "../context/CharacterData/CharacterData.types";
-import { dynamicHeightScrollView } from "../constant/ui";
+import { dynamicHeightListAction, dynamicHeightScrollView } from "../constant/ui";
 import CharCard from "../components/global/CharCard/CharCard";
 import characterList from "../../data/character_data/character_list.json";
 import { Path } from "../types/path";
@@ -20,43 +20,37 @@ import { ExpoImage } from "../types/image";
 import CharacterImage from "../../assets/images/images_map/chacracterImage";
 import { getCharFullData } from "../utils/data/getDataFromMap";
 import { getCharAttrData } from "../utils/calculator/getAttrData";
+import Button from "../components/global/Button/Button";
+import { LOCALES } from "../../locales";
 
 
 export type TeamListItem = {
-  teamName : String;
-  teamInfo : Array<TeamData>;
+  teamName: String;
+  teamBuildDate: number;
+  teamInfo: Array<TeamData>;
 }
 
 export type TeamData = {
-  characterName : CharacterName;
-  level : number;
-  energyLimit : number,
-  energyRechargeRate : number,
-  speedBase : number,
-  speedAddition : number,
-  charData : UserCharacters | undefined,
-}
-
-export type CharListItem = {
   id: CharacterName;
   name: string;
   rare: number;
   path: Path;
   combatType: CombatType;
   image: ExpoImage;
-  version: string;
-  atk: number;
-  def: number;
-  hp: number;
-  energy: number;
-};
+  level?: number;
+  energyLimit: number;
+  energyRechargeRate?: number;
+  speedBase?: number;
+  speedAddition?: number;
+}
+
 
 export default function ActionOrderListScreen() {
   const { language: textLanguage } = useTextLanguage();
   const { language: appLanguage } = useAppLanguage();
   const scrollViewRef = useRef(null);
-  
-  const [charCardListData, setCharCardListData] = useState<CharListItem []>();
+
+  const [charCardListData, setCharCardListData] = useState<TeamData[]>();
 
   useEffect(() => {
     setCharCardListData(
@@ -71,101 +65,101 @@ export default function ActionOrderListScreen() {
           combatType: char.element as CombatType,
           path: char.path as Path,
           image: CharacterImage[char.name as CharacterName]?.icon,
-          version: char.version,
-          atk: charAttrData.atk,
-          def: charAttrData.def,
-          hp: charAttrData.hp,
-          energy: charAttrData.energy,
+          energyLimit: charAttrData.energy,
         };
       })
     );
   }, []);
 
   //Read data from character's team...
-  const teamDataTest : Array<TeamListItem> = [
+  const teamDataTest: Array<TeamListItem> = [
     {
       teamName: "名字隨意改",
+      teamBuildDate: 1713839701000,
       teamInfo: [
         {
-          characterName: "Kafka",
-          level : 78,
-          energyLimit : 120,
-          energyRechargeRate : 1.00,
-          speedBase : 100.0,
-          speedAddition : 34.0,
-          charData : charCardListData?.filter((char : CharListItem) => (char.name === "Kafka"))[0],
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Kafka"))[0], ...
+          {
+            level: 78,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
         },
         {
-          characterName: "Guinaifen",
-          level : 78,
-          energyLimit : 120,
-          energyRechargeRate : 1.00,
-          speedBase : 106.0,
-          speedAddition : 25.0,
-          charData : undefined,
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Guinaifen"))[0], ...
+          {
+            level: 78,
+            energyRechargeRate: 1.00,
+            speedBase: 106.0,
+            speedAddition: 25.0,
+          }
         },
         {
-          characterName: "Ruan Mei",
-          level : 78,
-          energyLimit : 130,
-          energyRechargeRate : 1.244,
-          speedBase : 104.0,
-          speedAddition : 5.0,
-          charData : undefined,
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Ruan Mei"))[0], ...
+          {
+            level: 78,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
         },
         {
-          characterName: "Huohuo",
-          level : 78,
-          energyLimit : 140,
-          energyRechargeRate : 1.244,
-          speedBase : 98.0,
-          speedAddition : 46.88,
-          charData : undefined,
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Huohuo"))[0], ...
+          {
+            level: 78,
+            energyRechargeRate: 1.244,
+            speedBase: 98.0,
+            speedAddition: 46.88,
+          }
         },
       ],
     } as TeamListItem,
+
     {
-      teamName: "我再試試",
+      teamName: "冰隊",
+      teamBuildDate: 1710839701000,
       teamInfo: [
         {
-          characterName: "Kafka",
-          level : 78,
-          energyLimit : 120,
-          energyRechargeRate : 1.00,
-          speedBase : 100.0,
-          speedAddition : 34.0,
-          charData : undefined,
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Jingliu"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
         },
         {
-          characterName: "Guinaifen",
-          level : 78,
-          energyLimit : 120,
-          energyRechargeRate : 1.00,
-          speedBase : 106.0,
-          speedAddition : 25.0,
-          charData : undefined,
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Pela"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.00,
+            speedBase: 106.0,
+            speedAddition: 25.0,
+          }
         },
         {
-          characterName: "Ruan Mei",
-          level : 78,
-          energyLimit : 130,
-          energyRechargeRate : 1.244,
-          speedBase : 104.0,
-          speedAddition : 5.0,
-          charData : undefined,
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Ruan Mei"))[0], ...
+          {
+            level: 60,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
         },
         {
-          characterName: "Huohuo",
-          level : 78,
-          energyLimit : 140,
-          energyRechargeRate : 1.244,
-          speedBase : 98.0,
-          speedAddition : 46.88,
-          charData : undefined,
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Huohuo"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.244,
+            speedBase: 98.0,
+            speedAddition: 46.88,
+          }
         },
       ],
     } as TeamListItem,
   ];
+
   const teamListContent = teamDataTest;
 
   return (
@@ -185,24 +179,47 @@ export default function ActionOrderListScreen() {
         {SCREENS.ActionOrderListPage.getName(appLanguage)}
       </Header>
 
+      {/* Add Team Button */}
+      <View className={dynamicHeightListAction} style={{
+        justifyContent: "flex-end",
+        alignItems: "center",
+      }}>
+        <Button width={212} height={46}>
+          <Text className="font-[HY65] text-[16px]">{LOCALES[appLanguage].ActionOrderAddTeam}</Text>
+        </Button>
+      </View>
+
+
       <ScrollView className={dynamicHeightScrollView} ref={scrollViewRef} nestedScrollEnabled={true}>
         {
-          teamListContent?.map((team : TeamListItem) => {
+          teamListContent?.map((team: TeamListItem) => {
             return (
-              <View style={{backgroundColor: "#DDDDDDFF", padding:12}}>
-                <Text style={{fontSize:16,color:"#000000FF"}}>{team.teamName}</Text>
-                <ScrollView horizontal={false}>
-                  {team.teamInfo.map((char : TeamData) => (
-                    <View>
-                      <CharCard {...char?.charData}/>
+              <View style={{ paddingBottom: 12 }}>
+                <View style={{ backgroundColor: "#DDDDDDFF", padding: 12, borderRadius: 4, borderTopRightRadius: 16 }}>
+                  <TouchableOpacity
+                    onPress={() => {
+                      // @ts-ignore
+                    }}
+                  >
+                    <Text style={{ fontSize: 16, color: "#000000FF", paddingBottom: 4 }}>{team.teamName}</Text>
+                    <Text style={{ fontSize: 14, color: "#00000099", paddingBottom: 8 }}>{getDisplayDateByUnix(team.teamBuildDate)}</Text>
+                    <View style={{ backgroundColor: "#00000010", width: "100%", height: 1 }}></View>
+                    <View style={{ flexDirection: 'row', paddingTop: 8 }}>
+                      {
+                        team.teamInfo.map((char: TeamData) => (
+                          <CharCard outlinePadding={12} {...char} />
+                        ))
+                      }
                     </View>
-                  ))}
-                </ScrollView>
+                  </TouchableOpacity>
+                </View>
               </View>
             )
           })
         }
       </ScrollView>
+
+
 
       <LinearGradient
         pointerEvents="none"
@@ -215,4 +232,11 @@ export default function ActionOrderListScreen() {
       />
     </View>
   );
+}
+
+function getDisplayDateByUnix(unix: number): String {
+  const date = new Date(unix);
+  return date.getFullYear() + "."
+    + (date.getMonth() + 1 < 10 ? "0" : "") + (date.getMonth() + 1) + "."
+    + (date.getDate() < 10 ? "0" : "") + date.getDate()
 }

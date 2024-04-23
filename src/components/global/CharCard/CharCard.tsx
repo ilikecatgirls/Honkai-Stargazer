@@ -24,6 +24,7 @@ type Props = {
   level?: number;
   path?: Path;
   combatType?: CombatType;
+  outlinePadding?: number;
   image?:
   | string
   | number
@@ -44,7 +45,7 @@ export default React.memo(function CharCard(props: Props) {
   const itemMaxWidth = 80;
   const itemPadding = 6;
   const dimension = Dimensions.get('window');
-  const totalAvailableWidth = (dimension.width - 8 * 2);
+  const totalAvailableWidth = (dimension.width - 8 * 2 - (props.outlinePadding ? props.outlinePadding : 0)*2);
   const itemInRow = Math.trunc(totalAvailableWidth / itemMaxWidth)
   const oneItemWidth = itemMaxWidth + (((totalAvailableWidth % itemMaxWidth) / itemInRow))
 
