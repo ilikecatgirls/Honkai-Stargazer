@@ -6,8 +6,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Make With Love](https://img.shields.io/badge/make_with_%E2%9D%A4%EF%B8%8F-white)
-![RELEASE](https://img.shields.io/badge/RELEASE-2.1.0-green)
-![BETA](https://img.shields.io/badge/BETA-2.1.6-pink)
+![RELEASE](https://img.shields.io/badge/RELEASE-2.1.2-green)
+![BETA](https://img.shields.io/badge/BETA-2.2.3-pink)
 
 星穹觀星者 2 是由團隊[<span style="color:#E31576">Coding Band</span>](https://github.com/Coding-Band)開發
 - [<span style="color:#00CCFF">2O48](https://github.com/2O48) : UI/UX 設計
