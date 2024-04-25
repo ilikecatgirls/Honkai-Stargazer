@@ -734,7 +734,7 @@ export default function HomeScreen() {
 
           const scoreData: any = {
             score: getCharScore(char.id, char,scoreWeight),
-            rank: char.rank,
+            rank: char?.rank || 0,
             lightcone_id: Number(char.light_cone?.id) || null,
             relic_score: relicScore.totalScore,
           };
