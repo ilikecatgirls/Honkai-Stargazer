@@ -58,7 +58,7 @@ export default function App() {
     //HY55: require("./assets/fonts/HYRunYuan-55W.ttf"),
     //HY65: require("./assets/fonts/HYRunYuan-65W.ttf"),
     //HY75: require("./assets/fonts/HYRunYuan-75W.ttf"),
-    HY65: require("./assets/fonts/MiSans-Medium.ttf"),
+    HY65: require("./assets/fonts/MiSans-Regular.ttf"),
   });
 
   const onLayoutRootView = useCallback(async () => {
