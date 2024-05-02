@@ -1,4 +1,6 @@
 import scoreWeight from "../../../../data/weight_data/relicWeightList.json";
+import { useEffect, useState } from "react";
+//import useCharWeightList from "../../../hooks/charWeightList/useCharWeightList";
 
 export default function getRelicScore(
   charId: string,
@@ -21,6 +23,20 @@ export default function getRelicScore(
   /**
    * 初始化
    **/
+  /*
+
+  const [scoreWeight, setScoreWeight] = useState([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setScoreWeight(await useCharWeightList());
+      setAlreadyInit(scoreWeight !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
+
+  */
   // @ts-ignore
   const charScoreWeight = scoreWeight[charId];
 
