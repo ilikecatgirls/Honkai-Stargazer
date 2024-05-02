@@ -69,3 +69,60 @@ export function getAttrKeyByPropertyType(property_type: number) {
     default: return { key: property_type.toString(), isPercent: false }
   }
 }
+
+/**
+ * 
+ * @param key E.g. "hp"
+ * @param isMainAttr Called by Main Attr or Sub Attr?
+ * @returns E.g. "HPDelta"
+ */
+export function getGeneralAttrTypeByKey(key : string, isMainAttr : boolean = false){
+  switch(key){
+    case "hp" : {return (isMainAttr ? "HPAddedRatio" : "HPDelta")}
+    case "atk" : {return (isMainAttr ? "AttackAddedRatio" : "AttackDelta")}
+    case "def" : {return (isMainAttr ? "DefenceAddedRatio" : "DefenceDelta")}
+    case "spd" : {return "SpeedDelta"}
+    case "crit_rate" : {return "CriticalChanceBase"}
+    case "crit_dmg" : {return "CriticalDamageBase"}
+    case "sp_rate" : {return "SPRatioBase"}
+    case "heal_rate" : {return "HealRatioBase"}
+    case "effect_hit" : {return "StatusProbabilityBase"}
+    case "effect_res" : {return "StatusResistanceBase"}
+    case "break_dmg" : {return "BreakDamageAddedRatioBase"}
+    case "physical_dmg" : {return "PhysicalAddedRatio"}
+    case "fire_dmg" : {return "FireAddedRatio"}
+    case "ice_dmg" : {return "IceAddedRatio"}
+    case "lightning_dmg" : {return "ThunderAddedRatio"}
+    case "wind_dmg" : {return "WindAddedRatio"}
+    case "quantum_dmg" : {return "QuantumAddedRatio"}
+    case "imaginary_dmg" : {return "ImaginaryAddedRatio"}
+    default : return "UnknownAttrType"
+  }
+}
+
+export function getKeyByGeneralAttrType(generalAttrType : string){
+  switch(generalAttrType){
+    case "HPAddedRatio" : 
+    case "HPDelta" : {return "hp"}
+    case "AttackAddedRatio" :
+    case "AttackDelta" : {return "atk"}
+    case "DefenceAddedRatio" : 
+    case "DefenceDelta" : {return "def"}
+    case "SpeedDelta" : {return "spd"}
+    case "CriticalChanceBase" : {return "crit_rate"}
+    case "CriticalDamageBase" : {return "crit_dmg"}
+    case "SPRatioBase" : {return "sp_rate"}
+    case "HealRatioBase" : {return "heal_rate"}
+    case "StatusProbabilityBase" : {return "effect_hit"}
+    case "StatusResistanceBase" : {return "effect_res"}
+    case "BreakDamageAddedRatioBase" : {return "break_dmg"}
+    case "PhysicalAddedRatio" : {return "physical_dmg"}
+    case "FireAddedRatio" : {return "fire_dmg"}
+    case "IceAddedRatio" : {return "ice_dmg"}
+    case "ThunderAddedRatio" : {return "lightning_dmg"}
+    case "WindAddedRatio" : {return "wind_dmg"}
+    case "QuantumAddedRatio" : {return "quantum_dmg"}
+    case "ImaginaryAddedRatio" : {return "imaginary_dmg"}
+    default : return "UnknownKey"
+  }
+}

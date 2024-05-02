@@ -1,6 +1,7 @@
-import scoreWeight from "../../../../data/weight_data/relicWeightList.json";
+//import scoreWeight from "../../../../data/weight_data/relicWeightList.json";
 import { useEffect, useState } from "react";
-//import useCharWeightList from "../../../hooks/charWeightList/useCharWeightList";
+import useCharWeightList from "../../../hooks/charWeightList/useCharWeightList";
+import { getAttrKeyByPropertyType, getGeneralAttrTypeByKey, getKeyByGeneralAttrType } from "../../hoyolab/exchange/exchange";
 
 export default function getRelicScore(
   charId: string,
@@ -18,27 +19,14 @@ export default function getRelicScore(
       type: string;
       value: number;
     }[];
-  }[]
+  }[],
+  scoreWeight? : {}
 ) {
   /**
    * 初始化
    **/
-  /*
-
-  const [scoreWeight, setScoreWeight] = useState([])
-  const [alreadyInit, setAlreadyInit] = useState(false)
-
-  useEffect(() => {
-    async function init() {
-      setScoreWeight(await useCharWeightList());
-      setAlreadyInit(scoreWeight !== undefined)
-    }
-    if(!alreadyInit) init();
-  })
-
-  */
   // @ts-ignore
-  const charScoreWeight = scoreWeight[charId];
+  const charScoreWeight = (scoreWeight[charId] === undefined ? undefined : scoreWeight[charId][0]);
 
   // 該角色還沒有權重
   if (!charScoreWeight) {
@@ -79,9 +67,10 @@ export default function getRelicScore(
   const relicLevelValue = charRelicsData.map((relic) => relic.level);
 
   // 主詞條權重
-  const relicMainScoreWeight = charScoreWeight["main"];
+  const relicMainScoreWeight = charScoreWeight?.relicScore?.main;
+  const relicMainScoreWeightDefault = charScoreWeight?.attr; //不是推薦的選項 (hp)
   // 副詞條權重
-  const relicSubScoreWeight = charScoreWeight["weight"];
+  const relicSubScoreWeight = charScoreWeight?.attr;
 
   /**
    * 主詞條積分
@@ -92,11 +81,16 @@ export default function getRelicScore(
   //主詞條分數詳情
   const relicMainScore = relicMainValue.map((main, i) => {
     // 主詞條名稱
-    const name = Object.keys(main)[0];
-    // 主詞條數值 -- 算式不需使用
-    const value = main[name];
-    // 主詞條權重
-    const weight = (relicMainScoreWeight[`${i + 1}`][name] === undefined ? 0 : relicMainScoreWeight[`${i + 1}`][name]);
+    const name = Object.keys(main)[0]; //HPDelta
+    // 主詞條權重 : (推薦權重默認為1 , 沒推薦默認按Attr表)
+    const weight = (i < 2 ? 0 : ( //檢查是否主詞條不變的頭部&手部
+          name === getGeneralAttrTypeByKey(relicMainScoreWeight[i-2],true) ? 1 : (//檢查主詞條是否推薦詞條
+          (name !== undefined && name !== "UnknownAttrType") //到JSON內的attr:[]找詞條權重
+          ? (relicMainScoreWeightDefault[getKeyByGeneralAttrType(name)] || 0)
+          : 0
+        )
+      )
+    );
 
     //按遺器位置内、主詞條加成和 [等級] (特定情況下) 計算積分
     switch (relicOrderExpect.indexOf(relicOrder[i])) {
@@ -138,12 +132,15 @@ export default function getRelicScore(
       // 副詞條名稱
       const name = Object.keys(sub)[0];
       // 副詞條數值
-      const attrValue = sub[name];
+      const attrValue = (sub[name] === undefined ? 0 : sub[name]);
+      /* Deprecated
       // 副詞條權重 - 四捨五入補償
       const charAttrWeight =
         relicSubScoreWeight[name] == 0.3 || relicSubScoreWeight[name] == 0.8
           ? relicSubScoreWeight[name] - 0.05
           : relicSubScoreWeight[name];
+      */
+      const charAttrWeight = (relicSubScoreWeight[getKeyByGeneralAttrType(name)] || 0);
       // 臨時計分用
       let tmpScore = 0;
 

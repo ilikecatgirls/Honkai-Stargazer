@@ -730,7 +730,7 @@ export default function HomeScreen() {
         userCharDetailList?.map(async (char: any) => {
           const doc = db.UserCharacterScores(char.id).doc(uid);
           const docIsExist = (await doc.get()).exists;
-          const relicScore = getRelicScore(char.id, char.relics);
+          const relicScore = getRelicScore(char.id, char.relics,scoreWeight);
 
           const scoreData: any = {
             score: getCharScore(char.id, char,scoreWeight),
@@ -738,6 +738,7 @@ export default function HomeScreen() {
             lightcone_id: Number(char.light_cone?.id) || null,
             relic_score: relicScore.totalScore,
           };
+
           relicScore.eachScore?.map((scoreObj: any) => {
             const [partName, score] = Object.entries(scoreObj)[0];
             if (partName === "Head") scoreData.relic_head_score = score;

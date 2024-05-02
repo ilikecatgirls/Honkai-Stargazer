@@ -1,15 +1,30 @@
 import { View } from "react-native";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import useProfileHsrInGameInfo from "../../../../context/UserCharDetailData/hooks/useProfileHsrInGameInfo";
 import RelicItem from "./RelicItem/RelicItem";
 import getRelicScore from "../../../../utils/calculator/relicScoreCalculator/getRelicScore";
+import useCharWeightList from "../../../../hooks/charWeightList/useCharWeightList";
 
 export default React.memo(function UserCharRelics() {
   const { inGameCharData } = useProfileHsrInGameInfo();
   const userRelicsData: any[] = inGameCharData?.relics;
-  const { eachScore } = getRelicScore(inGameCharData?.id, userRelicsData);
 
+  const [scoreWeight, setScoreWeight] = useState({})
+  const [eachScore , setEachScore] = useState()
+  const [alreadyInit, setAlreadyInit] = useState(false)
   const [selectedRelic, setSelectedRelic] = useState(-1);
+  const relicOrderExpect = ["Head", "Hands", "Body", "Shoes", "Ball", "Link"];
+
+  useEffect(() => {
+    async function init() {
+      setScoreWeight(await useCharWeightList());
+      if(scoreWeight !== undefined){
+        setEachScore(getRelicScore(inGameCharData?.id, userRelicsData,scoreWeight)?.eachScore)
+      }
+      setAlreadyInit(scoreWeight !== undefined)
+    }
+    if(!alreadyInit) init();
+  })
 
   return (
     !!userRelicsData?.length && (

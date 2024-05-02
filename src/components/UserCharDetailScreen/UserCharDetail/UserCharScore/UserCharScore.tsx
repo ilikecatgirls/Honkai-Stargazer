@@ -19,7 +19,7 @@ import useCharWeightList from "../../../../hooks/charWeightList/useCharWeightLis
 export default React.memo(function UserCharScore() {
   const { language: appLanguage } = useAppLanguage();
 
-  const [scoreWeight, setScoreWeight] = useState()
+  const [scoreWeight, setScoreWeight] = useState({})
   const [alreadyInit, setAlreadyInit] = useState(false)
 
   useEffect(() => {
@@ -33,10 +33,13 @@ export default React.memo(function UserCharScore() {
   const { inGameCharData } = useProfileHsrInGameInfo();
   
   // 遺器總分
-  const relicTotalScore = getRelicScore(
-    inGameCharData?.id,
-    inGameCharData?.relics
-  ).totalScore;
+  const relicTotalScore = inGameCharData ? (
+    getRelicScore(
+      inGameCharData?.id,
+      inGameCharData?.relics,
+      scoreWeight
+    ).totalScore
+  ) : 0;
   // 角色總分
   const charTotalScore = inGameCharData
     ? getCharScore(inGameCharData?.id, inGameCharData,scoreWeight)
