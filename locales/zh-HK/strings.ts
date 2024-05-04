@@ -394,7 +394,7 @@ export const strings = {
   SurveyButtonNowDontHave: "目前暫時沒有可填寫的問卷",
   //20240422 - Action Order List & Simulator
   //Title of Action Order in menu and header
-  ActionOrder: "排軸工具", 
+  ActionOrder: "排軸工具",
   ActionOrderAddTeam: "添加",
-  ActionOrderEdit: "編輯",
+  ActionOrderEdit: "編輯"
 };

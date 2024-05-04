@@ -364,5 +364,10 @@ export const strings = {
   //20240417 - Survey Button
   SurveyButton: "Survey",
   SurveyButtonNowDontHave: "There is currently no questionnaire to fill out",
+  //20240422 - Action Order List & Simulator
+  //Title of Action Order in menu and header
+  ActionOrder: "Action Order", 
+  ActionOrderAddTeam: "Add",
+  ActionOrderEdit: "Edit",
 
 };

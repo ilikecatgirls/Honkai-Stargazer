@@ -47,7 +47,7 @@ export const strings = {
   Expedition: "Exped.",
   ExpeditionFullName: "Expedición",
   Setting: "Ajustes",
-  MemoryOfChaos: "Memoria del caos",
+  MemoryOfChaos: "Evocación caótica",
   NoDataYet: "Aún no hay datos",
   IsDone: "Hecho",
   PlayerLevel: "Nivel.",
@@ -297,9 +297,9 @@ export const strings = {
   PlsDonateUs: "¡Por favor considera donar para apoyarnos!",
   DonateInRandomCount: "Aleatorio",
   //20240122 -> Home Page Button
-  MemoryOfChaosShort: "Memoria Del Caos",
+  MemoryOfChaosShort: "Ev Caót",
   ScoreLevel: "Clasificación",
-  MemoryOfChaosLeaderboard: "Clasificación MOC",
+  MemoryOfChaosLeaderboard: "Clasificación Ev Caót",
   ScoreLevelLeaderboard: "Tabla de clasificación",
   //20240125 -> Home Page Button
   PureFiction: "Pura Ficción",
@@ -390,6 +390,11 @@ export const strings = {
   RequirementAND: " Y ",
   //Character Info -> Advice Team -> Press To View
   //20240417 - Survey Button
-  SurveyButton: "Survey",
-  SurveyButtonNowDontHave: "There is currently no questionnaire to fill out"
+  SurveyButton: "Encuesta",
+  SurveyButtonNowDontHave: "No hay ningún cuestionario para rellenar",
+  //20240422 - Action Order List & Simulator
+  //Title of Action Order in menu and header
+  ActionOrder: "Action Order",
+  ActionOrderAddTeam: "Add",
+  ActionOrderEdit: "Edit"
 };

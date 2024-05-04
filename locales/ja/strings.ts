@@ -51,7 +51,7 @@ export const strings = {
   NoDataYet: "データがありません",
   IsDone: "完了",
   PlayerLevel: "開拓レベル",
-  AccountLogin: "ホヨバースをログインする",
+  AccountLogin: "ホヨバースにログインする",
   ModifyHomePage: "ホームページを変更",
   SimulatedUniverse: "模擬宇宙",
   Event: "イベント",
@@ -216,7 +216,7 @@ export const strings = {
   //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
   CharRank: "キャラランク",
   //In the User Character's Info Page, showing the ranking (SS, A, B, ...) of the score
-  CharGradRate: "Char. Grad%",
+  CharGradRate: "成績%",
   //In the User Character's Info Page, showing percentage of character's graduation
   LackOfUserData: "ユーザーデータが不足しているため、このランキングには結果がありません",
   LeaderboardOver: "${1}%以上のユーザー",
@@ -227,7 +227,7 @@ export const strings = {
   AppStatusNoDataFound: "データが見つかりません...",
   CharSoul: "星魂 ${1}",
   StatusNow: "現在",
-  StatusHours: "${1}Hrs",
+  StatusHours: "${1}時間",
   StatusMinutes: "${1}分",
   StatusSeconds: "${1}秒",
   StatusDays: "${1}日",
@@ -297,10 +297,10 @@ export const strings = {
   PlsDonateUs: "私たちをサポートするために寄付をご検討ください。",
   DonateInRandomCount: "ランダム",
   //20240122 -> Home Page Button
-  MemoryOfChaosShort: "MOC",
+  MemoryOfChaosShort: "混沌の記憶",
   ScoreLevel: "熟練度",
-  MemoryOfChaosLeaderboard: "MOC Leaderboard",
-  ScoreLevelLeaderboard: "熟練度リーダーボード",
+  MemoryOfChaosLeaderboard: "混沌の記憶¥nリーダーボード",
+  ScoreLevelLeaderboard: "熟練度¥nリーダーボード",
   //20240125 -> Home Page Button
   PureFiction: "虚構叙事",
   //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
@@ -330,7 +330,7 @@ export const strings = {
   LotterySimulator: "跳躍シミュレーター",
   MakeOnePull: "1回跳躍",
   MakeTenPull: "10回跳躍",
-  TutorialVideo: "Instructional Video",
+  TutorialVideo: "演出",
   //Donation Message
   DonationDesc: "寄付してくれてありがとう。あなたのサポートはこのアプリを改善する上で重要です。すべての寄付は <span style=\"color:#DD8200;\">必要経費</span> と <span style=\"color:#DD8200;\">その他の改善</span>に使われます。",
   DonateUs: "寄付",
@@ -338,7 +338,7 @@ export const strings = {
   //20240218 - Common Errors
   ErrorDonationInBeta: "ベータ版では寄付できません",
   //Errors when user try to use in-app-purchase in BETA version, deprecated
-  ErrorIdentifier: "Unable for find the donation...",
+  ErrorIdentifier: "寄付履歴が見つかりません...",
   ErrorPurchaseAlready: "しばらく待ってからもう一度やり直してください",
   //20240219 - Permissions and isNotch ...
   ErrorscreenshotPermissionRejected: "スクリーンショットへのアクセス権限が拒否されました。もう一度ボタンを押すか、システム設定で権限を付与してください。",
@@ -362,34 +362,39 @@ export const strings = {
   WrapLuckTitle: "幸運値レビュー",
   WrapDetails: "記録の詳細",
   WrapFourFiveStarRecord: "★4 & ★5",
-  WrapInfoPity: "Percentage of Non-pity",
-  WrapAvgGetUP: "Average Pulls for 5-Star",
-  WrapTotalPull: "Total Pulled",
-  WrapPopUpURLTitle: "Paste the Wrap URL",
-  WrapPopUpURLInfo: "Please paste the Wrap URL below",
-  WrapPopUpURLToast: "跳躍URLを入力してください！",
+  WrapInfoPity: "当たらない確率",
+  WrapAvgGetUP: "★5平均引き当て数",
+  WrapTotalPull: "総引き当て数",
+  WrapPopUpURLTitle: "跳躍履歴URLを貼り付ける",
+  WrapPopUpURLInfo: "ペーストボタンを押してURLを貼り付けてください",
+  WrapPopUpURLToast: "跳躍履歴URLを入力してください！",
   //Show when u don't enter the URL / token in Toast
-  WrapPopUpURLTextArea: "ここに跳躍URLを入力してください！",
-  WrapPopUpURLTutorial: "How to get the Wrap URL?",
+  WrapPopUpURLTextArea: "ここに跳躍履歴URLを入力してください！",
+  WrapPopUpURLTutorial: "跳躍URLの取得方法",
   WrapPopUpURLAnalysisButton: "分析",
   WrapPopUpURLProgress: "分析進捗: ${2} of ${1}",
   //Show when it's reading your Wrap Record one-by-one from official server
   //20240325 - Codename (Just like Android's Mashmellow, Nought, Pie, etc...), for devs to know which version easily
-  AppInnerVersionCode: "Codename",
+  AppInnerVersionCode: "コードネーム",
   //20240328 - Wrap Analysis 
-  VisitToDCServer: "Please visit our Discord Server for getting solutions / help",
+  VisitToDCServer: "解決策やヘルプを得るには、私たちのDiscordサーバーをご覧ください。",
   //20240403 - New Update
-  UseCookiesToLogin: "Login via Cookies",
+  UseCookiesToLogin: "Cookieによるログイン",
   //Replaced "ManuallySetup"
-  PressToView: "Press To View",
+  PressToView: "タップして表示",
   //Character Info -> Advice Team
-  MatchRequirementChar: "Characters that matched【${1}】",
+  MatchRequirementChar: "【${1}】がついてるキャラ",
   //Character Info -> Advice Team -> Press To View
-  RequirementOR: " OR ",
+  RequirementOR: " or ",
   //Character Info -> Advice Team -> Press To View
-  RequirementAND: " AND ",
+  RequirementAND: " and ",
   //Character Info -> Advice Team -> Press To View
   //20240417 - Survey Button
-  SurveyButton: "Survey",
-  SurveyButtonNowDontHave: "There is currently no questionnaire to fill out"
+  SurveyButton: "調査",
+  SurveyButtonNowDontHave: "現在、必要なアンケートはありません",
+  //20240422 - Action Order List & Simulator
+  //Title of Action Order in menu and header
+  ActionOrder: "Action Order",
+  ActionOrderAddTeam: "Add",
+  ActionOrderEdit: "Edit"
 };

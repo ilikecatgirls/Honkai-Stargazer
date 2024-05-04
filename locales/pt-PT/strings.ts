@@ -1,8 +1,8 @@
 export const strings = {
   // server
-  asia: "Asia",
+  asia: "Ásia",
   europe: "Europa",
-  america: "America",
+  america: "América",
   twhkmo: "TW HK MO",
   cn1: "星穹列车",
   cn2: "无名客",
@@ -390,6 +390,11 @@ export const strings = {
   RequirementAND: " E ",
   //Character Info -> Advice Team -> Press To View
   //20240417 - Survey Button
-  SurveyButton: "Survey",
-  SurveyButtonNowDontHave: "There is currently no questionnaire to fill out"
+  SurveyButton: "Questionário",
+  SurveyButtonNowDontHave: "Não há nenhum questionário para ser respondido",
+  //20240422 - Action Order List & Simulator
+  //Title of Action Order in menu and header
+  ActionOrder: "Action Order",
+  ActionOrderAddTeam: "Add",
+  ActionOrderEdit: "Edit"
 };
