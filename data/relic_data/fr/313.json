@@ -58,7 +58,7 @@
  "skills": [
   {
    "useNum": 2,
-   "desc": "Augmente de <nobr>#3[i]%</nobr> les chances de coup critique du porteur. Les DGT critiques du porteur augmentent de <nobr>#1[i]%</nobr>, jusqu'à un maximum de <nobr>#2[i]</nobr> fois, lorsque des cibles ennemies sont éliminées.",
+   "desc": "Augmente les chances de coup critique du porteur de <nobr>#3[i]%</nobr>. Les DGT critiques du porteur augmentent de <nobr>#1[i]%</nobr>, jusqu'à un maximum de <nobr>#2[i]</nobr> fois, lorsque des cibles ennemies sont éliminées.",
    "params": [
     0.04,
     10,

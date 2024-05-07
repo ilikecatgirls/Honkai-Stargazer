@@ -6,9 +6,8 @@
  "fgPath": "cf0cb309245ac00964bc7de16c804dd8379d2df5ece64b4b955b436127f07821",
  "splashIconPath": "b44d341c2a29262cac3e7b327f86babefbb4a5070957f40573cf1c584b458264",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRn4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPUAAAABkGvbtrFJ+7u3bCO2XRW5qm1FCvUAto0n+POOrNw2ox4VN6KKfty7d/Bh9CNExAQAQIBoawNEG4OmUyu3Lu8wAEyEAQZ+SVLmTWpPM8IGzam0cvSUxPOjBgB2/pM8wy6bezRbDqDlntIUSVH0elkN4MjiokhKEsWs1iIPg05eVCTpdLMKwH05Kk45fQGWPSbJOK+FS0vR8kM5kRESnfYWWEz8lKei6fV7LYK8ozc+yJOiyFAXDAqu/xO9c57hnN4ECIDljxXtci6jFAAYYGrNiecL6ZzCD+eLABiES3vHdxzasm1286Y6hI01+M/GWGutsSZRUgBWUDggYgEAAPAHAJ0BKhQAFAA+bS6URyQioiEoCqiADYlsAJ0ygoAHqAliX0APK79if9mP2x9oApl3jCH+zLKzdWFk7AU2sHbtxAV4QnQJgAD+fjNgrWJo/vQZ/i41c7ylfe+KfjXxeOdd8NlBCLq9SNwGXeZTodk3G7lGV5QeEm77/RRph0+vSy36CxY2fAuNDwBJG6LAiwa0NvYd0al+v8xh1e9AnBB43He4xJ/x6tNNSwk392fUtikr5tP+znv/Tv7oWP5cExPoOG+i5bpeQqz9JN2/FhAUwFqzr5303H9Ijwy2FIYjRC5LscBtuci36PmJOS7YpH4YVbttA551sQLIPqJTCszgDPb+3PfXpew9W02Z6wf4Nf9nJngh/f32k3X/F4mpeiH/Sy9d031gvkov/UV/+i51+i3sz4oEbCunqr/ff6RHBEP3aAhJtkNNbp6hr1h8QQGOX6O0nhhAQaAXIoxudBQAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "f2a9c844f514fb999c2b7401b9e114fa984ed30dc55b439242b4d6e268791272",
+   "iconPath": "ccc2532052d872fff429cc7088f3df1fdc3a9d11a4057fb2c06d78f0dc7afc5a",
    "artPath": "cde1c5ef9d0bbc320703c6c742d9d7a57a39666644d4a634fe5ef501cc7e1dc7",
    "name": "Ambrosial Aqua",
    "descHash": "เมื่อการ \"เติมชีวิต\" สิ้นสุดลง หาก HP ในปัจจุบันของเป้าหมายฝ่ายตัวเองเท่ากับ HP สูงสุดของตน จะฟื้นฟูพลังงานเพิ่มเติมแก่เป้าหมาย <nobr>#1[i]</nobr> หน่วย",
@@ -450,7 +449,7 @@
   },
   {
    "id": 2,
-   "iconPath": "d3eee5800b28b0b3ef1c84f7aa6f40cb6d90fd42840a4a81b46202222425753f",
+   "iconPath": "11b926313c561ee7c4fb3e572b773ccadcaeb2662f029204b114692c17d781dd",
    "artPath": "81312a814c2f15ca47e4c90fd5b97c7715bd686128aa3da3452f981864cd5291",
    "name": "Sylphic Slumber",
    "descHash": "หลังจากปล่อยท่าไม้ตายแล้ว ปริมาณการรักษาของ Bailu จะเพิ่มขึ้น <nobr>#1[i]%</nobr> เป็นเวลา <nobr>#2[i]</nobr> เทิร์น",
@@ -461,7 +460,7 @@
   },
   {
    "id": 3,
-   "iconPath": "b187ce0f467b9cf33a71a0b004ea62097c122dc2b8e7ca513b8e59996e8905fe",
+   "iconPath": "2678c6fb567a2a597dd6ad7c00eb7165e2959fe46f8c516a6f1c76e78f833c1e",
    "artPath": "9b8ab330c17a5954edaeb17276c21897deb86ae4f1a2b94b8eab89c968f9b467",
    "name": "Omniscient Opulence",
    "descHash": "เลเวลสกิลต่อสู้ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr>",
@@ -469,7 +468,7 @@
   },
   {
    "id": 4,
-   "iconPath": "e573efa7e21c79c1ed3740feac10eba19a5982f67595573a336e585ac6128d63",
+   "iconPath": "92938aa82e2e529f2de41394f913420cb0c959c4738b40af9a904c869164f001",
    "artPath": "7c91aabc7461c17c0756ba6f2e44dc2df2b6ea3d46fce9cf110eb1303bbb22f3",
    "name": "Evil Excision",
    "descHash": "ทุกครั้งที่สกิลต่อสู้มอบการรักษา DMG ของผู้ที่ถูกรักษาจะเพิ่มขึ้นอีก <nobr>#1[i]%</nobr> โดยสามารถซ้อนทับได้มากสุด <nobr>#2[i]</nobr> ชั้น เป็นเวลา <nobr>#3[i]</nobr> เทิร์น",
@@ -481,7 +480,7 @@
   },
   {
    "id": 5,
-   "iconPath": "537af9234c0208fb09d6c0046e10d8be1dfe19af7deaad369c288f93b37ac1c3",
+   "iconPath": "d25ac68a7c6850a0e966908a3255a20f08c444510a0c85cbaa4a419d447a0f29",
    "artPath": "929c15806b95d5083c590ffa16a00bae93499bec1038d2c41616e966716cf04e",
    "name": "Waning Worries",
    "descHash": "เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน Lv.<nobr>10</nobr>",
@@ -489,7 +488,7 @@
   },
   {
    "id": 6,
-   "iconPath": "353896e7187daa3a739eeebad5084e195554453bf2e65e08d6224b1b7a353c11",
+   "iconPath": "ed3171b555ba7cbae94d3a22ad02cf9e881c379ebd49325eb991eb86806646d6",
    "artPath": "f24879f1727f1c026432470b2cfdcc5b6aeb2e7cfddf372c8bfe4534f7a569c4",
    "name": "Drooling Drop of Draconic Divinity",
    "descHash": "ในหนึ่งการต่อสู้ จำนวนครั้งที่ Bailu ปล่อยเอฟเฟกต์รักษาเป้าหมายฝ่ายตัวเองที่ถูกโจมตีจนถึงตาย จะเพิ่มขึ้น <nobr>#1[i]</nobr> ครั้ง",
@@ -524,7 +523,7 @@
    "energy": "20",
    "id": 231592,
    "name": "Diagnostic Kick",
-   "iconPath": "346df2ae03259038e4b92ada60e812bda2635a5bd92a61dccc8e2f6a47bb6b45",
+   "iconPath": "976aadd0013c825a5576f7497d645deca107c404920a846c4c0c69bf4499f832",
    "typeDescHash": "โจมตีปกติ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +684,7 @@
    "energy": "30",
    "id": 947065,
    "name": "Singing Among Clouds",
-   "iconPath": "b187ce0f467b9cf33a71a0b004ea62097c122dc2b8e7ca513b8e59996e8905fe",
+   "iconPath": "2678c6fb567a2a597dd6ad7c00eb7165e2959fe46f8c516a6f1c76e78f833c1e",
    "typeDescHash": "สกิลต่อสู้",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1005,7 +1004,7 @@
    "energy": "5",
    "id": 31006,
    "name": "Felicitous Thunderleap",
-   "iconPath": "ec7b0a016e6d421dd8d7cd5f4c8ef0278cf0afd574c5cc457ee2306628a6ad91",
+   "iconPath": "3f037d29b66794e4456f75755a8ef2ef1ede6eadacedbd91ea3d42efb569e81f",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1310,7 +1309,7 @@
    "energy": "0",
    "id": 746479,
    "name": "Gourdful of Elixir",
-   "iconPath": "b997efc904bc5e2f0851bde2a1180a6caed369e03104639ff0375c7655e2581c",
+   "iconPath": "7bf289017a87fb47305f3bd1b89882cbe248775d3d9f0d65dae38f709924281e",
    "typeDescHash": "พรสวรรค์",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1645,7 +1644,7 @@
    "energy": "0",
    "id": 545893,
    "name": "Attack",
-   "iconPath": "346df2ae03259038e4b92ada60e812bda2635a5bd92a61dccc8e2f6a47bb6b45",
+   "iconPath": "976aadd0013c825a5576f7497d645deca107c404920a846c4c0c69bf4499f832",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1667,7 +1666,7 @@
    "energy": "0",
    "id": 662538,
    "name": "Saunter in the Rain",
-   "iconPath": "c7a6b4e550e4768479380208be8e758acb8ef9e8a91cb88e2b75cf5a9243c767",
+   "iconPath": "419b9c1fd8af8575691db4f1fd3ffa08f60cd286c643e4755f0aa9260d0a5ae8",
    "typeDescHash": "เทคนิค",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1797,7 +1796,7 @@
     "ultimateCost": 0,
     "id": 671251,
     "name": "Qihuang Analects",
-    "iconPath": "84d76107f96382e8307062215683ff7d3bb16edafdbe9b5b92b324937fc4435e",
+    "iconPath": "1350c08f31c2afb29cc4d1caa4c261929b994ada642936450375f180bc0213ea",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1939,7 +1938,7 @@
     "ultimateCost": 0,
     "id": 671252,
     "name": "Vidyadhara Ichor Lines",
-    "iconPath": "3fde91e10f2a73693ffb2c8d907e3903dc4c9f21c7bfaeaf8f9a93e4266b7267",
+    "iconPath": "1e8c571f77978772a9a55731adf2d2d545de75cbe39e42f5ccc35713af53f1c0",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2049,7 +2048,7 @@
     "ultimateCost": 0,
     "id": 671253,
     "name": "Aquatic Benediction",
-    "iconPath": "5a257bd4e4e30eb0dc1ec64513d8116d3327d70e0b3d88369bcadd9db8a4ccab",
+    "iconPath": "77b4dda099743f44c61ca2d81699af07e60baf45011cb0bbb672535fbb874e3e",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [

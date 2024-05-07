@@ -1,0 +1,2755 @@
+{
+ "spRequirement": 160,
+ "iconPath": "eda9eb4d611aebbebc76c9f36463222444d78b763bf41c52f57301da25bfd43d",
+ "bgPath": "7f423fac5a5055f2795b0a2e3aacd03d714016fae7d64991f12ec5397920da3e",
+ "figPath": "73b48269ce73c11adb7b3bf9dd758f5619ae10f0a46b767f8a662dea8d0f4b14",
+ "fgPath": "f2b4f2314295c89f822dc40b202f97035dfaae5abb9ec788d125981ae36c5179",
+ "splashIconPath": "d3f0beaa9b190826b041eeb4bc03404547818b4de65040064e41aa2032712099",
+ "splashPlaceholder": {
+  "w": 0,
+  "h": 0
+ },
+ "damageTypeId": 0,
+ "baseTypeId": 0,
+ "baseTypeTraces": {
+  "id": 4,
+  "iconPath": "55d5339b99655abd5d47c976596bebf22e6e522614fef628f7c875606f3e1abd",
+  "color": "#FFFFFF",
+  "rarity": 0
+ },
+ "itemReferences": {
+  "29328": {
+   "id": 29328,
+   "type": 101,
+   "purposeId": 11,
+   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "name": "เครดิต",
+   "desc": "สกุลเงินที่องค์กรสันติภาพแห่งดวงดาวใช้ในการชำระบัญชีแก่ลูกค้า ซึ่งปัจจุบันได้กลายเป็นสกุลเงินหลัก ที่ใช้กันอย่างแพร่หลายสำหรับการเดินทางในอวกาศ",
+   "lore": "\"ผู้คนดิ้นรน ต่อสู้ และแลกเปลี่ยนเพื่อตัวเลขที่แสดงในเทอร์มินัล แต่สิ่งล้ำค่าที่แท้จริงนั้น ไม่สามารถซื้อได้ด้วยตัวเลขจากองค์กร\"",
+   "purpose": "สกุลเงินทั่วไป",
+   "rarity": 3,
+   "rewardPath": "/material/29328",
+   "comeFrom": [
+    "Calyx (Great Mine)",
+    "Calyx (Artisanship Commission)",
+    "Calyx (โรงแรม Reverie - แดนฝัน)",
+    "รางวัลภารกิจ",
+    "รางวัลคำขอ",
+    "ร้าน Ember"
+   ]
+  },
+  "125435": {
+   "id": 125435,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "name": "Tracks of Destiny",
+   "desc": "วัสดุระดับสูงสำหรับการเพิ่มเลเวล Trace",
+   "lore": "ความพ่ายแพ้ซ้ำแล้วซ้ำเล่าจะนำไปสู่ชัยชนะ ก้าวไปข้างหน้าก้าวแล้วก้าวเล่าจะนำไปสู่จุดเปลี่ยนของโชคชะตา",
+   "purpose": "วัสดุ Trace",
+   "rarity": 5,
+   "rewardPath": "/material/125435",
+   "comeFrom": [
+    "รางวัลคะแนนสะสม Simulated Universe",
+    "เกียรติยศนิรนาม",
+    "แลกเปลี่ยน Ember",
+    "ร้าน Starlight",
+    "รางวัลกิจกรรมจำกัดเวลา"
+   ]
+  },
+  "409960": {
+   "id": 409960,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "name": "คู่มือการเดินทาง",
+   "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>20000</nobr> หน่วย",
+   "lore": "หนังสือชุดเกี่ยวกับการผจญภัยที่จำเป็นต่อการสำรวจโลก กดปุ่มอ่านเพื่อฟังเสียงที่น่าฟังในภาษาที่คุณเข้าใจ ซึ่งจะบอกเล่าเกี่ยวกับประสบการณ์การผจญภัยในโลกต่างๆ ของเหล่านักผจญภัยที่มีชื่อเสียง รวมถึงภูมิปัญญาอันล้ำค่าที่พวกเขาได้รับจากดาวแต่ละดวงด้วย<br /><br />\"คู่มือการเดินทางชุดใหม่ 'การทำอาหารระหว่างดวงดาว' จะวางจำหน่ายเร็วๆ นี้ โปรดติดตามกันให้ดี\"<br />\"สำหรับการส่งผลงาน โปรดติดต่อกับ Synesthesia Beacon ERD<nobr>-23</nobr>θ เพื่อติดต่อตัวแทนของสถาบันแห่งปัญญา โดยวิธีการจ่ายค่าต้นฉบับนั้น สามารถจัดการได้ตามความสะดวกของคุณ\"",
+   "purpose": "วัสดุ EXP ตัวละคร",
+   "rarity": 4,
+   "rewardPath": "/material/409960",
+   "comeFrom": [
+    "Calyx (Outlying Snow Plains)",
+    "Calyx (Cloudford)",
+    "Calyx (พรมแดนสร้างฝัน)",
+    "\"Forgotten Hall\""
+   ]
+  },
+  "409961": {
+   "id": 409961,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "name": "บันทึกการผจญภัย",
+   "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>5000</nobr> หน่วย",
+   "lore": "บันทึกการผจญภัยที่ได้รับการจัดการอย่างเป็นระเบียบ และมีคุณค่าต่อการศึกษา ซึ่งประกอบไปด้วยภาพประกอบและข้อความที่เกี่ยวกับการผจญภัยตั้งแต่ต้นจนจบ ตลอดจนข้อมูลที่มีคุณค่าและเทคนิคที่เกี่ยวข้องกับการเอาชีวิตรอด<br /><br />\"ทำไมไม่แปลงข้อมูลใส่ลงไปในดิสก์ล่ะ? สะดวกกว่าตั้งเยอะ\"<br />\"เมื่อเผชิญกับพายุดาว และการปะทุของกระแสนิวตรอนแล้ว เทคโนโลยีขั้นสูงนั้นมีความเปราะบางมากกว่าที่คิด นอกจากนี้ คนทำหนังสือเล่มนี้คงอยากจะให้คนอ่าน สามารถอ่านได้ด้วยวิธีที่ง่ายที่สุด\"",
+   "purpose": "วัสดุ EXP ตัวละคร",
+   "rarity": 3,
+   "rewardPath": "/material/409961",
+   "comeFrom": [
+    "Calyx (Outlying Snow Plains)",
+    "Calyx (Cloudford)",
+    "Calyx (พรมแดนสร้างฝัน)",
+    "การฝึกประจำวัน",
+    "ร้าน Ember"
+   ]
+  },
+  "409962": {
+   "id": 409962,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "name": "ความรู้จากการเดินทาง",
+   "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>1000</nobr> หน่วย",
+   "lore": "ไดอารี่การเดินทางที่เขียนด้วยลายมือสุดยุ่งเหยิงและมีเนื้อหาตามใจชอบ ซึ่งไม่ค่อยมีประโยชน์สำหรับคุณสักเท่าไหร่<br /><br />\"Dan Heng อ่านจบแล้วก็รีบเอากระดาษพวกนี้ไปทิ้งเถอะ\"",
+   "purpose": "วัสดุ EXP ตัวละคร",
+   "rarity": 2,
+   "rewardPath": "/material/409962",
+   "comeFrom": [
+    "Calyx (Outlying Snow Plains)",
+    "Calyx (Cloudford)",
+    "Calyx (พรมแดนสร้างฝัน)",
+    "รางวัลคำขอ"
+   ]
+  },
+  "470781": {
+   "id": 470781,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "name": "Past Evils of the Borehole Planet Disaster",
+   "desc": "วัสดุระดับสูงสำหรับการเพิ่มเลเวล Trace",
+   "lore": "ในฐานะทายาทสายตรงของราชาแห่งแมลง ความปรารถนาเดียวของมัน ก็คือการขยายเผ่าพันธุ์ มันใช้เคียวยักษ์ในการเก็บเกี่ยวดวงดาว เพื่อสร้างรัง และคอยเลี้ยงดูลูกหลานอย่างไม่มีที่สิ้นสุด ทั้งยังทำลายสิ่งมีชีวิตนับพัน จวบจนวินาทีสุดท้ายของชีวิต<br /><br />\"บนโลกที่ถูกทำลาย ตั๊กแตนยักษ์ปกคลุมไปทั่วท้องฟ้า ฝูงแมลงต่างๆ หลั่งไหลออกมาจากเปลือกโลก ตัวด้วงได้ชูรังแห่งใหม่นี้ขึ้นมา และถวายให้แก่ราชาแห่งแมลง... ขอให้โศกนาฏกรรมนี้ มีเพียงแค่ในประวัติศาสตร์เท่านั้น ขออย่าได้เกิดขึ้นอีกเลย\"",
+   "purpose": "วัสดุ Trace",
+   "rarity": 4,
+   "rewardPath": "/material/470781",
+   "comeFrom": [
+    "Echo of War (Seclusion Zone)"
+   ]
+  },
+  "549209": {
+   "id": 549209,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "name": "Dream Collection Component",
+   "desc": "อุปกรณ์กักเก็บพลังงานของสิ่งมีชีวิตแดนฝัน วัสดุพื้นฐานที่ใช้สำหรับเสริมพลัง",
+   "lore": "ภาชนะสร้างฝันที่กักเก็บเสี้ยวความฝันเอาไว้ เป็นแหล่งพลังงานพื้นฐานสำหรับสิ่งมีชีวิตแดนฝัน<br /><br />\"หากติดตั้งสิ่งนี้เข้าไป จะได้รับสมาชิกของคณะละครชวนฝันหนึ่งตัว\"",
+   "purpose": "วัสดุ Trace <br />วัสดุเลื่อนขั้นตัวละคร",
+   "rarity": 2,
+   "rewardPath": "/material/549209",
+   "comeFrom": [
+    "ดรอปจากคณะละครฝันผวา",
+    "ดรอปจากศัตรูใน Simulated Universe",
+    "รางวัลคำขอ",
+    "ร้าน Ember",
+    "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ",
+    "Calyx (Golden)"
+   ]
+  },
+  "589819": {
+   "id": 589819,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "9dcc37e0e0903af3108640d694d154e4d9c54670d5b1de405adc1c283ef3186f",
+   "name": "Celestial Section",
+   "desc": "ท่อนของเพลงที่ร่วงหล่นลงมาจากท้องฟ้า สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ประสาน</span>ได้ปานกลาง",
+   "lore": "ท่วงทำนองที่เล็ดลอดออกมาจากความพร้อมเพรียง ร่วงหล่นจากขอบฟ้าลงสู่ความอึกทึกอย่างเงียบๆ ราวกับเม็ดทรายสีเหลืองที่กระจัดกระจายอยู่ในทะเลทราย<br /><br />\"ไม่มีใครสังเกตเห็นมันได้ จนกระทั่งถูกแรงบันดาลใจคว้าเอาไว้...\"",
+   "purpose": "วัสดุ Trace <br />วัสดุเลื่อนขั้น Light Cone",
+   "rarity": 3,
+   "rewardPath": "/material/589819",
+   "comeFrom": [
+    "Calyx (โรงแรม Reverie - แดนฝัน)",
+    "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ร้าน Ember",
+    "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
+   ]
+  },
+  "633150": {
+   "id": 633150,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "name": "Dream Flow Valve",
+   "desc": "ชิ้นส่วนควบคุมสำหรับสิ่งมีชีวิตแดนฝัน วัสดุธรรมดาที่ใช้สำหรับเสริมพลัง",
+   "lore": "อุปกรณ์สร้างฝันที่ปรับแต่งความปรารถนา คอยควบคุมอารมณ์และความรู้สึก ของสิ่งมีชีวิตแดนฝัน<br /><br />\"หากเจ้าสิ่งนี้ขัดข้อง จะได้รับสมาชิกของคณะละครฝันผวาหนึ่งตัว\"",
+   "purpose": "วัสดุ Trace <br />วัสดุเลื่อนขั้นตัวละคร",
+   "rarity": 3,
+   "rewardPath": "/material/633150",
+   "comeFrom": [
+    "ดรอปจากคณะละครฝันผวา เมื่อระดับความสมดุลถึง Lv.2",
+    "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ดรอปจากศัตรูใน Simulated Universe",
+    "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
+   ]
+  },
+  "673760": {
+   "id": 673760,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
+   "name": "Heavenly Melody",
+   "desc": "บทเพลงซิมโฟนีที่มาจากจักรวาล สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ประสาน</span>ได้เป็นอย่างมาก",
+   "lore": "เสียงดนตรีที่เล็ดลอดออกมาจากความพร้อมเพรียง ค่อยๆ ส่งเสียงสะท้อนก้องไปทั่วอวกาศ และถูกกลืนหายไปในความเงียบงัน ราวกับดวงดาวที่เปล่งประกายระยิบระยับในจักรวาล<br /><br />\"ไม่มีใครรู้สึกถึงมันได้ จนกระทั่งถูกทุกคนลืมเลือนไป ♬...\"",
+   "purpose": "วัสดุ Trace <br />วัสดุเลื่อนขั้น Light Cone",
+   "rarity": 4,
+   "rewardPath": "/material/673760",
+   "comeFrom": [
+    "Calyx (โรงแรม Reverie - แดนฝัน)",
+    "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
+   ]
+  },
+  "717091": {
+   "id": 717091,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "name": "Dream Making Engine",
+   "desc": "แกนพลังงานของสิ่งมีชีวิตแดนฝัน วัสดุชั้นสูงที่ใช้สำหรับเสริมพลัง",
+   "lore": "จักรกลสร้างฝันที่สร้างสรรค์จินตนาการ เป็นเครื่องจักรกลที่มอบจิตวิญญาณ ให้แก่สิ่งมีชีวิตแดนฝัน<br /><br />\"นี่เพื่อน หากพบว่าเจ้าสิ่งนี้ขัดข้อง... จงรีบตื่นก่อนที่จะเผชิญกับฝันร้ายนะ\"",
+   "purpose": "วัสดุ Trace <br />วัสดุเลื่อนขั้นตัวละคร",
+   "rarity": 4,
+   "rewardPath": "/material/717091",
+   "comeFrom": [
+    "ดรอปจากคณะละครฝันผวา เมื่อระดับความสมดุลถึง Lv.4",
+    "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ดรอปจากศัตรูใน Simulated Universe",
+    "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
+   ]
+  },
+  "866635": {
+   "id": 866635,
+   "type": 601,
+   "purposeId": 2,
+   "iconPath": "e77713aac9f0dc8efb0047a1b9c918d14aaa40589e0472f557374cb53d06818d",
+   "name": "IPC Work Permit",
+   "desc": "บัตรพนักงานของ \"เจ้าหน้าที่อาวุโส\" ในองค์กรสันติภาพแห่งดวงดาว วัสดุเลื่อนขั้นของตัวละครประเภทกายภาพ",
+   "lore": "ในองค์กรสันติภาพแห่งดวงดาว มีเพียงหัวหน้าทีมของโปรเจกต์เท่านั้น ที่จะมีบัตรพนักงานประเภทนี้ได้ สำหรับเจ้าหน้าที่อาวุโส ที่ภาคภูมิใจในงานของตัวเองเหล่านั้น ต่อให้จะลืมใส่เสื้อผ้ายังไง ก็ห้ามลืมบัตรพนักงานเด็ดขาด<br /><br />\"มันไม่ใช่แค่บัตรผ่านสำหรับเข้าสู่ Pier Point แต่ยังเป็นสัญลักษณ์ของสถานะทางสังคมอีกด้วย!\"",
+   "purpose": "วัสดุเลื่อนขั้นตัวละคร",
+   "rarity": 4,
+   "rewardPath": "/material/866635",
+   "comeFrom": [
+    "Stagnant Shadow: สวนสนุก Clock Studios",
+    "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
+   ]
+  },
+  "874346": {
+   "id": 874346,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "0b9599c040d16b07324d2f3ea37854bbe9d3d22cb80a43b3070662e562738a04",
+   "name": "Firmament Note",
+   "desc": "โน้ตเพลงเล็กๆ ที่หล่นลงมาจากปุยเมฆ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ประสาน</span>ได้เล็กน้อย",
+   "lore": "โน้ตเพลงที่เล็ดลอดออกมาจากความพร้อมเพรียง และร่วงหล่นจากปุยเมฆลงสู่บทเพลงธรรมดาอย่างเงียบงัน ราวกับหยดน้ำตาที่ละลายหายไปในทะเล<br /><br />\"ไม่มีใครได้ยินมัน จนกระทั่งร่วงหล่นไปในบทเพลง...\"",
+   "purpose": "วัสดุ Trace <br />วัสดุเลื่อนขั้น Light Cone",
+   "rarity": 2,
+   "rewardPath": "/material/874346",
+   "comeFrom": [
+    "Calyx (โรงแรม Reverie - แดนฝัน)",
+    "ร้าน Ember",
+    "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
+   ]
+  }
+ },
+ "levelData": [
+  {
+   "attackBase": 87.12,
+   "attackAdd": 4.356,
+   "hpBase": 174.24,
+   "hpAdd": 8.712,
+   "defenseBase": 66,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 0,
+   "maxLevel": 20,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 4000
+    },
+    {
+     "id": 549209,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "attackBase": 121.968,
+   "attackAdd": 4.356,
+   "hpBase": 243.936,
+   "hpAdd": 8.712,
+   "defenseBase": 92.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 1,
+   "maxLevel": 30,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 8000
+    },
+    {
+     "id": 549209,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "attackBase": 156.816,
+   "attackAdd": 4.356,
+   "hpBase": 313.632,
+   "hpAdd": 8.712,
+   "defenseBase": 118.8,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 2,
+   "maxLevel": 40,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 16000
+    },
+    {
+     "id": 633150,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 3
+    }
+   ]
+  },
+  {
+   "attackBase": 191.664,
+   "attackAdd": 4.356,
+   "hpBase": 383.328,
+   "hpAdd": 8.712,
+   "defenseBase": 145.2,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 3,
+   "maxLevel": 50,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 40000
+    },
+    {
+     "id": 633150,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 7
+    }
+   ]
+  },
+  {
+   "attackBase": 226.512,
+   "attackAdd": 4.356,
+   "hpBase": 453.024,
+   "hpAdd": 8.712,
+   "defenseBase": 171.6,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 4,
+   "maxLevel": 60,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 80000
+    },
+    {
+     "id": 717091,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "attackBase": 261.36,
+   "attackAdd": 4.356,
+   "hpBase": 522.72,
+   "hpAdd": 8.712,
+   "defenseBase": 198,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 5,
+   "maxLevel": 70,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 160000
+    },
+    {
+     "id": 717091,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 35
+    }
+   ]
+  },
+  {
+   "attackBase": 296.208,
+   "attackAdd": 4.356,
+   "hpBase": 592.416,
+   "hpAdd": 8.712,
+   "defenseBase": 224.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 6,
+   "maxLevel": 80,
+   "cost": []
+  }
+ ],
+ "ranks": [
+  {
+   "id": 1,
+   "iconPath": "21e336b48e11c1463a129146f02e24d165410eec5c3fa7ae30a491423a408a1f",
+   "artPath": "1c33f658c3f7ea19839b361bd1b6c60f23756e6e7efbe314eaf692b7415e17b4",
+   "name": "Land of Smiles",
+   "descHash": "เมื่ออยู่ในสถานะ \"ร้องบรรเลง\" การทะลวงความต้านทานทุกประเภท ของฝ่ายเราทั้งหมดจะเพิ่มขึ้น <nobr>#1[i]%</nobr>",
+   "params": [
+    0.24
+   ]
+  },
+  {
+   "id": 2,
+   "iconPath": "978b1491f0216e5f8cd91fb1b801e0b687d41604b8589c1d35e9b5923770e086",
+   "artPath": "3a9d06c608b882b7d476157e76df564b7280a7810d5ea0944a56e25583d4b86a",
+   "name": "Afternoon Tea For Two",
+   "descHash": "เมื่ออยู่ในสถานะ \"ร้องบรรเลง\" ความเร็วของฝ่ายเราทั้งหมด จะเพิ่มขึ้น <nobr>#1[i]%</nobr> และเอฟเฟกต์ฟื้นฟูพลังงาน ของพรสวรรค์จะเพิ่มขึ้นอีก <nobr>#2[i]</nobr> หน่วย",
+   "params": [
+    0.16,
+    1
+   ]
+  },
+  {
+   "id": 3,
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "artPath": "76c2551ec34702bdb41b20a6771cde591c75c4a8a32870acaa7af258ecc5d72c",
+   "name": "Inverted Tuning",
+   "descHash": "เลเวลสกิลต่อสู้ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr>",
+   "params": []
+  },
+  {
+   "id": 4,
+   "iconPath": "c8b5f11986362057fe659a391ec3eb193a8c266a90e790c260ed339fa5494040",
+   "artPath": "50350af0d85d5eb9439a3b141315f3cc0e1dd538eb538a8018415888e62ee028",
+   "name": "Raindrop Key",
+   "descHash": "เมื่อปล่อยท่าไม้ตาย จะขจัดสถานะ Debuff ประเภทควบคุมของฝ่ายเราทั้งหมด ในขณะที่ Robin อยู่ในสถานะ \"ร้องบรรเลง\" การต้านทานสถานะ ของฝ่ายเราทั้งหมด จะเพิ่มขึ้น <nobr>#1[i]%</nobr>",
+   "params": [
+    0.5
+   ]
+  },
+  {
+   "id": 5,
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "artPath": "2f2955b5d7040846379b487d53001fb63c189026173ac24e62cbb057515c4e4f",
+   "name": "Lonestar's Lament",
+   "descHash": "เลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน<br />Lv.<nobr>10</nobr> และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr>",
+   "params": []
+  },
+  {
+   "id": 6,
+   "iconPath": "4859dbd0db6c3f43054a37aba1cbe0c886d83963babe02a0ec70792608a7440c",
+   "artPath": "b91d0398e090f093b5ebd0c922961e628b15b979938e64398d9c118b6acc91c1",
+   "name": "Moonless Midnight",
+   "descHash": "เมื่ออยู่ในสถานะ \"ร้องบรรเลง\" DMG คริติคอลของ DMG กายภาพเพิ่มเติม ที่เกิดจากท่าไม้ตาย จะเพิ่มขึ้นอีก <nobr>#2[i]%</nobr> โดยสามารถเกิดเอฟเฟกต์ \"Moonless Midnight\" ได้มากสุด <nobr>#1[i]</nobr> ครั้ง และจะรีเซ็ตจำนวนการเกิด ในทุกครั้งที่ปล่อยท่าไม้ตาย",
+   "params": [
+    8,
+    4.5
+   ]
+  }
+ ],
+ "skillGrouping": [
+  [
+   758858
+  ],
+  [
+   642213
+  ],
+  [
+   558272
+  ],
+  [
+   474331
+  ],
+  [
+   157100
+  ]
+ ],
+ "skills": [
+  {
+   "tagHash": "โจมตีเดี่ยว",
+   "descHash": "สร้าง DMG <span style=\"color:#FFFFFF;\">กายภาพ</span> <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> ของ ATK ของ Robin แก่ศัตรูที่กำหนดหนึ่งตัว",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "20",
+   "id": 758858,
+   "name": "Wingflip White Noise",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "โจมตีปกติ",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.7
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.8
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.9
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      1
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      1.1
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "สนับสนุน",
+   "descHash": "ทำให้ฝ่ายเราทั้งหมดสร้าง DMG เพิ่มขึ้น <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> เป็นเวลา <nobr>#2[i]</nobr> เทิร์น เมื่อเริ่มต้นแต่ละเทิร์นของ Robin ระยะเวลาต่อเนื่องจะลดลง 1 เทิร์น",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "30",
+   "id": 642213,
+   "name": "Pinion's Aria",
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "typeDescHash": "สกิลต่อสู้",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.25,
+      3
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      3
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.3,
+      3
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.325,
+      3
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.35,
+      3
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.375,
+      3
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.40625,
+      3
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.4375,
+      3
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.46875,
+      3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.5,
+      3
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.525,
+      3
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.55,
+      3
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.575,
+      3
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6,
+      3
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.625,
+      3
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "สนับสนุน",
+   "descHash": "เมื่อ Robin เข้าสู่สถานะ \"ร้องบรรเลง\" จะทำให้เพื่อนร่วมทีม ที่นอกเหนือไปจากตัวเองแอ็กชันทันที<br />เมื่ออยู่ในสถานะ \"ร้องบรรเลง\" ATK ของฝ่ายเราทั้งหมดจะเพิ่มขึ้น โดยค่าที่เพิ่มขึ้นจะเท่ากับ <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> ของ ATK ของ Robin +<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]</nobr></span> หน่วย ทุกครั้งที่เป้าหมายฝ่ายเราปล่อยการโจมตี Robin จะสร้าง <u>DMG <span style=\"color:#FFFFFF;\">กายภาพ</span>เพิ่มเติม</u> <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span> ของ ATK ของตัวเองเพิ่มอีก 1 ครั้ง โดยอัตราคริติคอลของ DMG นี้จะคงอยู่ที่ <nobr>#5[i]%</nobr> และ DMG คริติคอลคงอยู่ที่ <nobr>#6[i]%</nobr><br />เมื่ออยู่ในสถานะ \"ร้องบรรเลง\" Robin จะต้านทาน <u>สถานะ Debuff ประเภทควบคุม</u> โดยก่อนสิ้นสุดสถานะ \"ร้องบรรเลง\" จะไม่เข้าสู่เทิร์นของตัวเอง และจะไม่สามารถแอ็กชันได้<br />บนลำดับแอ็กชัน จะปรากฏการนับถอยหลังของ \"ร้องบรรเลง\" เมื่อถึงเทิร์นของการนับถอยหลังดังกล่าว Robin จะออกจากสถานะ \"ร้องบรรเลง\" และแอ็กชันทันที โดยความเร็วคงที่ในการนับถอยหลัง จะอยู่ที่ <nobr>#2[i]</nobr> หน่วย",
+   "ultimateCost": 160,
+   "break": "0",
+   "energy": "5",
+   "id": 558272,
+   "name": "Vox Harmonique, Opus Cosmique",
+   "iconPath": "8c18f6a980650b868e7d8544dc55b66266f713ba779ef9d0ffee778366d8b800",
+   "typeDescHash": "ท่าไม้ตาย",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.152,
+      90,
+      50,
+      0.72,
+      1,
+      1.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.1596,
+      90,
+      65,
+      0.768,
+      1,
+      1.5
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1672,
+      90,
+      80,
+      0.816,
+      1,
+      1.5
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1748,
+      90,
+      95,
+      0.864,
+      1,
+      1.5
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1824,
+      90,
+      110,
+      0.912,
+      1,
+      1.5
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.19,
+      90,
+      125,
+      0.96,
+      1,
+      1.5
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1995,
+      90,
+      143.75,
+      1.02,
+      1,
+      1.5
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.209,
+      90,
+      162.5,
+      1.08,
+      1,
+      1.5
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2185,
+      90,
+      181.25,
+      1.14,
+      1,
+      1.5
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.228,
+      90,
+      200,
+      1.2,
+      1,
+      1.5
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2356,
+      90,
+      215,
+      1.248,
+      1,
+      1.5
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2432,
+      90,
+      230,
+      1.296,
+      1,
+      1.5
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2508,
+      90,
+      245,
+      1.344,
+      1,
+      1.5
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2584,
+      90,
+      260,
+      1.392,
+      1,
+      1.5
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.266,
+      90,
+      275,
+      1.44,
+      1,
+      1.5
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "สนับสนุน",
+   "descHash": "เพิ่ม DMG คริติคอลของฝ่ายเราทั้งหมด <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> และหลังจากฝ่ายเราโจมตีศัตรูเป้าหมาย Robin จะฟื้นฟูพลังงานของตัวเองเพิ่มเติม <nobr>#2[i]</nobr> หน่วย",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 474331,
+   "name": "Tonal Resonance",
+   "iconPath": "641a4d2b6c02e2c482e8f3f9e4abd3218e4450d9572b0b7e4311a473a7bdddc4",
+   "typeDescHash": "พรสวรรค์",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.05,
+      2
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.065,
+      2
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.08,
+      2
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.095,
+      2
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.11,
+      2
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.125,
+      2
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.14375,
+      2
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1625,
+      2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.18125,
+      2
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2,
+      2
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.215,
+      2
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.23,
+      2
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.245,
+      2
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.26,
+      2
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      2
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "",
+   "descHash": "หลังจากโจมตีศัตรูและเข้าสู่การต่อสู้ จะลดทอนความทนทานของประเภท ที่สอดคล้องกับศัตรูเป้าหมาย",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "0",
+   "id": 273745,
+   "name": "Attack",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "สนับสนุน",
+   "descHash": "หลังจากใช้เทคนิคแล้ว จะสร้างพื้นที่พิเศษขึ้นมารอบตัว ต่อเนื่องเป็นเวลา <nobr>#1[i]</nobr> วินาที โดยศัตรูที่อยู่ในพื้นที่จะไม่โจมตี Robin และจะติดตาม Robin ในระหว่างที่มีพื้นที่พิเศษอยู่ หลังเข้าสู่การต่อสู้โดยมีพื้นที่อยู่ Robin จะฟื้นฟูพลังงาน <nobr>#2[i]</nobr> หน่วยเมื่อเริ่มต้นในแต่ละ Wave ทั้งนี้เอฟเฟกต์พื้นที่ที่ฝ่ายเราสร้างขึ้น จะมีได้สูงสุดเพียง 1 จุดเท่านั้น",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 157100,
+   "name": "Overture of Inebriation",
+   "iconPath": "27ed98d04302103286581f7ffa736edd301561bc6ff2fb9cadc5ae97ec4148f4",
+   "typeDescHash": "เทคนิค",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      15,
+      5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  }
+ ],
+ "skillTreePoints": [
+  {
+   "id": 1309101,
+   "anchor": 6,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309202,
+     "anchor": 10,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309203,
+       "anchor": 11,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363456,
+        "name": "เสริมการโจมตี",
+        "levelReq": 0,
+        "promotionReq": 3,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "ATK",
+          "value": 0.04
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 10000
+         },
+         {
+          "id": 589819,
+          "count": 3
+         },
+         {
+          "id": 633150,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363455,
+      "name": "เสริม HP",
+      "levelReq": 0,
+      "promotionReq": 2,
+      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "statusList": [
+       {
+        "key": "HP",
+        "value": 0.04
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 549209,
+        "count": 6
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "เมื่อเริ่มการต่อสู้ จะเร่งแอ็กชันของตัวเองขึ้น <nobr>#1[i]%</nobr>",
+    "ultimateCost": 0,
+    "id": 363359,
+    "name": "Coloratura Cadenza",
+    "iconPath": "c4d2f5cc476f3512e459714a55ecfd4ca18c450af273734de91f55b6d11ba8fe",
+    "levelReq": 0,
+    "promotionReq": 2,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 2,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309102,
+   "anchor": 7,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309205,
+     "anchor": 13,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309206,
+       "anchor": 14,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363451,
+        "name": "เสริม HP",
+        "levelReq": 0,
+        "promotionReq": 5,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "HP",
+          "value": 0.06
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 45000
+         },
+         {
+          "id": 673760,
+          "count": 3
+         },
+         {
+          "id": 717091,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363454,
+      "name": "เสริมการโจมตี",
+      "levelReq": 0,
+      "promotionReq": 4,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "ATK",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 633150,
+        "count": 4
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "เมื่ออยู่ในสถานะ \"ร้องบรรเลง\" DMG คริติคอลของการโจมตีต่อเนื่องทั้งหมด ของฝ่ายเราจะเพิ่มขึ้น <nobr>#1[i]%</nobr>",
+    "ultimateCost": 0,
+    "id": 363362,
+    "name": "Impromptu Flourish",
+    "iconPath": "73a8b04c935054e24f9433a44c751dd3956335aeed2bbba2abbd0f49170b1c20",
+    "levelReq": 0,
+    "promotionReq": 4,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 4,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309103,
+   "anchor": 8,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309208,
+     "anchor": 16,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309209,
+       "anchor": 17,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363466,
+        "name": "เสริม HP",
+        "levelReq": 75,
+        "promotionReq": 0,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "HP",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      },
+      {
+       "id": 1309210,
+       "anchor": 18,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 279516,
+        "name": "เสริมการโจมตี",
+        "levelReq": 80,
+        "promotionReq": 0,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "ATK",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363465,
+      "name": "เสริมความเร็ว",
+      "levelReq": 0,
+      "promotionReq": 6,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "ความเร็ว",
+        "value": 3,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 717091,
+        "count": 8
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "เมื่อปล่อยสกิลต่อสู้ จะฟื้นฟูพลังงานเพิ่มเติม <nobr>#1[i]</nobr> หน่วย",
+    "ultimateCost": 0,
+    "id": 363361,
+    "name": "Sequential Passage",
+    "iconPath": "1b682ac043a69e0e67e377b998430c71e7f9dc506dfef5c6a6e14513b5e04e96",
+    "levelReq": 0,
+    "promotionReq": 6,
+    "levelData": [
+     {
+      "params": [
+       5
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 6,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309201,
+   "anchor": 9,
+   "type": 2,
+   "children": [
+    {
+     "id": 1309204,
+     "anchor": 12,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363453,
+      "name": "เสริมความเร็ว",
+      "levelReq": 0,
+      "promotionReq": 3,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "ความเร็ว",
+        "value": 2,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 10000
+       },
+       {
+        "id": 589819,
+        "count": 3
+       },
+       {
+        "id": 633150,
+        "count": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": 1309207,
+     "anchor": 15,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363452,
+      "name": "เสริมการโจมตี",
+      "levelReq": 0,
+      "promotionReq": 5,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "ATK",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 45000
+       },
+       {
+        "id": 673760,
+        "count": 3
+       },
+       {
+        "id": 717091,
+        "count": 3
+       }
+      ]
+     }
+    }
+   ],
+   "embedBuff": {
+    "id": 363458,
+    "name": "เสริมการโจมตี",
+    "levelReq": 1,
+    "promotionReq": 0,
+    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "statusList": [
+     {
+      "key": "ATK",
+      "value": 0.04
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 2500
+     },
+     {
+      "id": 549209,
+      "count": 2
+     }
+    ]
+   }
+  }
+ ],
+ "relicRecommend": {
+  "twoPcSets": [],
+  "fourPcSets": [],
+  "props": [
+   {
+    "relicTypeHash": "ลำตัว",
+    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "propertyName": "ATK",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "เท้า",
+    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "propertyName": "ATK",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "Planar Sphere",
+    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "propertyName": "ATK",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "Link Rope",
+    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "propertyName": "อัตราการฟื้นฟูพลังงาน",
+    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+   }
+  ]
+ },
+ "voiceItems": [
+  {
+   "id": 1,
+   "title": "พบกันครั้งแรก",
+   "text": "สวัสดียามเย็นนะ ฉันชื่อ Robin เป็นนักร้องของทางตระกูล ไม่ต้องพิธีรีตองหรอก นี่เป็นแค่การทักทายส่วนตัวหลังเวทีเท่านั้น ขอเวลาแป๊บนึงได้มั้ย?",
+   "unlockRequirement": "",
+   "cnUrl": "163097ee1c36e14e4f0988edd057d3f96289ac15992d0add187759540955556c",
+   "jpUrl": "24d8018a55d0126717920d218bd2ef1783e408f8167b190a92fd5445bdad2517",
+   "enUrl": "23950a9cd93277faaee89a9236f6e188200a625d2a207ba0d167187199fdc63c",
+   "krUrl": "f71747b2c9352d3336dc1e52540f027e15f5fd4f784f6926e8961a67f79c49a3"
+  },
+  {
+   "id": 2,
+   "title": "ทักทาย",
+   "text": "เจอกันอีกแล้วนะ คราวนี้อยากฟังเพลงอะไรล่ะ?",
+   "unlockRequirement": "",
+   "cnUrl": "9b51cbd95e26a12327596799913283cbc60336f106f79bf38bc3f0354a9bde64",
+   "jpUrl": "ae322d661f66b697ba13aa67980ef5b0fb26346e1fc0bc70a792da6b71826077",
+   "enUrl": "c22bb76807f3919403dadee8a2cf7162cc9396176984ccb74bf9b1bb34e742b4",
+   "krUrl": "b4fc09da0191ec99f2d96f960ca39d1bb24b4a5539ff37f73d2c174e698bcd99"
+  },
+  {
+   "id": 3,
+   "title": "บอกลา",
+   "text": "แล้วเจอกันใหม่ หวังว่าเสียงเพลงของฉันจะนำพาฝันดีมาให้นะ",
+   "unlockRequirement": "",
+   "cnUrl": "4f11de1a288051c9a5b9486c5829bc19c4d2752f51caf827fabc84daa3fa84ba",
+   "jpUrl": "05b93daf746fac9bc7f131d3abbac4b5e2d8c824703ade6acc5502afd6ea954c",
+   "enUrl": "36ac96ff54d335e7e4bbf748007015d93d1e0d829e692329da2cea8b79eeaabd",
+   "krUrl": "d77e7a9532883093bfadf69bf2ae28af040d5710781831556580988035a645d9"
+  },
+  {
+   "id": 4,
+   "title": "เกี่ยวกับตัวเอง - การสร้างสรรค์",
+   "text": "บางทีอาจจะมีเคล็ดลับในการสร้างสรรค์ดนตรีอยู่ก็ได้ แต่สิ่งที่ทำให้บทเพลงน่าประทับใจนั้น นอกจากเทคนิคแล้ว ก็คือความรู้สึกร่วมที่เกิดจากอารมณ์และความมุ่งมั่นในเสียงเพลงนั่นเอง",
+   "unlockRequirement": "",
+   "cnUrl": "688b6fceff94a18dbf92a052fc3646c85e2123a061e4453739dd449cc32b49b1",
+   "jpUrl": "47379f1fbfffb9a2e6c2960aa1abc258ae7e3784782fb820f4907e935a3e56bb",
+   "enUrl": "6300ac0662c79bb4f4cb94b5eca1ed30ea598ace1b298fdc6ec8277b0efa4c59",
+   "krUrl": "830c7f8966004a5b9aa6d8bb6bf05f29a0e2ba48f31c478019ba26a25788059b"
+  },
+  {
+   "id": 5,
+   "title": "เกี่ยวกับตัวเอง - เสียงดนตรี",
+   "text": "ผู้คนมักจะพูดว่า ยิ่งผู้ทานเรื่องมากในรสชาติที่ต้องการมากเท่าไหร่ ฝีมือของเชฟก็จะยิ่งยอดเยี่ยมมากขึ้นเท่านั้น แต่ไม่ว่าคนอื่นจะว่ายังไง ตัวฉันเองนี่แหละ ที่จะเป็นผู้ฟังที่เรื่องมากที่สุดคนนั้น",
+   "unlockRequirement": "",
+   "cnUrl": "2339f4577df934b8595a936459d8640b854a696b00cdef52984102c0cdbb627a",
+   "jpUrl": "f285f93414e97d622d1393e2ac59197e24f0eb04e5ba736aad15693f1ae9fb69",
+   "enUrl": "73dbd75d59bf1f0f7d63a700e63153223b23db05a4dc4dc3e1158eed6a6f9287",
+   "krUrl": "df892291b56570c7a62f4f69876a63a3babe0610b3376daeeb9b7319494df21c"
+  },
+  {
+   "id": 6,
+   "title": "พูดคุยทั่วไป - แผ่นเสียง",
+   "text": "คนรุ่นก่อนบันทึกดนตรีไว้ในแผ่นเสียง เพื่อเก็บความประทับใจในตัวบทเพลงไว้ คอลเลกชันสะสมของฉันมีแผ่นเสียงที่มาจากดาวต่างๆ มากมาย แผ่นเสียงบางส่วนก็มาจากอารยธรรมที่สูญหายไปแล้ว... แต่ความประทับใจที่หลงเหลือจะยังคงอยู่ตลอดไป",
+   "unlockRequirement": "",
+   "cnUrl": "cc7105037e3aade3c7be84908fa6b77867448c7242a6bea23301d7625a0ebe77",
+   "jpUrl": "91cf48e514af59ac2c06a1277211f854fcb36c442ebd4d883fa0ba51e0a1e295",
+   "enUrl": "c472be66924d397bca6e35cf27e8b44b6b0c935ec9fb67210a55753f66fbbed3",
+   "krUrl": "5d067936271fb81b04fff176b6f7011d2886fc64e2507fbf645a8102437cf887"
+  },
+  {
+   "id": 7,
+   "title": "พูดคุยทั่วไป - เพลงแรก",
+   "text": "ตอนเด็กๆ พี่ชายจะฮัมเพลงกล่อมฉันนอนเสมอ นั่นเป็นเพลงแรกที่ฉันได้เรียนรู้เลยล่ะ... ถึงแม้จะไม่มีเนื้อร้อง แต่ก็เป็นท่วงทำนองที่ฉันชอบที่สุด",
+   "unlockRequirement": "",
+   "cnUrl": "f2e82cb57484fc489ba3ff7f87e83b04bdf315cd430db9bf5eeb9ffdc23c3eea",
+   "jpUrl": "6c088ee98b648b7acbb3ebfb203011106fd1ab935a276154282ae5a96787f323",
+   "enUrl": "07c924b1e2df6b8f6ad3962db37ea0d66f2a8968f08613b5689a623795431a95",
+   "krUrl": "8971245c67cea31dd7ae78169d8d1de73f744ff6d9e7d0304d90cd3aff59a20c"
+  },
+  {
+   "id": 8,
+   "title": "งานอดิเรก",
+   "text": "บางครั้งฉันก็จะใส่วิกผม เปลี่ยนสไตล์การแต่งหน้า และสวมแว่นตาเพิ่มอีกคู่... ทีนี้เวลาไปไหนมาไหนก็ไม่ต้องกังวลแล้ว~",
+   "unlockRequirement": "",
+   "cnUrl": "486cf60e5a8ca30b2e75b89065c5cde9ccaa660fd9473510f7fc79e8867f902d",
+   "jpUrl": "b4bf6d08424c8b0c3765cc5e27973f562f1e3388afad696d2a02928452086dda",
+   "enUrl": "73eddd42c8d0995c610ba593619cd206685b828b4685bd76ca5b9cf2813707db",
+   "krUrl": "38b1fc299c988e35e6aabd907811b9c18e641ab414daf8b84dcb1466b97d131f"
+  },
+  {
+   "id": 9,
+   "title": "เรื่องกลุ้มใจ",
+   "text": "ในวันที่ไม่มีคอนเสิร์ต ฉันชอบที่จะออกนอกเมืองไปสัมผัสกับเสียงของธรรมชาติ... แต่น่าเสียดายที่แดนฝันของ Penacony ไม่มีป่าไม้ที่แท้จริง ฉันเลยทำได้แค่พูดคุยกับ \"นกน้อย\" ในความฝันเท่านั้น",
+   "unlockRequirement": "",
+   "cnUrl": "3e7344dbae6b546fe379f4dc1a73f6e00971aee0675c47578b12ab04c14caff1",
+   "jpUrl": "e6cc186707f64b993fa5bff134c8f67baf001c8e6fad12273103ba6465d69d41",
+   "enUrl": "e76a2d3cab7c2c1232307c69b90383ed90756bafe085e1b6954dea11ab38f191",
+   "krUrl": "335bfef4e14f4ef2898d23979e8616c4cc37289886343d2d057220b5848421e1"
+  },
+  {
+   "id": 10,
+   "title": "เรื่องที่อยากจะแบ่งปัน",
+   "text": "ในครอบครัวของ \"ประสาน\" ไม่มีลำดับชนชั้น ทุกคนล้วนสามารถอาบไล้อยู่ภายใต้บทเพลงสรรเสริญของเทพแห่งพันสรรพสิ่งได้ พวกเราร่วมแบ่งปันทุกข์สุขไปด้วยกัน และหวังว่าเสียงเพลงของฉัน จะสามารถนำพาความสงบสุขมาสู่ทุกคนได้",
+   "unlockRequirement": "",
+   "cnUrl": "bd9170ca1103d3b7b096a33aa749bbfdbf83f139263b694259544d448a5691ce",
+   "jpUrl": "eab2266363c6c7ba7b93e9c87c03c777da008c46518e861ba88ead5f87457c27",
+   "enUrl": "b50dd8c8054712fcb737abf5c22c14726c3c101ba36105a013d269a0ea25f5c6",
+   "krUrl": "6948c6fa75e3d8b0b7b1270d6751aebf2ff7d251543896ef8b063697788c003d"
+  },
+  {
+   "id": 11,
+   "title": "ความรู้",
+   "text": "ค่ายเพลงจาก Epsilon เคยออกอัลบั้มให้ฉันอยู่หลายครั้ง และเคยชวนฉันไปพักอาศัยที่นั่นช่วงนึงด้วย บรรยากาศของดาวดวงนั้นคล้ายกับ Penacony มาก แต่พอเทียบกันในด้านของศิลปะ ดูเหมือนว่าผู้คนจะสนใจผลกำไรมหาศาลที่ได้จากศิลปะมากกว่า...",
+   "unlockRequirement": "",
+   "cnUrl": "de4049aacbc622aa90f398cef6aa98136be654969a26e9ae8170a2e211c69945",
+   "jpUrl": "4bb34c6121053c32c912c2b872d9af8350756a644193110a9e0723aaadf542c2",
+   "enUrl": "1c6a5fd11874d540879c58980146b1df38b2a136f337b3f554101a80579d44bd",
+   "krUrl": "307c1199a1514c43c4f416a60af30c371bfc7e5dc2317fbbe3a9c176306dd402"
+  },
+  {
+   "id": 12,
+   "title": "เกี่ยวกับ Sunday",
+   "text": "บางทีพี่อาจคิดว่า ตัวเองต้องแบกรับความรับผิดชอบอันหนักอึ้งอยู่ก็ได้ เขามักจะรับฟังเรื่องกลุ้มใจของฉันอย่างตั้งใจเสมอ แต่กลับระบายความในใจกับฉันน้อยมาก... บางทีในใจของเขา ฉันคงยังเป็นน้องสาวตัวน้อยอยู่เสมอละมั้ง",
+   "unlockRequirement": "",
+   "cnUrl": "031976c85774b81e38e4b3d196b2d168379229eb0b4d4292cc8f2d0f4ad2fe54",
+   "jpUrl": "22240df81aca424f736d2e923c4089a5fdc2e318f9803717777cee6aeefa1462",
+   "enUrl": "0a70106fb5e67d17d38d1fac21d7663eb51b515e007cd78af31a3370453254af",
+   "krUrl": "2e4b14b161718fd1af731b6b028fb3697b89367d8a20988b1375bc7e98862cb9"
+  },
+  {
+   "id": 13,
+   "title": "เกี่ยวกับ Sunday - 2",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "ปลดล็อกหลังจากเสร็จสิ้นภารกิจบุกเบิก \"จากนั้น ในวันที่ 8...\"",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 14,
+   "title": "เกี่ยวกับ Gallagher",
+   "text": "คุณ Gallagher มักจะเก็บซ่อนความอ่อนโยนของตัวเองเอาไว้... ถึงแม้ปกติจะดูเป็นคนเอื่อยเฉื่อยไปบ้าง แต่เมื่อถึงช่วงเวลาสำคัญ เขาก็จะคอยยืนอยู่เคียงข้างพวกพ้องเสมอ",
+   "unlockRequirement": "",
+   "cnUrl": "094e1e6a1b5f106ce4096fcfaff51c550b9cd91feeb48118f30b3db57f007072",
+   "jpUrl": "3816c421e68adc45232e14852d665f7eeaeaa873be79ab730bb2cc4ff6aedf71",
+   "enUrl": "5218eda77365ad468cde6bf6dee33a8397a315fea8f4b1c244edd35aa78d5ed4",
+   "krUrl": "dc32f45e0e78382197ea35bfb31b6248fb17b69490308f6744c8d90ef1de9062"
+  },
+  {
+   "id": 15,
+   "title": "เกี่ยวกับ Black Swan",
+   "text": "กลยุทธ์และวิธีการของคุณ Black Swan ก็เหมือนกับการเต้นรำของเธอ ทั้งละเอียดประณีตและสง่างาม ฉันเฝ้ารออนาคตที่เราจะได้เต้นรำด้วยกันเลยล่ะ",
+   "unlockRequirement": "",
+   "cnUrl": "e6377d6382f3075753a702bd405d7bb08da167d74465be0077d71d55db34cdc6",
+   "jpUrl": "9c6d53abbdb152060e5a5f0fe18d70b7f9a0301221a5a525b91cfcb84793229b",
+   "enUrl": "5e7429d3a0772780ec058009c35b6adf69813805e8369cfb7268ca40f19dcc40",
+   "krUrl": "62a80228b83571581c86c40a7c7c467e824a6e639bb141fc957b2ee7fcabb430"
+  },
+  {
+   "id": 16,
+   "title": "เปิดใช้งาน Eidolon",
+   "text": "ฟังสิ เสียงแห่งการประสานเริ่มชัดเจนขึ้นแล้ว...",
+   "unlockRequirement": "",
+   "cnUrl": "722216acf341257a7a120e7873798d38fe7b3c5a733cd0b6b37595ada8269780",
+   "jpUrl": "c9391701f57ee5437ad90bbdd3215f46121af7392489e802acee1634111f0bf0",
+   "enUrl": "6050f1c16c7070c473e4799dcc2ed0d5bbe76600ef6df2d0ab3aba2f6201df4e",
+   "krUrl": "a73c5f61f877c9ed6281c7a320fafd684851e135a55b22df2e6bcc1e451f7e8e"
+  },
+  {
+   "id": 17,
+   "title": "เลื่อนขั้นตัวละคร",
+   "text": "ต้องหมั่นฝึกฝนเพื่อประสิทธิผลที่ดีที่สุด",
+   "unlockRequirement": "",
+   "cnUrl": "71101847ee71d418cd681d507515e3892e49a5b964fe63c6bc467853a7704ab9",
+   "jpUrl": "a7790bb108ceceef132cba9131e91b99acc050022ca2ee261c36d1d6f979217f",
+   "enUrl": "edd80ccc9713259dd2b0f51f9b9c50c372350cfe604a08e65174a649c1fb89a7",
+   "krUrl": "786f09667b399a2afa85caba530af9beafacbfd588c5a1b1e654248839801929"
+  },
+  {
+   "id": 18,
+   "title": "ตัวละครถึงเลเวลสูงสุด",
+   "text": "ทุกอย่างพร้อม ได้เวลาขึ้นแสดงบนเวทีแล้ว",
+   "unlockRequirement": "",
+   "cnUrl": "b4dd940589635b52c57e85227283185ba8fc551eaf5174c8d72772d81c12a345",
+   "jpUrl": "f311fa7da2f76eda8f8356605a4ccb54ae430ad80bffd7d7e3533fd92ac27cde",
+   "enUrl": "4b9231fdc94685cd852cf8d46b45705f8c7955535f67f30756fbc931f0ff45e3",
+   "krUrl": "4327a458028a630804c91b12dd07a577ad5d67115d0f446300f1ef5c0f36565c"
+  },
+  {
+   "id": 19,
+   "title": "เปิดใช้งาน Trace",
+   "text": "ถึงไม่ใช่เรื่องของดนตรี ก็ไม่ควรจะหละหลวม",
+   "unlockRequirement": "",
+   "cnUrl": "9a311550fb4453065f464239b38df23c75c1d0f73d18a1f7a3d221b06ae32d8c",
+   "jpUrl": "ce831fa27460b176512431cde2ede263d4517a9a3835b9311a6df8555a55c2cd",
+   "enUrl": "37b99801eb27e1912cf98c02f2a9e48c79d2e7140331a0d1913353678a8b27fb",
+   "krUrl": "c288f20e889e5123ef91e0d9ae801a5f6e07531dce1012fdf6a1de57d38eda49"
+  },
+  {
+   "id": 20,
+   "title": "สมาชิกทีม - ผู้บุกเบิก",
+   "text": "ไม่ต้องห่วงนะ ฉันจะคอยอยู่ข้างๆ เสมอ",
+   "unlockRequirement": "",
+   "cnUrl": "ac10aec6dc3851699b43acab717e0f898bad6f96fec889f6bcbba7380b66c859",
+   "jpUrl": "80e5a40574f15eba484404473a5631b38124bb8e7de604c75b61fb613ab8e3ea",
+   "enUrl": "293f81588619f67b00f49ef386ec988045b0471140f0befa5bcb0430004e238d",
+   "krUrl": "d6004796b1fdbae17a715f826a91ea815c9d83b29582d8aab8b2bc4f10e29842"
+  },
+  {
+   "id": 21,
+   "title": "สมาชิกทีม - Gallagher",
+   "text": "ฝากศัตรูที่อยู่ด้านหลังด้วยนะ คุณ Gallagher",
+   "unlockRequirement": "",
+   "cnUrl": "435217d55a9b18332bd4f9d33b08f13967357281ac059b566a357961c8edc913",
+   "jpUrl": "4e5965f2daebdfba4c133016fe0dd0b357b991dbbfc636987c1db2be5beba7b4",
+   "enUrl": "f9250f7ab1e263e0ab96f49e6bf0b232b7fe6967f0cb3e9a8ad9b35bdaf3ccdf",
+   "krUrl": "44d5936c9d20217906d5f76da708dca7ebe66500b0c2eb8ae16004bcf6862f8a"
+  },
+  {
+   "id": 22,
+   "title": "สมาชิกทีม - Black Swan",
+   "text": "หวังว่าท่วงทำนองนี้ จะสอดคล้องกับจังหวะการเต้นของคุณ Black Swan นะ",
+   "unlockRequirement": "",
+   "cnUrl": "3543edb6170f41eb7b7d3db482511b12b97a6b3e2a903d9e492b9193ffd590f8",
+   "jpUrl": "ebdf81f0702e6bdf88189a11c21bf9e8268d305cf57f6ff055ab18a5e80a044c",
+   "enUrl": "18ecbecb721b31d6f20bb00e57cfa7b2e0b338254231904b69f04c913bf121cb",
+   "krUrl": "eb19abfff0ff428d7ad3d30474a83fd340066dcb33ffd9713f9b1848cba4af28"
+  },
+  {
+   "id": 51,
+   "title": "เริ่มการต่อสู้ - ทำลายจุดอ่อน",
+   "text": "จงฟังบทเพลงสุดท้ายของชีวิตเถอะ",
+   "unlockRequirement": "",
+   "cnUrl": "2e1bdbf8d71f7db85cb161b3e54e37bacbcadb3ab9955ff8e5ab21de1c1c096b",
+   "jpUrl": "b2da4684936e58f3917b62f5f68a196984b9b71328da792623ed69c3f26fe8f6",
+   "enUrl": "7d4c2bc8272c2d5696ab86ecfd88a68a4271af4cf516c72e6fc1697dbfbe2291",
+   "krUrl": "f80ce3b2d39158efff4c5879fa71d7dbc4e41e7c02cc2de262cd2f5ffb0cbbb8"
+  },
+  {
+   "id": 52,
+   "title": "เริ่มการต่อสู้ - เตือนภัย",
+   "text": "เสียงความคิดจากภัยอันตราย",
+   "unlockRequirement": "",
+   "cnUrl": "27f67972476542e12b4ddb56d51c087961665d6fd7fa988d3ad4065c4ab7bd74",
+   "jpUrl": "4ccfe3672b4123be9585ae55e9a17d8e0e304fe2f86387bdbab04073743a78b8",
+   "enUrl": "b6fc1cea0a520030e9f5d639e6b334b15e3d174b11bd598770f6cc6e3b708436",
+   "krUrl": "97346ba2956f630c59744bf47f8ca136df22f6c0efaa4bc80dcdcb7117665fad"
+  },
+  {
+   "id": 53,
+   "title": "เริ่มเทิร์น 1",
+   "text": "ขอให้เสียงเพลงนำชัยมาให้เรา",
+   "unlockRequirement": "",
+   "cnUrl": "f7225b89de2b2a4e48112fa36301ef7d0c605332ff0240c4ae095a3a78af2131",
+   "jpUrl": "7a5d0cfa241c3a2c61eb8400102a79dd2453b326f8cb3be90751666993a44ea3",
+   "enUrl": "745768793edc0708e4f48808ecd6cbd2c0b70268a392079fa85c32b4ccb1b73b",
+   "krUrl": "714205e1f88b6d0371531e91142206bd541ab1628d96036122de72af1079d190"
+  },
+  {
+   "id": 54,
+   "title": "เริ่มเทิร์น 2",
+   "text": "ขอให้ความขัดแย้งในโลกนี้สิ้นสุดลง",
+   "unlockRequirement": "",
+   "cnUrl": "37e1764a88cc303867629152f6414e321d48793df87bb1b158c3ee8263ea1fb7",
+   "jpUrl": "ad290960ba6b33447789ddb465cb12a7dd1997f98455e074cfe3302a9a6e904e",
+   "enUrl": "84eff91000ed7accbcb8b351dca5abb58c358d6910ad86ef10ce2f5916e53cd3",
+   "krUrl": "c12a026653edb28d6037c64f7cdcf02a813b128d04b121472fb9980a5d7056e5"
+  },
+  {
+   "id": 55,
+   "title": "เทิร์นสแตนด์บาย",
+   "text": "ได้เวลาเข้าสู่บทเพลงใหม่แล้ว",
+   "unlockRequirement": "",
+   "cnUrl": "dd81cba252fd8885f7eff4936640ff44f2394e8bf92b619b6fa2a48225866d4c",
+   "jpUrl": "af3e2dd84040c0157063b58a3e67e5ffe217847fac1098f2536abdb9a961c766",
+   "enUrl": "587ad6acbee703f3fd9cb961c2fc39904052bd85e8e5dca6b1c67ad4c4738e04",
+   "krUrl": "2a59f4cc6b0c88da2a85db55a080df2f8fc5d7a711af05db456340b86ad7ee92"
+  },
+  {
+   "id": 56,
+   "title": "โจมตีปกติ",
+   "text": "ช่วยเงียบหน่อยนะ",
+   "unlockRequirement": "",
+   "cnUrl": "5f42def6c467791bbbb85216fd64b4276fc81017773d20cffdb15cbacd07eb9e",
+   "jpUrl": "aa97384e0434af80389896fc0698bc90b617e7354083a7621b9cb53ea031745b",
+   "enUrl": "743afba9034af96be91a6b37bd515a0e07844ed1b1ae7c25957259cec2abdbd8",
+   "krUrl": "8281284d7eeca909eb76b073f170b2d78d9de2002af675bc2d6e5f5ef5ee5678"
+  },
+  {
+   "id": 57,
+   "title": "สกิลต่อสู้ 1",
+   "text": "บทเพลงประสานกำลังจะร่วมบรรเลง",
+   "unlockRequirement": "",
+   "cnUrl": "0330b2961f5a38dc115830d7992e2d009cdbd0b6734e8d81136a43a61a9a97ed",
+   "jpUrl": "28693e29fded0b6c61a3733a6897702ca6043288fbceff92fa54b72b9128b109",
+   "enUrl": "47fe307826102b6e07e9bdd24b4ad85917f0592e26f1907ac90d487a4f840e6d",
+   "krUrl": "7a6b5475ed74de66ed71766c4e1cfaa748964c7619f43728028e222b15f4799f"
+  },
+  {
+   "id": 58,
+   "title": "สกิลต่อสู้ 2",
+   "text": "สรรพสิ่ง สะท้อนพ้องกันอีกครา",
+   "unlockRequirement": "",
+   "cnUrl": "3812779efa3c3f34e77fb495180e5596d277ba3baab932c891f4ea8719896697",
+   "jpUrl": "8c878ff1d82c60863f61d3f48302245310e707a7eb95110653be6659c8b98a9e",
+   "enUrl": "7f41a837fb37a3ebc2b8d91a951c819d3b2d9dbb420dabce0d38e6ba8252174c",
+   "krUrl": "011c29b129095579b55388ca6c4db0b75ccbf15d9ceadd83c20a932f830111ad"
+  },
+  {
+   "id": 59,
+   "title": "โดนโจมตีเล็กน้อย",
+   "text": "ไม่เป็นไร ฉันไม่เป็นไร...",
+   "unlockRequirement": "",
+   "cnUrl": "3405186fbcee5cfb0591eab32663a77ba39447b9e9f4263fbf53718b6943d8fc",
+   "jpUrl": "1efe1ccf74a850eda68198b0fdd238522bcdb2063f35dfaeb3d10f8db773913d",
+   "enUrl": "84bbdaedc87366625d1d3675177af38cdf40f523bf839437a72382a9d849c7f6",
+   "krUrl": "201687398a8223ea735d0c9634b5baa11474b9ffa09aa44baa1811d7ea1921bf"
+  },
+  {
+   "id": 60,
+   "title": "โดนโจมตีอย่างรุนแรง",
+   "text": "มัน... เจ็บนิดหน่อยแฮะ...",
+   "unlockRequirement": "",
+   "cnUrl": "094cd10dec1021f6c6c6078f294be75a99f089828a082235fe9a74288bd9ba87",
+   "jpUrl": "ccc350814422973673ce7425f9dccd6d2ed41a8ff674f119be7e221deb98eba5",
+   "enUrl": "6aed96ce70b81b98c73e9ba9e187ddd412c60b0f519dfec50ab1dc3b6b59a3c7",
+   "krUrl": "c1cda97a915142c0e9172c3b14d5a972c3cb4aacd5211d305300404440df19b1"
+  },
+  {
+   "id": 61,
+   "title": "ท่าไม้ตาย - เปิดใช้งาน",
+   "text": "ค่ำคืนนี้ ดวงวิญญาณจะสวมกอดกันและกัน",
+   "unlockRequirement": "",
+   "cnUrl": "629acad382e51ec28f3ff19a0f20ba57f7127b520c59c7c4c9b06bb022a78155",
+   "jpUrl": "cbdb4d49403c32f4664e631f1376da9163c22278fb4620c34446ffcf716ae79f",
+   "enUrl": "55d83534d262c072cc824fbdeb3ac15ceb86f96000c3560433e8157d3687e22c",
+   "krUrl": "09afb296c68577c5de9ac5f6e1704c4ac11b5f824399dd1a376aaa721d342927"
+  },
+  {
+   "id": 62,
+   "title": "ท่าไม้ตาย - ปล่อย",
+   "text": "ค่ำคืนนี้ ดวงดาวจะสะท้อนก้องเพราะฉัน",
+   "unlockRequirement": "",
+   "cnUrl": "ff0fc27c48d9203c00ed9651d126d0a6cfd3d9efb1ac4b4691e76bd0276dba54",
+   "jpUrl": "a15855eb547ea84f789fa6b22396572ebf35b8f05a3fea713b0632edbc90478d",
+   "enUrl": "5e5597fbbc012ec3985361f454172cb731651d29b4073596e31d06f384465358",
+   "krUrl": "20cca19902fddb1bded9c0647d4e35361a0a2c4842e67367355c1cea35f95307"
+  },
+  {
+   "id": 63,
+   "title": "หมดสติ",
+   "text": "การแสดง...ยังไม่...",
+   "unlockRequirement": "",
+   "cnUrl": "553ce56e56a39b5338ccdbea468b743a02d4c3cfe458be36c60dce5db7d80f6b",
+   "jpUrl": "f78ba2593d114bce30dfc8d28eed04ac3fd653b880edb2f64567170ebc702ec1",
+   "enUrl": "74ccd2efae074ddc3e6384e707fad7cfc830fafb13a072e8ccbd4a521eab18be",
+   "krUrl": "782d1d8580fb9cb64ab52dd227ac881dbfc40269ac298740087714999c6572e6"
+  },
+  {
+   "id": 64,
+   "title": "กลับสู่การต่อสู้",
+   "text": "ฉันยังไหว",
+   "unlockRequirement": "",
+   "cnUrl": "06a1d247db237608ee8e6f9a723d67970e5cc50b569efe8e5b39a378eb98c6cf",
+   "jpUrl": "2e0a05b6b237639cd354707b0f49f5525e0ae2f7ee4c1fd1dd5e09d6f4e84284",
+   "enUrl": "5993c06a1849276f094f3d531dc2b840a11d4f1e7e157d5f33bc5ddd2f81fcd7",
+   "krUrl": "5addda09e80f221ad83e652f0d805093f70ead56ac889e95d13c369a71a0d3f6"
+  },
+  {
+   "id": 65,
+   "title": "ฟื้นฟูพลังชีวิต",
+   "text": "ขอบคุณนะ ชุ่มคอขึ้นเยอะเลย",
+   "unlockRequirement": "",
+   "cnUrl": "641af788dc9a5c6bdf761d7e40f6dcbb493e1e9e1c4b16921e2fa261d60f3593",
+   "jpUrl": "506d453e8260b372d1be7983e336744862ebe5a285ce7ee34a2e82e52960aa4e",
+   "enUrl": "27098ef1d1e94b924d8ba4b3043e3d242f695176a0e6f4d3f0a7bf1e90823aef",
+   "krUrl": "436c37d10005c486888978553a4df12022254e7a9d7888922f182309e75a4efd"
+  },
+  {
+   "id": 66,
+   "title": "เทคนิค",
+   "text": "เริ่มการแสดง~",
+   "unlockRequirement": "",
+   "cnUrl": "ae4313d5268b0af84c52c2d3c904ad5ef548ecbc70d069d835cfca6aab688927",
+   "jpUrl": "af37dd347c9b722ed38e459a2b4995a7ea6a64f9f47cbf34251a24d178256941",
+   "enUrl": "595a43a8d08d9df9380372621656b312705d001fb874aa40d59ad5b5d65f5493",
+   "krUrl": "e8fbc2af858be306842ab0b1c266c77855a0cb81ab48553dc1460608865e5653"
+  },
+  {
+   "id": 67,
+   "title": "ชนะการต่อสู้",
+   "text": "ขอให้ได้พบกับความสงบสุขในบทเพลง",
+   "unlockRequirement": "",
+   "cnUrl": "88521e0610b438ff5931a4886fd449e8e76fcc803116abadd94ded7c4eca24fe",
+   "jpUrl": "ed02862de0512baa630d91ad855fd5b256519991e32f8c78bf9465e1cfadda4b",
+   "enUrl": "c037f54ed9ed2b04464e5d69b4720993971431e15fa960f1e73fda258a17b044",
+   "krUrl": "e9a81b882f826ed9e38e3cef8df179c51e52106548eb4e837725d07968a51cf1"
+  },
+  {
+   "id": 68,
+   "title": "เปิดสมบัติ 1",
+   "text": "อืม ไม่เลวๆ",
+   "unlockRequirement": "",
+   "cnUrl": "67af6959f2f48c52933ffc6368966f508fb75d6fae4dc30d7b1b48e980c2c6e2",
+   "jpUrl": "53e81979f484dba9adf673fbcf6ad4f6f478f7fe711f1b81635e8cf9aad574d1",
+   "enUrl": "9694afa29fc1e6de78582e23d013eb08c4dfcfcf6b11345e5d3a38f4bd1bd8e0",
+   "krUrl": "f503303ef0a8177402633595b6f6e1e087f4536d0aee4dc90a54f8fc13ddbb49"
+  },
+  {
+   "id": 69,
+   "title": "เปิดสมบัติ 2",
+   "text": "ฉันชอบเรื่องเซอร์ไพรส์นะ~",
+   "unlockRequirement": "",
+   "cnUrl": "66080e1866d98958baf234090dd3f29c8d6f0f896b11f8ec383a852b63f9b30a",
+   "jpUrl": "dcd6974b03b18d0d84528a73859ba19d188a6923de9d8f1df57f7c67068d032b",
+   "enUrl": "de1ca4551bdbf20ad1e7ba1a179d842ff84c9eea446dfc334f4b975d23c609da",
+   "krUrl": "cb217c816899d8e9f74f7c7ad3d2db7dadac5c06f0f7cedd1a93c9546f8327fe"
+  },
+  {
+   "id": 70,
+   "title": "เปิดสมบัติล้ำค่า",
+   "text": "ความมุ่งมั่นย่อมได้รับผลตอบแทนเสมอ ใช่มั้ยล่ะ?",
+   "unlockRequirement": "",
+   "cnUrl": "20141e4ab9a2676c8130627b1fdc9e5c1477e5e6c0979d4319440d028a3cb714",
+   "jpUrl": "c9a6aa4c72a6a8a66d2385a9863da050183d3c58e33bc7870a557801fff41a02",
+   "enUrl": "17303478d8ef3bcac8588922c9da68f19d851b9a5e3186baa580becb354364db",
+   "krUrl": "c61967fda53de89cb02e80171f64d7a17e9d0dd2bef829cc9493a155886b3faf"
+  },
+  {
+   "id": 71,
+   "title": "ไขปริศนาสำเร็จ 1",
+   "text": "เหมือนกำลังแกะเสียงร้องประสานอยู่เลย",
+   "unlockRequirement": "",
+   "cnUrl": "73eb12e9ef252adf078146d3d5f044ee2da271b7a6915c357a6fd27f35afc297",
+   "jpUrl": "02444b665af8419f4f420f43e3caad166b09cc60ec853f30790e3d0ac7071bc8",
+   "enUrl": "163dc950dae283072543154faf17900933d06ed07836049446159bd40f8252c6",
+   "krUrl": "240ccbaa0498299a747c1ca7b8e8842ec508768598726987729222e89fa704ab"
+  },
+  {
+   "id": 72,
+   "title": "ไขปริศนาสำเร็จ 2",
+   "text": "มีปริศนาที่สร้างจากทำนองดนตรีบ้างไหม...",
+   "unlockRequirement": "",
+   "cnUrl": "7936734fc40d116c351b1e3d514bda6d0ccd62ff3a0c8c7949c0b292036e1370",
+   "jpUrl": "73a4d948a267fd4721300775750ec3c901af706fca2ab154c2cd933a1a47802e",
+   "enUrl": "ca690b4e309c9f3ed98ceccf93e29b00ab377835c975c152f558a4921932b233",
+   "krUrl": "c70016305b37e7e3f8c4800c8d4e2775b980b4231ace2ebfbaac34ec546c35b9"
+  },
+  {
+   "id": 73,
+   "title": "พบศัตรูเป้าหมาย",
+   "text": "เหมือนจะได้ยินเสียงที่ผิดแผกไปนะ",
+   "unlockRequirement": "",
+   "cnUrl": "98f7a7eca45af109be6e0ae299aab7633ebdebddd702ca8afdad2feb4d28c319",
+   "jpUrl": "00aa292c9dc5a41906678d50bc4f53ef3a75a63ad9378d9b6ee0ca18f441c002",
+   "enUrl": "c6db049d6d9021969cef2b7720fc80263fd1658ad1332093a891a28b68e08056",
+   "krUrl": "43c9eee74b172402683a3e665e09cf5e4002975c9645ef491d633eb2ca09f294"
+  },
+  {
+   "id": 74,
+   "title": "กลับเข้าเมือง",
+   "text": "การแสดงจบแล้ว กลับไปพักผ่อนกันเถอะ",
+   "unlockRequirement": "",
+   "cnUrl": "c285e6db8c4f51cf463edd532de7409e8d7bc22e9aed82a0655c73ab845b8418",
+   "jpUrl": "3452ba16e8792e3eebffd130c92fe402ee0c0ae7f2636d2c6e7e8ae5f12bcae8",
+   "enUrl": "1d20a858e9412920f4fe764c73bfef441b5979e67a5675588721c3eb3a3ba380",
+   "krUrl": "57c3b258585f4255fd710dcde991b9719bf32650ce81a808a9d6f58cbbd2574a"
+  }
+ ],
+ "storyItems": [
+  {
+   "title": "รายละเอียดตัวละคร",
+   "text": "เด็กสาวผู้เกิดที่ Penacony มีท่วงท่านุ่มนวลและสง่างาม เป็นนักร้อง Halovian ที่มีชื่อเสียงโด่งดังไปทั่วกาแล็กซี<br />ครั้งนี้ได้รับคำเชิญจากตระกูล ให้กลับมาร่วมงานฉลองที่บ้านเกิด เพื่อมอบบทเพลงให้บรรดาแขกใน \"เทศกาลดนตรีประสานเสียง\"<br />เธอสามารถอาศัยพลังของ \"ประสาน\" ในการถ่ายทอดเสียงเพลง จนเกิดการ \"สั่นพ้องต้องกัน\" ในหมู่แฟนเพลง และสรรพสิ่งต่างๆ บนโลก",
+   "unlockRequirement": ""
+  },
+  {
+   "title": "เรื่องราวของตัวละคร 1",
+   "text": "\"เธอบรรยายว่า ชีวิตของตัวเองเหมือนกับบทเพลง ซึ่งจุดเริ่มต้นของบทเพลงนั้น ทั้งหมองหม่นและขมขื่น<br /><br />Stellaron ได้ร่วงหล่นสู่บ้านเกิดของเด็กสาว ในขณะที่เธอยังเป็นทารก<br />'เสียงร้องไห้ เสียงถอนหายใจ เสียงอธิษฐาน... นั่นเป็นเสียงแรกในความทรงจำของฉัน เราอธิษฐานขอความช่วยเหลือด้วยเสียงคร่ำครวญ แต่สุดท้ายก็ไม่อาจรอให้เทพเจ้าปรายตามองลงมาได้...'<br /><br />นักร้องที่มีรอยยิ้มประดับใบหน้าอยู่เสมอ ตกสู่ห้วงแห่งความเงียบงันอย่างหาได้ยาก<br /><br />'งั้นนั่นถือเป็นแรงบันดาลใจด้านดนตรีของคุณสินะ?'<br /><br />'ตอนนั้นฉันยังเด็กเกินไป ฉันจำบทเพลงส่วนใหญ่ไม่ได้หรอก แต่ฉันยังคงจำได้ดีว่า ในตอนที่ Stellaron เริ่มกลืนกินแดนฝันนั้น คุณแม่อุ้มฉันกับพี่ชายไว้ในอ้อมอก และพยายามร้องเพลง เพื่อปลอบประโลมความหวาดกลัวของพวกเรา...'<br /><br />'คุณพอจำได้มั้ยว่าท่านร้องเพลงอะไร?'<br />เมื่อเห็นสีหน้าที่เจ็บปวดของเธอ ตอนแรกฉันก็อยากจะข้ามคำถามนี้ไป แต่หลังจากผ่านไปชั่วครู่ เธอก็ให้คำตอบกลับมา<br /><br />'ฉันไม่ได้ยินหรอก... มีแต่เสียงดังน่ากลัววนเวียนอยู่ข้างหู ฉันเห็นเพียงริมฝีปากที่ขยับของคุณแม่ ท่านกระชับกอดพวกเราไว้แน่น อกกระเพื่อมขึ้นลงจากแรงหายใจ ส่วนพี่ชายก็คอยจับมือฉันไว้แน่นอยู่ด้านข้าง ดวงดาวหนาวเหน็บร่วงลงมา ด้านหลังคุณแม่อย่างรวดเร็ว จากนั้น... ท่านก็สลายไปในวังวนของเขตแดนความทรงจำ ส่วนพวกเราก็ร่วงหล่นลงมาราวกับนกปีกหัก...<br /><br />หากนกรู้ว่าตัวเองถูกกำหนดให้ร่วงหล่น แล้วทำไมถึงยังบินขึ้นฟ้าอีกกันนะ?'<br /><br />ฉันไม่ได้ตอบ และไม่อาจตอบได้เลย นี่ไม่ใช่คำถามที่ต้องการถามฉัน เพราะคำตอบนั้น มีอยู่แค่ในใจของเธอ\"<br /><br /><align=\"right\">อ้างอิงมาจาก \"วิหคและเวหา: บทสัมภาษณ์พิเศษของ Robin\"</align>",
+   "unlockRequirement": "ปลดล็อกเมื่อตัวละครถึง Lv.<nobr>20</nobr>"
+  },
+  {
+   "title": "เรื่องราวของตัวละคร 2",
+   "text": "\"โชคดีที่บรรยากาศไม่ได้อึมครึมอยู่นานนัก หลังจากที่เราแบ่งไอศกรีมรสเบอร์รี่กินกันสองถ้วย เธอก็กลับมาเป็นเด็กสาวที่ร่าเริงอีกครั้ง<br /><br />หลังจากภัยพิบัติ Stellaron ทางตระกูลก็ได้ยื่นมือเข้าช่วยเหลือผู้รอดชีวิต เธอกับพี่ชายได้รับการคุ้มครอง และได้รับการศึกษาที่ดี และในขณะนั้นนั่นเอง เธอได้ค่อยๆ แสดงพรสวรรค์ทางด้านดนตรีที่ไม่ธรรมดาออกมา<br /><br />'รสชาติเหมือนตอนเด็กๆ เลย ตอนนั้นเป็นเพราะว่าต้องคอยเซฟเสียงเอาไว้ ฉันเลยได้แต่แอบกินไอศกรีมโดยมีพี่ชายคอยปกปิดให้น่ะ'<br />เธอวางถ้วยลงอย่างพึงพอใจ<br /><br />'ตอนเอางานอดิเรกมาเป็นอาชีพ มันก็ไม่ใช่เรื่องง่ายอีกต่อไป นอกจากฉันจะต้องเรียนเรื่องศาสตร์การร้องเพลงแล้ว ยังต้องเรียนวิธีเล่นเครื่องดนตรี แต่งทำนอง แต่งคำร้อง และมารยาทต่างๆ ด้วย... มีหลายครั้งมากที่ฉันอยากจะยอมแพ้ แต่เพราะมีความช่วยเหลือ และกำลังใจจากคนรอบข้าง ฉันจึงพยายามต่อไป'<br /><br />เธอพูดถึงเพลงแรกที่ตัวเองแต่งขึ้น บนหน้าของปกอัลบั้ม มีประโยค 'แด่ผู้คนที่สูญเสียความหวัง' เขียนกำกับไว้ที่เพลงนี้เป็นพิเศษ และแรงบันดาลใจของเพลงนี้ ก็มาจากดวงดาวแห่งความฝันในจักรวาล อย่าง 'Penacony'<br /><br />'ฝันหวานในความว่างเปล่า สิ่งที่เป็นไปไม่ได้ ความฝันจะกลายเป็นจริง ในเขตแดนความทรงจำสุดมหัศจรรย์... ตอนนั้นฉันเคยหวังอยู่อย่างเดียวว่า ผู้คนที่ระหกระเหินไร้บ้านเหมือนฉัน จะสามารถพบที่พักพิงของตัวเองในนี้ได้ แต่...'<br /><br />เธอถอนหายใจและมองออกไปนอกหน้าต่าง สายฝนที่โปรยปรายทำให้ท้องถนนเป็นสีเทา เด็กๆ ในเสื้อกันฝนสีสันสดใส กำลังเล่นกันอยู่ท่ามกลางสายฝน เธอหันกลับมา และพูดอย่างจริงจังว่า...<br />'แต่ไม่ว่าโลกจะแปรเปลี่ยนไปอย่างไร ความปรารถนาของฉัน ก็จะไม่มีวันเปลี่ยนแปลง'\" <br /><br /><align=\"right\">อ้างอิงมาจาก \"วิหคและเวหา: บทสัมภาษณ์พิเศษของ Robin\"</align>",
+   "unlockRequirement": "ปลดล็อกเมื่อตัวละครถึง Lv.<nobr>40</nobr>"
+  },
+  {
+   "title": "เรื่องราวของตัวละคร 3",
+   "text": "\"หลังจากปล่อยออกมาสามอัลบั้มติดต่อกัน อาชีพทางดนตรีของเธอก็เริ่มทะยานสู่จุดสูงสุด ซึ่งหลายๆ บทเพลง อย่างเช่น 'If I Can Stop One Heart From Breaking', 'On That Most Beautiful Day' ก็ได้ล้างชาร์ตเพลงใหญ่ๆ ในจักรวาล และกลายเป็นซิงเกิลยอดฮิตทันที แต่สิ่งที่ผู้คนไม่เข้าใจเลยก็คือ เด็กสาวกลับเลือกที่จะถอนตัว จากสายตาของสาธารณชนในช่วงเวลานี้<br /><br />เมื่อพูดถึงช่วงเวลานั้น เธอก็แสดงรูปถ่ายต่างๆ ที่ตัวเองถ่ายไว้ให้พวกเราดู ท่ามกลางซากปรักหักพังของสงคราม เธอได้ช่วยเหลือเหล่าผู้ที่สิ้นเนื้อประดาตัว ในการสร้างบ้านขึ้นมาใหม่ เธอสร้างโรงเรียนสำหรับเด็กที่ไม่มีโอกาสทางการศึกษา เธอไปยังโลกที่ไม่มีใครรู้จัก เพื่อไล่ตามเสียงเพลงที่กำลังจะสูญหายไป...<br /><br />เธอล็อกหน้าจอมือถือ ถอนหายใจออกมา และเริ่มเล่าถึงสาเหตุที่ตัดสินใจแบบนี้<br />'ตอนนั้น ฉันเริ่มไม่เข้าใจขึ้นทุกทีว่า ตัวเองร้องเพลงเพื่ออะไรกันแน่'<br />'เมื่อต้องเผชิญกับหายนะที่แท้จริง เสียงเพลงก็ไม่ได้มีประโยชน์อะไรเลย ฉันร้องเพลงเพื่อเอาใจอำนาจเบื้องบน หรือเพื่อบรรเทาทุกข์ และให้ความหวังจอมปลอมกับผู้คนกันแน่นะ?'<br /><br />ในสถานีสุดท้ายของการเดินทาง เธอได้กลับไปยังจุดล่มสลายของบ้านเกิดชาว Halovian ซากปรักหักพังอันน่าสลด ถูกปกคลุมไปด้วยหญ้าเขียว ท่ามกลางสายลมและกลิ่นหอมของดอกไม้ เธอได้เอนตัวนอนบนโขดหินขรุขระ และมองดูฟ้าที่ส่องแสงลอดผ่านหมู่เมฆสู่พื้นดิน<br /><br />'ฉันนึกถึงเสียงเพลงของคุณแม่ครั้งแล้วครั้งเล่า ฉันเคยคิดว่านั่นเป็นเสียงที่ไร้ประโยชน์ เพราะฉันจำไม่ได้ด้วยซ้ำว่าเป็นเสียงยังไง และมันก็ไม่อาจเปลี่ยนจุดจบของการล่มสลายได้ แต่ตอนนี้ฉันเข้าใจแล้วว่า สิ่งที่บทเพลงสื่อออกไป ไม่ได้มีแค่เสียงเท่านั้น... ฉันยังจำเสียงหัวใจเต้นของแม่ จำพี่ชายที่ตัวสั่นเทาอยู่ข้างๆ และจำความอบอุ่นที่เราสามคน มอบให้แก่กันได้เป็นอย่างดี... แม้จะต้องเผชิญกับจุดจบที่ไม่อาจเปลี่ยนแปลง แต่หากยังคงร้องเพลงด้วยจิตใจที่ไม่หวาดหวั่น เสียงนั้นก็ย่อมสื่อไปถึงแน่นอน...'<br /><br />สายฝนนอกหน้าต่างค่อยๆ หยุดลง เธอกำลังดื่มด่ำอยู่กับความทรงจำในช่วงนั้น แต่น่าเสียดายที่โทรศัพท์แผดเสียงดังขึ้น และทำลายความเงียบที่ชวนหลงใหลนี้ไป จากนั้นการสัมภาษณ์ของเราก็สิ้นสุดลง<br /><br />เพราะตารางงานมีการเปลี่ยนแปลง คุณ Robin จึงต้องไปยัง Penacony ทันที เพื่อนผู้อ่านที่รัก แล้วพบกันใหม่ในดินแดนแห่งความฝัน\"<br /><br /><align=\"right\">อ้างอิงมาจาก \"วิหคและเวหา: บทสัมภาษณ์พิเศษของ Robin\"</align>",
+   "unlockRequirement": "ปลดล็อกเมื่อตัวละครถึง Lv.<nobr>60</nobr>"
+  },
+  {
+   "title": "เรื่องราวของตัวละคร 4",
+   "text": "\"หนึ่งปีต่อมา เราได้รับคำเชิญให้มาที่ Penacony และทำการสัมภาษณ์ต่อจากคราวก่อน<br /><br />เธอดูอิดโรยกว่าตอนที่เจอกันครั้งที่แล้ว แม้แต่เสียงก็ยังแหบแห้งขึ้นมาก ครั้งนี้เธอสวมชุดพิธีการที่เคร่งขรึมของตระกูล และประพฤติตัวอย่างสำรวม แต่หลังจากที่ได้เจอเรา เธอก็ยังคงเป็นมิตรเหมือนเดิม และครั้งนี้เราก็ได้เจอพี่ชายของเธอด้วย เขาเป็นผู้นำที่สง่างามมากทีเดียว<br /><br />'นี่คือโลกแห่งความฝันเพียงหนึ่งเดียวในจักรวาล และเป็นที่ตั้งของตระกูลด้วยเช่นกัน ตระกูลได้เปลี่ยนแดนฝันอันรกร้างเป็นสวรรค์บนดิน...'<br />พี่ชายของเธอได้แนะนำประวัติศาสตร์ของ Penacony ให้เราฟังทีละเรื่องๆ ส่วนเธอก็ช่วยบรรเทาอาการไม่สบายตัว หลังเข้าสู่ฝันให้พวกเรา จากนั้นก็เชิญชวนให้ลิ้มลองอาหารแสนอร่อย ของแดนฝันอย่างกระตือรือร้น<br /><br />เราเที่ยวชมสิ่งมหัศจรรย์ในความฝันหลายอย่าง แต่น่าเสียดาย ที่เราไม่สามารถทำการสัมภาษณ์เชิงลึก ท่ามกลางสภาพแวดล้อมที่เสียงดังแบบนี้ได้<br /><br />สุดท้ายพวกเราก็กลับมายังโรงละครอันยิ่งใหญ่ ในเทศกาลดนตรีประสานเสียงที่กำลังจะมาถึงนี้ เธอจะขับร้องเพลงบนเวทีที่งดงามแห่งนี้ และถ่ายทอดเสียงดนตรีแห่งประสานไปทั่วทั้งจักรวาล<br /><br />ในขณะที่คิดว่าการสัมภาษณ์ครั้งนี้กำลังจะจบลงแล้ว เธอก็มองไปยังโรงละครอันยิ่งใหญ่ตระการตา ฉับพลันนั้น เธอก็เอ่ยคำถาม ที่เคยพูดถึงเมื่อตอนเริ่มการสัมภาษณ์ขึ้นมา<br /><br />'คุณบรรณาธิการ คุณยังจำสิ่งที่ฉันเคยถามคุณในตอนนั้นได้มั้ยว่า ทำไมนกถึงต้องบินขึ้นฟ้า? หลังจากกลับมาที่ Penacony ฉันก็คิดอยู่นานมากทีเดียว'<br /><br />เธอมองไปยังท้องฟ้าในแดนฝัน ราตรีสีเข้มแห่งนี้ แต่งแต้มไปด้วยแสงสีที่มนุษย์สร้างขึ้น<br />'บางทีนกอาจจะถูกกำหนดให้เป็นแบบนั้นก็ได้ เพราะนั่นคือความปรารถนา บ้าน และสิทธิ์ที่ไม่อาจถูกช่วงชิงไปได้ของตัวเอง...'<br /><br />เธอยิ้มและมองไปยังที่บางแห่ง พร้อมกับเอ่ยปากชวนฉัน<br />'ในอนาคต จะมีการแสดงที่ยิ่งใหญ่มากที่นี่ ฉันจะแสดงบทเพลงที่ผู้คนพึงพอใจมากที่สุดที่นี่ อยากให้ผู้คนจับมือร้องเพลงไปด้วยกันจังเลยนะ... แม้จะเป็นโลกในความฝัน แต่สุดท้ายก็จะมีแสงฉายลงมาที่ในนั้นเสมอ'<br /><br />ฉันไม่รู้ว่าเธอจ้องมองไปที่ไหน แต่คงไม่ใช่เวทีในโรงละครแน่นอน แล้วการแสดงที่เธอพูดถึง จะเป็นอะไรกันแน่นะ?<br /><br />สิ่งเดียวที่ยืนยันได้ในตอนนี้คือ แม้จะอยู่ในสถานที่ที่เจริญรุ่งเรืองเช่นนี้ แต่เธอก็ยังไม่ละทิ้งแรงศรัทธา ที่จะปกป้องผู้อ่อนแอ ความเชื่อนี้จะดำเนินต่อไปตลอดชีวิตของเธอ จากอินโทรเพลงอันขมขื่น ไปสู่ท่อนฮุคที่งดงาม และถัดจากกระแสวังวนของทำนองเพลงคั่นนี้ อาจนำไปสู่การผลิบาน และฉากจบที่งดงามที่สุดก็ได้\"<br /><br /><align=\"right\">อ้างอิงมาจาก \"วิหคและเวหา: บทสัมภาษณ์พิเศษของ Robin\"</align>",
+   "unlockRequirement": "ปลดล็อกเมื่อตัวละครถึง Lv.<nobr>80</nobr>"
+  }
+ ],
+ "archive": {
+  "cvCn": "钱琛 / 歌：Chevy",
+  "cvJp": "名塚佳織 / 歌: Chevy",
+  "cvKr": "신온유/ 노래: Chevy",
+  "cvEn": "Alice Himora / Song vocals: Chevy",
+  "camp": "Penacony"
+ },
+ "calculator": {
+  "expCost": {
+   "1": 200,
+   "2": 300,
+   "3": 500,
+   "4": 600,
+   "5": 1050,
+   "6": 1670,
+   "7": 2320,
+   "8": 3060,
+   "9": 3860,
+   "10": 4740,
+   "11": 5710,
+   "12": 6730,
+   "13": 7830,
+   "14": 9000,
+   "15": 10240,
+   "16": 11550,
+   "17": 12920,
+   "18": 14360,
+   "19": 15870,
+   "20": 16580,
+   "21": 16840,
+   "22": 17100,
+   "23": 17370,
+   "24": 17640,
+   "25": 17910,
+   "26": 18190,
+   "27": 18480,
+   "28": 18760,
+   "29": 19040,
+   "30": 19340,
+   "31": 19630,
+   "32": 19930,
+   "33": 20220,
+   "34": 20530,
+   "35": 20840,
+   "36": 21140,
+   "37": 21450,
+   "38": 21760,
+   "39": 22080,
+   "40": 22390,
+   "41": 25550,
+   "42": 29140,
+   "43": 32830,
+   "44": 36600,
+   "45": 40470,
+   "46": 44430,
+   "47": 48480,
+   "48": 52630,
+   "49": 56870,
+   "50": 61190,
+   "51": 65620,
+   "52": 70130,
+   "53": 74740,
+   "54": 79450,
+   "55": 84240,
+   "56": 89120,
+   "57": 94110,
+   "58": 99190,
+   "59": 104350,
+   "60": 106240,
+   "61": 111830,
+   "62": 117530,
+   "63": 123320,
+   "64": 129210,
+   "65": 135200,
+   "66": 141290,
+   "67": 147480,
+   "68": 153780,
+   "69": 160170,
+   "70": 179260,
+   "71": 199920,
+   "72": 220920,
+   "73": 242260,
+   "74": 263930,
+   "75": 285950,
+   "76": 308300,
+   "77": 331000,
+   "78": 354040,
+   "79": 377420,
+   "80": 414350
+  },
+  "expItemConfig": {
+   "1000": 409962,
+   "5000": 409961,
+   "20000": 409960
+  },
+  "sCoinId": 29328
+ },
+ "name": "Robin",
+ "rarity": 5,
+ "descHash": "เด็กสาวผู้เกิดที่ Penacony มีท่วงท่านุ่มนวลและสง่างาม เป็นนักร้อง Halovian ที่มีชื่อเสียงโด่งดังไปทั่วกาแล็กซี ครั้งนี้ได้รับคำเชิญจากตระกูล ให้กลับมาร่วมงานฉลองที่บ้านเกิด เพื่อมอบบทเพลงให้บรรดาแขกใน \"เทศกาลดนตรีประสานเสียง\" เธอสามารถอาศัยพลังของ \"ประสาน\" ในการถ่ายทอดเสียงเพลง จนเกิดการ \"สั่นพ้องต้องกัน\" ในหมู่แฟนเพลง และสรรพสิ่งต่างๆ บนโลก",
+ "artPath": "0138e78111a7211d884e5ac86d8745f7d556b3d769edc541724ff94c9e7f8a84",
+ "miniIconPath": "92edd6c32fa7d7899058fa5d263158536da5b0afca1bd6779bda7bfd53360c6d",
+ "damageType": {
+  "id": 1,
+  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "color": "#FFFFFF",
+  "name": "กายภาพ",
+  "rarity": 0
+ },
+ "baseType": {
+  "id": 0,
+  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
+  "altIconPath": "691e6c36e7f71344352e4ed80941938d7dc5722b23cef7a18f7fa8722d8c0523",
+  "color": "#FFFFFF",
+  "name": "ประสาน",
+  "rarity": 0
+ },
+ "pageId": "robin"
+}

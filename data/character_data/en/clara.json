@@ -6,9 +6,8 @@
  "fgPath": "7610900abad8e7795a7b89b18adb0412a4b9a4903b81a2088c004f55e7b861cc",
  "splashIconPath": "f318bce244277814b27f02d3223aae1e8c36af327558bd184b92c41fb3b5b581",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRpICAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAoBAAABkLJt+/m/2u8v/rb/ldEc3oHXjMiqtGbbbItLRlr2Fu0t2d/P577miJgA/ZlISiSlif4/05JpLZKUpMkfdcOqUNMLPhxoKJWkJJfULmV7CHBcHWP9g5Jmndq5cukZomP0ourT93p611zlr8EQCUeZqisAgViATQQ2pYMPeLz7/etP2Ng4fmadqroa89mb7hMjxva3t1tUsqJeBz/bYLD5NlKlbF5dXyTaxsaBxfrzAoWx+TNwTUo15Qu2AWxspirV5C9E8D9+cE5KtZxg29jYkbmSGpvf8D38JRRf2SYpUX4eIBaFgY/dkpSqbvWq6z8Abq49u0yZJCWSKnsXHdk0tUT/m+X6e5ZIAlZQOCBiAQAAUAcAnQEqFAAUAD5tMpRHpCKiISgIAIANiWMAqRRxuoBaWWZ36H9gD+Nf1f/XcCAGIl8wjeM3SWC+IZJcqauUvqmUAAD+uyx72uc+///TD+b288v56N952n3HRLh3+gq/BTjkUpzWOxAsRRGgBYmU0lhchy2bJSyNE/hEOLfveGGYfI9mgi8A5P/lp9v8FyiN72Z8UKz+C85VFVYIe0fCNEzboSi/TlDw2DILLU3LYF5qlG/FbpIhBkEaZsnp7VecAk4mSdKF5ZQ1RY7hZyMm6npCphi//wdWX/STu1thwaNwngvJt29e7ZXz5vZKemfP+oXj2fxdS7oZoC4uHzDW5B8Yck0RIpwP/LE/9+KnfsN408nr/jAtofo5LfDpR9HPLbPaBLWJR1ev69oPneiNT9yJmsLb6ammCXxIva9VDuq7Gt2raXF5bHm8LjJW5Twjtb0UXsub6XifHb0fA0xQmQAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -179,7 +178,6 @@
    "rewardPath": "/material/635673",
    "comeFrom": [
     "Calyx (Storage Zone)",
-    "Calyx (Storage zone)",
     "Embers Exchange",
     "Omni-Synthesizer — Material Exchange"
    ]

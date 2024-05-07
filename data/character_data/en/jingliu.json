@@ -6,9 +6,8 @@
  "fgPath": "",
  "splashIconPath": "b3a37ce4fe6eb7ddd0290129114072567e4335d7ce861be70ca70ded8a2f13b6",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRnoCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSP4AAAABkGrb2rFt+/P320y2lZDMZOMAbCvZako2qm2j2+ZzP/de4cUxRMQEKHtBjXbdO/errjzrT9h952uSBh5MLmtULUtx96EvyIxw71RDFUgFUuWDpLadBuilIhVIpfuIBhsHVqugUNWKtZ9gG3DkcT1JG25c+Ypzx6OjVPcSgLGxjQNLtYAQUmNjwASOq9mlBGMDtjHQU1MSbLLbfHvJ1LIbRGNnwZHZZ6e1/YNtcIaJvO0xqCmk2MYZ5t+7VdIiiOQisLlWidT7M86JE8apsEBtXvIvhCRExzTwWJm1tyTkebeNCpXZfv6urUs3X/j+6dwwqUCZhcpaoUVtSYWSAFZQOCBWAQAAkAcAnQEqFAAUAD5tMpRHpCKiISgIAIANiWwAnTKEcBkAO8A9+P0AY2P7L/kqnaBUvBvV9fehBdSVbbornh2Hu262yJQAAP72rJzz0spl+VP5wvWvr9ltZo6WSMkq/vpKeYSFx/S2zH8lOi6qn5YLW4dGRNN2+VkMH7bH+8kaQriM9q586ltP1l4FgDfDvnRMf5plooWhRC/mVSYDNoIxZOQw3xzsWmqGUvW3hiH/qhRCoqXZ5OeT+phKpDNGqRcWcUPsppO5KBpY9U9O90ia9MWjPptQR0uL1Q2+bJ8Y9BORZweU3lGW0ItnJEmWvthW75+YA9O9PJuu3v+RT6cLn+DIRWHyeT0M5OItX4NKcTHeOmKWP+a2IUPDVZsqiz/MXWYvgZHV8AqX1eLNGuAS1qZQyf1/oPpdhutk1748e7gMY6aK2P91/4yX1KRZwOK+j45BAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -196,7 +195,6 @@
    "rewardPath": "/material/635673",
    "comeFrom": [
     "Calyx (Storage Zone)",
-    "Calyx (Storage zone)",
     "Embers Exchange",
     "Omni-Synthesizer — Material Exchange"
    ]
@@ -442,7 +440,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "da114eeb41ba88432ef1f126788592604a02f6884dff261d23d1740def047e92",
+   "iconPath": "bb481aabb5e419f276d5bfb70f0b17d1322f1eae4b3b553d2ca1403f9b06d18b",
    "artPath": "24515c3d54d948daf7478fffa7e74a9534d171ee0715e290011d23e761d4f9f8",
    "name": "Moon Crashes Tianguan Gate",
    "descHash": "When using her Ultimate or Enhanced Skill, Jingliu's CRIT DMG increases by <nobr>#1[i]%</nobr> for <nobr>#3[i]</nobr> turn(s). If only one enemy target is attacked, the target will additionally be dealt Ice DMG equal to <nobr>#2[i]%</nobr> of Jingliu's ATK.",
@@ -454,7 +452,7 @@
   },
   {
    "id": 2,
-   "iconPath": "f29712cfa718c76859b57834fd69e8f72afa753a809f734fa031fcf5b34bb15b",
+   "iconPath": "1da5e6dea9bf1cb60ca67e76cb164e2ef6828e9123e636d64b04aa1f98538181",
    "artPath": "cf17ffc8db5fa7cbe7c3def43d96fbeff6014f3b2c70051dede7c5324a73c93c",
    "name": "Crescent Shadows Qixing Dipper",
    "descHash": "After using Ultimate, increases the DMG of the next Enhanced Skill by <nobr>#1[i]%</nobr>.",
@@ -464,7 +462,7 @@
   },
   {
    "id": 3,
-   "iconPath": "86b381c29b9eed960623a5e56d2ef8858eb25115c85f11f4a46978784c6a3e0d",
+   "iconPath": "4c1652a580e9da3063f39bd21561686db9b64267018d1761d0f43bbbfd4b9a03",
    "artPath": "c118126d02316b83d38ec8358ff193e95e3fd7fbd293027746fe2e7233120e8f",
    "name": "Halfmoon Gapes Mercurial Haze",
    "descHash": "Ultimate Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Talent Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.",
@@ -472,7 +470,7 @@
   },
   {
    "id": 4,
-   "iconPath": "9651bd1abcc19c74cf3c8f1bfca0a8c0e2d5f40f3289c120a735af58b7d5196f",
+   "iconPath": "deed1ec9262e3ff26d6b8026799ebc199842c0c3f19a09c2a835f7cbfadcc784",
    "artPath": "68e4598bf5209b64242a273d5d25fb2c0694c9f64befa0a78e12646aa95f1d64",
    "name": "Lunarlance Shines Skyward Dome",
    "descHash": "During the Spectral Transmigration state, the ATK gained from consuming allies' HP is additionally increased by <nobr>#1[i]%</nobr> of the total HP consumed from the entire team. The cap for ATK gained this way also increases by <nobr>#2[i]%</nobr>.",
@@ -483,7 +481,7 @@
   },
   {
    "id": 5,
-   "iconPath": "62d8c6c91f8ade0c0bffc56260367c38aaf94448bc4c975d24b6c419815a5bc1",
+   "iconPath": "06da12532a9b4ac5060e7ac82578f573a93f603c79d88a0d7a1cdaee3bdb90f4",
    "artPath": "37bd8cb348a77552e26ae62ea5577aebf7cc94e97024cac8462ab12595a27d99",
    "name": "Night Shades Astral Radiance",
    "descHash": "Skill Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Basic ATK Lv. +1, up to a maximum of Lv. <nobr>10</nobr>.",
@@ -491,7 +489,7 @@
   },
   {
    "id": 6,
-   "iconPath": "1aeafab771f1e9dae80bdf70b9da42b2980ea73c3f03e775a4bb250def1cc449",
+   "iconPath": "8b06be57b64b2844b3189f9bba575f59dd18272fedcf59141d114ba7f6c491a6",
    "artPath": "84cdabad082ac99581f78e51dd7eba2925003e93be788fa80cac9a9d8fb65227",
    "name": "Eclipse Hollows Corporeal Husk",
    "descHash": "When Jingliu enters the Spectral Transmigration state, the Syzygy stack limit increases by 1, and Jingliu obtains <nobr>#1[i]</nobr> stack(s) of Syzygy. While she is in the Spectral Transmigration state, her CRIT DMG increases by <nobr>#2[i]%</nobr>.",
@@ -528,7 +526,7 @@
    "energy": "20",
    "id": 744089,
    "name": "Lucent Moonglow",
-   "iconPath": "cad9857c89beb0b9c62247b35f49feed9d2cd7dabe9af6590ebdafba8e0704d3",
+   "iconPath": "1c149395c744db3a1e880ce536a7e95d879b0b23fcc32e6153eed6a7f6911271",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -689,7 +687,7 @@
    "energy": "20",
    "id": 28616,
    "name": "Transcendent Flash",
-   "iconPath": "62d8c6c91f8ade0c0bffc56260367c38aaf94448bc4c975d24b6c419815a5bc1",
+   "iconPath": "06da12532a9b4ac5060e7ac82578f573a93f603c79d88a0d7a1cdaee3bdb90f4",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -979,7 +977,7 @@
    "energy": "5",
    "id": 944675,
    "name": "Florephemeral Dreamflux",
-   "iconPath": "3dc4c24ae651dc178e530ef393e0e23cc20f1949c25c4aa576a2dee47d93c684",
+   "iconPath": "0db943d4927846b6a55bc6ba8602d26b706bd513f91df584b6d374b8e96b4e84",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1299,7 +1297,7 @@
    "energy": "0",
    "id": 459562,
    "name": "Crescent Transmigration",
-   "iconPath": "6d00b4399272368f53dd3649276cf635964c196df30d66017fac4aa7af583626",
+   "iconPath": "56de5e2eea5538b1aae478c4a464fe26b522d2427f35af9532cc01b8ea0d6bee",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1664,7 +1662,7 @@
    "energy": "0",
    "id": 660148,
    "name": "Attack",
-   "iconPath": "cad9857c89beb0b9c62247b35f49feed9d2cd7dabe9af6590ebdafba8e0704d3",
+   "iconPath": "1c149395c744db3a1e880ce536a7e95d879b0b23fcc32e6153eed6a7f6911271",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1680,13 +1678,13 @@
   },
   {
    "tagHash": "Impair",
-   "descHash": "After using this Technique, creates a dimension around Jingliu that lasts for <nobr>#3[i]</nobr> seconds, and all enemies in this dimension will become Frozen. After entering combat with enemies in the dimension, Jingliu immediately regenerates <nobr>#6[i]</nobr> Energy and obtains <nobr>#1[i]</nobr> stack(s) of Syzygy, with a <nobr>#2[i]%</nobr> <u>base chance</u> of Freezing enemy targets for <nobr>#4[i]</nobr> turn(s). While Frozen, enemy targets cannot take action, and receive <span style=\"color:#47C7FD;\">Ice </span><u>Additional DMG</u> equal to <nobr>#5[i]%</nobr> of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time.",
+   "descHash": "After using this Technique, creates a special dimension around Jingliu that lasts for <nobr>#3[i]</nobr> seconds, and all enemies in this special dimension will become Frozen. After entering combat with enemies in the special dimension, Jingliu immediately regenerates <nobr>#6[i]</nobr> Energy and obtains <nobr>#1[i]</nobr> stack(s) of Syzygy, with a <nobr>#2[i]%</nobr> <u>base chance</u> of Freezing enemy targets for <nobr>#4[i]</nobr> turn(s). While Frozen, enemy targets cannot take action, and receive <span style=\"color:#47C7FD;\">Ice </span><u>Additional DMG</u> equal to <nobr>#5[i]%</nobr> of Jingliu's ATK at the start of every turn. Only 1 dimension created by allies can exist at the same time.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 543503,
    "name": "Shine of Truth",
-   "iconPath": "8bde2f5bdf0d88b188dbfa30e945367b9064bb0d430184325ac89ddf3e1712f3",
+   "iconPath": "1e2033ac874724b94a92d4cf615c05fc1e35bca4afeea5e9b420c5797579b800",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1715,7 +1713,7 @@
    "energy": "30",
    "id": 513729,
    "name": "Moon On Glacial River",
-   "iconPath": "03c9beed99a566afa51ac3c7caeea3a9fed2509f4e48d1a9239a12b46e7bc41b",
+   "iconPath": "ea9d8d0040057c9d6b3406419b0eec208d0533b0607f2b2bf1301f4e873a7aba",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2127,7 +2125,7 @@
     "ultimateCost": 0,
     "id": 384334,
     "name": "Deathrealm",
-    "iconPath": "83f5a1a8b1dd4034fe295eb8e7d66ac1d77ba1928db04efa55f9174a7e93ea42",
+    "iconPath": "315d392a1855179352940d87536741272222e2cace31140abf1d2a7eb435deb3",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2269,7 +2267,7 @@
     "ultimateCost": 0,
     "id": 384335,
     "name": "Sword Champion",
-    "iconPath": "a96f4ff3fdc4a4f41b9ca96d57f1a03622d7b2c72c8416fc904348179ef66280",
+    "iconPath": "40ab15ed8b4f18d6745780706127f8e827c96410d024a18d0bdf222f150660dd",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2414,7 +2412,7 @@
     "ultimateCost": 0,
     "id": 384336,
     "name": "Frost Wraith",
-    "iconPath": "41850997bbd5435cd6a9ab684a15f11e279cccfc6d225e1b6db0093690a6a102",
+    "iconPath": "819abdb73fb13affe3f77a758f965420d27ef413ea9a94bb9d1394f05be8eb73",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -3062,7 +3060,7 @@
   },
   {
    "title": "Character Story: Part IV",
-   "text": "A sword, 5 feet in length, weighing as heavy as three thousand catties. The ebony blade is covered in cracks and the tip is broken and lost.<br />Amid the countless wars, she wielded this sword and, alongside her comrades and disciple, battled her way into the vast ship, decapitating the wolf-like head of the borisin Warmuhtar. She also climbed the sky-piercing flying citadel, clipping the wings of the Feather Guards. She fought the iron cavalry of the Houyhnhnm, sealing all the riders of the six-legged steeds into prison... Whichever way her sword swung, no abomination could escape death or imprisonment.<br />She had never expected she would point this sword at her lifelong friend.<br /><br />She gasped, barely holding her wounded body together. Far away, deeper in the delve, there came the anguished roar of a dragon, as if pleading for death.<br />She watched as the arrogant craftsman fell into the mud, and walked up to him like a wraith.<br />\"I should kill you first... but you will have your own torment to bear for all eternity...\"<br />She pointed the broken sword at the high elder.<br />\"Impossible. The Preceptors said... The blood of my race and the soul of my ancestor should have created another high elder. All this... It shouldn't be like this.\"<br />\"If your death can return everything to how it was, I would do it... But you need to tell me right now where that dragon's weak point is.\"<br />\"The top of its head...\"<br /><br />The half-draconic abomination swam through the air in blasts of lightning. Its body, enough to swallow the very horizon, sundered yet another floating isle. Its wails were as loud as the clamors of a thousand clashing swords.<br />She felt her Core Esse boiling, like a ripe wheat grain about to burst out of its husk and swell to infinity.<br />She saw herself trapped in childhood nightmares again. The ominous planet is swallowing her overhead, and she, but an insect, cannot even struggle.<br />The woman tore off a spread of black silk from the edge of her skirt and covered her eyes.<br />The thunder struck. She leapt up with her sword towards the draconic abomination.<br />In a dreamlike illusion, she felt her flesh surpass its limits, beginning to disintegrate. It was as if innumerable silken threads bound her, taut across every limb and bone, each one slicing through the last vestiges of her consciousness, bit by bit.<br />Suddenly, she heard those words:<br />\"I will cut down even the stars in the sky.\"<br /><br />At that moment, she finally grasped the sword she had been seeking all this time.<br />It was a sword that can transcend all restrictions. It was a sword she had been familiar with for years.<br />It was not forged from any ordinary iron, but condensed from a shaft of sharp ice. It glowed with a dim light, as if it was a strand of moonlight held in the wielder's hand.<br />A sword, 3 feet and 7 inches in length, and weighs nothing.",
+   "text": "A sword, 5 feet in length, weighing as heavy as three thousand catties. The ebony blade is covered in cracks and the tip is broken and lost.<br />Amid the countless wars, she wielded this sword and, alongside her comrades and disciple, battled her way into the vast ship, decapitating the wolf-like head of the borisin Warhead. She also climbed the sky-piercing flying citadel, clipping the wings of the Feather Guards. She fought the iron cavalry of the Houyhnhnm, sealing all the riders of the six-legged steeds into prison... Whichever way her sword swung, no abomination could escape death or imprisonment.<br />She had never expected she would point this sword at her lifelong friend.<br /><br />She gasped, barely holding her wounded body together. Far away, deeper in the delve, there came the anguished roar of a dragon, as if pleading for death.<br />She watched as the arrogant craftsman fell into the mud, and walked up to him like a wraith.<br />\"I should kill you first... but you will have your own torment to bear for all eternity...\"<br />She pointed the broken sword at the high elder.<br />\"Impossible. The Preceptors said... The blood of my race and the soul of my ancestor should have created another high elder. All this... It shouldn't be like this.\"<br />\"If your death can return everything to how it was, I would do it... But you need to tell me right now where that dragon's weak point is.\"<br />\"The top of its head...\"<br /><br />The half-draconic abomination swam through the air in blasts of lightning. Its body, enough to swallow the very horizon, sundered yet another floating isle. Its wails were as loud as the clamors of a thousand clashing swords.<br />She felt her Core Esse boiling, like a ripe wheat grain about to burst out of its husk and swell to infinity.<br />She saw herself trapped in childhood nightmares again. The ominous planet is swallowing her overhead, and she, but an insect, cannot even struggle.<br />The woman tore off a spread of black silk from the edge of her skirt and covered her eyes.<br />The thunder struck. She leapt up with her sword towards the draconic abomination.<br />In a dreamlike illusion, she felt her flesh surpass its limits, beginning to disintegrate. It was as if innumerable silken threads bound her, taut across every limb and bone, each one slicing through the last vestiges of her consciousness, bit by bit.<br />Suddenly, she heard those words:<br />\"I will cut down even the stars in the sky.\"<br /><br />At that moment, she finally grasped the sword she had been seeking all this time.<br />It was a sword that can transcend all restrictions. It was a sword she had been familiar with for years.<br />It was not forged from any ordinary iron, but condensed from a shaft of sharp ice. It glowed with a dim light, as if it was a strand of moonlight held in the wielder's hand.<br />A sword, 3 feet and 7 inches in length, and weighs nothing.",
    "unlockRequirement": "Unlocked at Character Level <nobr>80</nobr>"
   }
  ],

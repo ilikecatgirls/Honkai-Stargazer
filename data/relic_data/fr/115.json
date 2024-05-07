@@ -58,7 +58,7 @@
  "skills": [
   {
    "useNum": 2,
-   "desc": "Augmente de <nobr>#1[i]%</nobr> les DGT infligés par les attaques de suivi.",
+   "desc": "Augmente les DGT infligés par les attaques de suivi de <nobr>#1[i]%</nobr>.",
    "params": [
     0.2
    ]

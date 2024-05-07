@@ -1,4 +1,9 @@
 [
+  {"name":"Sailing Towards A Second Life","path":"Hunt","rare":5,"status":"RELEASE","fileName":"23027","version" : "2.2.0"},
+  {"name":"Flowing Nightglow","path":"Harmony","rare":5,"status":"RELEASE","fileName":"23026","version" : "2.2.0"},
+  {"name":"For Tomorrow's Journey","path":"Harmony","rare":4,"status":"RELEASE","fileName":"22002","version" : "2.2.0"},
+  {"name":"Boundless Choreo","path":"Nihility","rare":4,"status":"RELEASE","fileName":"21044","version" : "2.2.0"},
+
   {"name":"Inherently Unjust Destiny","path":"Preservation","rare":5,"status":"RELEASE","fileName":"23023","version" : "2.1.0"},
   {"name":"Along the Passing Shore","path":"Nihility","rare":5,"status":"RELEASE","fileName":"23024","version" : "2.1.0"},
   {"name":"Concert for Two","path":"Preservation","rare":4,"status":"RELEASE","fileName":"21043","version" : "2.1.0"},

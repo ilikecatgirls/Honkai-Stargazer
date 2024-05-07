@@ -6,9 +6,8 @@
  "fgPath": "819e62ad80ac68bb47a00a739d7f3b83278a98f86870feb50202c0a670e9e1b1",
  "splashIconPath": "7f5b3f5a4ae7f7eb6ad10093fda8946c266e4f005c5b2a470054af60e16c3902",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRrgCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAsBAAABkGRr2yE471/Vtt0bsI3Ytm0nsyzAmNk2Rj3MFmxnZJv1/+8bVGUNETEBCPUHxvvwYTxExqB5yeXYNbVoG4+YMA+o4bXNulN/ey3CDZrLhj6SqO93Vs2fkQEfQOl+WSdLK+ekDgBph94FkkiJUqDHmwcnZD8RSYqkSDpJU9De/VmkQkm5H5oObJWlIkmrC3FJWyQqkmSgJcg7Jfc/sno2wABHZBkhp4/l8FBxnowidXuFh5SLsiQpUqRe7n4wEF2SDX45kiIDagSSkLTuq/61cpSo10UwwOy3+5d3f5SV7mz5dKQxETCIzYH5smqHXo1+uLp3BaKL1xkc7Y2RcwEvzCAOQDI8xPkGAAAAVlA4IIYBAABQBwCdASoUABQAPm0ulEckIqIhKAqogA2JbACdMoPHacJoBzuemq+hL+mfpmexJ5VVyANiQNI8K+JgPt8CbD6PPnWAAP7zQDuCCP/59oTjeJ+U/HaaHGboBSd5P2KBOl+bPZS2IjPSjO09hzsLLI7bt+JrJH8O/d5pyNnidr12d/xHjXTDm78h1n9miAJl3+FN6acdz9m4rMDF7hS8jlag2JvJfxOgH1U0YZF8IHzDxsiQdyMCAzjy2BEzAEy4bps/Cy9XVPLlHLHTnkmsYES9OrCH+9O0BuGtWYpOZSxMSScUj6t/I9vGaF28Brg6XFbmC4vwfBeqRBhM2Omb84H5tgaOv/g/7o1Q6NFXu6D8+21n+C49cQEfLM8X8DtQ8vrbaht3PgM+Tb1PfpID88deGcqjJzaDNdZ4qfjg+MXX5SB25zulk55YbX+A/l1fq/7+df8ftrE76Y1pi6BVD/PV8oc5Bte/v+jAvsSKIBn7PSD7q8vfYQ1gpnnLJo+7yNlLgUCAAAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "3c8d9a6696f430ddd66d3ef22390ef1445353f54b3d4104e34eb0c0ff21fff0b",
+   "iconPath": "1524d344a00af2d4f15723cef19b8a1ed65a53c63adf330b6026673fff839c19",
    "artPath": "a1bdb213c5b1795aa3ce19b1de9d019fc99f5d2635d4b613c56977dc25d7d4fc",
    "name": "심마 속박",
    "descHash": "특성의 추가 공격으로 가하는 피해가 <nobr>#1[i]%</nobr> 증가한다",
@@ -450,7 +449,7 @@
   },
   {
    "id": 2,
-   "iconPath": "b05d757cb8e651f3114fddeb6aa2014b26ef25d2b5932958bb3a5ccdd7c93a01",
+   "iconPath": "74fd71ab6ed4e5edd54d409ab7fa4a43c436b10aab0b24a8811e2f6588812fd8",
    "artPath": "20c9b626d3ebc1e67c4808fedb8197af4b97f3b5f7fe50faa7e86fd0508db88e",
    "name": "오진(五塵) 극복",
    "descHash": "특성의 추가 공격이 약점 속성을 무시하고 적의 강인성을 소모시키며, 동시에 설의 HP 최대치의 <nobr>#1[i]%</nobr>만큼 HP를 회복한다. 약점 격파 시 양자 속성의 약점 격파 효과가 발동된다",
@@ -460,7 +459,7 @@
   },
   {
    "id": 3,
-   "iconPath": "0e9168133bf53accad8ddeabe04d5aea242493a6144c4a5d2b33e672d0d4940a",
+   "iconPath": "967393d189fcfc2489cc76446f37d35df62007f92b03aab2e4130948d2edaf12",
    "artPath": "0b92d047164f7b2182cf65eb0ae34f8925891766b02459466429e553c4f6d0ae",
    "name": "고제(苦諦) 알절",
    "descHash": "전투 스킬 레벨+2, 최대 Lv.<nobr>15</nobr>. 일반 공격 레벨+1, 최대 Lv.<nobr>10</nobr>",
@@ -468,7 +467,7 @@
   },
   {
    "id": 4,
-   "iconPath": "bd7ef5fa699f7a9e53f297d365cb381e0c2af39938957378528cf251e5b2e45c",
+   "iconPath": "45168783bcc73004c5a25ba6d3428b71b21589241d792764cea380ba4ca0439e",
    "artPath": "d20de2399ad93585a8516d3aaa6ce9df0fc818b514a0adeb6f11062cb2a858ef",
    "name": "악업 단절",
    "descHash": "필살기 발동 시 격파 특수효과가 <nobr>#1[i]%</nobr> 증가한다. 지속 시간: <nobr>#2[i]</nobr>턴",
@@ -479,7 +478,7 @@
   },
   {
    "id": 5,
-   "iconPath": "15086803f357399f4cd6ec281fdf5b28a62bac35a1a027a19b51ab2a412208f6",
+   "iconPath": "9057299f5d9277fa8a12c632b88834551f29fa66ab39df826505d26d7cd11557",
    "artPath": "4f1f427a0d932aa285eefdcdbc1604bbd9ca7a87c1aa427bc5a97593211eab63",
    "name": "영신(靈神) 인도",
    "descHash": "필살기 레벨+2, 최대 Lv.<nobr>15</nobr>. 특성 레벨+2, 최대 Lv.<nobr>15</nobr>",
@@ -487,7 +486,7 @@
   },
   {
    "id": 6,
-   "iconPath": "c07781ebfc010ba35282acc80264e958ed1693b9e9d13ae30cb568273ba8d64b",
+   "iconPath": "b048f1e21010e6eac200414cc203492ec36ef57d36d2dbe0e58ac4b8da1f059a",
    "artPath": "afdf3580f4ceb602f844b9a13fd6427025be365488c51bdea8104108077935ed",
    "name": "생사 주관",
    "descHash": "[업보]의 최대 스택 수가 <nobr>#1[i]</nobr>스택으로 감소한다",
@@ -522,7 +521,7 @@
    "energy": "20",
    "id": 419087,
    "name": "파마추",
-   "iconPath": "426b3cc60577f2cf43be55f384ddb2bacb09b546134f8cd5c6571f4073e9bd08",
+   "iconPath": "4a757d0c4e4cc6672e4bda1e7b23c3b7d595ca3c9e08ae576e3578d759ccfa30",
    "typeDescHash": "일반 공격",
    "levelReq": 0,
    "promotionReq": 0,
@@ -683,7 +682,7 @@
    "energy": "30",
    "id": 302442,
    "name": "죄악 진압",
-   "iconPath": "0e9168133bf53accad8ddeabe04d5aea242493a6144c4a5d2b33e672d0d4940a",
+   "iconPath": "967393d189fcfc2489cc76446f37d35df62007f92b03aab2e4130948d2edaf12",
    "typeDescHash": "전투 스킬",
    "levelReq": 0,
    "promotionReq": 0,
@@ -969,7 +968,7 @@
    "energy": "5",
    "id": 218501,
    "name": "관통하는 천벌",
-   "iconPath": "f01e1ee475da84a5b6619efc73243cb5b0fa65726c754d3dbd7b788b36e90b69",
+   "iconPath": "a5134c61e8fb29fd3f4992faa96c150c1aaa773b91b811ab08da2a95388ad40f",
    "typeDescHash": "필살기",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1270,7 +1269,7 @@
    "energy": "2/hit",
    "id": 904200,
    "name": "시왕의 심판, 업보 불변",
-   "iconPath": "4ffa07f85ea9093f7201e9e36119d8c3197eebaf6c3f68c104fa6089495becc4",
+   "iconPath": "f1135c7361b767269fdd56471faabe8188de57802fc7a57b3e54c77d0433957e",
    "typeDescHash": "특성",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1571,7 +1570,7 @@
    "energy": "0",
    "id": 703614,
    "name": "공격",
-   "iconPath": "426b3cc60577f2cf43be55f384ddb2bacb09b546134f8cd5c6571f4073e9bd08",
+   "iconPath": "4a757d0c4e4cc6672e4bda1e7b23c3b7d595ca3c9e08ae576e3578d759ccfa30",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1593,7 +1592,7 @@
    "energy": "0",
    "id": 619673,
    "name": "즉참",
-   "iconPath": "86f8e7366e2bfe5613600c65d5c7427812b4b3ee15cbacd72b7d449a8ccf5e8e",
+   "iconPath": "2d2a43fee7c83f6b2545dc6ff6c610403241f78c41f1cdd7991ac67d16962110",
    "typeDescHash": "비술",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1723,7 +1722,7 @@
     "ultimateCost": 0,
     "id": 59332,
     "name": "예지 장치",
-    "iconPath": "5ea35ed5943b4f7c1654e0138f56b282114322e9a5e6b6bc8ce3fa57ea61d17d",
+    "iconPath": "3befe8b0399c35128d663fe2eca7d893654e4981491ca459520a36dbe6fd6ab8",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1865,7 +1864,7 @@
     "ultimateCost": 0,
     "id": 59333,
     "name": "서슬 축수",
-    "iconPath": "dd43ba36d72eded3f89faa2832ad284d84ee1cbf314bba35816dfed66cf97d25",
+    "iconPath": "3a80bfa57b67793854e610d5c7213c3c1712c7c8ec446b875e2ddaa52d7d6c3e",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2010,7 +2009,7 @@
     "ultimateCost": 0,
     "id": 59334,
     "name": "분석 중추",
-    "iconPath": "5a22f9830b94d8e19a7176ebc2ea27aeafe5bb8cb3830a0a8dd741fed2940ab5",
+    "iconPath": "71f5d6b8ff1938c371d15cfeb67bc1cdba590694dd5489eba479783580ddc133",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [

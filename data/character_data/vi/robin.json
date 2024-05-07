@@ -1,0 +1,2755 @@
+{
+ "spRequirement": 160,
+ "iconPath": "eda9eb4d611aebbebc76c9f36463222444d78b763bf41c52f57301da25bfd43d",
+ "bgPath": "7f423fac5a5055f2795b0a2e3aacd03d714016fae7d64991f12ec5397920da3e",
+ "figPath": "73b48269ce73c11adb7b3bf9dd758f5619ae10f0a46b767f8a662dea8d0f4b14",
+ "fgPath": "f2b4f2314295c89f822dc40b202f97035dfaae5abb9ec788d125981ae36c5179",
+ "splashIconPath": "d3f0beaa9b190826b041eeb4bc03404547818b4de65040064e41aa2032712099",
+ "splashPlaceholder": {
+  "w": 0,
+  "h": 0
+ },
+ "damageTypeId": 0,
+ "baseTypeId": 0,
+ "baseTypeTraces": {
+  "id": 4,
+  "iconPath": "55d5339b99655abd5d47c976596bebf22e6e522614fef628f7c875606f3e1abd",
+  "color": "#FFFFFF",
+  "rarity": 0
+ },
+ "itemReferences": {
+  "29328": {
+   "id": 29328,
+   "type": 101,
+   "purposeId": 11,
+   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "name": "Điểm Tín Dụng",
+   "desc": "Tiền mà Công ty Hành Tinh Hòa Bình (IPC) dùng để giao dịch với khách, nay đã trở thành đồng tiền chính khi đi lại trong vũ trụ.",
+   "lore": "\"Người ta bôn ba, tranh đấu, mua bán, cũng chỉ vì những con số xuất hiện trên thiết bị đầu cuối. Nhưng thứ quý giá thật sự, thì con số của công ty lại không thể mua được.\"",
+   "purpose": "Tiền Tệ Thường",
+   "rarity": 3,
+   "rewardPath": "/material/29328",
+   "comeFrom": [
+    "Đài Hoa Nhân Tạo - Khu Mỏ Khổng Lồ",
+    "Đài Hoa Nhân Tạo: Sở Công Nghiệp",
+    "Đài Hoa Nhân Tạo: Khách Sạn Mộng Mơ - Cõi Mộng",
+    "Phần thưởng nhiệm vụ",
+    "Thưởng Ủy Thác",
+    "Đổi Tro Tàn"
+   ]
+  },
+  "125435": {
+   "id": 125435,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "name": "Dấu Chân Vận Mệnh",
+   "desc": "Nguyên liệu cấp cao dùng để tăng cấp Vết Tích",
+   "lore": "Những thất bại liên tiếp đã giúp bạn giành được chiến thắng, từng bước tiến về phía trước đã đưa bạn đến bước ngoặt của vận mệnh.",
+   "purpose": "Nguyên Liệu Vết Tích",
+   "rarity": 5,
+   "rewardPath": "/material/125435",
+   "comeFrom": [
+    "Thưởng Điểm Vũ Trụ Mô Phỏng",
+    "Vinh Dự Vô Danh",
+    "Đổi Tro Tàn",
+    "Đổi Ánh Sao",
+    "Phần Thưởng Sự Kiện Hạn Giờ"
+   ]
+  },
+  "409960": {
+   "id": 409960,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "name": "Hướng Dẫn Dạo Chơi",
+   "desc": "Nguyên liệu EXP nhân vật, có thể nhận <nobr>20000</nobr> điểm EXP nhân vật.",
+   "lore": "Tập sách thám hiểm cần thiết cho việc đi qua các thế giới. Nhấn nút đọc và giọng nói từ tính sẽ nói bằng ngôn ngữ bạn có thể hiểu được, để giảng cho bạn nghe những trải nghiệm huyền thoại của các nhà thám hiểm nổi tiếng ở các thế giới khác nhau, cũng như trí tuệ quý giá mà họ có được trên các hành tinh khác nhau.<br /><br />\"Bộ sách mới \"Hướng Dẫn Ẩm Thực Hành Tinh\" của Hướng Dẫn Dạo Chơi sắp được bán, mong mọi người ủng hộ.\"<br />\"Nộp bản thảo vui lòng kết nối với nhân viên <nobr>230</nobr> Máy Phát Liên Kết Trực Giác Hội Trí Thức, thù lao sẽ được trả bằng bất kỳ hình thức nào mà bạn có thể chấp nhận.\"",
+   "purpose": "Nguyên Liệu EXP Nhân Vật",
+   "rarity": 4,
+   "rewardPath": "/material/409960",
+   "comeFrom": [
+    "Đài Hoa Nhân Tạo - Cánh Đồng Tuyết Ngoại Thành",
+    "Đài Hoa Nhân Tạo: Cảng Lưu Vân",
+    "Đài Hoa Nhân Tạo: Ranh Giới Xây Mộng",
+    "Sảnh Đường Lãng Quên"
+   ]
+  },
+  "409961": {
+   "id": 409961,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "name": "Nhật Ký Thám Hiểm",
+   "desc": "Nguyên liệu EXP nhân vật, có thể nhận <nobr>5000</nobr> điểm EXP nhân vật.",
+   "lore": "Một ghi chú thám hiểm mang tính giáo dục, được đóng gọn gàng. Những câu chuyện minh họa từ đầu đến cuối về hành động thám hiểm, có thông tin giá trị và mẹo sinh tồn.<br /><br />\"Tại sao không kỹ thuật hóa đưa nó vào thẻ quang? Tiện mang theo hơn nhiều.\"<br />\"Đối mặt trước cơn bão hằng tinh và sự phun trào neutron, công nghệ cao mong manh hơn bạn tưởng. Huống chi người làm ra quyển sách này chắc hẳn đã hy vọng mọi người sẽ đọc nó với cách đơn giản nhất. \"",
+   "purpose": "Nguyên Liệu EXP Nhân Vật",
+   "rarity": 3,
+   "rewardPath": "/material/409961",
+   "comeFrom": [
+    "Đài Hoa Nhân Tạo - Cánh Đồng Tuyết Ngoại Thành",
+    "Đài Hoa Nhân Tạo: Cảng Lưu Vân",
+    "Đài Hoa Nhân Tạo: Ranh Giới Xây Mộng",
+    "Huấn Luyện Mỗi Ngày",
+    "Đổi Tro Tàn"
+   ]
+  },
+  "409962": {
+   "id": 409962,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "name": "Kiến Thức Du Hành",
+   "desc": "Nguyên liệu EXP nhân vật, có thể nhận <nobr>1000</nobr> điểm EXP nhân vật.",
+   "lore": "Nhật ký ghi lại mọi thứ trên đường đi, chữ viết đã bị mờ, nội dung thích gì viết đó, không giúp ích gì nhiều cho bạn.<br /><br />\"Xem xong rồi thì dọn dẹp đống giấy lộn này đi, Dan Heng?\"",
+   "purpose": "Nguyên Liệu EXP Nhân Vật",
+   "rarity": 2,
+   "rewardPath": "/material/409962",
+   "comeFrom": [
+    "Đài Hoa Nhân Tạo - Cánh Đồng Tuyết Ngoại Thành",
+    "Đài Hoa Nhân Tạo: Cảng Lưu Vân",
+    "Đài Hoa Nhân Tạo: Ranh Giới Xây Mộng",
+    "Thưởng Ủy Thác"
+   ]
+  },
+  "470781": {
+   "id": 470781,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "name": "Tai Họa Ám Ảnh Trên Hành Tinh Sâu",
+   "desc": "Nguyên liệu cấp cao dùng để tăng cấp Vết Tích.",
+   "lore": "Là dòng dõi do chính Vua Côn Trùng sinh sôi, khát khao duy nhất của nó chính là mở rộng bầy đàn. Nó dùng chiếc liềm khổng lồ để gặt hái các hành tinh và biến chúng thành tổ, không ngừng nuôi dưỡng vô số hậu duệ. Nó đã tiêu diệt hàng ngàn sinh linh cho đến giây phút cuối cùng của cuộc đời.<br /><br />\"Trên hành tinh tan vỡ, loài côn trùng khổng lồ che kín cả bầu trời, tràn ra từ lòng đất. Những con bọ dùng hang ổ mới làm hiến lễ dâng lên chúa tể của nó... Mong rằng những thảm kịch này chỉ còn lại trong sử sách, không bao giờ tái diễn.\"",
+   "purpose": "Nguyên Liệu Vết Tích",
+   "rarity": 4,
+   "rewardPath": "/material/470781",
+   "comeFrom": [
+    "Dư Âm Chiến Đấu - Khoang Cách Ly"
+   ]
+  },
+  "549209": {
+   "id": 549209,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "name": "Thiết Bị Lưu Giữ Giấc Mơ",
+   "desc": "Thiết bị lưu trữ năng lượng của Tạo Vật Cõi Mộng, vật liệu đơn giản để cường hóa.",
+   "lore": "Rương Xây Mộng chứa những giấc mơ tan vỡ, cung cấp năng lượng cơ bản cho Tạo Vật Cõi Mộng.<br /><br />\"Nếu cài đặt thứ này sẽ nhận được một thành viên của Đoàn Kịch Mộng Đẹp.\"",
+   "purpose": "Nguyên Liệu Vết Tích <br />Nguyên Liệu Nâng<br />Bậc Nhân Vật",
+   "rarity": 2,
+   "rewardPath": "/material/549209",
+   "comeFrom": [
+    "Đoàn Kịch Ác Mộng",
+    "Rớt từ kẻ địch trong Vũ Trụ Mô Phỏng",
+    "Thưởng Ủy Thác",
+    "Đổi Tro Tàn",
+    "Máy Ghép Vạn Năng - Đổi Nguyên Liệu",
+    "Đài Hoa Nhân Tạo (Vàng)"
+   ]
+  },
+  "589819": {
+   "id": 589819,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "9dcc37e0e0903af3108640d694d154e4d9c54670d5b1de405adc1c283ef3186f",
+   "name": "Ô Nhịp Thiên Không",
+   "desc": "Những đoạn nhạc từ trên trời rơi xuống. Có thể tăng tương đối Vết Tích Vận Mệnh của nhân vật <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hòa Hợp</span>.",
+   "lore": "Một đoạn giai điệu tách khỏi trật tự. Nó lặng lẽ từ phía chân trời rơi xuống, rơi vào sự ồn ào, giống như một nắm cát vàng nằm rải rác trên hoang mạc.<br /><br />\"Không ai chú ý đến nó, cho đến lúc cảm hứng bắt được nó...\"",
+   "purpose": "Nguyên Liệu Vết Tích<br />Nguyên Liệu Nâng<br />Bậc Nón Ánh Sáng",
+   "rarity": 3,
+   "rewardPath": "/material/589819",
+   "comeFrom": [
+    "Đài Hoa Nhân Tạo: Khách Sạn Mộng Mơ - Cõi Mộng",
+    "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
+    "Đổi Tro Tàn",
+    "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
+   ]
+  },
+  "633150": {
+   "id": 633150,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "name": "Van Dòng Chảy Giấc Mơ",
+   "desc": "Bộ phận điều khiển của Tạo Vật Cõi Mộng, nguyên liệu thường dùng để cường hóa.",
+   "lore": "Thiết bị xây dựng giấc mơ điều chỉnh dục vọng, kiểm soát cảm xúc bên trong của Tạo Vật Cõi Mộng.<br /><br />\"Nếu thứ này mất tác dụng sẽ nhận được một thành viên Đoàn Kịch Ác Mộng.\"",
+   "purpose": "Nguyên Liệu Vết Tích <br />Nguyên Liệu Nâng<br />Bậc Nhân Vật",
+   "rarity": 3,
+   "rewardPath": "/material/633150",
+   "comeFrom": [
+    "Đoàn Kịch Ác Mộng khi đạt Cân Bằng cấp 2",
+    "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
+    "Rớt từ kẻ địch trong Vũ Trụ Mô Phỏng",
+    "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
+   ]
+  },
+  "673760": {
+   "id": 673760,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
+   "name": "Chương Nhạc Ngoài Bầu Trời",
+   "desc": "Chương nhạc giao hưởng đến từ vũ trụ. Có thể tăng mạnh Vết Tích Vận Mệnh của nhân vật <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hòa Hợp</span>.",
+   "lore": "Một đoạn nhạc rơi khỏi trật tự. Nó lặng lẽ vang vọng bên ngoài bầu trời, bị nhấn chìm trong sự im lặng bao la, giống như một ngôi sao đơn độc lấp lánh trong dải ngân hà.<br /><br />\"Không ai cảm nhận được nó, cho đến khi bị mọi người lãng quên ♬...\"",
+   "purpose": "Nguyên Liệu Vết Tích<br />Nguyên Liệu Nâng<br />Bậc Nón Ánh Sáng",
+   "rarity": 4,
+   "rewardPath": "/material/673760",
+   "comeFrom": [
+    "Đài Hoa Nhân Tạo: Khách Sạn Mộng Mơ - Cõi Mộng",
+    "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
+    "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
+   ]
+  },
+  "717091": {
+   "id": 717091,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "name": "Động Cơ Tạo Giấc Mơ",
+   "desc": "Cốt lõi sức mạnh của Tạo Vật Cõi Mộng, vật liệu cao cấp để cường hóa.",
+   "lore": "Cỗ máy xây mộng tạo ra những ảo ảnh và thổi linh hồn vào các Tạo Vật Cõi Mộng.<br /><br />\"Nếu phát hiện thứ này gặp trục trặc... bạn của tôi, hãy thức dậy trước khi rơi vào ác mộng.\"",
+   "purpose": "Nguyên Liệu Vết Tích <br />Nguyên Liệu Nâng<br />Bậc Nhân Vật",
+   "rarity": 4,
+   "rewardPath": "/material/717091",
+   "comeFrom": [
+    "Đoàn Kịch Ác Mộng khi đạt Cân Bằng cấp 4",
+    "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
+    "Rớt từ kẻ địch trong Vũ Trụ Mô Phỏng",
+    "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
+   ]
+  },
+  "866635": {
+   "id": 866635,
+   "type": 601,
+   "purposeId": 2,
+   "iconPath": "e77713aac9f0dc8efb0047a1b9c918d14aaa40589e0472f557374cb53d06818d",
+   "name": "Thẻ Công Tác IPC",
+   "desc": "Chứng nhận làm việc \"Nhân Viên Thâm Niên\" của Công Ty Hành Tinh Hòa Bình, nguyên liệu tăng bậc của nhân vật thuộc tính Vật Lý",
+   "lore": "Ở Công Ty Hành Tinh Hòa Bình, chỉ có cấp trưởng nhóm dự án mới có được Thẻ ID này. Với những nhân viên thâm niên xem công việc là niềm tự hào này thì dù có quên mặc quần áo thì cũng không thể quên đeo thẻ nhân viên này.<br /><br />\"Nó không chỉ là giấy thông hành để bạn bước vào Pier Point, mà còn là một biểu tượng của thân phận xã hội!\"",
+   "purpose": "Nguyên Liệu Nâng Bậc Nhân Vật",
+   "rarity": 4,
+   "rewardPath": "/material/866635",
+   "comeFrom": [
+    "Hư Ảnh Ngưng Đọng: Khu Vui Chơi Clock Studios",
+    "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
+   ]
+  },
+  "874346": {
+   "id": 874346,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "0b9599c040d16b07324d2f3ea37854bbe9d3d22cb80a43b3070662e562738a04",
+   "name": "Nốt Nhạc Đám Mây",
+   "desc": "Nốt nhạc lẻ từ đám mây rơi xuống. Có thể tăng lượng nhỏ Vết Tích Vận Mệnh của nhân vật <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hòa Hợp</span>.",
+   "lore": "Một nốt nhạc tách khỏi trật tự. Lặng lẽ rơi vào rìa mây, rơi vào những âm thanh bình thường, giống như giọt nước mắt rơi xuống biển cả.<br /><br />\"Không ai nghe thấy nó cho đến lúc nó rơi vào một bản nhạc...\"",
+   "purpose": "Nguyên Liệu Vết Tích<br />Nguyên Liệu Nâng<br />Bậc Nón Ánh Sáng",
+   "rarity": 2,
+   "rewardPath": "/material/874346",
+   "comeFrom": [
+    "Đài Hoa Nhân Tạo: Khách Sạn Mộng Mơ - Cõi Mộng",
+    "Đổi Tro Tàn",
+    "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
+   ]
+  }
+ },
+ "levelData": [
+  {
+   "attackBase": 87.12,
+   "attackAdd": 4.356,
+   "hpBase": 174.24,
+   "hpAdd": 8.712,
+   "defenseBase": 66,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 0,
+   "maxLevel": 20,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 4000
+    },
+    {
+     "id": 549209,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "attackBase": 121.968,
+   "attackAdd": 4.356,
+   "hpBase": 243.936,
+   "hpAdd": 8.712,
+   "defenseBase": 92.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 1,
+   "maxLevel": 30,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 8000
+    },
+    {
+     "id": 549209,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "attackBase": 156.816,
+   "attackAdd": 4.356,
+   "hpBase": 313.632,
+   "hpAdd": 8.712,
+   "defenseBase": 118.8,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 2,
+   "maxLevel": 40,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 16000
+    },
+    {
+     "id": 633150,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 3
+    }
+   ]
+  },
+  {
+   "attackBase": 191.664,
+   "attackAdd": 4.356,
+   "hpBase": 383.328,
+   "hpAdd": 8.712,
+   "defenseBase": 145.2,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 3,
+   "maxLevel": 50,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 40000
+    },
+    {
+     "id": 633150,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 7
+    }
+   ]
+  },
+  {
+   "attackBase": 226.512,
+   "attackAdd": 4.356,
+   "hpBase": 453.024,
+   "hpAdd": 8.712,
+   "defenseBase": 171.6,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 4,
+   "maxLevel": 60,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 80000
+    },
+    {
+     "id": 717091,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "attackBase": 261.36,
+   "attackAdd": 4.356,
+   "hpBase": 522.72,
+   "hpAdd": 8.712,
+   "defenseBase": 198,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 5,
+   "maxLevel": 70,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 160000
+    },
+    {
+     "id": 717091,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 35
+    }
+   ]
+  },
+  {
+   "attackBase": 296.208,
+   "attackAdd": 4.356,
+   "hpBase": 592.416,
+   "hpAdd": 8.712,
+   "defenseBase": 224.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 6,
+   "maxLevel": 80,
+   "cost": []
+  }
+ ],
+ "ranks": [
+  {
+   "id": 1,
+   "iconPath": "21e336b48e11c1463a129146f02e24d165410eec5c3fa7ae30a491423a408a1f",
+   "artPath": "1c33f658c3f7ea19839b361bd1b6c60f23756e6e7efbe314eaf692b7415e17b4",
+   "name": "Đất Nước Của Nụ Cười",
+   "descHash": "Khi ở trạng thái Hợp Tấu, Xuyên Kháng Toàn Thuộc Tính của toàn phe ta tăng <nobr>#1[i]%</nobr>.",
+   "params": [
+    0.24
+   ]
+  },
+  {
+   "id": 2,
+   "iconPath": "978b1491f0216e5f8cd91fb1b801e0b687d41604b8589c1d35e9b5923770e086",
+   "artPath": "3a9d06c608b882b7d476157e76df564b7280a7810d5ea0944a56e25583d4b86a",
+   "name": "Buổi Trà Chiều Của Hai Người",
+   "descHash": "Khi ở trạng thái Hợp Tấu, Tốc Độ của toàn phe ta tăng <nobr>#1[i]%</nobr>. Hiệu ứng hồi Năng Lượng của Thiên Phú tăng thêm <nobr>#2[i]</nobr> điểm.",
+   "params": [
+    0.16,
+    1
+   ]
+  },
+  {
+   "id": 3,
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "artPath": "76c2551ec34702bdb41b20a6771cde591c75c4a8a32870acaa7af258ecc5d72c",
+   "name": "Huyền Cung Treo Ngược",
+   "descHash": "Cấp Chiến Kỹ +2, tối đa không quá cấp <nobr>15</nobr>; Cấp Tuyệt Kỹ +2, tối đa không quá cấp <nobr>15</nobr>.",
+   "params": []
+  },
+  {
+   "id": 4,
+   "iconPath": "c8b5f11986362057fe659a391ec3eb193a8c266a90e790c260ed339fa5494040",
+   "artPath": "50350af0d85d5eb9439a3b141315f3cc0e1dd538eb538a8018415888e62ee028",
+   "name": "Chìa Khóa Giọt Mưa",
+   "descHash": "Khi thi triển Tuyệt Kỹ sẽ giải trừ Hiệu Ứng Xấu loại Khống Chế cho toàn thể phe ta, khiến toàn thể phe ta trong thời gian Robin có trạng thái Hợp Tấu tăng <nobr>#1[i]%</nobr> Kháng Hiệu Ứng.",
+   "params": [
+    0.5
+   ]
+  },
+  {
+   "id": 5,
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "artPath": "2f2955b5d7040846379b487d53001fb63c189026173ac24e62cbb057515c4e4f",
+   "name": "Giọt Nước Mắt Của Ngôi Sao Cô Đơn",
+   "descHash": "Cấp Tấn Công Thường +1, tối đa không quá cấp <nobr>10</nobr>; Cấp Thiên Phú +2, tối đa không quá cấp <nobr>15</nobr>.",
+   "params": []
+  },
+  {
+   "id": 6,
+   "iconPath": "4859dbd0db6c3f43054a37aba1cbe0c886d83963babe02a0ec70792608a7440c",
+   "artPath": "b91d0398e090f093b5ebd0c922961e628b15b979938e64398d9c118b6acc91c1",
+   "name": "Đêm Trăng Vắng Bóng",
+   "descHash": "Khi ở trạng thái Hợp Tấu, sát thương bạo kích của Sát Thương Vật Lý Kèm Theo mà Tuyệt Kỹ gây ra tăng thêm <nobr>#2[i]%</nobr>. Hiệu quả Đêm Trăng Vắng Bóng tối đa kích hoạt <nobr>#1[i]</nobr> lần, mỗi lần thi triển Tuyệt Kỹ sẽ làm mới số lần kích hoạt.",
+   "params": [
+    8,
+    4.5
+   ]
+  }
+ ],
+ "skillGrouping": [
+  [
+   758858
+  ],
+  [
+   642213
+  ],
+  [
+   558272
+  ],
+  [
+   474331
+  ],
+  [
+   157100
+  ]
+ ],
+ "skills": [
+  {
+   "tagHash": "Đánh Đơn",
+   "descHash": "Gây Sát Thương <span style=\"color:#FFFFFF;\">Vật Lý</span> cho 1 kẻ địch chỉ định tương đương <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> Tấn Công của Robin.",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "20",
+   "id": 758858,
+   "name": "Âm Thanh Trắng Vỗ Cánh",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "Tấn Công Thường",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.7
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.8
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.9
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      1
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      1.1
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "Hỗ Trợ",
+   "descHash": "Tăng <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> sát thương do toàn phe ta gây ra, duy trì <nobr>#2[i]</nobr> hiệp, mỗi khi bắt đầu hiệp của Robin, số hiệp duy trì giảm 1.",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "30",
+   "id": 642213,
+   "name": "Khúc Hát Ngân Nga Của Đôi Cánh",
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "typeDescHash": "Chiến Kỹ",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.25,
+      3
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      3
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.3,
+      3
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.325,
+      3
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.35,
+      3
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.375,
+      3
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.40625,
+      3
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.4375,
+      3
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.46875,
+      3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.5,
+      3
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.525,
+      3
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.55,
+      3
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.575,
+      3
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6,
+      3
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.625,
+      3
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "Hỗ Trợ",
+   "descHash": "Khi Robin vào trạng thái Hợp Tấu, sẽ khiến đồng đội (ngoại trừ bản thân) lập tức hành động.<br />Khi trong trạng thái Hợp Tấu, tấn công của toàn thể phe ta tăng, giá trị tăng bằng <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> Tấn Công của Robin +<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]</nobr></span>. Sau mỗi lần mục tiêu phe ta tấn công, Robin sẽ gây thêm 1 lần <u>Sát Thương <span style=\"color:#FFFFFF;\">Vật Lý</span> kèm theo</u> bằng <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span> Tấn Công của bản thân, tỷ lệ Bạo Kích của sát thương này cố định là <nobr>#5[i]%</nobr>, sát thương Bạo Kích cố định là <nobr>#6[i]%</nobr>.<br />Khi trong trạng thái Hợp Tấu, Robin miễn dịch <u>Hiệu Ứng Xấu loại Khống Chế</u>, trước khi kết thúc trạng thái Hợp Tấu sẽ không vào hiệp của bản thân và không thể hành động.<br />Khi trên vị trí thứ tự hành động xuất hiện đếm ngược Hợp Tấu, thì lúc bắt đầu hiệp đếm ngược, Robin sẽ thoát khỏi trạng thái Hợp Tấu và lập tức hành động, thời gian đếm ngược cố định có <nobr>#2[i]</nobr> điểm Tốc Độ.",
+   "ultimateCost": 160,
+   "break": "0",
+   "energy": "5",
+   "id": 558272,
+   "name": "Ngàn Âm Hợp Xướng, Tẩu Pháp Vạn Vì Sao",
+   "iconPath": "8c18f6a980650b868e7d8544dc55b66266f713ba779ef9d0ffee778366d8b800",
+   "typeDescHash": "Tuyệt Kỹ",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.152,
+      90,
+      50,
+      0.72,
+      1,
+      1.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.1596,
+      90,
+      65,
+      0.768,
+      1,
+      1.5
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1672,
+      90,
+      80,
+      0.816,
+      1,
+      1.5
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1748,
+      90,
+      95,
+      0.864,
+      1,
+      1.5
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1824,
+      90,
+      110,
+      0.912,
+      1,
+      1.5
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.19,
+      90,
+      125,
+      0.96,
+      1,
+      1.5
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1995,
+      90,
+      143.75,
+      1.02,
+      1,
+      1.5
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.209,
+      90,
+      162.5,
+      1.08,
+      1,
+      1.5
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2185,
+      90,
+      181.25,
+      1.14,
+      1,
+      1.5
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.228,
+      90,
+      200,
+      1.2,
+      1,
+      1.5
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2356,
+      90,
+      215,
+      1.248,
+      1,
+      1.5
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2432,
+      90,
+      230,
+      1.296,
+      1,
+      1.5
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2508,
+      90,
+      245,
+      1.344,
+      1,
+      1.5
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2584,
+      90,
+      260,
+      1.392,
+      1,
+      1.5
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.266,
+      90,
+      275,
+      1.44,
+      1,
+      1.5
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "Hỗ Trợ",
+   "descHash": "Tăng <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> Sát Thương Bạo Kích cho toàn phe ta, và sau khi mục tiêu phe ta tấn công phe địch, Robin sẽ hồi thêm cho bản thân <nobr>#2[i]</nobr> Năng Lượng.",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 474331,
+   "name": "Điệp Khúc Du Dương",
+   "iconPath": "641a4d2b6c02e2c482e8f3f9e4abd3218e4450d9572b0b7e4311a473a7bdddc4",
+   "typeDescHash": "Thiên Phú",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.05,
+      2
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.065,
+      2
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.08,
+      2
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.095,
+      2
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.11,
+      2
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.125,
+      2
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.14375,
+      2
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1625,
+      2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.18125,
+      2
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2,
+      2
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.215,
+      2
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.23,
+      2
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.245,
+      2
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.26,
+      2
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      2
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "",
+   "descHash": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của kẻ địch.",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "0",
+   "id": 273745,
+   "name": "Tấn Công",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "Hỗ Trợ",
+   "descHash": "Sau khi thi triển Bí Kỹ, sẽ tạo ra một vùng đặc biệt quanh bản thân duy trì <nobr>#1[i]</nobr> giây. Kẻ địch trong vùng này sẽ không tấn công Robin, đồng thời sẽ đi theo Robin trong thời gian vùng này được kích hoạt. Sau khi vào chiến đấu trong thời gian vùng đặc biệt được kích hoạt, khi bắt đầu mỗi đợt, Robin sẽ hồi <nobr>#2[i]</nobr> Năng Lượng. Cùng một lúc tối đa chỉ tồn tại 1 hiệu ứng vùng do phe ta tạo ra.",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 157100,
+   "name": "Khúc Dạo Đầu Say Men",
+   "iconPath": "27ed98d04302103286581f7ffa736edd301561bc6ff2fb9cadc5ae97ec4148f4",
+   "typeDescHash": "Bí Kỹ",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      15,
+      5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  }
+ ],
+ "skillTreePoints": [
+  {
+   "id": 1309101,
+   "anchor": 6,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309202,
+     "anchor": 10,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309203,
+       "anchor": 11,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363456,
+        "name": "Cường Hóa Tấn Công",
+        "levelReq": 0,
+        "promotionReq": 3,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "Tấn Công",
+          "value": 0.04
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 10000
+         },
+         {
+          "id": 589819,
+          "count": 3
+         },
+         {
+          "id": 633150,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363455,
+      "name": "Cường Hóa HP",
+      "levelReq": 0,
+      "promotionReq": 2,
+      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "statusList": [
+       {
+        "key": "HP",
+        "value": 0.04
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 549209,
+        "count": 6
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "Khi bắt đầu chiến đấu, bản thân Ưu Tiên Hành Động <nobr>#1[i]%</nobr>.",
+    "ultimateCost": 0,
+    "id": 363359,
+    "name": "Cadenza Màu Sắc",
+    "iconPath": "c4d2f5cc476f3512e459714a55ecfd4ca18c450af273734de91f55b6d11ba8fe",
+    "levelReq": 0,
+    "promotionReq": 2,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 2,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309102,
+   "anchor": 7,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309205,
+     "anchor": 13,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309206,
+       "anchor": 14,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363451,
+        "name": "Cường Hóa HP",
+        "levelReq": 0,
+        "promotionReq": 5,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "HP",
+          "value": 0.06
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 45000
+         },
+         {
+          "id": 673760,
+          "count": 3
+         },
+         {
+          "id": 717091,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363454,
+      "name": "Cường Hóa Tấn Công",
+      "levelReq": 0,
+      "promotionReq": 4,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "Tấn Công",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 633150,
+        "count": 4
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "Trong trạng thái Hợp Tấu, Sát Thương Bạo Kích của toàn thể phe ta gây ra khi phát động Đòn Đánh Theo Sau tăng <nobr>#1[i]%</nobr>.",
+    "ultimateCost": 0,
+    "id": 363362,
+    "name": "Khúc Đệm Ngẫu Hứng",
+    "iconPath": "73a8b04c935054e24f9433a44c751dd3956335aeed2bbba2abbd0f49170b1c20",
+    "levelReq": 0,
+    "promotionReq": 4,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 4,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309103,
+   "anchor": 8,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309208,
+     "anchor": 16,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309209,
+       "anchor": 17,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363466,
+        "name": "Cường Hóa HP",
+        "levelReq": 75,
+        "promotionReq": 0,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "HP",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      },
+      {
+       "id": 1309210,
+       "anchor": 18,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 279516,
+        "name": "Cường Hóa Tấn Công",
+        "levelReq": 80,
+        "promotionReq": 0,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "Tấn Công",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363465,
+      "name": "Cường Hóa Tốc Độ",
+      "levelReq": 0,
+      "promotionReq": 6,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "Tốc Độ",
+        "value": 3,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 717091,
+        "count": 8
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "Khi thi triển Chiến Kỹ sẽ hồi thêm <nobr>#1[i]</nobr> Năng Lượng.",
+    "ultimateCost": 0,
+    "id": 363361,
+    "name": "Giai Điệu Chuyển Tiến",
+    "iconPath": "1b682ac043a69e0e67e377b998430c71e7f9dc506dfef5c6a6e14513b5e04e96",
+    "levelReq": 0,
+    "promotionReq": 6,
+    "levelData": [
+     {
+      "params": [
+       5
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 6,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309201,
+   "anchor": 9,
+   "type": 2,
+   "children": [
+    {
+     "id": 1309204,
+     "anchor": 12,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363453,
+      "name": "Cường Hóa Tốc Độ",
+      "levelReq": 0,
+      "promotionReq": 3,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "Tốc Độ",
+        "value": 2,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 10000
+       },
+       {
+        "id": 589819,
+        "count": 3
+       },
+       {
+        "id": 633150,
+        "count": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": 1309207,
+     "anchor": 15,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363452,
+      "name": "Cường Hóa Tấn Công",
+      "levelReq": 0,
+      "promotionReq": 5,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "Tấn Công",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 45000
+       },
+       {
+        "id": 673760,
+        "count": 3
+       },
+       {
+        "id": 717091,
+        "count": 3
+       }
+      ]
+     }
+    }
+   ],
+   "embedBuff": {
+    "id": 363458,
+    "name": "Cường Hóa Tấn Công",
+    "levelReq": 1,
+    "promotionReq": 0,
+    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "statusList": [
+     {
+      "key": "Tấn Công",
+      "value": 0.04
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 2500
+     },
+     {
+      "id": 549209,
+      "count": 2
+     }
+    ]
+   }
+  }
+ ],
+ "relicRecommend": {
+  "twoPcSets": [],
+  "fourPcSets": [],
+  "props": [
+   {
+    "relicTypeHash": "Thân",
+    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "propertyName": "Tấn Công",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "Chân",
+    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "propertyName": "Tấn Công",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "Quả Cầu Vị Diện",
+    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "propertyName": "Tấn Công",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "Dây Liên Kết",
+    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "propertyName": "Hiệu Suất Hồi Năng Lượng",
+    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+   }
+  ]
+ },
+ "voiceItems": [
+  {
+   "id": 1,
+   "title": "Lần Đầu Gặp Mặt",
+   "text": "Chào buổi tối, tôi là Robin, ca sĩ đến từ Gia Tộc. Không cần phải câu nệ, đây chỉ là một lời chào cá nhân dưới sân khấu, có thể dành chút thời gian cho tôi không?",
+   "unlockRequirement": "",
+   "cnUrl": "163097ee1c36e14e4f0988edd057d3f96289ac15992d0add187759540955556c",
+   "jpUrl": "24d8018a55d0126717920d218bd2ef1783e408f8167b190a92fd5445bdad2517",
+   "enUrl": "23950a9cd93277faaee89a9236f6e188200a625d2a207ba0d167187199fdc63c",
+   "krUrl": "f71747b2c9352d3336dc1e52540f027e15f5fd4f784f6926e8961a67f79c49a3"
+  },
+  {
+   "id": 2,
+   "title": "Thăm Hỏi",
+   "text": "Lại gặp nhau rồi, lần này cô/anh muốn nghe bài hát gì?",
+   "unlockRequirement": "",
+   "cnUrl": "9b51cbd95e26a12327596799913283cbc60336f106f79bf38bc3f0354a9bde64",
+   "jpUrl": "ae322d661f66b697ba13aa67980ef5b0fb26346e1fc0bc70a792da6b71826077",
+   "enUrl": "c22bb76807f3919403dadee8a2cf7162cc9396176984ccb74bf9b1bb34e742b4",
+   "krUrl": "b4fc09da0191ec99f2d96f960ca39d1bb24b4a5539ff37f73d2c174e698bcd99"
+  },
+  {
+   "id": 3,
+   "title": "Tạm Biệt",
+   "text": "Lần sau gặp lại, hy vọng tiếng hát của tôi có thể mang đến cho cô/anh một giấc mơ đẹp.",
+   "unlockRequirement": "",
+   "cnUrl": "4f11de1a288051c9a5b9486c5829bc19c4d2752f51caf827fabc84daa3fa84ba",
+   "jpUrl": "05b93daf746fac9bc7f131d3abbac4b5e2d8c824703ade6acc5502afd6ea954c",
+   "enUrl": "36ac96ff54d335e7e4bbf748007015d93d1e0d829e692329da2cea8b79eeaabd",
+   "krUrl": "d77e7a9532883093bfadf69bf2ae28af040d5710781831556580988035a645d9"
+  },
+  {
+   "id": 4,
+   "title": "Về Bản Thân - Sáng Tác",
+   "text": "Âm nhạc có thể có bí quyết sáng tác, nhưng thứ khiến người ta cảm động, không chỉ là kỹ thuật, mà những cảm xúc và quyết tâm ẩn chứa trong tiếng hát mới là thứ tạo nên sự cộng hưởng.",
+   "unlockRequirement": "",
+   "cnUrl": "688b6fceff94a18dbf92a052fc3646c85e2123a061e4453739dd449cc32b49b1",
+   "jpUrl": "47379f1fbfffb9a2e6c2960aa1abc258ae7e3784782fb820f4907e935a3e56bb",
+   "enUrl": "6300ac0662c79bb4f4cb94b5eca1ed30ea598ace1b298fdc6ec8277b0efa4c59",
+   "krUrl": "830c7f8966004a5b9aa6d8bb6bf05f29a0e2ba48f31c478019ba26a25788059b"
+  },
+  {
+   "id": 5,
+   "title": "Về Bản Thân: Tiếng Hát",
+   "text": "Người ta thường nói, khẩu vị thực khách càng cầu kỳ thì tay nghề của người đầu bếp càng tinh tế. Nhưng dù người khác có nói gì thì tôi vẫn sẽ luôn là người nghe khó tính nhất.",
+   "unlockRequirement": "",
+   "cnUrl": "2339f4577df934b8595a936459d8640b854a696b00cdef52984102c0cdbb627a",
+   "jpUrl": "f285f93414e97d622d1393e2ac59197e24f0eb04e5ba736aad15693f1ae9fb69",
+   "enUrl": "73dbd75d59bf1f0f7d63a700e63153223b23db05a4dc4dc3e1158eed6a6f9287",
+   "krUrl": "df892291b56570c7a62f4f69876a63a3babe0610b3376daeeb9b7319494df21c"
+  },
+  {
+   "id": 6,
+   "title": "Tán Gẫu - Đĩa Nhạc",
+   "text": "Để giữ lại cảm xúc của bài hát đó, người xưa đã lưu âm nhạc vào đĩa nhạc. Bộ sưu tập của tôi đến từ các hành tinh khác nhau, thậm chí nền văn minh của một số đĩa nhạc đã biến mất từ lâu... Nhưng những cảm xúc còn lưu lại sẽ tồn tại vĩnh hằng.",
+   "unlockRequirement": "",
+   "cnUrl": "cc7105037e3aade3c7be84908fa6b77867448c7242a6bea23301d7625a0ebe77",
+   "jpUrl": "91cf48e514af59ac2c06a1277211f854fcb36c442ebd4d883fa0ba51e0a1e295",
+   "enUrl": "c472be66924d397bca6e35cf27e8b44b6b0c935ec9fb67210a55753f66fbbed3",
+   "krUrl": "5d067936271fb81b04fff176b6f7011d2886fc64e2507fbf645a8102437cf887"
+  },
+  {
+   "id": 7,
+   "title": "Tán Gẫu - Bài Hát Đầu Tiên",
+   "text": "Hồi nhỏ anh trai thường ngâm nga khúc hát ru, dỗ tôi vào giấc ngủ, đó là bài hát đầu tiên tôi học được... Tuy nó không có lời bài hát, nhưng vẫn là giai điệu mà tôi thích nhất.",
+   "unlockRequirement": "",
+   "cnUrl": "f2e82cb57484fc489ba3ff7f87e83b04bdf315cd430db9bf5eeb9ffdc23c3eea",
+   "jpUrl": "6c088ee98b648b7acbb3ebfb203011106fd1ab935a276154282ae5a96787f323",
+   "enUrl": "07c924b1e2df6b8f6ad3962db37ea0d66f2a8968f08613b5689a623795431a95",
+   "krUrl": "8971245c67cea31dd7ae78169d8d1de73f744ff6d9e7d0304d90cd3aff59a20c"
+  },
+  {
+   "id": 8,
+   "title": "Sở Thích",
+   "text": "Thỉnh thoảng tôi đeo tóc giả, thay đổi cách trang điểm, đeo kính... như vậy tôi có thể đi bất cứ đâu mà không cần phải lo lắng rồi~",
+   "unlockRequirement": "",
+   "cnUrl": "486cf60e5a8ca30b2e75b89065c5cde9ccaa660fd9473510f7fc79e8867f902d",
+   "jpUrl": "b4bf6d08424c8b0c3765cc5e27973f562f1e3388afad696d2a02928452086dda",
+   "enUrl": "73eddd42c8d0995c610ba593619cd206685b828b4685bd76ca5b9cf2813707db",
+   "krUrl": "38b1fc299c988e35e6aabd907811b9c18e641ab414daf8b84dcb1466b97d131f"
+  },
+  {
+   "id": 9,
+   "title": "Phiền Não",
+   "text": "Những ngày không có tour lưu diễn, tôi thích rời khỏi thành phố để cảm nhận âm thanh tự nhiên... Tiếc là, trong Cõi Mộng của Penacony không có rừng thật, tôi chỉ có thể nói chuyện với những chú \"chim nhỏ\" trong giấc mơ.",
+   "unlockRequirement": "",
+   "cnUrl": "3e7344dbae6b546fe379f4dc1a73f6e00971aee0675c47578b12ab04c14caff1",
+   "jpUrl": "e6cc186707f64b993fa5bff134c8f67baf001c8e6fad12273103ba6465d69d41",
+   "enUrl": "e76a2d3cab7c2c1232307c69b90383ed90756bafe085e1b6954dea11ab38f191",
+   "krUrl": "335bfef4e14f4ef2898d23979e8616c4cc37289886343d2d057220b5848421e1"
+  },
+  {
+   "id": 10,
+   "title": "Chia Sẻ",
+   "text": "Trong gia đình \"Hòa Hợp\" không có tôn ti cao thấp, tất cả mọi người đều có thể đắm mình trong bài hát ca tụng của Thần Nghìn Mặt, chúng tôi cùng chia sẻ mọi đau khổ và hạnh phúc. Hy vọng tiếng hát của tôi cũng có thể đem lại bình yên cho tất cả mọi người.",
+   "unlockRequirement": "",
+   "cnUrl": "bd9170ca1103d3b7b096a33aa749bbfdbf83f139263b694259544d448a5691ce",
+   "jpUrl": "eab2266363c6c7ba7b93e9c87c03c777da008c46518e861ba88ead5f87457c27",
+   "enUrl": "b50dd8c8054712fcb737abf5c22c14726c3c101ba36105a013d269a0ea25f5c6",
+   "krUrl": "6948c6fa75e3d8b0b7b1270d6751aebf2ff7d251543896ef8b063697788c003d"
+  },
+  {
+   "id": 11,
+   "title": "Hiểu Biết",
+   "text": "Nhà phát hành ở Epsilon từng phát hành cho tôi vài album, cũng từng mời tôi đến đó ở một thời gian. Bầu không khí của hành tinh ấy rất giống Penacony, nhưng so với nghệ thuật, mọi người dường như quan tâm hơn đến lợi nhuận khổng lồ mà nghệ thuật có thể đem lại...",
+   "unlockRequirement": "",
+   "cnUrl": "de4049aacbc622aa90f398cef6aa98136be654969a26e9ae8170a2e211c69945",
+   "jpUrl": "4bb34c6121053c32c912c2b872d9af8350756a644193110a9e0723aaadf542c2",
+   "enUrl": "1c6a5fd11874d540879c58980146b1df38b2a136f337b3f554101a80579d44bd",
+   "krUrl": "307c1199a1514c43c4f416a60af30c371bfc7e5dc2317fbbe3a9c176306dd402"
+  },
+  {
+   "id": 12,
+   "title": "Về Sunday",
+   "text": "Có lẽ anh trai nghĩ rằng bản thân phải gánh vác trách nhiệm nặng nề hơn. Anh ấy luôn chăm chú lắng nghe nỗi buồn của tôi, nhưng lại rất ít khi chia sẻ cùng tôi những tâm tư của anh ấy... Có lẽ trong lòng anh ấy, tôi vẫn luôn là một đứa em gái bé bỏng.",
+   "unlockRequirement": "",
+   "cnUrl": "031976c85774b81e38e4b3d196b2d168379229eb0b4d4292cc8f2d0f4ad2fe54",
+   "jpUrl": "22240df81aca424f736d2e923c4089a5fdc2e318f9803717777cee6aeefa1462",
+   "enUrl": "0a70106fb5e67d17d38d1fac21d7663eb51b515e007cd78af31a3370453254af",
+   "krUrl": "2e4b14b161718fd1af731b6b028fb3697b89367d8a20988b1375bc7e98862cb9"
+  },
+  {
+   "id": 13,
+   "title": "Về Sunday 2",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Sau Đó, Vào Ngày Thứ Tám...\" sẽ mở khóa",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 14,
+   "title": "Về Gallagher",
+   "text": "Ngài Gallagher luôn che giấu sự dịu dàng của mình... Tuy bình thường trông có vẻ cà lơ phất phơ, nhưng vào thời khắc quan trọng, ngài ấy sẽ luôn đứng bên cạnh đồng đội.",
+   "unlockRequirement": "",
+   "cnUrl": "094e1e6a1b5f106ce4096fcfaff51c550b9cd91feeb48118f30b3db57f007072",
+   "jpUrl": "3816c421e68adc45232e14852d665f7eeaeaa873be79ab730bb2cc4ff6aedf71",
+   "enUrl": "5218eda77365ad468cde6bf6dee33a8397a315fea8f4b1c244edd35aa78d5ed4",
+   "krUrl": "dc32f45e0e78382197ea35bfb31b6248fb17b69490308f6744c8d90ef1de9062"
+  },
+  {
+   "id": 15,
+   "title": "Về Black Swan",
+   "text": "Chiến lược và phương pháp của quý cô Black Swan cũng chỉnh chu và đầy mê hoặc giống như điệu nhảy của cô ấy vậy. Thật mong chờ khoảnh khắc chúng tôi có thể nhảy cùng nhau trong tương lai.",
+   "unlockRequirement": "",
+   "cnUrl": "e6377d6382f3075753a702bd405d7bb08da167d74465be0077d71d55db34cdc6",
+   "jpUrl": "9c6d53abbdb152060e5a5f0fe18d70b7f9a0301221a5a525b91cfcb84793229b",
+   "enUrl": "5e7429d3a0772780ec058009c35b6adf69813805e8369cfb7268ca40f19dcc40",
+   "krUrl": "62a80228b83571581c86c40a7c7c467e824a6e639bb141fc957b2ee7fcabb430"
+  },
+  {
+   "id": 16,
+   "title": "Kích Hoạt Tinh Hồn",
+   "text": "Hãy lắng nghe, tiếng ngân nga của khúc nhạc hài hòa ngày càng rõ nét hơn...",
+   "unlockRequirement": "",
+   "cnUrl": "722216acf341257a7a120e7873798d38fe7b3c5a733cd0b6b37595ada8269780",
+   "jpUrl": "c9391701f57ee5437ad90bbdd3215f46121af7392489e802acee1634111f0bf0",
+   "enUrl": "6050f1c16c7070c473e4799dcc2ed0d5bbe76600ef6df2d0ab3aba2f6201df4e",
+   "krUrl": "a73c5f61f877c9ed6281c7a320fafd684851e135a55b22df2e6bcc1e451f7e8e"
+  },
+  {
+   "id": 17,
+   "title": "Nâng Bậc Nhân Vật",
+   "text": "Kiên trì luyện tập mới có thể đảm bảo trạng thái tốt nhất.",
+   "unlockRequirement": "",
+   "cnUrl": "71101847ee71d418cd681d507515e3892e49a5b964fe63c6bc467853a7704ab9",
+   "jpUrl": "a7790bb108ceceef132cba9131e91b99acc050022ca2ee261c36d1d6f979217f",
+   "enUrl": "edd80ccc9713259dd2b0f51f9b9c50c372350cfe604a08e65174a649c1fb89a7",
+   "krUrl": "786f09667b399a2afa85caba530af9beafacbfd588c5a1b1e654248839801929"
+  },
+  {
+   "id": 18,
+   "title": "Nhân Vật Đầy Cấp",
+   "text": "Mọi thứ đã sẵn sàng, đến lúc lên sân khấu biểu diễn rồi.",
+   "unlockRequirement": "",
+   "cnUrl": "b4dd940589635b52c57e85227283185ba8fc551eaf5174c8d72772d81c12a345",
+   "jpUrl": "f311fa7da2f76eda8f8356605a4ccb54ae430ad80bffd7d7e3533fd92ac27cde",
+   "enUrl": "4b9231fdc94685cd852cf8d46b45705f8c7955535f67f30756fbc931f0ff45e3",
+   "krUrl": "4327a458028a630804c91b12dd07a577ad5d67115d0f446300f1ef5c0f36565c"
+  },
+  {
+   "id": 19,
+   "title": "Kích Hoạt Vết Tích",
+   "text": "Ngoài ca khúc ra, việc chuẩn bị những thứ khác cũng không thể lơ là.",
+   "unlockRequirement": "",
+   "cnUrl": "9a311550fb4453065f464239b38df23c75c1d0f73d18a1f7a3d221b06ae32d8c",
+   "jpUrl": "ce831fa27460b176512431cde2ede263d4517a9a3835b9311a6df8555a55c2cd",
+   "enUrl": "37b99801eb27e1912cf98c02f2a9e48c79d2e7140331a0d1913353678a8b27fb",
+   "krUrl": "c288f20e889e5123ef91e0d9ae801a5f6e07531dce1012fdf6a1de57d38eda49"
+  },
+  {
+   "id": 20,
+   "title": "Điều Chỉnh Đội-Nhà Khai Phá",
+   "text": "Đừng lo, tôi sẽ luôn ở bên cạnh cô/anh.",
+   "unlockRequirement": "",
+   "cnUrl": "ac10aec6dc3851699b43acab717e0f898bad6f96fec889f6bcbba7380b66c859",
+   "jpUrl": "80e5a40574f15eba484404473a5631b38124bb8e7de604c75b61fb613ab8e3ea",
+   "enUrl": "293f81588619f67b00f49ef386ec988045b0471140f0befa5bcb0430004e238d",
+   "krUrl": "d6004796b1fdbae17a715f826a91ea815c9d83b29582d8aab8b2bc4f10e29842"
+  },
+  {
+   "id": 21,
+   "title": "Điều Chỉnh Đội-Gallagher",
+   "text": "Kẻ địch phía sau trông cậy vào ngài đó, ngài Gallagher.",
+   "unlockRequirement": "",
+   "cnUrl": "435217d55a9b18332bd4f9d33b08f13967357281ac059b566a357961c8edc913",
+   "jpUrl": "4e5965f2daebdfba4c133016fe0dd0b357b991dbbfc636987c1db2be5beba7b4",
+   "enUrl": "f9250f7ab1e263e0ab96f49e6bf0b232b7fe6967f0cb3e9a8ad9b35bdaf3ccdf",
+   "krUrl": "44d5936c9d20217906d5f76da708dca7ebe66500b0c2eb8ae16004bcf6862f8a"
+  },
+  {
+   "id": 22,
+   "title": "Điều Chỉnh Đội-Black Swan",
+   "text": "Mong rằng ca khúc này phù hợp với bước nhảy của quý cô Black Swan.",
+   "unlockRequirement": "",
+   "cnUrl": "3543edb6170f41eb7b7d3db482511b12b97a6b3e2a903d9e492b9193ffd590f8",
+   "jpUrl": "ebdf81f0702e6bdf88189a11c21bf9e8268d305cf57f6ff055ab18a5e80a044c",
+   "enUrl": "18ecbecb721b31d6f20bb00e57cfa7b2e0b338254231904b69f04c913bf121cb",
+   "krUrl": "eb19abfff0ff428d7ad3d30474a83fd340066dcb33ffd9713f9b1848cba4af28"
+  },
+  {
+   "id": 51,
+   "title": "Chiến Đấu Bắt Đầu-Phá Vỡ Điểm Yếu",
+   "text": "Lắng nghe khúc nhạc cuối cùng của sinh mệnh.",
+   "unlockRequirement": "",
+   "cnUrl": "2e1bdbf8d71f7db85cb161b3e54e37bacbcadb3ab9955ff8e5ab21de1c1c096b",
+   "jpUrl": "b2da4684936e58f3917b62f5f68a196984b9b71328da792623ed69c3f26fe8f6",
+   "enUrl": "7d4c2bc8272c2d5696ab86ecfd88a68a4271af4cf516c72e6fc1697dbfbe2291",
+   "krUrl": "f80ce3b2d39158efff4c5879fa71d7dbc4e41e7c02cc2de262cd2f5ffb0cbbb8"
+  },
+  {
+   "id": 52,
+   "title": "Chiến Đấu Bắt Đầu-Cảnh Báo Nguy Hiểm",
+   "text": "Những suy nghĩ nguy hiểm.",
+   "unlockRequirement": "",
+   "cnUrl": "27f67972476542e12b4ddb56d51c087961665d6fd7fa988d3ad4065c4ab7bd74",
+   "jpUrl": "4ccfe3672b4123be9585ae55e9a17d8e0e304fe2f86387bdbab04073743a78b8",
+   "enUrl": "b6fc1cea0a520030e9f5d639e6b334b15e3d174b11bd598770f6cc6e3b708436",
+   "krUrl": "97346ba2956f630c59744bf47f8ca136df22f6c0efaa4bc80dcdcb7117665fad"
+  },
+  {
+   "id": 53,
+   "title": "Bắt Đầu Hiệp 1",
+   "text": "Nguyện tiếng hát mang đến thắng lợi cho chúng ta.",
+   "unlockRequirement": "",
+   "cnUrl": "f7225b89de2b2a4e48112fa36301ef7d0c605332ff0240c4ae095a3a78af2131",
+   "jpUrl": "7a5d0cfa241c3a2c61eb8400102a79dd2453b326f8cb3be90751666993a44ea3",
+   "enUrl": "745768793edc0708e4f48808ecd6cbd2c0b70268a392079fa85c32b4ccb1b73b",
+   "krUrl": "714205e1f88b6d0371531e91142206bd541ab1628d96036122de72af1079d190"
+  },
+  {
+   "id": 54,
+   "title": "Bắt Đầu Hiệp 2",
+   "text": "Hy vọng thế gian không còn tranh chấp nữa.",
+   "unlockRequirement": "",
+   "cnUrl": "37e1764a88cc303867629152f6414e321d48793df87bb1b158c3ee8263ea1fb7",
+   "jpUrl": "ad290960ba6b33447789ddb465cb12a7dd1997f98455e074cfe3302a9a6e904e",
+   "enUrl": "84eff91000ed7accbcb8b351dca5abb58c358d6910ad86ef10ce2f5916e53cd3",
+   "krUrl": "c12a026653edb28d6037c64f7cdcf02a813b128d04b121472fb9980a5d7056e5"
+  },
+  {
+   "id": 55,
+   "title": "Chờ Lượt",
+   "text": "Đã đến lúc bước vào chương nhạc mới rồi.",
+   "unlockRequirement": "",
+   "cnUrl": "dd81cba252fd8885f7eff4936640ff44f2394e8bf92b619b6fa2a48225866d4c",
+   "jpUrl": "af3e2dd84040c0157063b58a3e67e5ffe217847fac1098f2536abdb9a961c766",
+   "enUrl": "587ad6acbee703f3fd9cb961c2fc39904052bd85e8e5dca6b1c67ad4c4738e04",
+   "krUrl": "2a59f4cc6b0c88da2a85db55a080df2f8fc5d7a711af05db456340b86ad7ee92"
+  },
+  {
+   "id": 56,
+   "title": "Tấn Công Thường",
+   "text": "Xin hãy yên lặng.",
+   "unlockRequirement": "",
+   "cnUrl": "5f42def6c467791bbbb85216fd64b4276fc81017773d20cffdb15cbacd07eb9e",
+   "jpUrl": "aa97384e0434af80389896fc0698bc90b617e7354083a7621b9cb53ea031745b",
+   "enUrl": "743afba9034af96be91a6b37bd515a0e07844ed1b1ae7c25957259cec2abdbd8",
+   "krUrl": "8281284d7eeca909eb76b073f170b2d78d9de2002af675bc2d6e5f5ef5ee5678"
+  },
+  {
+   "id": 57,
+   "title": "Chiến Kỹ 1",
+   "text": "Khúc nhạc hòa hợp sắp được hòa tấu.",
+   "unlockRequirement": "",
+   "cnUrl": "0330b2961f5a38dc115830d7992e2d009cdbd0b6734e8d81136a43a61a9a97ed",
+   "jpUrl": "28693e29fded0b6c61a3733a6897702ca6043288fbceff92fa54b72b9128b109",
+   "enUrl": "47fe307826102b6e07e9bdd24b4ad85917f0592e26f1907ac90d487a4f840e6d",
+   "krUrl": "7a6b5475ed74de66ed71766c4e1cfaa748964c7619f43728028e222b15f4799f"
+  },
+  {
+   "id": 58,
+   "title": "Chiến Kỹ 2",
+   "text": "Ngàn vạn âm thanh, một lần nữa, lại cùng nhau cộng hưởng.",
+   "unlockRequirement": "",
+   "cnUrl": "3812779efa3c3f34e77fb495180e5596d277ba3baab932c891f4ea8719896697",
+   "jpUrl": "8c878ff1d82c60863f61d3f48302245310e707a7eb95110653be6659c8b98a9e",
+   "enUrl": "7f41a837fb37a3ebc2b8d91a951c819d3b2d9dbb420dabce0d38e6ba8252174c",
+   "krUrl": "011c29b129095579b55388ca6c4db0b75ccbf15d9ceadd83c20a932f830111ad"
+  },
+  {
+   "id": 59,
+   "title": "Bị Tấn Công Nhẹ",
+   "text": "Không sao, không sao...",
+   "unlockRequirement": "",
+   "cnUrl": "3405186fbcee5cfb0591eab32663a77ba39447b9e9f4263fbf53718b6943d8fc",
+   "jpUrl": "1efe1ccf74a850eda68198b0fdd238522bcdb2063f35dfaeb3d10f8db773913d",
+   "enUrl": "84bbdaedc87366625d1d3675177af38cdf40f523bf839437a72382a9d849c7f6",
+   "krUrl": "201687398a8223ea735d0c9634b5baa11474b9ffa09aa44baa1811d7ea1921bf"
+  },
+  {
+   "id": 60,
+   "title": "Bị Tấn Công Nặng",
+   "text": "Hơi... đau một chút...",
+   "unlockRequirement": "",
+   "cnUrl": "094cd10dec1021f6c6c6078f294be75a99f089828a082235fe9a74288bd9ba87",
+   "jpUrl": "ccc350814422973673ce7425f9dccd6d2ed41a8ff674f119be7e221deb98eba5",
+   "enUrl": "6aed96ce70b81b98c73e9ba9e187ddd412c60b0f519dfec50ab1dc3b6b59a3c7",
+   "krUrl": "c1cda97a915142c0e9172c3b14d5a972c3cb4aacd5211d305300404440df19b1"
+  },
+  {
+   "id": 61,
+   "title": "Kích Hoạt Tuyệt Kỹ",
+   "text": "Đêm nay, những linh hồn sẽ ôm lấy nhau.",
+   "unlockRequirement": "",
+   "cnUrl": "629acad382e51ec28f3ff19a0f20ba57f7127b520c59c7c4c9b06bb022a78155",
+   "jpUrl": "cbdb4d49403c32f4664e631f1376da9163c22278fb4620c34446ffcf716ae79f",
+   "enUrl": "55d83534d262c072cc824fbdeb3ac15ceb86f96000c3560433e8157d3687e22c",
+   "krUrl": "09afb296c68577c5de9ac5f6e1704c4ac11b5f824399dd1a376aaa721d342927"
+  },
+  {
+   "id": 62,
+   "title": "Thi Triển Tuyệt Kỹ",
+   "text": "Đêm nay, những vì sao sẽ vì tôi mà vang vọng.",
+   "unlockRequirement": "",
+   "cnUrl": "ff0fc27c48d9203c00ed9651d126d0a6cfd3d9efb1ac4b4691e76bd0276dba54",
+   "jpUrl": "a15855eb547ea84f789fa6b22396572ebf35b8f05a3fea713b0632edbc90478d",
+   "enUrl": "5e5597fbbc012ec3985361f454172cb731651d29b4073596e31d06f384465358",
+   "krUrl": "20cca19902fddb1bded9c0647d4e35361a0a2c4842e67367355c1cea35f95307"
+  },
+  {
+   "id": 63,
+   "title": "Không Thể Chiến Đấu",
+   "text": "Buổi biểu diễn... vẫn chưa...",
+   "unlockRequirement": "",
+   "cnUrl": "553ce56e56a39b5338ccdbea468b743a02d4c3cfe458be36c60dce5db7d80f6b",
+   "jpUrl": "f78ba2593d114bce30dfc8d28eed04ac3fd653b880edb2f64567170ebc702ec1",
+   "enUrl": "74ccd2efae074ddc3e6384e707fad7cfc830fafb13a072e8ccbd4a521eab18be",
+   "krUrl": "782d1d8580fb9cb64ab52dd227ac881dbfc40269ac298740087714999c6572e6"
+  },
+  {
+   "id": 64,
+   "title": "Trở Lại Chiến Đấu",
+   "text": "Tôi vẫn tiếp tục được.",
+   "unlockRequirement": "",
+   "cnUrl": "06a1d247db237608ee8e6f9a723d67970e5cc50b569efe8e5b39a378eb98c6cf",
+   "jpUrl": "2e0a05b6b237639cd354707b0f49f5525e0ae2f7ee4c1fd1dd5e09d6f4e84284",
+   "enUrl": "5993c06a1849276f094f3d531dc2b840a11d4f1e7e157d5f33bc5ddd2f81fcd7",
+   "krUrl": "5addda09e80f221ad83e652f0d805093f70ead56ac889e95d13c369a71a0d3f6"
+  },
+  {
+   "id": 65,
+   "title": "Hồi HP",
+   "text": "Cảm ơn, cổ họng dễ chịu hơn nhiều rồi.",
+   "unlockRequirement": "",
+   "cnUrl": "641af788dc9a5c6bdf761d7e40f6dcbb493e1e9e1c4b16921e2fa261d60f3593",
+   "jpUrl": "506d453e8260b372d1be7983e336744862ebe5a285ce7ee34a2e82e52960aa4e",
+   "enUrl": "27098ef1d1e94b924d8ba4b3043e3d242f695176a0e6f4d3f0a7bf1e90823aef",
+   "krUrl": "436c37d10005c486888978553a4df12022254e7a9d7888922f182309e75a4efd"
+  },
+  {
+   "id": 66,
+   "title": "Bí Kỹ",
+   "text": "Buổi biểu diễn bắt đầu~",
+   "unlockRequirement": "",
+   "cnUrl": "ae4313d5268b0af84c52c2d3c904ad5ef548ecbc70d069d835cfca6aab688927",
+   "jpUrl": "af37dd347c9b722ed38e459a2b4995a7ea6a64f9f47cbf34251a24d178256941",
+   "enUrl": "595a43a8d08d9df9380372621656b312705d001fb874aa40d59ad5b5d65f5493",
+   "krUrl": "e8fbc2af858be306842ab0b1c266c77855a0cb81ab48553dc1460608865e5653"
+  },
+  {
+   "id": 67,
+   "title": "Chiến Thắng",
+   "text": "Hy vọng có thể tìm được bình yên trong bài hát.",
+   "unlockRequirement": "",
+   "cnUrl": "88521e0610b438ff5931a4886fd449e8e76fcc803116abadd94ded7c4eca24fe",
+   "jpUrl": "ed02862de0512baa630d91ad855fd5b256519991e32f8c78bf9465e1cfadda4b",
+   "enUrl": "c037f54ed9ed2b04464e5d69b4720993971431e15fa960f1e73fda258a17b044",
+   "krUrl": "e9a81b882f826ed9e38e3cef8df179c51e52106548eb4e837725d07968a51cf1"
+  },
+  {
+   "id": 68,
+   "title": "Mở Chiến Lợi Phẩm 1",
+   "text": "Ừm, không tệ, không tệ lắm.",
+   "unlockRequirement": "",
+   "cnUrl": "67af6959f2f48c52933ffc6368966f508fb75d6fae4dc30d7b1b48e980c2c6e2",
+   "jpUrl": "53e81979f484dba9adf673fbcf6ad4f6f478f7fe711f1b81635e8cf9aad574d1",
+   "enUrl": "9694afa29fc1e6de78582e23d013eb08c4dfcfcf6b11345e5d3a38f4bd1bd8e0",
+   "krUrl": "f503303ef0a8177402633595b6f6e1e087f4536d0aee4dc90a54f8fc13ddbb49"
+  },
+  {
+   "id": 69,
+   "title": "Mở Chiến Lợi Phẩm 2",
+   "text": "Tôi thích những điều bất ngờ~",
+   "unlockRequirement": "",
+   "cnUrl": "66080e1866d98958baf234090dd3f29c8d6f0f896b11f8ec383a852b63f9b30a",
+   "jpUrl": "dcd6974b03b18d0d84528a73859ba19d188a6923de9d8f1df57f7c67068d032b",
+   "enUrl": "de1ca4551bdbf20ad1e7ba1a179d842ff84c9eea446dfc334f4b975d23c609da",
+   "krUrl": "cb217c816899d8e9f74f7c7ad3d2db7dadac5c06f0f7cedd1a93c9546f8327fe"
+  },
+  {
+   "id": 70,
+   "title": "Mở Chiến Lợi Phẩm Quý",
+   "text": "Kiên trì sẽ được đền đáp, đúng không?",
+   "unlockRequirement": "",
+   "cnUrl": "20141e4ab9a2676c8130627b1fdc9e5c1477e5e6c0979d4319440d028a3cb714",
+   "jpUrl": "c9a6aa4c72a6a8a66d2385a9863da050183d3c58e33bc7870a557801fff41a02",
+   "enUrl": "17303478d8ef3bcac8588922c9da68f19d851b9a5e3186baa580becb354364db",
+   "krUrl": "c61967fda53de89cb02e80171f64d7a17e9d0dd2bef829cc9493a155886b3faf"
+  },
+  {
+   "id": 71,
+   "title": "Giải Đố Thành Công 1",
+   "text": "Giống như đang phân tích giai điệu hài hòa vậy.",
+   "unlockRequirement": "",
+   "cnUrl": "73eb12e9ef252adf078146d3d5f044ee2da271b7a6915c357a6fd27f35afc297",
+   "jpUrl": "02444b665af8419f4f420f43e3caad166b09cc60ec853f30790e3d0ac7071bc8",
+   "enUrl": "163dc950dae283072543154faf17900933d06ed07836049446159bd40f8252c6",
+   "krUrl": "240ccbaa0498299a747c1ca7b8e8842ec508768598726987729222e89fa704ab"
+  },
+  {
+   "id": 72,
+   "title": "Giải Đố Thành Công 2",
+   "text": "Có câu đố nào được tạo nên từ giai điệu không...",
+   "unlockRequirement": "",
+   "cnUrl": "7936734fc40d116c351b1e3d514bda6d0ccd62ff3a0c8c7949c0b292036e1370",
+   "jpUrl": "73a4d948a267fd4721300775750ec3c901af706fca2ab154c2cd933a1a47802e",
+   "enUrl": "ca690b4e309c9f3ed98ceccf93e29b00ab377835c975c152f558a4921932b233",
+   "krUrl": "c70016305b37e7e3f8c4800c8d4e2775b980b4231ace2ebfbaac34ec546c35b9"
+  },
+  {
+   "id": 73,
+   "title": "Phát Hiện Kẻ Địch",
+   "text": "Hình như tôi nghe thấy âm thanh không hài hòa.",
+   "unlockRequirement": "",
+   "cnUrl": "98f7a7eca45af109be6e0ae299aab7633ebdebddd702ca8afdad2feb4d28c319",
+   "jpUrl": "00aa292c9dc5a41906678d50bc4f53ef3a75a63ad9378d9b6ee0ca18f441c002",
+   "enUrl": "c6db049d6d9021969cef2b7720fc80263fd1658ad1332093a891a28b68e08056",
+   "krUrl": "43c9eee74b172402683a3e665e09cf5e4002975c9645ef491d633eb2ca09f294"
+  },
+  {
+   "id": 74,
+   "title": "Về Thành",
+   "text": "Chuyến lưu diễn đã kết thúc, nên về nghỉ ngơi thôi.",
+   "unlockRequirement": "",
+   "cnUrl": "c285e6db8c4f51cf463edd532de7409e8d7bc22e9aed82a0655c73ab845b8418",
+   "jpUrl": "3452ba16e8792e3eebffd130c92fe402ee0c0ae7f2636d2c6e7e8ae5f12bcae8",
+   "enUrl": "1d20a858e9412920f4fe764c73bfef441b5979e67a5675588721c3eb3a3ba380",
+   "krUrl": "57c3b258585f4255fd710dcde991b9719bf32650ce81a808a9d6f58cbbd2574a"
+  }
+ ],
+ "storyItems": [
+  {
+   "title": "Chi Tiết Nhân Vật",
+   "text": "Sinh ra ở Penacony, ca sĩ Tộc Halovian nổi tiếng vũ trụ, cô gái có phong thái trầm tĩnh và thanh lịch.<br />Lần này được Gia Tộc mời về cố hương, để hát tặng cho mọi người trong \"Đại Nhạc Hội Hòa Hợp\".<br />Có thể dựa vào sức mạnh của \"Hòa Hợp\" để truyền tải giọng hát, thể hiện \"cộng hưởng\" giữa người hâm mộ và cả sinh linh vạn giới.",
+   "unlockRequirement": ""
+  },
+  {
+   "title": "Câu Chuyện Nhân Vật 1",
+   "text": "\"Cô hình dung cuộc đời mình như một bài hát, đoạn đầu của bài hát đó u ám và đắng chát.<br /><br />Khi cô còn thơ ấu, Stellaron đã rơi xuống quê hương của cô.<br />\"Khóc lóc, than thở, cầu nguyện... Đó chính là âm thanh đầu tiên trong ký ức của tôi. Chúng tôi dùng những bài ca ai oán để cầu nguyện xin được cứu rỗi, nhưng chưa bao giờ chờ đợi được cái liếc nhìn của thần linh...\"<br /><br />Người ca sĩ luôn giữ nụ cười tươi này rơi vào trạng thái im lặng hiếm hoi.<br /><br />\"Vậy có thể xem như đó là sự khai sáng về âm nhạc của cô không?\"<br /><br />\"Lúc đó tôi còn quá nhỏ, phần lớn bài hát tôi đều không nhớ nữa. Nhưng tôi vẫn nhớ rằng, khi Stellaron bắt đầu nuốt chửng Cõi Mộng, mẹ đã ôm tôi và anh trai vào lòng, cố gắng xoa dịu nỗi sợ hãi của chúng tôi bằng tiếng ca...\"<br /><br />\"Cô có nhớ mẹ đã hát gì không?\"<br />Nhìn vẻ mặt đau khổ của cô ấy, tôi vốn định bỏ qua câu hỏi này, nhưng một lúc sau cô ấy vẫn trả lời.<br /><br />\"Tôi không nghe thấy... Bên tai toàn những tiếng động lớn khủng khiếp, tôi chỉ nhìn thấy môi mẹ mấp máy, mẹ ôm chặt chúng tôi, lồng ngực phập phồng, anh trai tôi ngồi cạnh và đang nắm chặt tay tôi. Ngôi sao băng giá rơi ào xuống sau lưng mẹ, và rồi... Bà tan vào trong Vòng Xoáy Vùng Hồi Ức, chúng tôi rơi xuống như những con chim gãy cánh...<br /><br />Nếu số mệnh của những chú chim đã định phải rơi xuống, tại sao chúng vẫn muốn bay lên bầu trời?\"<br /><br />Tôi không trả lời, cũng không thể trả lời. Đây không phải là câu hỏi được đặt ra cho tôi, và câu trả lời, chỉ nằm trong trái tim cô ấy mà thôi.\"<br /><br /><align=\"right\">- Trích từ \"Những Chú Chim Và Bầu Trời: Phỏng Vấn Độc Quyền Robin\"</align>",
+   "unlockRequirement": "Nhân vật đạt cấp <nobr>20</nobr> mở khóa"
+  },
+  {
+   "title": "Câu Chuyện Nhân Vật 2",
+   "text": "\"Thật may, bầu không khí nặng nề này không kéo dài quá lâu, sau khi chúng tôi chia nhau hai ly kem mâm xôi, cô ấy lại quay về là cô gái sôi nổi như trước.<br /><br />Sau thảm họa Stellaron, Gia Tộc đã vươn tay giúp đỡ những người sống sót. Cô ấy và anh trai nhận được sự che chở, được giáo dục tử tế, cũng chính lúc này, cô ấy dần bộc lộ tài năng âm nhạc phi thường của mình.<br /><br />\"Mùi vị vẫn y hồi nhỏ, khi đó để giữ giọng, tôi chỉ có thể lén ăn kem dưới sự che giấu của anh trai.\"<br />Cô hài lòng đặt ly xuống.<br /><br />\"Khi sở thích trở thành sự nghiệp, thì nó không còn dễ dàng nữa. Tôi không chỉ phải học cách hát sao cho khoa học, mà còn phải học nhạc cụ, soạn nhạc, viết lời, lễ nghĩa... Tôi đã rất nhiều lần muốn bỏ cuộc, nhưng dưới sự động viên và giúp đỡ của những người xung quanh, tôi đã tiếp tục kiên trì.\"<br /><br />Cô ấy kể về bài hát đầu tiên do mình sáng tác. Trên bìa album, bài hát này được ghi chú đặc biệt: \"Dành tặng cho tất cả những ai đã mất hy vọng\", và cảm hứng của bài hát này được lấy từ Ngôi Sao Mộng Đẹp trong vũ trụ - \"Penacony\".<br /><br />\"Mộng Đẹp trong hư không, những điều không thể xảy ra, giấc mơ trở thành hiện thực trong Vùng Hồi Ức kỳ diệu... Khi đó, tôi chỉ có một mong ước ngây thơ là, những người phiêu bạt lang thang như tôi có thể tìm được nơi trú ẩn cho riêng mình ở trong đó, nhưng...\"<br /><br />Cô ấy thở dài và nhìn ra ngoài cửa sổ, màn mưa rả rích làm đường phố phủ lên màu xám xịt, những đứa trẻ mặc áo mưa đủ màu đang nô đùa dưới mưa. Cô ấy quay đầu lại và nói một cách trịnh trọng...<br />\"Nhưng dù thế giới có thay đổi thế nào đi nữa, ước nguyện của tôi vẫn sẽ không thay đổi.\"\"<br /><br /><align=\"right\">- Trích từ \"Những Chú Chim Và Bầu Trời: Phỏng Vấn Độc Quyền Robin\"</align>",
+   "unlockRequirement": "Nhân vật đạt cấp <nobr>40</nobr> mở khóa"
+  },
+  {
+   "title": "Câu Chuyện Nhân Vật 3",
+   "text": "\"Sau khi phát hành ba album liên tiếp, sự nghiệp âm nhạc của cô ấy dần đạt đến đỉnh cao. Những ca khúc như \"Để Trái Tim Không Còn Đau Thương\", \"Vào Một Ngày Đẹp Nhất\" đã càn quét các bảng xếp hạng âm nhạc lớn khắp vũ trụ, trở thành những đĩa đơn đình đám. Nhưng điều làm người khác khó hiểu là, vào chính thời điểm này, cô ấy lại chọn rút lui khỏi tầm mắt công chúng.<br /><br />Nói về khoảng thời gian đó, cô ấy đã cho chúng tôi xem đủ loại ảnh do cô ấy tự chụp. Trong đống đổ nát của chiến tranh, cô ấy đã giúp đỡ những người mất đi tất cả, không chốn nương thân xây dựng lại nhà cửa. Cô ấy xây trường học cho những trẻ em không được đi học. Cô ấy đi đến một thế giới mà không ai biết đến để đuổi theo tiếng hát sắp tuyệt diệt...<br /><br />Cô ấy tắt điện thoại, thở dài và nói về lý do đưa ra quyết định như vậy.<br />\"Lúc đó, tôi càng ngày càng không biết tại sao mình lại ca hát.\"<br />\"Đối diện với một thảm họa thực sự, tiếng hát chẳng có ích lợi gì. Ca hát là để lấy lòng cấp trên, hay để che đậy nỗi đau và mang đến cho người ta niềm hy vọng hão huyền?\"<br /><br />Ở trạm dừng cuối cùng của hành trình đó, cô ấy đã trở về nơi sụp đổ của cố hương Tộc Halovian. Đống tàn tích bi thảm ban đầu đã được cỏ xanh bao phủ, trong làn gió thoảng và hương hoa, cô ấy nằm trên tảng đá gồ ghề, ngắm nhìn ánh sáng bầu trời xuyên qua tầng mây chiếu sáng mặt đất.<br /><br />\"Tôi không ngừng nhớ về tiếng hát của mẹ, tôi từng nghĩ đó là âm thanh vô ích, bởi vì tôi không thể nhớ ra âm thanh đó nghe như thế nào, cũng không thể thay đổi được cái kết hủy diệt. Nhưng mãi đến bây giờ tôi mới hiểu ra, thứ mà bài hát truyền tải không chỉ có mỗi bản thân âm thanh... Tôi vẫn nhớ nhịp tim của mẹ, sự run rẩy của anh trai ở bên cạnh, hơi ấm của ba chúng tôi nương tựa vào nhau... Ngay cả khi đối mặt với một cái kết không thể thay đổi, vẫn có thể cất lên giọng hát của mình mà không run rẩy, thì chắc chắn nó có thể truyền tải đi được...\"<br /><br />Cơn mưa ngoài cửa sổ tạnh dần, cô ấy đang đắm chìm trong ký ức lúc đó. Thật không may, sự im lặng mê hoặc đó bị phá vỡ bởi tiếng chuông điện thoại, cuộc phỏng vấn của chúng tôi cũng kết thúc ở đây.<br /><br />Do sự thay đổi lịch trình công việc, cô Robin cần phải lập tức lên đường đến Penacony. Quý độc giả thân mến, hy vọng chúng ta sẽ gặp lại nhau ở xứ sở mộng mơ.\" <br /><br /><align=\"right\">- Trích từ \"Những Chú Chim Và Bầu Trời: Phỏng Vấn Độc Quyền Robin\"</align>",
+   "unlockRequirement": "Nhân vật đạt cấp <nobr>60</nobr> mở khóa"
+  },
+  {
+   "title": "Câu Chuyện Nhân Vật 4",
+   "text": "\"Một năm sau, chúng tôi nhận được lời mời đến Penacony để tiếp tục cuộc phỏng vấn lần trước.<br /><br />So với lần gặp trước đó, cô ấy trông mệt mỏi hơn, ngay cả giọng nói cũng khàn đi nhiều. Lần này, cô ấy mặc bộ lễ phục Gia Tộc trang trọng, cử chỉ thận trọng và dè dặt, nhưng sau khi gặp chúng tôi thì vẫn dễ gần như trước. Cũng trong lần này, chúng tôi đã gặp được anh trai của cô ấy, một nhà lãnh đạo đầy phong độ.<br /><br />\"Đây chính là thế giới Mộng Đẹp duy nhất trong vũ trụ, cũng là cơ ngơi của Gia Tộc. Gia Tộc đã biến Cõi Mộng hoang vắng thành thiên đường nhân gian...\"<br />Anh trai của cô ấy lần lượt giới thiệu cho chúng tôi về lịch sử của Penacony, cô ấy đã giúp chúng tôi xóa bỏ cảm giác khó chịu khi nhập mộng, nhiệt tình mời chúng tôi nếm thử những món ngon trong Cõi Mộng.<br /><br />Chúng tôi đã đến thăm đủ loại kỳ quan trong mơ, nhưng tiếc là trong một môi trường ồn ào như thế này, chúng tôi không thể thực hiện được những nội dung phỏng vấn sâu hơn.<br /><br />Cuối cùng, chúng tôi đã đến với nhà hát hoành tráng. Vào buổi Đại Nhạc Hội Hòa Hợp sắp diễn ra kia, cô ấy sẽ hát trên sân khấu lộng lẫy này, truyền bá tiếng hát Hòa Hợp đến toàn vũ trụ.<br /><br />Ngay khi tôi tưởng cuộc phỏng vấn này sắp kết thúc, cô ấy nhìn về phía nhà hát tráng lệ và bất ngờ nhắc lại câu hỏi ở đầu cuộc phỏng vấn.<br /><br />\"Tổng biên tập còn nhớ vấn đề mà tôi từng hỏi lúc đầu không? Vì sao chim vẫn muốn bay lên bầu trời? Sau khi quay về Penacony, tôi đã suy nghĩ rất rất lâu.\"<br /><br />Cô nhìn lên bầu trời trong Cõi Mộng, dưới màn đêm sâu thẳm, nơi nơi tràn ngập ánh sáng nhân tạo.<br />\"Có lẽ số phận của loài chim là như vậy, bởi vì đó là ước nguyện, là nơi để trở về, và cũng là quyền lợi không thể tước bỏ của chúng...\"<br /><br />Cô ấy mỉm cười và nhìn vào đâu đó, rồi gửi lời mời đến chúng tôi.<br />\"Trong tương lai, sẽ có một buổi biểu diễn hoành tráng ở đây. Tôi sẽ biểu diễn bài hát mà tôi cảm thấy hài lòng nhất cho đến thời điểm hiện tại, thực sự hy vọng mọi người có thể nắm lấy tay nhau trong suốt bài hát... Dù là thế giới trong mơ, cuối cùng cũng sẽ có ánh sáng chiếu xuyên qua nó.\"<br /><br />Tôi không biết cô ấy đang nhìn về đâu, nhưng chắc chắn đó không phải là sân khấu của nhà hát. Cho nên, buổi biểu diễn mà cô ấy nói đến là buổi biểu diễn nào?<br /><br />Điều duy nhất chắc chắn là, ngay cả ở nơi ngợp trong vàng son như vậy, cô ấy vẫn không từ bỏ niềm tin lấy mạnh giúp yếu. Niềm tin này kéo dài xuyên suốt cuộc đời cô ấy, bắt đầu bằng đoạn mở đầu cay đắng, tiến dần đến bài hát chính tươi đẹp, và sau khi khúc nhạc dạo đầy sóng ngầm qua đi, có lẽ sẽ đón lấy phần nở rộ và kết thúc rực rỡ nhất.\" <br /><br /><align=\"right\">- Trích từ \"Những Chú Chim Và Bầu Trời: Phỏng Vấn Độc Quyền Robin\"</align>",
+   "unlockRequirement": "Nhân vật đạt cấp <nobr>80</nobr> mở khóa"
+  }
+ ],
+ "archive": {
+  "cvCn": "钱琛 / 歌: Chevy",
+  "cvJp": "名塚佳織 / 歌: Chevy",
+  "cvKr": "신온유/ 노래: Chevy",
+  "cvEn": "Alice Himora / Song vocals: Chevy",
+  "camp": "Penacony"
+ },
+ "calculator": {
+  "expCost": {
+   "1": 200,
+   "2": 300,
+   "3": 500,
+   "4": 600,
+   "5": 1050,
+   "6": 1670,
+   "7": 2320,
+   "8": 3060,
+   "9": 3860,
+   "10": 4740,
+   "11": 5710,
+   "12": 6730,
+   "13": 7830,
+   "14": 9000,
+   "15": 10240,
+   "16": 11550,
+   "17": 12920,
+   "18": 14360,
+   "19": 15870,
+   "20": 16580,
+   "21": 16840,
+   "22": 17100,
+   "23": 17370,
+   "24": 17640,
+   "25": 17910,
+   "26": 18190,
+   "27": 18480,
+   "28": 18760,
+   "29": 19040,
+   "30": 19340,
+   "31": 19630,
+   "32": 19930,
+   "33": 20220,
+   "34": 20530,
+   "35": 20840,
+   "36": 21140,
+   "37": 21450,
+   "38": 21760,
+   "39": 22080,
+   "40": 22390,
+   "41": 25550,
+   "42": 29140,
+   "43": 32830,
+   "44": 36600,
+   "45": 40470,
+   "46": 44430,
+   "47": 48480,
+   "48": 52630,
+   "49": 56870,
+   "50": 61190,
+   "51": 65620,
+   "52": 70130,
+   "53": 74740,
+   "54": 79450,
+   "55": 84240,
+   "56": 89120,
+   "57": 94110,
+   "58": 99190,
+   "59": 104350,
+   "60": 106240,
+   "61": 111830,
+   "62": 117530,
+   "63": 123320,
+   "64": 129210,
+   "65": 135200,
+   "66": 141290,
+   "67": 147480,
+   "68": 153780,
+   "69": 160170,
+   "70": 179260,
+   "71": 199920,
+   "72": 220920,
+   "73": 242260,
+   "74": 263930,
+   "75": 285950,
+   "76": 308300,
+   "77": 331000,
+   "78": 354040,
+   "79": 377420,
+   "80": 414350
+  },
+  "expItemConfig": {
+   "1000": 409962,
+   "5000": 409961,
+   "20000": 409960
+  },
+  "sCoinId": 29328
+ },
+ "name": "Robin",
+ "rarity": 5,
+ "descHash": "Sinh ra ở Penacony, ca sĩ Tộc Halovian nổi tiếng vũ trụ, cô gái có phong thái trầm tĩnh và thanh lịch. Lần này được Gia Tộc mời về cố hương, để hát tặng cho mọi người trong \"Đại Nhạc Hội Hòa Hợp\". Có thể dựa vào sức mạnh của \"Hòa Hợp\" để truyền tải giọng hát, thể hiện \"cộng hưởng\" giữa người hâm mộ và cả sinh linh vạn giới.",
+ "artPath": "0138e78111a7211d884e5ac86d8745f7d556b3d769edc541724ff94c9e7f8a84",
+ "miniIconPath": "92edd6c32fa7d7899058fa5d263158536da5b0afca1bd6779bda7bfd53360c6d",
+ "damageType": {
+  "id": 1,
+  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "color": "#FFFFFF",
+  "name": "Vật Lý",
+  "rarity": 0
+ },
+ "baseType": {
+  "id": 0,
+  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
+  "altIconPath": "691e6c36e7f71344352e4ed80941938d7dc5722b23cef7a18f7fa8722d8c0523",
+  "color": "#FFFFFF",
+  "name": "Hòa Hợp",
+  "rarity": 0
+ },
+ "pageId": "robin"
+}

@@ -58,14 +58,14 @@
  "skills": [
   {
    "useNum": 2,
-   "desc": "Augmente de <nobr>#1[i]%</nobr> la DÉF.",
+   "desc": "Augmente la DÉF de <nobr>#1[i]%</nobr>.",
    "params": [
     0.15
    ]
   },
   {
    "useNum": 4,
-   "desc": "Augmente de <nobr>#1[i]%</nobr> les DGT max absorbés par le bouclier créé par le porteur.",
+   "desc": "Augmente les DGT max absorbés par le bouclier créé par le porteur de <nobr>#1[i]%</nobr>.",
    "params": [
     0.2
    ]

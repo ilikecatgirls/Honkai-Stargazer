@@ -6,9 +6,8 @@
  "fgPath": "6cf0ea545601fc51a9f9b8066e93fa340793f41ad99b97209f7158de03e2f37e",
  "splashIconPath": "7614446d60a6a3edef33331f2a6f5a24e2f0bac8ab84cb24364c7d379346d060",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRooCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAgBAAABkGxt27Et5/O8v+0/27Yb27ZrViPbtm3X1Bi7cbvQ1HpxX+HDLkTEBJClo2kh0CBI5QOA4t0FQJ9WOPAeIKD/1twBvrzpQIIggBm78j1td8/d24vi0StqgKGHQ42Ad/fXdAGqtk1tuu/GJ0XJh5NLty2vobowgC1fJUUySWdHNO/QvoDu76UwSmRKwki3vAdOKEpkJjOThVpEDk0v2v+SzEyxXgEsU2ym1GamYXgOK8ok0dd2OLYpSWeW6FMjHN1NZjJJJsX6WAR0/Kb4P5MlUazHODwTpSSOojiMpfDKWDzAg59K/ePExul4UrZ5+WLNwXt7N7cmrxcuVco2gAdHhoEvzPEOHABWUDggXAEAAJAHAJ0BKhQAFAA+bTCTRyQioaEoCqiADYlsAJ0yhHAv8IxEhAYKBqGe8eViU5+7NOzKwZvnXq5ezphrnvRvGmvuPqPRAADMk1KL9xOFXk6og5kxuSbtufWdXALm19F2BWbSHskQJjCA15xaT63yIdjN2qFL11H1nDF4f4k/euXhZD4Ev32U9k174S8fXRVOSP9W5fTF8cBqjI5BlbhuhZv8v+37PP5Dun8v3fuXsKJHmWpauW/zfVTN1oreXahM9uy41zEVX7WKyTHNUYtSkBKx3+oAox/weJ+tNSfx88IH3Fn1TklNU+fquPrpn6+vehdLXIbuasQnd8fuf+m1xARuc3vM/sRd0AcvaHwCKN8zfc1mnxJ+9CMcdKlIgTMV7weeQyj/+xutn0uTgDx6Hy7MnqnrbAtBmiPzoGvRCAZOr4/Jemae/gsG2FWsMO1sg0FLGtQaVrHcQQAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2582,7 +2581,7 @@
   },
   {
    "title": "História de Personagem: Parte III",
-   "text": "Os avanços em pesquisa da Estação Espacial foram prejudicados pelo impacto do acidente. Vários pesquisadores vêm se culpando por traírem a confiança e o favor da madame Herta. Que mal lhe pergunte: tem alguma coisa que você gostaria de dizer para alguém?<br /><br />\"Não. Estão fazendo um ótimo trabalho, continuem assim.\"<br /><br />Todos querem contribuir com a sua pesquisa científica, madame Herta...<br /><br />\"Não, obrigada.\"<br /><br />De fato, nenhum pesquisador poderia nem sonhar em se igualar às habilidades cientificas da madame Herta, é por isso que estamos impressionados com sua sabedoria e visão. E por favor, madame Herta, você poderia nos contar se tem alguma recomendação de pesquisa para todos? Adoraríamos aprender com você!<br /><br />\"Não.\"<br /><br />Madame Herta, o seu intelecto e talento são inegáveis, mas pessoas normais como nós nunca poderiam esperar ser como você um dia... Será que você poderia nos dar algum conselho, como para qual domínio nós devemos dedicar nossos recursos cognitivos limitados?<br /><br />\"Vocês deviam ir para casa dormir.\"",
+   "text": "Os avanços em pesquisa da Estação Espacial foram prejudicados pelo impacto do acidente. Vários pesquisadores vêm se culpando por traírem a confiança e o favor da madame Herta. Que mal lhe pergunte: tem alguma coisa que você gostaria de dizer para alguém?<br /><br />\"Não. Estão fazendo um ótimo trabalho, continuem assim.\"<br /><br />Todos querem contribuir com a sua pesquisa científica, madame Herta...<br /><br />\"Não, obrigada.\"<br /><br />De fato, nenhum pesquisador poderia nem sonhar em se igualar à proeza cientifica da madame Herta, é por isso que estamos impressionados com sua sabedoria e visão. E por favor, madame Herta, você poderia nos iluminar com algum conselho de pesquisa para todos? Adoraríamos aprender com você!<br /><br />\"Não.\"<br /><br />Madame Herta, o seu intelecto e talento são inegáveis, mas pessoas normais como nós nunca poderiam esperar ser como você um dia... Será que você poderia nos dar algum conselho, como para qual domínio nós devemos dedicar nossos recursos cognitivos limitados?<br /><br />\"Vocês deviam ir para casa dormir.\"",
    "unlockRequirement": "Desbloqueado no Nível <nobr>60</nobr> de Personagem"
   },
   {

@@ -6,9 +6,8 @@
  "fgPath": "4b1cfbc5b305d164e938b9c2c815bbfcf0485111f11f2c1ddb0b1c4ec0f20b21",
  "splashIconPath": "3141145ff01b64a112779ff4ce22ff319f8669842632a304f1887baa51b45661",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRrwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSCgBAAABkHPbtrG98td93ti2ndq2bduubddfl1RfynypbNt2Uqmz8dy9i/d9v4iYALIDJECguIEetaFUgNKUTHKUZJBf7KlF4wo169OoFQESyrywvZPMhLFDqDU8AwntbzhNlbau2I5uw+qMTAhwylGKvjn5QNeKlff1JKHC+AEXnVrR+wsLN3Tf1IFAqTDtmyVLvvJk5ZE1I0sC7T85tWXJb4vuPW4JtP+g1Mr2t4+OJ7s0L1lvwP0vlrNlR23v063W+MqrrluyLUvW8okwj/l//lmWcvzVXijd9d5fy5IlWanenOkEBYqSLSsq2s9310sosv6n//9F2dEnllSFwIDb350dv7/3o5JQguy2Mw++LnjnX316NaJEAAgA5ag/aVYdCOQNJSADkAlkA1ZQOCBuAQAAcAcAnQEqFAAUAD5tMpVHpCKiISgIAIANiWwAnTKDyj3W4Cm2ou1X0AP1A6y0iDP2Q1DkLZimVG2BY+WZr5OhR3tcctAA/nGx4wf3+3EXUdC7xEdwyBpvqH9lJEABt4IpVKrCPwY+Of57TuHigxQJb6/V5ePgn7aj/5p/9ZVOccsoryGnfy9TAOXheWvpAgfVK9j6DKzWT8wA9xp3CNpTUoa2uM7J2d1EetqCWvwzey4c2wE/QG/g6jOwyNx+KlNl8CrjV2cGnYOIDZNy9wiCqr9FVao7abcGxxbYr/Elzs33TAQy8SfqejxITqE3Np8NN9E+ExtJBsSkOrRHY7vEk/T/nSC988nL9i+uFdviL7138/+klzDVofAW/9iBJk0pxX0klunlfaod/20D1Tcwm0LWRlmPFuh7v8PxrsjKa7lKfMUnySAF/DVMTyYmdv1aTdD/k8Wv5lBB+cZAZf22IBOo+XMZ+cdgFQOEAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -441,7 +440,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "406f06f0d9c71f8d4ac1353b1be374c71155653413ca990fcac4682064900538",
+   "iconPath": "2d8893278e393b9ac257c0f3772c654e9008c20f536cf391c1ae3f45f857c7cb",
    "artPath": "00f304d39f355367706448db9d536eb7d05b415d6ab9ad5eca3f537ef848a56b",
    "name": "Von Heliobi besessen, vom Bösen ergriffen",
    "descHash": "Die Dauer von „Gesegnete Heilung“, das vom Talent bewirkt wird, wird um <nobr>#2[i]</nobr> Runden verlängert. Wenn Huohuo Gesegnete Heilung besitzt, wird die GES aller Verbündeten um <nobr>#1[i]%</nobr> erhöht.",
@@ -452,7 +451,7 @@
   },
   {
    "id": 2,
-   "iconPath": "eb9685eff856541e2074769fd2f5302e0f7116ceb4f5698c28dbd32edc1b563b",
+   "iconPath": "11e4110de2d8b3eadd04cb70332bda9df5af3bfbc2db1c21dc166f1d885578f2",
    "artPath": "c9155db948dbb10d3fd7cef63a7ecf270aaeb9dd839c6207585535762aecafa5",
    "name": "Im Schweif versiegelt, Geister besiegt",
    "descHash": "Wenn Huohuo „Gesegnete Heilung“ besitzt und ein Verbündeter von einem Todesstoß getroffen wird, wird der Verbündete nicht handlungsunfähig, sondern werden seine LP sofort in Höhe von <nobr>#1[i]%</nobr> seiner max. LP wiederhergestellt. Dies reduziert die Dauer von Gesegnete Heilung um 1 Rd. Dieser Effekt kann <nobr>#2[i]</nobr>-mal pro Kampf ausgelöst werden.",
@@ -463,7 +462,7 @@
   },
   {
    "id": 3,
-   "iconPath": "eca8323513d153a185a78df90f8861357d01ba27860838c795eace4310311ad7",
+   "iconPath": "21934bdca1e5ae8c14e05625dc0c063a0fc0719b9890e2500af9d5ff9159528b",
    "artPath": "6d512107365788b72c2fead4f9fc61bc1a957a2d8310266777db4969e5821327",
    "name": "Verfluchtes Schicksal, wie Motten im Licht",
    "descHash": "Ultimate-Stufe +2 bis max. St. <nobr>15</nobr>. Talentstufe +2 bis max. St. <nobr>15</nobr>.",
@@ -471,7 +470,7 @@
   },
   {
    "id": 4,
-   "iconPath": "404b4a0cd44f2489b47d1fbfd9c238e8f5f884ca0dba54cd2962440a6f9175cc",
+   "iconPath": "85915d960c09267fc364f8e3b8c713bdd10fa4bb53e5b8169e24eff30dd2c7b8",
    "artPath": "a389c4103a1594a9d58b88f68f2ea3caf54a0d6525d4296dbee27f3aa105748b",
    "name": "Gefesselt im Leben, gebunden im Streit",
    "descHash": "Wenn sie einen Verbündeten mit ihrer Fertigkeit heilt oder der Effekt ihres Talents ausgelöst wird, erhöht sich Huohuos bewirkte Heilung abhängig davon, wie niedrig die LP des Verbündeten sind, jedoch bis zu <nobr>#1[i]%</nobr>.",
@@ -481,7 +480,7 @@
   },
   {
    "id": 5,
-   "iconPath": "4d3989d7d0a14e3714acdaad652709b37ec513381d423850f816c331e742ded2",
+   "iconPath": "d96d71767fdf1c66fd3dd811e069b80a3ac3c6ee304eeadee143e077b4db584e",
    "artPath": "f780a89f0a91b50c8a510e629e24babb14951ae1c7291b89ad67c1046ed5d845",
    "name": "Vertreibung des Bösen, im Namen der Zehn Fürsten",
    "descHash": "Fertigkeitsstufe +2 bis max. St. <nobr>15</nobr>. Standardangriff-Stufe +1 bis max. St. <nobr>10</nobr>.",
@@ -489,7 +488,7 @@
   },
   {
    "id": 6,
-   "iconPath": "f7d1d017cf983cd12850fc07c2141b3fbd48150c238cfc6747639ad8a0d2e280",
+   "iconPath": "3d8cf3db9730f07552ae1555afcf5c0c04e0ffd3f429579f0def5c145906a532",
    "artPath": "5150e2b82127a1708c0979e4da078d71aaa55d18f0f80a77f83e246a6c5fb076",
    "name": "Einmal verwoben, auf ewig vereint",
    "descHash": "Erhöht den zugefügten SCH eines Verbündeten für <nobr>#2[i]</nobr> Rd. um <nobr>#1[i]%</nobr>, wenn dieser geheilt wird.",
@@ -525,7 +524,7 @@
    "energy": "20",
    "id": 256586,
    "name": "Banner: Durch Wind und Regen",
-   "iconPath": "b830903561370c584a831716624f4b217d096ef120b7e544774f8fcbd32692fc",
+   "iconPath": "09c43d733fe5638f498db07e7e77b99ebd4ebd637c50b088e2de80676b91e0de",
    "typeDescHash": "Standardangriff",
    "levelReq": 0,
    "promotionReq": 0,
@@ -686,7 +685,7 @@
    "energy": "30",
    "id": 340527,
    "name": "Talisman: Schutz des Lebens",
-   "iconPath": "4d3989d7d0a14e3714acdaad652709b37ec513381d423850f816c331e742ded2",
+   "iconPath": "d96d71767fdf1c66fd3dd811e069b80a3ac3c6ee304eeadee143e077b4db584e",
    "typeDescHash": "Fertigkeit",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1021,7 +1020,7 @@
    "energy": "5",
    "id": 457172,
    "name": "Schweif: Unterwerfung von Teufeln",
-   "iconPath": "1599a70a59433a555916ab49af3a7356e53202aecf74ff65f82be3f85dfa1657",
+   "iconPath": "dd86b299fa5ca0bf2ee56496b2e2cafbd4bed6a6956961f8b5eaf04fe3878a95",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1326,7 +1325,7 @@
    "energy": "0",
    "id": 541113,
    "name": "Besessenheit: Metaphysische Verbindung",
-   "iconPath": "837a941cb26a8192393d0c1cd6f1be4f2cfc59a4ac98082f843820929d838bc4",
+   "iconPath": "a71d532eb7f2fefced3559fa428e5b4d2b307354d599a1cc3b757c6c520a00fe",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1691,7 +1690,7 @@
    "energy": "0",
    "id": 741699,
    "name": "Angriff",
-   "iconPath": "b830903561370c584a831716624f4b217d096ef120b7e544774f8fcbd32692fc",
+   "iconPath": "09c43d733fe5638f498db07e7e77b99ebd4ebd637c50b088e2de80676b91e0de",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1713,7 +1712,7 @@
    "energy": "0",
    "id": 825640,
    "name": "Unhold: Unterdrückung von Dämonen",
-   "iconPath": "0dd53f493ba96a4516b9f6427fa20f2d5b8ecdc54ed024ac522c8436fc435b8c",
+   "iconPath": "331ba2e6329c626c11968cd6e444c8766c699d59b388e8df7d0aba35591a621d",
    "typeDescHash": "Technik",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1847,7 +1846,7 @@
     "ultimateCost": 0,
     "id": 696245,
     "name": "Starr vor Scheu",
-    "iconPath": "71af687fcc277c229680777e81161a74ae2176ede361054a1fecf139de9e4ed3",
+    "iconPath": "1199316f711dc61e7ddacf6ca4ba33a86ec5773829f9b8c3c2e4c837a3c570fb",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1988,7 +1987,7 @@
     "ultimateCost": 0,
     "id": 696246,
     "name": "Verfluchtes Schicksal",
-    "iconPath": "a16acbb2f10d63a6047d5492a6bc191620bee71911aef628bca6db9a7f291f51",
+    "iconPath": "a7c8ab66c49ae7893379f92b6575faed6d6ddb2437cb765f8fbad5d59b2800f3",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2099,7 +2098,7 @@
     "ultimateCost": 0,
     "id": 696247,
     "name": "Stressreaktion auf Horror",
-    "iconPath": "ec2c81d38a9faed55dda5409807e442d1bb15db87a41d1e3df6dd8e2979fba41",
+    "iconPath": "22d9c38da24412ea7c2ce08dbbfa4c0d7dccdb0528a650307a1b41c5ba9825ff",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2790,7 +2789,7 @@
   },
   {
    "title": "Geschichte (Teil 4)",
-   "text": "Anfangs war Schweif wie jeder andere Heliobus. Er wollte Huohuo verschlingen, ihren Namen und ihre Identität übernehmen und ihr alle Wünsche und Gefühle rauben.<br /><br />Später fand Schweif Gefallen daran, Huohuos Frustration über ihre Misserfolge zu beobachten. „Wie auch immer, ich habe es nicht eilig, sie zu verschlingen. Sie kann mir schließlich nicht entkommen.“<br /><br />„Schweif, Schweif! Hilf ... Hilf mir!“<br />„Das geht mich nichts an. Was hast du damals gesagt? Oh, du musst ‚auf eigenen Füßen stehen‘. Das ist doch die perfekte Gelegenheit dafür, oder?“<br />„Nein! Ich stehe das nächste Mal auf eigenen Füßen! Bitte hilf mir!“<br />„Denk daran, dass ich frei sein werde, wenn du stirbst. Aber ... nun ja, ich beende immer, was ich angefangen habe.“<br />„Du bist eine Richterin der Zehn-Fürsten-Kommission, aber du hast deine Pflicht vernachlässigt und zugelassen, dass diese Monster Xianzhou verwüsten. Was für eine Schande ... Hey, was soll das, du kleines Würstchen? Ich bin der Einzige, der sie ausschimpfen darf!“<br />„Ahhhhhh!“<br />„Du willst es auf die harte Tour, oder? Gut, du hast es so gewollt!“<br /><br />Seitdem sie von Schweif besessen ist, zieht Huohuo die bösen Geister wie Licht die Motten an.<br /><br />Huohuo gibt Schweif immer die Schuld für ihre ominöse Bezeichnung als „Verfluchtes Schicksal“, und Schweif findet, dass es manchmal frustrierend sein kann, einen Wirt wie Huohuo zu haben. Doch die Jahre sind vergangen, und Schweif hat Huohuo nicht im Geringsten etwas angetan. Obwohl Schweif ihr immer versucht zu helfen, sobald er frustriert genug ist, lehnt er jeden Gedanken an eine Freundschaft ab.<br /><br />„Ausgestellt von den Zehn Fürsten, hat Huohuo, die Leichenbestatterin, während ihrer Tätigkeit außerordentliche Leistungen erbracht und sich als zuverlässig für wichtige Aufgaben erwiesen. Sie wird hiermit zur Richterin befördert.“<br />Die Kommission der Zehn Fürsten beschloss ihre Beförderung, und so begann Huohuos neue Amtszeit als Richteranwärterin.",
+   "text": "Anfangs war Schweif wie jeder andere Heliobus. Er wollte Huohuo verschlingen, ihren Namen und ihre Identität übernehmen und ihr alle Wünsche und Gefühle rauben.<br /><br />Später fand Schweif Gefallen daran, Huohuos Frustration über ihre Misserfolge zu beobachten. „Wie auch immer, ich habe es nicht eilig, sie zu verschlingen. Sie kann mir schließlich nicht entkommen.“<br /><br />„Schweif, Schweif! Hilf ... Hilf mir!“<br />„Das geht mich nichts an. Was hast du damals gesagt? Oh, du musst ‚auf eigenen Füßen stehen‘. Das ist doch die perfekte Gelegenheit dafür, oder?“<br />„Nein! Ich stehe das nächste Mal auf eigenen Füßen! Bitte hilf mir!“<br />„Denk daran, dass ich frei sein werde, wenn du stirbst. Aber ... nun ja, ich beende immer, was ich angefangen habe.“<br />„Du bist eine Richterin der Zehn-Fürsten-Kommission, aber du hast deine Pflicht vernachlässigt und zugelassen, dass diese Monster Xianzhou verwüsten. Was für eine Schande ... Hey, was soll das, du kleines Würstchen? Ich bin der Einzige, der sie ausschimpfen darf!“<br />„Aaaaaaah!“<br />„Du willst es auf die harte Tour, oder? Gut, du hast es so gewollt!“<br /><br />Seitdem sie von Schweif besessen ist, zieht Huohuo die bösen Geister wie Licht die Motten an.<br /><br />Huohuo gibt Schweif immer die Schuld für ihre ominöse Bezeichnung als „Verfluchtes Schicksal“, und Schweif findet, dass es manchmal frustrierend sein kann, einen Wirt wie Huohuo zu haben. Doch die Jahre sind vergangen, und Schweif hat Huohuo nicht im Geringsten etwas angetan. Obwohl Schweif ihr immer versucht zu helfen, sobald er frustriert genug ist, lehnt er jeden Gedanken an eine Freundschaft ab.<br /><br />„Ausgestellt von den Zehn Fürsten, hat Huohuo, die Leichenbestatterin, während ihrer Tätigkeit außerordentliche Leistungen erbracht und sich als zuverlässig für wichtige Aufgaben erwiesen. Sie wird hiermit zur Richterin befördert.“<br />Die Kommission der Zehn Fürsten beschloss ihre Beförderung, und so begann Huohuos neue Amtszeit als Richteranwärterin.",
    "unlockRequirement": "Wird auf Figurenstufe <nobr>80</nobr> freigeschaltet"
   }
  ],

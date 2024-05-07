@@ -6,9 +6,8 @@
  "fgPath": "6842366bfe6b21e4f7927de23251acbac7710a6995d6d5ad3f6fcf1f8728f440",
  "splashIconPath": "cb8b1e8e90176861cda2ed901b194688fc571573f3875b506fd5eef3425bc52d",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBgBAAABkHNb27HH2q/n/WLbtp2MPZVttlOzcqluKla2Udq2bVvv+z3XFSciJgBdNEAgOjtxz7GNA4GsuI4czFbb0RET0bEPO/XH/1fHl+XDdGLwJ1n93nwhHO36ggGUnZen73Oux7cXm940t/9iWbq6dKYEBnDQvTZ5/I+/oqS/n0fDBzgJR+9Pm/nXsq2rxfDBoOyzbjyjFSn6tT7NgcHkD5QkSqTV6h4AkH1BriVJiVYnZwEmtnrRS5GiJJL/VsUAOUMbFt72i2rHak0AHPQ6+/0XRVGkXF0xcDBEkiiKpJW7HDCIPCzP83ueZ2X1oAEGMEjaoPb/68LY7skAYFCwYOu+9Vs2vfvw9MCCbHQcsnB8XFr9kJHDImEAVlA4IC4BAABwBQCdASoUABQAPm0ylEekIqIhKAgAgA2JQBicgmxEGhfkLY+oza9f8o7rXPqL/qCs7GkAAP73fYgmb/tUJrb1Ac/t0G9oUn6gsXboeduu52XKgV/GctGDPF/QdGAmyZosf9QDksEUK7XO7OYsoDRfwGkCWyIHI/H/pcsjUoG/Yllg+yM0FqFueCcYZMBTbiftCL6XY7QaQ8n3GSER90qe7/AewGPz/x6F/TZv8/8VXfvLIp/+aSjoB1WY2X/Rw539oOr8QKG6t5zJz69wL/6/mUmjdKsWM9+vW/9o+msEFWPNrBf+hY0D+OZVte4Nb2f51+HY5yneDfvwEK5BXjFkHT9AMH81z5RLLPhsW7X/xvQBHr8yQnijfx9m8qvxswT/nZPDQnk4ekRgAAAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -441,17 +440,17 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "df764a5759a0dca82769c6f3b9d0c49fc112137b5c7e7cf0fe97c158667b35d0",
+   "iconPath": "4b2f6a82ca5832faabb21365f8e801c9294eabdcfe332bd0391a19bc78f57864",
    "artPath": "b434b6fb86e3b72574dcd5aa2e2b043d1020ef54067bdfa51ca183c33ec326c3",
    "name": "Verdadeiras Palavras do Céu",
-   "descHash": "Aumenta a Chance de CRIT em <nobr>#1[i]%</nobr> ao causar Dano a inimigos penalizados.",
+   "descHash": "Ao causar Dano a inimigos com penalidade, aumenta o CRIT em <nobr>#1[i]%</nobr>.",
    "params": [
     0.18
    ]
   },
   {
    "id": 2,
-   "iconPath": "0b8497d7bbbbd66c4fb49a5f303473bea784cc4654589c5bf1898819ff4de0a4",
+   "iconPath": "cd5b2875fb57c9169388dd2614bcb1d40c9faec35a6f5438fa352e2d1d457847",
    "artPath": "a3538ce5431936c85fbdf5315b3492172121bbda4430c2eda2bda0db888872ad",
    "name": "Trovões Mudos na Tempestade Amainada",
    "descHash": "O número de personagens no Caminho da Inexistência necessário para alcançar o maior efeito possível do Rastro \"O Abismo\" é reduzido por 1. No início da rodada desta unidade, ganha 1 ponto de Sonho Retalhado e inflige 1 acúmulo de Nó Rubro a um inimigo com mais acúmulos de Nó Rubro.",
@@ -459,7 +458,7 @@
   },
   {
    "id": 3,
-   "iconPath": "6ecdff74c736876295c3a2969409ec038408c32dd6bdad0549016d770b05b948",
+   "iconPath": "230b424511fcd8cf762fd715267b48490c72f14fada5a9355b92fd5a9252985b",
    "artPath": "a304e8ba19df70f659e15e0ee7c414a11f3c42856b45926818527fdee620a026",
    "name": "Mordidas Gélidas na Morte",
    "descHash": "Nv. da Perícia Suprema +2, até no máximo Nv. <nobr>15</nobr>.<br />Nv. do ATQ Básico +1, até no máximo Nv. <nobr>10</nobr>.",
@@ -467,7 +466,7 @@
   },
   {
    "id": 4,
-   "iconPath": "0b76fa7437b3ea59213281fcc50a0c10399dae3858d8ba583cfcebc3a9a8a24b",
+   "iconPath": "c31e039f4b95129e0d94b103f2f2d103313d451d651a2ec9a7297163ffa72637",
    "artPath": "96fcdaa2e5e9e27b10167c2b9c80041c606ac4a14b490971f9d85a5abbc65132",
    "name": "Fogo Sagrado da Alma Refletida",
    "descHash": "Quando o inimigo-alvo entra em combate, inflige a ele o estado de Vulnerabilidade Vulnerável do Dano da Perícia Suprema, aumentando a quantidade de Dano da Perícia Suprema recebido em <nobr>#1[i]%</nobr>.",
@@ -477,7 +476,7 @@
   },
   {
    "id": 5,
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "artPath": "c37fcc04adc70fd9e069134d95e9b81ebe81e3d75473da22d092b8634c739b85",
    "name": "Almas Espalhadas em Terras Apagadas",
    "descHash": "Nv. da Perícia +2, até no máximo Nv. <nobr>15</nobr>.<br />Nv. do Talento +2, até no máximo Nv. <nobr>15</nobr>.",
@@ -485,10 +484,10 @@
   },
   {
    "id": 6,
-   "iconPath": "ba4559da01571e6233428c99d0c8b742d2a10b64aadfb1702bf58bffc180b373",
+   "iconPath": "41bf295a83cf97873df78e0a7880441fdcbdf9ba6ab21e81168adf2439206487",
    "artPath": "f82f081f46888b3743c68c1080edc8459c751c0a8866386cdfa09f1928eda895",
    "name": "Apocalipse, o Emancipador",
-   "descHash": "Aumenta a PEN de RES a Todos os Tipos do Dano de Perícia Suprema causado por Acheron em <nobr>#1[i]%</nobr>. O Dano causado pelo ATQ Básico e a Perícia também será considerado Dano de Perícia Suprema e não pode reduzir a Tenacidade do inimigo independentemente dos Tipos de Fraqueza. Quando a Fraqueza é Quebrada, aciona o efeito de Quebra de Fraqueza de Raio.",
+   "descHash": "Aumenta a PEN de RES a Todos os Tipos do Dano de Perícia Suprema causado por Acheron em <nobr>#1[i]%</nobr>. O Dano causado pelo ATQ Básico e a Perícia também será considerado Dano de Perícia Suprema e pode reduzir a Tenacidade do inimigo independentemente dos Tipos de Fraqueza. Quando as Fraquezas são Quebradas, aciona o efeito de Quebra de Fraqueza contra Raio.",
    "params": [
     0.2
    ]
@@ -524,7 +523,7 @@
    "energy": "0",
    "id": 639823,
    "name": "Caminhos Definhados Trilaterais",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "ATQ Básico",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +684,7 @@
    "energy": "0",
    "id": 355296,
    "name": "Brilho de Oito Trovões",
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "typeDescHash": "Perícia",
    "levelReq": 0,
    "promotionReq": 0,
@@ -984,13 +983,13 @@
   },
   {
    "tagHash": "Área",
-   "descHash": "Utiliza sequencialmente Lâmina Pluvial 3 vezes e Ressurreição Estígia 1 vez, causando Dano de <span style=\"color:#c75de2;\">Raio</span> até <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#6[i]%</nobr></span> do ATQ de Acheron a um único inimigo-alvo, e causa Dano de <span style=\"color:#c75de2;\">Raio</span> até de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#7[i]%</nobr></span> do ATQ de Acheron a todos os outros inimigos.<br />Lâmina Pluvial: Causa Dano de <span style=\"color:#c75de2;\">Raio</span> igual a <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> do ATQ de Acheron a um único inimigo-alvo e remove até 3 acúmulos de Nó Rubro do alvo. Quando o Nó Rubro é removido, imediatamente causa Dano de <span style=\"color:#c75de2;\">Raio</span> igual a <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[f1]%</nobr></span> do ATQ de Acheron a todos os inimigos. Para cada acúmulo de Nó Rubro removido, o Multiplicador de Dano desta aplicação de Dano é adicionalmente aumentado, até um aumento de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[f1]%</nobr></span>.<br />Ressurreição Estígia: Causa Dano de <span style=\"color:#c75de2;\">Raio</span> igual a <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> do ATQ de Acheron a todos os inimigos e remove todos os Nós Rubros.<br />Nós Rubros não podem ser aplicados a inimigos durante a Perícia Suprema.",
+   "descHash": "Utiliza sequencialmente Lâmina Pluvial 3 vezes e Ressurreição Estígia 1 vez, causando Dano de <span style=\"color:#c75de2;\">Raio</span> até <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#6[i]%</nobr></span> do ATQ de Acheron a um único inimigo-alvo, e causa Dano de <span style=\"color:#c75de2;\">Raio</span> até de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#7[i]%</nobr></span> do ATQ de Acheron a todos os outros inimigos.<br />Lâmina Pluvial: Causa Dano de <span style=\"color:#c75de2;\">Raio</span> igual a <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> do ATQ de Acheron a um único inimigo-alvo e remove até 3 acúmulos de Nó Rubro do alvo. Quando o Nó Rubro é removido, imediatamente causa Dano de <span style=\"color:#c75de2;\">Raio</span> igual a <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[f1]%</nobr></span> do ATQ de Acheron a todos os inimigos. Para cada acúmulo de Nó Rubro removido, o Multiplicador de Dano desta aplicação de Dano é adicionalmente aumentado, até um aumento de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[f1]%</nobr></span>.<br />Ressurreição Estígia: Causa Dano de <span style=\"color:#c75de2;\">Raio</span> igual a <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> do ATQ de Acheron a todos os inimigos e remove todos os Nós Rubros.<br /><br />Nós Rubros não podem ser aplicados a inimigos durante a Perícia Suprema.",
    "ultimateCost": 9,
    "break": "15/hit",
    "energy": "0",
    "id": 439237,
    "name": "Lágrimas Vermelhas do Sonho Retalhado",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Perícia Suprema",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1355,7 +1354,7 @@
    "energy": "0",
    "id": 154710,
    "name": "As Folhas de Outono Carregam Singularidades",
-   "iconPath": "4991aa8fe3558d340c3ef2bfd5f5d9096798e6000b7e4eb0ffa01c0c148745b2",
+   "iconPath": "221738a182c2b155974a4c0c07b3a617e6dbd1d1511c63575ee795f4801160ad",
    "typeDescHash": "Talento",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1645,7 +1644,7 @@
    "energy": "0",
    "id": 954124,
    "name": "Ataque",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1667,7 +1666,7 @@
    "energy": "0",
    "id": 70769,
    "name": "Ascendência Quadrivalente",
-   "iconPath": "f994082615a6791b3f40f7fb5a4dd56345f3061eeafb844157a0cb3c1dfe8aff",
+   "iconPath": "e8eeade7747ffa2975fd8ef9f5ddc16f7a58784a2e2563665231630a5df3f390",
    "typeDescHash": "Técnica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1692,7 +1691,7 @@
    "energy": "0",
    "id": 154711,
    "name": "Lâmina Pluvial",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Perícia Suprema",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1997,7 +1996,7 @@
    "energy": "0",
    "id": 271356,
    "name": "Lâmina Pluvial",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Perícia Suprema",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2302,7 +2301,7 @@
    "energy": "0",
    "id": 954125,
    "name": "Lâmina Pluvial",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Perícia Suprema",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2607,7 +2606,7 @@
    "energy": "0",
    "id": 70770,
    "name": "Ressurreição Estígia",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Perícia Suprema",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2984,11 +2983,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "No início da batalha, ganha imediatamente <nobr>#1[i]</nobr> ponto(s) de Sonho Retalhado e aplica <nobr>#1[i]</nobr> acúmulo(s) de Nó Rubro em um inimigo aleatório. Quando o Sonho Retalhado alcançar seu maior limite, para cada ponto de Sonho Retalhado que exceder o limite, ganha 1 acúmulo de Ascendência Quadrivalente. Aumenta a contagem de acúmulos máximos da Ascendência Quadrivalente para <nobr>#2[i]</nobr>.",
+    "descHash": "No início da batalha, ganha imediatamente <nobr>#1[i]</nobr> ponto(s) de Sonho Retalhado e aplica <nobr>#1[i]</nobr> acúmulo(s) de Nó Rubro em um inimigo aleatório. Quando Sonho Retalhado alcançar seu limite máximo, para cada ponto de Sonho Retalhado que exceder o limite, ganha 1 acúmulo de Ascendência Quadrivalente. Permite que Ascendência Quadrivalente acumule até <nobr>#2[i]</nobr> vez(es).",
     "ultimateCost": 0,
     "id": 76442,
     "name": "Oni Vermelho",
-    "iconPath": "9522620e04f20b7d6b642d2e754f803373455ce52fabf7453a61015d11a48281",
+    "iconPath": "3b9e60fa6b782292abd846f1713b011be0ef91600abd22723c5243e7f058f5b4",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -3130,7 +3129,7 @@
     "ultimateCost": 0,
     "id": 76445,
     "name": "O Abismo",
-    "iconPath": "5b174d18d7e7d6aa171e07c508de164561b3c659c70e8ef91f60dc9088a477a1",
+    "iconPath": "d09b4f4b65a0a0e321126847e90435cbbbe8ee6ab8699f0906754cc21756e1d0",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -3241,7 +3240,7 @@
     "ultimateCost": 0,
     "id": 76444,
     "name": "Núcleo Trovejante",
-    "iconPath": "45e2ef4d90a9f7a28abfea0bfaf688c119eee1ffe447a2f8c6cc025f0771c7ea",
+    "iconPath": "d355b39e44c731c0f9b7ebb3f9c97541c73581178e115717bbc1635c8e67c44f",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -3426,12 +3425,12 @@
   {
    "id": 6,
    "title": "Sobre Si: Identidade",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Sonhos, em essência, não possuem nenhum propósito. Seu propósito é tecido pelos cenários da vida. Contudo, se esses cenários forem o puro \"vazio\"... então os sonhos são reduzidos a cascas desbotadas e vazias.",
    "unlockRequirement": "Desbloqueia depois de concluir a Missão de Desbravamento \"Um Passeio Entre as Lápides\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "e894a180a9981608b4c57431079623e4d13d0054cbe9a246462eea85a7491d9c",
+   "jpUrl": "2bf5db4dde1d16760266c2956d9126485b2c2a3922e94f321409c97609794e9a",
+   "enUrl": "7d605dc4ac9c7395467e9d5ebb93e8c2734a0fccd758fc8c4a35d249f3969fb2",
+   "krUrl": "2468f13e9707e8d1240d48d6b2793836f685a18fce410fa37b13d1db031c26b8"
   },
   {
    "id": 7,
@@ -3476,12 +3475,12 @@
   {
    "id": 11,
    "title": "Irritações",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Quando eu despertei daquele lugar, o horizonte no mar ainda continha raios sutis, e a chuva de sangue que caía começava a se amenizar... a visão daquele momento segue surpreendentemente clara à minha frente. Todas as outras memórias, tanto anteriores e subsequentes, se mostram irrelevantes em comparação, enquanto desaparecem lentamente.",
    "unlockRequirement": "Desbloqueia depois de concluir a Missão de Desbravamento \"Um Passeio Entre as Lápides\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "c6e3372573e30d0399079e4cf02ae8cd4c7da61603aca30dbb51045c980ac58e",
+   "jpUrl": "a047f85153c68597b61849acdfe9bb6a13fa901db41f7514ad23caebc97965e3",
+   "enUrl": "c398f29352076918b50d85342f03b741cae5aec4ed43c1690ac9b28a04dd59a2",
+   "krUrl": "ad799c9fd195e7b5a05a6a24bfc1864e5ee931e62a5d6d9984c931ab7861d45b"
   },
   {
    "id": 12,
@@ -3490,7 +3489,7 @@
    "unlockRequirement": "",
    "cnUrl": "de6dcc427794a3897ee79f1a0c3af4d9ad76f8a1e5a88b33a10c321fe319b5cc",
    "jpUrl": "677b38e00145fa37daaa71ca394a9ac88a233c0e833df62ba80934cf16231c5e",
-   "enUrl": "25a85b55b639a8172d034f42c50cf1a57536e389da3165cbda9f81a8754bc1a7",
+   "enUrl": "1438b357b3ce5962d3fa521dc251220e79cd49439fc4e7cfecc75a8e3dc8c5ce",
    "krUrl": "bb3432ece2a51edf1c8851dfa91fbbdf43fb978970cb9d3d8cea2a8a5fa16b2c"
   },
   {
@@ -3516,12 +3515,12 @@
   {
    "id": 15,
    "title": "Conhecimento: Caminhos",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Os humanos atravessam o caminho do destinho... buscando conhecimento, sedentos pela revelação, lutando pela existência...",
    "unlockRequirement": "Desbloqueia depois de concluir a Missão de Desbravamento \"Um Passeio Entre as Lápides\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "22cc19dfe635ac6e8a7c59f7cca017ee780aba9f7ba1e8350831914d6e8af883",
+   "jpUrl": "babe5ee9d6a6feaa54b5ae44851b83f4984e373f115a5fae14a49b4b282aaddc",
+   "enUrl": "55362848ae88e0e5fc6a4bc702a4f1237ad0beb112379c475cf15afe02f4691d",
+   "krUrl": "e7b4944732f4f07d1c4ef8abd2847b0af4f5f888a709d898962417399ae9e284"
   },
   {
    "id": 16,
@@ -3662,6 +3661,26 @@
    "jpUrl": "d9509528f3e8a4d73459b1303d41d60d85a2b68015a569eac05abe719cef9299",
    "enUrl": "b5fa0dda88deea8498c474a3f5a1f2f16f7ee1ce2bef31c61fc5d55a5b7eb110",
    "krUrl": "e6cab93f80f2c2269cda7f9a17797add8cc6d8a75638dbe2abd5ce17bc643e42"
+  },
+  {
+   "id": 30,
+   "title": "Sobre o Boothill",
+   "text": "Vigia da Galáxia... Sua afiliação com a organização não passa de um disfarce. É evidente que este homem só vive por seus próprios princípios, e é exatamente por isso que eu acredito nele.",
+   "unlockRequirement": "",
+   "cnUrl": "11bef2f1393fee88be482c7b80e4eecf159dff22c53dff07cf5254e0045baaa3",
+   "jpUrl": "d4c4dcaec1a75f8352b5a176aeae3979f3be9c32a35222a305b27b529d51e130",
+   "enUrl": "6b28895670d2707d6009c006ad153caf464e3a9a30449dedcfdfcdd499d3cee2",
+   "krUrl": "ecb611967f5f8f611d7ef0f7ada8ebae6174e407b41b85307e5694d7c1116383"
+  },
+  {
+   "id": 31,
+   "title": "Entrou na Equipe com Boothill",
+   "text": "Você é bem ágil... já pegou sua arma?",
+   "unlockRequirement": "",
+   "cnUrl": "920e3198955bc657460319070b5eb772d76ddc133bc5977b6d2daed7cd0eea9b",
+   "jpUrl": "3afc98dc66137c9e09feaab97d7c5299727f4f4c3502bc28452136124c32c282",
+   "enUrl": "0bbd53ac6d16e596df6b7e9e5b30f39c9d113c0478b6d24a7244020a021aed63",
+   "krUrl": "2a43910a31a4add9b1250a31b106d9b08efcd2f03302c607e3636abfdb131b4b"
   },
   {
    "id": 51,
@@ -3831,7 +3850,7 @@
    "cnUrl": "0acc28a4f99053d4d8960c0c81e110940ba1553db42f7db992ecff0c1250f46b",
    "jpUrl": "51908b0ad7629a9abf94fda0e1627e50fba3a9cada5f59e07a02f0914b10b6e9",
    "enUrl": "9ca2eab1f57dd43a35fc174d3a063180511c822d9ebdf02b2fc5de259c17da70",
-   "krUrl": "2469e88654b183a9dc08635e8073add024803111f176f6974172bdd5b98f8275"
+   "krUrl": "7afda6b1f112d18625c2a50fb0d7ffa2bf2d1d325b2ebc81623bbf2be485eb1c"
   },
   {
    "id": 68,
@@ -3912,7 +3931,7 @@
   },
   {
    "title": "História de Personagem: Parte I",
-   "text": "\"... Guerreiros não escolhem suas lâminas, mas suas lâminas os escolhem. ██████████████████████████████████████████████████████████████████████████... Naquele dia, enquanto via a lâmina que eu criara ser passada para aquela garota, percebi que, na luta contra ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇, ela escolhera – ou fora escolhida para – abraçar o caminho que ▇▇▇▇▇▇▇▇▇ a levou rumo a um novo amanhã. ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ que houvesse um belo futuro. Apesar do perigo que se aproximava do Reino de Izumo, seu povo se agarraria à esperança, acreditando que, um dia, derrotariam ▇▇▇▇▇▇▇▇▇, e, então, o mundo estaria livre... ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇...\"<br /><br /><align=\"right\">– Antigo Manuscrito Espalhado</align>",
+   "text": "\"... Guerreiros não escolhem suas lâminas, mas suas lâminas os escolhem. ██████████████████████████████████████████████████████████████████████████... Naquele dia, enquanto via a lâmina que eu criara ser passada para aquela garota, percebi que, na luta contra ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇, ela escolhera – ou fora escolhida para – abraçar o caminho que ▇▇▇▇▇▇▇▇▇ a levou rumo a um novo amanhã. ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ que houvesse um belo futuro. Apesar do perigo que se aproximava de Izumo, seu povo se agarraria à esperança, acreditando que, um dia, derrotariam ▇▇▇▇▇▇▇▇▇, e, então, o mundo estaria livre... ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇...\"<br /><br /><align=\"right\">– Antigo Manuscrito Espalhado</align>",
    "unlockRequirement": "Desbloqueado no Nível <nobr>20</nobr> de Personagem"
   },
   {
@@ -3932,22 +3951,22 @@
   },
   {
    "title": "História de Personagem: Parte I",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"...Guerreiros não escolhem suas lâminas, mas suas lâminas os escolhem. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Do mesmo modo que as pessoas não escolhem seu destino, mas, sim, o destino as escolhe</span>... Naquele dia, enquanto via a lâmina que eu criara ser passada para aquela garota, percebi que, na luta contra <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Yaoyorozu-no-Kami</span>, ela escolhera – ou fora escolhida para – abraçar o caminho que, <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">aparentemente</span>, a levou rumo a um novo amanhã. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Como eu queria que houvesse</span> um belo futuro, que apesar do perigo que se aproximava do Reino de Izumo, seu povo se agarraria à esperança, acreditando que, um dia, derrotariam <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">os deuses malignos</span>, e, então, o mundo estaria livre... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Mas foi somente quando a luz da lâmina diminuiu que me dei conta: este é um impasse sem escapatória, e quem se aventura nele não tem como voltar</span>...\"<br /><br /><align=\"right\">– Antigo Manuscrito Espalhado</align>",
    "unlockRequirement": "Desbloqueia depois de concluir a Missão de Desbravamento \"Um Passeio Entre as Lápides\""
   },
   {
    "title": "História de Personagem: Parte II",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"...Por meio dos pergaminhos deixados pelo forjador de lâminas, descobrimos que Izumo já esteve à beira da destruição. Para sobreviver, eles forjaram lâminas a partir <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">dos restos dos deuses</span>, e aqueles que as empunharam foram aclamados como salvadores do reino. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">A Guilda estava interessada na enigmática figura de Yaoyorozu-no-Kami, mencionada nos pergaminhos, mas o Caminho ao qual Yaoyorozu está associado permanece envolto em mistério. Em relatos posteriores, o povo de Izumo deixou de se referir aos portadores das lâminas como 'heróis', passando a chamá-los de 'fantasmas'.</span><br /><br />Infelizmente, o mundo há muito tempo desapareceu dos mapas astrais. A verdadeira história nos é desconhecida, e a Recordação não tem mais seu lugar. Quando os Arqueólogos Armados chegaram, a galáxia ressoou apenas a melodia do Enigmata: lágrimas, o derramamento interminável da chuva do <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Sol Escuro</span>. Sob a cortina da fé, uma sobrevivente parte de sua terra. Seu lar, <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">outrora salvo, foi varrido por suas mãos</span>... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Sombras invisíveis adiante turvavam sua visão.</span>\"<br /><br /><align=\"right\">– Oppenheimer, Escrevente</align>",
    "unlockRequirement": "Desbloqueia depois de concluir a Missão de Desbravamento \"Um Passeio Entre as Lápides\""
   },
   {
    "title": "História de Personagem: Parte III",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"Usei a tintura 'Revitalização<nobr>-310</nobr>', que induz um sono profundo, permitindo que os indivíduos revivam suas lembranças. Embora alguns pacientes tenham achado <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">conforto e redescoberto a esperança</span>, ela se mostrou uma exceção. Ninguém nunca acordou de seu estado de sono, mas ela desafiou as probabilidades. Observei de perto seus sonhos... e dificilmente seria possível chamá-los de momentos felizes: céus sombrios, cidades ruindo, terras devastadas e chuvas incessantes.<br /><br />A chuva nunca parava. Em meio à tormenta, indivíduos exibiam sorrisos até enquanto se afogavam, e, na escuridão que nos engolia, ouvi um trovão distante. Até que, num momento, um relâmpago rasgou o véu da noite. Sob o céu partido, eu a vi mais uma vez: num mundo que desaparecia, ela ergueu a espada com elegância, eliminando o reino inteiro de sonhos.<br /><br />Admito que ela se aventurou além do nosso progresso neste caminho. A elusiva <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Inexistência</span> a convoca à <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">autodestruição</span>, mas ela segura as rédeas sutilmente. Talvez, tenha sido preparada para confrontar o verdadeiro inimigo desde o início de sua jornada... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Certa vez, perguntei a ela qual era o propósito por trás de tudo, mas ela permaneceu em silêncio. Será que lhe faltaram palavras? Ou ela já tinha uma resposta em mente?\"</span><br /><br /><align=\"right\">– Bilhete de um <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Doutor do Caos</span></align>",
    "unlockRequirement": "Desbloqueia depois de concluir a Missão de Desbravamento \"Um Passeio Entre as Lápides\""
   },
   {
    "title": "História de Personagem: Parte IV",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"Deixo esta carta aqui. Caso eu não retorne, que esta carta sirva de testemunha da história de alguém que encontrei em <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Orkron</span>. A viagem para o outro lado foi perigosa, e foi graças a ela que consegui ir até o fim. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Quando a encontrei, parecia que ela estava em certa jornada, talvez em busca de vingança. Mas logo percebi que não era esse o caso, já que alguém consumido pelo ódio inevitavelmente acabaria expondo-o, enquanto ela permanecia notavelmente calma, com poucos sinais de tristeza...</span><br /><br />...Ela já atravessara inúmeros mundos antes de nossos caminhos se cruzarem, e tinha muitas habilidades de sobrevivência. Cozinhamos e montamos acampamentos na selva. Em noites sem estrelas, ela ouvia minhas histórias e traçava planos para o dia seguinte. Contudo, na maioria das vezes, viajávamos em silêncio. A neve aqui tem um tom roxo-avermelhado, com o gosto azedo das framboesas. Embora <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">tenha quase perdido o paladar</span>, ela aprecia as rosquinhas de neve de Orkron que preparo...<br /><br />...Antes de encontrá-la, eu passara muitos anos atravessando o rio da <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Inexistência</span>. Ela me ofereceu sua mão, e percorremos o rio. Agora, chegou a hora de nos despedirmos, e ainda não cheguei à margem, com medo do que posso encontrar à frente... Ainda assim, não vejo motivo para interromper minha jornada. A vida não passa de uma estrada que culmina em algo, e, até que esse momento chegue, vou continuar avançando. Ela com certeza faria o mesmo.\"<br /><br /><align=\"right\">– Bilhete de <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Frebass</span></align>",
    "unlockRequirement": "Desbloqueia depois de concluir a Missão de Desbravamento \"Um Passeio Entre as Lápides\""
   }
  ],

@@ -6,9 +6,8 @@
  "fgPath": "fc4cd3ece56b1e04d6fb0b61ad38abd25f0c03437b35b93aa232a854e6fa0045",
  "splashIconPath": "fec4c21cfb55059d506ad72c169042c83ebbbf369772e167b43fcbd2ed5bcf86",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRp4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAsBAAABkKtt2yFJb/01tm1b0axtp8iNUAdgpnttboeKGNv2bmRW/d/7LqrPISImAMkOAHLLJrUidQC4jKYVN1/5OXApEG6+dPujJM1FmBCWhGclyTzjAaQDCLDwwEV5b0aaDlXj/6zrkpGkROrplgY4TI4UU5REKRb74DBJ/P8/0msnXIhFMiqZVNQFh+CcPJkkem1EiLG/RYpMkOnDCLBWpFKTsdZixkMfy0RS/I/2ZdkSmT/6XjQaRUqRthYdNG24pkiUUaTpUyfK9t/sOyZ91kfJRNOXPocpywuX3tnSOGPqzd+KvOn3AFDjgHK4MtSe/iFJD2oRAAEQpOcBGN148Uu8G8kBAAQA0uqrigAAVlA4IGwBAAAwCACdASoUABQAPm0uk0ckIiGhKAqogA2JaACdMoMpLIBzJPqA0QDrbvKAuUBsTUwD9Zg4naA0atClntVnN7GX07RL471+vwFnAAD+8rOKuPKZ/bI+jpLQZ9+/lYL1ODr/A9SUHSOqEaKeX2e5S6sxX4TTnXfJuaCVLl0sf10olNHRKbSf46zp+vwRVI93DaHAbaj9Cx/UvK6rfCkrhP0/plzmaH9l1COyoP1H4tLxhDTyESk7n/FmDuV4FLAPZbUxKHLJdkW0I6mXsH5s396jmYFnZwpuS5YRAl0TWps1ITA5+QrHUP4wtw4RQDC3TekljZ7ANR3gATIaJatdENzL2fXMJ1oVb+kau0/2zeU8Q5tH9HJn+VD6AYIaaEm6CPVVbr7WcmULl3dNUr3rRoY64xAUp7eehmgEz5au17F/ktjqnp675OnE274IrG8gc+Zupbpwzv8qX1j8zc8sB2Df1qIlc+7LsWwaAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "1c02d236c265b252501946163a123ea0024914f3d7bb717e614b53fba6918e90",
+   "iconPath": "a6815cab69cdf8215c1015fbd8afb8cfbe6e874690f14c13cd09049ed2809e1e",
    "artPath": "06ec5979cd3faee0259917c4277a3482c61fc21583cfc68a7801eaa82fb56a3c",
    "name": "Salty Dog",
    "descHash": "Sau khi Gallagher vào chiến đấu sẽ hồi <nobr>#1[i]</nobr> Năng Lượng, Kháng Hiệu Ứng tăng <nobr>#2[i]%</nobr>.",
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "bca9a8c6f1a873ff76cd0bd120473dcf660321c5bad73cffd7a9fbc7e7d25f04",
+   "iconPath": "f826cc6880d90b1638995727f9842aaf92e55844275821b850f9678d7bec650b",
    "artPath": "ded57e58a83be469fd8bc1744197764e5065f70e4a2c6570244066ddf5e3efbe",
    "name": "Lion's Tail",
    "descHash": "Khi thi triển Chiến Kỹ, giải trừ <nobr>#1[i]</nobr> Hiệu Ứng Xấu của 1 đồng đội chỉ định, đồng thời khiến Kháng Hiệu Ứng của đồng đội đó tăng <nobr>#2[i]%</nobr>, duy trì <nobr>#3[i]</nobr> hiệp.",
@@ -463,7 +462,7 @@
   },
   {
    "id": 3,
-   "iconPath": "652c00cd672620ec1aa067b20fae0232fc92babfa0b9906c6e29073258d65708",
+   "iconPath": "66506d57a314cb46a24df8d3eb1f3bd09fe89bd1345da59246d8aaf909de3a87",
    "artPath": "36eb269de21bb98b287d2d099d742874a7d6b9ce650d373464c2027232bd7141",
    "name": "Corpse Reviver",
    "descHash": "Cấp Chiến Kỹ +2, tối đa không quá cấp <nobr>15</nobr>, Cấp Tấn Công Thường +1, tối đa không quá cấp <nobr>10</nobr>.",
@@ -471,7 +470,7 @@
   },
   {
    "id": 4,
-   "iconPath": "fe8d6bf3a18fc26d322b5cca6c7cf4387132c388b6baa6497c8d5ce03f70a8de",
+   "iconPath": "150811799b4c3e0b61078521022a8549bca30ffd1839ad0569a59bbf6bcd120b",
    "artPath": "5bedaf59fb700ad0c8b2b49fd1d4bf463c3399177ca4afaf6be3bb2a8cd14b22",
    "name": "Last Word",
    "descHash": "Thời gian duy trì trạng thái \"Say Mèm\" do Tuyệt Kỹ của Gallagher gây ra kéo dài <nobr>#1[i]</nobr> hiệp.",
@@ -481,7 +480,7 @@
   },
   {
    "id": 5,
-   "iconPath": "a9226a33341e99eabe22b8d047cc5588f9d7e4e595f7d73c3c4268182975f063",
+   "iconPath": "5bb3bcf775d9025cc8a4545fffbcc0711b6e705f1b8710fab39ebd255234f2b6",
    "artPath": "1fc609b3622445a163df19949106991915a3002f4f13ae3bd6c3fe85e6e9adcb",
    "name": "Death In The Afternoon",
    "descHash": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp <nobr>15</nobr>, Cấp Thiên Phú +2, tối đa không quá cấp <nobr>15</nobr>.",
@@ -489,7 +488,7 @@
   },
   {
    "id": 6,
-   "iconPath": "85634385782afd2654b6f901572c0de58b4deeffae0002918c7dd583be8ed7b9",
+   "iconPath": "be93375a51e55caf188d75fcd5bc56ae1343b55bccacd33b5d7989489de86a8a",
    "artPath": "9eb1f3131de5313ed323aba03f32fe28eb650194cade404055eb5ccce661cb96",
    "name": "Blood And Sand",
    "descHash": "Tấn Công Kích Phá của Gallagher tăng <nobr>#1[i]%</nobr>, hiệu suất Phá Vỡ Điểm Yếu tăng <nobr>#2[i]%</nobr>.",
@@ -526,7 +525,7 @@
    "energy": "20",
    "id": 426146,
    "name": "Phí Mở Chai",
-   "iconPath": "5f7218bd22632454e4e7f7828aba4370abb31ca24b94fff192c8db547e6c4894",
+   "iconPath": "d7e1005512962c6e7618f48564fe8271bfb975599e826ed0eceac6d417417fb7",
    "typeDescHash": "Tấn Công Thường",
    "levelReq": 0,
    "promotionReq": 0,
@@ -687,7 +686,7 @@
    "energy": "30",
    "id": 342205,
    "name": "Thức Uống Ủ Đặc Biệt",
-   "iconPath": "652c00cd672620ec1aa067b20fae0232fc92babfa0b9906c6e29073258d65708",
+   "iconPath": "66506d57a314cb46a24df8d3eb1f3bd09fe89bd1345da59246d8aaf909de3a87",
    "typeDescHash": "Chiến Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -958,7 +957,7 @@
    "energy": "5",
    "id": 258264,
    "name": "Nghi Lễ Champagne",
-   "iconPath": "6fc2e1dbc75c2594a415129007f14e24741480f254d28b0bc4c6140cffaab646",
+   "iconPath": "af66914c3bf9726553eaecc0dadb86904327b00f631ea74eed784165db04a7cc",
    "typeDescHash": "Tuyệt Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1238,13 +1237,13 @@
   },
   {
    "tagHash": "Hồi Phục",
-   "descHash": "\"Say Mèm\" sẽ tăng <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> Sát Thương Phá Vỡ mà mục tiêu phải chịu. Sau mỗi lần mục tiêu ở trạng thái \"Say Mèm\" bị nhân vật phe ta tấn công, sẽ hồi <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]</nobr></span> HP cho người tấn công.",
+   "descHash": "\"Say Mèm\" sẽ tăng <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> <u>Sát Thương Phá Vỡ</u> mà mục tiêu phải chịu. Sau mỗi lần mục tiêu ở trạng thái \"Say Mèm\" bị nhân vật phe ta tấn công, sẽ hồi <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]</nobr></span> HP cho người tấn công.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 141619,
    "name": "Cuộc Chiến Say Ngà",
-   "iconPath": "40eb47c7f88c24abedb09c676140e2073e1dcc95b2e30129050b9ce13a8d800f",
+   "iconPath": "125b563450c04a008ebaf5b7c1006044c798c3cdeb307e62a4c98327eb9cb945",
    "typeDescHash": "Thiên Phú",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1530,7 +1529,7 @@
    "energy": "0",
    "id": 973737,
    "name": "Tấn Công",
-   "iconPath": "5f7218bd22632454e4e7f7828aba4370abb31ca24b94fff192c8db547e6c4894",
+   "iconPath": "d7e1005512962c6e7618f48564fe8271bfb975599e826ed0eceac6d417417fb7",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1552,7 +1551,7 @@
    "energy": "0",
    "id": 857092,
    "name": "Rượu Ngọt Thủ Công",
-   "iconPath": "8362bd58df7311412cb3d5800cab4697f28697fbc4e4356d58f505197ac69563",
+   "iconPath": "c7c87d29b4475a190138c950a3dc7052be8c56e57a179ca25b2efd5cabfd0e1a",
    "typeDescHash": "Bí Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1577,7 +1576,7 @@
    "energy": "20",
    "id": 312431,
    "name": "Hoa Rượu Tuôn Trào",
-   "iconPath": "587e67b212907295d75b9f47a763d27e8df0f217fcbac2b18dc54e4f5dec8b33",
+   "iconPath": "459ec8b0eaa2512f7da264037b0b9e3483d7a0e1520c224fb96859e8f0800a63",
    "typeDescHash": "Tấn Công Thường",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1862,7 +1861,7 @@
     "ultimateCost": 0,
     "id": 63351,
     "name": "Công Thức Mới Mẻ",
-    "iconPath": "b42c59cf6ec75a9e2dab964bec6f26bb8e68b5f48ea423cf4acaa3a0f2f12a5e",
+    "iconPath": "ee47d1da06e734287b6ca33d050ff9f853ac1006aa82b06c1f0bb6a8740db109",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2004,7 +2003,7 @@
     "ultimateCost": 0,
     "id": 63354,
     "name": "Men Ủ Tự Nhiên",
-    "iconPath": "08d1f6474537cd68e555067fcfe1f705163e68be4e4443850976263463f41f67",
+    "iconPath": "d0f52a86a6b7671f36cbf368dfa92dc702a4d9000a4beb2c5f9ee76bc9fd3b52",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2112,7 +2111,7 @@
     "ultimateCost": 0,
     "id": 63353,
     "name": "Xin Mời Cạn Ly",
-    "iconPath": "f86a0b231a9cd7d4fb77d0ae28d748e94c9196d544b305f1f36fbeacd61d1de8",
+    "iconPath": "f4820a18f90d0ba15509551d075885ff53211a52cfc00a5be778a6aec054feb3",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2448,6 +2447,26 @@
    "krUrl": "e343711f45694dc8460f8d6e3010a25bc2856881033a79ebc095c0edfc8e5973"
   },
   {
+   "id": 22,
+   "title": "Về Misha 2",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Sau Đó, Vào Ngày Thứ Tám...\" sẽ mở khóa",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 23,
+   "title": "Điều Chỉnh Đội-Robin",
+   "text": "Tương lai, bất kể tôi ở nơi đâu, chắc chắn tôi vẫn sẽ có thể nghe thấy tiếng hát của cô ấy.",
+   "unlockRequirement": "",
+   "cnUrl": "2f3add232ef4d1fb4aa74d761a4b9c20cfbbb44ed78c8279a735c0096f6134aa",
+   "jpUrl": "b94f072015ddfccc77cad8d6a36355ffb91a1b0ba701ace6cdf47a816db615a3",
+   "enUrl": "20b71043013b91f75dfd27f9fff80f6a3af4de90769538b051f7df96a882f0fe",
+   "krUrl": "7a6c6a21597407ba54450c4218553eb5db34b85e224afff9bc6fc140fabb4754"
+  },
+  {
    "id": 51,
    "title": "Chiến Đấu Bắt Đầu-Phá Vỡ Điểm Yếu",
    "text": "Trình độ chỉ thế thôi sao?",
@@ -2711,12 +2730,12 @@
   },
   {
    "title": "Câu Chuyện Nhân Vật 2",
-   "text": "\"Giữa người với người luôn cần một cơ hội nào đó để bắt đầu giao tiếp, những món đặc sắc trong giấc mộng đẹp chính là chất xúc tác cho các phản ứng hóa học.<br /><br />Tôi nhìn quanh và nhanh chóng tìm thấy một hình tượng điều hướng khéo léo trong cuộc sống.<br /><br />Mượn cái tên Đặc Sắc Mộng Đẹp, anh ấy bắt đầu kể từ lịch sử của Siro và SoulGlad, giải thích cho khách hàng về mối quan hệ giữa thời gian và hương vị của thành phẩm, tiếp đó là độ tương thích giữa hương thơm của món đặc sắc và tính cách một người, làm thế nào để nắm vững bí quyết kết hợp thành phần... Những khuôn mặt xung quanh chìm trong bóng tối, anh ấy đang lắng nghe những lời dong dài bi thương hoặc là vui mừng, và nhìn vào trái tim mọi người bằng ánh mắt lạnh lùng trong khung cảnh tiệc tùng say sưa.<br /><br />Anh ấy đợi khách lần lượt giải tán, một mình lau chùi bóng loáng ly rượu bạc rồi nhìn ra ngoài cửa. Ngày qua ngày, anh ấy đợi một người không bao giờ quay lại, đợi người đó cho anh ấy một lời nói dối vĩnh viễn để kết thúc vận mệnh dài đằng đẵng này.<br /><br />Tất cả đèn đã tắt, anh ấy một mình bước đi trên phố, chiếc bóng trải dài trên mặt đất...<br />Có lẽ, cuối cùng tôi cũng sẽ bước chân vào con đường định mệnh giống như anh ấy.\"<br /><align=\"right\"> - \"Bút Ký: Bậc Thầy Pha Chế Mộng Đẹp\"</align>",
+   "text": "\"Giữa người với người luôn cần một cơ hội nào đó để bắt đầu giao tiếp, những món đặc sắc trong giấc mộng đẹp chính là chất xúc tác cho các phản ứng hóa học.<br /><br />Tôi nhìn quanh và nhanh chóng tìm thấy một hình tượng điều hướng khéo léo trong cuộc sống.<br /><br />Mượn cái tên Đặc Sắc Mộng Đẹp, anh ấy bắt đầu kể từ lịch sử của Siro và SoulGlad, giải thích cho khách hàng về mối quan hệ giữa thời gian và hương vị của thành phẩm, tiếp đó là độ tương thích giữa hương thơm của món đặc sắc và tính cách một người, làm thế nào để nắm vững bí quyết kết hợp thành phần... Những khuôn mặt xung quanh chìm trong bóng tối, anh ấy đang lắng nghe những lời dông dài bi thương hoặc là vui mừng, và nhìn vào trái tim mọi người bằng ánh mắt lạnh lùng trong khung cảnh tiệc tùng say sưa.<br /><br />Anh ấy đợi khách lần lượt giải tán, một mình lau chùi bóng loáng ly rượu bạc rồi nhìn ra ngoài cửa. Ngày qua ngày, anh ấy đợi một người không bao giờ quay lại, đợi người đó cho anh ấy một lời nói dối vĩnh viễn để kết thúc vận mệnh dài đằng đẵng này.<br /><br />Tất cả đèn đã tắt, anh ấy một mình bước đi trên phố, chiếc bóng trải dài trên mặt đất...<br />Có lẽ, cuối cùng tôi cũng sẽ bước chân vào con đường định mệnh giống như anh ấy.\"<br /><align=\"right\"> - \"Bút Ký: Bậc Thầy Pha Chế Mộng Đẹp\"</align>",
    "unlockRequirement": "Nhân vật đạt cấp <nobr>40</nobr> mở khóa"
   },
   {
    "title": "Câu Chuyện Nhân Vật 3",
-   "text": "\"Trong giấc mộng đẹp chỉ có niềm vui, đó cũng chính là nỗi buồn lớn nhất.<br /><br />Những người lạc lối trong giấc mộng đẹp này sợ bị Gia Tộc trục xuất, giống như những bóng ma đang đi ở ranh giới của Cõi Mộng, cẩn thận che giấu cảm xúc của mình, tránh xa những ký ức khổ đau chua chát, chỉ khi uống thứ nước đặc biệt đó, phòng tuyến trong lòng họ mới bị vỡ thành từng mảnh, như thể muốn nói hết những lời cuối cùng trong cuộc đời này...<br /><br />\"Người coi thường tôi có thể xếp vòng quanh quán bar 3 vòng, nhưng người sẵn sàng nhìn thẳng vào tôi... Haiz, chết một người thì lại thiếu đi một người...\"<br />\"Mỗi người đều đang nằm mơ giữa ban ngày. Khi bằng tuổi cậu, tôi chỉ muốn trở thành một tên lưu manh giữa các vì sao. Kết quả hiển nhiên, hà... giấc mộng vỡ tan.\"<br />\"Cà vạt lệch, bản thân lại không thể thấy. Ở Penacony, không có ai quan tâm đến việc người khác đang mặc gì. Thậm chí họ còn không quan tâm người kia có phải là \"con người\" hay không\".\"<br />...<br /><br />Họ nói một đằng nghĩ một nẻo, họ không biết chọn từ diễn đạt, họ không bao giờ nói ra suy nghĩ trong lòng... Nhưng chỉ có như vậy thì câu chuyện mới chân thực.\"<br /><align=\"right\"> - \"Bút Ký: Người Lạc Lối Trong Giấc Mơ\"</align>",
+   "text": "\"Trong giấc mộng đẹp chỉ có niềm vui, đó cũng chính là nỗi buồn lớn nhất.<br /><br />Những người lạc lối trong giấc mộng đẹp này sợ bị Gia Tộc trục xuất, giống như những bóng ma đang đi ở ranh giới của Cõi Mộng, cẩn thận che giấu cảm xúc của mình, tránh xa những ký ức khổ đau chua chát, chỉ khi uống thứ nước đặc biệt đó, phòng tuyến trong lòng họ mới bị vỡ thành từng mảnh, như thể muốn nói hết những lời cuối cùng trong cuộc đời này...<br /><br />\"Người coi thường tôi có thể xếp vòng quanh quán bar 3 vòng, nhưng người sẵn sàng nhìn thẳng vào tôi... Haiz, chết một người thì lại ít đi một người...\"<br />\"Mỗi người đều đang nằm mơ giữa ban ngày. Khi bằng tuổi cậu, tôi chỉ muốn trở thành một tên lưu manh giữa các vì sao. Kết quả hiển nhiên, hà... giấc mộng vỡ tan.\"<br />\"Cà vạt lệch, bản thân lại không thể thấy. Ở Penacony, không có ai quan tâm đến việc người khác đang mặc gì. Thậm chí họ còn không quan tâm người kia có phải là \"con người\" hay không\".\"<br />...<br /><br />Họ nói một đằng nghĩ một nẻo, họ không biết chọn từ diễn đạt, họ không bao giờ nói ra suy nghĩ trong lòng... Nhưng chỉ có như vậy thì câu chuyện mới chân thực.\"<br /><align=\"right\"> - \"Bút Ký: Người Lạc Lối Trong Giấc Mơ\"</align>",
    "unlockRequirement": "Nhân vật đạt cấp <nobr>60</nobr> mở khóa"
   },
   {

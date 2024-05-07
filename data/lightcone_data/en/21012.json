@@ -5,9 +5,8 @@
  "iconPath": "ce783c2dd367f2b8f2d2f5c939bd54da806a8f09425a799937cbe68d80268755",
  "artPath": "fad104fc6aec321b9a02d9eaae519b9144968c7ad58aaf0ab9e6e589ec846f33",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRpABAABXRUJQVlA4IIQBAAAQBwCdASoUABwAPm0wlUakIqIhKAqogA2JQBOmXEPQzR6ZXvLdYdrq1t453JcWsb+mlG9C7HmIX6xJ7tmnvUVQAAD+m9zKIQNb6oPb6Jh1yzkIOSRArdamS4cmi3a5ZW6hx8JCZndGaioHt861v0S4fk0pb4Tcpp/cQxKPmkUXUsdZmjR4subm5jmXcEWZH4WAP5vjdNOfe/5eO9gn6iMp4KvcBLcOzuSCppxKqTR8P5Fc/oK5S0PfZ1bpdo/jS9Ff8vwr8LOHX87o5a/7BnOb1+Z5Ov55+UERF64pebQ+9IC7cba1gdE1Vdw0K6n5c11165JZtupzzLuXNGtoCDtUX8NKuYN5DGxuAQ+OGdafxPwbBDzxIHYDWjv3adztW7RK3Y5zLi82Q/Azbq1VXUeELstnPmKboWsh0ofdKLrR88k2FlID09BGCzWWGLf5tzOCYpwcHV4p2h/gtozklpgx29Z3bv8ItQk9e23jfzdWGLLwEid6hTQyTNIRJHEL9KF5rQAA",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "18c8400e1e54447b1705d5ea3c96fe676d4626fbfd5da832e22b8a1694e6107d",
  "baseType": {
@@ -92,7 +91,6 @@
    "rewardPath": "/material/635673",
    "comeFrom": [
     "Calyx (Storage Zone)",
-    "Calyx (Storage zone)",
     "Embers Exchange",
     "Omni-Synthesizer — Material Exchange"
    ]

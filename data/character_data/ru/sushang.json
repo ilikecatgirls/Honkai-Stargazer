@@ -6,9 +6,8 @@
  "fgPath": "2e9da4befdac98ad2633027365b60298d236ca6ce9fd0896f2dec33073474a40",
  "splashIconPath": "b86ed618c16cf8af3a5acca21fde505bb4d30a597618167cd8c25575da3678e8",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRowCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAkBAAABkGNb27E91/O+f2zbto3Wtp10SW9MwEmnynZS2rY1ABvPe53iwxgiYgKUPwmSxk9T0UGav37l180KxWjACeB1s4ppoTRpdQr/493i/qFAqjpLb8XMGcxTkhOk9kfAxpElKiUpUZh1IP6xbf6zRyqVShUPQ4axHTnRaVl3hVrXiZmNwebPd3Y3VtNtn7AxGJyxrEYVlRr7LSevidyvqERTweTawH9u9lWjk3d/Y8Bgm788V8NN239hG2wb/2eXNOoj/2PmXIwjz8onWkzezBgDcZASTXp6/sPP7zhmtuOPYcpfZ8iQK0DGufptKqeSgnLLznv88y+/1nWvqvwhTaQKzXsOHju7WYkAAFZQOCBcAQAAsAcAnQEqFAAUAD5tMJJHJCKhoSgKqIANiWwAuzMziDnC/S7YDn0fQBvFe8lVwBQI7twMjHKfSamicDQ2+zNtVnk+3CMLAAD9G6off+tW0Kf5JBBnDWCXLSLYqGn299yahF2DasIDB+qOWX57OV1qp6Vs+dPHnrpO7O08WwC6LAOg35OmoHKD0mVQoMYJ0IVJuWPuDqK5M0a82XhhFaic/BRBxL6yFN2u2VnUyi8ZGv/vpgkRK+4W9WoO8SoCvyz53lDv3bznRtmlYwirmaJov9omeiOp8OpJT3XV5Hxxvy99ISH0+S2w7Yiq/evrN9/5/8JfEHX/j3Vv9iBRd/6qLHwETfEZTAPyd1xbZ+VwpsrH9kgus37jfoHy7aQQzb7eDFgASfTfWL0qUwYTs9Nc/7yG/y/OPE/+YS4qSf9PmyadtKjgkjgdqA0wte671DMOU6dKjAYPhJjoAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2595,7 +2594,7 @@
   {
    "id": 70,
    "title": "Открытие сундука II",
-   "text": "Этот прибор - то, что надо!",
+   "text": "Этот прибор - то что надо!",
    "unlockRequirement": "",
    "cnUrl": "e2be16c880edf300030ce7239562ac5b5eac55130b2227b4646d6f65a888fa11",
    "jpUrl": "7446493657f003ed4cd4f8af0d781df9c5d1ec53734d4a3c624b4f99c6f7efba",

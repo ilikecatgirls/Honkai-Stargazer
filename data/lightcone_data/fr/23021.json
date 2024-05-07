@@ -5,9 +5,8 @@
  "iconPath": "0c2e20c23cf12e8893e0ef5288b676c8397e714a44ebfd9354249a3cfcd31702",
  "artPath": "34eb5a1e8dc9541b6b476ced5dc88ba3c789f0c6a22cf15e9194472e45cc367e",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAACQCACdASoUABwAPm0skkWkIqGYBABABsS2AE6ZQd0G6zcCDAbZPnnNMA3nR8ee+iYqzvPuw4Su/O9yiiMGbJtDgl7SUfdJuIO3mCuYAAD++ff5Kv/JYYalo76ot5OBS2lUg4kuWK1gQlyl+xUhc6hLcwvjl92Uup2cvt2yQCbF0M5giGRHHpQuUjJUi791etf3jWtEED7T9J2t0jWEkUakCA4o6HBrt4tSBiXtqRwKucinhfhb5i+WA0gxCoFd1h2+G1E2nN3uHYOD0Wc+NkQCX9NoD2szjs+g5Mv6++Azj+vFt/+UgMDRYPgfcA7IhEPRsv1CkMmxznzyTVztavWbRRcwGNKBMemKrrK/OOmS7+892QA/843fFRnyYLjRUzpayzX/cNtfWlu+h8L1EPVoJxg+qymrGRgSOr+iOwJtcRIGfzyGiJn7NXngmyuKhVeuqb1G9HjRVQxrvyLI+qxYW0hQ4E3zZxLbEqVPlN0y78Tk/1Fj/9la3O+qDYeLGZHemXkKicbRDaqdhRmOdQ8ayF+q0kzVaNvlQBegONhvaDZXGTkZAgC500AAAA==",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "2e9d12fcb6d8465d07a5be26f87d8eef20f97920e1cba487921a1e1f5122818e",
  "baseType": {
@@ -101,7 +100,7 @@
    "purposeId": 3,
    "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
    "name": "Mélodie céleste",
-   "desc": "Mouvements symphoniques du cosmos. Permettent d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
+   "desc": "Mouvement symphonique provenant de l'univers. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
    "lore": "Musique issue de l'ordre. Résonne discrètement depuis les cieux, noyée dans le silence, telle une étoile solitaire brillant dans une rivière stellaire.<br /><br />« Personne ne la ressent avant qu'elle tombe dans l'oubli... »",
    "purpose": "Matériau de Trace<br />Matériau d'élévation de cône de lumière",
    "rarity": 4,
@@ -358,7 +357,7 @@
  "skill": {
   "id": 23021,
   "name": "Caprices",
-  "descHash": "Augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> les DGT critiques du porteur. Le porteur obtient l'effet Masque pendant <nobr>#6[i]</nobr> tours en début de combat. Tant que le porteur bénéficie de Masque, ses alliés voient leurs chances de coup critique augmenter de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[i]%</nobr></span> et leurs DGT critiques de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>. Chaque fois que le porteur régénère 1 point de compétence (y compris des points de compétence au-delà de la limite), il gagne 1 cumul de Flamme radieuse. À <nobr>#4[i]</nobr> cumuls de Flamme radieuse, il perd tous les cumuls et gagne Masque. Dure <nobr>#3[i]</nobr> tours.",
+  "descHash": "Augmente les DGT critiques du porteur de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>. Le porteur obtient l'effet Masque pendant <nobr>#6[i]</nobr> tours en début de combat. Tant que le porteur bénéficie de Masque, ses alliés voient leurs chances de coup critique augmenter de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[i]%</nobr></span> et leurs DGT critiques de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>. Chaque fois que le porteur régénère 1 point de compétence (y compris des points de compétence au-delà de la limite), il gagne 1 cumul de Flamme radieuse. À <nobr>#4[i]</nobr> cumuls de Flamme radieuse, il perd tous les cumuls et gagne Masque. Dure <nobr>#3[i]</nobr> tours.",
   "levelData": [
    {
     "params": [

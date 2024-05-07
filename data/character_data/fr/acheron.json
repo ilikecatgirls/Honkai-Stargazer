@@ -6,9 +6,8 @@
  "fgPath": "6842366bfe6b21e4f7927de23251acbac7710a6995d6d5ad3f6fcf1f8728f440",
  "splashIconPath": "cb8b1e8e90176861cda2ed901b194688fc571573f3875b506fd5eef3425bc52d",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBgBAAABkHNb27HH2q/n/WLbtp2MPZVttlOzcqluKla2Udq2bVvv+z3XFSciJgBdNEAgOjtxz7GNA4GsuI4czFbb0RET0bEPO/XH/1fHl+XDdGLwJ1n93nwhHO36ggGUnZen73Oux7cXm940t/9iWbq6dKYEBnDQvTZ5/I+/oqS/n0fDBzgJR+9Pm/nXsq2rxfDBoOyzbjyjFSn6tT7NgcHkD5QkSqTV6h4AkH1BriVJiVYnZwEmtnrRS5GiJJL/VsUAOUMbFt72i2rHak0AHPQ6+/0XRVGkXF0xcDBEkiiKpJW7HDCIPCzP83ueZ2X1oAEGMEjaoPb/68LY7skAYFCwYOu+9Vs2vfvw9MCCbHQcsnB8XFr9kJHDImEAVlA4IC4BAABwBQCdASoUABQAPm0ylEekIqIhKAgAgA2JQBicgmxEGhfkLY+oza9f8o7rXPqL/qCs7GkAAP73fYgmb/tUJrb1Ac/t0G9oUn6gsXboeduu52XKgV/GctGDPF/QdGAmyZosf9QDksEUK7XO7OYsoDRfwGkCWyIHI/H/pcsjUoG/Yllg+yM0FqFueCcYZMBTbiftCL6XY7QaQ8n3GSER90qe7/AewGPz/x6F/TZv8/8VXfvLIp/+aSjoB1WY2X/Rw539oOr8QKG6t5zJz69wL/6/mUmjdKsWM9+vW/9o+msEFWPNrBf+hY0D+OZVte4Nb2f51+HY5yneDfvwEK5BXjFkHT9AMH81z5RLLPhsW7X/xvQBHr8yQnijfx9m8qvxswT/nZPDQnk4ekRgAAAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,17 +439,17 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "df764a5759a0dca82769c6f3b9d0c49fc112137b5c7e7cf0fe97c158667b35d0",
+   "iconPath": "4b2f6a82ca5832faabb21365f8e801c9294eabdcfe332bd0391a19bc78f57864",
    "artPath": "b434b6fb86e3b72574dcd5aa2e2b043d1020ef54067bdfa51ca183c33ec326c3",
    "name": "Révélation des sommets silencieux",
-   "descHash": "Augmente de <nobr>#1[i]%</nobr> les chances de coup critique lorsque le personnage inflige des DGT aux ennemis qui subissent des malus. Lorsque Rêve flétri atteint la limite, chaque point de Rêve flétri au-dessus de la limite accorde un cumul de Chemin de la réalisation, cumulable jusqu'à <nobr>#2[i]</nobr> fois.",
+   "descHash": "Augmente les chances de coup critique du personnage contre les ennemis avec des malus de <nobr>#1[i]%</nobr>.",
    "params": [
     0.18
    ]
   },
   {
    "id": 2,
-   "iconPath": "0b8497d7bbbbd66c4fb49a5f303473bea784cc4654589c5bf1898819ff4de0a4",
+   "iconPath": "cd5b2875fb57c9169388dd2614bcb1d40c9faec35a6f5438fa352e2d1d457847",
    "artPath": "a3538ce5431936c85fbdf5315b3492172121bbda4430c2eda2bda0db888872ad",
    "name": "Calme après la tempête",
    "descHash": "Réduit de 1 le nombre de personnages devant suivre la Voie de la Nihilité pour obtenir la valeur la plus élévée de la Trace Abîme. Achéron gagne 1 point de Rêve flétri au début de son tour et applique 1 cumul d'Étreinte écarlate à l'ennemi qui a le plus de cumuls d'Étreinte écarlate.",
@@ -458,7 +457,7 @@
   },
   {
    "id": 3,
-   "iconPath": "6ecdff74c736876295c3a2969409ec038408c32dd6bdad0549016d770b05b948",
+   "iconPath": "230b424511fcd8cf762fd715267b48490c72f14fada5a9355b92fd5a9252985b",
    "artPath": "a304e8ba19df70f659e15e0ee7c414a11f3c42856b45926818527fdee620a026",
    "name": "Morsure du froid éternel",
    "descHash": "Niv. de l'ultime +2, jusqu'au niv. <nobr>15</nobr> maximum.<br />Niv. de l'ATQ normale +1, jusqu'au niv. <nobr>10</nobr> maximum.",
@@ -466,7 +465,7 @@
   },
   {
    "id": 4,
-   "iconPath": "0b76fa7437b3ea59213281fcc50a0c10399dae3858d8ba583cfcebc3a9a8a24b",
+   "iconPath": "c31e039f4b95129e0d94b103f2f2d103313d451d651a2ec9a7297163ffa72637",
    "artPath": "96fcdaa2e5e9e27b10167c2b9c80041c606ac4a14b490971f9d85a5abbc65132",
    "name": "Feu sacré de l'âme reflétée",
    "descHash": "Lorsque des cibles ennemies entrent en combat, leur applique une vulnérabilité aux DGT d'ultime, ce qui augmente de <nobr>#1[i]%</nobr> le montant des DGT d'ultime subis.",
@@ -476,7 +475,7 @@
   },
   {
    "id": 5,
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "artPath": "c37fcc04adc70fd9e069134d95e9b81ebe81e3d75473da22d092b8634c739b85",
    "name": "Âmes dispersées sur des terres effacées",
    "descHash": "Niv. de la compétence +2, jusqu'au niv. <nobr>15</nobr> maximum.<br />Niv. du talent +2, jusqu'au niv. <nobr>15</nobr> maximum.",
@@ -484,10 +483,10 @@
   },
   {
    "id": 6,
-   "iconPath": "ba4559da01571e6233428c99d0c8b742d2a10b64aadfb1702bf58bffc180b373",
+   "iconPath": "41bf295a83cf97873df78e0a7880441fdcbdf9ba6ab21e81168adf2439206487",
    "artPath": "f82f081f46888b3743c68c1080edc8459c751c0a8866386cdfa09f1928eda895",
    "name": "Catalysatrice de l'apocalypse",
-   "descHash": "Augmente de <nobr>#1[i]%</nobr> la PÉN de RÉS à tous les types des DGT d'ultime infligés par Achéron. Les DGT infligés par l'ATQ normale et la compétence sont également considérés comme des DGT d'ultime et peuvent réduire la robustesse de l'ennemi, quels que soient ses types de faiblesse. En cas de Rupture de faiblesse, c'est l'effet de Rupture de faiblesse de foudre qui est déclenché.",
+   "descHash": "Augmente la PÉN de RÉS à tous les types des DGT d'ultime infligés par Achéron de <nobr>#1[i]%</nobr>. Les DGT infligés par l'ATQ normale et la compétence sont également considérés comme des DGT d'ultime et peuvent réduire la robustesse de l'ennemi, quels que soient ses types de faiblesse. En cas de Rupture de faiblesse, c'est l'effet de Rupture de faiblesse de foudre qui est déclenché.",
    "params": [
     0.2
    ]
@@ -523,7 +522,7 @@
    "energy": "0",
    "id": 639823,
    "name": "Flétrissement des trois sagesses",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "ATQ normale",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +683,7 @@
    "energy": "0",
    "id": 355296,
    "name": "Éclair multiple",
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "typeDescHash": "Compétence",
    "levelReq": 0,
    "promotionReq": 0,
@@ -983,13 +982,13 @@
   },
   {
    "tagHash": "ZdE",
-   "descHash": "Déclenche Lame de pluie 3 fois de suite et Vengeance du Styx 1 fois, infligeant des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#6[i]%</nobr></span> de l'ATQ d'Achéron à une cible ennemie unique, et des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#7[i]%</nobr></span> de l'ATQ d'Achéron aux autres ennemis.<br /><br />Lame de pluie : Inflige des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> de l'ATQ d'Achéron à une cible ennemie unique et supprime jusqu'à 3 cumuls d'Étreinte écarlate à la cible. Lorsque l'effet Étreinte écarlate est supprimé, inflige immédiatement des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[f1]%</nobr></span> de l'ATQ d'Achéron à tous les ennemis. Le multiplicateur de cette instance de DGT augmente pour chaque cumul d'Étreinte écarlate supprimé, jusqu'à un maximum de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[f1]%</nobr></span>.<br /><br />Vengeance du Styx : Inflige des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> de l'ATQ d'Achéron à tous les ennemis et supprime tous les effets d'Étreinte écarlate.<br />L'effet Étreinte écarlate ne peut pas être appliqué aux ennemis pendant l'ultime.",
+   "descHash": "Déclenche Lame de pluie 3 fois de suite et Vengeance du Styx 1 fois, infligeant des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#6[i]%</nobr></span> de l'ATQ d'Achéron à une cible ennemie unique, et des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#7[i]%</nobr></span> de l'ATQ d'Achéron aux autres cibles.<br /><br />Lame de pluie : Inflige des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> de l'ATQ d'Achéron à une cible ennemie unique et supprime jusqu'à 3 cumuls d'Étreinte écarlate de la cible. Lorsque l'effet Étreinte écarlate est supprimé, inflige immédiatement des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[f1]%</nobr></span> de l'ATQ d'Achéron à tous les ennemis. Le multiplicateur de cette instance de DGT augmente pour chaque cumul d'Étreinte écarlate supprimé, jusqu'à un maximum de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[f1]%</nobr></span>.<br /><br />Vengeance du Styx : Inflige des DGT de foudre équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> de l'ATQ d'Achéron à tous les ennemis et supprime tous les effets d'Étreinte écarlate.<br /><br />L'effet Étreinte écarlate ne peut pas être appliqué à des ennemis pendant l'ultime.",
    "ultimateCost": 9,
    "break": "15/hit",
    "energy": "0",
    "id": 439237,
    "name": "Rêve flétri écarlate",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1348,13 +1347,13 @@
   },
   {
    "tagHash": "Renforcement",
-   "descHash": "L'ultime peut être activé quand Rêve flétri atteint <nobr>#1[i]</nobr> points. Pendant l'ultime, la robustesse des ennemis est réduite quels que soient leurs types de faiblesse, ainsi que toutes leurs RÉS de type de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span> jusqu'à la fin de l'ultime.<br />Lorsqu'une unité applique un malus à une cible ennemie en utilisant une de ses capacités, Achéron gagne 1 point de Rêve flétri et applique 1 cumul d'Étreinte écarlate à cette cible ennemie. Si des malus sont appliqués à plusieurs ennemis, alors le cumul d'Étreinte écarlate est infligé à l'ennemi ayant le plus de cumuls d'Étreinte écarlate. Cet effet ne peut être déclenché qu'1 fois par utilisation de la capacité.<br />Lorsqu'Achéron est sur le champ de bataille et après qu'une cible ennemie a quitté le champ de bataille ou a été vaincue, ses cumuls d'Étreinte écarlate sont transférés à la cible ennemie qui a le plus de cumuls d'Étreinte écarlate sur tout le champ de bataille.",
+   "descHash": "L'ultime peut être activé quand Rêve flétri atteint <nobr>#1[i]</nobr> points. Pendant l'ultime, la robustesse des ennemis est réduite quels que soient leurs types de faiblesse, ainsi que toutes leurs RÉS de type de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span> jusqu'à la fin de l'ultime.<br />Lorsqu'une unité applique un malus à une cible ennemie en utilisant une de ses capacités, Achéron gagne 1 point de Rêve flétri et applique 1 cumul d'Étreinte écarlate à une cible ennemie. Si des malus sont appliqués à plusieurs ennemis, alors le cumul d'Étreinte écarlate est infligé à l'ennemi ayant le plus de cumuls d'Étreinte écarlate. Cet effet ne peut être déclenché qu'1 fois par utilisation de la capacité.<br />Lorsqu'Achéron est sur le champ de bataille et après qu'une cible ennemie a quitté le champ de bataille ou a été vaincue, ses cumuls d'Étreinte écarlate sont transférés à la cible ennemie qui a le plus de cumuls d'Étreinte écarlate sur tout le champ de bataille.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 154710,
    "name": "Pluie de feuillages rouges",
-   "iconPath": "4991aa8fe3558d340c3ef2bfd5f5d9096798e6000b7e4eb0ffa01c0c148745b2",
+   "iconPath": "221738a182c2b155974a4c0c07b3a617e6dbd1d1511c63575ee795f4801160ad",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1644,7 +1643,7 @@
    "energy": "0",
    "id": 954124,
    "name": "Attaque",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1666,7 +1665,7 @@
    "energy": "0",
    "id": 70769,
    "name": "Chemin de la réalisation",
-   "iconPath": "f994082615a6791b3f40f7fb5a4dd56345f3061eeafb844157a0cb3c1dfe8aff",
+   "iconPath": "e8eeade7747ffa2975fd8ef9f5ddc16f7a58784a2e2563665231630a5df3f390",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1691,7 +1690,7 @@
    "energy": "0",
    "id": 154711,
    "name": "Lame de pluie",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1996,7 +1995,7 @@
    "energy": "0",
    "id": 271356,
    "name": "Lame de pluie",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2301,7 +2300,7 @@
    "energy": "0",
    "id": 954125,
    "name": "Lame de pluie",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2606,7 +2605,7 @@
    "energy": "0",
    "id": 70770,
    "name": "Vengeance du Styx",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2983,11 +2982,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "Obtient immédiatement <nobr>#1[i]</nobr> points de Rêve flétri en début de combat et applique <nobr>#1[i]</nobr> cumuls d'Étreinte écarlate à un ennemi aléatoire. Lorsque Rêve flétri atteint la limite, chaque point de Rêve flétri au-dessus de la limite accorde un cumul de Chemin de la réalisation, cumulable jusqu'à <nobr>#2[i]</nobr> fois.",
+    "descHash": "Obtient immédiatement <nobr>#1[i]</nobr> points de Rêve flétri en début de combat et applique <nobr>#1[i]</nobr> cumuls d'Étreinte écarlate à un ennemi aléatoire. Lorsque Rêve flétri atteint la limite, chaque point de Rêve flétri au-dessus de la limite accorde 1 cumul de Chemin de la réalisation. Permet à Chemin de la réalisation de se cumuler jusqu'à <nobr>#2[i]</nobr> fois de cette façon.",
     "ultimateCost": 0,
     "id": 76442,
     "name": "Démon écarlate",
-    "iconPath": "9522620e04f20b7d6b642d2e754f803373455ce52fabf7453a61015d11a48281",
+    "iconPath": "3b9e60fa6b782292abd846f1713b011be0ef91600abd22723c5243e7f058f5b4",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -3129,7 +3128,7 @@
     "ultimateCost": 0,
     "id": 76445,
     "name": "Abîme",
-    "iconPath": "5b174d18d7e7d6aa171e07c508de164561b3c659c70e8ef91f60dc9088a477a1",
+    "iconPath": "d09b4f4b65a0a0e321126847e90435cbbbe8ee6ab8699f0906754cc21756e1d0",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -3236,11 +3235,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "Augmente de <nobr>#1[i]%</nobr> les DGT d'Achéron lorsque la Lame de pluie de son ultime touche des cibles ennemies affectées par Étreinte écarlate, cumulable <nobr>#2[i]</nobr> fois et dure <nobr>#3[i]</nobr> tours. D'autre part, lorsque Vengeance du Styx se déclenche, inflige <nobr>#4[i]</nobr> frappes de DGT supplémentaires. Chaque frappe inflige des DGT de foudre équivalents à <nobr>#5[i]%</nobr> de l'ATQ d'Achéron à un ennemi unique aléatoire et est considérée comme des DGT d'ultime.",
+    "descHash": "Augmente de <nobr>#1[i]%</nobr> les DGT d'Achéron lorsque la Lame de pluie de son ultime touche des cibles ennemies affectées par Étreinte écarlate. Cumulable <nobr>#2[i]</nobr> fois et dure <nobr>#3[i]</nobr> tours. D'autre part, lorsque Vengeance du Styx se déclenche, inflige <nobr>#4[i]</nobr> frappes de DGT supplémentaires. Chaque frappe inflige des DGT de foudre équivalents à <nobr>#5[i]%</nobr> de l'ATQ d'Achéron à un ennemi unique aléatoire et est considérée comme des DGT d'ultime.",
     "ultimateCost": 0,
     "id": 76444,
     "name": "Âme de tonnerre",
-    "iconPath": "45e2ef4d90a9f7a28abfea0bfaf688c119eee1ffe447a2f8c6cc025f0771c7ea",
+    "iconPath": "d355b39e44c731c0f9b7ebb3f9c97541c73581178e115717bbc1635c8e67c44f",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -3425,12 +3424,12 @@
   {
    "id": 6,
    "title": "Connaître Achéron : Identité",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Les rêves, par essence, sont dépourvus de sens. C'est la toile de fond de la vie qui leur en donne. Cependant, si cette toile de fond n'est que « vide »... les rêves sont réduits à l'état de coquilles vides sans couleur.",
    "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Promenade parmi les morts »",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "e894a180a9981608b4c57431079623e4d13d0054cbe9a246462eea85a7491d9c",
+   "jpUrl": "2bf5db4dde1d16760266c2956d9126485b2c2a3922e94f321409c97609794e9a",
+   "enUrl": "7d605dc4ac9c7395467e9d5ebb93e8c2734a0fccd758fc8c4a35d249f3969fb2",
+   "krUrl": "2468f13e9707e8d1240d48d6b2793836f685a18fce410fa37b13d1db031c26b8"
   },
   {
    "id": 7,
@@ -3475,21 +3474,21 @@
   {
    "id": 11,
    "title": "Problèmes",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Quand je me suis réveillée, le tonnerre résonnait encore sur l'horizon de la mer, tandis que la pluie de sang tombait du ciel... Cette vision est restée ancrée dans ma mémoire. Tous les autres souvenirs, antérieurs ou postérieurs à celui-ci, se sont progressivement estompés.",
    "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Promenade parmi les morts »",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "c6e3372573e30d0399079e4cf02ae8cd4c7da61603aca30dbb51045c980ac58e",
+   "jpUrl": "a047f85153c68597b61849acdfe9bb6a13fa901db41f7514ad23caebc97965e3",
+   "enUrl": "c398f29352076918b50d85342f03b741cae5aec4ed43c1690ac9b28a04dd59a2",
+   "krUrl": "ad799c9fd195e7b5a05a6a24bfc1864e5ee931e62a5d6d9984c931ab7861d45b"
   },
   {
    "id": 12,
    "title": "Anecdote : Arme",
-   "text": "Cette lame t'intrigue ? Quand elle est sortie de son fourreau, elle révèle les souvenirs qu'elle renferme, à chaque fois que je l'ai faite danser, du début... jusqu'à la fin et au rien.",
+   "text": "Cette lame t'intrigue ? Quand elle est sortie de son fourreau, elle révèle les souvenirs qu'elle renferme, à chaque fois que je l'ai faite danser, du Commencement... jusqu'à la Fin et au Néant.",
    "unlockRequirement": "",
    "cnUrl": "de6dcc427794a3897ee79f1a0c3af4d9ad76f8a1e5a88b33a10c321fe319b5cc",
    "jpUrl": "677b38e00145fa37daaa71ca394a9ac88a233c0e833df62ba80934cf16231c5e",
-   "enUrl": "25a85b55b639a8172d034f42c50cf1a57536e389da3165cbda9f81a8754bc1a7",
+   "enUrl": "1438b357b3ce5962d3fa521dc251220e79cd49439fc4e7cfecc75a8e3dc8c5ce",
    "krUrl": "bb3432ece2a51edf1c8851dfa91fbbdf43fb978970cb9d3d8cea2a8a5fa16b2c"
   },
   {
@@ -3515,12 +3514,12 @@
   {
    "id": 15,
    "title": "Connaissances : Voies",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Les humains avancent sur la voie du destin... assoiffés de connaissance, avides de révélations, s'efforçant d'exister...",
    "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Promenade parmi les morts »",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "22cc19dfe635ac6e8a7c59f7cca017ee780aba9f7ba1e8350831914d6e8af883",
+   "jpUrl": "babe5ee9d6a6feaa54b5ae44851b83f4984e373f115a5fae14a49b4b282aaddc",
+   "enUrl": "55362848ae88e0e5fc6a4bc702a4f1237ad0beb112379c475cf15afe02f4691d",
+   "krUrl": "e7b4944732f4f07d1c4ef8abd2847b0af4f5f888a709d898962417399ae9e284"
   },
   {
    "id": 16,
@@ -3661,6 +3660,26 @@
    "jpUrl": "d9509528f3e8a4d73459b1303d41d60d85a2b68015a569eac05abe719cef9299",
    "enUrl": "b5fa0dda88deea8498c474a3f5a1f2f16f7ee1ce2bef31c61fc5d55a5b7eb110",
    "krUrl": "e6cab93f80f2c2269cda7f9a17797add8cc6d8a75638dbe2abd5ce17bc643e42"
+  },
+  {
+   "id": 30,
+   "title": "À propos du Fossoyeur",
+   "text": "Un Ranger de la galaxie... Son affiliation à cette organisation lui sert de couverture. Il ne vit que pour lui-même, rien de plus évident. Et c'est exactement pourquoi je lui fais totalement confiance.",
+   "unlockRequirement": "",
+   "cnUrl": "11bef2f1393fee88be482c7b80e4eecf159dff22c53dff07cf5254e0045baaa3",
+   "jpUrl": "d4c4dcaec1a75f8352b5a176aeae3979f3be9c32a35222a305b27b529d51e130",
+   "enUrl": "6b28895670d2707d6009c006ad153caf464e3a9a30449dedcfdfcdd499d3cee2",
+   "krUrl": "ecb611967f5f8f611d7ef0f7ada8ebae6174e407b41b85307e5694d7c1116383"
+  },
+  {
+   "id": 31,
+   "title": "Rejoint l'équipe avec le Fossoyeur",
+   "text": "Tu es rapide... déjà la main dans l'étui ?",
+   "unlockRequirement": "",
+   "cnUrl": "920e3198955bc657460319070b5eb772d76ddc133bc5977b6d2daed7cd0eea9b",
+   "jpUrl": "3afc98dc66137c9e09feaab97d7c5299727f4f4c3502bc28452136124c32c282",
+   "enUrl": "0bbd53ac6d16e596df6b7e9e5b30f39c9d113c0478b6d24a7244020a021aed63",
+   "krUrl": "2a43910a31a4add9b1250a31b106d9b08efcd2f03302c607e3636abfdb131b4b"
   },
   {
    "id": 51,
@@ -3830,7 +3849,7 @@
    "cnUrl": "0acc28a4f99053d4d8960c0c81e110940ba1553db42f7db992ecff0c1250f46b",
    "jpUrl": "51908b0ad7629a9abf94fda0e1627e50fba3a9cada5f59e07a02f0914b10b6e9",
    "enUrl": "9ca2eab1f57dd43a35fc174d3a063180511c822d9ebdf02b2fc5de259c17da70",
-   "krUrl": "2469e88654b183a9dc08635e8073add024803111f176f6974172bdd5b98f8275"
+   "krUrl": "7afda6b1f112d18625c2a50fb0d7ffa2bf2d1d325b2ebc81623bbf2be485eb1c"
   },
   {
    "id": 68,
@@ -3931,22 +3950,22 @@
   },
   {
    "title": "Histoire du personnage : Partie I",
-   "text": "Coming soon - Stay tuned!",
+   "text": "« ... Les véritables combattants ne choisissent pas leur épée, c'est leur épée qui les choisit. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Tout comme les gens ne choisissent pas leur destin, c'est leur destin qui les choisit</span>... Ce jour-là, quand j'ai vu l'épée que j'avais forgée passer entre les mains de cette jeune fille, j'ai réalisé que dans la lutte contre <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">les divinités</span>, elle avait choisi, ou avait été amenée à choisir, de suivre la voie qui <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">semblait</span> mener à un avenir meilleur. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Comme j'aimerais que</span> malgré le danger qui plane sur Izumo, le peuple garde espoir dans le fait que les <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">kami maléfiques</span> seront un jour éradiqués et que le monde retrouvera sa liberté... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Cependant, ce n'est que lorsque la lueur de la lame s'est éteinte que j'ai compris : c'est une voie sans issue, et ceux qui s'y aventurent n'ont aucune possibilité de retour</span>... »<br /><br /><align=\"right\">— Ancien manuscrit</align>",
    "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Promenade parmi les morts »"
   },
   {
    "title": "Histoire du personnage : Partie II",
-   "text": "Coming soon - Stay tuned!",
+   "text": "« ... D'après les parchemins laissés par les forgeurs de lames, Izumo était autrefois au bord de la destruction. Pour survivre, ils ont forgé des armes à partir de <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">vestiges divins</span>. Ceux qui les maniaient étaient considérés comme des héros. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">La Guilde s'est particulièrement intéressée aux divinités énigmatiques mentionnées dans ces parchemins, mais la Voie à laquelle elles appartiennent reste entourée de mystère. Dans les récits ultérieurs, les habitants d'Izumo ont arrêté de qualifier les porteurs de lames de 'héros', mais parlaient plutôt de 'revenants'.</span>.<br /><br />Ce monde a malheureusement disparu depuis longtemps des registres astraux, la vérité historique est introuvable et les souvenirs ont également étés perdus. Lorsque les Archéologues armés sont arrivés, il n'y avait plus que les chants de l'Enigmata qui résonnaient à travers la galaxie : il y avait une pluie incessante qui semblait jaillir <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">du Soleil noir</span> telles des larmes. Sous le voile ténu, la survivante s'éloignait du rivage. Sa patrie,<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\"> qu'elle avait autrefois sauvée, avait été effacée de ses propres mains</span>... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Devant sa vision obstruée, il n'y avait plus que des ombres invisibles.</span> »<br /><br /><align=\"right\">— Oppenheimer, l'enregistreur</align>",
    "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Promenade parmi les morts »"
   },
   {
    "title": "Histoire du personnage : Partie III",
-   "text": "Coming soon - Stay tuned!",
+   "text": "« J'ai utilisé le sérum 'Revitalisation<nobr>-310</nobr>', qui induit un sommeil profond et permet aux individus de revivre des souvenirs du passé. Cela permet à certains patients de retrouver <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">l'apaisement et l'espoir</span>, mais pour elle, ça été différent. Avant elle, personne n'avait pu se réveiller volontairement d'un tel sommeil. J'ai observé ses rêves de près... et on ne peut pas dire que ce soit le bonheur : un ciel sombre, des villes en ruines, des terres dévastées, et une pluie incessante.<br /><br />La pluie avait l'air de ne jamais s'arrêter. Les gens souriaient pendant qu'ils se faisaient emporter par les eaux montantes. Et au milieu de l'obscurité, j'entendais le grondement lointain du tonnerre qui se rapprochait, jusqu'à ce qu'à un moment, un éclair vienne déchirer le voile de la nuit. Sous un ciel brisé, j'ai pu la voir à nouveau : dans un monde qui sombrait dans l'oubli, elle a fait danser doucement sa lame, emportant tout le royaume des rêves avec elle.<br /><br />Je dois admettre qu'elle est allée bien plus loin que nous sur cette voie. L'insaisissable <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Nihilité</span> l'a guidée vers <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">l'auto-destruction</span>, et pourtant, elle en tient subtilement les rênes. Peut-être qu'elle était prête à affronter les véritables ennemis dès le début de son aventure... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Un jour, je lui ai demandé quelle était la signification de tout cela, elle n'a pas répondu. Était-ce parce qu'elle ne savait pas quoi répondre ? Ou peut-être avait-elle déjà la réponse depuis longtemps ? »</span><br /><br /><align=\"right\">— Note d'un <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Docteur du chaos</span></align>",
    "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Promenade parmi les morts »"
   },
   {
    "title": "Histoire du personnage : Partie IV",
-   "text": "Coming soon - Stay tuned!",
+   "text": "« Je laisse cette lettre ici. Au cas où je ne reviendrais pas, c'est elle qui témoignera du récit d'une personne que j'ai rencontrée à <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Orkron</span>. Le voyage vers l'autre rive était périlleux, c'est grâce à elle que j'ai pu traverser. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">La première fois que je l'ai vue, j'ai senti qu'elle avait une sorte de mission. J'ai cru que c'était de la vengeance. Cependant, j'ai vite réalisé que ce n'était pas le cas, car une personne consumée par la haine l'expose inévitablement, mais elle restait toujours calme, à l'exception de quelques rares signes de tristesse... »</span><br /><br />... Elle avait déjà parcouru de nombreux mondes avant notre rencontre, et possédait un large éventail de compétences. Ensemble, on cuisinait et on montait notre camp dans la nature. Les nuits sans étoiles, elle m'écoutait raconter des histoires et discuter de nos plans pour le lendemain. La plupart du temps, on voyageait en silence. Ici, la neige a une teinte rouge violacée et la saveur acidulée des framboises. Bien qu'elle <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ait presque perdu le sens du goût</span>, elle appréciait toujours les beignets de neige d'Orkron que je préparais...<br /><br />... Avant de la rencontrer, j'avais passé des années à errer sur le fleuve de <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">la Nihilité</span>. Elle m'a tendu la main, et on a fait route ensemble le long du fleuve. Le moment est venu pour nous de nous séparer. Je n'ai pas encore atteint la rive, et je ne sais pas ce qui m'y attend... mais je n'ai aucune raison de m'arrêter. La vie n'est rien de plus qu'un chemin qui a une fin, et avant d'atteindre cette fin, je continuerai ma route. J'ai la conviction qu'elle ferait la même chose. »<br /><br /><align=\"right\">— Note de <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Frebass</span></align>",
    "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Promenade parmi les morts »"
   }
  ],

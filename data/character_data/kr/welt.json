@@ -6,9 +6,8 @@
  "fgPath": "76a37ba038822f8fda392993a41ee578b920fb86c65210be6f0f5e44daa0fd31",
  "splashIconPath": "db18175911897d8585a05cf721f62105b4ca31adfdb979089258427bf6a33947",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRpICAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPcAAAABkHLbtrKtA9r3vt/3NXf3j+ROcm3uGh1+ANEdmkMmu2eSu1eaOzzv3Su8EhEToKKxurFqytVpKjOo+9L9Jy8/5h/c3aFYai0lb3d0F6s8+okspeT0n7fNCgXxMRm2wfxbUhDU9JZkjO3Eh24FRQ3+xJhC82OkgoIWpgKDbTxeuaidYEyhnbhSI82GhG0M4Izd0iYy22DAdvK3fq3CBpsCnHExSidJtgFs57nWppw2/i8Fhs2qiNpLMjZg8+HECAWFkfu/YAzGGZeCpKjR9/5hbJz4vStKUk5Tn5L/n2X/k2+OVenmBxTfoMpSqlt+4MLZPQtmzFUhAFZQOCB0AQAAkAcAnQEqFAAUAD5tMpVHpCKiISgIAIANiWwAnS9RuCJKPYDxM/XD0wDeZf9zWgDnu8170GEVg1zY8rDHQLWWK9Pbl7wAAP6TuwT5fVpR91b4gsoKEzb0XrSj5Oe+Fyyf4E7BY74A4IRNEiwonxeXEd5RU+cdAFRwhhTlUZgvqO844MxOv/bqWn/J9YXj+O5Kz/rLvlgiR5AXPeYu/9qFy1uh6ebfAS4E26U2rbcME31PFN768s/RLmvtTjer+gHmuuWVqqM3LylLmT/xO+UfJM2ijPKAZNiWNeop2lPtJ0R6nvEDWhRX8HvvwIJe5Qwr9/uDAh0Yy5zJ9b43FZstizO7/PxoFPacbV3+8h9uztM7m4rrKKaujNG0P+vviZH09R/K+4U+J6ZfXdAjvsf+v+n6uKv+MJH+3uT2adabjnu1Hn+3v5FBl8f9yAEjCZAuCPuKOPxP2X2K93GTlqY3x1fqLPPwwfplOchbHsK7qlaJaAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2636,7 +2635,7 @@
   },
   {
    "title": "캐릭터 스토리•3",
-   "text": "지금의 웰트는 쉽사리 직접 전투에 나서지 않는다. 그가 여전히 전성기 때의 실력을 그대로 간직하고 있을지는 미지수다. 다만 「에덴의 별」에서 개조한 지팡이로 볼 때「중력 조종」은 여전히 그가 즐겨 쓰는 전투 수단임이 틀림없었다<br /><br />적을 중력 압박으로 제압하고 블랙홀 제압하고 블랙홀에 가까운 존재까지 만들어내는 그의 능숙한 능력은 열차 안 젊은이들의 탄성을 자아냈다<br /><br />「웰트 아저씨는 못하는 게 없다니까, 정말 대단해!」<br />「개척자, 모르는 게 있으면 웰트 씨에게 물어보면 돼」<br />「줄을 서서 질문해. 웰트 씨도 좀 쉬어야 하니까……」<br /><br />그는 문득 자신의 유유자적한 모습이 단지 너무 많은 일들을 겪었기 때문이며 가득히 쌓인 세월의 흔적의 결과임을 임을 깨닫고 놀라워했다. 열차 안의 젊은이들은 여전히 백지장 위를 그리듯 자신의 삶을 쓰고 있었다<br /><br />——나는 이 안에서 과연 어떤 책임을 져야 하는 것일까?<br /><br />그는 문득 자신도 모르게 그동안 자신의 삶에 도움을 주었던 이름들을 기억해 냈다",
+   "text": "지금의 웰트는 쉽사리 직접 전투에 나서지 않는다. 그가 여전히 전성기 때의 실력을 그대로 간직하고 있을지는 미지수다. 다만 「에덴의 별」에서 개조한 지팡이로 볼 때「중력 조종」은 여전히 그가 즐겨 쓰는 전투 수단임이 틀림없었다<br /><br />적을 중력으로 제압하고 블랙홀에 가까운 존재까지 만들어내는 그의 능숙한 능력은 열차 안 젊은이들의 탄성을 자아냈다<br /><br />「웰트 아저씨는 못하는 게 없다니까, 정말 대단해!」<br />「개척자, 모르는 게 있으면 웰트 씨에게 물어보면 돼」<br />「줄을 서서 질문해. 웰트 씨도 좀 쉬어야 하니까……」<br /><br />그는 문득 자신의 유유자적한 모습이 단지 너무 많은 일들을 겪었기 때문이며 가득히 쌓인 세월의 흔적의 결과임을 깨닫고 놀라워했다. 열차 안의 젊은이들은 여전히 백지장 위를 그리듯 자신의 삶을 쓰고 있었다<br /><br />——나는 이 안에서 과연 어떤 책임을 져야 하는 것일까?<br /><br />그는 문득 자신도 모르게 그동안 자신의 삶에 도움을 주었던 이름들을 기억해 냈다",
    "unlockRequirement": "캐릭터 레벨 Lv.<nobr>60</nobr> 개방"
   },
   {

@@ -6,9 +6,8 @@
  "fgPath": "6842366bfe6b21e4f7927de23251acbac7710a6995d6d5ad3f6fcf1f8728f440",
  "splashIconPath": "cb8b1e8e90176861cda2ed901b194688fc571573f3875b506fd5eef3425bc52d",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBgBAAABkHNb27HH2q/n/WLbtp2MPZVttlOzcqluKla2Udq2bVvv+z3XFSciJgBdNEAgOjtxz7GNA4GsuI4czFbb0RET0bEPO/XH/1fHl+XDdGLwJ1n93nwhHO36ggGUnZen73Oux7cXm940t/9iWbq6dKYEBnDQvTZ5/I+/oqS/n0fDBzgJR+9Pm/nXsq2rxfDBoOyzbjyjFSn6tT7NgcHkD5QkSqTV6h4AkH1BriVJiVYnZwEmtnrRS5GiJJL/VsUAOUMbFt72i2rHak0AHPQ6+/0XRVGkXF0xcDBEkiiKpJW7HDCIPCzP83ueZ2X1oAEGMEjaoPb/68LY7skAYFCwYOu+9Vs2vfvw9MCCbHQcsnB8XFr9kJHDImEAVlA4IC4BAABwBQCdASoUABQAPm0ylEekIqIhKAgAgA2JQBicgmxEGhfkLY+oza9f8o7rXPqL/qCs7GkAAP73fYgmb/tUJrb1Ac/t0G9oUn6gsXboeduu52XKgV/GctGDPF/QdGAmyZosf9QDksEUK7XO7OYsoDRfwGkCWyIHI/H/pcsjUoG/Yllg+yM0FqFueCcYZMBTbiftCL6XY7QaQ8n3GSER90qe7/AewGPz/x6F/TZv8/8VXfvLIp/+aSjoB1WY2X/Rw539oOr8QKG6t5zJz69wL/6/mUmjdKsWM9+vW/9o+msEFWPNrBf+hY0D+OZVte4Nb2f51+HY5yneDfvwEK5BXjFkHT9AMH81z5RLLPhsW7X/xvQBHr8yQnijfx9m8qvxswT/nZPDQnk4ekRgAAAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "df764a5759a0dca82769c6f3b9d0c49fc112137b5c7e7cf0fe97c158667b35d0",
+   "iconPath": "4b2f6a82ca5832faabb21365f8e801c9294eabdcfe332bd0391a19bc78f57864",
    "artPath": "b434b6fb86e3b72574dcd5aa2e2b043d1020ef54067bdfa51ca183c33ec326c3",
    "name": "Silenced Sky Spake Sooth",
    "descHash": "เมื่อสร้าง DMG แก่ศัตรูเป้าหมายที่อยู่ภายใต้เอฟเฟกต์ Debuff แล้ว อัตราคริติคอลจะเพิ่มขึ้น <nobr>#1[i]%</nobr>",
@@ -450,7 +449,7 @@
   },
   {
    "id": 2,
-   "iconPath": "0b8497d7bbbbd66c4fb49a5f303473bea784cc4654589c5bf1898819ff4de0a4",
+   "iconPath": "cd5b2875fb57c9169388dd2614bcb1d40c9faec35a6f5438fa352e2d1d457847",
    "artPath": "a3538ce5431936c85fbdf5315b3492172121bbda4430c2eda2bda0db888872ad",
    "name": "Mute Thunder in Still Tempest",
    "descHash": "ลดจำนวนตัวละคร Path \"ลบล้าง\" ที่จำเป็นต่อค่าสูงสุดของ Trace \"The Abyss\" ลง 1 ตัว และเมื่อเริ่มต้นเทิร์นของตัวเอง จะได้รับ \"ฝันมลาย\" 1 หน่วย พร้อมทั้งเพิ่ม \"ผนึกสีชาด\" 1 ชั้น แก่ศัตรูที่มีสถานะดังกล่าวมากที่สุด",
@@ -458,7 +457,7 @@
   },
   {
    "id": 3,
-   "iconPath": "6ecdff74c736876295c3a2969409ec038408c32dd6bdad0549016d770b05b948",
+   "iconPath": "230b424511fcd8cf762fd715267b48490c72f14fada5a9355b92fd5a9252985b",
    "artPath": "a304e8ba19df70f659e15e0ee7c414a11f3c42856b45926818527fdee620a026",
    "name": "Frost Bites in Death",
    "descHash": "เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน Lv.<nobr>10</nobr>",
@@ -466,7 +465,7 @@
   },
   {
    "id": 4,
-   "iconPath": "0b76fa7437b3ea59213281fcc50a0c10399dae3858d8ba583cfcebc3a9a8a24b",
+   "iconPath": "c31e039f4b95129e0d94b103f2f2d103313d451d651a2ec9a7297163ffa72637",
    "artPath": "96fcdaa2e5e9e27b10167c2b9c80041c606ac4a14b490971f9d85a5abbc65132",
    "name": "Shrined Fire for Mirrored Soul",
    "descHash": "เมื่อศัตรูเป้าหมายเข้าสู่การต่อสู้ จะทำให้ศัตรูดังกล่าวติดสถานะ \"ความเปราะบาง DMG ท่าไม้ตาย\" และจะได้รับ DMG จากท่าไม้ตายเพิ่มขึ้น <nobr>#1[i]%</nobr>",
@@ -476,7 +475,7 @@
   },
   {
    "id": 5,
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "artPath": "c37fcc04adc70fd9e069134d95e9b81ebe81e3d75473da22d092b8634c739b85",
    "name": "Strewn Souls on Erased Earths",
    "descHash": "เลเวลสกิลต่อสู้ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน<br />Lv.<nobr>15</nobr>",
@@ -484,7 +483,7 @@
   },
   {
    "id": 6,
-   "iconPath": "ba4559da01571e6233428c99d0c8b742d2a10b64aadfb1702bf58bffc180b373",
+   "iconPath": "41bf295a83cf97873df78e0a7880441fdcbdf9ba6ab21e81168adf2439206487",
    "artPath": "f82f081f46888b3743c68c1080edc8459c751c0a8866386cdfa09f1928eda895",
    "name": "Apocalypse, the Emancipator",
    "descHash": "การทะลวงความต้านทาน DMG ท่าไม้ตายทุกประเภทที่ Acheron สร้าง จะเพิ่มขึ้น <nobr>#1[i]%</nobr> โดย DMG จากการปล่อยการโจมตีปกติและสกิลต่อสู้ จะถือเป็น DMG ท่าไม้ตายด้วย พร้อมทั้งลดทอนความทนทานของศัตรู โดยเพิกเฉยต่อประเภทของจุดอ่อน และเมื่อทำลายจุดอ่อนแล้ว จะปล่อยเอฟเฟกต์ทำลายจุดอ่อนสายฟ้า",
@@ -523,7 +522,7 @@
    "energy": "0",
    "id": 639823,
    "name": "Trilateral Wiltcross",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "โจมตีปกติ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +683,7 @@
    "energy": "0",
    "id": 355296,
    "name": "Octobolt Flash",
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "typeDescHash": "สกิลต่อสู้",
    "levelReq": 0,
    "promotionReq": 0,
@@ -989,7 +988,7 @@
    "energy": "0",
    "id": 439237,
    "name": "Slashed Dream Cries in Red",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1348,13 +1347,13 @@
   },
   {
    "tagHash": "เสริมพลัง",
-   "descHash": "เมื่อ \"ฝันมลาย\" ถึง <nobr>#1[i]</nobr> หน่วย จะสามารถเปิดใช้งานท่าไม้ตายได้ ในขณะที่ใช้ท่าไม้ตาย จะลดทอนความทนทานของศัตรู โดยเพิกเฉยต่อประเภทของจุดอ่อน และทำให้ความต้านทานทุกประเภท ของศัตรูทั้งหมดลดลง <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span> จนกว่าท่าไม้ตายจะสิ้นสุดลง<br />เมื่อตัวละครใดก็ตามปล่อยสกิล และทำให้ศัตรูเป้าหมายติดเอฟเฟกต์ Debuff Acheron จะได้รับ \"ฝันมลาย\" 1 หน่วย อีกทั้งเพิ่ม \"ผนึกสีชาด\" แก่เป้าหมาย 1 ชั้น หากทำให้เป้าหมายหลายตัวติดเอฟเฟกต์ Debuff ก็จะเพิ่ม \"ผนึกสีชาด\" 1 ชั้น แก่ศัตรูเป้าหมายที่มี \"ผนึกสีชาด\" มากที่สุด โดยทุกครั้งที่ปล่อยสกิล จะเกิดเอฟเฟกต์ดังกล่าวได้มากสุด 1 ครั้ง<br />เมื่อ Acheron อยู่ในการต่อสู้ หลังจากศัตรูเป้าหมายออกจากการต่อสู้ หรือถูกตัวละครตัวใดตัวหนึ่งกำจัดแล้ว \"ผนึกสีชาด\" ที่ศัตรูตัวดังกล่าวมี จะถูกย้ายไปยังศัตรูเป้าหมายที่มี \"ผนึกสีชาด\" มากที่สุดในการต่อสู้",
+   "descHash": "เมื่อ \"ฝันมลาย\" ถึง <nobr>#1[i]</nobr> หน่วย จะสามารถเปิดใช้งานท่าไม้ตายได้ ในขณะที่ใช้ท่าไม้ตาย จะลดทอนความทนทานของศัตรู โดยเพิกเฉยต่อประเภทของจุดอ่อน และทำให้ความต้านทานทุกประเภท ของศัตรูทั้งหมดลดลง <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span> จนกว่าท่าไม้ตายจะสิ้นสุดลง<br />เมื่อตัวใดก็ตามปล่อยสกิล และทำให้ศัตรูเป้าหมายติดเอฟเฟกต์ Debuff Acheron จะได้รับ \"ฝันมลาย\" 1 หน่วย อีกทั้งเพิ่ม \"ผนึกสีชาด\" แก่เป้าหมาย 1 ชั้น หากทำให้เป้าหมายหลายตัวติดเอฟเฟกต์ Debuff ก็จะเพิ่ม \"ผนึกสีชาด\" 1 ชั้น แก่ศัตรูเป้าหมายที่มี \"ผนึกสีชาด\" มากที่สุด โดยทุกครั้งที่ปล่อยสกิล จะเกิดเอฟเฟกต์ดังกล่าวได้มากสุด 1 ครั้ง<br />เมื่อ Acheron อยู่ในการต่อสู้ หลังจากศัตรูเป้าหมายออกจากการต่อสู้ หรือถูกตัวใดก็ตามกำจัดแล้ว \"ผนึกสีชาด\" ที่ศัตรูตัวดังกล่าวมี จะถูกย้ายไปยังศัตรูเป้าหมายที่มี \"ผนึกสีชาด\" มากที่สุดในการต่อสู้",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 154710,
    "name": "Atop Rainleaf Hangs Oneness",
-   "iconPath": "4991aa8fe3558d340c3ef2bfd5f5d9096798e6000b7e4eb0ffa01c0c148745b2",
+   "iconPath": "221738a182c2b155974a4c0c07b3a617e6dbd1d1511c63575ee795f4801160ad",
    "typeDescHash": "พรสวรรค์",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1644,7 +1643,7 @@
    "energy": "0",
    "id": 954124,
    "name": "Attack",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1666,7 +1665,7 @@
    "energy": "0",
    "id": 70769,
    "name": "Quadrivalent Ascendance",
-   "iconPath": "f994082615a6791b3f40f7fb5a4dd56345f3061eeafb844157a0cb3c1dfe8aff",
+   "iconPath": "e8eeade7747ffa2975fd8ef9f5ddc16f7a58784a2e2563665231630a5df3f390",
    "typeDescHash": "เทคนิค",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1691,7 +1690,7 @@
    "energy": "0",
    "id": 154711,
    "name": "Rainblade",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1996,7 +1995,7 @@
    "energy": "0",
    "id": 271356,
    "name": "Rainblade",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2301,7 +2300,7 @@
    "energy": "0",
    "id": 954125,
    "name": "Rainblade",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2606,7 +2605,7 @@
    "energy": "0",
    "id": 70770,
    "name": "Stygian Resurge",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2987,7 +2986,7 @@
     "ultimateCost": 0,
     "id": 76442,
     "name": "Red Oni",
-    "iconPath": "9522620e04f20b7d6b642d2e754f803373455ce52fabf7453a61015d11a48281",
+    "iconPath": "3b9e60fa6b782292abd846f1713b011be0ef91600abd22723c5243e7f058f5b4",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -3129,7 +3128,7 @@
     "ultimateCost": 0,
     "id": 76445,
     "name": "The Abyss",
-    "iconPath": "5b174d18d7e7d6aa171e07c508de164561b3c659c70e8ef91f60dc9088a477a1",
+    "iconPath": "d09b4f4b65a0a0e321126847e90435cbbbe8ee6ab8699f0906754cc21756e1d0",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -3240,7 +3239,7 @@
     "ultimateCost": 0,
     "id": 76444,
     "name": "Thunder Core",
-    "iconPath": "45e2ef4d90a9f7a28abfea0bfaf688c119eee1ffe447a2f8c6cc025f0771c7ea",
+    "iconPath": "d355b39e44c731c0f9b7ebb3f9c97541c73581178e115717bbc1635c8e67c44f",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -3395,7 +3394,7 @@
   {
    "id": 3,
    "title": "บอกลา",
-   "text": "ได้เวลาออกเดินทางแล้ว ชีวิตนี้จะผ่านพ้นไปดั่งสายฝน และท้ายที่สุดก็จะกลับคืนสู่ผืนดิน หวังว่าการจากลาในครั้งนี้... จะอยู่ท่ามกลางแสงตะวันอันเจิดจรัสนะ",
+   "text": "ได้เวลาออกเดินทางแล้ว ชีวิตนี้จะผ่านพ้นไปดั่งสายฝน และท้ายที่สุดก็จะกลับคืนสู่ผืนดิน หวังว่าเมื่อได้พบกันอีกครั้ง... จะอยู่ท่ามกลางแสงตะวันอันเจิดจรัส",
    "unlockRequirement": "",
    "cnUrl": "629cca1892c4716439bd56dd62ab946a6423a2cdbff10fb4113cc37afe17855f",
    "jpUrl": "eb703e54fd233a1298ee1ac6fe36ccd5a19da7010d483ae8188f891f76285116",
@@ -3425,12 +3424,12 @@
   {
    "id": 6,
    "title": "เกี่ยวกับตัวเอง - ตัวตน",
-   "text": "Coming soon - Stay tuned!",
+   "text": "เดิมทีความฝันนั้นไม่มีความหมายหรอก สิ่งที่มอบความหมายให้กับมัน ก็คือสีพื้นหลังของชีวิต แต่ถ้าหากสีสันของมันเป็น \"ความว่างเปล่า\" แล้วล่ะก็... ความฝันมันก็เหลือแค่เปลือกสีขาวดำเปล่าๆ เท่านั้น",
    "unlockRequirement": "ปลดล็อกหลังจากเสร็จสิ้นภารกิจบุกเบิก \"ฝ่าดินแดนแห่งความตาย\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "e894a180a9981608b4c57431079623e4d13d0054cbe9a246462eea85a7491d9c",
+   "jpUrl": "2bf5db4dde1d16760266c2956d9126485b2c2a3922e94f321409c97609794e9a",
+   "enUrl": "7d605dc4ac9c7395467e9d5ebb93e8c2734a0fccd758fc8c4a35d249f3969fb2",
+   "krUrl": "2468f13e9707e8d1240d48d6b2793836f685a18fce410fa37b13d1db031c26b8"
   },
   {
    "id": 7,
@@ -3445,7 +3444,7 @@
   {
    "id": 8,
    "title": "พูดคุยทั่วไป - ดาบ",
-   "text": "ถ้าหากพกดาบติดตัว ก็จะต้องใช้มันเพื่อฟาดฟันบางอย่าง แต่เหตุผลที่ฉันพกดาบนั้น... นับตั้งแต่อดีต ปัจจุบัน และเรื่อยไปในอนาคต... มีเพียงแค่เหตุผลเดียวเท่านั้น",
+   "text": "ถ้าหากพกดาบติดตัว ก็จะต้องใช้มันเพื่อฟาดฟันบางอย่าง แต่เหตุผลที่ฉันชักดาบออกมานั้น... นับตั้งแต่อดีต ปัจจุบัน และเรื่อยไปในอนาคต... มีเพียงแค่เหตุผลเดียวเท่านั้น",
    "unlockRequirement": "",
    "cnUrl": "b28df3676f19c1b3fa0dcc6d7072f8540afed97ca13753c4471d5cc82331b90e",
    "jpUrl": "fa6d72aef1895a24ef8f100523d77f5e7c7b781c398d6745d3c2521e5e1d4809",
@@ -3475,12 +3474,12 @@
   {
    "id": 11,
    "title": "เรื่องกลุ้มใจ",
-   "text": "Coming soon - Stay tuned!",
+   "text": "ตอนที่ตื่นขึ้นมาจากอีกฝั่ง ที่ปลายสุดของมหาสมุทรก็เหลือเพียงเสียงฟ้าร้อง และฝนสีเลือดที่เพิ่งตกลงมาทั่วท้องฟ้า... มีเพียงสิ่งที่เห็นในชั่วขณะนั้นเท่านั้น ที่ยังตราตรึงอยู่ในสายตาของฉันอย่างชัดเจน ส่วนความทรงจำก่อนหน้าและหลังจากนั้น ล้วนแต่หม่นหมองไร้สีสัน แล้วก็ค่อยๆ จางหายไป",
    "unlockRequirement": "ปลดล็อกหลังจากเสร็จสิ้นภารกิจบุกเบิก \"ฝ่าดินแดนแห่งความตาย\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "c6e3372573e30d0399079e4cf02ae8cd4c7da61603aca30dbb51045c980ac58e",
+   "jpUrl": "a047f85153c68597b61849acdfe9bb6a13fa901db41f7514ad23caebc97965e3",
+   "enUrl": "c398f29352076918b50d85342f03b741cae5aec4ed43c1690ac9b28a04dd59a2",
+   "krUrl": "ad799c9fd195e7b5a05a6a24bfc1864e5ee931e62a5d6d9984c931ab7861d45b"
   },
   {
    "id": 12,
@@ -3489,7 +3488,7 @@
    "unlockRequirement": "",
    "cnUrl": "de6dcc427794a3897ee79f1a0c3af4d9ad76f8a1e5a88b33a10c321fe319b5cc",
    "jpUrl": "677b38e00145fa37daaa71ca394a9ac88a233c0e833df62ba80934cf16231c5e",
-   "enUrl": "25a85b55b639a8172d034f42c50cf1a57536e389da3165cbda9f81a8754bc1a7",
+   "enUrl": "1438b357b3ce5962d3fa521dc251220e79cd49439fc4e7cfecc75a8e3dc8c5ce",
    "krUrl": "bb3432ece2a51edf1c8851dfa91fbbdf43fb978970cb9d3d8cea2a8a5fa16b2c"
   },
   {
@@ -3515,12 +3514,12 @@
   {
    "id": 15,
    "title": "ความรู้ - เส้นทางแห่งโชคชะตา",
-   "text": "Coming soon - Stay tuned!",
+   "text": "ผู้คนเดินอยู่บนเส้นทางแห่งโชคชะตา... จากนั้นก็แสวงหา ตื่นรู้ และดำรงอยู่",
    "unlockRequirement": "ปลดล็อกหลังจากเสร็จสิ้นภารกิจบุกเบิก \"ฝ่าดินแดนแห่งความตาย\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "22cc19dfe635ac6e8a7c59f7cca017ee780aba9f7ba1e8350831914d6e8af883",
+   "jpUrl": "babe5ee9d6a6feaa54b5ae44851b83f4984e373f115a5fae14a49b4b282aaddc",
+   "enUrl": "55362848ae88e0e5fc6a4bc702a4f1237ad0beb112379c475cf15afe02f4691d",
+   "krUrl": "e7b4944732f4f07d1c4ef8abd2847b0af4f5f888a709d898962417399ae9e284"
   },
   {
    "id": 16,
@@ -3661,6 +3660,26 @@
    "jpUrl": "d9509528f3e8a4d73459b1303d41d60d85a2b68015a569eac05abe719cef9299",
    "enUrl": "b5fa0dda88deea8498c474a3f5a1f2f16f7ee1ce2bef31c61fc5d55a5b7eb110",
    "krUrl": "e6cab93f80f2c2269cda7f9a17797add8cc6d8a75638dbe2abd5ce17bc643e42"
+  },
+  {
+   "id": 30,
+   "title": "เกี่ยวกับ Boothill",
+   "text": "Galaxy Ranger... ก็แค่ฉากบังหน้าของเขาเท่านั้น มองออกเลยว่า ผู้ชายคนนี้มีชีวิตอยู่เพื่อตัวเอง และนี่ก็เป็นเหตุผลที่ทำให้ฉันเชื่อมั่นในตัวเขา",
+   "unlockRequirement": "",
+   "cnUrl": "11bef2f1393fee88be482c7b80e4eecf159dff22c53dff07cf5254e0045baaa3",
+   "jpUrl": "d4c4dcaec1a75f8352b5a176aeae3979f3be9c32a35222a305b27b529d51e130",
+   "enUrl": "6b28895670d2707d6009c006ad153caf464e3a9a30449dedcfdfcdd499d3cee2",
+   "krUrl": "ecb611967f5f8f611d7ef0f7ada8ebae6174e407b41b85307e5694d7c1116383"
+  },
+  {
+   "id": 31,
+   "title": "สมาชิกทีม - Boothill",
+   "text": "ไวจริงๆ... เหมือนฉันจะเห็นปากกระบอกปืนที่คุณยกขึ้นมาด้วย",
+   "unlockRequirement": "",
+   "cnUrl": "920e3198955bc657460319070b5eb772d76ddc133bc5977b6d2daed7cd0eea9b",
+   "jpUrl": "3afc98dc66137c9e09feaab97d7c5299727f4f4c3502bc28452136124c32c282",
+   "enUrl": "0bbd53ac6d16e596df6b7e9e5b30f39c9d113c0478b6d24a7244020a021aed63",
+   "krUrl": "2a43910a31a4add9b1250a31b106d9b08efcd2f03302c607e3636abfdb131b4b"
   },
   {
    "id": 51,
@@ -3830,7 +3849,7 @@
    "cnUrl": "0acc28a4f99053d4d8960c0c81e110940ba1553db42f7db992ecff0c1250f46b",
    "jpUrl": "51908b0ad7629a9abf94fda0e1627e50fba3a9cada5f59e07a02f0914b10b6e9",
    "enUrl": "9ca2eab1f57dd43a35fc174d3a063180511c822d9ebdf02b2fc5de259c17da70",
-   "krUrl": "2469e88654b183a9dc08635e8073add024803111f176f6974172bdd5b98f8275"
+   "krUrl": "7afda6b1f112d18625c2a50fb0d7ffa2bf2d1d325b2ebc81623bbf2be485eb1c"
   },
   {
    "id": 68,
@@ -3906,7 +3925,7 @@
  "storyItems": [
   {
    "title": "รายละเอียดตัวละคร",
-   "text": "นักเดินทางที่เรียกตัวเองว่า \"Galaxy Ranger\" ไม่ทราบชื่อจริง พกดาบยาวติดตัว และเดินทางในกาแล็กซีเพียงลำพัง<br /><br />เย็นชาและเงียบขรึม มีกระบวนดาบที่รวดเร็วและรุนแรงดุจสายฟ้า แต่กลับใช้เพียงฝักดาบในการต่อสู้ และไม่เคยชักดาบออกมาเลย",
+   "text": "นักเดินทางที่เรียกตัวเองว่า \"Galaxy Ranger\" ไม่ทราบชื่อจริง มักจะพกดาบยาวติดตัว และเดินทางในกาแล็กซีเพียงลำพัง<br /><br />เย็นชาและเงียบขรึม มีกระบวนดาบที่รวดเร็วและรุนแรงดุจสายฟ้า แต่กลับใช้เพียงฝักดาบในการต่อสู้ และไม่เคยชักดาบออกมาเลย",
    "unlockRequirement": ""
   },
   {
@@ -3931,22 +3950,22 @@
   },
   {
    "title": "เรื่องราวของตัวละคร 1",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"...หาใช่คนที่เลือกดาบ แต่เป็นดาบต่างหากที่เลือกคน <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">เช่นเดียวกับที่คนเราไม่อาจเลือกโชคชะตา หากแต่เป็นโชคชะตาที่เลือกคน</span> ... ในวันนั้น เมื่อเห็น 'ดาบ' ที่ฉันตีหลอมขึ้นมา ถูกมอบให้กับหญิงสาว ฉันก็ตระหนักได้ว่า บนเส้นทางของการต่อต้าน <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">'เทพเจ้าทั้งมวล'</span> เธอได้ตัดสินใจเลือก... หรือไม่ก็ถูกเลือก... ให้ก้าวเดินไปบนเส้นทาง<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ที่ดูเหมือน</span>จะมุ่งไปสู่วันพรุ่งนี้ <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ฉันคาดหวังเหลือเกินว่า</span> นี่จะเป็นยุคที่สวยงาม แม้อาณาจักร Izumo จะยังคงเผชิญกับภัยคุกคาม แต่ผู้คนก็ยังมีความหวัง และเชื่อมั่นว่า <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">เทพที่ชั่วร้าย</span>จะถูกกำจัดสิ้นซาก ทั่วทั้งแผ่นดินจะได้รับอิสรภาพกลับคืนมาอีกครั้ง... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">แต่จนกระทั่งแสงจากดาบเลือนหาย ฉันถึงได้เข้าใจว่า นี่คือทางตันอันไร้จุดสิ้นสุด และผู้ที่เดินบนเส้นทางนี้ ไม่มีโอกาสหันหลังกลับไปได้อีกแล้ว</span>...\"<br /><br /><align=\"right\">เศษบันทึกโบราณ</align>",
    "unlockRequirement": "ปลดล็อกหลังจากเสร็จสิ้นภารกิจบุกเบิก \"ฝ่าดินแดนแห่งความตาย\""
   },
   {
    "title": "เรื่องราวของตัวละคร 2",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"...จากบันทึกที่ผู้ตีหลอมดาบทิ้งไว้ ทำให้ทราบว่าครั้งหนึ่งอาณาจักร Izumo เคยเกือบล่มสลายมาก่อน และเพื่อความอยู่รอด พวกเขาจึงใช้ <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">'กระดูกของเทพเจ้า'</span> ตีหลอมดาบขึ้นมา และผู้ถือครองดาบ จะถูกยกย่องให้เป็นวีรชนผู้กอบกู้แผ่นดิน <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ทางสถาบันสนใจเรื่องของ 'เทพเจ้าทั้งมวล' มาก ปัจจุบันยังไม่รู้แน่ชัดว่า พวกเทพดังกล่าวมีความเกี่ยวข้องกับ Path ไหน แต่ในบันทึกหลังจากนี้ คำที่ชาว Izumo ใช้เรียกขานผู้ถือครองดาบเหล่านั้น ได้ค่อยๆ เปลี่ยนจาก 'คน' กลายเป็น 'โอนิ'</span><br /><br />แต่น่าเสียดาย โลกแห่งนี้ได้หายไปจากแผนที่ดวงดาวแล้ว จึงไม่อาจค้นหาความจริงของประวัติศาสตร์จากที่ใดได้ 'ความทรงจำ' ก็ไม่หลงเหลือแล้วเช่นกัน เมื่อแผนกโบราณคดีมาถึงอีกที ในระบบดวงดาวก็เหลือเพียงบทเพลง \"ลึกลับ\" ที่ดังกังวานอยู่: สายฝนอันไร้ขอบเขตหลั่งรินจาก<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ดวงอาทิตย์สีดำ</span> ราวกับหยาดน้ำตา ภายใต้ม่านฝนอันเลือนราง ทายาทที่เหลือรอด หันหลังให้กับบ้านเกิดที่ถูก<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">เธอกอบกู้และลงมือ</span>ทำลาย... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">เบื้องหน้าของเธอ มีเพียงเงามืดที่มองไม่เห็นอะไรเลยเท่านั้น</span>\"<br /><br /><align=\"right\">โดย \"ผู้บันทึก\" Oppenheimer</align>",
    "unlockRequirement": "ปลดล็อกหลังจากเสร็จสิ้นภารกิจบุกเบิก \"ฝ่าดินแดนแห่งความตาย\""
   },
   {
    "title": "เรื่องราวของตัวละคร 3",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"ฉันได้นำสาร 'Revitalization<nobr>-310</nobr>' มาใช้ มันจะทำให้คนหลับลึก และเผชิญกับความทรงจำในอดีตอีกครั้ง ผู้ป่วยบางส่วนสามารถใช้วิธีนี้ เพื่อเรียก<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ความมั่นใจในการใช้ชีวิต</span>กลับมาได้อีกครั้ง แต่เธอคนนั้นแตกต่างออกไป ก่อนหน้าเธอ ไม่เคยมีใครตื่นจากการหลับใหลได้เองมาก่อน ฉันตรวจสอบความฝันของเธอดู... นั่นยากจะเรียกได้ว่าเป็นความทรงจำที่มีความสุข: ท้องฟ้ามืดครึ้ม เมืองที่ย่อยยับ เศษซากปรักหักพัง และสายฝนที่โปรยปรายลงมาอย่างต่อเนื่อง<br /><br />สายฝนนั้นโปรยปรายลงมาราวกับไม่มีวันหยุด ท่ามกลางกระแสน้ำที่เพิ่มสูงขึ้น ผู้คนต่างแย้มยิ้มในขณะสิ้นลมจากการจมน้ำ และในค่ำคืนอันมืดมิด ฉันได้ยินเสียงฟ้าร้องจากที่ไกลดังใกล้เข้ามา จนกระทั่งทันใดนั้น พลันเกิดแสงสว่างจากสายฟ้าฉีกกระชากค่ำคืนอันมืดมิด ภายใต้ท้องฟ้าที่แตกกระจัดกระจาย ฉันได้เห็นเธออีกครั้ง... ในโลกที่ไร้สีสัน เธอตวัดดาบเพียงแผ่วเบา และช่วงชิงทั้งดินแดนแห่งความฝันไป<br /><br />ฉันต้องขอยอมรับว่า เธอเดินไปบนเส้นทางนี้ได้ไกลกว่าพวกเรามาก <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">'ลบล้าง'</span> ที่ยากจะคาดเดา ได้ชักนำเธอให้เดินไปสู่<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">การทำลายตน</span> แต่เธอกลับคว้ามันไว้ท่ามกลางความว่างเปล่า บางที เธออาจพร้อมที่จะเผชิญหน้ากับศัตรูที่แท้จริง ตั้งแต่เริ่มออกเดินทางแล้วก็ได้... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ฉันเคยถามเธอว่า ทั้งหมดนี้มันมีความหมายอะไร? แต่เธอกลับไม่ตอบ นั่นเพราะเธอไม่รู้ว่าจะตอบยังไง หรือว่าเธอมีคำตอบในใจอยู่แล้วกันแน่?</span>\"<br /><br /><align=\"right\">บันทึกของ <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Doctors of Chaos</span> คนหนึ่ง</align>",
    "unlockRequirement": "ปลดล็อกหลังจากเสร็จสิ้นภารกิจบุกเบิก \"ฝ่าดินแดนแห่งความตาย\""
   },
   {
    "title": "เรื่องราวของตัวละคร 4",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"ฉันได้ทิ้งจดหมายฉบับนี้ไว้ที่นี่ ถ้าฉันไม่ได้กลับมา ก็ให้มันเล่าเรื่องราวของเธอคนนั้น ผู้เป็นเพื่อนที่ฉันเจอใน <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Orkron</span> แทนแล้วกัน เส้นทางสู่ดินแดนอีกฟากฝั่งลำบากแสนเข็ญ โชคดีที่มีเธอร่วมเดินทางไปด้วย ฉันถึงได้ปลอดภัยมาตลอดทาง <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ตอนแรกที่เจอกัน ฉันก็รู้สึกเหมือนว่า เธอกำลังแบกรับภารกิจบางอย่างเอาไว้ มันคือ \"การแก้แค้น\" งั้นเหรอ? เกรงว่าไม่น่าจะใช่ ผู้ที่มีจิตใจเคียดแค้นมักจะแสดงมันออกมาในบางครั้ง แต่เธอนิ่งสงบเช่นนั้นอยู่เสมอ ยกเว้นก็แต่ร่องรอยความเศร้า ที่เธอเผยออกมาบ้างเป็นบางครั้งก็เท่านั้น...</span><br /><br />...ก่อนที่พวกเราจะได้พบกัน เธอเคยไปเยือนโลกต่างๆ มามากมาย ทั้งยังเชี่ยวชาญทักษะการดำรงชีวิตต่างๆ เป็นอย่างดี ฉันกับเธอทำอาหาร และกางเต็นท์กลางป่าด้วยกัน ในค่ำคืนที่ไร้ซึ่งดวงดาวเหล่านั้น เธอจะฟังฉันเล่าเรื่องราว และคุยกันว่าพรุ่งนี้ต้องทำอะไรบ้าง แต่เวลาส่วนใหญ่ พวกเราจะเดินทางกันเงียบๆ หิมะของที่นี่เป็นสีม่วงอมแดง ลองชิมแล้วมีรสเปรี้ยวเหมือนราสป์เบอร์รี เธอ<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">รับรู้รสไม่ค่อยได้เท่าไหร่แล้ว แต่ก็ยัง</span>ชมดังโงะหิมะ Orkron ที่ฉันทำ...<br /><br />...ก่อนที่จะรู้จักเธอ ฉันเดินทางข้ามผ่านแม่น้ำ<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">ของ 'ลบล้าง'</span> มานานหลายปี เธอยื่นมือมาหาฉัน พวกเราเลยเดินทางผ่านแม่น้ำสายนี้ไปด้วยกัน ตอนนี้ถึงเวลาที่ต้องแยกกันแล้ว ฉันยังไปไม่ถึงฝั่ง และไม่รู้ด้วยว่ากำลังจะต้องเผชิญหน้ากับอะไร... แต่ฉันไม่มีเหตุผลที่ต้องหยุดฝีเท้า ชีวิตก็คือเส้นทางที่ต้องสิ้นสุดลงในสักวัน แต่ก่อนจะถึงตอนนั้น ฉันจะเดินไปให้ถึงปลายทางด้วยสองขาของตัวเอง และฉันเชื่อว่าเธอก็คงทำเหมือนกัน\"<br /><br /><align=\"right\">บันทึกของ <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">\"Frebass\"</span></align>",
    "unlockRequirement": "ปลดล็อกหลังจากเสร็จสิ้นภารกิจบุกเบิก \"ฝ่าดินแดนแห่งความตาย\""
   }
  ],
@@ -4049,7 +4068,7 @@
  },
  "name": "Acheron",
  "rarity": 5,
- "descHash": "นักเดินทางที่เรียกตัวเองว่า \"Galaxy Ranger\" แต่ไม่ทราบชื่อเสียงเรียงนามที่แท้จริง มักจะพกดาบยาวติดตัว และเดินทางในกาแล็กซีเพียงลำพัง",
+ "descHash": "นักเดินทางที่เรียกตัวเองว่า \"Galaxy Ranger\" ไม่ทราบชื่อจริง มักจะพกดาบยาวติดตัว และเดินทางในกาแล็กซีเพียงลำพัง",
  "artPath": "5f42b81562b48be4f64cd92fc466d55236e37624656e88c8138d5c80129b2019",
  "miniIconPath": "4b0dff443c4ad180a7ee49451a8a261aa72e8c715b9adaf24f8cf827ec17ddf5",
  "damageType": {

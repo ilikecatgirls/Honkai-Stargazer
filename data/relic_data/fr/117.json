@@ -58,7 +58,7 @@
  "skills": [
   {
    "useNum": 2,
-   "desc": "Augmente de <nobr>#1[i]%</nobr> les DGT infligés aux ennemis qui subissent des malus.",
+   "desc": "Augmente les DGT infligés aux ennemis qui subissent des malus de <nobr>#1[i]%</nobr>.",
    "params": [
     0.12
    ]

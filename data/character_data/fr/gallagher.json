@@ -6,9 +6,8 @@
  "fgPath": "fc4cd3ece56b1e04d6fb0b61ad38abd25f0c03437b35b93aa232a854e6fa0045",
  "splashIconPath": "fec4c21cfb55059d506ad72c169042c83ebbbf369772e167b43fcbd2ed5bcf86",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRp4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAsBAAABkKtt2yFJb/01tm1b0axtp8iNUAdgpnttboeKGNv2bmRW/d/7LqrPISImAMkOAHLLJrUidQC4jKYVN1/5OXApEG6+dPujJM1FmBCWhGclyTzjAaQDCLDwwEV5b0aaDlXj/6zrkpGkROrplgY4TI4UU5REKRb74DBJ/P8/0msnXIhFMiqZVNQFh+CcPJkkem1EiLG/RYpMkOnDCLBWpFKTsdZixkMfy0RS/I/2ZdkSmT/6XjQaRUqRthYdNG24pkiUUaTpUyfK9t/sOyZ91kfJRNOXPocpywuX3tnSOGPqzd+KvOn3AFDjgHK4MtSe/iFJD2oRAAEQpOcBGN148Uu8G8kBAAQA0uqrigAAVlA4IGwBAAAwCACdASoUABQAPm0uk0ckIiGhKAqogA2JaACdMoMpLIBzJPqA0QDrbvKAuUBsTUwD9Zg4naA0atClntVnN7GX07RL471+vwFnAAD+8rOKuPKZ/bI+jpLQZ9+/lYL1ODr/A9SUHSOqEaKeX2e5S6sxX4TTnXfJuaCVLl0sf10olNHRKbSf46zp+vwRVI93DaHAbaj9Cx/UvK6rfCkrhP0/plzmaH9l1COyoP1H4tLxhDTyESk7n/FmDuV4FLAPZbUxKHLJdkW0I6mXsH5s396jmYFnZwpuS5YRAl0TWps1ITA5+QrHUP4wtw4RQDC3TekljZ7ANR3gATIaJatdENzL2fXMJ1oVb+kau0/2zeU8Q5tH9HJn+VD6AYIaaEm6CPVVbr7WcmULl3dNUr3rRoY64xAUp7eehmgEz5au17F/ktjqnp675OnE274IrG8gc+Zupbpwzv8qX1j8zc8sB2Df1qIlc+7LsWwaAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -190,7 +189,7 @@
    "purposeId": 3,
    "iconPath": "98956c7191b34655e76f1351f86d05cfe180bde1c7ad81b960c2d3198b4b4d0c",
    "name": "Myria-Fruit",
-   "desc": "Le fruit qui pousse sur les branches de l'arbre-cœur du bois sacré de Vonwacq. Il contient l'essence d'une multitude de formes de vie. Il permet d'améliorer considérablement les Traces des personnages qui suivent la Voie de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abondance</span>.",
+   "desc": "Le fruit qui pousse sur les branches de l'arbre-cœur du bois sacré de Vonwacq. Il contient l'essence d'une multitude de formes de vie. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abondance</span>.",
    "lore": "Un jour après avoir bu le nectar de l'arbre divin, le petit fruit minuscule se transforme en Démon revêtu d'une armure de fibres, armé d'une lance de bois et d'un bouclier de feuilles. À ses pieds, les créatures du bois lui offrent leurs gènes. Il goûte, apprend et se métamorphose. Le Démon ira ensuite défier la mer et le ciel de Vonwacq.<br /><br />« Voilà comment les sages de l'ancien temps emprisonnèrent les créatures les plus terrifiantes dans un jeu ridicule. »",
    "purpose": "Matériau de Trace<br />Matériau d'élévation de cône de lumière",
    "rarity": 4,
@@ -440,10 +439,10 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "1c02d236c265b252501946163a123ea0024914f3d7bb717e614b53fba6918e90",
+   "iconPath": "a6815cab69cdf8215c1015fbd8afb8cfbe6e874690f14c13cd09049ed2809e1e",
    "artPath": "06ec5979cd3faee0259917c4277a3482c61fc21583cfc68a7801eaa82fb56a3c",
    "name": "B<nobr>-52</nobr>",
-   "descHash": "Régénère <nobr>#1[i]</nobr> points d'énergie et augmente de <nobr>#2[i]%</nobr> sa RÉS aux effets lorsque Gallagher entre en combat.",
+   "descHash": "Lorsque Gallagher entre en combat, il régénère <nobr>#1[i]</nobr> points d'énergie et augmente sa RÉS aux effets de <nobr>#2[i]%</nobr>.",
    "params": [
     20,
     0.5
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "bca9a8c6f1a873ff76cd0bd120473dcf660321c5bad73cffd7a9fbc7e7d25f04",
+   "iconPath": "f826cc6880d90b1638995727f9842aaf92e55844275821b850f9678d7bec650b",
    "artPath": "ded57e58a83be469fd8bc1744197764e5065f70e4a2c6570244066ddf5e3efbe",
    "name": "Souffle du dragon",
    "descHash": "Supprime <nobr>#1[i]</nobr> malus de la cible alliée lors de l'utilisation de la compétence. D'autre part, augmente de <nobr>#2[i]%</nobr> sa RÉS aux effets pendant <nobr>#3[i]</nobr> tours.",
@@ -463,7 +462,7 @@
   },
   {
    "id": 3,
-   "iconPath": "652c00cd672620ec1aa067b20fae0232fc92babfa0b9906c6e29073258d65708",
+   "iconPath": "66506d57a314cb46a24df8d3eb1f3bd09fe89bd1345da59246d8aaf909de3a87",
    "artPath": "36eb269de21bb98b287d2d099d742874a7d6b9ce650d373464c2027232bd7141",
    "name": "Remontant",
    "descHash": "Niv. de la compétence +2, jusqu'au Niv. <nobr>15</nobr> maximum.<br />Niv. de l'ATQ normale +1, jusqu'au Niv. <nobr>10</nobr> maximum.",
@@ -471,7 +470,7 @@
   },
   {
    "id": 4,
-   "iconPath": "fe8d6bf3a18fc26d322b5cca6c7cf4387132c388b6baa6497c8d5ce03f70a8de",
+   "iconPath": "150811799b4c3e0b61078521022a8549bca30ffd1839ad0569a59bbf6bcd120b",
    "artPath": "5bedaf59fb700ad0c8b2b49fd1d4bf463c3399177ca4afaf6be3bb2a8cd14b22",
    "name": "Derniers mots",
    "descHash": "Augmente d'<nobr>#1[i]</nobr> tour la durée de l'effet Ivresse infligé par l'ultime de Gallagher.",
@@ -481,7 +480,7 @@
   },
   {
    "id": 5,
-   "iconPath": "a9226a33341e99eabe22b8d047cc5588f9d7e4e595f7d73c3c4268182975f063",
+   "iconPath": "5bb3bcf775d9025cc8a4545fffbcc0711b6e705f1b8710fab39ebd255234f2b6",
    "artPath": "1fc609b3622445a163df19949106991915a3002f4f13ae3bd6c3fe85e6e9adcb",
    "name": "Mort dans l'après-midi",
    "descHash": "Niv. de l'ultime +2, jusqu'au Niv. <nobr>15</nobr> maximum.<br />Niv. du talent +2, jusqu'au Niv. <nobr>15</nobr> maximum.",
@@ -489,10 +488,10 @@
   },
   {
    "id": 6,
-   "iconPath": "85634385782afd2654b6f901572c0de58b4deeffae0002918c7dd583be8ed7b9",
+   "iconPath": "be93375a51e55caf188d75fcd5bc56ae1343b55bccacd33b5d7989489de86a8a",
    "artPath": "9eb1f3131de5313ed323aba03f32fe28eb650194cade404055eb5ccce661cb96",
    "name": "Sang et sable",
-   "descHash": "Augmente de <nobr>#1[i]%</nobr> l'effet de Rupture de Gallagher et de <nobr>#2[i]%</nobr> son efficacité de Rupture de faiblesse.",
+   "descHash": "Augmente l'effet de Rupture de Gallagher de <nobr>#1[i]%</nobr> et son efficacité de Rupture de faiblesse de <nobr>#2[i]%</nobr>.",
    "params": [
     0.2,
     0.2
@@ -526,7 +525,7 @@
    "energy": "20",
    "id": 426146,
    "name": "Coup de pompe",
-   "iconPath": "5f7218bd22632454e4e7f7828aba4370abb31ca24b94fff192c8db547e6c4894",
+   "iconPath": "d7e1005512962c6e7618f48564fe8271bfb975599e826ed0eceac6d417417fb7",
    "typeDescHash": "ATQ normale",
    "levelReq": 0,
    "promotionReq": 0,
@@ -687,7 +686,7 @@
    "energy": "30",
    "id": 342205,
    "name": "Cuvée spéciale",
-   "iconPath": "652c00cd672620ec1aa067b20fae0232fc92babfa0b9906c6e29073258d65708",
+   "iconPath": "66506d57a314cb46a24df8d3eb1f3bd09fe89bd1345da59246d8aaf909de3a87",
    "typeDescHash": "Compétence",
    "levelReq": 0,
    "promotionReq": 0,
@@ -952,13 +951,13 @@
   },
   {
    "tagHash": "ZdE",
-   "descHash": "Applique l'effet Ivresse à tous les ennemis pendant <nobr>#2[i]</nobr> tours. D'autre part, inflige des DGT de feu équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> de l'ATQ de Gallagher à tous les ennemis et la prochaine ATQ normale de Gallagher est renforcée en Coup de fouet.",
+   "descHash": "Applique l'effet Ivresse à tous les ennemis pendant <nobr>#2[i]</nobr> tours. D'autre part, inflige des DGT de feu équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> de l'ATQ de Gallagher à tous les ennemis et renforce sa prochaine ATQ normale en Coup de fouet.",
    "ultimateCost": 110,
    "break": "60/hit",
    "energy": "5",
    "id": 258264,
    "name": "C'est ma tournée !",
-   "iconPath": "6fc2e1dbc75c2594a415129007f14e24741480f254d28b0bc4c6140cffaab646",
+   "iconPath": "af66914c3bf9726553eaecc0dadb86904327b00f631ea74eed784165db04a7cc",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1238,13 +1237,13 @@
   },
   {
    "tagHash": "Restauration",
-   "descHash": "L'effet Ivresse augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> les DGT de rupture subis par les cibles. Chaque fois qu'une cible affectée par Ivresse est attaquée par un allié, l'assaillant récupère <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]</nobr></span> PV.",
+   "descHash": "L'effet Ivresse augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> les <u>DGT de rupture</u> subis par les cibles. Chaque fois qu'une cible affectée par Ivresse est attaquée par un allié, l'assaillant récupère <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]</nobr></span> PV.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 141619,
    "name": "Ébriété destructrice",
-   "iconPath": "40eb47c7f88c24abedb09c676140e2073e1dcc95b2e30129050b9ce13a8d800f",
+   "iconPath": "125b563450c04a008ebaf5b7c1006044c798c3cdeb307e62a4c98327eb9cb945",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1530,7 +1529,7 @@
    "energy": "0",
    "id": 973737,
    "name": "Attaque",
-   "iconPath": "5f7218bd22632454e4e7f7828aba4370abb31ca24b94fff192c8db547e6c4894",
+   "iconPath": "d7e1005512962c6e7618f48564fe8271bfb975599e826ed0eceac6d417417fb7",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1546,13 +1545,13 @@
   },
   {
    "tagHash": "",
-   "descHash": "Engage immédiatement le combat contre les ennemis. Inflige Ivresse à tous les ennemis pour une durée de <nobr>#1[i]</nobr> tours en entrant en combat. Et inflige des DGT de feu équivalents à <nobr>#2[i]%</nobr> de l'ATQ de Gallagher à tous les ennemis.",
+   "descHash": "Engage immédiatement le combat contre les ennemis. Inflige Ivresse à tous les ennemis pour une durée de <nobr>#1[i]</nobr> tours en entrant en combat et inflige des DGT de feu équivalents à <nobr>#2[i]%</nobr> de l'ATQ de Gallagher à tous les ennemis.",
    "ultimateCost": 0,
    "break": "60",
    "energy": "0",
    "id": 857092,
    "name": "Sans modération",
-   "iconPath": "8362bd58df7311412cb3d5800cab4697f28697fbc4e4356d58f505197ac69563",
+   "iconPath": "c7c87d29b4475a190138c950a3dc7052be8c56e57a179ca25b2efd5cabfd0e1a",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1577,7 +1576,7 @@
    "energy": "20",
    "id": 312431,
    "name": "Coup de fouet",
-   "iconPath": "587e67b212907295d75b9f47a763d27e8df0f217fcbac2b18dc54e4f5dec8b33",
+   "iconPath": "459ec8b0eaa2512f7da264037b0b9e3483d7a0e1520c224fb96859e8f0800a63",
    "typeDescHash": "ATQ normale",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1862,7 +1861,7 @@
     "ultimateCost": 0,
     "id": 63351,
     "name": "Cocktail signature",
-    "iconPath": "b42c59cf6ec75a9e2dab964bec6f26bb8e68b5f48ea423cf4acaa3a0f2f12a5e",
+    "iconPath": "ee47d1da06e734287b6ca33d050ff9f853ac1006aa82b06c1f0bb6a8740db109",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2004,7 +2003,7 @@
     "ultimateCost": 0,
     "id": 63354,
     "name": "Levure de bière",
-    "iconPath": "08d1f6474537cd68e555067fcfe1f705163e68be4e4443850976263463f41f67",
+    "iconPath": "d0f52a86a6b7671f36cbf368dfa92dc702a4d9000a4beb2c5f9ee76bc9fd3b52",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2112,7 +2111,7 @@
     "ultimateCost": 0,
     "id": 63353,
     "name": "Santé !",
-    "iconPath": "f86a0b231a9cd7d4fb77d0ae28d748e94c9196d544b305f1f36fbeacd61d1de8",
+    "iconPath": "f4820a18f90d0ba15509551d075885ff53211a52cfc00a5be778a6aec054feb3",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2448,6 +2447,26 @@
    "krUrl": "e343711f45694dc8460f8d6e3010a25bc2856881033a79ebc095c0edfc8e5973"
   },
   {
+   "id": 22,
+   "title": "À propos de Micha 2",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Et durant le huitième jour... ».",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 23,
+   "title": "Rejoint l'équipe avec Robin",
+   "text": "Qu'importe où l'avenir me mènera, j'entendrai toujours la mélodie de ta voix.",
+   "unlockRequirement": "",
+   "cnUrl": "2f3add232ef4d1fb4aa74d761a4b9c20cfbbb44ed78c8279a735c0096f6134aa",
+   "jpUrl": "b94f072015ddfccc77cad8d6a36355ffb91a1b0ba701ace6cdf47a816db615a3",
+   "enUrl": "20b71043013b91f75dfd27f9fff80f6a3af4de90769538b051f7df96a882f0fe",
+   "krUrl": "7a6c6a21597407ba54450c4218553eb5db34b85e224afff9bc6fc140fabb4754"
+  },
+  {
    "id": 51,
    "title": "Rupture de faiblesse en début de combat",
    "text": "C'est tout ce que tu sais faire ?",
@@ -2706,17 +2725,17 @@
   },
   {
    "title": "Histoire du personnage : Partie I",
-   "text": "Des effluves de tabac, de sucrerie et de shampoing bon marché... L'odeur typique d'un célibataire d'âge moyen. Ses vêtements sont propres, mais toujours froissés, et sa tenue démontre un manque total de style. Il semble ne porter aucun intérêt à son apparence. Il n'a pas beaucoup d'amis et son passe-temps préféré après le travail est de siroter quelques verres de liqueur Douce nuit. Il s'assoit toujours à la même place, commande la même boisson auprès des mêmes serveurs... Il n'a pas changé sa routine depuis plus de dix ans.<br /><br />Pourtant, cet homme a remporté l'admiration et le respect de la Maison Fin-Limier, ce qui n'est certainement pas sans lien avec la longue cicatrice qui lui barre le visage. Dans un beau rêve dénué de toute mésaventure, cette affreuse balafre fait office de médaille pour un officier de sécurité, symbole d'ancienneté et de prestige.<br /><br />Quand une affaire se présente à lui, il commence par déballer un bonbon avant de le fourrer dans sa bouche. Après l'avoir consciencieusement mastiqué, il se plonge dans l'enquête, sourcils froncés, et passe en revue les indices jusqu'à tard, toujours au bar. Cependant, contrairement aux jeunes officiers, il semble ne plus prendre plaisir à arrêter les suspects. Lorsque son regard croise celui des prétendus criminels perdus dans le rêve, je n'y perçois aucune trace de satisfaction, seulement un immense vide et une grande mélancolie.<br /><br />En réalité, je le comprends. À ce stade de la vie, vous commencez à remettre en question l'existence que vous avez menée jusqu'à présent. J'ai vécu la même chose.<br /><br /><align=\"right\">— Notes d'un chef de la sécurité de la Maison Fin-Limier</align>",
+   "text": "Des effluves de tabac, de sucrerie et de shampoing bon marché... L'odeur typique d'un célibataire d'âge moyen. Ses vêtements sont propres, mais toujours froissés, et sa tenue démontre un manque total de style. Il semble ne porter aucun intérêt à son apparence. Il n'a pas beaucoup d'amis et son passe-temps préféré après le travail est de siroter quelques verres de liqueur Beaux rêves. Il s'assoit toujours à la même place, commande la même boisson auprès des mêmes serveurs... Il n'a pas changé sa routine depuis plus de dix ans.<br /><br />Pourtant, cet homme a remporté l'admiration et le respect de la Maison Fin-Limier, ce qui n'est certainement pas sans lien avec la longue cicatrice qui lui barre le visage. Dans un beau rêve dénué de toute mésaventure, cette affreuse balafre fait office de médaille pour un officier de sécurité, symbole d'ancienneté et de prestige.<br /><br />Quand une affaire se présente à lui, il commence par déballer un bonbon avant de le fourrer dans sa bouche. Après l'avoir consciencieusement mastiqué, il se plonge dans l'enquête, sourcils froncés, et passe en revue les indices jusqu'à tard, toujours au bar. Cependant, contrairement aux jeunes officiers, il semble ne plus prendre plaisir à arrêter les suspects. Lorsque son regard croise celui des prétendus criminels perdus dans le rêve, je n'y perçois aucune trace de satisfaction, seulement un immense vide et une grande mélancolie.<br /><br />En réalité, je le comprends. À ce stade de la vie, vous commencez à remettre en question l'existence que vous avez menée jusqu'à présent. J'ai vécu la même chose.<br /><br /><align=\"right\">— Notes d'un chef de la sécurité de la Maison Fin-Limier</align>",
    "unlockRequirement": "Disponible au niveau <nobr>20</nobr> de personnage"
   },
   {
    "title": "Histoire du personnage : Partie II",
-   "text": "Les gens ont besoin d'un coup de pouce pour entamer la conversation dans les rêves, et les cocktails sont les catalyseurs de ces réactions.<br /><br />J'examine les alentours et je repère rapidement un individu qui a l'air d'avoir l'habitude de jouer sur les deux tableaux.<br /><br />Il lance la conversation en évoquant le succès de la liqueur Douce nuit avant de poursuivre sur l'histoire des sirops et du Félicitâme, expliquant aux convives le lien entre le temps passé à agiter la boisson et sa saveur finale. Enfin, il évoque les degrés de correspondance entre l'arôme du cocktail et la personnalité du client, le secret de la juste combinaison des ingrédients... Les visages qui l'entourent se noient dans les ténèbres environnantes. Il écoute les murmures de joie ou de chagrin, sondant froidement le cœur des masses tandis que la fête se poursuit.<br /><br />Une fois tous les clients partis, il astique les verres en argent jusqu'à ce qu'ils étincellent, le regard toujours tourné vers la porte. Jour après jour, il attend quelqu'un qui ne reviendra jamais, il attend de cette personne le mensonge éternel qui mettra un terme à ce destin sans fin.<br /><br />Il marche seul dans les rues tandis que les lampadaires s'éteignent les uns après les autres. L'ombre qu'il projette derrière lui est immense.<br />Peut-être que moi aussi, j'emprunterai le même chemin tout tracé que lui.<br /><br /><align=\"right\">— Notes d'un barman des rêves</align>",
+   "text": "Les gens ont besoin d'un coup de pouce pour entamer la conversation dans les rêves, et les cocktails sont les catalyseurs de ces réactions.<br /><br />J'examine les alentours et je repère rapidement un individu qui a l'air d'avoir l'habitude de jouer sur les deux tableaux.<br /><br />Il lance la conversation en évoquant le succès de la liqueur Beaux rêves avant de poursuivre sur l'histoire des sirops et du Félicitâme, expliquant aux convives le lien entre le temps passé à agiter la boisson et sa saveur finale. Enfin, il évoque les degrés de correspondance entre l'arôme du cocktail et la personnalité du client, le secret de la juste combinaison des ingrédients... Les visages qui l'entourent se noient dans les ténèbres environnantes. Il écoute les murmures de joie ou de chagrin, sondant froidement le cœur des masses tandis que la fête se poursuit.<br /><br />Une fois tous les clients partis, il astique les verres en argent jusqu'à ce qu'ils étincellent, le regard toujours tourné vers la porte. Jour après jour, il attend quelqu'un qui ne reviendra jamais, il attend de cette personne le mensonge éternel qui mettra un terme à ce destin sans fin.<br /><br />Il marche seul dans les rues tandis que les lampadaires s'éteignent les uns après les autres. L'ombre qu'il projette derrière lui est immense.<br />Peut-être que moi aussi, j'emprunterai le même chemin tout tracé que lui.<br /><br /><align=\"right\">— Notes d'un barman des rêves</align>",
    "unlockRequirement": "Disponible au niveau <nobr>40</nobr> de personnage"
   },
   {
    "title": "Histoire du personnage : Partie III",
-   "text": "Le bonheur ne réside que dans les beaux rêves, c'est ce qui en fait son plus grand malheur.<br /><br />Ces individus désabusés redoutent par-dessus tout de finir chassés par la Famille. Ils errent tels des fantômes aux confins des rêves, masquant au mieux leurs émotions et évitant les souvenirs qui leur inspireraient des regrets. Ce n'est que lorsque ils boivent une gorgée de cocktail que leurs défenses tombent, comme s'ils voulaient dire tout ce qu'ils ont sur le cœur pour le reste de leur vie...<br /><br />« Si tous ceux qui me détestent se mettaient en rang, la file irait d'ici jusqu'à l'entrée de l'Hôtel Rêverie. En revanche, ceux qui peuvent me regarder dans les yeux... *soupir* Disons que ceux-là ne sont pas nombreux... »<br />« Tout le monde a un rêve. Quand j'avais ton âge, je voulais devenir un brigand galactique. C'est loin d'être le cas, comme tu peux le voir  ! »<br />« Rah, cette cravate est toute de travers. Enfin, tu n'as peut-être pas remarqué. À Penacony, personne ne se soucie de ce qu'on porte. Ils se fichent même de savoir si la personne avec qui ils parlent est réelle. »<br />...<br /><br />Ils disent le contraire de ce qu'ils pensent, ils ne diront jamais ce qu'ils ressentent vraiment... mais il n'y a que comme ça que leur histoire peut tenir debout... »<br /><br /><align=\"right\">— Mémoires d'un rêveur déchu</align>",
+   "text": "Le bonheur ne réside que dans les beaux rêves, c'est ce qui en fait son plus grand malheur.<br /><br />Ces individus désabusés redoutent par-dessus tout de finir chassés par la Famille. Ils errent tels des fantômes aux confins des rêves, masquant au mieux leurs émotions et évitant les souvenirs qui leur inspireraient des regrets. Ce n'est que lorsque ils boivent une gorgée de cocktail que leurs défenses tombent, comme s'ils voulaient dire tout ce qu'ils ont sur le cœur pour le reste de leur vie...<br /><br />« Si tous ceux qui me détestent se mettaient en rang, la file irait d'ici jusqu'à l'entrée de l'Hôtel Rêverie. En revanche, ceux qui peuvent me regarder dans les yeux... *soupir* Disons que ceux-là ne sont pas nombreux... »<br />« Tout le monde a un rêve. Quand j'avais ton âge, je voulais devenir un brigand galactique. C'est loin d'être le cas, comme tu peux le voir  ! »<br />« Rah, cette cravate est toute de travers. Enfin, tu n'as peut-être pas remarqué. À Penacony, personne ne se soucie de ce qu'on porte. Ils se fichent même de savoir si la personne avec qui ils parlent est réelle. »<br />...<br /><br />Ils parlent sans substance, ils ne diront jamais ce qu'ils ressentent vraiment... mais il n'y a que comme ça que leur histoire peut tenir debout... »<br /><br /><align=\"right\">— Mémoires d'un rêveur déchu</align>",
    "unlockRequirement": "Disponible au niveau <nobr>60</nobr> de personnage"
   },
   {

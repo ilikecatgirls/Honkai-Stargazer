@@ -6,9 +6,8 @@
  "fgPath": "3d96f0f89279e0604f2c73d3183b0d41a1a5aebc755e1f8b50d0ff5853dd959f",
  "splashIconPath": "0c1fcaf8492a4c459c33f08fc8f052715ebeaa31946fd0434b7bb943eaaf0b09",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRpwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBoBAAABkHNb27HH0q/7iW3bdlJZpW07KW21Gqv6quls27ZtVPb7PPdYETEB+HPCzwkQICIAhJ8TfkkAPCwAAcBRmCa42AZ42hoZercAMHH3pMGzZ3d53Hu2XVeCxeFGWYg5Vmpzi1me1phZN7cS/SGW9TXtyz7JL8xKfvly5oJzTScs8hGku8tSaUpJfunevsM6BRMjfrdZKqUU867YKZ7sC4LZIam+sFKs8ZHpg7ol7/JBoN38WSmlNO05l7vs64IguJ9iZpaS+VOL9fVsCOih5vHqta8/Mm/asGotT0AfEMjYca5nYMWlfbMv7k514ec2hff5zqILa65vi8evCRX7nmYBsIHQ+wUE0Pl0rqo7kfC7RAhMSnDDf0mCfgdWUDggXAEAADAIAJ0BKhQAFAA+bTCSRyQioaEoCqiADYlsAJ0yhHUHo1Et/yWIA70DfVesA9CXpHf219HAwHbLgXq3+CkQ5yazw12lSzsqIGoAAP7zegDL+kvpW1PEWXhxDWbUudHgHwW662PyvAsRBo+pOcGBSb74NZDvn32Gn5mh5xZKz3TCp+eK8q4ZPh6rYbXVALalx3je6Nlvc9SK/1pE+lWOeCWmQxndIR/+VNxZKm9uY5zIYi82OU5xzCHDABKSaw+L1FGi22m/b4lygsYeiSDDDt5SGWhEWcbVATRGszipGmvrw+kOBgVnnwoaye+gohebuppzlhl1VZT5/f9ShEViygwbv4nfMmWUHBegVH8mcbU/g3XKURojXJu69wC0aA4PUjwQGUQH74e16cMJpkG86neKrbSrfGXiJT4yj7KR/f3ycb4vne6X/x637I/xpfk7ob/9auSXSqKnVUQAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2179,7 +2178,7 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "行動制限系デバフを抵抗する確率+<nobr>#1[i]%</nobr>。",
+    "descHash": "行動制限系デバフに抵抗する確率+<nobr>#1[i]%</nobr>。",
     "ultimateCost": 0,
     "id": 572888,
     "name": "無邪気",

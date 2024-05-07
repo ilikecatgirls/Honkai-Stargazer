@@ -6,9 +6,8 @@
  "fgPath": "4ecdd0f699f1b12aca7be8c302bcb40cec3d0a9985587a0d38a20503a25e19ea",
  "splashIconPath": "92d4ffd22f3790aa9579cb83fb987c3ee682e4d27e909623ab585d1a52bac3fb",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRm4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPYAAAABkFvbtmo3+74njjhVJqXMzMwsZawWGKtgKWd1wHbk4cwNMDP7vru34f1fQ0RMAAD4AJCQAcy3wSDUB0rWLh68ODpUDWJCfFQ+dAp9VoNQD41fRGsDZ39Lm7lxgEH2N/0mRVFOepsFY3Cu3yIlkXL8WQgf5r4CUqGU1VUcsKSAVERSLge4llVUTv3AlgIqSlpNAusKyAgk9aka2NVvRUmrzTig+5vICKTTBHzEPpITQ0jqRRk8H3v6SZESKaunyTAeSh/LBiJFWmkcHmAQcy5Zko7SHDwA8BDbdyPZQLothEGoMci8fS1dtifBR+QYoGl5OB7w8D9WUDggUgEAAFAHAJ0BKhQAFAA+bTKUR6QioiEoCACADYlkAJ0yhH4n571f//ex7LKEuB7QfpDfXhDwnjMmpM1kBfI4+VyTgp5El4AA/sG1FDtSeD6f+atgfvAwWL20tvGYCIhEi0TCvenqee5RvuL/yYh7LP3yO4QUYE0JubSFTA1NXSOVoUE/nM73kyHqG4vbA0KLO5lDecOc5vMedfbwNYMvylTGiXecXuJuTg3dE5MCb5SCJYSh1B3m6JKxrvOheyWyts3su5TqySKZdmPmPuxQF5SoL7ezBis4oBysnBvIj/u7hsuI3IadIQBrpLhTN937X/pMkQErDQKd7/i5oIHO5Rr9WQg/niz+u/9H80VP6JEjr8H5SFXe+v6iNEcT5Yq74kh1PE8jX3gaX3t9kLdDM1X5LT/uUtqwCttlY0SRhu/Z+LvVT5A3C8p8OZ8USmZe9mfvqgAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -692,7 +691,7 @@
     {
      "params": [
       1,
-      0
+      0.4
      ],
      "level": 1,
      "levelReq": 0,
@@ -702,7 +701,7 @@
     {
      "params": [
       1.1,
-      0.08
+      0.44
      ],
      "level": 2,
      "levelReq": 0,
@@ -721,7 +720,7 @@
     {
      "params": [
       1.2,
-      0.16
+      0.48
      ],
      "level": 3,
      "levelReq": 0,
@@ -744,7 +743,7 @@
     {
      "params": [
       1.3,
-      0.24
+      0.52
      ],
      "level": 4,
      "levelReq": 0,
@@ -767,7 +766,7 @@
     {
      "params": [
       1.4,
-      0.32
+      0.56
      ],
      "level": 5,
      "levelReq": 0,
@@ -790,7 +789,7 @@
     {
      "params": [
       1.5,
-      0.4
+      0.6
      ],
      "level": 6,
      "levelReq": 0,
@@ -813,7 +812,7 @@
     {
      "params": [
       1.625,
-      0.5
+      0.65
      ],
      "level": 7,
      "levelReq": 0,
@@ -836,7 +835,7 @@
     {
      "params": [
       1.75,
-      0.6
+      0.7
      ],
      "level": 8,
      "levelReq": 0,
@@ -863,7 +862,7 @@
     {
      "params": [
       1.875,
-      0.7
+      0.75
      ],
      "level": 9,
      "levelReq": 0,
@@ -917,7 +916,7 @@
     {
      "params": [
       2.1,
-      0.88
+      0.84
      ],
      "level": 11,
      "levelReq": 0,
@@ -927,7 +926,7 @@
     {
      "params": [
       2.2,
-      0.96
+      0.88
      ],
      "level": 12,
      "levelReq": 0,
@@ -937,7 +936,7 @@
     {
      "params": [
       2.3,
-      1.04
+      0.92
      ],
      "level": 13,
      "levelReq": 0,
@@ -947,7 +946,7 @@
     {
      "params": [
       2.4,
-      1.12
+      0.96
      ],
      "level": 14,
      "levelReq": 0,
@@ -957,7 +956,7 @@
     {
      "params": [
       2.5,
-      1.2
+      1
      ],
      "level": 15,
      "levelReq": 0,
@@ -2260,7 +2259,7 @@
   },
   {
    "id": 18,
-   "title": "Level Max Karakter",
+   "title": "Level Max Tercapai",
    "text": "Perhentian terakhir kita tidak pernah bisa dicapai sepenuhnya.",
    "unlockRequirement": "",
    "cnUrl": "905f4f303ccc2ebe47679328b73f39808c4766f08292506fe6eab4204d8e5ea0",

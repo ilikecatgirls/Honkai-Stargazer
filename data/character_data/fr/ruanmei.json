@@ -6,9 +6,8 @@
  "fgPath": "",
  "splashIconPath": "8f3ea34da7021264f1f952d1dbf435b2cda6bc7feddfb68fd91ac7ab53386f1f",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRrYCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSCUBAAABkHNb27HH2q/n/WLbtm2nS6qxp7M9nVnbRmfbtm3bCN/nvgYfImIC4KCrD6wq9Kp0SwxNzqodPrmhe8Z/Cpj99eHvVz+bSH5pGgwLFBI2XqJ1s51NsVAAfFZRa9EiIprvAwDAGY00RYRCan4ADACYw3ZrImya3BUw0OUDNUWEQuGzO9thoN+GvTRJUijCrwezoFLObjpEUyhCobD9WBSUd/WyFrFKEdEcg//dn9E0NbUWLa2cnpzoa6CuqZ2kkKRJPurdIUehYcfhbTs/8NrL21u5e8KYQlj1H9V34rWgZStw9a03AAUoAD5e5+Yeel3uszQBBqwroHzCyY1DxoxNhLIB56Ryy7gwJEzJtSO4dFHLmfXz+lVmwU6Lq3dwfU2iEyzGfwBWUDggagEAAPAHAJ0BKhQAFAA+bTKVR6QioiEoCACADYlsAJ0yhHVnNboEYDbAeJz+wHu8egDeQN42JVd40RcgsDJxGGQj/VOQ7VM6VUC4AAD9R30ry/AUEPOwZJt0RaXSvM4AU7FVN745Qq0/OYg1vTJD9KXt5gBvzonZTIwDTbuIW8pmDAZDhMMDZ70WMZYoxZgFuqVvxWZNgUVnrFYARMdc9ePGZlA5VN3/T5F1eFr4DJWKSdFPEo/5sCzUUvWcGbNOaFDubVk9bNni7t53JRJnblDEKRsm8b3/qDBC5HDDYomm08Kb6/dx0CwrdFmDjkJSvIj1S+Iph6JUe1yWBnizC0TOWuJopqkLnNhnMFMF2OBCleF+MUP4IvpXRRQ4XDN9Y8em7fhlO6B/t2Vh8Y1dgyJtMyepMn3+/jIRu9cLsBzcSD8y3TnH7KO/P/4BZeLsRtNpgdbp9Nm+OPVW+TD8QkauH0+8jxN23WBLAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "741e9e78ebc46df8018b3f964896196dbc123ceaad9b71fc4809227649c9c094",
+   "iconPath": "e7667bb741d6b72c3689e14b89513ca15f3b468978f35248372d11a128770735",
    "artPath": "a4d8bf28c7f50ad70cf75ce9699b32661b8aec93c60b9c1af23f3e62b4da5745",
    "name": "Schéma neuronal",
    "descHash": "Lorsque que le champ généré par l'ultime est déployé, les DGT infligés par tous les alliés ignorent <nobr>#1[i]%</nobr> de la DÉF des cibles.",
@@ -450,7 +449,7 @@
   },
   {
    "id": 2,
-   "iconPath": "c6a0fe004fb28dd4982b6de7afc448e94459c4b7939e4c360985a4ce297e9887",
+   "iconPath": "eb278b83c909643b92cc0c935e24d056b9113a2e10ee3df9143caf46d771a915",
    "artPath": "04c60f126da13c819589b45fdc2def4a6cc23ae8cc573931dcb5bf0e06c7d2c8",
    "name": "Promenade au bord des roseaux",
    "descHash": "Lorsque Ruan Mei est sur le champ de bataille, l'ATQ de tous les alliés augmente de <nobr>#1[i]%</nobr> lorsqu'ils infligent des DGT à des ennemis en état de Rupture de faiblesse.",
@@ -460,7 +459,7 @@
   },
   {
    "id": 3,
-   "iconPath": "a722b88580d9037eb26d15c6d367f58f07f7d8260c9e4c6a731d7c5b85b4167d",
+   "iconPath": "54faf72f6548ed6b4eb83c1d9db6e815c8a00fe47cfdc2091629af2d3cbe1425",
    "artPath": "1e5a2d5b0f459cdb97efc3742ffb8b82d2a1b11f9a1b2f50a1557c85c9ad79f4",
    "name": "Virevolte viridescente",
    "descHash": "Niv. de l'ultime +2, jusqu'au Niv. <nobr>15</nobr> maximum.<br />Niv. du talent +2, jusqu'au Niv. <nobr>15</nobr> maximum.",
@@ -468,7 +467,7 @@
   },
   {
    "id": 4,
-   "iconPath": "13c4fe9f4462ad809e26c5414af0e54159a53154a551a1fe0fa849aa05f6a529",
+   "iconPath": "8bf0491ce99b29eb3e14ed2f63a96829fe2ce94bd01eb050beb7df33c563945b",
    "artPath": "63cee318d40393fec81fef262db1f1c85d295a561b73e1f0859d3b22671d55cd",
    "name": "Éclat chatoyant",
    "descHash": "L'effet de Rupture de Ruan Mei augmente de <nobr>#1[i]%</nobr> pendant <nobr>#2[i]</nobr> tours en cas de Rupture de faiblesse d'une cible ennemie.",
@@ -479,7 +478,7 @@
   },
   {
    "id": 5,
-   "iconPath": "89477d8f5741da97057fab4d8d46d316843945492176c3060a3a8fe2661843fa",
+   "iconPath": "98268c06444f6181a49696a04c08683ce541a4a5b9dfaebcb9aef8e1f35507ef",
    "artPath": "c2a7527aa76bda0d0d73b5638dec0f6e02927a69afb410d27ecaa799990d8fb2",
    "name": "Barrette de languissement",
    "descHash": "Niv. de la compétence +2, jusqu'au Niv. <nobr>15</nobr> maximum.<br />Niv. de l'ATQ normale +1, jusqu'au Niv. <nobr>10</nobr> maximum.",
@@ -487,7 +486,7 @@
   },
   {
    "id": 6,
-   "iconPath": "11a156e9ffb384e51504f10440c5c3f6e8c672d5e178e860ee76a65a46a88d31",
+   "iconPath": "bbd09d8f606fb3c0a403e3cc45be3d88f53384aef0710ab49e71df4bb36acd7d",
    "artPath": "aa28f8b1d9300d340bd6fa0e231eb64fcd876d4013a7ff7c6ccc31998583dfbf",
    "name": "Cascade de rubans",
    "descHash": "Prolonge la durée du champ généré par l'ultime de <nobr>#1[i]</nobr> tour. D'autre part, le multiplicateur des DGT de rupture du talent augmente de <nobr>#2[i]%</nobr>.",
@@ -523,7 +522,7 @@
    "energy": "20",
    "id": 101144,
    "name": "Parfum entêtant",
-   "iconPath": "acc781b1636d2a6c5288961d7a43c9f17919cd0085dc7ba3c275207932732b0e",
+   "iconPath": "6d993ced97e2bc1aa71b284a8633c5d34fab352465c2a0131f83de0c2ec69a2a",
    "typeDescHash": "ATQ normale",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +683,7 @@
    "energy": "30",
    "id": 385671,
    "name": "Chant lancinant des cordes",
-   "iconPath": "89477d8f5741da97057fab4d8d46d316843945492176c3060a3a8fe2661843fa",
+   "iconPath": "98268c06444f6181a49696a04c08683ce541a4a5b9dfaebcb9aef8e1f35507ef",
    "typeDescHash": "Compétence",
    "levelReq": 0,
    "promotionReq": 0,
@@ -983,13 +982,13 @@
   },
   {
    "tagHash": "Soutien",
-   "descHash": "Ruan Mei déploie un champ qui dure <nobr>#2[i]</nobr> tours. La durée de ce champ diminue de 1 au début de son tour.<br />La PÉN de RÉS à tous les types de tous les alliés augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> lorsqu'ils se trouvent à l'intérieur du champ et leurs attaques appliquent Floraison incomplète aux ennemis touchés.<br />Floraison incomplète se déclenche lorsque ces ennemis tentent de se rétablir d'une Rupture de faiblesse, ce qui prolonge la durée de leur état de Rupture de faiblesse et retarde leur action à hauteur de <nobr>#3[i]%</nobr> de l'effet de Rupture de Ruan Mei + <nobr>#4[i]%</nobr>, tout en infligeant des DGT de rupture équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[i]%</nobr></span> des DGT de rupture de glace de Ruan Mei.<br />Les cibles ennemies ne peuvent pas subir à nouveau Floraison incomplète tant qu'elles n'ont pas récupéré de l'état de Rupture de faiblesse.",
+   "descHash": "Ruan Mei déploie un champ qui dure <nobr>#2[i]</nobr> tours. La durée de ce champ diminue de 1 au début de son tour.<br />La PÉN de RÉS à tous les types de tous les alliés augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> lorsqu'ils se trouvent à l'intérieur du champ et leurs attaques appliquent Floraison incomplète aux ennemis touchés.<br />Floraison incomplète se déclenche lorsque ces ennemis tentent de se rétablir d'une <u>Rupture de faiblesse</u>, ce qui prolonge la durée de leur état de <u>Rupture de faiblesse</u> et <u>retarde leur action</u> à hauteur de <nobr>#3[i]%</nobr> de l'effet de Rupture de Ruan Mei + <nobr>#4[i]%</nobr>, tout en infligeant des DGT de rupture équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[i]%</nobr></span> des <u>DGT de rupture</u> de glace de Ruan Mei.<br />Les cibles ennemies ne peuvent pas subir à nouveau Floraison incomplète tant qu'elles n'ont pas récupéré de l'état de <u>Rupture de faiblesse</u>.",
    "ultimateCost": 130,
    "break": "0",
    "energy": "5",
    "id": 301730,
    "name": "Ondée de pétales",
-   "iconPath": "227bdcda5dda054018043643fc5cbaf13feded8d362cbc9eaf76fd1c67f099fc",
+   "iconPath": "714f509cc85b5aaf8cbf471e1b9807bccc356e00d3a5935d3672234896b31fba",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1318,13 +1317,13 @@
   },
   {
    "tagHash": "Soutien",
-   "descHash": "Augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> la VIT de toute l'équipe (à l'exception de ce personnage). Lorsqu'un allié inflige une Rupture de faiblesse à une cible ennemie, Ruan Mei inflige des DGT de rupture équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[f1]%</nobr></span> de ses DGT de rupture de glace à cette cible.",
+   "descHash": "Augmente la VIT de toute l'équipe de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> (à l'exception de ce personnage). Lorsqu'un allié inflige une Rupture de faiblesse à une cible ennemie, Ruan Mei inflige des DGT de rupture équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[f1]%</nobr></span> de ses propres <u>DGT de rupture</u> de glace à cette cible.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 816617,
    "name": "Spirale fractale",
-   "iconPath": "2b2b4d769d90cfa2e566017347dff3c7a463251938bdb88330145f5d113ea53d",
+   "iconPath": "a19cab568e544e41501ac2296913db2fa8c7bd3160dc1c2bfecc2f3486cc0971",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1614,7 +1613,7 @@
    "energy": "0",
    "id": 17203,
    "name": "Attaque",
-   "iconPath": "acc781b1636d2a6c5288961d7a43c9f17919cd0085dc7ba3c275207932732b0e",
+   "iconPath": "6d993ced97e2bc1aa71b284a8633c5d34fab352465c2a0131f83de0c2ec69a2a",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1636,7 +1635,7 @@
    "energy": "0",
    "id": 933262,
    "name": "Sérénade de soie",
-   "iconPath": "5150b288b41c9d847c8c1166ce56273ee511d4357393f40b482078974bf13a96",
+   "iconPath": "7a506fb66f8417e7f05c75c5f03915100d58154654a0dc5799e6fe15aad149c1",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1731,11 +1730,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "Augmente de <nobr>#1[i]%</nobr> l'effet de Rupture de tous les alliés.",
+    "descHash": "Augmente l'effet de Rupture de tous les alliés de <nobr>#1[i]%</nobr>.",
     "ultimateCost": 0,
     "id": 738349,
     "name": "Respiration inerte",
-    "iconPath": "0bb0fd5353ecae33807ee6289e768109d4cd491d83349c84c6bb4a7aefd8bbc8",
+    "iconPath": "cc5233c8e003f6cfc7c5ed92bd8f8762dbc9478a23ea89278784eb9a2cbfb55d",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1842,7 +1841,7 @@
     "ultimateCost": 0,
     "id": 738352,
     "name": "Rêveries du temps qui passe",
-    "iconPath": "68ea2c02e30dc37973408fdbd5cc6673d582e9222b33e1dfe59ba3397af0b66d",
+    "iconPath": "e52fb957be6849e04a30acaeef77d9bf13cfd55244547a21c8646ba531faeb75",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1987,7 +1986,7 @@
     "ultimateCost": 0,
     "id": 738351,
     "name": "Bougie sur les flots",
-    "iconPath": "2550f54b572e0246081707b2f13423285e184160bf06e4fbe845e467ba4ba434",
+    "iconPath": "9af110e59ce59796bc35c3922d031764009955552c2af345cd6c782e58caf233",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [

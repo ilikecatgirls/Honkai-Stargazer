@@ -1,0 +1,524 @@
+{
+ "name": "Le début d'une seconde vie",
+ "rarity": 5,
+ "descHash": "C'était comme s'il avait sombré dans les profondeurs de l'océan et que tout l'avait quitté pour ne laisser qu'un esprit vide qui se débattait seul.<br /><br />La peur, l'anxiété, la solitude, l'obscurité, la colère : ces sentiments n'avaient pas disparu avec son corps, mais avaient persisté avec son enveloppe mécanique, devenant de plus en plus oppressants.<br /><br />Il entendait l'appel de la mort, sentait l'odeur de la chair brûlée, le vrombissement des moteurs parvenait à ses oreilles, et le sang bleu affluait vers son cœur affamé... Des souvenirs cruels ressurgirent et la haine immuable se changea en une faible lumière perçant l'obscurité. Il suivit cette lueur s'efforçant de toutes ses forces de remonter vers la surface.<br /><br />Il ouvrit les yeux et une étincelle jaillit lorsqu'il entendit les félicitations du médecin...<br />« Bienvenue à nouveau dans ce monde. »<br />Il ferma ses mains désormais faites d'acier froid...<br />Jamais plus il ne vivrait pour lui-même.",
+ "iconPath": "dd3c33855ff56bcd2c92b84dd39d1ce3ed2ea3e9568c1e35146239e60b5494e9",
+ "artPath": "e0a5e44412c56813dd7a8461ee48440234c1838d1cf66e2c603d39a3debcbf7a",
+ "artPlaceholder": {
+  "w": 0,
+  "h": 0
+ },
+ "mediumIconPath": "29ddc129f6c7f35649e41c22173ce8961c3ac397aa7570a900a7c4206665adc5",
+ "baseType": {
+  "id": 0,
+  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
+  "color": "#FFFFFF",
+  "name": "La Chasse",
+  "rarity": 0
+ },
+ "baseTypeId": 0,
+ "itemReferences": {
+  "29328": {
+   "id": 29328,
+   "type": 101,
+   "purposeId": 11,
+   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "name": "Crédits",
+   "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
+   "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
+   "purpose": "Monnaie ordinaire",
+   "rarity": 3,
+   "rewardPath": "/material/29328",
+   "comeFrom": [
+    "Calice de la Grande mine",
+    "Calice de la Commission de l'artisanat",
+    "Calice de l'Hôtel Rêverie du Pays des rêves",
+    "Récompense de mission",
+    "Récompense d'affectation",
+    "Braises immortelles"
+   ]
+  },
+  "549210": {
+   "id": 549210,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "ae1751bde54881f61c4a931b60e2923b8032ce91241561aeb6ed88ac8ee27797",
+   "name": "Lambeaux de pensée",
+   "desc": "Fragment de pensée passagère. Matériau commun utilisé pour le renforcement.",
+   "lore": "Au sein de la Zone de mémoire, des milliers de pensées flottent telles des grains de poussière. Les pensées brisées s'accumulent, et servent de nourriture et de composants pour les créatures mémorielles.<br /><br />« Les pensées passagères peuvent se dissiper dans l'air ou s'accumuler jusqu'à devenir une obsession ».",
+   "purpose": "Matériau de Trace<br />Matériau d'élévation de personnage",
+   "rarity": 2,
+   "rewardPath": "/material/549210",
+   "comeFrom": [
+    "Butin de Créature mémorielle",
+    "Ennemis de l'Univers simulé",
+    "Récompense d'affectation",
+    "Braises immortelles",
+    "Échange de matériaux de l'Omni-synthétiseur",
+    "Calice doré"
+   ]
+  },
+  "633151": {
+   "id": 633151,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "d76fcb744e5bf3574f3fa68b6e66adfefdf41b1652d1dd788b0dbe68407b1e0d",
+   "name": "Fragments d'impression",
+   "desc": "Fragment d'impression profonde. Matériau intermédiaire utilisé pour le renforcement.",
+   "lore": "Au sein de la Zone de mémoire, les souvenirs formés flottent telles des lueurs passagères, et seuls les fragments profonds et mémorables peuvent être condensés en cristaux.<br /><br />« La mémoire n'est pas qu'une réplique des moments vécus, c'est aussi une reconstruction des émotions passées ».",
+   "purpose": "Matériau de Trace<br />Matériau d'élévation de personnage",
+   "rarity": 3,
+   "rewardPath": "/material/633151",
+   "comeFrom": [
+    "Créatures mémorielles au niveau d'équilibre 2 ou supérieur",
+    "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Ennemis de l'Univers simulé",
+    "Échange de matériaux de l'Omni-synthétiseur"
+   ]
+  },
+  "635681": {
+   "id": 635681,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "4d41db3fdd9d25351202ba113297b0120b2fe75c9812979f82fb9fe9699a79c7",
+   "name": "Balle météore",
+   "desc": "Les balles de fer forgées pour la chasse aux monstres. Chacune porte des marques, semblant indiquer le nombre de proies qu'elles ont abattues. Permet d'améliorer légèrement les Traces des personnages de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">la Chasse</span>.",
+   "lore": "Les archéologues armés ont découvert ces balles de fer au milieu de fossiles et d'ossements de différents monstres. La datation radioactive a confirmé qu'elles ont été tirées à une époque où l'humanité n'existait pas encore et que les créatures qu'elles avaient abattues étaient les derniers vestiges d'une certaine tribu de monstres.<br /><br />« Mourir de vieillesse n'est pas différent de mourir par balle. La voie du chasseur ne mènera ni à une fin sacrée, ni à une fin pécheresse. »",
+   "purpose": "Matériau de Trace<br />Matériau d'élévation de cône de lumière",
+   "rarity": 2,
+   "rewardPath": "/material/635681",
+   "comeFrom": [
+    "Calice : Salle d'audition Félicitâme™ d'Écorchesable",
+    "Braises immortelles",
+    "Échange de matériaux de l'Omni-synthétiseur"
+   ]
+  },
+  "694487": {
+   "id": 694487,
+   "type": 601,
+   "purposeId": 5,
+   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "name": "Éther purifié",
+   "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
+   "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
+   "purpose": "Matériau d'EXP de cône de lumière",
+   "rarity": 4,
+   "rewardPath": "/material/694487",
+   "comeFrom": [
+    "Calice du Col de Backwater",
+    "Calice de la Commission de divination",
+    "Calice du Rêve d'enfant",
+    "Salle oubliée"
+   ]
+  },
+  "694488": {
+   "id": 694488,
+   "type": 601,
+   "purposeId": 5,
+   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "name": "Éther condensé",
+   "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
+   "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
+   "purpose": "Matériau d'EXP de cône de lumière",
+   "rarity": 3,
+   "rewardPath": "/material/694488",
+   "comeFrom": [
+    "Calice du Col de Backwater",
+    "Calice de la Commission de divination",
+    "Calice du Rêve d'enfant",
+    "Braises immortelles"
+   ]
+  },
+  "694489": {
+   "id": 694489,
+   "type": 601,
+   "purposeId": 5,
+   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "name": "Éther dilué",
+   "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
+   "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
+   "purpose": "Matériau d'EXP de cône de lumière",
+   "rarity": 2,
+   "rewardPath": "/material/694489",
+   "comeFrom": [
+    "Calice du Col de Backwater",
+    "Calice de la Commission de divination",
+    "Calice du Rêve d'enfant",
+    "Récompense d'affectation"
+   ]
+  },
+  "717092": {
+   "id": 717092,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "ac85858f27838b734365e77343aabcdbaf56463c492b153cfb4ebd64c04f659f",
+   "name": "Fragments des désirs",
+   "desc": "Fragment de désirs obsessionnels. Matériau avancé utilisé pour le renforcement.",
+   "lore": "Au sein de la Zone de mémoire, la bibliothèque des désirs prospère. Elle absorbe les pensées et les impressions, alimente le miroir des désirs et reflète les ombres mystérieuses des créatures mémorielles.<br /><br />« Les souvenirs pointent vers le passé, tandis que les désirs pointent vers l'avenir. Lorsqu'un désir s'infiltre dans la mémoire, les rêves se déforment et, peu de temps après, les démons émergent des profondeurs de l'esprit. »",
+   "purpose": "Matériau de Trace<br />Matériau d'élévation de personnage",
+   "rarity": 4,
+   "rewardPath": "/material/717092",
+   "comeFrom": [
+    "Créatures mémorielles au niveau d'équilibre 4 ou supérieur",
+    "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Ennemis de l'Univers simulé",
+    "Échange de matériaux de l'Omni-synthétiseur"
+   ]
+  },
+  "836267": {
+   "id": 836267,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "851c201a74315dde58ba432e418f95ed5289cfd4247d1689d787bbeea2627a44",
+   "name": "Tir contre-temporel",
+   "desc": "Une balle en spirale qui se heurte toujours à la flèche du temps, comme un chien de chasse qui poursuivrait éternellement l'immortel qui défie le temps. Permet d'améliorer considérablement les Traces des personnages de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">la Chasse</span>.",
+   "lore": "Autrefois braises d'un Seigneur ravageur, autrefois bouton de destruction massive, autrefois dernière complainte d'un ancien mastodonte... Combien de morts ont été nécessaires pour forger de telles munitions ? Et quel type d'arme à feu peut les propulser dans le passé ? C'est la réponse à tout, pas une question en soi.<br /><br />« Vous aurez beau courir, vous aurez beau fuir, il vous retrouvera toujours, pour vous clouer dans le tissu du destin. »",
+   "purpose": "Matériau de Trace<br />Matériau d'élévation de cône de lumière",
+   "rarity": 4,
+   "rewardPath": "/material/836267",
+   "comeFrom": [
+    "Calice : Salle d'audition Félicitâme™ d'Écorchesable",
+    "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Échange de matériaux de l'Omni-synthétiseur"
+   ]
+  },
+  "920208": {
+   "id": 920208,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "f10357d7a1a6625ee12b9be735f07e201970a32df33ba4e430311573d23a6f3b",
+   "name": "Extinction destinée",
+   "desc": "Enfoncée dans le front de la personne décédée, transperçant la fente de la matière, cette balle réside à jamais à l'endroit où son trou devrait se trouver. Permet d'améliorer modérément les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
+   "lore": "Elle traversa les chemins sinueux au milieu des légions de soldats, transperça le point faible des casques les plus solides, pour finir par s'arrêter en plein milieu du crâne du tyran invincible, en émettant un soupir semblable à un murmure. Son impact se fit comme une coïncidence fatale. Un point final que tous étaient condamnés à rencontrer.<br /><br />« Parfois, l'impact de la balle précède la trajectoire. »",
+   "purpose": "Matériau de Trace<br />Matériau d'élévation de cône de lumière",
+   "rarity": 3,
+   "rewardPath": "/material/920208",
+   "comeFrom": [
+    "Calice : Salle d'audition Félicitâme™ d'Écorchesable",
+    "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Braises immortelles",
+    "Échange de matériaux de l'Omni-synthétiseur"
+   ]
+  }
+ },
+ "levelData": [
+  {
+   "promotion": 0,
+   "maxLevel": 20,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 5000
+    },
+    {
+     "id": 549210,
+     "count": 8
+    }
+   ],
+   "attackBase": 26.4,
+   "attackAdd": 3.96,
+   "hpBase": 48,
+   "hpAdd": 7.2,
+   "defenseBase": 21,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 1,
+   "maxLevel": 30,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 10000
+    },
+    {
+     "id": 635681,
+     "count": 4
+    },
+    {
+     "id": 549210,
+     "count": 12
+    }
+   ],
+   "attackBase": 58.08,
+   "attackAdd": 3.96,
+   "hpBase": 105.6,
+   "hpAdd": 7.2,
+   "defenseBase": 46.2,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 2,
+   "maxLevel": 40,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 20000
+    },
+    {
+     "id": 920208,
+     "count": 4
+    },
+    {
+     "id": 633151,
+     "count": 8
+    }
+   ],
+   "attackBase": 100.32,
+   "attackAdd": 3.96,
+   "hpBase": 182.4,
+   "hpAdd": 7.2,
+   "defenseBase": 79.8,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 3,
+   "maxLevel": 50,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 50000
+    },
+    {
+     "id": 920208,
+     "count": 8
+    },
+    {
+     "id": 633151,
+     "count": 12
+    }
+   ],
+   "attackBase": 142.56,
+   "attackAdd": 3.96,
+   "hpBase": 259.2,
+   "hpAdd": 7.2,
+   "defenseBase": 113.4,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 4,
+   "maxLevel": 60,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 100000
+    },
+    {
+     "id": 836267,
+     "count": 5
+    },
+    {
+     "id": 717092,
+     "count": 6
+    }
+   ],
+   "attackBase": 184.8,
+   "attackAdd": 3.96,
+   "hpBase": 336,
+   "hpAdd": 7.2,
+   "defenseBase": 147,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 5,
+   "maxLevel": 70,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 200000
+    },
+    {
+     "id": 836267,
+     "count": 10
+    },
+    {
+     "id": 717092,
+     "count": 8
+    }
+   ],
+   "attackBase": 227.04,
+   "attackAdd": 3.96,
+   "hpBase": 412.8,
+   "hpAdd": 7.2,
+   "defenseBase": 180.6,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 6,
+   "maxLevel": 80,
+   "cost": [],
+   "attackBase": 269.28,
+   "attackAdd": 3.96,
+   "hpBase": 489.6,
+   "hpAdd": 7.2,
+   "defenseBase": 214.2,
+   "defenseAdd": 3.15
+  }
+ ],
+ "skill": {
+  "id": 23027,
+  "name": "Navigation en eaux troubles",
+  "descHash": "Augmente l'effet de Rupture du porteur de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> et les DGT de rupture qu'il inflige ignorent <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> de la DÉF de la cible. Lorsque l'effet de Rupture du porteur est supérieur ou égal à <nobr>#2[i]%</nobr>, sa VIT augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span>.",
+  "levelData": [
+   {
+    "params": [
+     0.6,
+     1.5,
+     0.2,
+     0.12
+    ],
+    "level": 1,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   },
+   {
+    "params": [
+     0.7,
+     1.5,
+     0.23,
+     0.14
+    ],
+    "level": 2,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   },
+   {
+    "params": [
+     0.8,
+     1.5,
+     0.26,
+     0.16
+    ],
+    "level": 3,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   },
+   {
+    "params": [
+     0.9,
+     1.5,
+     0.29,
+     0.18
+    ],
+    "level": 4,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   },
+   {
+    "params": [
+     1,
+     1.5,
+     0.32,
+     0.2
+    ],
+    "level": 5,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   }
+  ]
+ },
+ "calculator": {
+  "expCost": {
+   "1": 60,
+   "2": 100,
+   "3": 170,
+   "4": 260,
+   "5": 370,
+   "6": 500,
+   "7": 640,
+   "8": 800,
+   "9": 970,
+   "10": 1160,
+   "11": 1360,
+   "12": 1580,
+   "13": 1820,
+   "14": 2060,
+   "15": 2320,
+   "16": 2600,
+   "17": 2880,
+   "18": 3180,
+   "19": 3490,
+   "20": 3620,
+   "21": 3760,
+   "22": 3910,
+   "23": 4050,
+   "24": 4200,
+   "25": 4360,
+   "26": 4510,
+   "27": 4670,
+   "28": 4830,
+   "29": 4990,
+   "30": 5160,
+   "31": 5330,
+   "32": 5500,
+   "33": 5670,
+   "34": 5850,
+   "35": 6030,
+   "36": 6210,
+   "37": 6390,
+   "38": 6580,
+   "39": 6760,
+   "40": 6950,
+   "41": 7630,
+   "42": 8060,
+   "43": 8510,
+   "44": 8970,
+   "45": 9440,
+   "46": 9910,
+   "47": 10390,
+   "48": 10890,
+   "49": 11390,
+   "50": 11900,
+   "51": 12420,
+   "52": 12940,
+   "53": 13480,
+   "54": 14020,
+   "55": 14580,
+   "56": 15140,
+   "57": 15710,
+   "58": 16290,
+   "59": 16880,
+   "60": 17470,
+   "61": 18290,
+   "62": 19270,
+   "63": 20260,
+   "64": 21260,
+   "65": 22290,
+   "66": 23320,
+   "67": 24370,
+   "68": 25440,
+   "69": 26520,
+   "70": 27620,
+   "71": 30810,
+   "72": 33710,
+   "73": 36660,
+   "74": 39650,
+   "75": 42680,
+   "76": 45750,
+   "77": 48870,
+   "78": 52030,
+   "79": 55230,
+   "80": 0
+  },
+  "expItemConfig": {
+   "500": {
+    "itemId": 694489,
+    "cost": 250
+   },
+   "2000": {
+    "itemId": 694488,
+    "cost": 1000
+   },
+   "6000": {
+    "itemId": 694487,
+    "cost": 3000
+   }
+  },
+  "sCoinId": 29328
+ },
+ "pageId": "23027"
+}

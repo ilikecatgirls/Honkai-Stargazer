@@ -5,9 +5,8 @@
  "iconPath": "59510f8daa7b670628ef72a10ac8b290de9c07244c22a0a3a8f0fffe41dab5a8",
  "artPath": "190225a61123ac128256792d3ffae81bf4c5865238f883b2b1245e2b5390163d",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRhoCAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSBwAAAABD9D/iAgYSNs2lG1/RP8DAALK85QAAAAAAAAAVlA4INgBAACQCQCdASoUABwAPm0sk0akIiGhMBgIAIANiWYAnTKDyg4wORf5vAp/Rv0g3G7c1dMA3muW4n4AZwNQX9XN8rEMzyZCgDr6dmXWRCIpwlStMXyRzQtIAP79r6taDzlqHhuxOqd9yP+jV/beg3y6yl5O8+c+qywCYiMb6xriwa+cshLXPlw9JZMDx3cOy0lhEmWvD8Aba1QimesXlZ5Z6x1jR1+M1yVNg/FXdNTKdgQTTg2YqsI0TsWmTfgb3hOPv3LpJFGo7NS8EKYyXtuQsFG/NwoTD9//6uTt5mtfc2ejf+lb8d7/ry41bhNyXTx+ldf3ZmqqyS+V/u+Js/9V+4LCgZlF7PynT2I+MYkdQ14ozqrlxxcJafQFtYmgDQtO6hSsn209fl9mWoHQkd+XC2XVw8cVviDcRwveVbPAnc3ulBnq4eVi4ebmTFn+ta2SsD4tANq8uOFXg4NmCeOYMyG+uu/x32+8uHoEedTdEh5oofF1rKOSNHSLerK87VNvyvixAPOVynuaFyhL1eH5xnVKb6VepwfTclclSqHe2b5Y3qert2RP36sn9xV88Ob/xXoG4RCig4h40pv+PiyTcFX/os4f2mq7b/N7ZfV7+3/Tslj872oC/AAA",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "ef536c00e0b78732c28d6e080777397199e936d903637297191df4349ff169e2",
  "baseType": {
@@ -90,7 +89,6 @@
    "rewardPath": "/material/635673",
    "comeFrom": [
     "Calyx (Storage Zone)",
-    "Calyx (Storage zone)",
     "Embers Exchange",
     "Omni-Synthesizer — Material Exchange"
    ]

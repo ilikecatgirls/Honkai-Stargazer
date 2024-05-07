@@ -6,9 +6,8 @@
  "fgPath": "fc4cd3ece56b1e04d6fb0b61ad38abd25f0c03437b35b93aa232a854e6fa0045",
  "splashIconPath": "fec4c21cfb55059d506ad72c169042c83ebbbf369772e167b43fcbd2ed5bcf86",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRp4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAsBAAABkKtt2yFJb/01tm1b0axtp8iNUAdgpnttboeKGNv2bmRW/d/7LqrPISImAMkOAHLLJrUidQC4jKYVN1/5OXApEG6+dPujJM1FmBCWhGclyTzjAaQDCLDwwEV5b0aaDlXj/6zrkpGkROrplgY4TI4UU5REKRb74DBJ/P8/0msnXIhFMiqZVNQFh+CcPJkkem1EiLG/RYpMkOnDCLBWpFKTsdZixkMfy0RS/I/2ZdkSmT/6XjQaRUqRthYdNG24pkiUUaTpUyfK9t/sOyZ91kfJRNOXPocpywuX3tnSOGPqzd+KvOn3AFDjgHK4MtSe/iFJD2oRAAEQpOcBGN148Uu8G8kBAAQA0uqrigAAVlA4IGwBAAAwCACdASoUABQAPm0uk0ckIiGhKAqogA2JaACdMoMpLIBzJPqA0QDrbvKAuUBsTUwD9Zg4naA0atClntVnN7GX07RL471+vwFnAAD+8rOKuPKZ/bI+jpLQZ9+/lYL1ODr/A9SUHSOqEaKeX2e5S6sxX4TTnXfJuaCVLl0sf10olNHRKbSf46zp+vwRVI93DaHAbaj9Cx/UvK6rfCkrhP0/plzmaH9l1COyoP1H4tLxhDTyESk7n/FmDuV4FLAPZbUxKHLJdkW0I6mXsH5s396jmYFnZwpuS5YRAl0TWps1ITA5+QrHUP4wtw4RQDC3TekljZ7ANR3gATIaJatdENzL2fXMJ1oVb+kau0/2zeU8Q5tH9HJn+VD6AYIaaEm6CPVVbr7WcmULl3dNUr3rRoY64xAUp7eehmgEz5au17F/ktjqnp675OnE274IrG8gc+Zupbpwzv8qX1j8zc8sB2Df1qIlc+7LsWwaAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,10 +439,10 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "1c02d236c265b252501946163a123ea0024914f3d7bb717e614b53fba6918e90",
+   "iconPath": "a6815cab69cdf8215c1015fbd8afb8cfbe6e874690f14c13cd09049ed2809e1e",
    "artPath": "06ec5979cd3faee0259917c4277a3482c61fc21583cfc68a7801eaa82fb56a3c",
    "name": "Salty Dog",
-   "descHash": "When Gallagher enters the battle, regenerates <nobr>#1[i]</nobr> Energy and increases Effect RES by <nobr>#2[i]%</nobr>.",
+   "descHash": "When entering the battle, Gallagher regenerates <nobr>#1[i]</nobr> Energy and increases Effect RES by <nobr>#2[i]%</nobr>.",
    "params": [
     20,
     0.5
@@ -451,10 +450,10 @@
   },
   {
    "id": 2,
-   "iconPath": "bca9a8c6f1a873ff76cd0bd120473dcf660321c5bad73cffd7a9fbc7e7d25f04",
+   "iconPath": "f826cc6880d90b1638995727f9842aaf92e55844275821b850f9678d7bec650b",
    "artPath": "ded57e58a83be469fd8bc1744197764e5065f70e4a2c6570244066ddf5e3efbe",
    "name": "Lion's Tail",
-   "descHash": "When using the Skill, removes <nobr>#1[i]</nobr> debuff(s) from a target ally. At the same time, increases their Effect RES by <nobr>#2[i]%</nobr>, lasting for <nobr>#3[i]</nobr> turn(s).",
+   "descHash": "When using the Skill, removes <nobr>#1[i]</nobr> debuff(s) from the target ally. At the same time, increases their Effect RES by <nobr>#2[i]%</nobr>, lasting for <nobr>#3[i]</nobr> turn(s).",
    "params": [
     1,
     0.3,
@@ -463,7 +462,7 @@
   },
   {
    "id": 3,
-   "iconPath": "652c00cd672620ec1aa067b20fae0232fc92babfa0b9906c6e29073258d65708",
+   "iconPath": "66506d57a314cb46a24df8d3eb1f3bd09fe89bd1345da59246d8aaf909de3a87",
    "artPath": "36eb269de21bb98b287d2d099d742874a7d6b9ce650d373464c2027232bd7141",
    "name": "Corpse Reviver",
    "descHash": "Skill Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Basic ATK Lv. +1, up to a maximum of Lv. <nobr>10</nobr>.",
@@ -471,7 +470,7 @@
   },
   {
    "id": 4,
-   "iconPath": "fe8d6bf3a18fc26d322b5cca6c7cf4387132c388b6baa6497c8d5ce03f70a8de",
+   "iconPath": "150811799b4c3e0b61078521022a8549bca30ffd1839ad0569a59bbf6bcd120b",
    "artPath": "5bedaf59fb700ad0c8b2b49fd1d4bf463c3399177ca4afaf6be3bb2a8cd14b22",
    "name": "Last Word",
    "descHash": "Extends the duration of the Besotted state inflicted by Gallagher's Ultimate by <nobr>#1[i]</nobr> turn(s).",
@@ -481,7 +480,7 @@
   },
   {
    "id": 5,
-   "iconPath": "a9226a33341e99eabe22b8d047cc5588f9d7e4e595f7d73c3c4268182975f063",
+   "iconPath": "5bb3bcf775d9025cc8a4545fffbcc0711b6e705f1b8710fab39ebd255234f2b6",
    "artPath": "1fc609b3622445a163df19949106991915a3002f4f13ae3bd6c3fe85e6e9adcb",
    "name": "Death in the Afternoon",
    "descHash": "Ultimate Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Talent Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.",
@@ -489,7 +488,7 @@
   },
   {
    "id": 6,
-   "iconPath": "85634385782afd2654b6f901572c0de58b4deeffae0002918c7dd583be8ed7b9",
+   "iconPath": "be93375a51e55caf188d75fcd5bc56ae1343b55bccacd33b5d7989489de86a8a",
    "artPath": "9eb1f3131de5313ed323aba03f32fe28eb650194cade404055eb5ccce661cb96",
    "name": "Blood and Sand",
    "descHash": "Increases Gallagher's Break Effect by <nobr>#1[i]%</nobr> and Weakness Break Efficiency by <nobr>#2[i]%</nobr>.",
@@ -526,7 +525,7 @@
    "energy": "20",
    "id": 426146,
    "name": "Corkage Fee",
-   "iconPath": "5f7218bd22632454e4e7f7828aba4370abb31ca24b94fff192c8db547e6c4894",
+   "iconPath": "d7e1005512962c6e7618f48564fe8271bfb975599e826ed0eceac6d417417fb7",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -687,7 +686,7 @@
    "energy": "30",
    "id": 342205,
    "name": "Special Brew",
-   "iconPath": "652c00cd672620ec1aa067b20fae0232fc92babfa0b9906c6e29073258d65708",
+   "iconPath": "66506d57a314cb46a24df8d3eb1f3bd09fe89bd1345da59246d8aaf909de3a87",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -952,13 +951,13 @@
   },
   {
    "tagHash": "AoE",
-   "descHash": "Inflicts Besotted on all enemies, lasting for <nobr>#2[i]</nobr> turn(s). At the same time, deals <span style=\"color:#F84F36;\">Fire </span>DMG equal to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> of Gallagher's ATK to all enemies, and enhances this unit's next Basic ATK to Nectar Blitz.",
+   "descHash": "Inflicts Besotted on all enemies, lasting for <nobr>#2[i]</nobr> turn(s). At the same time, deals <span style=\"color:#F84F36;\">Fire </span>DMG equal to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> of Gallagher's ATK to all enemies, and enhances his next Basic ATK to Nectar Blitz.",
    "ultimateCost": 110,
    "break": "60/hit",
    "energy": "5",
    "id": 258264,
    "name": "Champagne Etiquette",
-   "iconPath": "6fc2e1dbc75c2594a415129007f14e24741480f254d28b0bc4c6140cffaab646",
+   "iconPath": "af66914c3bf9726553eaecc0dadb86904327b00f631ea74eed784165db04a7cc",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1238,13 +1237,13 @@
   },
   {
    "tagHash": "Restore",
-   "descHash": "The Besotted state increases the Break DMG that targets receive by <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span>. Every time a Besotted target is attacked by an ally, the attacker's HP gets restored by <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]</nobr></span>.",
+   "descHash": "The Besotted state makes targets receive <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> more <u>Break DMG</u>. Every time a Besotted target gets attacked by an ally, the attacking ally's HP is restored by <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]</nobr></span>.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 141619,
    "name": "Tipsy Tussle",
-   "iconPath": "40eb47c7f88c24abedb09c676140e2073e1dcc95b2e30129050b9ce13a8d800f",
+   "iconPath": "125b563450c04a008ebaf5b7c1006044c798c3cdeb307e62a4c98327eb9cb945",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1530,7 +1529,7 @@
    "energy": "0",
    "id": 973737,
    "name": "Attack",
-   "iconPath": "5f7218bd22632454e4e7f7828aba4370abb31ca24b94fff192c8db547e6c4894",
+   "iconPath": "d7e1005512962c6e7618f48564fe8271bfb975599e826ed0eceac6d417417fb7",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1552,7 +1551,7 @@
    "energy": "0",
    "id": 857092,
    "name": "Artisan Elixir",
-   "iconPath": "8362bd58df7311412cb3d5800cab4697f28697fbc4e4356d58f505197ac69563",
+   "iconPath": "c7c87d29b4475a190138c950a3dc7052be8c56e57a179ca25b2efd5cabfd0e1a",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1577,7 +1576,7 @@
    "energy": "20",
    "id": 312431,
    "name": "Nectar Blitz",
-   "iconPath": "587e67b212907295d75b9f47a763d27e8df0f217fcbac2b18dc54e4f5dec8b33",
+   "iconPath": "459ec8b0eaa2512f7da264037b0b9e3483d7a0e1520c224fb96859e8f0800a63",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1862,7 +1861,7 @@
     "ultimateCost": 0,
     "id": 63351,
     "name": "Novel Concoction",
-    "iconPath": "b42c59cf6ec75a9e2dab964bec6f26bb8e68b5f48ea423cf4acaa3a0f2f12a5e",
+    "iconPath": "ee47d1da06e734287b6ca33d050ff9f853ac1006aa82b06c1f0bb6a8740db109",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2004,7 +2003,7 @@
     "ultimateCost": 0,
     "id": 63354,
     "name": "Organic Yeast",
-    "iconPath": "08d1f6474537cd68e555067fcfe1f705163e68be4e4443850976263463f41f67",
+    "iconPath": "d0f52a86a6b7671f36cbf368dfa92dc702a4d9000a4beb2c5f9ee76bc9fd3b52",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2112,7 +2111,7 @@
     "ultimateCost": 0,
     "id": 63353,
     "name": "Bottoms Up",
-    "iconPath": "f86a0b231a9cd7d4fb77d0ae28d748e94c9196d544b305f1f36fbeacd61d1de8",
+    "iconPath": "f4820a18f90d0ba15509551d075885ff53211a52cfc00a5be778a6aec054feb3",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2448,6 +2447,26 @@
    "krUrl": "e343711f45694dc8460f8d6e3010a25bc2856881033a79ebc095c0edfc8e5973"
   },
   {
+   "id": 22,
+   "title": "About Misha 2",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"And on the Eighth Day\"",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 23,
+   "title": "Added to Team With Robin",
+   "text": "No matter where I am in the future, I will definitely still hear your singing.",
+   "unlockRequirement": "",
+   "cnUrl": "2f3add232ef4d1fb4aa74d761a4b9c20cfbbb44ed78c8279a735c0096f6134aa",
+   "jpUrl": "b94f072015ddfccc77cad8d6a36355ffb91a1b0ba701ace6cdf47a816db615a3",
+   "enUrl": "20b71043013b91f75dfd27f9fff80f6a3af4de90769538b051f7df96a882f0fe",
+   "krUrl": "7a6c6a21597407ba54450c4218553eb5db34b85e224afff9bc6fc140fabb4754"
+  },
+  {
    "id": 51,
    "title": "Battle Begins: Weakness Break",
    "text": "That's all you've got?",
@@ -2706,22 +2725,22 @@
   },
   {
    "title": "Character Story: Part I",
-   "text": "\"The scent of tobacco, candy, and cheap shampoo... he gives off the typical smell of a middle-aged bachelor. While his clothes are tidy, they are always wrinkled and display a lack of style. He also displays no desire to look after his appearance. He doesn't have many friends, and his favorite pastime after work is enjoying a few glasses of Sweet Dream Special. Always sitting at the same spot, with the same drink, and with the same waiters... It's never changed in more than a decade.<br /><br />Yet such a man won the admiration and respect of the Bloodhound Family members — this is probably related to the scar etched across his face. In a sweet dream practically devoid of any accidents, an ugly scar serves as a rare honor for a security officer, symbolizing seniority and prestige.<br /><br />Whenever confronted with a case, he would first unwrap a piece of candy and put it in his mouth. When the candy is almost gone with his chewing, he dives into the investigation with furrowed brows and ponders the clues until late in the bar. However, unlike the young officers, he seems to no longer find pleasure in apprehending suspects. When he gazes into the eyes of the so-called criminals who fell so far in the sweet dream, I see no sense of accomplishment in his eyes, only a profound emptiness and melancholy.<br /><br />I actually understand him. When you reach this stage of life, you'll start to doubt the meaning behind the life you've previously led. It was just like what I have experienced.\"<br /><align=\"right\">— Note: The Security Officer of the Bloodhound Family</align>",
+   "text": "\"The scent of tobacco, candy, and cheap shampoo... he gives off the typical smell of a middle-aged bachelor. While his clothes are tidy, they are always wrinkled and display a lack of style. He also displays no desire to look after his appearance. He doesn't have many friends, and his favorite pastime after work is enjoying a few glasses of Dreamjoy Special. Always sitting at the same spot, with the same drink, and with the same waiters... It's never changed in more than a decade.<br /><br />Yet such a man won the admiration and respect of the Bloodhound Family members — this is probably related to the scar etched across his face. In a sweet dream practically devoid of any accidents, an ugly scar serves as a rare honor for a security officer, symbolizing seniority and prestige.<br /><br />Whenever confronted with a case, he would first unwrap a piece of candy and put it in his mouth. When the candy is almost gone with his chewing, he dives into the investigation with furrowed brows and ponders the clues until late in the bar. However, unlike the young officers, he seems to no longer find pleasure in apprehending suspects. When he gazes into the eyes of the so-called criminals who fell so far in the sweet dream, I see no sense of accomplishment in his eyes, only a profound emptiness and melancholy.<br /><br />I actually understand him. When you reach this stage of life, you'll start to doubt the meaning behind the life you've previously led. It was just like what I have experienced.\"<br /><align=\"right\">— Note: The Security Officer of the Bloodhound Family</align>",
    "unlockRequirement": "Unlocked at Character Level <nobr>20</nobr>"
   },
   {
    "title": "Character Story: Part II",
-   "text": "\"People need an opportunity to connect with each other, and the diverse special mixes within the Dreamscape serve as catalysts for such reactions.<br /><br />As I check out my surroundings, I soon notice an individual who's used to suavely navigating through life.<br /><br />Using the Sweet Dream Special's fame as a starting point, he starts the conversation with the history of syrups and SoulGlad, explaining to the guests the connection between the time spent shaking the drink and the flavor of the final product. Then, he talks about the degrees of fit between the special mix's aroma with a person's personality, and how to master the secret of matching the right ingredients... The surrounding faces drown in the darkness of the surroundings. He listens to the whispers of sorrow or joy, all the while coldly observing the hearts of the masses as the drunken party continues.<br /><br />He waits for all the guests to depart, then polishes the silver cups on his own until they gleam while gazing out the door. Day after day, he waits for someone who will never return, waiting for that person to give him an eternal lie that will end such a never-ending destiny.<br /><br />He walks alone down the street as lights go out one after another, and he casts a long shadow behind him —<br />Perhaps I, too, will step on to the same predetermined path as he is on.\"<br /><align=\"right\">— Note: Sweet Dream Drinksmith</align>",
+   "text": "\"People need an opportunity to connect with each other, and the diverse special mixes within the Dreamscape serve as catalysts for such reactions.<br /><br />As I check out my surroundings, I soon notice an individual who's used to suavely navigating through life.<br /><br />Using the Dreamjoy Special's fame as a starting point, he starts the conversation with the history of syrups and SoulGlad, explaining to the guests the connection between the time spent shaking the drink and the flavor of the final product. Then, he talks about the degrees of fit between the special mix's aroma with an individual's personality, and how to master the secret of matching the right ingredients... The surrounding faces drown in darkness. He listens to the whispers of sorrow or joy, all the while coldly observing the hearts of the masses as the drinking party continues.<br /><br />He waits for all the guests to depart, then polishes the silver cups on his own until they gleam while gazing out the door. Day after day, he waits for someone who will never return, waiting for that person to give him an eternal lie that will end such a never-ending destiny.<br /><br />He walks alone down the street as lights go out one after another, and he casts a long shadow behind him —<br />Perhaps I, too, will step on to the same predetermined path as he is on.\"<br /><align=\"right\">— Note: Dreamjoy Drinksmith</align>",
    "unlockRequirement": "Unlocked at Character Level <nobr>40</nobr>"
   },
   {
    "title": "Character Story: Part III",
-   "text": "\"There is only happiness in the sweet dream, which forms its greatest misfortune.<br /><br />These disillusioned individuals in the dream are terrified of The Family chasing them away. They wander like specters on the fringes of the Dreamscape, carefully concealing their emotions and avoiding memories that smell sour or bitter. Their defenses will only crumble during the brief moments after they imbibe the special mix as if they want to say everything they would ever want to say in the rest of their lives...<br /><br />'If people who look down on me lined up, the queue be long enough to go around The Reverie three times. But those who are willing to treat me with respect... *sigh* there's one less of them every time one of them dies...'<br />'Everyone daydreams. When I was your age, I aspired to become an intergalactic major thug. The result is clear: The daydream shattered.'<br />'You won't notice it when your tie is askew. In Penacony, no one cares about what others were. They don't even care if others are *human* or not.'<br />...<br /><br />Their words are often insincere and perfunctory, never revealing their true thoughts. However, that's the only way the story can feel real.\"<br /><align=\"right\">— Note: Disillusioned Ones in the Dreamscape</align>",
+   "text": "\"There is only happiness in the sweet dream, which forms its greatest misfortune.<br /><br />These disillusioned individuals in the dream are terrified of The Family chasing them away. They wander like specters on the fringes of the Dreamscape, carefully concealing their emotions and avoiding memories that smell sour or bitter. Their defenses will only crumble during the brief moments after they imbibe the special mix as if they want to say everything they would ever want to say in the rest of their lives...<br /><br />'If people who look down on me lined up, the queue be long enough to go around The Reverie three times. But those who are willing to treat me with respect... *sigh* there's one less of them every time one of them dies...'<br />'Everyone daydreams. When I was your age, I aspired to become an intergalactic outlaw. The result is clear: The daydream shattered.'<br />'You won't notice it when your tie is askew. In Penacony, no one cares about what others were. They don't even care if others are *human* or not.'<br />...<br /><br />Their words ring hollow, often insincere and perfunctory, never revealing their true thoughts. However, that's the only way the story can feel real.\"<br /><align=\"right\">— Note: Disillusioned Ones in the Dreamscape</align>",
    "unlockRequirement": "Unlocked at Character Level <nobr>60</nobr>"
   },
   {
    "title": "Character Story: Part IV",
-   "text": "\"During working hours, he presents himself as a seasoned and composed security officer. His prime has passed, he is more lenient, and his ambitions and aspirations have faded with the shattering of his dreams. After work, he would head to the familiar lounge to spend the long nights, mixing drinks for himself and longtime friends. As glasses clink, those conversations flow and fizzle like foams, then instantly disappear.<br /><br />He reminisces about the golden years when he yearned for freedom despite his captivity. Together, they fought against oppression, entrusting their lives to one another. They dreamed of a free land. They might die any moment, yet acted as if they already held countless wonderful tomorrows within their grasp. However, there were not enough of them to fight back. Familiar friends perished one by one. Ideals crumbled, and atrocities prevailed...<br /><br />'Is that something you lived through? You... you must be kidding, right?' The guest interrupts his gloomy soliloquy.<br />'Of course not. How can it possibly be true?' He smiles and resumes his work.<br /><br />...Gallagher is my most genuine lie. Sometimes, I can't even distinguish between him and myself.\"<br /><align=\"right\">— Note: Gallagher</align>",
+   "text": "\"During working hours, he presents himself as a seasoned and composed security officer. His prime has passed, he is more lenient, and his ambitions and aspirations have faded with the shattering of his dreams. After work, he would head to the familiar lounge to spend the long nights, mixing drinks for himself and longtime friends. As glasses clink, those conversations flow and fizzle like foams, then instantly disappear.<br /><br />He reminisces about the golden years when he yearned for freedom despite his captivity. Together, they fought against oppression, entrusting their lives to one another. They dreamed of a free land. They might die any moment, yet acted as if they already held countless wonderful tomorrows within their grasp. However, there were not enough of them to fight back. Familiar friends perished one by one. Ideals crumbled, and atrocities prevailed...<br /><br />'Is that something you lived through? You... you must be kidding, right?' The guest interrupts his gloomy soliloquy.<br />'Of course not. How can it possibly be true?' He smiles and resumes his work.<br /><br />...Gallagher is my most truthful lie. Sometimes, I can't even distinguish between him and myself.\"<br /><align=\"right\">— Note: Gallagher</align>",
    "unlockRequirement": "Unlocked at Character Level <nobr>80</nobr>"
   }
  ],

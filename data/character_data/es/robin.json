@@ -1,0 +1,2755 @@
+{
+ "spRequirement": 160,
+ "iconPath": "eda9eb4d611aebbebc76c9f36463222444d78b763bf41c52f57301da25bfd43d",
+ "bgPath": "7f423fac5a5055f2795b0a2e3aacd03d714016fae7d64991f12ec5397920da3e",
+ "figPath": "73b48269ce73c11adb7b3bf9dd758f5619ae10f0a46b767f8a662dea8d0f4b14",
+ "fgPath": "f2b4f2314295c89f822dc40b202f97035dfaae5abb9ec788d125981ae36c5179",
+ "splashIconPath": "d3f0beaa9b190826b041eeb4bc03404547818b4de65040064e41aa2032712099",
+ "splashPlaceholder": {
+  "w": 0,
+  "h": 0
+ },
+ "damageTypeId": 0,
+ "baseTypeId": 0,
+ "baseTypeTraces": {
+  "id": 4,
+  "iconPath": "55d5339b99655abd5d47c976596bebf22e6e522614fef628f7c875606f3e1abd",
+  "color": "#FFFFFF",
+  "rarity": 0
+ },
+ "itemReferences": {
+  "29328": {
+   "id": 29328,
+   "type": 101,
+   "purposeId": 11,
+   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "name": "Crédito",
+   "desc": "Divisa que utiliza la Corporación para la Paz Interastral para sus cuentas con los clientes y que se acepta en todas partes como moneda de los viajes espaciales.",
+   "lore": "\"La gente corre, se pelea y comercia por algo que no son más que números en una terminal, pero lo que es verdaderamente valioso no se puede comprar\".",
+   "purpose": "Moneda común",
+   "rarity": 3,
+   "rewardPath": "/material/29328",
+   "comeFrom": [
+    "Cáliz de la mina principal",
+    "Cáliz de la Comisión de Artesanía",
+    "Cáliz del Hotel Fantasía (paisaje onírico)",
+    "Recompensa de misión",
+    "Recompensa de encargo",
+    "Canjeo de Ascuas"
+   ]
+  },
+  "125435": {
+   "id": 125435,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "name": "Huellas del destino",
+   "desc": "Material avanzado de mejora para los Rastros.",
+   "lore": "Un fracaso tras otro garantiza la victoria final. Un paso tras otro acaba llevándote al punto de inflexión de tu destino.",
+   "purpose": "Material de Rastros",
+   "rarity": 5,
+   "rewardPath": "/material/125435",
+   "comeFrom": [
+    "Recompensa de puntos del Universo Simulado",
+    "Honor anónimo",
+    "Canjeo de Ascuas",
+    "Canjeo de Cosmiluz",
+    "Recompensa de evento de duración limitada"
+   ]
+  },
+  "409960": {
+   "id": 409960,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "name": "Guía del espíritu viajero",
+   "desc": "Material de experiencia para personajes. Otorga <nobr>20</nobr> <nobr>000</nobr> pts. de EXP.",
+   "lore": "Lectura indispensable para la exploración. Pulsa el botón Leer y una voz atractiva empezará a hablar en un idioma que entiendes y te contará las vivencias legendarias de aventureros famosos de distintos mundos, así como los valiosos conocimientos que adquirieron.<br /><br />\"El nuevo volumen de la serie Guía del espíritu viajero, titulado «Manual de gastronomía intergaláctica», saldrá a la venta muy pronto\".<br />\"Para enviar un artículo, conéctese a la baliza sinestésica ERD<nobr>-23</nobr>θ y contacte con un representante de la Sociedad del Conocimiento. Puede elegir la forma de pago más conveniente para usted\".",
+   "purpose": "Material de EXP de personaje",
+   "rarity": 4,
+   "rewardPath": "/material/409960",
+   "comeFrom": [
+    "Cáliz de las llanuras nevadas de las afueras",
+    "Cáliz del Vado de las Nubes",
+    "Cáliz de la Frontera de los Sueños",
+    "Salón olvidado"
+   ]
+  },
+  "409961": {
+   "id": 409961,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "name": "Registro de aventuras",
+   "desc": "Material de experiencia para personajes. Otorga <nobr>5000</nobr> pts. de EXP.",
+   "lore": "Colección de notas instructivas muy bien ordenadas. Contiene numerosas ilustraciones y textos que describen aventuras de principio a fin, así como información valiosa y técnicas de supervivencia.<br /><br />\"¿Por qué no lo digitalizan y lo guardan en un disco fotolítico? Sería mucho más práctico\".<br />\"La tecnología avanzada es mucho más frágil de lo que crees cuando tienes que enfrentarte a tormentas estelares o erupciones de neutrones. Además, seguro que quien escribió este libro quería que la gente lo leyera de la forma más sencilla posible\".",
+   "purpose": "Material de EXP de personaje",
+   "rarity": 3,
+   "rewardPath": "/material/409961",
+   "comeFrom": [
+    "Cáliz de las llanuras nevadas de las afueras",
+    "Cáliz del Vado de las Nubes",
+    "Cáliz de la Frontera de los Sueños",
+    "Entrenamiento diario",
+    "Canjeo de Ascuas"
+   ]
+  },
+  "409962": {
+   "id": 409962,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "name": "Noticias del viaje",
+   "desc": "Material de experiencia para personajes. Otorga <nobr>1000</nobr> pts. de EXP.",
+   "lore": "Diario de viaje con una caligrafía ilegible y un contenido completamente aleatorio, por lo que no te sirve de mucho.<br /><br />\"Dan Heng, acaba ya de leerlo y luego tíralo\".",
+   "purpose": "Material de EXP de personaje",
+   "rarity": 2,
+   "rewardPath": "/material/409962",
+   "comeFrom": [
+    "Cáliz de las llanuras nevadas de las afueras",
+    "Cáliz del Vado de las Nubes",
+    "Cáliz de la Frontera de los Sueños",
+    "Recompensa de encargo"
+   ]
+  },
+  "470781": {
+   "id": 470781,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "name": "Agravios pasados de la catástrofe devoraplanetas",
+   "desc": "Material avanzado de mejora para los Rastros.",
+   "lore": "Como descendiente criado por el mismísimo Imperator Insectorum, su único deseo es expandir su colonia. Utiliza guadañas gigantes para cortar planetas enteros y hacer su nido, y cría una innumerable descendencia, devastando a incontables seres vivos hasta su último aliento.<br /><br />\"En el mundo fracturado, langostas gigantes oscurecieron el cielo y plagas de insectos salieron de la corteza del planeta. El ciervo volante construyó un nuevo nido en homenaje al Imperator Insectorum... Que esta terrible escena solo quede registrada en los libros de historia y nunca se repita.\"",
+   "purpose": "Material de Rastros",
+   "rarity": 4,
+   "rewardPath": "/material/470781",
+   "comeFrom": [
+    "Ecos de la guerra de la zona de confinamiento"
+   ]
+  },
+  "549209": {
+   "id": 549209,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "name": "Componente del acumulador de sueños",
+   "desc": "Dispositivo de almacenamiento para las creaciones del paisaje onírico. Material simple que se usa en la potenciación.",
+   "lore": "Dispositivo de almacenamiento para fragmentos de sueño. Provee una fuente de energía fundamental para las creaciones del paisaje onírico.<br /><br />\"Obtén un miembro de la Compañía Dulces Sueños con la instalación de este dispositivo\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de personajes",
+   "rarity": 2,
+   "rewardPath": "/material/549209",
+   "comeFrom": [
+    "De Compañía Teatral de Terrores",
+    "De enemigos en el Universo Simulado",
+    "Recompensa de encargo",
+    "Canjeo de Ascuas",
+    "Máquina sintetizadora multiusos - Intercambio de material",
+    "Cáliz (oro)"
+   ]
+  },
+  "589819": {
+   "id": 589819,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "9dcc37e0e0903af3108640d694d154e4d9c54670d5b1de405adc1c283ef3186f",
+   "name": "Compás celestial",
+   "desc": "Un melodioso compás que flota a la deriva en los cielos. Sirve para mejorar moderadamente los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Armonía</span>.",
+   "lore": "Compás que surgió del orden. Cayó silenciosamente desde los confines del cielo y se incorporó a la cacofonía como un grano de arena en el desierto.<br /><br />\"Es imperceptible, hasta que provoca una chispa de inspiración\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de conos de luz",
+   "rarity": 3,
+   "rewardPath": "/material/589819",
+   "comeFrom": [
+    "Cáliz del Hotel Fantasía (paisaje onírico)",
+    "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "Canjeo de Ascuas",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "633150": {
+   "id": 633150,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "name": "Válvula del flujo de sueños",
+   "desc": "Componente de control para las creaciones del paisaje onírico. Material corriente que se usa en la potenciación.",
+   "lore": "Dispositivo de regulación que controla los deseos y emociones para las creaciones del paisaje onírico.<br /><br />\"En caso de fallo del dispositivo, obtendrás un miembro de la Compañía Teatral de Terrores\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de personajes",
+   "rarity": 3,
+   "rewardPath": "/material/633150",
+   "comeFrom": [
+    "De Compañía Teatral de Terrores (nivel de Equilibrio 2 o superior)",
+    "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "De enemigos en el Universo Simulado",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "673760": {
+   "id": 673760,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
+   "name": "Movimiento celestial",
+   "desc": "Movimiento de la sinfonía del universo. Sirve para mejorar en gran medida los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Armonía</span>.",
+   "lore": "Movimiento musical que surgió del orden. Resuena suavemente más allá del cielo, inmerso en un silencio abrumador, como una estrella titilante en medio de la galaxia.<br /><br />\"Es intrascendente, hasta que desaparece en el olvido\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de conos de luz",
+   "rarity": 4,
+   "rewardPath": "/material/673760",
+   "comeFrom": [
+    "Cáliz del Hotel Fantasía (paisaje onírico)",
+    "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "717091": {
+   "id": 717091,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "name": "Motor creasueños",
+   "desc": "Núcleo de energía para las creaciones del paisaje onírico. Material avanzado que se usa en la potenciación.",
+   "lore": "Dispositivo de fabricación que crea fantasías y otorga almas a las creaciones del paisaje onírico.<br /><br />\"Si este dispositivo falla... intenta despertar antes de caer en una pesadilla\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de personajes",
+   "rarity": 4,
+   "rewardPath": "/material/717091",
+   "comeFrom": [
+    "De Compañía Teatral de Terrores (nivel de Equilibrio 4 o superior)",
+    "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "De enemigos en el Universo Simulado",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "866635": {
+   "id": 866635,
+   "type": 601,
+   "purposeId": 2,
+   "iconPath": "e77713aac9f0dc8efb0047a1b9c918d14aaa40589e0472f557374cb53d06818d",
+   "name": "Permiso de trabajo de la Corporación",
+   "desc": "Permiso de trabajo de \"personal experimentado\" de la Corporación. Material de ascensión para los personajes de tipo Físico.",
+   "lore": "En la Corporación, solo los líderes de equipos de proyecto tienen un permiso de trabajo de este nivel. Son tan adictos al trabajo que es más probable que olviden ponerse ropa antes que no llevar su tarjeta de identificación.<br /><br />\"¡Es mucho más que un pase al Pier Point, es un símbolo de estatus!\".",
+   "purpose": "Material de ascensión de personaje",
+   "rarity": 4,
+   "rewardPath": "/material/866635",
+   "comeFrom": [
+    "Sombra paralizada del parque temático de los Estudios Reloj",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "874346": {
+   "id": 874346,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "0b9599c040d16b07324d2f3ea37854bbe9d3d22cb80a43b3070662e562738a04",
+   "name": "Nota del firmamento",
+   "desc": "Fragmento de notas musicales que surgió en el firmamento. Sirve para mejorar ligeramente los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Armonía</span>.",
+   "lore": "Nota musical que surgió del orden. Cayó silenciosamente desde los confines de las nubes y se incorporó a la sinfonía mundana como una lágrima que se disuelve en el mar.<br /><br />\"Es inaudible, hasta que muere en una canción\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de conos de luz",
+   "rarity": 2,
+   "rewardPath": "/material/874346",
+   "comeFrom": [
+    "Cáliz del Hotel Fantasía (paisaje onírico)",
+    "Canjeo de Ascuas",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  }
+ },
+ "levelData": [
+  {
+   "attackBase": 87.12,
+   "attackAdd": 4.356,
+   "hpBase": 174.24,
+   "hpAdd": 8.712,
+   "defenseBase": 66,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 0,
+   "maxLevel": 20,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 4000
+    },
+    {
+     "id": 549209,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "attackBase": 121.968,
+   "attackAdd": 4.356,
+   "hpBase": 243.936,
+   "hpAdd": 8.712,
+   "defenseBase": 92.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 1,
+   "maxLevel": 30,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 8000
+    },
+    {
+     "id": 549209,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "attackBase": 156.816,
+   "attackAdd": 4.356,
+   "hpBase": 313.632,
+   "hpAdd": 8.712,
+   "defenseBase": 118.8,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 2,
+   "maxLevel": 40,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 16000
+    },
+    {
+     "id": 633150,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 3
+    }
+   ]
+  },
+  {
+   "attackBase": 191.664,
+   "attackAdd": 4.356,
+   "hpBase": 383.328,
+   "hpAdd": 8.712,
+   "defenseBase": 145.2,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 3,
+   "maxLevel": 50,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 40000
+    },
+    {
+     "id": 633150,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 7
+    }
+   ]
+  },
+  {
+   "attackBase": 226.512,
+   "attackAdd": 4.356,
+   "hpBase": 453.024,
+   "hpAdd": 8.712,
+   "defenseBase": 171.6,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 4,
+   "maxLevel": 60,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 80000
+    },
+    {
+     "id": 717091,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "attackBase": 261.36,
+   "attackAdd": 4.356,
+   "hpBase": 522.72,
+   "hpAdd": 8.712,
+   "defenseBase": 198,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 5,
+   "maxLevel": 70,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 160000
+    },
+    {
+     "id": 717091,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 35
+    }
+   ]
+  },
+  {
+   "attackBase": 296.208,
+   "attackAdd": 4.356,
+   "hpBase": 592.416,
+   "hpAdd": 8.712,
+   "defenseBase": 224.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 6,
+   "maxLevel": 80,
+   "cost": []
+  }
+ ],
+ "ranks": [
+  {
+   "id": 1,
+   "iconPath": "21e336b48e11c1463a129146f02e24d165410eec5c3fa7ae30a491423a408a1f",
+   "artPath": "1c33f658c3f7ea19839b361bd1b6c60f23756e6e7efbe314eaf692b7415e17b4",
+   "name": "País de sonrisas",
+   "descHash": "Cuando está en el estado de Concierto, la PEN de la RES a todos los tipos de todos los aliados aumenta en un <nobr>#1[i]%</nobr>.",
+   "params": [
+    0.24
+   ]
+  },
+  {
+   "id": 2,
+   "iconPath": "978b1491f0216e5f8cd91fb1b801e0b687d41604b8589c1d35e9b5923770e086",
+   "artPath": "3a9d06c608b882b7d476157e76df564b7280a7810d5ea0944a56e25583d4b86a",
+   "name": "Té de la tarde para dos",
+   "descHash": "Cuando está en el estado de Concierto, la VEL de todos los aliados aumenta en un <nobr>#1[i]%</nobr>. El efecto de recuperación de energía del talento aumenta adicionalmente en <nobr>#2[i]</nobr> pt.",
+   "params": [
+    0.16,
+    1
+   ]
+  },
+  {
+   "id": 3,
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "artPath": "76c2551ec34702bdb41b20a6771cde591c75c4a8a32870acaa7af258ecc5d72c",
+   "name": "Afinación inversa",
+   "descHash": "Niv. de habilidad básica +2 (máximo: nivel <nobr>15</nobr>). Niv. de habilidad definitiva +2 (máximo: nivel <nobr>15</nobr>).",
+   "params": []
+  },
+  {
+   "id": 4,
+   "iconPath": "c8b5f11986362057fe659a391ec3eb193a8c266a90e790c260ed339fa5494040",
+   "artPath": "50350af0d85d5eb9439a3b141315f3cc0e1dd538eb538a8018415888e62ee028",
+   "name": "Llave de lluvia",
+   "descHash": "Al usar su habilidad definitiva, elimina los estados negativos de Control de todos los aliados. Cuando Robin está en el estado de Concierto, la RES a efecto de todos los aliados aumenta en un <nobr>#1[i]%</nobr>.",
+   "params": [
+    0.5
+   ]
+  },
+  {
+   "id": 5,
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "artPath": "2f2955b5d7040846379b487d53001fb63c189026173ac24e62cbb057515c4e4f",
+   "name": "Lamento de la estrella solitaria",
+   "descHash": "Niv. de ATQ básico +1 (máximo: nivel <nobr>10</nobr>). Niv. de talento +2 (máximo: nivel <nobr>15</nobr>).",
+   "params": []
+  },
+  {
+   "id": 6,
+   "iconPath": "4859dbd0db6c3f43054a37aba1cbe0c886d83963babe02a0ec70792608a7440c",
+   "artPath": "b91d0398e090f093b5ebd0c922961e628b15b979938e64398d9c118b6acc91c1",
+   "name": "Noche sin luna",
+   "descHash": "Cuando está en el estado de Concierto, el Daño CRIT del Daño Físico adicional infligido por la habilidad definitiva aumenta en un <nobr>#2[i]%</nobr>. El efecto de Noche sin luna se puede activar hasta <nobr>#1[i]</nobr> veces. Cada vez que usa la habilidad definitiva, se reinicia el número de veces que se puede activar.",
+   "params": [
+    8,
+    4.5
+   ]
+  }
+ ],
+ "skillGrouping": [
+  [
+   758858
+  ],
+  [
+   642213
+  ],
+  [
+   558272
+  ],
+  [
+   474331
+  ],
+  [
+   157100
+  ]
+ ],
+ "skills": [
+  {
+   "tagHash": "ATQ individual",
+   "descHash": "Inflige un <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> del ATQ de Robin como Daño <span style=\"color:#FFFFFF;\">Físico</span> a un enemigo.",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "20",
+   "id": 758858,
+   "name": "Ruido blanco de aleteo",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "ATQ básico",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.7
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.8
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.9
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      1
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      1.1
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "Apoyo",
+   "descHash": "Aumenta en un <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> el daño que infligen todos los aliados durante <nobr>#2[i]</nobr> turnos. Cada vez que comience el turno de Robin, la duración se reduce en 1 turno.",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "30",
+   "id": 642213,
+   "name": "Aria de la pluma",
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "typeDescHash": "Habilidad básica",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.25,
+      3
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      3
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.3,
+      3
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.325,
+      3
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.35,
+      3
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.375,
+      3
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.40625,
+      3
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.4375,
+      3
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.46875,
+      3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.5,
+      3
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.525,
+      3
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.55,
+      3
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.575,
+      3
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6,
+      3
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.625,
+      3
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "Apoyo",
+   "descHash": "Robin entra en el estado de Concierto y hace que todos los aliados excepto ella actúen inmediatamente.<br />Mientras está en el estado de Concierto, el ATQ de todos los aliados aumenta en una cantidad equivalente al <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> + <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]</nobr></span> del ATQ de Robin. Después de cada ataque de los aliados, Robin inflige 1 vez un <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span> de su ATQ como <u>Daño <span style=\"color:#FFFFFF;\">Físico</span> adicional</u>. La Prob. CRIT de este daño se fija en el <nobr>#5[i]%</nobr> y el Daño CRIT se fija en el <nobr>#6[i]%</nobr>.<br />Mientras está en el estado de Concierto, Robin obtiene inmunidad a <u>estados negativos de Control</u> y no puede realizar ninguna acción ni usar su turno hasta que termine el estado de Concierto.<br />En el orden de acción aparece una cuenta regresiva de Concierto. Cuando termina el turno de la cuenta regresiva, Robin sale del estado de Concierto y actúa inmediatamente. La cuenta regresiva tiene una VEL fija de <nobr>#2[i]</nobr>.",
+   "ultimateCost": 160,
+   "break": "0",
+   "energy": "5",
+   "id": 558272,
+   "name": "Canon de mil voces, fuga estelar",
+   "iconPath": "8c18f6a980650b868e7d8544dc55b66266f713ba779ef9d0ffee778366d8b800",
+   "typeDescHash": "Habilidad definitiva",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.152,
+      90,
+      50,
+      0.72,
+      1,
+      1.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.1596,
+      90,
+      65,
+      0.768,
+      1,
+      1.5
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1672,
+      90,
+      80,
+      0.816,
+      1,
+      1.5
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1748,
+      90,
+      95,
+      0.864,
+      1,
+      1.5
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1824,
+      90,
+      110,
+      0.912,
+      1,
+      1.5
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.19,
+      90,
+      125,
+      0.96,
+      1,
+      1.5
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1995,
+      90,
+      143.75,
+      1.02,
+      1,
+      1.5
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.209,
+      90,
+      162.5,
+      1.08,
+      1,
+      1.5
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2185,
+      90,
+      181.25,
+      1.14,
+      1,
+      1.5
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.228,
+      90,
+      200,
+      1.2,
+      1,
+      1.5
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2356,
+      90,
+      215,
+      1.248,
+      1,
+      1.5
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2432,
+      90,
+      230,
+      1.296,
+      1,
+      1.5
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2508,
+      90,
+      245,
+      1.344,
+      1,
+      1.5
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2584,
+      90,
+      260,
+      1.392,
+      1,
+      1.5
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.266,
+      90,
+      275,
+      1.44,
+      1,
+      1.5
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "Apoyo",
+   "descHash": "Aumenta el Daño CRIT de todos los aliados en un <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span>. Después de que un aliado ataque a un enemigo, Robin recupera <nobr>#2[i]</nobr> pts. de energía adicionales.",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 474331,
+   "name": "Oda melodiosa",
+   "iconPath": "641a4d2b6c02e2c482e8f3f9e4abd3218e4450d9572b0b7e4311a473a7bdddc4",
+   "typeDescHash": "Talento",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.05,
+      2
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.065,
+      2
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.08,
+      2
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.095,
+      2
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.11,
+      2
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.125,
+      2
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.14375,
+      2
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1625,
+      2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.18125,
+      2
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2,
+      2
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.215,
+      2
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.23,
+      2
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.245,
+      2
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.26,
+      2
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      2
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "",
+   "descHash": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "0",
+   "id": 273745,
+   "name": "Ataque",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "Apoyo",
+   "descHash": "Tras usar la técnica, crea una zona especial a su alrededor que dura <nobr>#1[i]</nobr> s. Los enemigos que estén en la zona no pueden atacar a Robin y la siguen mientras la zona permanezca activa. Tras entrar en combate mientras la zona especial está activa, Robin recupera <nobr>#2[i]</nobr> pts. de energía al comienzo de cada oleada. Solo puede haber 1 efecto del área creado por los aliados a la vez.",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 157100,
+   "name": "Obertura embriagadora",
+   "iconPath": "27ed98d04302103286581f7ffa736edd301561bc6ff2fb9cadc5ae97ec4148f4",
+   "typeDescHash": "Técnica",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      15,
+      5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  }
+ ],
+ "skillTreePoints": [
+  {
+   "id": 1309101,
+   "anchor": 6,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309202,
+     "anchor": 10,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309203,
+       "anchor": 11,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363456,
+        "name": "Bonificación de ATQ",
+        "levelReq": 0,
+        "promotionReq": 3,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "ATQ",
+          "value": 0.04
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 10000
+         },
+         {
+          "id": 589819,
+          "count": 3
+         },
+         {
+          "id": 633150,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363455,
+      "name": "Bonificación de PV",
+      "levelReq": 0,
+      "promotionReq": 2,
+      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "statusList": [
+       {
+        "key": "PV",
+        "value": 0.04
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 549209,
+        "count": 6
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "Al comenzar la batalla, su acción se adelanta un <nobr>#1[i]%</nobr>.",
+    "ultimateCost": 0,
+    "id": 363359,
+    "name": "Coloratura de cadenza",
+    "iconPath": "c4d2f5cc476f3512e459714a55ecfd4ca18c450af273734de91f55b6d11ba8fe",
+    "levelReq": 0,
+    "promotionReq": 2,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 2,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309102,
+   "anchor": 7,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309205,
+     "anchor": 13,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309206,
+       "anchor": 14,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363451,
+        "name": "Bonificación de PV",
+        "levelReq": 0,
+        "promotionReq": 5,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "PV",
+          "value": 0.06
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 45000
+         },
+         {
+          "id": 673760,
+          "count": 3
+         },
+         {
+          "id": 717091,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363454,
+      "name": "Bonificación de ATQ",
+      "levelReq": 0,
+      "promotionReq": 4,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "ATQ",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 633150,
+        "count": 4
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "Cuando está en el estado de Concierto, el Daño CRIT que infligen todos los aliados con sus ataques adicionales aumenta en un <nobr>#1[i]%</nobr>.",
+    "ultimateCost": 0,
+    "id": 363362,
+    "name": "Adorno improvisado",
+    "iconPath": "73a8b04c935054e24f9433a44c751dd3956335aeed2bbba2abbd0f49170b1c20",
+    "levelReq": 0,
+    "promotionReq": 4,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 4,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309103,
+   "anchor": 8,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309208,
+     "anchor": 16,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309209,
+       "anchor": 17,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363466,
+        "name": "Bonificación de PV",
+        "levelReq": 75,
+        "promotionReq": 0,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "PV",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      },
+      {
+       "id": 1309210,
+       "anchor": 18,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 279516,
+        "name": "Bonificación de ATQ",
+        "levelReq": 80,
+        "promotionReq": 0,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "ATQ",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363465,
+      "name": "Bonificación de VEL",
+      "levelReq": 0,
+      "promotionReq": 6,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "VEL",
+        "value": 3,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 717091,
+        "count": 8
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "Al usar la habilidad básica, recupera <nobr>#1[i]</nobr> pts. de energía adicionales.",
+    "ultimateCost": 0,
+    "id": 363361,
+    "name": "Pasaje secuencial",
+    "iconPath": "1b682ac043a69e0e67e377b998430c71e7f9dc506dfef5c6a6e14513b5e04e96",
+    "levelReq": 0,
+    "promotionReq": 6,
+    "levelData": [
+     {
+      "params": [
+       5
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 6,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309201,
+   "anchor": 9,
+   "type": 2,
+   "children": [
+    {
+     "id": 1309204,
+     "anchor": 12,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363453,
+      "name": "Bonificación de VEL",
+      "levelReq": 0,
+      "promotionReq": 3,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "VEL",
+        "value": 2,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 10000
+       },
+       {
+        "id": 589819,
+        "count": 3
+       },
+       {
+        "id": 633150,
+        "count": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": 1309207,
+     "anchor": 15,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363452,
+      "name": "Bonificación de ATQ",
+      "levelReq": 0,
+      "promotionReq": 5,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "ATQ",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 45000
+       },
+       {
+        "id": 673760,
+        "count": 3
+       },
+       {
+        "id": 717091,
+        "count": 3
+       }
+      ]
+     }
+    }
+   ],
+   "embedBuff": {
+    "id": 363458,
+    "name": "Bonificación de ATQ",
+    "levelReq": 1,
+    "promotionReq": 0,
+    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "statusList": [
+     {
+      "key": "ATQ",
+      "value": 0.04
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 2500
+     },
+     {
+      "id": 549209,
+      "count": 2
+     }
+    ]
+   }
+  }
+ ],
+ "relicRecommend": {
+  "twoPcSets": [],
+  "fourPcSets": [],
+  "props": [
+   {
+    "relicTypeHash": "Torso",
+    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "propertyName": "ATQ",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "Piernas",
+    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "propertyName": "ATQ",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "Esfera de plano",
+    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "propertyName": "ATQ",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "Cuerda de unión",
+    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "propertyName": "Recuperación de energía",
+    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+   }
+  ]
+ },
+ "voiceItems": [
+  {
+   "id": 1,
+   "title": "Primer encuentro",
+   "text": "Hola, buenas noches. Soy Robin, una cantante de La Familia. No hay necesidad de ser tan formal, es solo una charla amistosa fuera del escenario. ¿Puedes dedicarme un poco de tiempo?",
+   "unlockRequirement": "",
+   "cnUrl": "163097ee1c36e14e4f0988edd057d3f96289ac15992d0add187759540955556c",
+   "jpUrl": "24d8018a55d0126717920d218bd2ef1783e408f8167b190a92fd5445bdad2517",
+   "enUrl": "23950a9cd93277faaee89a9236f6e188200a625d2a207ba0d167187199fdc63c",
+   "krUrl": "f71747b2c9352d3336dc1e52540f027e15f5fd4f784f6926e8961a67f79c49a3"
+  },
+  {
+   "id": 2,
+   "title": "Saludo",
+   "text": "Nos volvemos a ver. ¿Qué canción te apetece escuchar ahora?",
+   "unlockRequirement": "",
+   "cnUrl": "9b51cbd95e26a12327596799913283cbc60336f106f79bf38bc3f0354a9bde64",
+   "jpUrl": "ae322d661f66b697ba13aa67980ef5b0fb26346e1fc0bc70a792da6b71826077",
+   "enUrl": "c22bb76807f3919403dadee8a2cf7162cc9396176984ccb74bf9b1bb34e742b4",
+   "krUrl": "b4fc09da0191ec99f2d96f960ca39d1bb24b4a5539ff37f73d2c174e698bcd99"
+  },
+  {
+   "id": 3,
+   "title": "Despedida",
+   "text": "Hasta la próxima. Que mis canciones te ayuden a conciliar un dulce sueño.",
+   "unlockRequirement": "",
+   "cnUrl": "4f11de1a288051c9a5b9486c5829bc19c4d2752f51caf827fabc84daa3fa84ba",
+   "jpUrl": "05b93daf746fac9bc7f131d3abbac4b5e2d8c824703ade6acc5502afd6ea954c",
+   "enUrl": "36ac96ff54d335e7e4bbf748007015d93d1e0d829e692329da2cea8b79eeaabd",
+   "krUrl": "d77e7a9532883093bfadf69bf2ae28af040d5710781831556580988035a645d9"
+  },
+  {
+   "id": 4,
+   "title": "Acerca de sí misma: trabajo creativo",
+   "text": "Puede que la música tenga sus trucos creativos, pero lo que hace que la música sea tan conmovedora no es solo la técnica, sino la emoción y la determinación que resuenan en la voz.",
+   "unlockRequirement": "",
+   "cnUrl": "688b6fceff94a18dbf92a052fc3646c85e2123a061e4453739dd449cc32b49b1",
+   "jpUrl": "47379f1fbfffb9a2e6c2960aa1abc258ae7e3784782fb820f4907e935a3e56bb",
+   "enUrl": "6300ac0662c79bb4f4cb94b5eca1ed30ea598ace1b298fdc6ec8277b0efa4c59",
+   "krUrl": "830c7f8966004a5b9aa6d8bb6bf05f29a0e2ba48f31c478019ba26a25788059b"
+  },
+  {
+   "id": 5,
+   "title": "Acerca de sí misma: voz cantante",
+   "text": "La gente suele decir que cuanto más sofisticado sea el gusto de los comensales, más exquisitas serán las habilidades del cocinero. No importa lo que digan los demás, siempre seré mi oyente más exigente.",
+   "unlockRequirement": "",
+   "cnUrl": "2339f4577df934b8595a936459d8640b854a696b00cdef52984102c0cdbb627a",
+   "jpUrl": "f285f93414e97d622d1393e2ac59197e24f0eb04e5ba736aad15693f1ae9fb69",
+   "enUrl": "73dbd75d59bf1f0f7d63a700e63153223b23db05a4dc4dc3e1158eed6a6f9287",
+   "krUrl": "df892291b56570c7a62f4f69876a63a3babe0610b3376daeeb9b7319494df21c"
+  },
+  {
+   "id": 6,
+   "title": "Conversación: álbumes",
+   "text": "Aquellos que nos precedían encapsulaban la música en grabaciones físicas para intentar capturar la esencia de una canción. Mi colección procede de distintos mundos... algunos de civilizaciones ya desaparecidas. Pero las emociones que dejaron atrás son eternas.",
+   "unlockRequirement": "",
+   "cnUrl": "cc7105037e3aade3c7be84908fa6b77867448c7242a6bea23301d7625a0ebe77",
+   "jpUrl": "91cf48e514af59ac2c06a1277211f854fcb36c442ebd4d883fa0ba51e0a1e295",
+   "enUrl": "c472be66924d397bca6e35cf27e8b44b6b0c935ec9fb67210a55753f66fbbed3",
+   "krUrl": "5d067936271fb81b04fff176b6f7011d2886fc64e2507fbf645a8102437cf887"
+  },
+  {
+   "id": 7,
+   "title": "Conversación: primera canción",
+   "text": "Cuando era pequeña, mi hermano solía tararear canciones de cuna para que me durmiera. Esa fue la primera música que aprendí... Aunque no tiene letra, sigue siendo mi melodía favorita.",
+   "unlockRequirement": "",
+   "cnUrl": "f2e82cb57484fc489ba3ff7f87e83b04bdf315cd430db9bf5eeb9ffdc23c3eea",
+   "jpUrl": "6c088ee98b648b7acbb3ebfb203011106fd1ab935a276154282ae5a96787f323",
+   "enUrl": "07c924b1e2df6b8f6ad3962db37ea0d66f2a8968f08613b5689a623795431a95",
+   "krUrl": "8971245c67cea31dd7ae78169d8d1de73f744ff6d9e7d0304d90cd3aff59a20c"
+  },
+  {
+   "id": 8,
+   "title": "Aficiones",
+   "text": "A veces me pongo una peluca, cambio de maquillaje y me pongo un par de gafas. Solo con eso puedo ir a donde quiera sin preocupaciones.",
+   "unlockRequirement": "",
+   "cnUrl": "486cf60e5a8ca30b2e75b89065c5cde9ccaa660fd9473510f7fc79e8867f902d",
+   "jpUrl": "b4bf6d08424c8b0c3765cc5e27973f562f1e3388afad696d2a02928452086dda",
+   "enUrl": "73eddd42c8d0995c610ba593619cd206685b828b4685bd76ca5b9cf2813707db",
+   "krUrl": "38b1fc299c988e35e6aabd907811b9c18e641ab414daf8b84dcb1466b97d131f"
+  },
+  {
+   "id": 9,
+   "title": "Molestias",
+   "text": "Cuando no estoy de gira, prefiero salir de la ciudad para disfrutar del sonido de la naturaleza... Es una pena que en el paisaje onírico de Colonipenal no haya bosques reales, así que me conformo con poder hablar con los pájaros de mis sueños.",
+   "unlockRequirement": "",
+   "cnUrl": "3e7344dbae6b546fe379f4dc1a73f6e00971aee0675c47578b12ab04c14caff1",
+   "jpUrl": "e6cc186707f64b993fa5bff134c8f67baf001c8e6fad12273103ba6465d69d41",
+   "enUrl": "e76a2d3cab7c2c1232307c69b90383ed90756bafe085e1b6954dea11ab38f191",
+   "krUrl": "335bfef4e14f4ef2898d23979e8616c4cc37289886343d2d057220b5848421e1"
+  },
+  {
+   "id": 10,
+   "title": "Algo que compartir",
+   "text": "En la familia de la Armonía todos somos iguales, y todos pueden sumergirse en los himnos de los Mil Rostros, compartiendo todo el sufrimiento y la felicidad. Espero que mi canto también pueda traer paz a todos.",
+   "unlockRequirement": "",
+   "cnUrl": "bd9170ca1103d3b7b096a33aa749bbfdbf83f139263b694259544d448a5691ce",
+   "jpUrl": "eab2266363c6c7ba7b93e9c87c03c777da008c46518e861ba88ead5f87457c27",
+   "enUrl": "b50dd8c8054712fcb737abf5c22c14726c3c101ba36105a013d269a0ea25f5c6",
+   "krUrl": "6948c6fa75e3d8b0b7b1270d6751aebf2ff7d251543896ef8b063697788c003d"
+  },
+  {
+   "id": 11,
+   "title": "Un dato",
+   "text": "Una firma musical de Épsilon que ha producido varios álbumes para mí me invitó a quedarme allí durante un tiempo. La atmósfera de ese planeta es muy similar a la de Colonipenal, pero parece que la gente allí está más interesada en las enormes ganancias que puede generar el arte que el arte en sí...",
+   "unlockRequirement": "",
+   "cnUrl": "de4049aacbc622aa90f398cef6aa98136be654969a26e9ae8170a2e211c69945",
+   "jpUrl": "4bb34c6121053c32c912c2b872d9af8350756a644193110a9e0723aaadf542c2",
+   "enUrl": "1c6a5fd11874d540879c58980146b1df38b2a136f337b3f554101a80579d44bd",
+   "krUrl": "307c1199a1514c43c4f416a60af30c371bfc7e5dc2317fbbe3a9c176306dd402"
+  },
+  {
+   "id": 12,
+   "title": "Acerca de Sunday",
+   "text": "Mi hermano parece pensar que debe asumir más responsabilidades. Siempre escucha atentamente mis preocupaciones, pero rara vez me dice lo que siente... Tal vez en el fondo siga pensando que soy su hermana pequeña.",
+   "unlockRequirement": "",
+   "cnUrl": "031976c85774b81e38e4b3d196b2d168379229eb0b4d4292cc8f2d0f4ad2fe54",
+   "jpUrl": "22240df81aca424f736d2e923c4089a5fdc2e318f9803717777cee6aeefa1462",
+   "enUrl": "0a70106fb5e67d17d38d1fac21d7663eb51b515e007cd78af31a3370453254af",
+   "krUrl": "2e4b14b161718fd1af731b6b028fb3697b89367d8a20988b1375bc7e98862cb9"
+  },
+  {
+   "id": 13,
+   "title": "Acerca de Sunday II",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "Se desbloquea tras completar la misión trazacaminos «Y en el octavo día...».",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 14,
+   "title": "Acerca de Gallagher",
+   "text": "Gallagher siempre esconde su lado más tierno... Aunque suele parecer un poco descuidado, siempre está al lado de sus amigos en los momentos decisivos.",
+   "unlockRequirement": "",
+   "cnUrl": "094e1e6a1b5f106ce4096fcfaff51c550b9cd91feeb48118f30b3db57f007072",
+   "jpUrl": "3816c421e68adc45232e14852d665f7eeaeaa873be79ab730bb2cc4ff6aedf71",
+   "enUrl": "5218eda77365ad468cde6bf6dee33a8397a315fea8f4b1c244edd35aa78d5ed4",
+   "krUrl": "dc32f45e0e78382197ea35bfb31b6248fb17b69490308f6744c8d90ef1de9062"
+  },
+  {
+   "id": 15,
+   "title": "Acerca de Cisne Negro",
+   "text": "La estrategia y los métodos de Cisne Negro son tan exquisitos como su danza. Espero con ansias el momento en el que podamos bailar juntas.",
+   "unlockRequirement": "",
+   "cnUrl": "e6377d6382f3075753a702bd405d7bb08da167d74465be0077d71d55db34cdc6",
+   "jpUrl": "9c6d53abbdb152060e5a5f0fe18d70b7f9a0301221a5a525b91cfcb84793229b",
+   "enUrl": "5e7429d3a0772780ec058009c35b6adf69813805e8369cfb7268ca40f19dcc40",
+   "krUrl": "62a80228b83571581c86c40a7c7c467e824a6e639bb141fc957b2ee7fcabb430"
+  },
+  {
+   "id": 16,
+   "title": "Activación de Eidolon",
+   "text": "Escucha, las armonías se escuchan más nítidas...",
+   "unlockRequirement": "",
+   "cnUrl": "722216acf341257a7a120e7873798d38fe7b3c5a733cd0b6b37595ada8269780",
+   "jpUrl": "c9391701f57ee5437ad90bbdd3215f46121af7392489e802acee1634111f0bf0",
+   "enUrl": "6050f1c16c7070c473e4799dcc2ed0d5bbe76600ef6df2d0ab3aba2f6201df4e",
+   "krUrl": "a73c5f61f877c9ed6281c7a320fafd684851e135a55b22df2e6bcc1e451f7e8e"
+  },
+  {
+   "id": 17,
+   "title": "Ascensión de personaje",
+   "text": "Solo asegurarás una actuación óptima si practicas sin parar.",
+   "unlockRequirement": "",
+   "cnUrl": "71101847ee71d418cd681d507515e3892e49a5b964fe63c6bc467853a7704ab9",
+   "jpUrl": "a7790bb108ceceef132cba9131e91b99acc050022ca2ee261c36d1d6f979217f",
+   "enUrl": "edd80ccc9713259dd2b0f51f9b9c50c372350cfe604a08e65174a649c1fb89a7",
+   "krUrl": "786f09667b399a2afa85caba530af9beafacbfd588c5a1b1e654248839801929"
+  },
+  {
+   "id": 18,
+   "title": "Nivel máximo alcanzado",
+   "text": "Todo está listo. Es hora de subir al escenario.",
+   "unlockRequirement": "",
+   "cnUrl": "b4dd940589635b52c57e85227283185ba8fc551eaf5174c8d72772d81c12a345",
+   "jpUrl": "f311fa7da2f76eda8f8356605a4ccb54ae430ad80bffd7d7e3533fd92ac27cde",
+   "enUrl": "4b9231fdc94685cd852cf8d46b45705f8c7955535f67f30756fbc931f0ff45e3",
+   "krUrl": "4327a458028a630804c91b12dd07a577ad5d67115d0f446300f1ef5c0f36565c"
+  },
+  {
+   "id": 19,
+   "title": "Activación de Rastro",
+   "text": "No hay que holgazanear nunca, aunque no se trate de música.",
+   "unlockRequirement": "",
+   "cnUrl": "9a311550fb4453065f464239b38df23c75c1d0f73d18a1f7a3d221b06ae32d8c",
+   "jpUrl": "ce831fa27460b176512431cde2ede263d4517a9a3835b9311a6df8555a55c2cd",
+   "enUrl": "37b99801eb27e1912cf98c02f2a9e48c79d2e7140331a0d1913353678a8b27fb",
+   "krUrl": "c288f20e889e5123ef91e0d9ae801a5f6e07531dce1012fdf6a1de57d38eda49"
+  },
+  {
+   "id": 20,
+   "title": "Miembro del equipo: Trazacaminos",
+   "text": "No te preocupes. Siempre estaré a tu lado.",
+   "unlockRequirement": "",
+   "cnUrl": "ac10aec6dc3851699b43acab717e0f898bad6f96fec889f6bcbba7380b66c859",
+   "jpUrl": "80e5a40574f15eba484404473a5631b38124bb8e7de604c75b61fb613ab8e3ea",
+   "enUrl": "293f81588619f67b00f49ef386ec988045b0471140f0befa5bcb0430004e238d",
+   "krUrl": "d6004796b1fdbae17a715f826a91ea815c9d83b29582d8aab8b2bc4f10e29842"
+  },
+  {
+   "id": 21,
+   "title": "Miembro del equipo: Gallagher",
+   "text": "Dejaré que te encargues tú de los enemigos, Gallagher.",
+   "unlockRequirement": "",
+   "cnUrl": "435217d55a9b18332bd4f9d33b08f13967357281ac059b566a357961c8edc913",
+   "jpUrl": "4e5965f2daebdfba4c133016fe0dd0b357b991dbbfc636987c1db2be5beba7b4",
+   "enUrl": "f9250f7ab1e263e0ab96f49e6bf0b232b7fe6967f0cb3e9a8ad9b35bdaf3ccdf",
+   "krUrl": "44d5936c9d20217906d5f76da708dca7ebe66500b0c2eb8ae16004bcf6862f8a"
+  },
+  {
+   "id": 22,
+   "title": "Miembro del equipo: Cisne Negro",
+   "text": "Espero que esta pieza acompañe bien los pasos de danza de Cisne Negro.",
+   "unlockRequirement": "",
+   "cnUrl": "3543edb6170f41eb7b7d3db482511b12b97a6b3e2a903d9e492b9193ffd590f8",
+   "jpUrl": "ebdf81f0702e6bdf88189a11c21bf9e8268d305cf57f6ff055ab18a5e80a044c",
+   "enUrl": "18ecbecb721b31d6f20bb00e57cfa7b2e0b338254231904b69f04c913bf121cb",
+   "krUrl": "eb19abfff0ff428d7ad3d30474a83fd340066dcb33ffd9713f9b1848cba4af28"
+  },
+  {
+   "id": 51,
+   "title": "Comienzo de la batalla: Ruptura de Debilidad",
+   "text": "Escucha la canción final de la vida.",
+   "unlockRequirement": "",
+   "cnUrl": "2e1bdbf8d71f7db85cb161b3e54e37bacbcadb3ab9955ff8e5ab21de1c1c096b",
+   "jpUrl": "b2da4684936e58f3917b62f5f68a196984b9b71328da792623ed69c3f26fe8f6",
+   "enUrl": "7d4c2bc8272c2d5696ab86ecfd88a68a4271af4cf516c72e6fc1697dbfbe2291",
+   "krUrl": "f80ce3b2d39158efff4c5879fa71d7dbc4e41e7c02cc2de262cd2f5ffb0cbbb8"
+  },
+  {
+   "id": 52,
+   "title": "Comienzo de la batalla: alerta de peligro",
+   "text": "Pensamientos peligrosos.",
+   "unlockRequirement": "",
+   "cnUrl": "27f67972476542e12b4ddb56d51c087961665d6fd7fa988d3ad4065c4ab7bd74",
+   "jpUrl": "4ccfe3672b4123be9585ae55e9a17d8e0e304fe2f86387bdbab04073743a78b8",
+   "enUrl": "b6fc1cea0a520030e9f5d639e6b334b15e3d174b11bd598770f6cc6e3b708436",
+   "krUrl": "97346ba2956f630c59744bf47f8ca136df22f6c0efaa4bc80dcdcb7117665fad"
+  },
+  {
+   "id": 53,
+   "title": "Comienzo del turno 1",
+   "text": "Que la música nos dé la victoria.",
+   "unlockRequirement": "",
+   "cnUrl": "f7225b89de2b2a4e48112fa36301ef7d0c605332ff0240c4ae095a3a78af2131",
+   "jpUrl": "7a5d0cfa241c3a2c61eb8400102a79dd2453b326f8cb3be90751666993a44ea3",
+   "enUrl": "745768793edc0708e4f48808ecd6cbd2c0b70268a392079fa85c32b4ccb1b73b",
+   "krUrl": "714205e1f88b6d0371531e91142206bd541ab1628d96036122de72af1079d190"
+  },
+  {
+   "id": 54,
+   "title": "Comienzo del turno 2",
+   "text": "Espero que el conflicto en el mundo termine algún día.",
+   "unlockRequirement": "",
+   "cnUrl": "37e1764a88cc303867629152f6414e321d48793df87bb1b158c3ee8263ea1fb7",
+   "jpUrl": "ad290960ba6b33447789ddb465cb12a7dd1997f98455e074cfe3302a9a6e904e",
+   "enUrl": "84eff91000ed7accbcb8b351dca5abb58c358d6910ad86ef10ce2f5916e53cd3",
+   "krUrl": "c12a026653edb28d6037c64f7cdcf02a813b128d04b121472fb9980a5d7056e5"
+  },
+  {
+   "id": 55,
+   "title": "En espera",
+   "text": "Es hora de tocar la siguiente pieza.",
+   "unlockRequirement": "",
+   "cnUrl": "dd81cba252fd8885f7eff4936640ff44f2394e8bf92b619b6fa2a48225866d4c",
+   "jpUrl": "af3e2dd84040c0157063b58a3e67e5ffe217847fac1098f2536abdb9a961c766",
+   "enUrl": "587ad6acbee703f3fd9cb961c2fc39904052bd85e8e5dca6b1c67ad4c4738e04",
+   "krUrl": "2a59f4cc6b0c88da2a85db55a080df2f8fc5d7a711af05db456340b86ad7ee92"
+  },
+  {
+   "id": 56,
+   "title": "ATQ básico",
+   "text": "Silencio, por favor.",
+   "unlockRequirement": "",
+   "cnUrl": "5f42def6c467791bbbb85216fd64b4276fc81017773d20cffdb15cbacd07eb9e",
+   "jpUrl": "aa97384e0434af80389896fc0698bc90b617e7354083a7621b9cb53ea031745b",
+   "enUrl": "743afba9034af96be91a6b37bd515a0e07844ed1b1ae7c25957259cec2abdbd8",
+   "krUrl": "8281284d7eeca909eb76b073f170b2d78d9de2002af675bc2d6e5f5ef5ee5678"
+  },
+  {
+   "id": 57,
+   "title": "Habilidad básica 1",
+   "text": "La armonía pronto sonará al unísono.",
+   "unlockRequirement": "",
+   "cnUrl": "0330b2961f5a38dc115830d7992e2d009cdbd0b6734e8d81136a43a61a9a97ed",
+   "jpUrl": "28693e29fded0b6c61a3733a6897702ca6043288fbceff92fa54b72b9128b109",
+   "enUrl": "47fe307826102b6e07e9bdd24b4ad85917f0592e26f1907ac90d487a4f840e6d",
+   "krUrl": "7a6b5475ed74de66ed71766c4e1cfaa748964c7619f43728028e222b15f4799f"
+  },
+  {
+   "id": 58,
+   "title": "Habilidad básica 2",
+   "text": "Unidos todos, resuenen una vez más.",
+   "unlockRequirement": "",
+   "cnUrl": "3812779efa3c3f34e77fb495180e5596d277ba3baab932c891f4ea8719896697",
+   "jpUrl": "8c878ff1d82c60863f61d3f48302245310e707a7eb95110653be6659c8b98a9e",
+   "enUrl": "7f41a837fb37a3ebc2b8d91a951c819d3b2d9dbb420dabce0d38e6ba8252174c",
+   "krUrl": "011c29b129095579b55388ca6c4db0b75ccbf15d9ceadd83c20a932f830111ad"
+  },
+  {
+   "id": 59,
+   "title": "Al recibir un ataque ligero",
+   "text": "Todo está bien, no pasa nada.",
+   "unlockRequirement": "",
+   "cnUrl": "3405186fbcee5cfb0591eab32663a77ba39447b9e9f4263fbf53718b6943d8fc",
+   "jpUrl": "1efe1ccf74a850eda68198b0fdd238522bcdb2063f35dfaeb3d10f8db773913d",
+   "enUrl": "84bbdaedc87366625d1d3675177af38cdf40f523bf839437a72382a9d849c7f6",
+   "krUrl": "201687398a8223ea735d0c9634b5baa11474b9ffa09aa44baa1811d7ea1921bf"
+  },
+  {
+   "id": 60,
+   "title": "Al recibir un ataque fuerte",
+   "text": "E-eso... duele un poco...",
+   "unlockRequirement": "",
+   "cnUrl": "094cd10dec1021f6c6c6078f294be75a99f089828a082235fe9a74288bd9ba87",
+   "jpUrl": "ccc350814422973673ce7425f9dccd6d2ed41a8ff674f119be7e221deb98eba5",
+   "enUrl": "6aed96ce70b81b98c73e9ba9e187ddd412c60b0f519dfec50ab1dc3b6b59a3c7",
+   "krUrl": "c1cda97a915142c0e9172c3b14d5a972c3cb4aacd5211d305300404440df19b1"
+  },
+  {
+   "id": 61,
+   "title": "Habilidad definitiva: activación",
+   "text": "Esta noche, todas las almas se abrazan.",
+   "unlockRequirement": "",
+   "cnUrl": "629acad382e51ec28f3ff19a0f20ba57f7127b520c59c7c4c9b06bb022a78155",
+   "jpUrl": "cbdb4d49403c32f4664e631f1376da9163c22278fb4620c34446ffcf716ae79f",
+   "enUrl": "55d83534d262c072cc824fbdeb3ac15ceb86f96000c3560433e8157d3687e22c",
+   "krUrl": "09afb296c68577c5de9ac5f6e1704c4ac11b5f824399dd1a376aaa721d342927"
+  },
+  {
+   "id": 62,
+   "title": "Habilidad definitiva: lanzamiento",
+   "text": "Esta noche, las estrellas resuenan gracias a mí.",
+   "unlockRequirement": "",
+   "cnUrl": "ff0fc27c48d9203c00ed9651d126d0a6cfd3d9efb1ac4b4691e76bd0276dba54",
+   "jpUrl": "a15855eb547ea84f789fa6b22396572ebf35b8f05a3fea713b0632edbc90478d",
+   "enUrl": "5e5597fbbc012ec3985361f454172cb731651d29b4073596e31d06f384465358",
+   "krUrl": "20cca19902fddb1bded9c0647d4e35361a0a2c4842e67367355c1cea35f95307"
+  },
+  {
+   "id": 63,
+   "title": "Fuera de combate",
+   "text": "El espectáculo... debe continuar...",
+   "unlockRequirement": "",
+   "cnUrl": "553ce56e56a39b5338ccdbea468b743a02d4c3cfe458be36c60dce5db7d80f6b",
+   "jpUrl": "f78ba2593d114bce30dfc8d28eed04ac3fd653b880edb2f64567170ebc702ec1",
+   "enUrl": "74ccd2efae074ddc3e6384e707fad7cfc830fafb13a072e8ccbd4a521eab18be",
+   "krUrl": "782d1d8580fb9cb64ab52dd227ac881dbfc40269ac298740087714999c6572e6"
+  },
+  {
+   "id": 64,
+   "title": "Retorno a la batalla",
+   "text": "Puedo continuar.",
+   "unlockRequirement": "",
+   "cnUrl": "06a1d247db237608ee8e6f9a723d67970e5cc50b569efe8e5b39a378eb98c6cf",
+   "jpUrl": "2e0a05b6b237639cd354707b0f49f5525e0ae2f7ee4c1fd1dd5e09d6f4e84284",
+   "enUrl": "5993c06a1849276f094f3d531dc2b840a11d4f1e7e157d5f33bc5ddd2f81fcd7",
+   "krUrl": "5addda09e80f221ad83e652f0d805093f70ead56ac889e95d13c369a71a0d3f6"
+  },
+  {
+   "id": 65,
+   "title": "Regeneración de PV",
+   "text": "Gracias, mi garganta está mucho mejor.",
+   "unlockRequirement": "",
+   "cnUrl": "641af788dc9a5c6bdf761d7e40f6dcbb493e1e9e1c4b16921e2fa261d60f3593",
+   "jpUrl": "506d453e8260b372d1be7983e336744862ebe5a285ce7ee34a2e82e52960aa4e",
+   "enUrl": "27098ef1d1e94b924d8ba4b3043e3d242f695176a0e6f4d3f0a7bf1e90823aef",
+   "krUrl": "436c37d10005c486888978553a4df12022254e7a9d7888922f182309e75a4efd"
+  },
+  {
+   "id": 66,
+   "title": "Técnica",
+   "text": "¡Que comience el espectáculo!",
+   "unlockRequirement": "",
+   "cnUrl": "ae4313d5268b0af84c52c2d3c904ad5ef548ecbc70d069d835cfca6aab688927",
+   "jpUrl": "af37dd347c9b722ed38e459a2b4995a7ea6a64f9f47cbf34251a24d178256941",
+   "enUrl": "595a43a8d08d9df9380372621656b312705d001fb874aa40d59ad5b5d65f5493",
+   "krUrl": "e8fbc2af858be306842ab0b1c266c77855a0cb81ab48553dc1460608865e5653"
+  },
+  {
+   "id": 67,
+   "title": "Victoria",
+   "text": "Que encuentres paz en la música.",
+   "unlockRequirement": "",
+   "cnUrl": "88521e0610b438ff5931a4886fd449e8e76fcc803116abadd94ded7c4eca24fe",
+   "jpUrl": "ed02862de0512baa630d91ad855fd5b256519991e32f8c78bf9465e1cfadda4b",
+   "enUrl": "c037f54ed9ed2b04464e5d69b4720993971431e15fa960f1e73fda258a17b044",
+   "krUrl": "e9a81b882f826ed9e38e3cef8df179c51e52106548eb4e837725d07968a51cf1"
+  },
+  {
+   "id": 68,
+   "title": "Al abrir un tesoro 1",
+   "text": "Oh, no está mal, nada mal.",
+   "unlockRequirement": "",
+   "cnUrl": "67af6959f2f48c52933ffc6368966f508fb75d6fae4dc30d7b1b48e980c2c6e2",
+   "jpUrl": "53e81979f484dba9adf673fbcf6ad4f6f478f7fe711f1b81635e8cf9aad574d1",
+   "enUrl": "9694afa29fc1e6de78582e23d013eb08c4dfcfcf6b11345e5d3a38f4bd1bd8e0",
+   "krUrl": "f503303ef0a8177402633595b6f6e1e087f4536d0aee4dc90a54f8fc13ddbb49"
+  },
+  {
+   "id": 69,
+   "title": "Al abrir un tesoro 2",
+   "text": "¡Me gustan las sorpresas!",
+   "unlockRequirement": "",
+   "cnUrl": "66080e1866d98958baf234090dd3f29c8d6f0f896b11f8ec383a852b63f9b30a",
+   "jpUrl": "dcd6974b03b18d0d84528a73859ba19d188a6923de9d8f1df57f7c67068d032b",
+   "enUrl": "de1ca4551bdbf20ad1e7ba1a179d842ff84c9eea446dfc334f4b975d23c609da",
+   "krUrl": "cb217c816899d8e9f74f7c7ad3d2db7dadac5c06f0f7cedd1a93c9546f8327fe"
+  },
+  {
+   "id": 70,
+   "title": "Al abrir un tesoro valioso",
+   "text": "La perseverancia tiene su recompensa, ¿verdad?",
+   "unlockRequirement": "",
+   "cnUrl": "20141e4ab9a2676c8130627b1fdc9e5c1477e5e6c0979d4319440d028a3cb714",
+   "jpUrl": "c9a6aa4c72a6a8a66d2385a9863da050183d3c58e33bc7870a557801fff41a02",
+   "enUrl": "17303478d8ef3bcac8588922c9da68f19d851b9a5e3186baa580becb354364db",
+   "krUrl": "c61967fda53de89cb02e80171f64d7a17e9d0dd2bef829cc9493a155886b3faf"
+  },
+  {
+   "id": 71,
+   "title": "Al resolver un acertijo 1",
+   "text": "Es como si analizara una sinfonía.",
+   "unlockRequirement": "",
+   "cnUrl": "73eb12e9ef252adf078146d3d5f044ee2da271b7a6915c357a6fd27f35afc297",
+   "jpUrl": "02444b665af8419f4f420f43e3caad166b09cc60ec853f30790e3d0ac7071bc8",
+   "enUrl": "163dc950dae283072543154faf17900933d06ed07836049446159bd40f8252c6",
+   "krUrl": "240ccbaa0498299a747c1ca7b8e8842ec508768598726987729222e89fa704ab"
+  },
+  {
+   "id": 72,
+   "title": "Al resolver un acertijo 2",
+   "text": "¿Hay algún acertijo de componer melodías?",
+   "unlockRequirement": "",
+   "cnUrl": "7936734fc40d116c351b1e3d514bda6d0ccd62ff3a0c8c7949c0b292036e1370",
+   "jpUrl": "73a4d948a267fd4721300775750ec3c901af706fca2ab154c2cd933a1a47802e",
+   "enUrl": "ca690b4e309c9f3ed98ceccf93e29b00ab377835c975c152f558a4921932b233",
+   "krUrl": "c70016305b37e7e3f8c4800c8d4e2775b980b4231ace2ebfbaac34ec546c35b9"
+  },
+  {
+   "id": 73,
+   "title": "Objetivo enemigo encontrado",
+   "text": "Me parece escuchar una disonancia.",
+   "unlockRequirement": "",
+   "cnUrl": "98f7a7eca45af109be6e0ae299aab7633ebdebddd702ca8afdad2feb4d28c319",
+   "jpUrl": "00aa292c9dc5a41906678d50bc4f53ef3a75a63ad9378d9b6ee0ca18f441c002",
+   "enUrl": "c6db049d6d9021969cef2b7720fc80263fd1658ad1332093a891a28b68e08056",
+   "krUrl": "43c9eee74b172402683a3e665e09cf5e4002975c9645ef491d633eb2ca09f294"
+  },
+  {
+   "id": 74,
+   "title": "Al regresar a la ciudad",
+   "text": "La gira terminó. Es hora de descansar.",
+   "unlockRequirement": "",
+   "cnUrl": "c285e6db8c4f51cf463edd532de7409e8d7bc22e9aed82a0655c73ab845b8418",
+   "jpUrl": "3452ba16e8792e3eebffd130c92fe402ee0c0ae7f2636d2c6e7e8ae5f12bcae8",
+   "enUrl": "1d20a858e9412920f4fe764c73bfef441b5979e67a5675588721c3eb3a3ba380",
+   "krUrl": "57c3b258585f4255fd710dcde991b9719bf32650ce81a808a9d6f58cbbd2574a"
+  }
+ ],
+ "storyItems": [
+  {
+   "title": "Detalles del personaje",
+   "text": "Una cantante aureoliana originaria de Colonipenal que saltó a la fama cósmica. Una joven elegante y modesta.<br />Esta vez, La Familia la invitó para agasajar a todos con sus canciones durante el Festival Carismonía.<br />Puede usar el poder de la Armonía para transmitir su música, manifestando \"resonancia\" entre sus fans y todo tipo de formas de vida.",
+   "unlockRequirement": ""
+  },
+  {
+   "title": "Historia del personaje I",
+   "text": "\"Dice que su vida es como una canción. El comienzo es oscuro y solemne.<br /><br />Cuando era apenas un bebé, el Estelaron descendió sobre su ciudad natal.<br />«Pena, lamentos, oraciones... Esos son los primeros sonidos que recuerdo. Rezábamos por la salvación con canciones tristes, pero la mirada de los dioses nunca se posó en nosotros...».<br /><br />La cantante, que siempre está sonriendo, se queda extrañamente en silencio por un momento.<br /><br />«Entonces, ¿dirías que de ahí viene tu inspiración musical?».<br /><br />«No recuerdo la mayoría de las canciones que cantábamos porque era demasiado pequeña, pero sí recuerdo cuando el Estelaron empezó a devorar el paisaje onírico... Mi madre nos abrazó a mi hermano y a mí, e intentó calmar nuestros miedos con sus canciones...».<br /><br />«¿Aún recuerdas la canción que les cantaba?».<br />Viendo su expresión de sufrimiento, pensé no preguntarle nada, pero me respondió tras una pausa breve.<br /><br />«No podía escuchar nada... Todos los demás sonidos a mi alrededor eran muy fuertes y aterradores. Solo podía ver los labios de mi madre moviéndose. Nos abrazaba con fuerza contra su pecho agitado. Mi hermano estaba a mi lado y me agarraba la mano con fuerza. Detrás de mi madre caían estrellas congeladas a toda velocidad, y entonces... Ella se fundió en el vórtice de la Zona de los Recuerdos. Mi hermano y yo caímos al suelo como pájaros con las alas lastimadas...<br /><br />Si los pájaros están destinados a caer al suelo, ¿por qué siguen empeñados en volar hacia el cielo?».<br /><br />No respondí. No podía decir nada. No era una pregunta para mí. Es más, la respuesta ya estaba dentro de su corazón\".<br /><br /><align=\"right\">Fragmento de «Los pájaros y el cielo: Entrevista exclusiva con Robin»</align>",
+   "unlockRequirement": "Se desbloquea en el nivel <nobr>20</nobr> de personaje."
+  },
+  {
+   "title": "Historia del personaje II",
+   "text": "\"Afortunadamente, este ambiente solemne duró poco. Después de compartir dos tazas de helado de bayas, volvió a animarse como siempre.<br /><br />Tras la catástrofe del Estelaron, La Familia ofreció ayuda a los sobrevivientes. Tanto ella como su hermano recibieron protección y la mejor educación disponible. Fue entonces cuando empezó a mostrar un talento excepcional para la música.<br /><br />«Sigue teniendo el mismo sabor que cuando era niña. Por aquel entonces eran muy estrictos para que me cuidara la garganta, así que solo podía comer helado mientras mi hermano me encubría»,<br />contó mientras volvía a dejar la copa con expresión de satisfacción.<br /><br />«Cuando una afición se convierte en un trabajo, es mucho más difícil. No solo tuve que aprender la ciencia del canto, sino también instrumentos, composición, cómo escribir canciones, etiqueta... Muchas veces pensé en dejarlo todo, pero con la ayuda y el ánimo de los que me rodeaban, pude seguir adelante».<br /><br />Habló de la primera canción que escribió. Hay una anotación especial en la portada del álbum para esta canción que dice: «Dedicada a todos los que han perdido la esperanza». La escribió inspirándose en el planeta de los sueños del universo: Colonipenal.<br /><br />«Un sueño dentro de un vacío, parece algo imposible, sueños que se hacen realidad en la maravillosa Zona de los Recuerdos... Por aquel entonces albergaba una esperanza ingenua de que la gente que vagaba perdida y sin rumbo como yo pudiera encontrar un refugio, pero...».<br /><br />Dejó escapar un suspiro y se giró para mirar por la ventana. La lluvia torrencial pintaba las calles de un gris apagado mientras los niños con impermeables de vivos colores saltaban y jugaban. Giró la cabeza y añadió con solemnidad...<br />«Pero no importa cuánto cambie el mundo, mis deseos nunca cambiarán»\".<br /><br /><align=\"right\">Fragmento de «Los pájaros y el cielo: Entrevista exclusiva con Robin»</align>",
+   "unlockRequirement": "Se desbloquea en el nivel <nobr>40</nobr> de personaje."
+  },
+  {
+   "title": "Historia del personaje III",
+   "text": "\"Tras la publicación de sus tres álbumes siguientes, su carrera musical alcanzó gradualmente su punto más alto. Canciones como «Para que un corazón no sufra» y «En el día más hermoso» arrasaron en las listas de éxitos de todo el cosmos y alcanzaron una popularidad enorme. Lo que nadie podía entender era por qué eligió ese momento para retirarse de la escena pública.<br /><br />Cuando hablaba de esa época, nos enseñaba todo tipo de fotos que había tomado entonces. Entre las ruinas de la guerra, ayudó a aquellos que lo habían perdido todo a reconstruir sus hogares. Construyó escuelas para niños que no habían tenido la oportunidad de recibir educación, visitó reinos desconocidos en busca de canciones que estaban a punto de extinguirse...<br /><br />Bloqueó el teléfono, suspiró y empezó a hablar de por qué había tomado esa decisión:<br />«En aquel momento, cada vez entendía menos mis motivos para cantar».<br />«Frente a un verdadero desastre, las canciones no sirven de nada. ¿Cantamos para aplacar a los que tienen poder o para aliviar el sufrimiento y dar falsas esperanzas a la gente?».<br /><br />Como última parada del viaje, regresó al lugar donde cayó la patria de los aureolianos. Las ruinas, hace tiempo miserables, estaban ahora cubiertas por brotes nuevos de hierba verde. Bañada por una brisa suave y el aroma de las flores, se tumbó sobre las rocas escarpadas y observó cómo la luz del cielo brillaba a través de las nubes e iluminaba el suelo.<br /><br />«No podía dejar de pensar en la canción de mi madre. Siempre pensé que era una canción inútil, porque no la recordaba en absoluto, ni podía cambiar la destrucción que presenciamos. Ahora entiendo que lo que transmitía la canción no era el sonido en sí... Aún recuerdo los latidos del corazón de mi madre, a mi hermano temblando a mi lado, el calor de los tres apoyándonos entre nosotros... Incluso ante un destino ya escrito, si aún puedes cantar sin que te tiemble la voz, seguro que será apreciado...».<br /><br />El repiqueteo de la lluvia al otro lado de la ventana se detuvo, y ella se sumergió en sus recuerdos de aquella época. Desgraciadamente, el sonido del teléfono interrumpió ese silencio tan encantador. Y fue entonces cuando la entrevista llegó a su fin.<br /><br />La señorita Robin se fue inmediatamente a Colonipenal por cambios de último momento en su agenda. Estimados lectores y amigos, que nos volvamos a encontrar en el reino de los sueños\".<br /><br /><align=\"right\">Fragmento de «Los pájaros y el cielo: Entrevista exclusiva con Robin»</align>",
+   "unlockRequirement": "Se desbloquea en el nivel <nobr>60</nobr> de personaje."
+  },
+  {
+   "title": "Historia del personaje IV",
+   "text": "\"Un año después, recibimos una invitación a Colonipenal para continuar nuestra entrevista.<br /><br />Parecía mucho más agotada en nuestro segundo encuentro, incluso su voz era más grave. Esta vez, vestía un atuendo solemne de La Familia y parecía comportarse con cierta cautela. De todos modos, se mostraba tan accesible como siempre. Conocimos, además, a su hermano mayor, un líder elegante.<br /><br />«Este es el único mundo onírico de todo el cosmos, y la sede de La Familia. La Familia transformó un paisaje onírico árido en el paraíso terrenal...».<br />Su hermano nos condujo por la historia de Colonipenal con lujo de detalles mientras ella nos ayudaba a aclimatarnos al mundo de los sueños, guiándonos amablemente para que probáramos algo de la cocina del paisaje onírico.<br /><br />Visitamos varios lugares pintorescos del país de los sueños. Por desgracia, no pudimos hacer una entrevista minuciosa en un entorno tan ruidoso y abarrotado.<br /><br />Finalmente, llegamos al gran teatro. En el próximo Festival Carismonía, cantará en este escenario maravilloso y compartirá su canción de Armonía con todo el universo.<br /><br />Justo cuando pensaba que la conversación estaba a punto de terminar, miró al magnífico teatro y planteó la misma pregunta que al principio de la entrevista.<br /><br />«¿Recuerdas lo que te pregunté la otra vez? ¿Por qué los pájaros vuelan hacia el cielo? Después de volver a Colonipenal, pensé mucho en eso».<br /><br />Miró hacia el cielo del paisaje onírico mientras la luz artificial llenaba el atardecer profundo.<br />«Quizá los pájaros estén destinados a volar porque es su sueño, su hogar y su derecho irrevocable...».<br /><br />Sonrió con cierta distancia y nos ofreció una invitación.<br />«En el futuro, daré un gran espectáculo en este lugar. Interpretaré una canción que me llena como ninguna otra. Espero que todos unan sus manos y las levanten, unidos por mi arte... Incluso dentro del mundo de un sueño, la luz siempre encontrará lugares donde brillar».<br /><br />No sé qué estaba mirando, pero seguro que no era el escenario del teatro. ¿De qué espectáculo hablaba?<br /><br />De lo único que podemos estar seguros es de que, incluso cuando estaba rodeada de lujo e indulgencia, no renunció a su convicción de que «los fuertes deben defender a los débiles». Esta creencia la ha seguido toda su vida. Luego de un comienzo lleno de amargura, llegó a un estribillo exquisito. ¿Será posible que, tras este interludio, nos espere la sorpresa de un crescendo glorioso?\".<br /><br /><align=\"right\">Fragmento de «Los pájaros y el cielo: Entrevista exclusiva con Robin»</align>",
+   "unlockRequirement": "Se desbloquea en el nivel <nobr>80</nobr> de personaje."
+  }
+ ],
+ "archive": {
+  "cvCn": "钱琛 / 歌: Chevy",
+  "cvJp": "名塚佳織 / 歌: Chevy",
+  "cvKr": "신온유/ 노래: Chevy",
+  "cvEn": "Alice Himora / Song vocals: Chevy",
+  "camp": "Colonipenal"
+ },
+ "calculator": {
+  "expCost": {
+   "1": 200,
+   "2": 300,
+   "3": 500,
+   "4": 600,
+   "5": 1050,
+   "6": 1670,
+   "7": 2320,
+   "8": 3060,
+   "9": 3860,
+   "10": 4740,
+   "11": 5710,
+   "12": 6730,
+   "13": 7830,
+   "14": 9000,
+   "15": 10240,
+   "16": 11550,
+   "17": 12920,
+   "18": 14360,
+   "19": 15870,
+   "20": 16580,
+   "21": 16840,
+   "22": 17100,
+   "23": 17370,
+   "24": 17640,
+   "25": 17910,
+   "26": 18190,
+   "27": 18480,
+   "28": 18760,
+   "29": 19040,
+   "30": 19340,
+   "31": 19630,
+   "32": 19930,
+   "33": 20220,
+   "34": 20530,
+   "35": 20840,
+   "36": 21140,
+   "37": 21450,
+   "38": 21760,
+   "39": 22080,
+   "40": 22390,
+   "41": 25550,
+   "42": 29140,
+   "43": 32830,
+   "44": 36600,
+   "45": 40470,
+   "46": 44430,
+   "47": 48480,
+   "48": 52630,
+   "49": 56870,
+   "50": 61190,
+   "51": 65620,
+   "52": 70130,
+   "53": 74740,
+   "54": 79450,
+   "55": 84240,
+   "56": 89120,
+   "57": 94110,
+   "58": 99190,
+   "59": 104350,
+   "60": 106240,
+   "61": 111830,
+   "62": 117530,
+   "63": 123320,
+   "64": 129210,
+   "65": 135200,
+   "66": 141290,
+   "67": 147480,
+   "68": 153780,
+   "69": 160170,
+   "70": 179260,
+   "71": 199920,
+   "72": 220920,
+   "73": 242260,
+   "74": 263930,
+   "75": 285950,
+   "76": 308300,
+   "77": 331000,
+   "78": 354040,
+   "79": 377420,
+   "80": 414350
+  },
+  "expItemConfig": {
+   "1000": 409962,
+   "5000": 409961,
+   "20000": 409960
+  },
+  "sCoinId": 29328
+ },
+ "name": "Robin",
+ "rarity": 5,
+ "descHash": "Una cantante aureoliana originaria de Colonipenal que saltó a la fama cósmica. Una joven elegante y modesta. Esta vez, La Familia la invitó para agasajar a todos con sus canciones durante el Festival Carismonía. Puede usar el poder de la Armonía para transmitir su música, manifestando \"resonancia\" entre sus fans y todo tipo de formas de vida.",
+ "artPath": "0138e78111a7211d884e5ac86d8745f7d556b3d769edc541724ff94c9e7f8a84",
+ "miniIconPath": "92edd6c32fa7d7899058fa5d263158536da5b0afca1bd6779bda7bfd53360c6d",
+ "damageType": {
+  "id": 1,
+  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "color": "#FFFFFF",
+  "name": "Físico",
+  "rarity": 0
+ },
+ "baseType": {
+  "id": 0,
+  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
+  "altIconPath": "691e6c36e7f71344352e4ed80941938d7dc5722b23cef7a18f7fa8722d8c0523",
+  "color": "#FFFFFF",
+  "name": "Armonía",
+  "rarity": 0
+ },
+ "pageId": "robin"
+}

@@ -6,9 +6,8 @@
  "fgPath": "713da05189557f9a27e96f82704ccfb1e263f7a9b313a9504d500e431fd02159",
  "splashIconPath": "5ded512bc76c708e9a0e96cb9fd8a1e987436fa941a5ec5273270551e2b33fda",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRq4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSA4BAAABkGpt27FN1/u8v//0D5ptM5tpkm1ls9q281TPJHs2wLb1vs91hg/bEBEToJLDxicqu6ZJ2uq0uymEUCJR71V3fsNRpVJaLGjAWWIWmaHBY6SkQBo++jEx8mP32C8bGlS0ybiw/ybxP5ea/mCSqgpqNr+Nb7D5NOUd19sqlVIte3Ysw0Se/YgcrVdQpVbtWwc2EZxxTUrU48oTbGyicc7Zugqt+v4eY8DGzpmm6tvYGBtjx4wdmvfXERcrzDjY7HyGCyjA/GfOknPktnG0bWJG7D0TYm7HHJvsH7BA7d//A3Iw5PD68XpJbTpPu/+X75sGDR05aMrSNpKUSAq9p7RU6URSEoIkhRDSkFYkkgRWUDggegEAAJAHAJ0BKhQAFAA+bTCUR6QioiEoCACADYlkAJ0ygxg1y22A70D3ctNG3iLyQCmDeMFFmDhwSZVKXe6+fcvgv0iiz6f+AAD+9sog9QmD5hEUPz7vsVNDzp018poOvc3c2cf25xa5eGcVSaAfo4t+1P3yaYzkHOS2q870HbFnjWXBlhbbIZeRr/n93z3SrzbSncEJuiNBzjc0REyH8wWc7cx4/u4oM2bBgOHLFq75v0jrKJn5N+IGv5Flpjs76nIXMK62WjNhj0SqZgKlKlDFt1bw/adkJi7s7Go3hAlR/35R20dP9nKTKRoFJJCPOPcWl21BrWDbl1TUlZErSTqF0MFuXDcms6/5KeQXWNiB+yrJ0DvuWx/in7+IBTT73yK/4v77aw533dsj1h/e4mVnq+JoWDJsN2lG2GCV9+EOVP4h+2QH+qISYP/ij9dPMFffowPLqY+tgrVZ9MF2Vf12Bb+r/rylDibJxXLR7Ekpphhktcrujg8yqlAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "ec9ebc43a58cbdc4f270483765a56680e38223338cc68ce79ef4ede0cd2e8d31",
+   "iconPath": "d129714f833ca5ce9012c610c8314e2e6c8da9c4a589dd9684c380c210533799",
    "artPath": "5a5381f1c7107078f44b65f56a73bfc69289ae3fb6fb53759971aedf257ac892",
    "name": "Fighting Endlessly",
    "descHash": "Saat Luka beraksi, jika target musuh sedang berstatus Bleed, DMG yang diakibatkan Luka akan meningkat <nobr>#1[i]%</nobr> selama <nobr>#2[i]</nobr> giliran.",
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "3f29fd954447217ea7b48b44a0440f331a44fff2d4affe72aaa33f7362d0ec39",
+   "iconPath": "bea9b45c339c3568e02af2fc2b201fcaf2653ca4ed50ab57a33a9b0a59a306c7",
    "artPath": "17fa85cb27d8b83e1d231443f9c6a09884c8db2c1f34b86d782288139fc19e2b",
    "name": "The Enemy is Weak, I am Strong",
    "descHash": "Jika Skill mengenai target musuh dengan Physical Weakness, Luka akan memperoleh <nobr>#1[i]</nobr> lapis \"Fighting Will\".",
@@ -461,7 +460,7 @@
   },
   {
    "id": 3,
-   "iconPath": "af1128ef92a49dfd90360f6bbff1e0662f9fed638d9222e84623c73c695fce5b",
+   "iconPath": "943e448f5c7bfdc953f5a349d3bb213954f900f6eb0939ef9032ed680d05b347",
    "artPath": "67541b99e67b7f1ae279d828d3db6bb645b6e4458e247a9992e7ab63c2453125",
    "name": "Born for the Ring",
    "descHash": "Level Skill +2, maksimal Lv. <nobr>15</nobr>. Level Talent +2, maksimal Lv. <nobr>15</nobr>.",
@@ -469,8 +468,8 @@
   },
   {
    "id": 4,
-   "iconPath": "de13c8d9014b925bf3f10e01b844835b775a82710e73e8acad85d1a86a1b8596",
-   "artPath": "bd44694196dedd1093a35b4635202c32d639fd46e6b001a05d2e8a0b0fb10bc2",
+   "iconPath": "337d04f6d5f91d453686267f76bba5b2b6bef63fa0c7b04ddde5bb36ba62df0c",
+   "artPath": "2a59bdd9eb75e763d622b8637fe181500a11bc1186171649ca0274c736d9fbf4",
    "name": "Never Turning Back",
    "descHash": "Setiap 1 lapis \"Fighting Will\" yang diperoleh akan meningkatkan <nobr>#1[i]%</nobr> ATK. Efek ini dapat ditumpuk hingga <nobr>#2[i]</nobr> lapis.",
    "params": [
@@ -480,7 +479,7 @@
   },
   {
    "id": 5,
-   "iconPath": "a3ec372c4657c7282890232162ae6f67c456f45c43926fa4f5940abc33a62032",
+   "iconPath": "ecd59784f63f35479c57051794a41078a23fba9f6e3d196abd5fa59483d8a112",
    "artPath": "28556fabc7726ab02aec538f56d529070c13a531f0faf5e9c47b3edff197b35f",
    "name": "The Spirit of Wildfire",
    "descHash": "Level Ultimate +2, maksimal Lv. <nobr>15</nobr>. Level Basic Attack +1, maksimal Lv. <nobr>10</nobr>.",
@@ -488,7 +487,7 @@
   },
   {
    "id": 6,
-   "iconPath": "9afc0a2ee0f76d4a129d4d18fe0745e6f3f2e84845a0b4d3a144aa059a098400",
+   "iconPath": "de577a8ffc78aeb66c1b0f70b8c8faa6a320c48369a062bb47ab3ad124581b63",
    "artPath": "33d4cac26a8b9c9b093d48e853ec3db49455b333fc5d4f0717110484516f2876",
    "name": "A Champion's Applause",
    "descHash": "Setelah \"Rising Uppercut\" dari Enhanced Basic Attack mengenai target musuh berstatus Bleed, maka setiap 1 serangan \"Direct Punch\" yang dilancarkan Enhanced Basic Attack kali ini akan membuat status Bleed musuh segera menghasilkan 1 kali DMG sebesar <nobr>#1[i]%</nobr> DMG awal Bleed.",
@@ -524,7 +523,7 @@
    "energy": "20",
    "id": 635769,
    "name": "Direct Punch",
-   "iconPath": "9cf7e0c0fae19150c7b7e41521e3d03debcc42bada348884545af8bdfab7db0e",
+   "iconPath": "b2fa62b7652bc8c0da6ccde90c657240e8ff763e91aac92794ef7cc65e755a57",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +684,7 @@
    "energy": "30",
    "id": 920296,
    "name": "Lacerating Fist",
-   "iconPath": "af1128ef92a49dfd90360f6bbff1e0662f9fed638d9222e84623c73c695fce5b",
+   "iconPath": "943e448f5c7bfdc953f5a349d3bb213954f900f6eb0939ef9032ed680d05b347",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1016,7 +1015,7 @@
    "energy": "5",
    "id": 836355,
    "name": "Coup de Grâce",
-   "iconPath": "9b5831e72d8299d2149b03ec91da19f0837834c0521124442e6ea8bd8840b67e",
+   "iconPath": "8e630267b81d2bbcc23cbee4ef4eccdc4a599e3f8ffd6f0b87bfc5dcff24b318",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1347,7 +1346,7 @@
    "energy": "0",
    "id": 351242,
    "name": "Flying Sparks",
-   "iconPath": "98bb563972dac9a50209ad03fcb05b0b6588b2290bc2b9c9e59958a34f108c99",
+   "iconPath": "6c25fad4b9e9db4c5f7c7d676daacf197b067ee870e32bd23fafd0d10d5ad710",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1633,7 +1632,7 @@
    "energy": "0",
    "id": 551828,
    "name": "Attack",
-   "iconPath": "9cf7e0c0fae19150c7b7e41521e3d03debcc42bada348884545af8bdfab7db0e",
+   "iconPath": "b2fa62b7652bc8c0da6ccde90c657240e8ff763e91aac92794ef7cc65e755a57",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1655,7 +1654,7 @@
    "energy": "0",
    "id": 435183,
    "name": "Anticipator",
-   "iconPath": "886e2a41f9c38843102a2c413613cae0e973b7df6bf941f713f3f105d5432fda",
+   "iconPath": "41efbfac7129ff5f6e208889ceb6e5b0f08a8af54ae28e7ec298969124569fca",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1680,7 +1679,7 @@
    "energy": "20",
    "id": 489350,
    "name": "Sky-Shatter Fist",
-   "iconPath": "d8aeebbeabb54544371569fe8b225636fed98de99af8a744ecedcd0444ad2ca9",
+   "iconPath": "92865a0585fc28eef58225feec3cbfbb2320e0373c6a23f8a838c554f204ea68",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1956,7 +1955,7 @@
     "ultimateCost": 0,
     "id": 276014,
     "name": "Kinetic Overload",
-    "iconPath": "d4f3d7976c9e4a9c9537084d77ce5a938e0bee73a3ed84953c1ef890fe0ac85f",
+    "iconPath": "d0d9aa25dd6a44363cb9ab87fa73f4f669a986a4db29b5c4d3fa321d4be4e8d3",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2097,7 +2096,7 @@
     "ultimateCost": 0,
     "id": 276015,
     "name": "Cycle Braking",
-    "iconPath": "9d625744e5a0a02917ab17c5fadc5850ae79f50a5b067382aaab491578911b6e",
+    "iconPath": "6287e17dc73cdebe33f60a6c2b676f43b45e61b3b18f45536321973a99b791ad",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2207,7 +2206,7 @@
     "ultimateCost": 0,
     "id": 276016,
     "name": "Crush Fighting Will",
-    "iconPath": "85dfb76bf09582ba72cb056e802cc2c0fe166ca86e7061df75faa10e55b209e8",
+    "iconPath": "e656c2b4821f462502ab7e37ad29c7ec2f0644f271190c4614daf8815e774628",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2517,7 +2516,7 @@
   },
   {
    "id": 19,
-   "title": "Level Max Karakter",
+   "title": "Level Max Tercapai",
    "text": "Ini batas maksimalku? Tidak mungkin!",
    "unlockRequirement": "",
    "cnUrl": "d29076c1a8862e9168d5335b7929f3e686149982b066c2f34b9fd091901722eb",

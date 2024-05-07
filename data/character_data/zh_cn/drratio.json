@@ -6,9 +6,8 @@
  "fgPath": "0aa2c84e1570f008260d4b8a963b629e70ed115a769e190c557fa940260e4506",
  "splashIconPath": "babfc7fda646adc5c5088abe7409bdbfbb8c4387b0907a24a581d7b837d6c458",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAwBAAABkGNb27E9535/27ZR/alsJ10qGwOw1TulbVQeQapUtlqb7/veV/FpChExAQBGTR60l+W2Y6SZ23B9eBHtM0izbnX7Nd3bc3lrT1FhsiyGzd6qv5J+PVjSmCSAo0//yuP//nMlSQMmrA4VuzzW++lkJxhD5z/K3aVI9xvIBuiYeUKhy90V+pfRJNYsuq3I3SVXrJdz8oDsQwrlLnePdLapDwgYeCf3yF0e6S4YQM2SP5LkkXukO8UYkHvqx79zZyTF/+NQuwGM9tNaVzh4/bkk/Z8BBkbOrt1FZRMKZu1efXDjqik5AGbMXUDSNrrndCRglrOykyArK8AAS8Bo2kWiYVmkNIbyEzItrUgHVlA4IDoBAACwBwCdASoUABQAPm0ylUekIqIhKAgAgA2JZACdMySkscttq+eI01XeSPJgMAFOW9zL6HC5Usez2i84D1PCdM3pq2TJVc+AAP7ZX75VCPpA3JA9cye7RsEovofk7c4WQb/bfyZoNX/PeAmgR3YnOjjDzAgr2sJqA3dUPz+dLEi8SWgzzwtHu1voYK3n/Ns8gjKn728aozoMbAMsDbPnTHaO5gDiYrAQd3W13IuET4PIYOw9zCfPYbFcMGwVpWHH4KilQHTdL2dWMRMrTSNx+4crSLfeCgWH0aYoPJgJBsFQ2PpJr450AY9M/+8H+TY+5yw7XAfjCETZ5FpJEswf0GfLDKXPy4rtSgdT6Bm2wHPgf8nBWf7dHfiO1lH5KNT4hlTnCIpeJ8Z/o+95JXsoh8hRaYtwBtgm0kwAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "cdb42761cbfca97cbcbe3268b4506afce5ae425c7325b4f6f0d01103d15881b7",
+   "iconPath": "3cfcd006d85f4b1750df7c7ad5526fdb8a2214115c1a59a10f739abfc88302df",
    "artPath": "1576cea61557abca4a92048ff95788d211b7bcfe0471e092972e00aacd802bbd",
    "name": "倨傲生祸患",
    "descHash": "行迹【归纳】的叠加层数上限提高<nobr>#1[i]</nobr>层。战斗开始时，立即获得<nobr>#2[i]</nobr>层【归纳】。需要先解锁行迹【归纳】。",
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "d2397de1f96df9c10401e0e95af5387864fa638177337111d4f6f99b400b8cbf",
+   "iconPath": "70d8a85463a4cf8ce17e8705ec9f46bdc08190b160ccf269283aebd7650e5d02",
    "artPath": "94a2ab7e7760517858aaa7c22958191f6c428b39ee8337887c855754f4d5debc",
    "name": "显微而阐幽",
    "descHash": "天赋的追加攻击击中目标时，目标每有1个负面效果，则额外造成等同于真理医生<nobr>#1[i]%</nobr>攻击力的虚数属性附加伤害。该效果在每次追加攻击中最多触发<nobr>#2[i]</nobr>次。",
@@ -462,7 +461,7 @@
   },
   {
    "id": 3,
-   "iconPath": "7dca0a37bb43b6f7ddeffadb471cd73cf984ae904f7da1b50d8f73e49b2877d9",
+   "iconPath": "2409d9ad4b6853e86443b4fafebba642cfa2c504b0fa17594e46104febb10082",
    "artPath": "cc2f7bc687c5085154b65c9f3bad00b849895308d3ee3b9fe524faf474a60249",
    "name": "认识你自己",
    "descHash": "终结技等级+2，最多不超过<nobr>15</nobr>级；普攻等级+1，最多不超过<nobr>10</nobr>级。",
@@ -470,7 +469,7 @@
   },
   {
    "id": 4,
-   "iconPath": "be54647575a6968bd85ad5f06a997d9b7455326ce40c29b0f1aebaf066b0d315",
+   "iconPath": "58c364ef223c9ab38de6694d2043f02a66bfd0c279a4dcdc6081485cccbb929f",
    "artPath": "2b16ee0072cec0c455b8a442b468740acb9fa4cee607041c8f54974983355636",
    "name": "盲目造痴愚",
    "descHash": "触发天赋时，真理医生额外恢复<nobr>#1[i]</nobr>点能量。",
@@ -480,7 +479,7 @@
   },
   {
    "id": 5,
-   "iconPath": "1810450c6c27fdd62cc15c5ec0a49a892928973795eb4f6d1774ae8fae0928bb",
+   "iconPath": "c43ce8e213f0ca060250af12f2f9415478beda05cb9ecaa43ae203d65818802f",
    "artPath": "3625df05777ae6544248fe368acaacb936f3a9b2840905b53fde96c6c50706e6",
    "name": "海阔舟无楫",
    "descHash": "战技等级+2，最多不超过<nobr>15</nobr>级；天赋等级+2，最多不超过<nobr>15</nobr>级。",
@@ -488,7 +487,7 @@
   },
   {
    "id": 6,
-   "iconPath": "77bd5b62d31e70e814a094d443ebc8b765f9a593c0ca3b98e285dd16bb3d1d7e",
+   "iconPath": "9dea70a7206d217e43f07c1cd405bb47842108b409eba5b5c50a4dd650ed0fd1",
    "artPath": "1c89d3ea4d2366f29186d7aee0b59a1176ccc67d5312451b1713b33872468565",
    "name": "永恒唯真理",
    "descHash": "【智者的短见】的触发效果额外增加<nobr>#1[i]</nobr>次，天赋的追加攻击造成的伤害提高<nobr>#2[i]%</nobr>。",
@@ -524,7 +523,7 @@
    "energy": "20",
    "id": 776142,
    "name": "知识就是力量",
-   "iconPath": "d74e274aaf9dc231ca6a20409fe0924943bb410b13a294e09e038dd34d80c988",
+   "iconPath": "1ee6f4e45c1714cd62c0f5b90b99e54d613fc4fbca74e5446df469cbf48a5aa0",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +684,7 @@
    "energy": "30",
    "id": 692201,
    "name": "精神助产术",
-   "iconPath": "1810450c6c27fdd62cc15c5ec0a49a892928973795eb4f6d1774ae8fae0928bb",
+   "iconPath": "c43ce8e213f0ca060250af12f2f9415478beda05cb9ecaa43ae203d65818802f",
    "typeDescHash": "战技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -960,7 +959,7 @@
    "energy": "5",
    "id": 575556,
    "name": "三段悖论",
-   "iconPath": "5eab790751078e2284871eb494aab73be35d96d2d5baaab4f9adc059da7146cc",
+   "iconPath": "3d635536196be48334f20ed220849228c898c24e03afa2f26d5a6cec4bf1194b",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1250,7 +1249,7 @@
    "energy": "5",
    "id": 261255,
    "name": "我思故我在",
-   "iconPath": "9935cfbe9b3d14a98d68f01f1d86444d1b154c181fabb4fbabaffa9f242f6958",
+   "iconPath": "85ec3d9fcc3b56e406330fa5823fbc3a3c24d1c5af070425b204e24a5fbe5b15",
    "typeDescHash": "天赋",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1555,7 +1554,7 @@
    "energy": "0",
    "id": 60669,
    "name": "攻击",
-   "iconPath": "d74e274aaf9dc231ca6a20409fe0924943bb410b13a294e09e038dd34d80c988",
+   "iconPath": "1ee6f4e45c1714cd62c0f5b90b99e54d613fc4fbca74e5446df469cbf48a5aa0",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1577,7 +1576,7 @@
    "energy": "0",
    "id": 976728,
    "name": "偶像塑造",
-   "iconPath": "f0df11f10ade38196ab4c486b4698130d95163a054d57ae59494073a9e0564aa",
+   "iconPath": "34480c0f2400b7efb64f9336bcdbedb365ca850999fa8ef4f9e09e7de34fb443",
    "typeDescHash": "秘技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1676,7 +1675,7 @@
     "ultimateCost": 0,
     "id": 413347,
     "name": "归纳",
-    "iconPath": "23bbd65e83d50283b3d1eaec4c7a4c5ec25018fcb239ca94550e9ec755a32885",
+    "iconPath": "3a4064faf82f3c142814472f1aece5516a905fab40ddb0cd18fc6be7cca0bafa",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1785,7 +1784,7 @@
     "ultimateCost": 0,
     "id": 413350,
     "name": "演绎",
-    "iconPath": "f568b3ebe29e5bf42e241396d6a27c4de6f899f75c586be3007702379c5bf44a",
+    "iconPath": "b9952c496d29e0fbfdf92e772518aec6a1acca081bd41ebaf3e0f279d9910656",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1931,7 +1930,7 @@
     "ultimateCost": 0,
     "id": 413349,
     "name": "推理",
-    "iconPath": "650e702911b47f2c0347e4e49d04ba301f1bdb2ef9a1359386271e020b309e52",
+    "iconPath": "2fa5a9d80d2cd803da826471d9d1e6a772d49cad6a803e37a944f726deca227e",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [

@@ -6,9 +6,8 @@
  "fgPath": "6842366bfe6b21e4f7927de23251acbac7710a6995d6d5ad3f6fcf1f8728f440",
  "splashIconPath": "cb8b1e8e90176861cda2ed901b194688fc571573f3875b506fd5eef3425bc52d",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBgBAAABkHNb27HH2q/n/WLbtp2MPZVttlOzcqluKla2Udq2bVvv+z3XFSciJgBdNEAgOjtxz7GNA4GsuI4czFbb0RET0bEPO/XH/1fHl+XDdGLwJ1n93nwhHO36ggGUnZen73Oux7cXm940t/9iWbq6dKYEBnDQvTZ5/I+/oqS/n0fDBzgJR+9Pm/nXsq2rxfDBoOyzbjyjFSn6tT7NgcHkD5QkSqTV6h4AkH1BriVJiVYnZwEmtnrRS5GiJJL/VsUAOUMbFt72i2rHak0AHPQ6+/0XRVGkXF0xcDBEkiiKpJW7HDCIPCzP83ueZ2X1oAEGMEjaoPb/68LY7skAYFCwYOu+9Vs2vfvw9MCCbHQcsnB8XFr9kJHDImEAVlA4IC4BAABwBQCdASoUABQAPm0ylEekIqIhKAgAgA2JQBicgmxEGhfkLY+oza9f8o7rXPqL/qCs7GkAAP73fYgmb/tUJrb1Ac/t0G9oUn6gsXboeduu52XKgV/GctGDPF/QdGAmyZosf9QDksEUK7XO7OYsoDRfwGkCWyIHI/H/pcsjUoG/Yllg+yM0FqFueCcYZMBTbiftCL6XY7QaQ8n3GSER90qe7/AewGPz/x6F/TZv8/8VXfvLIp/+aSjoB1WY2X/Rw539oOr8QKG6t5zJz69wL/6/mUmjdKsWM9+vW/9o+msEFWPNrBf+hY0D+OZVte4Nb2f51+HY5yneDfvwEK5BXjFkHT9AMH81z5RLLPhsW7X/xvQBHr8yQnijfx9m8qvxswT/nZPDQnk4ekRgAAAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -441,7 +440,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "df764a5759a0dca82769c6f3b9d0c49fc112137b5c7e7cf0fe97c158667b35d0",
+   "iconPath": "4b2f6a82ca5832faabb21365f8e801c9294eabdcfe332bd0391a19bc78f57864",
    "artPath": "b434b6fb86e3b72574dcd5aa2e2b043d1020ef54067bdfa51ca183c33ec326c3",
    "name": "적막의 하늘, 진언의 시작",
    "descHash": "디버프 효과를 보유한 적에게 피해를 가할 시 치명타 확률이 <nobr>#1[i]%</nobr> 증가한다",
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "0b8497d7bbbbd66c4fb49a5f303473bea784cc4654589c5bf1898819ff4de0a4",
+   "iconPath": "cd5b2875fb57c9169388dd2614bcb1d40c9faec35a6f5438fa352e2d1d457847",
    "artPath": "a3538ce5431936c85fbdf5315b3492172121bbda4430c2eda2bda0db888872ad",
    "name": "고요한 뇌명, 잠잠해진 폭풍",
    "descHash": "행적 [나락] 최대치 도달에 필요한 「공허」 운명의 길 캐릭터의 수가 1명 감소한다. 자신의 턴이 시작되면 [꿈 조각]을 1pt 획득하고, 동시에 [아즈사카]가 가장 많은 적에게 [아즈사카]를 1스택 부여한다",
@@ -459,7 +458,7 @@
   },
   {
    "id": 3,
-   "iconPath": "6ecdff74c736876295c3a2969409ec038408c32dd6bdad0549016d770b05b948",
+   "iconPath": "230b424511fcd8cf762fd715267b48490c72f14fada5a9355b92fd5a9252985b",
    "artPath": "a304e8ba19df70f659e15e0ee7c414a11f3c42856b45926818527fdee620a026",
    "name": "영면을 깨운 추위",
    "descHash": "필살기 레벨+2, 최대 Lv.<nobr>15</nobr>. 일반 공격 레벨+1, 최대 Lv.<nobr>10</nobr>",
@@ -467,7 +466,7 @@
   },
   {
    "id": 4,
-   "iconPath": "0b76fa7437b3ea59213281fcc50a0c10399dae3858d8ba583cfcebc3a9a8a24b",
+   "iconPath": "c31e039f4b95129e0d94b103f2f2d103313d451d651a2ec9a7297163ffa72637",
    "artPath": "96fcdaa2e5e9e27b10167c2b9c80041c606ac4a14b490971f9d85a5abbc65132",
    "name": "거울 속 존재를 비추는 불길",
    "descHash": "적이 전투 진입 시 해당 적을 필살기 피해 취약 상태에 빠트려 받는 필살기 피해를 <nobr>#1[i]%</nobr> 증가시킨다",
@@ -477,7 +476,7 @@
   },
   {
    "id": 5,
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "artPath": "c37fcc04adc70fd9e069134d95e9b81ebe81e3d75473da22d092b8634c739b85",
    "name": "부서진 땅, 떠도는 영혼",
    "descHash": "전투 스킬 레벨+2, 최대 Lv.<nobr>15</nobr>. 특성 레벨+2, 최대 Lv.<nobr>15</nobr>",
@@ -485,7 +484,7 @@
   },
   {
    "id": 6,
-   "iconPath": "ba4559da01571e6233428c99d0c8b742d2a10b64aadfb1702bf58bffc180b373",
+   "iconPath": "41bf295a83cf97873df78e0a7880441fdcbdf9ba6ab21e81168adf2439206487",
    "artPath": "f82f081f46888b3743c68c1080edc8459c751c0a8866386cdfa09f1928eda895",
    "name": "속박을 푼 재앙",
    "descHash": "아케론이 가하는 필살기 피해의 모든 속성 저항 관통이 <nobr>#1[i]%</nobr> 증가한다. 일반 공격과 전투 스킬을 발동하여 가하는 피해는 동시에 필살기 피해로 간주되며, 약점 속성을 무시하고 적의 강인성을 소모한다. 약점 격파 시 번개 속성의 약점 격파 효과를 발동한다",
@@ -524,7 +523,7 @@
    "energy": "0",
    "id": 639823,
    "name": "삼도의 횡목",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "일반 공격",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +684,7 @@
    "energy": "0",
    "id": 355296,
    "name": "팔뢰비도",
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "typeDescHash": "전투 스킬",
    "levelReq": 0,
    "promotionReq": 0,
@@ -990,7 +989,7 @@
    "energy": "0",
    "id": 439237,
    "name": "단칼에 끊어낸 붉은 꿈 조각",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "필살기",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1355,7 +1354,7 @@
    "energy": "0",
    "id": 154710,
    "name": "비에 젖은 단풍, 끝없는 하늘",
-   "iconPath": "4991aa8fe3558d340c3ef2bfd5f5d9096798e6000b7e4eb0ffa01c0c148745b2",
+   "iconPath": "221738a182c2b155974a4c0c07b3a617e6dbd1d1511c63575ee795f4801160ad",
    "typeDescHash": "특성",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1645,7 +1644,7 @@
    "energy": "0",
    "id": 954124,
    "name": "공격",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1667,7 +1666,7 @@
    "energy": "0",
    "id": 70769,
    "name": "피상을 절단한 자아",
-   "iconPath": "f994082615a6791b3f40f7fb5a4dd56345f3061eeafb844157a0cb3c1dfe8aff",
+   "iconPath": "e8eeade7747ffa2975fd8ef9f5ddc16f7a58784a2e2563665231630a5df3f390",
    "typeDescHash": "비술",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1692,7 +1691,7 @@
    "energy": "0",
    "id": 154711,
    "name": "눈물 베기",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "필살기",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1997,7 +1996,7 @@
    "energy": "0",
    "id": 271356,
    "name": "눈물 베기",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "필살기",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2302,7 +2301,7 @@
    "energy": "0",
    "id": 954125,
    "name": "눈물 베기",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "필살기",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2607,7 +2606,7 @@
    "energy": "0",
    "id": 70770,
    "name": "황천의 귀환",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "필살기",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2988,7 +2987,7 @@
     "ultimateCost": 0,
     "id": 76442,
     "name": "적귀",
-    "iconPath": "9522620e04f20b7d6b642d2e754f803373455ce52fabf7453a61015d11a48281",
+    "iconPath": "3b9e60fa6b782292abd846f1713b011be0ef91600abd22723c5243e7f058f5b4",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -3130,7 +3129,7 @@
     "ultimateCost": 0,
     "id": 76445,
     "name": "나락",
-    "iconPath": "5b174d18d7e7d6aa171e07c508de164561b3c659c70e8ef91f60dc9088a477a1",
+    "iconPath": "d09b4f4b65a0a0e321126847e90435cbbbe8ee6ab8699f0906754cc21756e1d0",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -3241,7 +3240,7 @@
     "ultimateCost": 0,
     "id": 76444,
     "name": "뇌심",
-    "iconPath": "45e2ef4d90a9f7a28abfea0bfaf688c119eee1ffe447a2f8c6cc025f0771c7ea",
+    "iconPath": "d355b39e44c731c0f9b7ebb3f9c97541c73581178e115717bbc1635c8e67c44f",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -3426,12 +3425,12 @@
   {
    "id": 6,
    "title": "자신에 대해•신분",
-   "text": "Coming soon - Stay tuned!",
+   "text": "꿈은 본래 아무런 의미가 없지만, 거기에 의미를 부여하는 건 삶의 색채야. 「공허함」 가득한 색채뿐이라면, 꿈도 흑백의 빈 껍데기만 남겠지",
    "unlockRequirement": "개척 임무 「무덤으로 향하다」 완료 후 개방",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "e894a180a9981608b4c57431079623e4d13d0054cbe9a246462eea85a7491d9c",
+   "jpUrl": "2bf5db4dde1d16760266c2956d9126485b2c2a3922e94f321409c97609794e9a",
+   "enUrl": "7d605dc4ac9c7395467e9d5ebb93e8c2734a0fccd758fc8c4a35d249f3969fb2",
+   "krUrl": "2468f13e9707e8d1240d48d6b2793836f685a18fce410fa37b13d1db031c26b8"
   },
   {
    "id": 7,
@@ -3476,12 +3475,12 @@
   {
    "id": 11,
    "title": "고민",
-   "text": "Coming soon - Stay tuned!",
+   "text": "피안에서 깨어났을 때, 바다의 끝에선 여전히 우렛소리가 희미하게 들렸고, 하늘에서는 마침 혈우가 흩날렸지——그 순간의 광경은 그 무엇보다 선명하게 머릿속에 남았어. 그리고 그 전후의 기억은 빛을 잃고 점차 퇴색됐지",
    "unlockRequirement": "개척 임무 「무덤으로 향하다」 완료 후 개방",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "c6e3372573e30d0399079e4cf02ae8cd4c7da61603aca30dbb51045c980ac58e",
+   "jpUrl": "a047f85153c68597b61849acdfe9bb6a13fa901db41f7514ad23caebc97965e3",
+   "enUrl": "c398f29352076918b50d85342f03b741cae5aec4ed43c1690ac9b28a04dd59a2",
+   "krUrl": "ad799c9fd195e7b5a05a6a24bfc1864e5ee931e62a5d6d9984c931ab7861d45b"
   },
   {
    "id": 12,
@@ -3490,7 +3489,7 @@
    "unlockRequirement": "",
    "cnUrl": "de6dcc427794a3897ee79f1a0c3af4d9ad76f8a1e5a88b33a10c321fe319b5cc",
    "jpUrl": "677b38e00145fa37daaa71ca394a9ac88a233c0e833df62ba80934cf16231c5e",
-   "enUrl": "25a85b55b639a8172d034f42c50cf1a57536e389da3165cbda9f81a8754bc1a7",
+   "enUrl": "1438b357b3ce5962d3fa521dc251220e79cd49439fc4e7cfecc75a8e3dc8c5ce",
    "krUrl": "bb3432ece2a51edf1c8851dfa91fbbdf43fb978970cb9d3d8cea2a8a5fa16b2c"
   },
   {
@@ -3516,12 +3515,12 @@
   {
    "id": 15,
    "title": "견문•운명의 길",
-   "text": "Coming soon - Stay tuned!",
+   "text": "인간은 운명의 길을 걷고 난 후에… 비로소 탐구하고, 깨닫고, 존재하지",
    "unlockRequirement": "개척 임무 「무덤으로 향하다」 완료 후 개방",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "22cc19dfe635ac6e8a7c59f7cca017ee780aba9f7ba1e8350831914d6e8af883",
+   "jpUrl": "babe5ee9d6a6feaa54b5ae44851b83f4984e373f115a5fae14a49b4b282aaddc",
+   "enUrl": "55362848ae88e0e5fc6a4bc702a4f1237ad0beb112379c475cf15afe02f4691d",
+   "krUrl": "e7b4944732f4f07d1c4ef8abd2847b0af4f5f888a709d898962417399ae9e284"
   },
   {
    "id": 16,
@@ -3662,6 +3661,26 @@
    "jpUrl": "d9509528f3e8a4d73459b1303d41d60d85a2b68015a569eac05abe719cef9299",
    "enUrl": "b5fa0dda88deea8498c474a3f5a1f2f16f7ee1ce2bef31c61fc5d55a5b7eb110",
    "krUrl": "e6cab93f80f2c2269cda7f9a17797add8cc6d8a75638dbe2abd5ce17bc643e42"
+  },
+  {
+   "id": 30,
+   "title": "부트힐에 대해",
+   "text": "갤럭시 레인저… 조직은 그가 더 편하게 움직이기 위한 방패일 뿐이야. 그 남자는 자신만을 위해 살지. 그게 내가 그를 믿는 이유이기도 하고",
+   "unlockRequirement": "",
+   "cnUrl": "11bef2f1393fee88be482c7b80e4eecf159dff22c53dff07cf5254e0045baaa3",
+   "jpUrl": "d4c4dcaec1a75f8352b5a176aeae3979f3be9c32a35222a305b27b529d51e130",
+   "enUrl": "6b28895670d2707d6009c006ad153caf464e3a9a30449dedcfdfcdd499d3cee2",
+   "krUrl": "ecb611967f5f8f611d7ef0f7ada8ebae6174e407b41b85307e5694d7c1116383"
+  },
+  {
+   "id": 31,
+   "title": "파티 편성•부트힐",
+   "text": "동작 한번 빠르네…. 네 총구가 보인 것 같아",
+   "unlockRequirement": "",
+   "cnUrl": "920e3198955bc657460319070b5eb772d76ddc133bc5977b6d2daed7cd0eea9b",
+   "jpUrl": "3afc98dc66137c9e09feaab97d7c5299727f4f4c3502bc28452136124c32c282",
+   "enUrl": "0bbd53ac6d16e596df6b7e9e5b30f39c9d113c0478b6d24a7244020a021aed63",
+   "krUrl": "2a43910a31a4add9b1250a31b106d9b08efcd2f03302c607e3636abfdb131b4b"
   },
   {
    "id": 51,
@@ -3826,12 +3845,12 @@
   {
    "id": 67,
    "title": "전투 승리",
-   "text": "청산할 죗값이 또 늘었군",
+   "text": "죗값이 또 늘었군",
    "unlockRequirement": "",
    "cnUrl": "0acc28a4f99053d4d8960c0c81e110940ba1553db42f7db992ecff0c1250f46b",
    "jpUrl": "51908b0ad7629a9abf94fda0e1627e50fba3a9cada5f59e07a02f0914b10b6e9",
    "enUrl": "9ca2eab1f57dd43a35fc174d3a063180511c822d9ebdf02b2fc5de259c17da70",
-   "krUrl": "2469e88654b183a9dc08635e8073add024803111f176f6974172bdd5b98f8275"
+   "krUrl": "7afda6b1f112d18625c2a50fb0d7ffa2bf2d1d325b2ebc81623bbf2be485eb1c"
   },
   {
    "id": 68,
@@ -3907,7 +3926,7 @@
  "storyItems": [
   {
    "title": "캐릭터 상세",
-   "text": "「갤럭시 레인저」를 자칭하는 여행자. 본명은 알 수 없다. 긴 칼 한 자루를 차고 홀로 은하를 항해하고 있다.<br /><br />냉담하고 과묵하다. 그녀의 검은 뇌전처럼 빠르고 맹렬하지만 칼집으로만 전투하고 검을 뽑지 않는다",
+   "text": "「갤럭시 레인저」를 자칭하는 여행자. 본명은 알 수 없다. 긴 검 한 자루를 차고 홀로 은하를 항해하고 있다.<br /><br />냉담하고 과묵하다. 그녀의 검은 뇌전처럼 빠르고 맹렬하지만 검집으로만 전투하고 검을 뽑지 않는다",
    "unlockRequirement": ""
   },
   {
@@ -3932,22 +3951,22 @@
   },
   {
    "title": "캐릭터 스토리•1",
-   "text": "Coming soon - Stay tuned!",
+   "text": "「…사람이 검을 선택한 것이 아니라, 검이 사람을 선택한 것이다. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">사람이 운명을 선택하는 것이 아니라, 운명이 사람을 선택하는 것처럼</span>…. 그날, 내 손에서 탄생한 『검』이 다시 소녀에게 건네지는 모습을 보며 이런 생각이 들었다.<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">『팔백만 신』</span>에 대항하는 길에서 그녀가 선택한 것은——어쩌면 선택 당한 것일지도 모르지만——그 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">마치</span> 내일로 향하는 것 같은 길이었음을. 난 이것이 아름다운 시대이기를 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">진정으로 바랐다</span>. 이즈모국은 여전히 위협을 받고 있지만, 사람들은 여전히 희망을 가지고, <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">악신</span>이 전부 소탕되어 세상이 다시 자유를 얻게 될 것이라고 믿는다….<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">하지만 검광이 사라지고 나서야 깨달았다. 이건 끝이 없는 죽음의 길이라는 사실을. 이 길에 발을 들인 사람들은 다시 돌아갈 수 없다는 것을</span>……」<br /><br /><align=\"right\">——오래된 잔권</align>",
    "unlockRequirement": "개척 임무 「무덤으로 향하다」 완료 후 개방"
   },
   {
    "title": "캐릭터 스토리•2",
-   "text": "Coming soon - Stay tuned!",
+   "text": "「…검을 만드는 자가 남긴 잔권에서 알 수 있듯이, 이즈모는 한때 멸망의 위기에 처한 적이 있다. 존속을 위해 그들은 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">『신의 유해』</span>로 검을 만들었고, 이 검을 지닌 자를 구국의 영웅으로 여겼다. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">학회는 그중 『팔백만 신』에 대해 관심을 가지고 있지만, 이들이 어떤 운명의 길과 연관돼 있는지 아직 모른다. 이후의 기록에 따르면, 이즈모국 사람들이 검의 주인을 부르는 호칭이 『인간』에서 『<ruby>귀(鬼)<rt>오니</rt></ruby>』로 점차 바뀌었다고 한다.</span><br /><br />아쉽게도 이 세계가 이미 성도(星圖)에서 사라졌기에, 역사의 진실을 더이상 찾을 수 없고, 『기억』도 더는 존재하지 않는다. 무장 고고학파가 도착했을 때 은하계에는 「신비」한 노랫자락만 울려 퍼질 뿐이었다. 끝없는 비가 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">검은 태양</span>에서 눈물처럼 솟아 나오고, 희미한 비의 장막 속에서 이즈모국의 후손은 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">그녀의 손에 구원받고 또 그녀가 직접</span> 지워버린 고향을 등졌다…. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">그녀 앞은 보이지 않는 그림자뿐이었다</span>」<br /><br /><align=\"right\">——「집필자」 오펜하이머</align>",
    "unlockRequirement": "개척 임무 「무덤으로 향하다」 완료 후 개방"
   },
   {
    "title": "캐릭터 스토리•3",
-   "text": "Coming soon - Stay tuned!",
+   "text": "「깊은 잠에 빠지게 만드는 『각성<nobr>-310</nobr>』 제제를 사용하여 과거 기억을 되살렸다. 일부 환자들은 이것으로 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">삶에 대한 자신감</span>을 되찾았지만, 그녀는 달랐다. 그녀 이전에 깊은 잠에서 혼자 깨어난 사람은 없었다. 그녀의 꿈을 관찰해 보았는데… 그것은 행복이라고 부르기 매우 어려운 기억이었다. 음침한 하늘, 부서진 도시, 폐허들, 그리고 비가 끝없이 내리고 있었다.<br /><br />영원히 멈추지 않을 것처럼 내리는 비와 불어나는 물속에서 사람들은 죽어가면서도 미소를 지었다. 그 타락의 밤에 머나먼 곳에서 천둥소리가 들렸다. 그러다 한 순간에 번개가 번쩍이며 검은 밤을 갈랐다. 부서진 하늘 아래에서 나는 다시 그녀를 보았다——모든 것이 퇴색되어 사라져 가는 세계에서, 그녀는 가볍게 검을 휘둘러 모든 꿈세계를 데리고 갔다.<br /><br />이 길에서 그녀가 우리보다 한참 멀리 갔다는 것을 인정해야만 한다. 종잡을 수 없는 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">『공허』</span>가 그녀를 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">자멸</span>로 이끌었지만, 그녀는 저도 모르게 그것을 손에 쥐고 있었다. 어쩌면 여정의 처음부터 그녀는 진정한 적과 맞설 준비를 마쳤는지도 모른다…… <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">나는 그녀에게 이 모든 게 무슨 의미인지 물은 적이 있으나, 그녀는 대답하지 않았다. 뭐라고 대답해야 할지 몰랐던 것일까? 아니면 마음속에 정해둔 답이 이미 있었던 것일까?</span>」<br /><br /><align=\"right\">——어느 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">혼돈의 의사</span>의 노트</align>",
    "unlockRequirement": "개척 임무 「무덤으로 향하다」 완료 후 개방"
   },
   {
    "title": "캐릭터 스토리•4",
-   "text": "Coming soon - Stay tuned!",
+   "text": "「이 편지를 여기에 남긴다. 내가 만약 돌아오지 못한다면, 이것으로 그녀의 이야기를 전하겠다. 그녀는 내가 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">오크론</span>에서 만났던 동료이다. 저편으로 향하는 길은 더없이 험난했지만, 다행히 그녀와 동행하였기에 평안할 수 있었다. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">처음 만났을 때, 그녀가 어떤 사명을 짊어지고 있는 것 같다고 생각했다. 그게 「복수」일까? 아닐 것이다. 마음속에 원한을 품은 사람은 언젠가는 그걸 드러내기 마련이다. 하지만 그녀는 언제나 차분했고, 가끔 슬픔을 내비쳤다……</span><br /><br />…우리가 만나기 전, 그녀는 이미 많은 세계를 경험했고, 다양한 생활 스킬에 능숙했다. 나는 그녀와 함께 야외에서 요리하고 텐트를 쳤다. 별이 없는 밤이면 그녀는 내 이야기를 들어주고, 다음날 할 일을 의논하기도 했다. 대개 우리는 묵묵히 길을 걸을 뿐이었다. 이곳의 눈은 자홍색이었고, 맛을 보면 산딸기처럼 새콤달콤했다. 그녀는 <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">미각을 거의 잃었지만, 여전히</span> 내가 만든 오크론 눈 경단을 칭찬해주었다……<br /><br />…그녀를 알기 전 나는 오랜 세월 동안<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">『공허』의</span> 강을 두루 걸었다. 그녀는 내게 손을 내밀어주었고, 우리는 이 강을 따라 함께 걸었다. 이제 헤어져야 할 때가 왔지만, 나는 강가에 도착하지도 못했고, 무엇을 마주하게 될지도 모른다…. 하지만 내게는 발걸음을 멈출 이유가 없다. 인생이란 언젠가는 끝이 나는 길이니, 그 전에 나는 내 두 발로 끝에 도달할 것이다. 그녀도 그럴 것이라 믿는다」<br /><br /><align=\"right\">——<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">「플레바스」</span>의 노트</align>",
    "unlockRequirement": "개척 임무 「무덤으로 향하다」 완료 후 개방"
   }
  ],
@@ -4050,7 +4069,7 @@
  },
  "name": "아케론",
  "rarity": 5,
- "descHash": "「갤럭시 레인저」를 자칭하는 여행자. 본명은 알 수 없다. 긴 칼 한 자루를 차고 홀로 은하를 항해하고 있다",
+ "descHash": "「갤럭시 레인저」를 자칭하는 여행자. 본명은 알 수 없다. 긴 검 한 자루를 차고 홀로 은하를 항해하고 있다",
  "artPath": "5f42b81562b48be4f64cd92fc466d55236e37624656e88c8138d5c80129b2019",
  "miniIconPath": "4b0dff443c4ad180a7ee49451a8a261aa72e8c715b9adaf24f8cf827ec17ddf5",
  "damageType": {

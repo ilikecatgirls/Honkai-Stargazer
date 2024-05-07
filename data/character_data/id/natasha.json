@@ -6,9 +6,8 @@
  "fgPath": "dd6b26da2d98027b38640d36e62de5d423e1765fafe17f500a94dc2100445b76",
  "splashIconPath": "0f2de12d43d1157a2a586285d70c245d3303f950006aca0855bad6fa2d03e79e",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRjICAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSOIAAAABgFvbtmpl3/vGIPXI3S12twa8ACpgUIFDBJFF0IG7V0DkhBbyI+TJ3sG7jxoiYgIQN0BZwcjJBGCQ6CH3/PuNimZqYVwGuJQkP9R1gkXDrUJGVBSqGTbmYU1/FEn5moMXM9hVIEpkoFkXcKWQkqhAK7Cua4VKWP0XE7ZgXBcKxRipIXiOU4WkKEb6qoJxHMeo2Fsa3DsKKFGK9F0OA8BgT4FIkYpe0x0ephXS9XPXB/ek/IiiGOp+2GHR6Ut+xCgKNAUvBoPWzZREKbWcg0QLFC286FPbgEmAtYDXldvcBAsAVlA4ICoBAAAQBgCdASoUABQAPm0ylUekIqIhKAgAgA2JYgCdMuupPaTZRidrS1AkiPucSIBn2njv8mB3bCHl0UAA/sPynHTVFV/WQNsFeUy/BzW49/xYSC4KiQk/Xz78H2eKANJUtFSPmd42bH9IPgl2w6pM+gXR38RHbFivVeT/ZWriIPpMm7x32rS9Q/Xbe5OYFk3C3Ki8ZM/eRtfVH51MiGbkxPxFbQxdLS/VQ/vn8Fs//b7wD1shm9qg5pVooR5g68VRQnuMLq/voF0J8mhQZ/E7+fFLmahf+kf2cmKjoasTqeDLc/TK+j4/rQK7P+JzJRQYszfzk37+xamq+SRqxFdCZRdyB3Bt0XZFGFsOIa7Z8A/p8i1Z2k7Aw31sTxonrQpIOALnSwRVZsKuQAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2315,7 +2314,7 @@
   },
   {
    "id": 20,
-   "title": "Level Max Karakter",
+   "title": "Level Max Tercapai",
    "text": "Aku akan menggunakan kekuatan ini dengan baik.",
    "unlockRequirement": "",
    "cnUrl": "9f6b178f90bc19f1b20aea4d76d6f73d60fdf97619120f977719b4557ee0d38e",

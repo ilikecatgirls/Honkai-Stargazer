@@ -6,9 +6,8 @@
  "fgPath": "1ba4b68e966bd36439900649c83fb0d0f85e87b7a257df2e7321e44830f61ad0",
  "splashIconPath": "533e280f73874166a0d7c05623bb34a7d27bfd67f6e699020a449454db2e44a3",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRqgCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSA8BAAABkGvb2rFX+/2+2LZt26ycK1BvlrZtVOlsu7aTY9v8+RzjDiJiAvDnjOHveYD9DeNgkIo/ZmCA/50C8L/RntACEBZLXwwBQOcnbK3xqhnbD+htmn84bxYBgIPi/fOj1cckfb8/qpxfjF8q1xMJJEK6fJSGWlWAwc0x7pNATIK3tLY2kAVVRQAK9qVEUpJKiSR0s7MZYIBJ/CGJHkjoi5RE9MIMDF5uY/MPSXjnzfUXEgvoQgHQTnN7Ivqyu379IPOIiAStWpDxDey9LHOJLFnMDxh5uDH7otIGmtntdfXxkFfMyfG/zlWCrakcnPSQEgoGIGvv0lNDEb9nAAPc3S0Ajv2C5/AzD4DhrzmO4T8CAFZQOCByAQAAMAgAnQEqFAAUAD5tLJJGJCKhoSgNUIANiWwAnTKEcDeu24drkMBtmNwBvKvoAeWX7D/7aek5RoD7wc0E4HmoaNS8Z37WJb1x+AAA/u/BH3N42YJVfmRJ/eA4iRnBSl7e/HRN2T1dp6FSw0+9IVLSyWnocxnLRP8JQSf3fDFL7rmOsz1fSUBxBl5GkN+t9R80/S853yXw+XUz8JPHEtDt95hb3RxZ3xbRtBBFHX9W6wNxps8ab5/q56sOzgaPMXf+z/e8AFOwAkJTHp60gCAzK2DLFmqtnQIt61ZtZAS8ww/KG2U/mr+mwo3n5MGXY7aJGD1Yw07u6angIodTTeTbNxc85bVHzY80zX8P3/+rX/dcmxD3ynT5bf6glHFpyXz1YAT4vH28/66/XSNE9J27+Ov++AzuFWi+4v2R/nIObqS9yD4/Ru+GNdOKSquPg6T89twcp4AG4iHwSPDDce735vkgdfvZ7c4bUIcI+148dgAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2475,6 +2474,26 @@
    "krUrl": "f5c2c4796c0ede665c41b1411cecdad9f2250b11a0ad383987463157a26bf656"
   },
   {
+   "id": 19,
+   "title": "Эйдолон: Активация (Гармония)",
+   "text": "Не зная друг друга, мы делаем один и тот же выбор ради одной цели.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "f8c9e7519133eb710dce9a98ae90f28397baee8dc89c5af6850e746b1fc16e59",
+   "jpUrl": "61e064e1c69ccd6a68ed67763046be89652877f6bb834b4c0f9876c126699532",
+   "enUrl": "f2c267b8e0d88ca3adbcbbf2af1c33a7c366b62a32d89076e65ab9d1bf871702",
+   "krUrl": "f9b5fc6ddcc0ce5dcd370fbfa20fe7d53d0c2a5f2c0f83728e446919b9e94882"
+  },
+  {
+   "id": 20,
+   "title": "След: Активация (Гармония)",
+   "text": "Нужно радоваться времени вместе, пока наши пути не разошлись.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "a8bd9560e1bb5a2681cf388c79b3d53b0d8f02ed19058e0827b37827fc2568c1",
+   "jpUrl": "03bbcb5c1ce328a64cf4653854f3bd41da95d5bd4c8829094cc6564cc78c9ca1",
+   "enUrl": "a297e4e390b5d2ef27a92584eaacf2c9cf5b06da4cd71c0421fb10c7b6a1e8ea",
+   "krUrl": "abc4259bcd82b03cd7590c731578c904fafbd78a38b874c979cc13947cf333f2"
+  },
+  {
    "id": 101,
    "title": "Начало боя: Пробитие уязвимости (Разрушение)",
    "text": "Вот наш шанс.",
@@ -2815,6 +2834,166 @@
    "krUrl": "4a016aac36413d06f706ed4e20cc68391a575173f47487d64637a98d0d6c0dfe"
   },
   {
+   "id": 135,
+   "title": "Начало боя: Пробитие уязвимости (Гармония)",
+   "text": "Ритм сбился?",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "4cfc3b625ed5549072aee14a75bb1503ec3b30bd26a1e1ca1ce166c589a2a358",
+   "jpUrl": "75585acb96baea1835f06a73e47b17624452ab53c8803a17c898a690c58ff823",
+   "enUrl": "c66d10277f893d9e1514a822c72eff09ef3c17f1f3dbefe80baa8d767a6ba24a",
+   "krUrl": "ad4562963e3b45ac1d94307f4c78077f00824c1eb13024aea43666d163bbdf7a"
+  },
+  {
+   "id": 136,
+   "title": "Начало боя: Сигнал об опасности (Гармония)",
+   "text": "Пора испытать наше взаимопонимание.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "1d55c0907f77b9b1dde5fcb420d5f84286f642892fb4ee926ab76fe40cd09cf3",
+   "jpUrl": "a22cc9a41555f5fa8ca170ab6cdb3cefdc8624e12e905c393540a4ef9f208087",
+   "enUrl": "541d99b2d30f948d1fab1e7a9941cd5cdab17b908e2f1194ff53717c692de59d",
+   "krUrl": "731c8b1db1264cdea7049f7bf9f29afbd8b2f234dbbe3e5e81dcdc749478079a"
+  },
+  {
+   "id": 137,
+   "title": "В начале хода I (Гармония)",
+   "text": "Все по местам.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "9d1012c85ce1716285cd9f82f5928c80269086acb94c257aeddc740cbd0a5a88",
+   "jpUrl": "c39c8e9fe42bb6907790a24130773062230125492ec0f3d897e9eea3d62605d6",
+   "enUrl": "55b0c0241bf0b60f91941cb90d794e30683982100fd64ec087f114be755375a8",
+   "krUrl": "2535c12942f5fd9145c396b36f95e546e7f96c4fb79aeed6a898660e82856a27"
+  },
+  {
+   "id": 138,
+   "title": "В начале хода II (Гармония)",
+   "text": "Не сбавлять темп.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "34f65cdee16110c79cc1a5efadef2fc0575ca46a373b0709e051107c965a70c8",
+   "jpUrl": "c9e1b673d58379a4407c3ba9a47892c559425eb3ed1dc9b519cf95e3aadd83c6",
+   "enUrl": "172e9c2febebbbfaa6df7928b28408b71d2f03b99a68160e0d5daf38afd71cd1",
+   "krUrl": "f62e781b1ad50eecc8a3c8c899dae6cf33714ea345a0594d4891f5584412550c"
+  },
+  {
+   "id": 139,
+   "title": "Ожидание хода (Гармония)",
+   "text": "Главное - не упустить момент для атаки.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "5a537dc0f22c49e1605b4d78406431db2fbc6d26ec47f4f8dbea9c2ac93590a8",
+   "jpUrl": "6810eb4b31ed1b5bb588865616da69bb3ee93b6adf6e94df4de72800e598467c",
+   "enUrl": "7ce76c2068336dac4fa33f7bb7d3ea172b1b70429ec2fe26252d9a62b2426426",
+   "krUrl": "8b2369b0923792fa92d575abb87e8a677c1bf489a6b509820a5546fddaba6e83"
+  },
+  {
+   "id": 140,
+   "title": "Базовая атака (Гармония)",
+   "text": "Мой черёд.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "3c648d6debe9a2020ab280dd07f71e1fd2b990e82ca83fd2566fbcc8f35020cc",
+   "jpUrl": "8e49711000da164991c65d977923efc74137d8c1e6d406c43cbafb466700bf92",
+   "enUrl": "9b8706702034500803b161392fd668a616822278cbf3a91fbebe056ef8742529",
+   "krUrl": "03bef0ad40ef1ff95cb440cc34a4965b0f2d26204dbda04d8d813d7de960210a"
+  },
+  {
+   "id": 141,
+   "title": "Навык I (Гармония)",
+   "text": "Давайте импровизировать!",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "d3cc69667ec372b5db170bda88538acf43d7fc016b150c3c171565b79f4beef6",
+   "jpUrl": "52c2c25242b2f4b72ee086acd8784b26cd305e4920ddd7c667834e8919be68d0",
+   "enUrl": "0a82a4368e6ad9c73edc3614a54726fe314531c32dbe08de0da82a2449caf028",
+   "krUrl": "dbfd9fd165a93113c619dea06930f5d2655e325947a3ded6da9a3bb7e8ade9c4"
+  },
+  {
+   "id": 142,
+   "title": "Навык II (Гармония)",
+   "text": "И пусть мечты исполнятся!",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "b9884a2c2daf6e9a154cbeb8eeda2e885a672cea887c96e154e0ef2e4380d2de",
+   "jpUrl": "f82f85e664eccd131e0e62b676c2cfce8b632a1b5314d69da2db90a2a03b63da",
+   "enUrl": "ca4ee82197caee5fa056621ef70c38dd90771196ea74ffb5efe3ea1f59cf9f58",
+   "krUrl": "dfa3d86406b2a73d33cf296e327976523a45a9876efc9819a47f8843523542db"
+  },
+  {
+   "id": 143,
+   "title": "Поражение слабой атакой (Гармония)",
+   "text": "Всё по-старому...",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "74df9409f268dc903afa4ff8beb7a36a32dee12a83df2d014200e9408e072cca",
+   "jpUrl": "7605ccffc9773b4f58badbed48d4227d6c9aab2ffe0da1bd3bb518e8539235d7",
+   "enUrl": "37a69b3498dcdd81c8887b18f58b59816468d296122d0ae9c973acf3e52a255f",
+   "krUrl": "2467272493c4b5e118cae8fc6f4e6bc1aef4149100f2fb0c38f8f9f88e727181"
+  },
+  {
+   "id": 144,
+   "title": "Поражение сильной атакой (Гармония)",
+   "text": "Я догоню.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "78c97412f4ae00852fd80bb58e0708d333ee0c9f881a177b9d4e30065fac1c40",
+   "jpUrl": "a623e48c025b01c374de8fd991f1e08a6fe1041685942013ba89c494170d9fb7",
+   "enUrl": "e557e9436bc18bca587f2afe769dd23381f5a0d989a6d97dd329bedba12afce3",
+   "krUrl": "d1a533c1ce58a3ad51577247e9dd1498f1e2f49618d5cc137de63b607314beb5"
+  },
+  {
+   "id": 145,
+   "title": "Сверхспособность: Активация (Гармония)",
+   "text": "Атмосфера уже то что надо.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "ff57b8db9aa7b2568236f07cb32ba40a62e53e55e9fff36368eeecd7ca6b15ac",
+   "jpUrl": "f256adc573e8403dae7dd72ad878b2efecec7576cf08d87628bf0d22547b7e6d",
+   "enUrl": "ef62b2b79dc01920151b043fe27cef7d93bc9e6c24da1b28783147d639f533ad",
+   "krUrl": "2b7699070f5c44c01ced19a1e0f1812c5421569dff54ff79bd597891149b48d8"
+  },
+  {
+   "id": 146,
+   "title": "Сверхспособность: Применение (Гармония)",
+   "text": "Да начнётся шоу!",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "63183e607ac90337a9a63234f2c24725e6a3964ce5d9dc72076d73881a5ef5b8",
+   "jpUrl": "a169c54b7a32f79349836be5733b0a8591eaeb27e282851bf1e2d0d617ecfc76",
+   "enUrl": "15011c9e8fc8092319de49ab11496018d78568b6f4c51d1a142412fbf520de06",
+   "krUrl": "db2bdfd99b2d7406dbeb6e8e620f963fc793733ef8f8763031414d2ec09cffb6"
+  },
+  {
+   "id": 147,
+   "title": "Поражение (Гармония)",
+   "text": "Ещё... не конец...",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "53f4c8e64c63fda444e349d2f960e28b541ab9fb1b6c4909bc7c380b240a6c4e",
+   "jpUrl": "9bf2358650b165eb6dd7951fca3eb8ff6bac9c88ea3c3197339e771485c5413b",
+   "enUrl": "fc21952af7df7d65ac907986fededaa926a4a6a2f85ca05ebc65be300c753d0c",
+   "krUrl": "66f43d93264431d7051183c6950e394d8d5c46b8f00ffc02de20a044023ad85d"
+  },
+  {
+   "id": 148,
+   "title": "Возвращение в битву (Гармония)",
+   "text": "Антракт окончен.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "3ce57a37fa65cbd361b075a94e01f1c09784f9be7e68e64fc28b1e711fb3f2d2",
+   "jpUrl": "b2265422070ad342f8834b2e821095ec398ea562025aa42d93ee92efb12ef340",
+   "enUrl": "eba4fcda2344dfd75a6cd0efe46b2c56c97845d21a5c72d0df934c127d438fbe",
+   "krUrl": "7bc5fdf19ef0a79922bd0689635ec2ca41bed1ae06675d848c3c6627a1a997ee"
+  },
+  {
+   "id": 149,
+   "title": "Восстановление НР (Гармония)",
+   "text": "Отличная командная работа.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "875a6c1da407dbf3f884c9e05f5dbeb55f9c00266789874fb279d94653f7b43b",
+   "jpUrl": "1ceee27e9d61c29294b3262514033d7bd00810aabdf9c84f6df680297bced32f",
+   "enUrl": "d12aeae37b7684ea5d9f69ed149c94a8c9fc2ae19dabde6cf7d36683cfdd801b",
+   "krUrl": "f5ca58de3fa04a93c4de2f7441f25a129024d9c82c5e2789e6a2235f4d00b3b5"
+  },
+  {
+   "id": 150,
+   "title": "Техника (Гармония)",
+   "text": "Не теряем настрой.",
+   "unlockRequirement": "Откроется, когда вы ступите на новый Путь",
+   "cnUrl": "b357dba6d66b9828fd10e750fcd989b03de4adcdc54c1e6c492f179c736f0339",
+   "jpUrl": "41ea76595d2b2c0692fd990f53084aa5308479be122eb8e0965a54190d093048",
+   "enUrl": "668d4d40d9faf4283f6377a96dfbab7505b498816cbb69e548aeaa2430af1ed1",
+   "krUrl": "ee65e8a1feb7dd1dc0ff4f685ab80554a04716679d3eca446350565d23fd5b20"
+  },
+  {
    "id": 995,
    "title": "Победа",
    "text": "Дойди до финала своей дорогой.",
@@ -2898,7 +3077,7 @@
  "storyItems": [
   {
    "title": "О вас",
-   "text": "Девушка/Юноша по имени Первопроходец, поднявшаяся/ийся на борт Звёздного экспресса, чтобы устранить опасности, исходящие от Стелларона.",
+   "text": "Девушка/Юноша по имени Первопроходец, поднявшаяся/поднявшийся на борт Звёздного экспресса, чтобы устранить опасности, исходящие от Стелларона.",
    "unlockRequirement": "Откроется после миссии Освоения «Путешествие продолжается»"
   },
   {
@@ -3011,7 +3190,7 @@
  },
  "name": "Первопроходец",
  "rarity": 5,
- "descHash": "Девушка/Юноша, поднявшаяся/ийся на борт Звёздного экспресса. Он{F#а} решил{F#а} путешествовать на Звёздном экспрессе, чтобы устранить опасности, исходящие от Стелларона.",
+ "descHash": "Девушка/Юноша, поднявшаяся/поднявшийся на борт Звёздного экспресса. Он{F#а} решил{F#а} путешествовать на Звёздном экспрессе, чтобы устранить опасности, исходящие от Стелларона.",
  "artPath": "822c96dd046ecf086f1b4b2c6f2cf7620b5844c53631e968370f5cb8f74ee18a",
  "miniIconPath": "914cb043f29b32e20cf7edf199bb457952bf2893f711ea7f3995407b21079af6",
  "damageType": {

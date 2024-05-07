@@ -65,7 +65,7 @@
   },
   {
    "useNum": 4,
-   "desc": "Augmente de <nobr>#1[i]%</nobr> l'effet de Rupture du porteur. Ce dernier régénère <nobr>#2[i]</nobr> points d'énergie lorsqu'il inflige une Rupture de faiblesse à un ennemi.",
+   "desc": "Augmente l'effet de Rupture du porteur de <nobr>#1[i]%</nobr>. Ce dernier régénère <nobr>#2[i]</nobr> points d'énergie lorsqu'il inflige une Rupture de faiblesse à un ennemi.",
    "params": [
     0.16,
     3

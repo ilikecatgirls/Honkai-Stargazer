@@ -5,9 +5,8 @@
  "iconPath": "6e2911dcc90e759ac38fb18af9d4e1e999ab1c9f6ccd2e821bd136f9f3694900",
  "artPath": "4c6a6ade71600cdcb159046610e0547d8f63f958037be45f4cb8cc2648e73a4b",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRoIBAABXRUJQVlA4IHYBAACwBwCdASoUABwAPm0wkkYkIyGhMBgIAIANiWoAnTLiGD2WRlJY73l+YknlmZn4+CDgUKdHPeaUiVPIRssbfnNQ7DcMvnjgAP77GD6CZQqohjL1TN3iVOm78rPnS48XFB5T6uvjGEprKGrPYR7sQVJkGFBqG2K5qMoOIJNkBeGSLqI+F++dw39/KC6n9jN+sVt0xdYboEG0+3psGkO75Rn4/vFHjtD+4TWTYQbEZ9PEyGIJ0veRa3jczjANTaqwBia2zna/a0+S5BuECsY8esmnnDiH+VLQtTytXPqawX8/S3Pifsf4OTEGjnG9a7l7Ea7GAm31JpPIFImTa9iKfZB0Z7A0a1kD6XaD8cb+c07wq39m28jW8DZ2GuB6iEaR5lUExKbXt6i0AWK8WGArGW8K2E093WtsjcTl9f5GLnTidnf24VcGRqAYBE1x5f5xTSQD1JTDEifvfChwG2RUz5J7QQ+tl3RiUH0BQacoXL6AfxzpHMAAAA==",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "ec8e6252b08c472a01fe71907dfd0b0fab48a0b2bc8f91fad1add64bac3b674d",
  "baseType": {
@@ -190,7 +189,7 @@
    "iconPath": "2ff2777d6f3abdd88bed93864e6b37ce1bfddf0c8982113629eccaff1928a985",
    "name": "Lupitoxin Sawteeth",
    "desc": "เขี้ยวดูดเลือดที่ Borisin เหลือทิ้งไว้จากการต่อสู้ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ทำลายล้าง</span>ได้ปานกลาง",
-   "lore": "Borisin มองว่าเขี้ยวคืออาวุธที่แหลมคมของผู้พิชิต<br />ในสายเลือดของ Borisin มีแรงกระตุ้นอันบ้าคลั่งไหลเวียนอยู่ เมื่อ Lupitoxin ถูกกระตุ้น พวกเขาจะกระหายเลือด และไม่มีอะไรที่สามารถต้านทานได้<br /><br />\"ท่าน Brood Lord โปรดมอบร่างกายที่แข็งแกร่งดุจเหล็กก้า ให้แก่พวกเราด้วยเถิด\"",
+   "lore": "Borisin มองว่าเขี้ยวคืออาวุธที่แหลมคมของผู้พิชิต<br />ในสายเลือดของ Borisin มีแรงกระตุ้นอันบ้าคลั่งไหลเวียนอยู่ เมื่อ Lupitoxin ถูกกระตุ้น พวกเขาจะกระหายเลือด และไม่มีอะไรที่สามารถต้านทานได้<br /><br />\"ท่าน Brood Lord โปรดมอบร่างกายที่แข็งแกร่งดุจเหล็กกล้า ให้แก่พวกเราด้วยเถิด\"",
    "purpose": "วัสดุ Trace <br />วัสดุเลื่อนขั้น Light Cone",
    "rarity": 3,
    "rewardPath": "/material/920207",

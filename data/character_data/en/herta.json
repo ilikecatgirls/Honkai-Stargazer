@@ -6,9 +6,8 @@
  "fgPath": "6cf0ea545601fc51a9f9b8066e93fa340793f41ad99b97209f7158de03e2f37e",
  "splashIconPath": "7614446d60a6a3edef33331f2a6f5a24e2f0bac8ab84cb24364c7d379346d060",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRooCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAgBAAABkGxt27Et5/O8v+0/27Yb27ZrViPbtm3X1Bi7cbvQ1HpxX+HDLkTEBJClo2kh0CBI5QOA4t0FQJ9WOPAeIKD/1twBvrzpQIIggBm78j1td8/d24vi0StqgKGHQ42Ad/fXdAGqtk1tuu/GJ0XJh5NLty2vobowgC1fJUUySWdHNO/QvoDu76UwSmRKwki3vAdOKEpkJjOThVpEDk0v2v+SzEyxXgEsU2ym1GamYXgOK8ok0dd2OLYpSWeW6FMjHN1NZjJJJsX6WAR0/Kb4P5MlUazHODwTpSSOojiMpfDKWDzAg59K/ePExul4UrZ5+WLNwXt7N7cmrxcuVco2gAdHhoEvzPEOHABWUDggXAEAAJAHAJ0BKhQAFAA+bTCTRyQioaEoCqiADYlsAJ0yhHAv8IxEhAYKBqGe8eViU5+7NOzKwZvnXq5ezphrnvRvGmvuPqPRAADMk1KL9xOFXk6og5kxuSbtufWdXALm19F2BWbSHskQJjCA15xaT63yIdjN2qFL11H1nDF4f4k/euXhZD4Ev32U9k174S8fXRVOSP9W5fTF8cBqjI5BlbhuhZv8v+37PP5Dun8v3fuXsKJHmWpauW/zfVTN1oreXahM9uy41zEVX7WKyTHNUYtSkBKx3+oAox/weJ+tNSfx88IH3Fn1TklNU+fquPrpn6+vehdLXIbuasQnd8fuf+m1xARuc3vM/sRd0AcvaHwCKN8zfc1mnxJ+9CMcdKlIgTMV7weeQyj/+xutn0uTgDx6Hy7MnqnrbAtBmiPzoGvRCAZOr4/Jemae/gsG2FWsMO1sg0FLGtQaVrHcQQAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2582,7 +2581,7 @@
   },
   {
    "title": "Character Story: Part III",
-   "text": "Recent research progress on the space station has been hampered by the impact of the accident. Several researchers have been blaming themselves for betraying Madam Herta's trust and preference. May I ask: Do you have anything you'd like to say to everyone?<br /><br />\"Nope. Keep up the great work.\"<br /><br />Everyone wishes to contribute to your scientific research, Madam Herta...<br /><br />\"No thanks.\"<br /><br />Indeed, no researcher could ever hope to match Madam Herta's scientific ability, which is why we're deeply impressed by your wisdom and insights. Could you please tell us, Madam Herta, whether you have any research recommendations for everyone? We'd love to learn from you!<br /><br />\"No.\"<br /><br />Madam Herta, your intellect and talents are obvious to all, but normal people like us could never hope to be like you... Could you please give us any pointers, such as in what domain we might devote our limited cognitive resources to?<br /><br />\"You should go home and sleep.\"",
+   "text": "Recent research progress on the space station has been hampered by the impact of the accident. Several researchers have been blaming themselves for betraying Madam Herta's trust and preference. May I ask: Do you have anything you'd like to say to everyone?<br /><br />\"Nope. Keep up the great work.\"<br /><br />Everyone wishes to contribute to your scientific research, Madam Herta...<br /><br />\"No thanks.\"<br /><br />Indeed, no researcher could ever hope to match Madam Herta's scientific prowess, which is why we're deeply impressed by your wisdom and insights. Could you please enlighten us, Madam Herta, with some research advice for everyone? We'd love to learn from you!<br /><br />\"No.\"<br /><br />Madam Herta, your intellect and talents are obvious to all, but normal people like us could never hope to be like you... Could you please give us any pointers, such as in what domain we might devote our limited cognitive resources to?<br /><br />\"You should go home and sleep.\"",
    "unlockRequirement": "Unlocked at Character Level <nobr>60</nobr>"
   },
   {

@@ -6,9 +6,8 @@
  "fgPath": "6842366bfe6b21e4f7927de23251acbac7710a6995d6d5ad3f6fcf1f8728f440",
  "splashIconPath": "cb8b1e8e90176861cda2ed901b194688fc571573f3875b506fd5eef3425bc52d",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBgBAAABkHNb27HH2q/n/WLbtp2MPZVttlOzcqluKla2Udq2bVvv+z3XFSciJgBdNEAgOjtxz7GNA4GsuI4czFbb0RET0bEPO/XH/1fHl+XDdGLwJ1n93nwhHO36ggGUnZen73Oux7cXm940t/9iWbq6dKYEBnDQvTZ5/I+/oqS/n0fDBzgJR+9Pm/nXsq2rxfDBoOyzbjyjFSn6tT7NgcHkD5QkSqTV6h4AkH1BriVJiVYnZwEmtnrRS5GiJJL/VsUAOUMbFt72i2rHak0AHPQ6+/0XRVGkXF0xcDBEkiiKpJW7HDCIPCzP83ueZ2X1oAEGMEjaoPb/68LY7skAYFCwYOu+9Vs2vfvw9MCCbHQcsnB8XFr9kJHDImEAVlA4IC4BAABwBQCdASoUABQAPm0ylEekIqIhKAgAgA2JQBicgmxEGhfkLY+oza9f8o7rXPqL/qCs7GkAAP73fYgmb/tUJrb1Ac/t0G9oUn6gsXboeduu52XKgV/GctGDPF/QdGAmyZosf9QDksEUK7XO7OYsoDRfwGkCWyIHI/H/pcsjUoG/Yllg+yM0FqFueCcYZMBTbiftCL6XY7QaQ8n3GSER90qe7/AewGPz/x6F/TZv8/8VXfvLIp/+aSjoB1WY2X/Rw539oOr8QKG6t5zJz69wL/6/mUmjdKsWM9+vW/9o+msEFWPNrBf+hY0D+OZVte4Nb2f51+HY5yneDfvwEK5BXjFkHT9AMH81z5RLLPhsW7X/xvQBHr8yQnijfx9m8qvxswT/nZPDQnk4ekRgAAAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "df764a5759a0dca82769c6f3b9d0c49fc112137b5c7e7cf0fe97c158667b35d0",
+   "iconPath": "4b2f6a82ca5832faabb21365f8e801c9294eabdcfe332bd0391a19bc78f57864",
    "artPath": "b434b6fb86e3b72574dcd5aa2e2b043d1020ef54067bdfa51ca183c33ec326c3",
    "name": "高天寥落真言始",
    "descHash": "对处于负面效果的敌方目标造成伤害时暴击率提高<nobr>#1[i]%</nobr>。",
@@ -450,7 +449,7 @@
   },
   {
    "id": 2,
-   "iconPath": "0b8497d7bbbbd66c4fb49a5f303473bea784cc4654589c5bf1898819ff4de0a4",
+   "iconPath": "cd5b2875fb57c9169388dd2614bcb1d40c9faec35a6f5438fa352e2d1d457847",
    "artPath": "a3538ce5431936c85fbdf5315b3492172121bbda4430c2eda2bda0db888872ad",
    "name": "霆鼓俱寂，瑟风亦止",
    "descHash": "行迹【奈落】最高数值所需求「虚无」命途角色的数量减少1名，自身回合开始时获得1点【残梦】，同时为【集真赤】最多的敌方附上1层【集真赤】。",
@@ -458,7 +457,7 @@
   },
   {
    "id": 3,
-   "iconPath": "6ecdff74c736876295c3a2969409ec038408c32dd6bdad0549016d770b05b948",
+   "iconPath": "230b424511fcd8cf762fd715267b48490c72f14fada5a9355b92fd5a9252985b",
    "artPath": "a304e8ba19df70f659e15e0ee7c414a11f3c42856b45926818527fdee620a026",
    "name": "寒肃惊永蛰",
    "descHash": "终结技等级+2，最多不超过<nobr>15</nobr>级，普攻等级+1，最多不超过<nobr>10</nobr>级。",
@@ -466,7 +465,7 @@
   },
   {
    "id": 4,
-   "iconPath": "0b76fa7437b3ea59213281fcc50a0c10399dae3858d8ba583cfcebc3a9a8a24b",
+   "iconPath": "c31e039f4b95129e0d94b103f2f2d103313d451d651a2ec9a7297163ffa72637",
    "artPath": "96fcdaa2e5e9e27b10167c2b9c80041c606ac4a14b490971f9d85a5abbc65132",
    "name": "亘焰燎照镜中人",
    "descHash": "在敌方目标进入战斗时，使其陷入终结技伤害易伤状态，受到的终结技伤害提高<nobr>#1[i]%</nobr>。",
@@ -476,7 +475,7 @@
   },
   {
    "id": 5,
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "artPath": "c37fcc04adc70fd9e069134d95e9b81ebe81e3d75473da22d092b8634c739b85",
    "name": "崇岩支离，千身飘零",
    "descHash": "战技等级+2，最多不超过<nobr>15</nobr>级，天赋等级+2，最多不超过<nobr>15</nobr>级。",
@@ -484,7 +483,7 @@
   },
   {
    "id": 6,
-   "iconPath": "ba4559da01571e6233428c99d0c8b742d2a10b64aadfb1702bf58bffc180b373",
+   "iconPath": "41bf295a83cf97873df78e0a7880441fdcbdf9ba6ab21e81168adf2439206487",
    "artPath": "f82f081f46888b3743c68c1080edc8459c751c0a8866386cdfa09f1928eda895",
    "name": "灾咎解桎梏",
    "descHash": "黄泉造成的终结技伤害全属性抗性穿透提高<nobr>#1[i]%</nobr>，施放普攻、战技造成的伤害同时视为终结技伤害，并无视弱点属性削减敌方韧性。击破弱点时，触发雷属性的弱点击破效果。",
@@ -523,7 +522,7 @@
    "energy": "0",
    "id": 639823,
    "name": "三途枯榷",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +683,7 @@
    "energy": "0",
    "id": 355296,
    "name": "八雷飞渡",
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "typeDescHash": "战技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -989,7 +988,7 @@
    "energy": "0",
    "id": 439237,
    "name": "残梦尽染，一刀缭断",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1354,7 +1353,7 @@
    "energy": "0",
    "id": 154710,
    "name": "红叶时雨，万倾一空",
-   "iconPath": "4991aa8fe3558d340c3ef2bfd5f5d9096798e6000b7e4eb0ffa01c0c148745b2",
+   "iconPath": "221738a182c2b155974a4c0c07b3a617e6dbd1d1511c63575ee795f4801160ad",
    "typeDescHash": "天赋",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1644,7 +1643,7 @@
    "energy": "0",
    "id": 954124,
    "name": "攻击",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1666,7 +1665,7 @@
    "energy": "0",
    "id": 70769,
    "name": "四相断我",
-   "iconPath": "f994082615a6791b3f40f7fb5a4dd56345f3061eeafb844157a0cb3c1dfe8aff",
+   "iconPath": "e8eeade7747ffa2975fd8ef9f5ddc16f7a58784a2e2563665231630a5df3f390",
    "typeDescHash": "秘技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1691,7 +1690,7 @@
    "energy": "0",
    "id": 154711,
    "name": "啼泽雨斩",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1996,7 +1995,7 @@
    "energy": "0",
    "id": 271356,
    "name": "啼泽雨斩",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2301,7 +2300,7 @@
    "energy": "0",
    "id": 954125,
    "name": "啼泽雨斩",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2606,7 +2605,7 @@
    "energy": "0",
    "id": 70770,
    "name": "黄泉返渡",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2987,7 +2986,7 @@
     "ultimateCost": 0,
     "id": 76442,
     "name": "赤鬼",
-    "iconPath": "9522620e04f20b7d6b642d2e754f803373455ce52fabf7453a61015d11a48281",
+    "iconPath": "3b9e60fa6b782292abd846f1713b011be0ef91600abd22723c5243e7f058f5b4",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -3129,7 +3128,7 @@
     "ultimateCost": 0,
     "id": 76445,
     "name": "奈落",
-    "iconPath": "5b174d18d7e7d6aa171e07c508de164561b3c659c70e8ef91f60dc9088a477a1",
+    "iconPath": "d09b4f4b65a0a0e321126847e90435cbbbe8ee6ab8699f0906754cc21756e1d0",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -3240,7 +3239,7 @@
     "ultimateCost": 0,
     "id": 76444,
     "name": "雷心",
-    "iconPath": "45e2ef4d90a9f7a28abfea0bfaf688c119eee1ffe447a2f8c6cc025f0771c7ea",
+    "iconPath": "d355b39e44c731c0f9b7ebb3f9c97541c73581178e115717bbc1635c8e67c44f",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -3425,12 +3424,12 @@
   {
    "id": 6,
    "title": "关于自己•身份",
-   "text": "Coming soon - Stay tuned!",
+   "text": "梦原本没有意义，赋予其意义的是生命的底色。但如果色彩是一片「虚无」…梦也只剩下黑白的空壳。",
    "unlockRequirement": "完成开拓任务「行过死荫之地」后解锁",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "e894a180a9981608b4c57431079623e4d13d0054cbe9a246462eea85a7491d9c",
+   "jpUrl": "2bf5db4dde1d16760266c2956d9126485b2c2a3922e94f321409c97609794e9a",
+   "enUrl": "7d605dc4ac9c7395467e9d5ebb93e8c2734a0fccd758fc8c4a35d249f3969fb2",
+   "krUrl": "2468f13e9707e8d1240d48d6b2793836f685a18fce410fa37b13d1db031c26b8"
   },
   {
    "id": 7,
@@ -3475,12 +3474,12 @@
   {
    "id": 11,
    "title": "烦恼",
-   "text": "Coming soon - Stay tuned!",
+   "text": "从彼岸醒来时，海的尽头残存雷鸣，漫天血雨刚好飘落——唯有这一刻的所见，无比清晰地留在眼底。而那之前与之后的记忆，都黯然失色，逐渐褪去。",
    "unlockRequirement": "完成开拓任务「行过死荫之地」后解锁",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "c6e3372573e30d0399079e4cf02ae8cd4c7da61603aca30dbb51045c980ac58e",
+   "jpUrl": "a047f85153c68597b61849acdfe9bb6a13fa901db41f7514ad23caebc97965e3",
+   "enUrl": "c398f29352076918b50d85342f03b741cae5aec4ed43c1690ac9b28a04dd59a2",
+   "krUrl": "ad799c9fd195e7b5a05a6a24bfc1864e5ee931e62a5d6d9984c931ab7861d45b"
   },
   {
    "id": 12,
@@ -3489,7 +3488,7 @@
    "unlockRequirement": "",
    "cnUrl": "de6dcc427794a3897ee79f1a0c3af4d9ad76f8a1e5a88b33a10c321fe319b5cc",
    "jpUrl": "677b38e00145fa37daaa71ca394a9ac88a233c0e833df62ba80934cf16231c5e",
-   "enUrl": "25a85b55b639a8172d034f42c50cf1a57536e389da3165cbda9f81a8754bc1a7",
+   "enUrl": "1438b357b3ce5962d3fa521dc251220e79cd49439fc4e7cfecc75a8e3dc8c5ce",
    "krUrl": "bb3432ece2a51edf1c8851dfa91fbbdf43fb978970cb9d3d8cea2a8a5fa16b2c"
   },
   {
@@ -3515,12 +3514,12 @@
   {
    "id": 15,
    "title": "见闻·命途",
-   "text": "Coming soon - Stay tuned!",
+   "text": "人行于命途之上…而后寻索，而后顿悟，而后存在。",
    "unlockRequirement": "完成开拓任务「行过死荫之地」后解锁",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "22cc19dfe635ac6e8a7c59f7cca017ee780aba9f7ba1e8350831914d6e8af883",
+   "jpUrl": "babe5ee9d6a6feaa54b5ae44851b83f4984e373f115a5fae14a49b4b282aaddc",
+   "enUrl": "55362848ae88e0e5fc6a4bc702a4f1237ad0beb112379c475cf15afe02f4691d",
+   "krUrl": "e7b4944732f4f07d1c4ef8abd2847b0af4f5f888a709d898962417399ae9e284"
   },
   {
    "id": 16,
@@ -3661,6 +3660,26 @@
    "jpUrl": "d9509528f3e8a4d73459b1303d41d60d85a2b68015a569eac05abe719cef9299",
    "enUrl": "b5fa0dda88deea8498c474a3f5a1f2f16f7ee1ce2bef31c61fc5d55a5b7eb110",
    "krUrl": "e6cab93f80f2c2269cda7f9a17797add8cc6d8a75638dbe2abd5ce17bc643e42"
+  },
+  {
+   "id": 30,
+   "title": "关于波提欧",
+   "text": "巡海游侠…组织只是他行事的掩护，看得出来，这个男人只为自己而活，这也是我相信他的原因。",
+   "unlockRequirement": "",
+   "cnUrl": "11bef2f1393fee88be482c7b80e4eecf159dff22c53dff07cf5254e0045baaa3",
+   "jpUrl": "d4c4dcaec1a75f8352b5a176aeae3979f3be9c32a35222a305b27b529d51e130",
+   "enUrl": "6b28895670d2707d6009c006ad153caf464e3a9a30449dedcfdfcdd499d3cee2",
+   "krUrl": "ecb611967f5f8f611d7ef0f7ada8ebae6174e407b41b85307e5694d7c1116383"
+  },
+  {
+   "id": 31,
+   "title": "队伍编成• 波提欧",
+   "text": "动作真快…我仿佛能看见你抬起的枪口。",
+   "unlockRequirement": "",
+   "cnUrl": "920e3198955bc657460319070b5eb772d76ddc133bc5977b6d2daed7cd0eea9b",
+   "jpUrl": "3afc98dc66137c9e09feaab97d7c5299727f4f4c3502bc28452136124c32c282",
+   "enUrl": "0bbd53ac6d16e596df6b7e9e5b30f39c9d113c0478b6d24a7244020a021aed63",
+   "krUrl": "2a43910a31a4add9b1250a31b106d9b08efcd2f03302c607e3636abfdb131b4b"
   },
   {
    "id": 51,
@@ -3830,7 +3849,7 @@
    "cnUrl": "0acc28a4f99053d4d8960c0c81e110940ba1553db42f7db992ecff0c1250f46b",
    "jpUrl": "51908b0ad7629a9abf94fda0e1627e50fba3a9cada5f59e07a02f0914b10b6e9",
    "enUrl": "9ca2eab1f57dd43a35fc174d3a063180511c822d9ebdf02b2fc5de259c17da70",
-   "krUrl": "2469e88654b183a9dc08635e8073add024803111f176f6974172bdd5b98f8275"
+   "krUrl": "7afda6b1f112d18625c2a50fb0d7ffa2bf2d1d325b2ebc81623bbf2be485eb1c"
   },
   {
    "id": 68,
@@ -3931,22 +3950,22 @@
   },
   {
    "title": "角色故事·一",
-   "text": "Coming soon - Stay tuned!",
+   "text": "「…并非人选择刀，而是刀选中了人。<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">正如人无法选择命运，而是命运选择人</span>…那一日，看着『刀』经由我手锻成，再被交予少女手中，我意识到，在对抗<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">『八百万神』</span>的道路上，她选择了——或是被选中——踏上那条<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">看似</span>迈向明日的道路。<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">我多么希望</span>这是一个美好的时代，即便出云国依旧面临威胁，人们也依旧怀抱希望，相信<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">恶神</span>会被尽数斩落，天下将重获自由…<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">可直到刀光消陨，我才明白，这是一条没有终点的死路，而踏上它的人们，再无回头的可能</span>……」<br /><br /><align=\"right\">——古老的残卷</align>",
    "unlockRequirement": "完成开拓任务「行过死荫之地」后解锁"
   },
   {
    "title": "角色故事·二",
-   "text": "Coming soon - Stay tuned!",
+   "text": "「…从锻刀者留下的残卷可知，出云曾一度来到破灭边缘。为求存续，他们以<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">『神骸』</span>锻刀，持刀者被奉为救国的英雄。<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">学会对其中的『八百万神』很感兴趣，目前尚不清楚它们与哪条命途有关，而在日后的记述中，出云人对那些刀主的称呼也渐渐从『人』变成了『鬼』。</span><br /><br />遗憾的是，这个世界已经从星图上消失了，历史的真相无处可寻，『记忆』也不复存在。武装考古学派抵达时，星系中只流淌着「神秘」的歌谣：无边的雨自<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">黑日</span>中如泪涌出，微茫的雨幕下，出云国的孑遗背对被<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">她拯救又亲手</span>抹去的故乡…<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">她的前方，只有目不可视的阴影。</span>」<br /><br /><align=\"right\">——「执笔者」奥本海默</align>",
    "unlockRequirement": "完成开拓任务「行过死荫之地」后解锁"
   },
   {
    "title": "角色故事·三",
-   "text": "Coming soon - Stay tuned!",
+   "text": "「我用了『醒觉<nobr>-310</nobr>』制剂，它能让人沉入极深的睡眠，重历过去的回忆。一些患者能以此重拾<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">对生活的信心</span>，但她不同。在她以前，从未有人能主动从沉睡中醒来。我观察了她的梦…那实在难以被称作幸福的记忆：阴沉的天空、破败的城市、废土残垣，还有连绵不绝的细雨。<br /><br />那雨仿佛永远不会停下，在高涨的潮水中，人们在溺亡中微笑。而在沉沦的黑夜，我总能听见遥远的雷声在迫近，直到某一刻，雷光乍现，将黑夜撕裂。在破碎的天空下，我又看见了她——在褪色成无的世界里，她轻轻挥出一刀，将整片梦境带走。<br /><br />我必须承认，在这条路上她走得远比我们更深。那无可捉摸的<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">『虚无』</span>引领她走向<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">自灭</span>，她却在无形中将其执握于手。也许在旅途之初，她就已准备好面对真正的敌人…<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">我曾向她提问，这一切有何意义？但她并未作答。是她不知晓如何回应，还是她心中早已有了答案？</span>」<br /><br /><align=\"right\">——某位<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">混沌医师</span>的手记</align>",
    "unlockRequirement": "完成开拓任务「行过死荫之地」后解锁"
   },
   {
    "title": "角色故事·四",
-   "text": "Coming soon - Stay tuned!",
+   "text": "「我把这封信留在这里。如果我没能回来，就由它来讲述她的故事，一位我在<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">俄尔刻龙</span>邂逅的同伴。迈向彼岸的路艰难无比，幸亏有她同行，我才能一路平安无事。<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">初见面时，我总觉得她似乎背负着某种使命，是「复仇」吗？恐怕不是。一个心怀仇恨的人总会在某些时刻将其展露，但她永远那么平静，除了偶尔流露出的一丝悲伤……</span><br /><br />…在我们相遇前，她已去过许多世界，各种生活技能都十分熟练。我和她一起在野外烹饪和搭帐篷，那些没有星星的夜晚，她会听我讲故事，和我讨论明天要做什么。更多时候，我们只是在默默行路。这里的雪是紫红色的，尝起来有树莓的酸甜。她<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">已尝不出多少味道，但依然</span>会赞赏我做的俄尔刻龙雪团子……<br /><br />…在认识她以前，我曾长年在<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">『虚无』的</span>河流中跋涉。她向我伸出了手，我们便一起在这条河流中同行。如今，分别的时候到了，我还没走到岸边，也不知道即将面对的是什么…但我没有理由停下脚步。生命无非是一条终有尽头的道路，在此之前，我会用自己的双脚走到终点。我相信她也一样。」<br /><br /><align=\"right\">——<span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">「扶里巴斯」</span>的笔记</align>",
    "unlockRequirement": "完成开拓任务「行过死荫之地」后解锁"
   }
  ],

@@ -1,0 +1,524 @@
+{
+ "name": "Hacia una segunda vida",
+ "rarity": 5,
+ "descHash": "Sintió como si cayera al fondo del mar. Todo lo había abandonado, y lo único que le quedaba eran pensamientos que saltaban y luchaban en el vacío.<br /><br />El miedo, la inquietud, la soledad, la oscuridad, la ira... Esas emociones no se disiparon con su cuerpo físico, sino que se conservaron de un modo distinto en la carcasa mecánica, más opresivas aún.<br /><br />Oyó los gritos de los difuntos, percibió el olor a quemado, un zumbido de maquinaria le rondaba los oídos, y la nueva sangre azul fluyó hacia su sediento corazón... Algunos recuerdos crueles salieron a flote, mientras el odio imborrable se convertía en una débil luz en la oscuridad. Siguiendo la luz hasta el final, salió del agua con sus últimas fuerzas.<br /><br />Abrió los ojos y, después de los cegadores destellos, escuchó las felicitaciones del sanador...<br />\"Bienvenido de nuevo a este mundo\".<br />Apretó fuerte los puños, hechos ahora de acero...<br />Ya no viviría para sí mismo.",
+ "iconPath": "dd3c33855ff56bcd2c92b84dd39d1ce3ed2ea3e9568c1e35146239e60b5494e9",
+ "artPath": "e0a5e44412c56813dd7a8461ee48440234c1838d1cf66e2c603d39a3debcbf7a",
+ "artPlaceholder": {
+  "w": 0,
+  "h": 0
+ },
+ "mediumIconPath": "29ddc129f6c7f35649e41c22173ce8961c3ac397aa7570a900a7c4206665adc5",
+ "baseType": {
+  "id": 0,
+  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
+  "color": "#FFFFFF",
+  "name": "Cacería",
+  "rarity": 0
+ },
+ "baseTypeId": 0,
+ "itemReferences": {
+  "29328": {
+   "id": 29328,
+   "type": 101,
+   "purposeId": 11,
+   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "name": "Crédito",
+   "desc": "Divisa que utiliza la Corporación para la Paz Interastral para sus cuentas con los clientes y que se acepta en todas partes como moneda de los viajes espaciales.",
+   "lore": "\"La gente corre, se pelea y comercia por algo que no son más que números en una terminal, pero lo que es verdaderamente valioso no se puede comprar\".",
+   "purpose": "Moneda común",
+   "rarity": 3,
+   "rewardPath": "/material/29328",
+   "comeFrom": [
+    "Cáliz de la mina principal",
+    "Cáliz de la Comisión de Artesanía",
+    "Cáliz del Hotel Fantasía (paisaje onírico)",
+    "Recompensa de misión",
+    "Recompensa de encargo",
+    "Canjeo de Ascuas"
+   ]
+  },
+  "549210": {
+   "id": 549210,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "ae1751bde54881f61c4a931b60e2923b8032ce91241561aeb6ed88ac8ee27797",
+   "name": "Jirones de pensamientos",
+   "desc": "Fragmento de una memoria fugaz. Material simple que se usa en la potenciación.",
+   "lore": "Dentro de la Zona de los Recuerdos, miles de pensamientos se dispersan como el polvo. Fragmentos de ideas que sirven como alimento para los memes.<br /><br />\"Un pensamiento fugaz que podría desvanecerse en el aire o acumularse hasta convertirse en una obsesión\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de personajes",
+   "rarity": 2,
+   "rewardPath": "/material/549210",
+   "comeFrom": [
+    "De Memes de la Zona de los Recuerdos",
+    "De enemigos en el Universo Simulado",
+    "Recompensa de encargo",
+    "Canjeo de Ascuas",
+    "Máquina sintetizadora multiusos - Intercambio de material",
+    "Cáliz (oro)"
+   ]
+  },
+  "633151": {
+   "id": 633151,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "d76fcb744e5bf3574f3fa68b6e66adfefdf41b1652d1dd788b0dbe68407b1e0d",
+   "name": "Fragmento de impresiones",
+   "desc": "Fragmento de una memoria profunda. Material corriente que se usa en la potenciación.",
+   "lore": "Dentro de la Zona de los Recuerdos, los recuerdos se materializan como destellos fugaces de luz. Solo los fragmentos entrañables se convierten en los cimientos de los memes.<br /><br />\"Los recuerdos son más que réplicas del pasado, son una reconstrucción de las emociones pasadas\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de personajes",
+   "rarity": 3,
+   "rewardPath": "/material/633151",
+   "comeFrom": [
+    "De Meme de la Zona de los Recuerdos (nivel de Equilibrio 2 o superior)",
+    "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "De enemigos en el Universo Simulado",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "635681": {
+   "id": 635681,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "4d41db3fdd9d25351202ba113297b0120b2fe75c9812979f82fb9fe9699a79c7",
+   "name": "Perdigón meteórico",
+   "desc": "Perdigones de hierro hechos para cazar monstruos. Las marcas que hay en ellos parecen registrar el número de presas que murieron por su culpa. Sirve para mejorar ligeramente los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Cacería</span>.",
+   "lore": "El Cuerpo de Arqueólogos Armados encontró estos perdigones de hierro entre los restos de varios monstruos. Los análisis radiactivos confirman que se originó en una era antes de la existencia de la humanidad, y que las criaturas contra las que fueron disparados eran las últimas supervivientes de alguna tribu de monstruos.<br /><br />\"No hay diferencia entre morir de viejo y morir de un balazo. El camino del cazador no conduce a ningún destino sagrado o pecaminoso\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de conos de luz",
+   "rarity": 2,
+   "rewardPath": "/material/635681",
+   "comeFrom": [
+    "Cáliz del Recinto de las Audiciones FelizAlma™ en la Arena Ardiente",
+    "Canjeo de Ascuas",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "694487": {
+   "id": 694487,
+   "type": 601,
+   "purposeId": 5,
+   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "name": "Éter refinado",
+   "desc": "Material de mejora para los conos de luz. Otorga <nobr>6000</nobr> pts. de EXP de cono de luz.",
+   "lore": "Un bote de éter extraído y destilado usando un proceso especial.<br /><br />\"El Jardín desea recrear una gloria pasada, pero una que elijan ellos, ¿lo entiendes?\".",
+   "purpose": "Material de EXP de conos de luz",
+   "rarity": 4,
+   "rewardPath": "/material/694487",
+   "comeFrom": [
+    "Cáliz del Paso del Remanso",
+    "Cáliz de la Comisión de Adivinación",
+    "Cáliz de Sueño infantil",
+    "Salón olvidado"
+   ]
+  },
+  "694488": {
+   "id": 694488,
+   "type": 601,
+   "purposeId": 5,
+   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "name": "Éter condensado",
+   "desc": "Material de mejora para los conos de luz. Otorga <nobr>2000</nobr> pts. de EXP de cono de luz.",
+   "lore": "Recipiente con éter procesado mediante una técnica especial.<br /><br />\"Transpórtese con cuidado. No debe caerse al suelo ni recibir presión. Si se produce un daño o una fuga, consulte el capítulo II del «Manual de respuesta a los accidentes de fuga»\".",
+   "purpose": "Material de EXP de conos de luz",
+   "rarity": 3,
+   "rewardPath": "/material/694488",
+   "comeFrom": [
+    "Cáliz del Paso del Remanso",
+    "Cáliz de la Comisión de Adivinación",
+    "Cáliz de Sueño infantil",
+    "Canjeo de Ascuas"
+   ]
+  },
+  "694489": {
+   "id": 694489,
+   "type": 601,
+   "purposeId": 5,
+   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "name": "Éter disperso",
+   "desc": "Material de mejora para los conos de luz. Otorga <nobr>500</nobr> pts. de EXP de cono de luz.",
+   "lore": "Sustancia imaginaria que no debería existir en la realidad. Es el material básico para crear conos de luz.<br />Al inyectar esta sustancia en el cono de luz, las imágenes que contienen se vuelven más nítidas.<br /><br />\"Oh, así que esto es la materia consciente del Jardín de los Recuerdos. No me extraña que los Guardamemorias se lleven recuerdos en sus viajes galácticos\".",
+   "purpose": "Material de EXP de conos de luz",
+   "rarity": 2,
+   "rewardPath": "/material/694489",
+   "comeFrom": [
+    "Cáliz del Paso del Remanso",
+    "Cáliz de la Comisión de Adivinación",
+    "Cáliz de Sueño infantil",
+    "Recompensa de encargo"
+   ]
+  },
+  "717092": {
+   "id": 717092,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "ac85858f27838b734365e77343aabcdbaf56463c492b153cfb4ebd64c04f659f",
+   "name": "Fragmento de deseos",
+   "desc": "Fragmento de memoria de un deseo obsesivo. Material avanzado que se usa en la potenciación.",
+   "lore": "En la Zona de los Recuerdos la memoria de los deseos sigue creciendo. Se alimenta de pensamientos e impresiones y nutre el espejo del deseo, reflejando las inquietantes sombras de los memes.<br /><br />\"La memoria apunta al pasado, mientras que las ambiciones apuntan al futuro. Los deseos de la memoria provocan que los sueños se distorsionen y los demonios emerjan de las profundidades de la mente.\"",
+   "purpose": "Material de Rastros<br />Material de ascensión de personajes",
+   "rarity": 4,
+   "rewardPath": "/material/717092",
+   "comeFrom": [
+    "De Meme de la Zona de los Recuerdos (nivel de Equilibrio 4 o superior)",
+    "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "De enemigos en el Universo Simulado",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "836267": {
+   "id": 836267,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "851c201a74315dde58ba432e418f95ed5289cfd4247d1689d787bbeea2627a44",
+   "name": "Disparo antitemporal",
+   "desc": "Una bala helicoidal dirigida siempre contra las flechas del tiempo. Como un sabueso que persigue eternamente la inmortalidad que desafía al tiempo. Sirve para mejorar en gran medida los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Cacería</span>.",
+   "lore": "Eran las cenizas de un Devastador, un botón para erradicar una civilización. El último lamento de una bestia ancestral... ¿Cuántos materiales letales se necesitan para forjar una munición como esta? ¿Y qué clase de arma era capaz de dispararla? Es la solución a todo, no el problema.<br /><br />\"Corre. Corre a cualquier intervalo en el tiempo. Acabará encontrándote, y te clavará a tu destino\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de conos de luz",
+   "rarity": 4,
+   "rewardPath": "/material/836267",
+   "comeFrom": [
+    "Cáliz del Recinto de las Audiciones FelizAlma™ en la Arena Ardiente",
+    "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  },
+  "920208": {
+   "id": 920208,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "f10357d7a1a6625ee12b9be735f07e201970a32df33ba4e430311573d23a6f3b",
+   "name": "Deceso predestinado",
+   "desc": "Incrustada en el ceño de la víctima, atravesando las grietas de la materia, esta bala siempre se alojará donde el agujero de bala debería estar. Sirve para mejorar moderadamente los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Cacería</span>.",
+   "lore": "Voló por caminos tortuosos entre las huestes, y atravesó el punto más frágil de su sólido casco para, finalmente, alojarse en el cráneo de un tirano implacable mientras susurraba un leve respiro. Su aparición fue como una coincidencia mortal. Su aparición fue como el destino final que aguarda a todos.<br /><br />\"A veces, el agujero de una bala aparece antes que su trayectoria\".",
+   "purpose": "Material de Rastros<br />Material de ascensión de conos de luz",
+   "rarity": 3,
+   "rewardPath": "/material/920208",
+   "comeFrom": [
+    "Cáliz del Recinto de las Audiciones FelizAlma™ en la Arena Ardiente",
+    "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "Canjeo de Ascuas",
+    "Máquina sintetizadora multiusos - Intercambio de material"
+   ]
+  }
+ },
+ "levelData": [
+  {
+   "promotion": 0,
+   "maxLevel": 20,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 5000
+    },
+    {
+     "id": 549210,
+     "count": 8
+    }
+   ],
+   "attackBase": 26.4,
+   "attackAdd": 3.96,
+   "hpBase": 48,
+   "hpAdd": 7.2,
+   "defenseBase": 21,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 1,
+   "maxLevel": 30,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 10000
+    },
+    {
+     "id": 635681,
+     "count": 4
+    },
+    {
+     "id": 549210,
+     "count": 12
+    }
+   ],
+   "attackBase": 58.08,
+   "attackAdd": 3.96,
+   "hpBase": 105.6,
+   "hpAdd": 7.2,
+   "defenseBase": 46.2,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 2,
+   "maxLevel": 40,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 20000
+    },
+    {
+     "id": 920208,
+     "count": 4
+    },
+    {
+     "id": 633151,
+     "count": 8
+    }
+   ],
+   "attackBase": 100.32,
+   "attackAdd": 3.96,
+   "hpBase": 182.4,
+   "hpAdd": 7.2,
+   "defenseBase": 79.8,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 3,
+   "maxLevel": 50,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 50000
+    },
+    {
+     "id": 920208,
+     "count": 8
+    },
+    {
+     "id": 633151,
+     "count": 12
+    }
+   ],
+   "attackBase": 142.56,
+   "attackAdd": 3.96,
+   "hpBase": 259.2,
+   "hpAdd": 7.2,
+   "defenseBase": 113.4,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 4,
+   "maxLevel": 60,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 100000
+    },
+    {
+     "id": 836267,
+     "count": 5
+    },
+    {
+     "id": 717092,
+     "count": 6
+    }
+   ],
+   "attackBase": 184.8,
+   "attackAdd": 3.96,
+   "hpBase": 336,
+   "hpAdd": 7.2,
+   "defenseBase": 147,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 5,
+   "maxLevel": 70,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 200000
+    },
+    {
+     "id": 836267,
+     "count": 10
+    },
+    {
+     "id": 717092,
+     "count": 8
+    }
+   ],
+   "attackBase": 227.04,
+   "attackAdd": 3.96,
+   "hpBase": 412.8,
+   "hpAdd": 7.2,
+   "defenseBase": 180.6,
+   "defenseAdd": 3.15
+  },
+  {
+   "promotion": 6,
+   "maxLevel": 80,
+   "cost": [],
+   "attackBase": 269.28,
+   "attackAdd": 3.96,
+   "hpBase": 489.6,
+   "hpAdd": 7.2,
+   "defenseBase": 214.2,
+   "defenseAdd": 3.15
+  }
+ ],
+ "skill": {
+  "id": 23027,
+  "name": "Mar bravo",
+  "descHash": "El efecto de Ruptura del portador aumenta en un <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> y el Daño de Ruptura que inflige el portador ignora un <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> de la DEF del objetivo. Cuando el efecto de Ruptura del portador sea superior al <nobr>#2[i]%</nobr> durante la batalla, su VEL aumenta en un <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span>.",
+  "levelData": [
+   {
+    "params": [
+     0.6,
+     1.5,
+     0.2,
+     0.12
+    ],
+    "level": 1,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   },
+   {
+    "params": [
+     0.7,
+     1.5,
+     0.23,
+     0.14
+    ],
+    "level": 2,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   },
+   {
+    "params": [
+     0.8,
+     1.5,
+     0.26,
+     0.16
+    ],
+    "level": 3,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   },
+   {
+    "params": [
+     0.9,
+     1.5,
+     0.29,
+     0.18
+    ],
+    "level": 4,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   },
+   {
+    "params": [
+     1,
+     1.5,
+     0.32,
+     0.2
+    ],
+    "level": 5,
+    "levelReq": 0,
+    "promotionReq": 0,
+    "cost": []
+   }
+  ]
+ },
+ "calculator": {
+  "expCost": {
+   "1": 60,
+   "2": 100,
+   "3": 170,
+   "4": 260,
+   "5": 370,
+   "6": 500,
+   "7": 640,
+   "8": 800,
+   "9": 970,
+   "10": 1160,
+   "11": 1360,
+   "12": 1580,
+   "13": 1820,
+   "14": 2060,
+   "15": 2320,
+   "16": 2600,
+   "17": 2880,
+   "18": 3180,
+   "19": 3490,
+   "20": 3620,
+   "21": 3760,
+   "22": 3910,
+   "23": 4050,
+   "24": 4200,
+   "25": 4360,
+   "26": 4510,
+   "27": 4670,
+   "28": 4830,
+   "29": 4990,
+   "30": 5160,
+   "31": 5330,
+   "32": 5500,
+   "33": 5670,
+   "34": 5850,
+   "35": 6030,
+   "36": 6210,
+   "37": 6390,
+   "38": 6580,
+   "39": 6760,
+   "40": 6950,
+   "41": 7630,
+   "42": 8060,
+   "43": 8510,
+   "44": 8970,
+   "45": 9440,
+   "46": 9910,
+   "47": 10390,
+   "48": 10890,
+   "49": 11390,
+   "50": 11900,
+   "51": 12420,
+   "52": 12940,
+   "53": 13480,
+   "54": 14020,
+   "55": 14580,
+   "56": 15140,
+   "57": 15710,
+   "58": 16290,
+   "59": 16880,
+   "60": 17470,
+   "61": 18290,
+   "62": 19270,
+   "63": 20260,
+   "64": 21260,
+   "65": 22290,
+   "66": 23320,
+   "67": 24370,
+   "68": 25440,
+   "69": 26520,
+   "70": 27620,
+   "71": 30810,
+   "72": 33710,
+   "73": 36660,
+   "74": 39650,
+   "75": 42680,
+   "76": 45750,
+   "77": 48870,
+   "78": 52030,
+   "79": 55230,
+   "80": 0
+  },
+  "expItemConfig": {
+   "500": {
+    "itemId": 694489,
+    "cost": 250
+   },
+   "2000": {
+    "itemId": 694488,
+    "cost": 1000
+   },
+   "6000": {
+    "itemId": 694487,
+    "cost": 3000
+   }
+  },
+  "sCoinId": 29328
+ },
+ "pageId": "23027"
+}

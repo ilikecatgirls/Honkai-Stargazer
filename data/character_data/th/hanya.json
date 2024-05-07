@@ -6,9 +6,8 @@
  "fgPath": "aa38bcc6a8172825475bf8cda08f53ff1b8838395daab996dfd9d0dfccb67b53",
  "splashIconPath": "c1ca41aeccea99e7840f768fe9999bf816194185def767f83007af0e60d3e0e5",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRn4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBEBAAABkKNt27FH9/t9sW3be3BSOqlsjm1jAa5sd7ZVsbLt+f0+9+D7/zVExATAZxO++5sA/OHv74NCOBAC1M6C6Q2Jg7lnX1+qXMuVUVAWCuELlpH88cbDXvhZIGjkoRbtJl08AigABtpJCqlFaFsaB0Cp1pt0C0UoFM0x+PmhgtQUIUmhm+eiAGMj3RQhKUIhuRwNVx0US1KE2mb/PZQ5cPwDSXq0x6WFPx6vSUlEvU30NwcthbZ7U7Jholr0o68/xjbcnbX+C98+29YTBgMHSD4daQ2d+9Tu0fy9uxBA8JL3JG2XSc3/O/B/8OA7Uj784olpM7ZmA4AygcjaztTwksYIAFCwNODVzzQMeDdMBWUq/A8AVlA4IEYBAABQBgCdASoUABQAPm0wkkckIqGhKAqogA2JbACxHt7A7IA3nTeHiIS0EAMVpdJdEuV5SRIDeasqVQSK8AD+6/5qWcHMwrl8XReEQ5Gefr4ovHAVh9QkYv043Upfm2D+tFS1gZBGayU5N2OE4uMaKcLHGbAz3NAv1aXo1pXmX4UgjRqOj+Yjiy4Zi5cDlKRM9aeGo1l5BR80Fr05Ay3XSHl8+1ES/1oL0+0Hmb/u6rotkCmvIYn4GtBXzEGrECM44l/2EOTZX/j/h03iQJRPDvaIz2NFymQR+NEstVJ+WPTJuMTbYEp2eK825+8CMdk/hCBApsuNVdwuUiiVNSzIBv1cpbL+l7lqWq7Z5GKiUrIkx0jLd7GD/JyZZtTqLrGn6mPiq2Wu3CbClPfJ5wCzVWXh8gijyqhwueCpovXr0i5aXX/gwwAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "bd8d3896d01979ead66758f902d455aef9fb0306e7ac744cf7dfcff4395d5b7b",
+   "iconPath": "05a19e8d2f0c892332b7a5b1cacc7196d894f618e70b79215e1df9736ea3a44c",
    "artPath": "89f72a7473270ff439e41451ba2d6644ed9c977cac0b61affdbcfc199673c9ce",
    "name": "One Heart",
    "descHash": "เมื่อเป้าหมายฝ่ายเรา ที่มีเอฟเฟกต์ท่าไม้ตาย กำจัดศัตรูเป้าหมาย จะเร่งแอ็กชันของ Hanya ขึ้น <nobr>#1[i]%</nobr> โดยเอฟเฟกต์นี้ จะเกิดได้เพียงเทิร์นละ <nobr>#2[i]</nobr> ครั้ง",
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "32d917373e815868d69fdc92db0cf49b6b787f973b395f9b732a76915e658671",
+   "iconPath": "35730bca60ce2b2e7b865b8d7c407f72e056f2600cd75d4dddbe2af00014a369",
    "artPath": "cba36a80d2a62f035ce8e5c2f130e1dae4d94333885abd19dbfea8d72e7a7efb",
    "name": "Two Views",
    "descHash": "หลังจากปล่อยสกิลต่อสู้ ความเร็วจะเพิ่มขึ้น <nobr>#1[i]%</nobr> เป็นเวลา <nobr>#2[i]</nobr> เทิร์น",
@@ -462,7 +461,7 @@
   },
   {
    "id": 3,
-   "iconPath": "84ba61c48fe42b8ce3848d8358773ee7d005fa4a707b9f555b203a8c033ab384",
+   "iconPath": "83a04c881188e877db3ae1168ffcca8b7c10bf201def8e518213e1878b1ce8d7",
    "artPath": "0eb525c9771e696ed40451492b919e50816f82ec73304bfc09ad666cdae4cbe4",
    "name": "Three Temptations",
    "descHash": "เลเวลสกิลต่อสู้ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน Lv.<nobr>10</nobr>",
@@ -470,7 +469,7 @@
   },
   {
    "id": 4,
-   "iconPath": "841dc7f96beb69d7905e339848411a2572ebdc383ccdc80a822cc4bbf9f0be39",
+   "iconPath": "d39c0ed3bbf96ce52b4822541b68906a571b23396e56b293d4e35c21716c3fa5",
    "artPath": "99eef445271a6dd517d0a7f8a5b3951a4f29213df2e1cf245177e9134598c3f2",
    "name": "Four Truths",
    "descHash": "เพิ่มระยะเวลาของท่าไม้ตายอีก <nobr>#1[i]</nobr> เทิร์น",
@@ -480,7 +479,7 @@
   },
   {
    "id": 5,
-   "iconPath": "f3e777a7fd594f390c02e8e625b5a24752758a7d61d50d58da472a0fb11be886",
+   "iconPath": "5b5c3af1f9f0993d33cc341e53fb8e9718d6dc94508995aad5a82a94f6841b20",
    "artPath": "53e607a02823d398e3853c63fc23a9a1a23c4eedbc17da47f3415c2eadd539b7",
    "name": "Five Skandhas",
    "descHash": "เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน<br />Lv.<nobr>15</nobr>",
@@ -488,7 +487,7 @@
   },
   {
    "id": 6,
-   "iconPath": "3ea1ed9febc467c07e9fab4de0bde53a809428fdf9fbe18b669b67c83c992fa2",
+   "iconPath": "66ee74a56b94a0ae8487b1ca7bed78eebce5e03376220eb78820829a3b45bdbf",
    "artPath": "f1da4c8adb20e993717ee70dfa0228763ba727896e52caee1d5e1f10c663ed43",
    "name": "Six Reverences",
    "descHash": "เอฟเฟกต์เพิ่ม DMG ของพรสวรรค์เพิ่มขึ้นอีก <nobr>#1[i]%</nobr>",
@@ -523,7 +522,7 @@
    "energy": "20",
    "id": 581588,
    "name": "Oracle Brush",
-   "iconPath": "c6f118fbc2a0dd70dd917325891ebb3fb286e4d9e262324bb4f33b46ffa30984",
+   "iconPath": "2f48077a892ed60f81dbc0890e1eaf5d49eccec5e634be3dc5011ceb292d936a",
    "typeDescHash": "โจมตีปกติ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +683,7 @@
    "energy": "30",
    "id": 297061,
    "name": "Samsara, Locked",
-   "iconPath": "84ba61c48fe42b8ce3848d8358773ee7d005fa4a707b9f555b203a8c033ab384",
+   "iconPath": "83a04c881188e877db3ae1168ffcca8b7c10bf201def8e518213e1878b1ce8d7",
    "typeDescHash": "สกิลต่อสู้",
    "levelReq": 0,
    "promotionReq": 0,
@@ -970,7 +969,7 @@
    "energy": "5",
    "id": 381002,
    "name": "Ten-Lords' Decree, All Shall Obey",
-   "iconPath": "53adb08d7a56a4667152066de64a63f03c47e982dad085082d3092d120ff4f5c",
+   "iconPath": "0526505dc792aa15996d8e85d2904a5dea879fd93df9483b727dc83f2d3d78e4",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1271,7 +1270,7 @@
    "energy": "0",
    "id": 866115,
    "name": "Sanction",
-   "iconPath": "ad52b1d6074b5510f6982bbef2c6f3c16533283c8ff147b69b92c7aac4b8d73c",
+   "iconPath": "7fca34e644a7068e1834a977f25db445fba5cddf9b678cb6105a5055081c7535",
    "typeDescHash": "พรสวรรค์",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1557,7 +1556,7 @@
    "energy": "0",
    "id": 665529,
    "name": "Attack",
-   "iconPath": "c6f118fbc2a0dd70dd917325891ebb3fb286e4d9e262324bb4f33b46ffa30984",
+   "iconPath": "2f48077a892ed60f81dbc0890e1eaf5d49eccec5e634be3dc5011ceb292d936a",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1579,7 +1578,7 @@
    "energy": "0",
    "id": 782174,
    "name": "Netherworld Judgment",
-   "iconPath": "c3350e770431e8bdd3b1a54dd6dfaa88cec19f5f0400fb2243e440daf96cf7c2",
+   "iconPath": "6a5b3305b1cafd23abec715d2a563cf3b63bc69aac1773fd0fd79caaf662a156",
    "typeDescHash": "เทคนิค",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1674,7 +1673,7 @@
     "ultimateCost": 0,
     "id": 21247,
     "name": "Scrivener",
-    "iconPath": "5e2f9f3bf9c6e86ee9931d9c4c586b8082516d7a5fcaeaec049e90a12dc3b31a",
+    "iconPath": "6d0c6f72b3ac9509041574cfee19dae1860a098a995c931cc1e0d3c1489431cc",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1783,7 +1782,7 @@
     "ultimateCost": 0,
     "id": 21248,
     "name": "Netherworld",
-    "iconPath": "4dd0bba8e68efe285b6272c65f621fa88cf09bd5063acf7499a3fd3110a199ce",
+    "iconPath": "fbce9984a8c994c9666409b67e893076e326b12766b0df18f0f9e74b0da558aa",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1929,7 +1928,7 @@
     "ultimateCost": 0,
     "id": 21249,
     "name": "Reanimated",
-    "iconPath": "118f8cdcde2fd68cf9143ac862fa60d3ab0a17277e58de53ed4d2aed20faeb35",
+    "iconPath": "d8ce53d19b42068ed892932dd3cd49bd898439722b1b7dc477eebf1938496648",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [

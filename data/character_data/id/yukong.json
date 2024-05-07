@@ -6,9 +6,8 @@
  "fgPath": "b5d0c0fca778143dc1b498eed13a93a84f38864c4b98668ee5f6cdfdde8e9b3b",
  "splashIconPath": "cbc92e82df0318c1c5179c971cc3100369680b18f1101057686255c2e02ff3bb",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRqgCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSP0AAAABkKNt27FH9/t9sZ3Sdmo7pZ2pvAV1tlrPdDlmDbY6lTY6fnzvu/ixhoiYACR3AWSUw3UdF8kdAHOH7k4jXQfY/lz63NoycPDKrqwEB/U3JBv5XijpGgxggMcKYlISA20ACUcVUhQTY38GMI55pFiURMrKdiHxhSyVLNJ1GGDHKU9MIjHWeRgckkSlJPW7G7W+QorpBB1YkKVSkLL6tqVo+5NIVGpKL8aAc4pIMYGk3QeTd1ihJIoUafV6+/7V6rVfCrwgskqg1Yd+ACVzfdsiKYyjmLH38GkXHACo333styRZvUHteg1gXBfA4JnNza3DhwcAZCLRuC5SGmMAAFZQOCCEAQAAkAgAnQEqFAAUAD5tMpRHpCKiISgIAIANiWwAnTKEcDeLW4duC8o57f0AbwB6AH6geaB7mxKd/FHqABLumim04f+wOI4KsuDNy4111NwA/tM+xbxChU1+QroDt4OPsYXz+2vqFOqzAxM6ECLwvtPzY00t+mx+CFid/jIX8IyRuWdHfuyw5E5QAi73xifat6pXwKptsIbFqeVLf6YUT3IL6ytKtke8nOxn62iZxfRA+2Vee31Fq/f6hgk1xFEOUTTontTY8uw6OoDtAQf+RvCK+6dr/3l7t/9Qc/s9fwopWW6+Z+9Dv8IP02zcWV4EEdpfdoV5KJajjVGHre84BeiUHrEoqDSgCqfkH4NcqCL23HB5twoCtHBP0/6088xeP/KI3FjWSmz9slQTRMqrSaC9UekCf3JTGwKuaQkpvRVRZc/TAYy6u+WN8mFwupw7XfkyOV9nt/gk5PIL80tHkpT7uC7Vfyt0vbg3/4wiAiTa7JVGT43ipUoAXOacyMM5nkY6tgAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2295,7 +2294,7 @@
   },
   {
    "id": 20,
-   "title": "Level Max Karakter",
+   "title": "Level Max Tercapai",
    "text": "*Huff* Hari ketika aku dianugerahi penghargaan-penghargaan itu masih sangat jelas dalam ingatanku.",
    "unlockRequirement": "",
    "cnUrl": "eb030683d8cb23a1e1e8ef82ac147a53c2724a652feef8e554a287cb6a323778",

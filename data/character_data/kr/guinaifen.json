@@ -6,9 +6,8 @@
  "fgPath": "aa0bdc5240c7a99070ee1a5f69cba8fd6ca5585bafd99e59335828b5746701ec",
  "splashIconPath": "3f1846fef9b484c4b24825e5db7057b3e7cfe9c2d815a5d586fdf1ab11b5dc7d",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRuYCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSCgBAAABkHPbtrG9C9r3+ewvNqtUtrt3fF2Myk4q204q27btpEpts7Od596ziueJiAlQMjczdNi6btkDW8lFSnXq9x5484T7rSVFCUVqQ/gH//l5dXVduYRUsgELAQ90ylNqeT2tw5sR7OOjXWmSmv7CzDCYmlKr99DMFYKBxWxTMm9lZvwSzAAz+zNeZcpaXlEw/RUBA/D8KD19dQGdx4DHDDP7zyrNBd56AmYYZsS91fAnHowU8+wZUNG0FVgIsfexhwAT2jZpln2b2AN/wQJ3z69oXaezVgDvVz1+O/kgvJp/82z3fuM0kLW3Wqj1MU2CU2Ph+6rqqv91UKQczW41GQ9XR3SMJLVqoJrZalxTd3jxZevgqoqUjJRs1rtNm0LJSYqcJDk5JZ2TAFZQOCCYAQAAMAkAnQEqFAAUAD5tMJRHpCKiISgIAIANiWwAnTKEen+c8PM5fAA2wG4A8gDrSee+9ib9svSkJlD0AOaADvxv0a4bcBw5HBYUjDQl4vUfaMJEjAD+9HPFptX/j4Bl4cwo5SzHh+ttpEHoR9ugAcyDCHwZOcC1Gd3tbIR3YC8GnQvOHkXS1RjT8xr/4t/ZOz8zr5wL9wg/Ef6rAYfvw66PLw7/GpAchR+mZ8zXe3cm11/JpBsfpaftrRY+Z7W3jnYt+5bNcx/JeVtDiYZjJ5K+srycSbvwqPyEbqW0fCpvVjmJZ97nKC8WJ91RCnk3Se13Jp4N7nLsXpjRJ8DwDDvcXmAaPnQMrUg56xbAaJG5NUrQgNGNNIo1AKUPmIXYjcUyWgBi1Yb+44qfW1i1OgGy6t4TqJ8sU9nKYwdWdp1XxnwMTXY6/W0xH4RNJ1nMBUW27CifyLmHVgcIK8dyP9Nevrb/9i+6Sv96M9mjfFGPoq+j6j/RgX5O/5GrWt3XGq/w5G7ZXouy0EkwACwy6db2tCdn/vhlKAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "3aa8570476d3d87163f3067a9886c5977396aa663461a08445a01910538c6dae",
+   "iconPath": "a12122f168ad9b092b20d14af111abb16a549512eedfbf46160856e205775ae3",
    "artPath": "c7830f37a3a6ae7a0c728bfade0c5e6edc6fd69f9709ed1e64b2c411cf3d3d76",
    "name": "거꾸로 서서 국수 먹기",
    "descHash": "전투 스킬 발동 시 <nobr>#1[i]%</nobr>의 기본 확률로 피격된 적의 효과 저항이 <nobr>#2[i]%</nobr> 감소한다. 지속 시간: <nobr>#3[i]</nobr>턴",
@@ -452,7 +451,7 @@
   },
   {
    "id": 2,
-   "iconPath": "096b877957aeca420cae7a15cd3407871c6c57f289bd6ab6a32d77875dfbabbe",
+   "iconPath": "d1017e13e43ab7972b934cf0528d37757ce10f879b6dd9e45bdec6b2d1f3f232",
    "artPath": "00ec18d38e9c73cb978fadad0d10744fe4aa06974709f99d658418c660968477",
    "name": "양치질하면서 휘파람 불기",
    "descHash": "적이 연소 상태면 계네빈의 일반 공격과 전투 스킬이 해당 적에게 부여하는 연소 상태의 피해 배율이 <nobr>#1[i]%</nobr> 증가한다",
@@ -462,7 +461,7 @@
   },
   {
    "id": 3,
-   "iconPath": "4e8b7bc7193693d41d76743f41ae3cdf411461316839ef1e99b821b4dd3c9ecb",
+   "iconPath": "7d15d8f32f3fa22c718da5eadfbc816b27a1b8eb2cdeb383f1d29b9f20069b3b",
    "artPath": "cd0d2cf9cb746d314318c87b21d1adec9682a188eef3d9488ec439cf34db0d6f",
    "name": "가슴에 얹은 바위 깨기",
    "descHash": "전투 스킬 레벨+2, 최대 Lv.<nobr>15</nobr>. 일반 공격 레벨+1, 최대 Lv.<nobr>10</nobr>",
@@ -470,7 +469,7 @@
   },
   {
    "id": 4,
-   "iconPath": "c8befe052c570ca5b37930d3f11d4b32b87e6f2c827371061f7a65bc64480f89",
+   "iconPath": "5353ecd7f09a2bf75c4854362260050e3cafa530eb5b150b60df1c1036428e56",
    "artPath": "177418017893a590cc8282c8691f46bda1a573aa9f601a92b9683eebfb2ce9a7",
    "name": "창으로 목 찌르기",
    "descHash": "계네빈이 부여한 연소 상태 피해가 발동할 때마다 자신의 에너지를 <nobr>#1[i]</nobr>pt 회복한다",
@@ -480,7 +479,7 @@
   },
   {
    "id": 5,
-   "iconPath": "9d10546c1bfb019443d3d1f741628f43de17161e6ea6a1f44326fbf19d69d13b",
+   "iconPath": "05f9d0976ab13be450967b8e81e6ddc033965dfcf6ac1d8e897ab7ad32574494",
    "artPath": "76ddc4a55395d4c29e5f57d3e413c2586b61c4219061f3845ac1c2aeff8ffc86",
    "name": "허리까지 검 삼키기",
    "descHash": "필살기 레벨+2, 최대 Lv.<nobr>15</nobr>. 특성 레벨+2, 최대 Lv.<nobr>15</nobr>",
@@ -488,7 +487,7 @@
   },
   {
    "id": 6,
-   "iconPath": "9b218cd3d615fb17579cfaf75d093032e20f294eff961db6a1903628041cd23d",
+   "iconPath": "5721944192441dfc30d6302994c18f206c6d7e314cb971e53348319f86c58531",
    "artPath": "2c061f7d6fe3c9f5d9d36626800f97b9ce3bcd01f851eb2cc921d34d062cd436",
    "name": "맨손으로 총알 받기",
    "descHash": "[불쇼]의 중첩 가능 스택 수가 <nobr>#1[i]</nobr>스택 증가한다",
@@ -523,7 +522,7 @@
    "energy": "20",
    "id": 69091,
    "name": "박수갈채",
-   "iconPath": "37887d1e3b11ec2750f19062e4b3a74e62ebf246a3c5d0e6a426e6c85acf0f21",
+   "iconPath": "c295e81badd7d6f34516c42cdc2143fb8b47f839ba7d70032935790ff2110e2a",
    "typeDescHash": "일반 공격",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +683,7 @@
    "energy": "30",
    "id": 985150,
    "name": "좋은 출발",
-   "iconPath": "4e8b7bc7193693d41d76743f41ae3cdf411461316839ef1e99b821b4dd3c9ecb",
+   "iconPath": "7d15d8f32f3fa22c718da5eadfbc816b27a1b8eb2cdeb383f1d29b9f20069b3b",
    "typeDescHash": "전투 스킬",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1015,7 +1014,7 @@
    "energy": "5",
    "id": 868505,
    "name": "주특기 나갑니다!",
-   "iconPath": "893397ac8f21cffa11837a63ad765f9635aa94adfeab7097e463ea4fd78b271a",
+   "iconPath": "4dbe1142aa3d630a629ae1dead8a7815dfb67b96bee1fc37acac594e2db85a50",
    "typeDescHash": "필살기",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1301,7 +1300,7 @@
    "energy": "0",
    "id": 784564,
    "name": "관중 없이는 예술가도 없는 법",
-   "iconPath": "bcb293514353d131f0763fce0af17937941d0e00146a5f3e0bb5de8fd5893a97",
+   "iconPath": "47b6583b4a7dcf3bbbd42df67c01ae51775e138bd382c37038475d0b0326aea8",
    "typeDescHash": "특성",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1647,7 +1646,7 @@
    "energy": "0",
    "id": 583978,
    "name": "공격",
-   "iconPath": "37887d1e3b11ec2750f19062e4b3a74e62ebf246a3c5d0e6a426e6c85acf0f21",
+   "iconPath": "c295e81badd7d6f34516c42cdc2143fb8b47f839ba7d70032935790ff2110e2a",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1669,7 +1668,7 @@
    "energy": "0",
    "id": 500037,
    "name": "길거리 공연",
-   "iconPath": "45e02a4969efcef19a31a1996c7eaa24c3226bcc30d564a50ac761226129b799",
+   "iconPath": "3e323d01e733f83df40ea09375af9ce0b55aeade74de44eac040224632a9decc",
    "typeDescHash": "비술",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1801,7 +1800,7 @@
     "ultimateCost": 0,
     "id": 709336,
     "name": "장대 타기",
-    "iconPath": "b9a5f0a06a62fd4dea99fbbb5b9b9f3c73fc5f89d3533682779d69ff62f62880",
+    "iconPath": "04f076d48798330c3a7604471b6f8ff72f3e74f0a3805a019288227aab95dcef",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1942,7 +1941,7 @@
     "ultimateCost": 0,
     "id": 709337,
     "name": "장애물 통과",
-    "iconPath": "c8eba4f2030667438047b6af07f2d3743c3472247e3091dffa2adf40941c38a5",
+    "iconPath": "c01ebd03c1b41ecc0f4af4c585ec3e575ce0596ac5eecd1784389d2072a5e6d7",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2052,7 +2051,7 @@
     "ultimateCost": 0,
     "id": 709338,
     "name": "칼날 위 걷기",
-    "iconPath": "644d777feadc1bbd2e4ef52227202a245eba397e191d7328439e4223ff14c6d3",
+    "iconPath": "d78477d94be4d89b223c36683fda906495f98ed684eedcfd07d15efbb712cf5e",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [

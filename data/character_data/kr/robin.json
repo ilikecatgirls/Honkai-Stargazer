@@ -1,0 +1,2755 @@
+{
+ "spRequirement": 160,
+ "iconPath": "eda9eb4d611aebbebc76c9f36463222444d78b763bf41c52f57301da25bfd43d",
+ "bgPath": "7f423fac5a5055f2795b0a2e3aacd03d714016fae7d64991f12ec5397920da3e",
+ "figPath": "73b48269ce73c11adb7b3bf9dd758f5619ae10f0a46b767f8a662dea8d0f4b14",
+ "fgPath": "f2b4f2314295c89f822dc40b202f97035dfaae5abb9ec788d125981ae36c5179",
+ "splashIconPath": "d3f0beaa9b190826b041eeb4bc03404547818b4de65040064e41aa2032712099",
+ "splashPlaceholder": {
+  "w": 0,
+  "h": 0
+ },
+ "damageTypeId": 0,
+ "baseTypeId": 0,
+ "baseTypeTraces": {
+  "id": 4,
+  "iconPath": "55d5339b99655abd5d47c976596bebf22e6e522614fef628f7c875606f3e1abd",
+  "color": "#FFFFFF",
+  "rarity": 0
+ },
+ "itemReferences": {
+  "29328": {
+   "id": 29328,
+   "type": 101,
+   "purposeId": 11,
+   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "name": "신용 포인트",
+   "desc": "스타피스 컴퍼니가 고객과 결산을 위해 사용하던 화폐. 오늘날 우주여행에 널리 쓰이는 경화가 되었다",
+   "lore": "「사람들이 그저 단말 장치에 표시된 숫자를 위해 분주히 뛰고, 싸우고, 거래한다. 하지만 정작 정말로 소중한 것은 컴퍼니의 숫자로 살 수 없다」",
+   "purpose": "통용 화폐",
+   "rarity": 3,
+   "rewardPath": "/material/29328",
+   "comeFrom": [
+    "모조 꽃받침 [큰 광산구역]",
+    "모조 꽃받침 [공조사]",
+    "모조 꽃받침 [「레버리」 호텔-꿈세계]",
+    "임무 보상",
+    "의뢰 보상",
+    "잔화 교환"
+   ]
+  },
+  "125435": {
+   "id": 125435,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "name": "운명의 발자취",
+   "desc": "행적 레벨업의 고급 소재",
+   "lore": "거듭되는 패배가 당신에게 승리를 가져다주었고, 한 걸음 한 걸음의 전진이 당신을 운명의 전환점으로 이끌었다",
+   "purpose": "행적 재료",
+   "rarity": 5,
+   "rewardPath": "/material/125435",
+   "comeFrom": [
+    "시뮬레이션 우주 점수 보상",
+    "무명의 공훈",
+    "잔화 교환",
+    "스타라이트 교환",
+    "한정 이벤트 보상"
+   ]
+  },
+  "409960": {
+   "id": 409960,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "name": "여행 가이드",
+   "desc": "캐릭터 경험치 재료. 캐릭터 경험치를 <nobr>20,000</nobr>pt 획득한다",
+   "lore": "세계를 횡단할 때 반드시 구비해야 하는 모험 총서. 읽기 버튼을 누르면 매력적인 목소리가 독자의 언어로 유명 모험가들의 다양한 세계에서의 모험 전기와 각 행성에서 획득한 값진 지혜에 대해 들려준다.<br /><br />「여행 가이드의 신규 시리즈 ≪우주 요리 가이드≫가 곧 출판됩니다. 많은 기대 바랍니다」<br />「투고는 지식학회 공감각 비콘 <nobr>23</nobr>θ 연락원에게 연락 바랍니다. 원고료는 원하시는 방식으로 지급합니다」",
+   "purpose": "캐릭터 경험치 재료",
+   "rarity": 4,
+   "rewardPath": "/material/409960",
+   "comeFrom": [
+    "모조 꽃받침 [외곽 설원]",
+    "모조 꽃받침 [구름나루]",
+    "모조 꽃받침 [꿈 건축 경계]",
+    "「망각의 정원」"
+   ]
+  },
+  "409961": {
+   "id": 409961,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "name": "모험 기록",
+   "desc": "캐릭터 경험치 재료. 캐릭터 경험치를 <nobr>5,000</nobr>pt 획득한다",
+   "lore": "정갈하게 제본된 모험 일지. 딱 봐도 교육적인 취지의 책이다. 모험의 시작과 끝, 가치 있는 정보와 생존 기술을 삽화와 글로 묘사했다.<br /><br />「왜 데이터화해서 디스크에 넣지 않는 거야? 그게 더 편리한데」<br />「항성 폭풍과 중성자 흐름 분출을 마주할 때, 첨단 기술은 네가 생각하는 것보다 많이 연약하지. 더군다나 이 책을 만든 사람은 이 책이 가장 간단한 방법으로 읽히길 원했을 거야」",
+   "purpose": "캐릭터 경험치 재료",
+   "rarity": 3,
+   "rewardPath": "/material/409961",
+   "comeFrom": [
+    "모조 꽃받침 [외곽 설원]",
+    "모조 꽃받침 [구름나루]",
+    "모조 꽃받침 [꿈 건축 경계]",
+    "일일 훈련",
+    "잔화 교환"
+   ]
+  },
+  "409962": {
+   "id": 409962,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "name": "여행 견문",
+   "desc": "캐릭터 경험치 재료. 캐릭터 경험치를 <nobr>1,000</nobr>pt 획득한다",
+   "lore": "여행 견문을 기록한 일지. 알아보기 힘들 정도로 휘갈긴 글씨로 멋대로 적은 내용은 별 도움이 되지 않는다.<br /><br />「단항, 다 읽었으면 이 폐지 더미는 빨리 버리자」",
+   "purpose": "캐릭터 경험치 재료",
+   "rarity": 2,
+   "rewardPath": "/material/409962",
+   "comeFrom": [
+    "모조 꽃받침 [외곽 설원]",
+    "모조 꽃받침 [구름나루]",
+    "모조 꽃받침 [꿈 건축 경계]",
+    "의뢰 보상"
+   ]
+  },
+  "470781": {
+   "id": 470781,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "name": "별을 갉아먹고 재앙을 낳는 구악",
+   "desc": "행적 레벨업의 고급 소재",
+   "lore": "충황(蟲皇)이 직접 번식한 자손으로서 그의 유일한 욕망은 종족을 확장하는 것이다. 거대한 낫으로 천체를 거두어 둥지를 틀고 무한한 자손을 키워 몰락하는 그 순간까지 수많은 생령들을 도탄에 빠뜨렸다.<br /><br />「부서진 행성 위에 거대한 곤충이 하늘을 가리고 땅에서는 벌레 떼가 쏟아져 나왔다. 사슴벌레는 새로운 둥지를 들어 올려 충황에게 바쳤다. 역사 속 이 참혹함이 다시는 재현되지 않기를…」",
+   "purpose": "행적 재료",
+   "rarity": 4,
+   "rewardPath": "/material/470781",
+   "comeFrom": [
+    "전쟁의 여운 [폐쇄된 캐빈]"
+   ]
+  },
+  "549209": {
+   "id": 549209,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "name": "꿈 저장 부품",
+   "desc": "꿈세계 창조물의 에너지 저장 장치. 강화에 필요한 기본 재료",
+   "lore": "꿈의 파편을 저장하는 용기. 꿈을 건설하는 데 사용되며, 꿈세계 창조물에게 기본적인 에너지를 제공한다.<br /><br />「이것을 장착하면 좋은꿈 극단의 단원 한 명을 얻을 수 있다」",
+   "purpose": "행적 재료<br />캐릭터 승급 재료",
+   "rarity": 2,
+   "rewardPath": "/material/549209",
+   "comeFrom": [
+    "나쁜꿈 극단 드랍",
+    "「시뮬레이션 우주」 적 드랍",
+    "의뢰 보상",
+    "잔화 교환",
+    "「만능 합성기」- 재료 치환",
+    "모조 꽃받침(금)"
+   ]
+  },
+  "589819": {
+   "id": 589819,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "9dcc37e0e0903af3108640d694d154e4d9c54670d5b1de405adc1c283ef3186f",
+   "name": "천상의 소절",
+   "desc": "하늘에서 떨어진 악구의 소절. <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">화합</span> 캐릭터의 운명의 길 행적이 중폭 상승한다",
+   "lore": "질서로부터 흩어진 음률. 마치 사막에 황사 한 움큼이 흩어지듯, 하늘에서 조용히 추락해 속세의 소란 속으로 떨어졌다.<br /><br />「영감에 붙잡히기 전까지, 아무도 그것을 듣지 못했네……」",
+   "purpose": "행적 재료<br />광추 승급 재료",
+   "rarity": 3,
+   "rewardPath": "/material/589819",
+   "comeFrom": [
+    "모조 꽃받침 [「레버리」 호텔-꿈세계]",
+    "「만능 합성기」- 재료 합성",
+    "잔화 교환",
+    "「만능 합성기」- 재료 치환"
+   ]
+  },
+  "633150": {
+   "id": 633150,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "name": "꿈 흐름 밸브",
+   "desc": "꿈세계 창조물의 제어 부품. 강화에 필요한 일반 재료",
+   "lore": "욕망을 제어하는 꿈 건설 장치. 꿈세계 창조물 내면의 감정을 제어한다.<br /><br />「만약 이것이 작동하지 않으면 나쁜꿈 극단 단원 한 명을 얻을 수 있다」",
+   "purpose": "행적 재료<br />캐릭터 승급 재료",
+   "rarity": 3,
+   "rewardPath": "/material/633150",
+   "comeFrom": [
+    "균형 레벨 Lv.2까지 돌파 후 나쁜꿈 극단 드랍",
+    "「만능 합성기」- 재료 합성",
+    "「시뮬레이션 우주」 적 드랍",
+    "「만능 합성기」- 재료 치환"
+   ]
+  },
+  "673760": {
+   "id": 673760,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
+   "name": "천외의 악장",
+   "desc": "우주에서 들려오는 교향 악장. <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">화합</span> 캐릭터의 운명의 길 행적이 대폭 상승한다",
+   "lore": "질서로부터 흩어진 한 곡의 음악소리. 마치 은하에서 반짝이는 고독한 별처럼, 하늘 밖에서 고요히 메아리치고 거대한 침묵에 파묻혔다. <br /><br />「모두에게 잊힐 때까지, 아무도 그것을 느끼지 못했네♬……」",
+   "purpose": "행적 재료<br />광추 승급 재료",
+   "rarity": 4,
+   "rewardPath": "/material/673760",
+   "comeFrom": [
+    "모조 꽃받침 [「레버리」 호텔-꿈세계]",
+    "「만능 합성기」- 재료 합성",
+    "「만능 합성기」- 재료 치환"
+   ]
+  },
+  "717091": {
+   "id": 717091,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "name": "꿈 제조 모터",
+   "desc": "꿈세계 창조물의 동력 코어. 강화에 필요한 고급 재료",
+   "lore": "환상을 만드는 꿈 건축 기계. 꿈세계 창조물에게 영혼을 부여하는 엔진이다.<br /><br />「이것이 고장이 나면… 악몽에 빠지기 전에 얼른 깨어나, 친구」",
+   "purpose": "행적 재료<br />캐릭터 승급 재료",
+   "rarity": 4,
+   "rewardPath": "/material/717091",
+   "comeFrom": [
+    "균형 레벨 Lv.4까지 돌파 후 나쁜꿈 극단 드랍",
+    "「만능 합성기」- 재료 합성",
+    "「시뮬레이션 우주」 적 드랍",
+    "「만능 합성기」- 재료 치환"
+   ]
+  },
+  "866635": {
+   "id": 866635,
+   "type": 601,
+   "purposeId": 2,
+   "iconPath": "e77713aac9f0dc8efb0047a1b9c918d14aaa40589e0472f557374cb53d06818d",
+   "name": "스타피스 사원증",
+   "desc": "스타피스 컴퍼니 「베테랑 직원」의 사원증. 물리 속성 캐릭터의 승급 소재",
+   "lore": "스타피스 컴퍼니에서는 프로젝트팀의 팀장급만이 이 사원증을 가질 수 있다. 일에 미친 베테랑 직원들은 옷 입는 건 까먹을지언정 사원증 패용은 잊지 않는다.<br /><br />「이건 피어포인트의 통행증일 뿐만 아니라 신분의 상징이라고!」",
+   "purpose": "캐릭터 승급 재료",
+   "rarity": 4,
+   "rewardPath": "/material/866635",
+   "comeFrom": [
+    "정체된 허영 [클락 스튜디오 테마파크]",
+    "「만능 합성기」- 재료 치환"
+   ]
+  },
+  "874346": {
+   "id": 874346,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "0b9599c040d16b07324d2f3ea37854bbe9d3d22cb80a43b3070662e562738a04",
+   "name": "구름 위 음표",
+   "desc": "구름 끝에서 떨어진 흩어진 음표. <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">화합</span> 캐릭터의 운명의 길 행적이 소폭 상승한다",
+   "lore": "질서로부터 흩어진 음표. 마치 눈물 한 방울이 바닷물에 녹아들듯, 구름 끝에서 조용히 추락해 속세의 소리 사이로 떨어졌다. <br /><br />「노래 속에 빠지기 전까지, 아무도 그것을 듣지 못했네…」",
+   "purpose": "행적 재료<br />광추 승급 재료",
+   "rarity": 2,
+   "rewardPath": "/material/874346",
+   "comeFrom": [
+    "모조 꽃받침 [「레버리」 호텔-꿈세계]",
+    "잔화 교환",
+    "「만능 합성기」- 재료 치환"
+   ]
+  }
+ },
+ "levelData": [
+  {
+   "attackBase": 87.12,
+   "attackAdd": 4.356,
+   "hpBase": 174.24,
+   "hpAdd": 8.712,
+   "defenseBase": 66,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 0,
+   "maxLevel": 20,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 4000
+    },
+    {
+     "id": 549209,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "attackBase": 121.968,
+   "attackAdd": 4.356,
+   "hpBase": 243.936,
+   "hpAdd": 8.712,
+   "defenseBase": 92.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 1,
+   "maxLevel": 30,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 8000
+    },
+    {
+     "id": 549209,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "attackBase": 156.816,
+   "attackAdd": 4.356,
+   "hpBase": 313.632,
+   "hpAdd": 8.712,
+   "defenseBase": 118.8,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 2,
+   "maxLevel": 40,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 16000
+    },
+    {
+     "id": 633150,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 3
+    }
+   ]
+  },
+  {
+   "attackBase": 191.664,
+   "attackAdd": 4.356,
+   "hpBase": 383.328,
+   "hpAdd": 8.712,
+   "defenseBase": 145.2,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 3,
+   "maxLevel": 50,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 40000
+    },
+    {
+     "id": 633150,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 7
+    }
+   ]
+  },
+  {
+   "attackBase": 226.512,
+   "attackAdd": 4.356,
+   "hpBase": 453.024,
+   "hpAdd": 8.712,
+   "defenseBase": 171.6,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 4,
+   "maxLevel": 60,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 80000
+    },
+    {
+     "id": 717091,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "attackBase": 261.36,
+   "attackAdd": 4.356,
+   "hpBase": 522.72,
+   "hpAdd": 8.712,
+   "defenseBase": 198,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 5,
+   "maxLevel": 70,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 160000
+    },
+    {
+     "id": 717091,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 35
+    }
+   ]
+  },
+  {
+   "attackBase": 296.208,
+   "attackAdd": 4.356,
+   "hpBase": 592.416,
+   "hpAdd": 8.712,
+   "defenseBase": 224.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 6,
+   "maxLevel": 80,
+   "cost": []
+  }
+ ],
+ "ranks": [
+  {
+   "id": 1,
+   "iconPath": "21e336b48e11c1463a129146f02e24d165410eec5c3fa7ae30a491423a408a1f",
+   "artPath": "1c33f658c3f7ea19839b361bd1b6c60f23756e6e7efbe314eaf692b7415e17b4",
+   "name": "미소의 국가",
+   "descHash": "[협주] 상태일 때 모든 아군의 모든 속성 저항 관통이 <nobr>#1[i]%</nobr> 증가한다",
+   "params": [
+    0.24
+   ]
+  },
+  {
+   "id": 2,
+   "iconPath": "978b1491f0216e5f8cd91fb1b801e0b687d41604b8589c1d35e9b5923770e086",
+   "artPath": "3a9d06c608b882b7d476157e76df564b7280a7810d5ea0944a56e25583d4b86a",
+   "name": "두 사람의 애프터눈 티",
+   "descHash": "[협주] 상태일 때 모든 아군의 속도가 <nobr>#1[i]%</nobr> 증가한다. 특성의 에너지 회복 효과가 추가로 <nobr>#2[i]</nobr>pt 증가한다",
+   "params": [
+    0.16,
+    1
+   ]
+  },
+  {
+   "id": 3,
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "artPath": "76c2551ec34702bdb41b20a6771cde591c75c4a8a32870acaa7af258ecc5d72c",
+   "name": "뒤집힌 현의 궁전",
+   "descHash": "전투 스킬 레벨+2, 최대 Lv.<nobr>15</nobr>. 필살기 레벨+2, 최대 Lv.<nobr>15</nobr>",
+   "params": []
+  },
+  {
+   "id": 4,
+   "iconPath": "c8b5f11986362057fe659a391ec3eb193a8c266a90e790c260ed339fa5494040",
+   "artPath": "50350af0d85d5eb9439a3b141315f3cc0e1dd538eb538a8018415888e62ee028",
+   "name": "빗방울의 열쇠",
+   "descHash": "필살기 발동 시 모든 아군의 제어류 디버프 상태를 해제하고, 모든 아군은 로빈이 [협주] 상태일 동안 효과 저항이 <nobr>#1[i]%</nobr> 증가한다",
+   "params": [
+    0.5
+   ]
+  },
+  {
+   "id": 5,
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "artPath": "2f2955b5d7040846379b487d53001fb63c189026173ac24e62cbb057515c4e4f",
+   "name": "고독한 별의 눈물",
+   "descHash": "일반 공격 레벨+1, 최대 Lv.<nobr>10</nobr>. 특성 레벨+2, 최대 Lv.<nobr>15</nobr>",
+   "params": []
+  },
+  {
+   "id": 6,
+   "iconPath": "4859dbd0db6c3f43054a37aba1cbe0c886d83963babe02a0ec70792608a7440c",
+   "artPath": "b91d0398e090f093b5ebd0c922961e628b15b979938e64398d9c118b6acc91c1",
+   "name": "달이 숨은 자정",
+   "descHash": "[협주] 상태일 때 필살기로 가하는 물리 속성 추가 피해의 치명타 피해가 추가로 <nobr>#2[i]%</nobr> 증가한다. [달이 숨은 자정] 효과는 최대 <nobr>#1[i]</nobr>회 발동되며, 필살기를 발동할 때마다 발동 횟수가 초기화된다",
+   "params": [
+    8,
+    4.5
+   ]
+  }
+ ],
+ "skillGrouping": [
+  [
+   758858
+  ],
+  [
+   642213
+  ],
+  [
+   558272
+  ],
+  [
+   474331
+  ],
+  [
+   157100
+  ]
+ ],
+ "skills": [
+  {
+   "tagHash": "단일 공격",
+   "descHash": "지정된 단일 적에게 로빈 공격력의 <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>만큼 <span style=\"color:#FFFFFF;\">물리</span> 속성 피해를 가한다",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "20",
+   "id": 758858,
+   "name": "날갯짓으로 전해지는 노랫소리",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "일반 공격",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.7
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.8
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.9
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      1
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      1.1
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "서포트",
+   "descHash": "모든 아군이 가하는 피해를 <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> 증가시킨다, 지속 시간: <nobr>#2[i]</nobr>턴. 로빈 턴이 시작될 때마다 지속 턴 수가 1 감소한다",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "30",
+   "id": 642213,
+   "name": "깃털의 아리아",
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "typeDescHash": "전투 스킬",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.25,
+      3
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      3
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.3,
+      3
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.325,
+      3
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.35,
+      3
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.375,
+      3
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.40625,
+      3
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.4375,
+      3
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.46875,
+      3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.5,
+      3
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.525,
+      3
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.55,
+      3
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.575,
+      3
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6,
+      3
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.625,
+      3
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "서포트",
+   "descHash": "로빈이 [협주] 상태에 진입하고, 자신 이외의 동료를 즉시 행동하게 한다.<br />[협주] 상태 시 모든 아군의 공격력이 증가한다. 증가 수치는 로빈 공격력의 <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span>+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]</nobr></span>pt이며, 아군이 공격을 발동할 때마다 로빈은 추가로 자신의 공격력의 <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span>만큼 <span style=\"color:#FFFFFF;\">물리</span> 속성 <u>추가 피해</u>를 1회 가한다. 해당 피해의 치명타 확률은 <nobr>#5[i]%</nobr>, 치명타 피해는 <nobr>#6[i]%</nobr>로 고정된다.<br />[협주] 상태일 시 로빈은 <u>제어류 디버프 상태</u>에 면역되고, [협주] 상태 종료 전에는 자신의 턴에 진입하지 않으며 행동할 수 없다.<br />행동 서열에 [협주] 카운트다운이 나타나고, 카운트다운 턴 시작 시 로빈은 [협주] 상태를 종료하고 즉시 행동한다. 카운트다운이 보유한 고정 속도는 <nobr>#2[i]</nobr>pt이다",
+   "ultimateCost": 160,
+   "break": "0",
+   "energy": "5",
+   "id": 558272,
+   "name": "천음의 합주, 뭇별의 푸가",
+   "iconPath": "8c18f6a980650b868e7d8544dc55b66266f713ba779ef9d0ffee778366d8b800",
+   "typeDescHash": "필살기",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.152,
+      90,
+      50,
+      0.72,
+      1,
+      1.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.1596,
+      90,
+      65,
+      0.768,
+      1,
+      1.5
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1672,
+      90,
+      80,
+      0.816,
+      1,
+      1.5
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1748,
+      90,
+      95,
+      0.864,
+      1,
+      1.5
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1824,
+      90,
+      110,
+      0.912,
+      1,
+      1.5
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.19,
+      90,
+      125,
+      0.96,
+      1,
+      1.5
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1995,
+      90,
+      143.75,
+      1.02,
+      1,
+      1.5
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.209,
+      90,
+      162.5,
+      1.08,
+      1,
+      1.5
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2185,
+      90,
+      181.25,
+      1.14,
+      1,
+      1.5
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.228,
+      90,
+      200,
+      1.2,
+      1,
+      1.5
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2356,
+      90,
+      215,
+      1.248,
+      1,
+      1.5
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2432,
+      90,
+      230,
+      1.296,
+      1,
+      1.5
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2508,
+      90,
+      245,
+      1.344,
+      1,
+      1.5
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2584,
+      90,
+      260,
+      1.392,
+      1,
+      1.5
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.266,
+      90,
+      275,
+      1.44,
+      1,
+      1.5
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "서포트",
+   "descHash": "모든 아군의 치명타 피해가 <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> 증가하고, 아군이 적 공격 후 로빈이 추가로 자신의 에너지를 <nobr>#2[i]</nobr>pt 회복한다",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 474331,
+   "name": "조성의 합창",
+   "iconPath": "641a4d2b6c02e2c482e8f3f9e4abd3218e4450d9572b0b7e4311a473a7bdddc4",
+   "typeDescHash": "특성",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.05,
+      2
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.065,
+      2
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.08,
+      2
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.095,
+      2
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.11,
+      2
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.125,
+      2
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.14375,
+      2
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1625,
+      2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.18125,
+      2
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2,
+      2
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.215,
+      2
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.23,
+      2
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.245,
+      2
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.26,
+      2
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      2
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "",
+   "descHash": "적을 공격하며, 전투 진입 후 적에게 대응하는 속성의 강인성을 소모시킨다",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "0",
+   "id": 273745,
+   "name": "공격",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "서포트",
+   "descHash": "비술 발동 후 자기 주변에 <nobr>#1[i]</nobr>초 동안 지속되는 특수 영역을 펼친다. 영역 내의 적은 로빈을 공격하지 않고, 영역이 전개되어 있는 동안 로빈을 따라다닌다. 영역이 전개되어 있는 동안 전투에 진입하면, 웨이브가 시작될 때마다 로빈은 에너지를 <nobr>#2[i]</nobr>pt 회복한다. 아군이 만든 영역 효과는 최대 1개만 존재할 수 있다",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 157100,
+   "name": "심취의 서곡",
+   "iconPath": "27ed98d04302103286581f7ffa736edd301561bc6ff2fb9cadc5ae97ec4148f4",
+   "typeDescHash": "비술",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      15,
+      5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  }
+ ],
+ "skillTreePoints": [
+  {
+   "id": 1309101,
+   "anchor": 6,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309202,
+     "anchor": 10,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309203,
+       "anchor": 11,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363456,
+        "name": "공격 강화",
+        "levelReq": 0,
+        "promotionReq": 3,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "공격력",
+          "value": 0.04
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 10000
+         },
+         {
+          "id": 589819,
+          "count": 3
+         },
+         {
+          "id": 633150,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363455,
+      "name": "HP 강화",
+      "levelReq": 0,
+      "promotionReq": 2,
+      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "statusList": [
+       {
+        "key": "HP",
+        "value": 0.04
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 549209,
+        "count": 6
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "전투 시작 시 자신의 행동 게이지가 <nobr>#1[i]%</nobr> 증가한다",
+    "ultimateCost": 0,
+    "id": 363359,
+    "name": "콜로라투라 카덴차",
+    "iconPath": "c4d2f5cc476f3512e459714a55ecfd4ca18c450af273734de91f55b6d11ba8fe",
+    "levelReq": 0,
+    "promotionReq": 2,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 2,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309102,
+   "anchor": 7,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309205,
+     "anchor": 13,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309206,
+       "anchor": 14,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363451,
+        "name": "HP 강화",
+        "levelReq": 0,
+        "promotionReq": 5,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "HP",
+          "value": 0.06
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 45000
+         },
+         {
+          "id": 673760,
+          "count": 3
+         },
+         {
+          "id": 717091,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363454,
+      "name": "공격 강화",
+      "levelReq": 0,
+      "promotionReq": 4,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "공격력",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 633150,
+        "count": 4
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "[협주] 상태일 때, 모든 아군이 추가 공격을 발동하여 가하는 치명타 피해가 <nobr>#1[i]%</nobr> 증가한다",
+    "ultimateCost": 0,
+    "id": 363362,
+    "name": "즉흥 꾸밈음",
+    "iconPath": "73a8b04c935054e24f9433a44c751dd3956335aeed2bbba2abbd0f49170b1c20",
+    "levelReq": 0,
+    "promotionReq": 4,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 4,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309103,
+   "anchor": 8,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309208,
+     "anchor": 16,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309209,
+       "anchor": 17,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363466,
+        "name": "HP 강화",
+        "levelReq": 75,
+        "promotionReq": 0,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "HP",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      },
+      {
+       "id": 1309210,
+       "anchor": 18,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 279516,
+        "name": "공격 강화",
+        "levelReq": 80,
+        "promotionReq": 0,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "공격력",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363465,
+      "name": "속도 강화",
+      "levelReq": 0,
+      "promotionReq": 6,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "속도",
+        "value": 3,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 717091,
+        "count": 8
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "전투 스킬 발동 시 추가로 에너지를 <nobr>#1[i]</nobr>pt 회복한다",
+    "ultimateCost": 0,
+    "id": 363361,
+    "name": "시퀀스 악절",
+    "iconPath": "1b682ac043a69e0e67e377b998430c71e7f9dc506dfef5c6a6e14513b5e04e96",
+    "levelReq": 0,
+    "promotionReq": 6,
+    "levelData": [
+     {
+      "params": [
+       5
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 6,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309201,
+   "anchor": 9,
+   "type": 2,
+   "children": [
+    {
+     "id": 1309204,
+     "anchor": 12,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363453,
+      "name": "속도 강화",
+      "levelReq": 0,
+      "promotionReq": 3,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "속도",
+        "value": 2,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 10000
+       },
+       {
+        "id": 589819,
+        "count": 3
+       },
+       {
+        "id": 633150,
+        "count": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": 1309207,
+     "anchor": 15,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363452,
+      "name": "공격 강화",
+      "levelReq": 0,
+      "promotionReq": 5,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "공격력",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 45000
+       },
+       {
+        "id": 673760,
+        "count": 3
+       },
+       {
+        "id": 717091,
+        "count": 3
+       }
+      ]
+     }
+    }
+   ],
+   "embedBuff": {
+    "id": 363458,
+    "name": "공격 강화",
+    "levelReq": 1,
+    "promotionReq": 0,
+    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "statusList": [
+     {
+      "key": "공격력",
+      "value": 0.04
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 2500
+     },
+     {
+      "id": 549209,
+      "count": 2
+     }
+    ]
+   }
+  }
+ ],
+ "relicRecommend": {
+  "twoPcSets": [],
+  "fourPcSets": [],
+  "props": [
+   {
+    "relicTypeHash": "몸통",
+    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "propertyName": "공격력",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "다리",
+    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "propertyName": "공격력",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "차원 구체",
+    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "propertyName": "공격력",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "연결 매듭",
+    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "propertyName": "에너지 회복효율",
+    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+   }
+  ]
+ },
+ "voiceItems": [
+  {
+   "id": 1,
+   "title": "첫 만남",
+   "text": "좋은 밤입니다. 전 가족에 소속된 가수 로빈이에요. 이건 무대 밖에서 개인적으로 나누는 인사니, 격식 차릴 필요 없어요. 저에게 잠깐 시간을 좀 내주시겠어요?",
+   "unlockRequirement": "",
+   "cnUrl": "163097ee1c36e14e4f0988edd057d3f96289ac15992d0add187759540955556c",
+   "jpUrl": "24d8018a55d0126717920d218bd2ef1783e408f8167b190a92fd5445bdad2517",
+   "enUrl": "23950a9cd93277faaee89a9236f6e188200a625d2a207ba0d167187199fdc63c",
+   "krUrl": "f71747b2c9352d3336dc1e52540f027e15f5fd4f784f6926e8961a67f79c49a3"
+  },
+  {
+   "id": 2,
+   "title": "인사",
+   "text": "또 만났네요. 이번에는 어떤 노래를 듣고 싶나요?",
+   "unlockRequirement": "",
+   "cnUrl": "9b51cbd95e26a12327596799913283cbc60336f106f79bf38bc3f0354a9bde64",
+   "jpUrl": "ae322d661f66b697ba13aa67980ef5b0fb26346e1fc0bc70a792da6b71826077",
+   "enUrl": "c22bb76807f3919403dadee8a2cf7162cc9396176984ccb74bf9b1bb34e742b4",
+   "krUrl": "b4fc09da0191ec99f2d96f960ca39d1bb24b4a5539ff37f73d2c174e698bcd99"
+  },
+  {
+   "id": 3,
+   "title": "작별",
+   "text": "다음에 또 만나요. 제 노랫소리가 당신을 좋은 꿈으로 인도하길 바랄게요",
+   "unlockRequirement": "",
+   "cnUrl": "4f11de1a288051c9a5b9486c5829bc19c4d2752f51caf827fabc84daa3fa84ba",
+   "jpUrl": "05b93daf746fac9bc7f131d3abbac4b5e2d8c824703ade6acc5502afd6ea954c",
+   "enUrl": "36ac96ff54d335e7e4bbf748007015d93d1e0d829e692329da2cea8b79eeaabd",
+   "krUrl": "d77e7a9532883093bfadf69bf2ae28af040d5710781831556580988035a645d9"
+  },
+  {
+   "id": 4,
+   "title": "자신에 대해•창작",
+   "text": "음악에 창작의 비결이 있을지도 모르지만, 노래가 사람의 마음을 움직이는 건 기교 때문만이 아니라 노랫소리에 담긴 감정과 다짐 때문이에요",
+   "unlockRequirement": "",
+   "cnUrl": "688b6fceff94a18dbf92a052fc3646c85e2123a061e4453739dd449cc32b49b1",
+   "jpUrl": "47379f1fbfffb9a2e6c2960aa1abc258ae7e3784782fb820f4907e935a3e56bb",
+   "enUrl": "6300ac0662c79bb4f4cb94b5eca1ed30ea598ace1b298fdc6ec8277b0efa4c59",
+   "krUrl": "830c7f8966004a5b9aa6d8bb6bf05f29a0e2ba48f31c478019ba26a25788059b"
+  },
+  {
+   "id": 5,
+   "title": "자신에 대해•노랫소리",
+   "text": "손님의 입맛이 까다로울수록 요리사의 실력이 일취월장한다고들 하죠. 다른 사람이 뭐라 하든, 전 영원히 제 자신의 가장 까다로운 청중이 될 거예요",
+   "unlockRequirement": "",
+   "cnUrl": "2339f4577df934b8595a936459d8640b854a696b00cdef52984102c0cdbb627a",
+   "jpUrl": "f285f93414e97d622d1393e2ac59197e24f0eb04e5ba736aad15693f1ae9fb69",
+   "enUrl": "73dbd75d59bf1f0f7d63a700e63153223b23db05a4dc4dc3e1158eed6a6f9287",
+   "krUrl": "df892291b56570c7a62f4f69876a63a3babe0610b3376daeeb9b7319494df21c"
+  },
+  {
+   "id": 6,
+   "title": "잡담•레코드판",
+   "text": "노래의 감동을 붙잡아 두기 위해 옛사람들은 음악을 레코드판에 저장했어요. 전 여러 행성에서 온 레코드판을 소장하고 있어요. 심지어 사라진 문명에서 온 것들도 있죠…. 하지만 남겨진 감동은 영원할 거예요",
+   "unlockRequirement": "",
+   "cnUrl": "cc7105037e3aade3c7be84908fa6b77867448c7242a6bea23301d7625a0ebe77",
+   "jpUrl": "91cf48e514af59ac2c06a1277211f854fcb36c442ebd4d883fa0ba51e0a1e295",
+   "enUrl": "c472be66924d397bca6e35cf27e8b44b6b0c935ec9fb67210a55753f66fbbed3",
+   "krUrl": "5d067936271fb81b04fff176b6f7011d2886fc64e2507fbf645a8102437cf887"
+  },
+  {
+   "id": 7,
+   "title": "잡담•첫 번째 노래",
+   "text": "어릴 때 오빠는 자장가를 흥얼거리며 절 재우곤 했어요. 그게 제가 처음으로 배운 곡이죠…. 가사는 없지만 지금도 제가 가장 좋아하는 멜로디예요",
+   "unlockRequirement": "",
+   "cnUrl": "f2e82cb57484fc489ba3ff7f87e83b04bdf315cd430db9bf5eeb9ffdc23c3eea",
+   "jpUrl": "6c088ee98b648b7acbb3ebfb203011106fd1ab935a276154282ae5a96787f323",
+   "enUrl": "07c924b1e2df6b8f6ad3962db37ea0d66f2a8968f08613b5689a623795431a95",
+   "krUrl": "8971245c67cea31dd7ae78169d8d1de73f744ff6d9e7d0304d90cd3aff59a20c"
+  },
+  {
+   "id": 8,
+   "title": "취미",
+   "text": "가끔 가발을 쓰고 화장을 바꾸고 안경까지 쓰면, 어딜 가도 걱정 없어요~",
+   "unlockRequirement": "",
+   "cnUrl": "486cf60e5a8ca30b2e75b89065c5cde9ccaa660fd9473510f7fc79e8867f902d",
+   "jpUrl": "b4bf6d08424c8b0c3765cc5e27973f562f1e3388afad696d2a02928452086dda",
+   "enUrl": "73eddd42c8d0995c610ba593619cd206685b828b4685bd76ca5b9cf2813707db",
+   "krUrl": "38b1fc299c988e35e6aabd907811b9c18e641ab414daf8b84dcb1466b97d131f"
+  },
+  {
+   "id": 9,
+   "title": "고민",
+   "text": "투어가 없을 때는 도시를 벗어나 자연의 소리를 듣는 걸 좋아해요…. 아쉽게도 페나코니의 꿈세계에는 진짜 숲이 없어서 꿈속의 「새들」과 이야기 나누는 걸로 만족해요",
+   "unlockRequirement": "",
+   "cnUrl": "3e7344dbae6b546fe379f4dc1a73f6e00971aee0675c47578b12ab04c14caff1",
+   "jpUrl": "e6cc186707f64b993fa5bff134c8f67baf001c8e6fad12273103ba6465d69d41",
+   "enUrl": "e76a2d3cab7c2c1232307c69b90383ed90756bafe085e1b6954dea11ab38f191",
+   "krUrl": "335bfef4e14f4ef2898d23979e8616c4cc37289886343d2d057220b5848421e1"
+  },
+  {
+   "id": 10,
+   "title": "공유",
+   "text": "「화합」의 가정은 평등해요. 모두가 다면신의 송가에 흠뻑 젖을 수 있고, 고난과 행복을 함께 나누죠. 제 노랫소리도 모든 사람에게 평화를 가져다줬으면 좋겠어요",
+   "unlockRequirement": "",
+   "cnUrl": "bd9170ca1103d3b7b096a33aa749bbfdbf83f139263b694259544d448a5691ce",
+   "jpUrl": "eab2266363c6c7ba7b93e9c87c03c777da008c46518e861ba88ead5f87457c27",
+   "enUrl": "b50dd8c8054712fcb737abf5c22c14726c3c101ba36105a013d269a0ea25f5c6",
+   "krUrl": "6948c6fa75e3d8b0b7b1270d6751aebf2ff7d251543896ef8b063697788c003d"
+  },
+  {
+   "id": 11,
+   "title": "견문",
+   "text": "엡실론의 배급사가 제 앨범을 몇 장 내줬어요. 초대를 받고 그곳에 한동안 머문 적도 있고요. 그 행성은 페나코니와 비슷한 분위기예요. 하지만 그곳 사람들은 예술보다 예술이 창출할 수 있는 막대한 이익에 더 관심이 있는 것 같았어요……",
+   "unlockRequirement": "",
+   "cnUrl": "de4049aacbc622aa90f398cef6aa98136be654969a26e9ae8170a2e211c69945",
+   "jpUrl": "4bb34c6121053c32c912c2b872d9af8350756a644193110a9e0723aaadf542c2",
+   "enUrl": "1c6a5fd11874d540879c58980146b1df38b2a136f337b3f554101a80579d44bd",
+   "krUrl": "307c1199a1514c43c4f416a60af30c371bfc7e5dc2317fbbe3a9c176306dd402"
+  },
+  {
+   "id": 12,
+   "title": "선데이에 대해",
+   "text": "오빠는 자기가 더 무거운 책임을 져야 한다고 생각하는 것 같아요. 늘 제 고민을 귀 기울여 들어주지만, 본인의 속마음은 거의 털어놓지 않아요…. 오빠 눈에는 아직도 제가 철부지 동생으로 보이나 봐요",
+   "unlockRequirement": "",
+   "cnUrl": "031976c85774b81e38e4b3d196b2d168379229eb0b4d4292cc8f2d0f4ad2fe54",
+   "jpUrl": "22240df81aca424f736d2e923c4089a5fdc2e318f9803717777cee6aeefa1462",
+   "enUrl": "0a70106fb5e67d17d38d1fac21d7663eb51b515e007cd78af31a3370453254af",
+   "krUrl": "2e4b14b161718fd1af731b6b028fb3697b89367d8a20988b1375bc7e98862cb9"
+  },
+  {
+   "id": 13,
+   "title": "선데이에 대해•2",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "개척 임무 「그리고, 여덟째 날에…」 완료 후 개방",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 14,
+   "title": "갤러거에 대해",
+   "text": "갤러거 씨는 늘 자신의 온화한 모습을 숨기죠…. 평소에는 조금 나른하고 자유분방해 보이지만, 결정적인 순간에는 언제나 동료의 곁을 지킬 거예요",
+   "unlockRequirement": "",
+   "cnUrl": "094e1e6a1b5f106ce4096fcfaff51c550b9cd91feeb48118f30b3db57f007072",
+   "jpUrl": "3816c421e68adc45232e14852d665f7eeaeaa873be79ab730bb2cc4ff6aedf71",
+   "enUrl": "5218eda77365ad468cde6bf6dee33a8397a315fea8f4b1c244edd35aa78d5ed4",
+   "krUrl": "dc32f45e0e78382197ea35bfb31b6248fb17b69490308f6744c8d90ef1de9062"
+  },
+  {
+   "id": 15,
+   "title": "블랙 스완에 대해",
+   "text": "블랙 스완 씨의 전략과 수단은 그분의 춤처럼 빈틈없고 아름답죠. 그분과 함께 춤추게 될 날이 기대돼요",
+   "unlockRequirement": "",
+   "cnUrl": "e6377d6382f3075753a702bd405d7bb08da167d74465be0077d71d55db34cdc6",
+   "jpUrl": "9c6d53abbdb152060e5a5f0fe18d70b7f9a0301221a5a525b91cfcb84793229b",
+   "enUrl": "5e7429d3a0772780ec058009c35b6adf69813805e8369cfb7268ca40f19dcc40",
+   "krUrl": "62a80228b83571581c86c40a7c7c467e824a6e639bb141fc957b2ee7fcabb430"
+  },
+  {
+   "id": 16,
+   "title": "성혼 활성화",
+   "text": "들어 보세요, 조화의 속삭임이 또렷해지고 있어요……",
+   "unlockRequirement": "",
+   "cnUrl": "722216acf341257a7a120e7873798d38fe7b3c5a733cd0b6b37595ada8269780",
+   "jpUrl": "c9391701f57ee5437ad90bbdd3215f46121af7392489e802acee1634111f0bf0",
+   "enUrl": "6050f1c16c7070c473e4799dcc2ed0d5bbe76600ef6df2d0ab3aba2f6201df4e",
+   "krUrl": "a73c5f61f877c9ed6281c7a320fafd684851e135a55b22df2e6bcc1e451f7e8e"
+  },
+  {
+   "id": 17,
+   "title": "캐릭터 승급",
+   "text": "꾸준히 연습해야지만 최상의 컨디션을 유지할 수 있답니다",
+   "unlockRequirement": "",
+   "cnUrl": "71101847ee71d418cd681d507515e3892e49a5b964fe63c6bc467853a7704ab9",
+   "jpUrl": "a7790bb108ceceef132cba9131e91b99acc050022ca2ee261c36d1d6f979217f",
+   "enUrl": "edd80ccc9713259dd2b0f51f9b9c50c372350cfe604a08e65174a649c1fb89a7",
+   "krUrl": "786f09667b399a2afa85caba530af9beafacbfd588c5a1b1e654248839801929"
+  },
+  {
+   "id": 18,
+   "title": "캐릭터 최고 레벨",
+   "text": "모든 준비가 끝났어요. 이제 무대에 오를 시간이에요",
+   "unlockRequirement": "",
+   "cnUrl": "b4dd940589635b52c57e85227283185ba8fc551eaf5174c8d72772d81c12a345",
+   "jpUrl": "f311fa7da2f76eda8f8356605a4ccb54ae430ad80bffd7d7e3533fd92ac27cde",
+   "enUrl": "4b9231fdc94685cd852cf8d46b45705f8c7955535f67f30756fbc931f0ff45e3",
+   "krUrl": "4327a458028a630804c91b12dd07a577ad5d67115d0f446300f1ef5c0f36565c"
+  },
+  {
+   "id": 19,
+   "title": "행적 활성화",
+   "text": "노래 외의 준비도 소홀해서는 안 되죠",
+   "unlockRequirement": "",
+   "cnUrl": "9a311550fb4453065f464239b38df23c75c1d0f73d18a1f7a3d221b06ae32d8c",
+   "jpUrl": "ce831fa27460b176512431cde2ede263d4517a9a3835b9311a6df8555a55c2cd",
+   "enUrl": "37b99801eb27e1912cf98c02f2a9e48c79d2e7140331a0d1913353678a8b27fb",
+   "krUrl": "c288f20e889e5123ef91e0d9ae801a5f6e07531dce1012fdf6a1de57d38eda49"
+  },
+  {
+   "id": 20,
+   "title": "파티 편성•개척자",
+   "text": "걱정 마세요. 제가 늘 곁을 지킬게요",
+   "unlockRequirement": "",
+   "cnUrl": "ac10aec6dc3851699b43acab717e0f898bad6f96fec889f6bcbba7380b66c859",
+   "jpUrl": "80e5a40574f15eba484404473a5631b38124bb8e7de604c75b61fb613ab8e3ea",
+   "enUrl": "293f81588619f67b00f49ef386ec988045b0471140f0befa5bcb0430004e238d",
+   "krUrl": "d6004796b1fdbae17a715f826a91ea815c9d83b29582d8aab8b2bc4f10e29842"
+  },
+  {
+   "id": 21,
+   "title": "파티 편성•갤러거",
+   "text": "배후의 적은 당신에게 맡길게요, 갤러거 씨",
+   "unlockRequirement": "",
+   "cnUrl": "435217d55a9b18332bd4f9d33b08f13967357281ac059b566a357961c8edc913",
+   "jpUrl": "4e5965f2daebdfba4c133016fe0dd0b357b991dbbfc636987c1db2be5beba7b4",
+   "enUrl": "f9250f7ab1e263e0ab96f49e6bf0b232b7fe6967f0cb3e9a8ad9b35bdaf3ccdf",
+   "krUrl": "44d5936c9d20217906d5f76da708dca7ebe66500b0c2eb8ae16004bcf6862f8a"
+  },
+  {
+   "id": 22,
+   "title": "파티 편성•블랙 스완",
+   "text": "이 곡이 블랙 스완 씨의 춤과 어울리면 좋겠어요",
+   "unlockRequirement": "",
+   "cnUrl": "3543edb6170f41eb7b7d3db482511b12b97a6b3e2a903d9e492b9193ffd590f8",
+   "jpUrl": "ebdf81f0702e6bdf88189a11c21bf9e8268d305cf57f6ff055ab18a5e80a044c",
+   "enUrl": "18ecbecb721b31d6f20bb00e57cfa7b2e0b338254231904b69f04c913bf121cb",
+   "krUrl": "eb19abfff0ff428d7ad3d30474a83fd340066dcb33ffd9713f9b1848cba4af28"
+  },
+  {
+   "id": 51,
+   "title": "전투 시작•약점 격파",
+   "text": "생명의 피날레를 들어보세요",
+   "unlockRequirement": "",
+   "cnUrl": "2e1bdbf8d71f7db85cb161b3e54e37bacbcadb3ab9955ff8e5ab21de1c1c096b",
+   "jpUrl": "b2da4684936e58f3917b62f5f68a196984b9b71328da792623ed69c3f26fe8f6",
+   "enUrl": "7d4c2bc8272c2d5696ab86ecfd88a68a4271af4cf516c72e6fc1697dbfbe2291",
+   "krUrl": "f80ce3b2d39158efff4c5879fa71d7dbc4e41e7c02cc2de262cd2f5ffb0cbbb8"
+  },
+  {
+   "id": 52,
+   "title": "전투 시작•위험 경보",
+   "text": "위험한 생각이 들려요",
+   "unlockRequirement": "",
+   "cnUrl": "27f67972476542e12b4ddb56d51c087961665d6fd7fa988d3ad4065c4ab7bd74",
+   "jpUrl": "4ccfe3672b4123be9585ae55e9a17d8e0e304fe2f86387bdbab04073743a78b8",
+   "enUrl": "b6fc1cea0a520030e9f5d639e6b334b15e3d174b11bd598770f6cc6e3b708436",
+   "krUrl": "97346ba2956f630c59744bf47f8ca136df22f6c0efaa4bc80dcdcb7117665fad"
+  },
+  {
+   "id": 53,
+   "title": "턴 시작•1",
+   "text": "노랫소리가 우리에게 승리를 가져다주길",
+   "unlockRequirement": "",
+   "cnUrl": "f7225b89de2b2a4e48112fa36301ef7d0c605332ff0240c4ae095a3a78af2131",
+   "jpUrl": "7a5d0cfa241c3a2c61eb8400102a79dd2453b326f8cb3be90751666993a44ea3",
+   "enUrl": "745768793edc0708e4f48808ecd6cbd2c0b70268a392079fa85c32b4ccb1b73b",
+   "krUrl": "714205e1f88b6d0371531e91142206bd541ab1628d96036122de72af1079d190"
+  },
+  {
+   "id": 54,
+   "title": "턴 시작•2",
+   "text": "세상의 모든 분쟁이 사라졌으면 좋겠군요",
+   "unlockRequirement": "",
+   "cnUrl": "37e1764a88cc303867629152f6414e321d48793df87bb1b158c3ee8263ea1fb7",
+   "jpUrl": "ad290960ba6b33447789ddb465cb12a7dd1997f98455e074cfe3302a9a6e904e",
+   "enUrl": "84eff91000ed7accbcb8b351dca5abb58c358d6910ad86ef10ce2f5916e53cd3",
+   "krUrl": "c12a026653edb28d6037c64f7cdcf02a813b128d04b121472fb9980a5d7056e5"
+  },
+  {
+   "id": 55,
+   "title": "턴 대기",
+   "text": "새로운 악장으로 넘어갈 시간이에요",
+   "unlockRequirement": "",
+   "cnUrl": "dd81cba252fd8885f7eff4936640ff44f2394e8bf92b619b6fa2a48225866d4c",
+   "jpUrl": "af3e2dd84040c0157063b58a3e67e5ffe217847fac1098f2536abdb9a961c766",
+   "enUrl": "587ad6acbee703f3fd9cb961c2fc39904052bd85e8e5dca6b1c67ad4c4738e04",
+   "krUrl": "2a59f4cc6b0c88da2a85db55a080df2f8fc5d7a711af05db456340b86ad7ee92"
+  },
+  {
+   "id": 56,
+   "title": "일반 공격",
+   "text": "조용히 해주세요",
+   "unlockRequirement": "",
+   "cnUrl": "5f42def6c467791bbbb85216fd64b4276fc81017773d20cffdb15cbacd07eb9e",
+   "jpUrl": "aa97384e0434af80389896fc0698bc90b617e7354083a7621b9cb53ea031745b",
+   "enUrl": "743afba9034af96be91a6b37bd515a0e07844ed1b1ae7c25957259cec2abdbd8",
+   "krUrl": "8281284d7eeca909eb76b073f170b2d78d9de2002af675bc2d6e5f5ef5ee5678"
+  },
+  {
+   "id": 57,
+   "title": "전투 스킬•1",
+   "text": "조화의 합주, 시작",
+   "unlockRequirement": "",
+   "cnUrl": "0330b2961f5a38dc115830d7992e2d009cdbd0b6734e8d81136a43a61a9a97ed",
+   "jpUrl": "28693e29fded0b6c61a3733a6897702ca6043288fbceff92fa54b72b9128b109",
+   "enUrl": "47fe307826102b6e07e9bdd24b4ad85917f0592e26f1907ac90d487a4f840e6d",
+   "krUrl": "7a6b5475ed74de66ed71766c4e1cfaa748964c7619f43728028e222b15f4799f"
+  },
+  {
+   "id": 58,
+   "title": "전투 스킬•2",
+   "text": "모든 소리여, 다시 공명하라",
+   "unlockRequirement": "",
+   "cnUrl": "3812779efa3c3f34e77fb495180e5596d277ba3baab932c891f4ea8719896697",
+   "jpUrl": "8c878ff1d82c60863f61d3f48302245310e707a7eb95110653be6659c8b98a9e",
+   "enUrl": "7f41a837fb37a3ebc2b8d91a951c819d3b2d9dbb420dabce0d38e6ba8252174c",
+   "krUrl": "011c29b129095579b55388ca6c4db0b75ccbf15d9ceadd83c20a932f830111ad"
+  },
+  {
+   "id": 59,
+   "title": "약공격 피격",
+   "text": "응, 괜찮아, 괜찮아……",
+   "unlockRequirement": "",
+   "cnUrl": "3405186fbcee5cfb0591eab32663a77ba39447b9e9f4263fbf53718b6943d8fc",
+   "jpUrl": "1efe1ccf74a850eda68198b0fdd238522bcdb2063f35dfaeb3d10f8db773913d",
+   "enUrl": "84bbdaedc87366625d1d3675177af38cdf40f523bf839437a72382a9d849c7f6",
+   "krUrl": "201687398a8223ea735d0c9634b5baa11474b9ffa09aa44baa1811d7ea1921bf"
+  },
+  {
+   "id": 60,
+   "title": "강공격 피격",
+   "text": "좀… 아프네요……",
+   "unlockRequirement": "",
+   "cnUrl": "094cd10dec1021f6c6c6078f294be75a99f089828a082235fe9a74288bd9ba87",
+   "jpUrl": "ccc350814422973673ce7425f9dccd6d2ed41a8ff674f119be7e221deb98eba5",
+   "enUrl": "6aed96ce70b81b98c73e9ba9e187ddd412c60b0f519dfec50ab1dc3b6b59a3c7",
+   "krUrl": "c1cda97a915142c0e9172c3b14d5a972c3cb4aacd5211d305300404440df19b1"
+  },
+  {
+   "id": 61,
+   "title": "필살기•활성화",
+   "text": "오늘밤, 영혼이 서로를 보듬을지니",
+   "unlockRequirement": "",
+   "cnUrl": "629acad382e51ec28f3ff19a0f20ba57f7127b520c59c7c4c9b06bb022a78155",
+   "jpUrl": "cbdb4d49403c32f4664e631f1376da9163c22278fb4620c34446ffcf716ae79f",
+   "enUrl": "55d83534d262c072cc824fbdeb3ac15ceb86f96000c3560433e8157d3687e22c",
+   "krUrl": "09afb296c68577c5de9ac5f6e1704c4ac11b5f824399dd1a376aaa721d342927"
+  },
+  {
+   "id": 62,
+   "title": "필살기•발동",
+   "text": "뭇별이 나로 인해 메아리치리",
+   "unlockRequirement": "",
+   "cnUrl": "ff0fc27c48d9203c00ed9651d126d0a6cfd3d9efb1ac4b4691e76bd0276dba54",
+   "jpUrl": "a15855eb547ea84f789fa6b22396572ebf35b8f05a3fea713b0632edbc90478d",
+   "enUrl": "5e5597fbbc012ec3985361f454172cb731651d29b4073596e31d06f384465358",
+   "krUrl": "20cca19902fddb1bded9c0647d4e35361a0a2c4842e67367355c1cea35f95307"
+  },
+  {
+   "id": 63,
+   "title": "전투 불능",
+   "text": "공연이… 아직…",
+   "unlockRequirement": "",
+   "cnUrl": "553ce56e56a39b5338ccdbea468b743a02d4c3cfe458be36c60dce5db7d80f6b",
+   "jpUrl": "f78ba2593d114bce30dfc8d28eed04ac3fd653b880edb2f64567170ebc702ec1",
+   "enUrl": "74ccd2efae074ddc3e6384e707fad7cfc830fafb13a072e8ccbd4a521eab18be",
+   "krUrl": "782d1d8580fb9cb64ab52dd227ac881dbfc40269ac298740087714999c6572e6"
+  },
+  {
+   "id": 64,
+   "title": "전투 복귀",
+   "text": "전 더 싸울 수 있어요",
+   "unlockRequirement": "",
+   "cnUrl": "06a1d247db237608ee8e6f9a723d67970e5cc50b569efe8e5b39a378eb98c6cf",
+   "jpUrl": "2e0a05b6b237639cd354707b0f49f5525e0ae2f7ee4c1fd1dd5e09d6f4e84284",
+   "enUrl": "5993c06a1849276f094f3d531dc2b840a11d4f1e7e157d5f33bc5ddd2f81fcd7",
+   "krUrl": "5addda09e80f221ad83e652f0d805093f70ead56ac889e95d13c369a71a0d3f6"
+  },
+  {
+   "id": 65,
+   "title": "HP 회복",
+   "text": "고마워요, 목이 한결 편해졌어요",
+   "unlockRequirement": "",
+   "cnUrl": "641af788dc9a5c6bdf761d7e40f6dcbb493e1e9e1c4b16921e2fa261d60f3593",
+   "jpUrl": "506d453e8260b372d1be7983e336744862ebe5a285ce7ee34a2e82e52960aa4e",
+   "enUrl": "27098ef1d1e94b924d8ba4b3043e3d242f695176a0e6f4d3f0a7bf1e90823aef",
+   "krUrl": "436c37d10005c486888978553a4df12022254e7a9d7888922f182309e75a4efd"
+  },
+  {
+   "id": 66,
+   "title": "비술",
+   "text": "공연을 시작합니다~",
+   "unlockRequirement": "",
+   "cnUrl": "ae4313d5268b0af84c52c2d3c904ad5ef548ecbc70d069d835cfca6aab688927",
+   "jpUrl": "af37dd347c9b722ed38e459a2b4995a7ea6a64f9f47cbf34251a24d178256941",
+   "enUrl": "595a43a8d08d9df9380372621656b312705d001fb874aa40d59ad5b5d65f5493",
+   "krUrl": "e8fbc2af858be306842ab0b1c266c77855a0cb81ab48553dc1460608865e5653"
+  },
+  {
+   "id": 67,
+   "title": "전투 승리",
+   "text": "노래 속에서 안식을 찾길",
+   "unlockRequirement": "",
+   "cnUrl": "88521e0610b438ff5931a4886fd449e8e76fcc803116abadd94ded7c4eca24fe",
+   "jpUrl": "ed02862de0512baa630d91ad855fd5b256519991e32f8c78bf9465e1cfadda4b",
+   "enUrl": "c037f54ed9ed2b04464e5d69b4720993971431e15fa960f1e73fda258a17b044",
+   "krUrl": "e9a81b882f826ed9e38e3cef8df179c51e52106548eb4e837725d07968a51cf1"
+  },
+  {
+   "id": 68,
+   "title": "전리품 오픈•1",
+   "text": "후후, 나쁘지 않은데요?",
+   "unlockRequirement": "",
+   "cnUrl": "67af6959f2f48c52933ffc6368966f508fb75d6fae4dc30d7b1b48e980c2c6e2",
+   "jpUrl": "53e81979f484dba9adf673fbcf6ad4f6f478f7fe711f1b81635e8cf9aad574d1",
+   "enUrl": "9694afa29fc1e6de78582e23d013eb08c4dfcfcf6b11345e5d3a38f4bd1bd8e0",
+   "krUrl": "f503303ef0a8177402633595b6f6e1e087f4536d0aee4dc90a54f8fc13ddbb49"
+  },
+  {
+   "id": 69,
+   "title": "전리품 오픈•2",
+   "text": "전 서프라이즈가 좋아요~",
+   "unlockRequirement": "",
+   "cnUrl": "66080e1866d98958baf234090dd3f29c8d6f0f896b11f8ec383a852b63f9b30a",
+   "jpUrl": "dcd6974b03b18d0d84528a73859ba19d188a6923de9d8f1df57f7c67068d032b",
+   "enUrl": "de1ca4551bdbf20ad1e7ba1a179d842ff84c9eea446dfc334f4b975d23c609da",
+   "krUrl": "cb217c816899d8e9f74f7c7ad3d2db7dadac5c06f0f7cedd1a93c9546f8327fe"
+  },
+  {
+   "id": 70,
+   "title": "진귀한 전리품 오픈",
+   "text": "포기하지 않는 자에게 보상이 있죠",
+   "unlockRequirement": "",
+   "cnUrl": "20141e4ab9a2676c8130627b1fdc9e5c1477e5e6c0979d4319440d028a3cb714",
+   "jpUrl": "c9a6aa4c72a6a8a66d2385a9863da050183d3c58e33bc7870a557801fff41a02",
+   "enUrl": "17303478d8ef3bcac8588922c9da68f19d851b9a5e3186baa580becb354364db",
+   "krUrl": "c61967fda53de89cb02e80171f64d7a17e9d0dd2bef829cc9493a155886b3faf"
+  },
+  {
+   "id": 71,
+   "title": "수수께끼 풀이 성공•1",
+   "text": "화음을 분해하는 것과 비슷하네요",
+   "unlockRequirement": "",
+   "cnUrl": "73eb12e9ef252adf078146d3d5f044ee2da271b7a6915c357a6fd27f35afc297",
+   "jpUrl": "02444b665af8419f4f420f43e3caad166b09cc60ec853f30790e3d0ac7071bc8",
+   "enUrl": "163dc950dae283072543154faf17900933d06ed07836049446159bd40f8252c6",
+   "krUrl": "240ccbaa0498299a747c1ca7b8e8842ec508768598726987729222e89fa704ab"
+  },
+  {
+   "id": 72,
+   "title": "수수께끼 풀이 성공•2",
+   "text": "멜로디로 이뤄진 수수께끼는 없나요?",
+   "unlockRequirement": "",
+   "cnUrl": "7936734fc40d116c351b1e3d514bda6d0ccd62ff3a0c8c7949c0b292036e1370",
+   "jpUrl": "73a4d948a267fd4721300775750ec3c901af706fca2ab154c2cd933a1a47802e",
+   "enUrl": "ca690b4e309c9f3ed98ceccf93e29b00ab377835c975c152f558a4921932b233",
+   "krUrl": "c70016305b37e7e3f8c4800c8d4e2775b980b4231ace2ebfbaac34ec546c35b9"
+  },
+  {
+   "id": 73,
+   "title": "적 발견",
+   "text": "불협화음이 들리는 것 같아요",
+   "unlockRequirement": "",
+   "cnUrl": "98f7a7eca45af109be6e0ae299aab7633ebdebddd702ca8afdad2feb4d28c319",
+   "jpUrl": "00aa292c9dc5a41906678d50bc4f53ef3a75a63ad9378d9b6ee0ca18f441c002",
+   "enUrl": "c6db049d6d9021969cef2b7720fc80263fd1658ad1332093a891a28b68e08056",
+   "krUrl": "43c9eee74b172402683a3e665e09cf5e4002975c9645ef491d633eb2ca09f294"
+  },
+  {
+   "id": 74,
+   "title": "도시로 복귀",
+   "text": "투어가 끝났으니 돌아가서 쉬어야겠어요",
+   "unlockRequirement": "",
+   "cnUrl": "c285e6db8c4f51cf463edd532de7409e8d7bc22e9aed82a0655c73ab845b8418",
+   "jpUrl": "3452ba16e8792e3eebffd130c92fe402ee0c0ae7f2636d2c6e7e8ae5f12bcae8",
+   "enUrl": "1d20a858e9412920f4fe764c73bfef441b5979e67a5675588721c3eb3a3ba380",
+   "krUrl": "57c3b258585f4255fd710dcde991b9719bf32650ce81a808a9d6f58cbbd2574a"
+  }
+ ],
+ "storyItems": [
+  {
+   "title": "캐릭터 상세",
+   "text": "페나코니에서 태어난 은하에서 유명한 헤일로족 가수. 차분하고 우아한 분위기의 소녀다.<br />이번에 가족의 초대를 받고 고향으로 돌아와 「조화의 축제」에서 손님들을 위해 노래를 부르게 되었다.<br />「화합」의 힘을 빌려 노랫소리를 전하고, 팬들뿐만 아니라 만계의 생령들에게 「공명」을 일으킬 수 있다",
+   "unlockRequirement": ""
+  },
+  {
+   "title": "캐릭터 스토리•1",
+   "text": "「그녀는 자신의 삶을 노래로 표현한다. 이 노래의 도입부는 침울하고 씁쓸하다.<br /><br />그녀가 강보에 싸인 갓난아기일 때, 스텔라론이 그녀의 고향에 떨어졌다.<br />『울음, 탄식, 기도——그게 제가 기억하는 첫 목소리예요. 우리는 슬피 노래를 부르며 구원해달라 기도했지만, 결국 신의 눈길을 받을 수 없었죠……』<br /><br />항상 미소를 짓고 있던 이 가수는 보기 드물게 침묵했다.<br /><br />『그래서, 그게 당신의 음악에 영감을 주었나요?』<br /><br />『그때 전 너무 어려서 대부분의 노래를 기억하지 못해요. 하지만 스텔라론이 꿈세계를 삼키기 시작했을 때, 어머니가 저와 오빠를 품에 안고, 노래로 무서워하는 저희를 달래려고 하셨던 건 기억해요……』<br /><br />『어머니가 어떤 노래를 부르셨는지 기억나세요?』<br />그녀의 괴로워 보이는 표정에 나는 화제를 바꾸려고 했다. 하지만 그녀는 잠시 뜸을 들이다가 대답했다.<br /><br />『들리지 않았어요…. 무시무시한 굉음 때문에 어머니의 입술이 움직이는 것만 보였죠. 저희를 꼭 안고 계셨는데 가슴이 들썩거렸어요. 오빠는 옆에서 제 손을 꼭 잡고 있었고요. 어머니 뒤로 차가운 별이 빠르게 추락했고… 어머니는 기억의 영역 소용돌이 속으로 녹아내렸죠. 우리는 날개가 부러진 새처럼 바닥에 떨어졌어요……<br /><br />추락할 운명이라면, 새는 어째서 하늘을 향해 날려고 할까요?』<br /><br />나는 대답하지 않았다. 대답할 수도 없었다. 이건 나한테 묻는 게 아니었다. 게다가 답은 그녀의 마음속에 있었다」 <br /><br /><align=\"right\">——≪새와 하늘: 로빈 독점 인터뷰≫에서 발췌</align>",
+   "unlockRequirement": "캐릭터 레벨 Lv.<nobr>20</nobr> 개방"
+  },
+  {
+   "title": "캐릭터 스토리•2",
+   "text": "「다행히 무거운 분위기는 오래가지 않았다. 우리는 함께 베리 아이스크림을 나눠 먹었고, 그녀는 다시 그 활기찬 모습으로 돌아갔다.<br /><br />스텔라론 참사 후, 가족은 생존자들에게 구원의 손길을 내밀었다. 그녀와 오빠는 보호받았고, 양질의 교육도 받았다. 그리고 이때, 그녀는 타고난 음악적 재능을 보이기 시작했다.<br /><br />『어릴 때 맛 그대로네요. 그때는 목을 보호해야 한다고 해서 오빠가 망을 봐줘야 몰래 아이스크림을 먹을 수 있었어요』<br />그녀는 만족스럽게 컵을 내려놓았다.<br /><br />『취미가 일이 되면 힘들어지는 법이잖아요. 저는 과학적으로 노래하는 법을 익혀야 했고, 악기와 작곡, 작사, 매너를 배워야 했죠…. 몇 번이나 포기하려고 했지만, 주변 사람들의 도움과 격려로 버텨냈어요』<br /><br />그녀는 자신이 만든 첫 번째 노래에 대해 이야기하기 시작했다. 앨범 재킷에서 이 곡에는 특이하게도 『희망을 잃은 모든 분들께 바칩니다』라는 문구가 있다. 이 노래는 은하의 좋은꿈의 별 『페나코니』에서 영감을 받은 곡이다.<br /><br />『허공의 좋은꿈, 일어날 수 없는 일, 기묘한 기억의 영역에서 실현되는 꿈… 당시 전 단순히 저처럼 의지할 곳 없이 떠도는 사람들이 그곳에서 자신만의 안식처를 찾길 바랐어요. 하지만……』<br /><br />그녀는 한숨을 쉬며 창밖을 바라보았다. 주룩주룩 내리는 비가 거리를 회색으로 물들이고, 밝은색 비옷을 입은 아이들이 빗속에서 장난을 치고 있었다. 그녀는 고개를 돌려 엄숙하게 말했다——<br />『하지만 세계가 어떻게 변한다 해도, 제 소망은 바뀌지 않아요』」<br /><br /><align=\"right\">——≪새와 하늘: 로빈 독점 인터뷰≫에서 발췌</align>",
+   "unlockRequirement": "캐릭터 레벨 Lv.<nobr>40</nobr> 개방"
+  },
+  {
+   "title": "캐릭터 스토리•3",
+   "text": "「앨범 3장을 연속으로 발표한 후, 그녀의 음악 인생은 정점으로 향하고 있었다. ≪애타는 한 가슴을 달랠 수 있다면≫, ≪가장 아름다운 날에≫ 등의 노래가 은하의 각 음악 차트를 휩쓸면서 사람들의 입에 오르내리는 인기곡이 되었다. 그런데 어째서인지 그녀는 이 시기에 대중의 눈에서 사라지기로 선택했다.<br /><br />그녀는 그 시기를 이야기하며 우리에게 직접 찍은 사진들을 보여주었다. 전쟁의 폐허 속에서 그녀는 갈 곳 없이 떠도는 사람들의 보금자리 재건을 도왔고, 교육을 받을 수 없는 아이들을 위해 학교를 세웠으며, 아무도 모르는 세계로 가서 사라져가는 노래를 찾았다……<br /><br />그녀는 휴대폰을 끄고 한숨을 쉬며 이런 결정을 내린 이유를 밝혔다.<br />『당시 저는 갈수록 제가 무엇을 위해 노래하는지 알 수가 없었어요』<br />『진짜 재난 앞에서 노래는 아무 쓸모도 없죠. 노래는 높은 권력자에게 잘 보이기 위한 것일까요? 아니면 고난을 미화해 사람들에게 헛된 희망을 주기 위한 것일까요?』<br /><br />그 여정의 마지막으로 그녀는 헤일로족의 터전이 무너졌던 곳으로 돌아갔다. 참혹했던 폐허는 푸르른 풀로 덮여 있었다. 그녀는 산들바람과 꽃향기 속에서 울퉁불퉁한 바위에 기대어 햇빛이 구름을 뚫고 비추는 대지를 바라보았다.<br /><br />『저는 몇 번이나 어머니의 노랫소리를 떠올렸어요. 전에는 그게 부질없는 목소리라고 생각했어요. 그 노래가 어떤 소리인지 기억하지도 못했고, 그게 파멸이라는 결말도 바꾸지 못했으니까요. 하지만 이제서야 깨달았어요. 노래가 전하는 건 목소리뿐만이 아니라는 걸요…. 저는 어머니의 심장박동, 옆에 있던 오빠의 떨림, 서로에게 의지한 우리 셋의 온기를 아직도 기억해요…. 바꿀 수 없는 결말 앞에서도 떨지 않고 자신의 목소리를 낸다면, 반드시 전해질 거예요……』<br /><br />창밖의 비는 조금씩 잦아들고, 그녀는 당시의 추억에 잠겼다. 불행히도 전화벨 소리가 매혹적인 정적을 깨뜨리면서 우리의 인터뷰는 여기서 끝났다.<br /><br />일정 변동 때문에 로빈 씨는 바로 페나코니로 가야 했다. 독자 여러분, 꿈의 나라에서 다시 만나기를…」 <br /><br /><align=\"right\">——≪새와 하늘: 로빈 독점 인터뷰≫에서 발췌</align>",
+   "unlockRequirement": "캐릭터 레벨 Lv.<nobr>60</nobr> 개방"
+  },
+  {
+   "title": "캐릭터 스토리•4",
+   "text": "「1년 후, 우리는 페나코니에서 저번의 인터뷰를 이어서 하자는 초대를 받았다.<br /><br />그녀는 저번에 만났을 때보다 더 피곤해 보였고, 목소리도 많이 쉬어 있었다. 이번에 그녀는 가족의 정중한 예복을 차려입고 조심스럽게 행동했다. 하지만 다시 만났을 때 그녀는 여전히 온화하고 친근했다. 이번에 우리는 품위 있는 지도자인 그녀의 오빠도 만났다.<br /><br />『이게 바로 은하의 유일한 좋은꿈 세계이자 가족의 자리입니다. 가족은 황폐한 꿈세계를 지상 낙원으로 개조했습니다……』<br />그녀의 오빠는 우리에게 페나코니의 역사를 하나하나 소개해주었고, 그녀는 꿈 입장의 불편함을 덜어주며 친절하게 꿈세계의 요리를 맛보게 해주었다.<br /><br />우리는 꿈속의 갖가지 멋진 풍경을 구경했다. 하지만 아쉽게도 이런 시끄러운 환경에서는 심도 있는 인터뷰를 진행할 수가 없었다.<br /><br />마지막으로 우리는 웅장한 극장에 도착했다. 다가오는 조화의 축제에서 그녀는 이 화려한 무대에 올라 노래를 부르며 우주에 화합의 소리를 전파할 것이다.<br /><br />인터뷰가 거의 끝났다고 생각할 무렵, 그녀는 휘황찬란한 극장을 보며 갑자기 인터뷰 초반에 던졌던 질문을 다시 꺼냈다.<br /><br />『편집장님, 제가 그때 여쭤봤던 거 기억하시나요? 새가 왜 하늘을 향해 날려고 하냐고요. 페나코니에 돌아와서 전 한참을 생각했어요』<br /><br />그녀는 꿈세계의 하늘을 바라보았다. 짙은 밤하늘 밑은 인공적인 빛으로 가득했다.<br />『새는 그럴 운명이었을 거예요. 그건 새의 소망이자 돌아갈 곳, 박탈할 수 없는 권리니까요……』<br /><br />그녀는 웃으며 어딘가를 바라보더니 우리를 초대했다.<br />『나중에 이곳에서 성대한 공연이 있을 거예요. 저는 이곳에서 지금까지 가장 만족스러웠던 노래를 선보일 건데, 사람들이 서로의 손을 잡았으면 좋겠어요. 꿈속 세계라고 해도 빛은 들기 마련이니까요』<br /><br />그녀가 어디를 바라보고 있었는지는 모르겠지만, 분명 극장의 무대는 아니었을 것이다. 그렇다면 그녀가 말했던 공연은 뭘까?<br /><br />단 하나 확실한 건, 그런 호사스러운 곳에서도 그녀는 약자를 돕는 강자의 신념을 버리지 않았다는 것이다. 이런 신념은 그녀의 일생 동안 이어졌다. 씁쓸한 도입부는 우아하고 아름다운 벌스를 지나 암류가 소용돌이치는 간주가 지난 후 가장 화려하게 피어나면서 막을 내릴지도 모른다」<br /><br /><align=\"right\">——≪새와 하늘: 로빈 독점 인터뷰≫에서 발췌</align>",
+   "unlockRequirement": "캐릭터 레벨 Lv.<nobr>80</nobr> 개방"
+  }
+ ],
+ "archive": {
+  "cvCn": "钱琛 / 歌: Chevy",
+  "cvJp": "名塚佳織 / 歌: Chevy",
+  "cvKr": "신온유 / 노래: Chevy",
+  "cvEn": "Alice Himora / Song vocals: Chevy",
+  "camp": "페나코니"
+ },
+ "calculator": {
+  "expCost": {
+   "1": 200,
+   "2": 300,
+   "3": 500,
+   "4": 600,
+   "5": 1050,
+   "6": 1670,
+   "7": 2320,
+   "8": 3060,
+   "9": 3860,
+   "10": 4740,
+   "11": 5710,
+   "12": 6730,
+   "13": 7830,
+   "14": 9000,
+   "15": 10240,
+   "16": 11550,
+   "17": 12920,
+   "18": 14360,
+   "19": 15870,
+   "20": 16580,
+   "21": 16840,
+   "22": 17100,
+   "23": 17370,
+   "24": 17640,
+   "25": 17910,
+   "26": 18190,
+   "27": 18480,
+   "28": 18760,
+   "29": 19040,
+   "30": 19340,
+   "31": 19630,
+   "32": 19930,
+   "33": 20220,
+   "34": 20530,
+   "35": 20840,
+   "36": 21140,
+   "37": 21450,
+   "38": 21760,
+   "39": 22080,
+   "40": 22390,
+   "41": 25550,
+   "42": 29140,
+   "43": 32830,
+   "44": 36600,
+   "45": 40470,
+   "46": 44430,
+   "47": 48480,
+   "48": 52630,
+   "49": 56870,
+   "50": 61190,
+   "51": 65620,
+   "52": 70130,
+   "53": 74740,
+   "54": 79450,
+   "55": 84240,
+   "56": 89120,
+   "57": 94110,
+   "58": 99190,
+   "59": 104350,
+   "60": 106240,
+   "61": 111830,
+   "62": 117530,
+   "63": 123320,
+   "64": 129210,
+   "65": 135200,
+   "66": 141290,
+   "67": 147480,
+   "68": 153780,
+   "69": 160170,
+   "70": 179260,
+   "71": 199920,
+   "72": 220920,
+   "73": 242260,
+   "74": 263930,
+   "75": 285950,
+   "76": 308300,
+   "77": 331000,
+   "78": 354040,
+   "79": 377420,
+   "80": 414350
+  },
+  "expItemConfig": {
+   "1000": 409962,
+   "5000": 409961,
+   "20000": 409960
+  },
+  "sCoinId": 29328
+ },
+ "name": "로빈",
+ "rarity": 5,
+ "descHash": "페나코니에서 태어난 은하에서 유명한 헤일로족 가수. 차분하고 우아한 분위기의 소녀다. 이번에 가족의 초대를 받고 고향으로 돌아와 「조화의 축제」에서 손님들을 위해 노래를 부르게 되었다. 「화합」의 힘을 빌려 노랫소리를 전하고, 팬들뿐만 아니라 만계의 생령들에게 「공명」을 일으킬 수 있다",
+ "artPath": "0138e78111a7211d884e5ac86d8745f7d556b3d769edc541724ff94c9e7f8a84",
+ "miniIconPath": "92edd6c32fa7d7899058fa5d263158536da5b0afca1bd6779bda7bfd53360c6d",
+ "damageType": {
+  "id": 1,
+  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "color": "#FFFFFF",
+  "name": "물리",
+  "rarity": 0
+ },
+ "baseType": {
+  "id": 0,
+  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
+  "altIconPath": "691e6c36e7f71344352e4ed80941938d7dc5722b23cef7a18f7fa8722d8c0523",
+  "color": "#FFFFFF",
+  "name": "화합",
+  "rarity": 0
+ },
+ "pageId": "robin"
+}

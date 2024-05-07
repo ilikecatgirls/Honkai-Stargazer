@@ -6,9 +6,8 @@
  "fgPath": "819e62ad80ac68bb47a00a739d7f3b83278a98f86870feb50202c0a670e9e1b1",
  "splashIconPath": "7f5b3f5a4ae7f7eb6ad10093fda8946c266e4f005c5b2a470054af60e16c3902",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRrgCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAsBAAABkGRr2yE471/Vtt0bsI3Ytm0nsyzAmNk2Rj3MFmxnZJv1/+8bVGUNETEBCPUHxvvwYTxExqB5yeXYNbVoG4+YMA+o4bXNulN/ey3CDZrLhj6SqO93Vs2fkQEfQOl+WSdLK+ekDgBph94FkkiJUqDHmwcnZD8RSYqkSDpJU9De/VmkQkm5H5oObJWlIkmrC3FJWyQqkmSgJcg7Jfc/sno2wABHZBkhp4/l8FBxnowidXuFh5SLsiQpUqRe7n4wEF2SDX45kiIDagSSkLTuq/61cpSo10UwwOy3+5d3f5SV7mz5dKQxETCIzYH5smqHXo1+uLp3BaKL1xkc7Y2RcwEvzCAOQDI8xPkGAAAAVlA4IIYBAABQBwCdASoUABQAPm0ulEckIqIhKAqogA2JbACdMoPHacJoBzuemq+hL+mfpmexJ5VVyANiQNI8K+JgPt8CbD6PPnWAAP7zQDuCCP/59oTjeJ+U/HaaHGboBSd5P2KBOl+bPZS2IjPSjO09hzsLLI7bt+JrJH8O/d5pyNnidr12d/xHjXTDm78h1n9miAJl3+FN6acdz9m4rMDF7hS8jlag2JvJfxOgH1U0YZF8IHzDxsiQdyMCAzjy2BEzAEy4bps/Cy9XVPLlHLHTnkmsYES9OrCH+9O0BuGtWYpOZSxMSScUj6t/I9vGaF28Brg6XFbmC4vwfBeqRBhM2Omb84H5tgaOv/g/7o1Q6NFXu6D8+21n+C49cQEfLM8X8DtQ8vrbaht3PgM+Tb1PfpID88deGcqjJzaDNdZ4qfjg+MXX5SB25zulk55YbX+A/l1fq/7+df8ftrE76Y1pi6BVD/PV8oc5Bte/v+jAvsSKIBn7PSD7q8vfYQ1gpnnLJo+7yNlLgUCAAAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -195,7 +194,6 @@
    "rewardPath": "/material/635673",
    "comeFrom": [
     "Calyx (Storage Zone)",
-    "Calyx (Storage zone)",
     "Embers Exchange",
     "Omni-Synthesizer — Material Exchange"
    ]
@@ -441,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "3c8d9a6696f430ddd66d3ef22390ef1445353f54b3d4104e34eb0c0ff21fff0b",
+   "iconPath": "1524d344a00af2d4f15723cef19b8a1ed65a53c63adf330b6026673fff839c19",
    "artPath": "a1bdb213c5b1795aa3ce19b1de9d019fc99f5d2635d4b613c56977dc25d7d4fc",
    "name": "Dvesha, Inhibited",
    "descHash": "Increases the DMG dealt by the Talent's follow-up attack by <nobr>#1[i]%</nobr>.",
@@ -451,7 +449,7 @@
   },
   {
    "id": 2,
-   "iconPath": "b05d757cb8e651f3114fddeb6aa2014b26ef25d2b5932958bb3a5ccdd7c93a01",
+   "iconPath": "74fd71ab6ed4e5edd54d409ab7fa4a43c436b10aab0b24a8811e2f6588812fd8",
    "artPath": "20c9b626d3ebc1e67c4808fedb8197af4b97f3b5f7fe50faa7e86fd0508db88e",
    "name": "Klesha, Breached",
    "descHash": "Talent's follow-up attack reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to <nobr>#1[i]%</nobr> of her Max HP. When breaking Weakness, triggers the Quantum Break Effect.",
@@ -461,7 +459,7 @@
   },
   {
    "id": 3,
-   "iconPath": "0e9168133bf53accad8ddeabe04d5aea242493a6144c4a5d2b33e672d0d4940a",
+   "iconPath": "967393d189fcfc2489cc76446f37d35df62007f92b03aab2e4130948d2edaf12",
    "artPath": "0b92d047164f7b2182cf65eb0ae34f8925891766b02459466429e553c4f6d0ae",
    "name": "Duḥkha, Ceased",
    "descHash": "Skill Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Basic ATK Lv. +1, up to a maximum of Lv. <nobr>10</nobr>.",
@@ -469,7 +467,7 @@
   },
   {
    "id": 4,
-   "iconPath": "bd7ef5fa699f7a9e53f297d365cb381e0c2af39938957378528cf251e5b2e45c",
+   "iconPath": "45168783bcc73004c5a25ba6d3428b71b21589241d792764cea380ba4ca0439e",
    "artPath": "d20de2399ad93585a8516d3aaa6ce9df0fc818b514a0adeb6f11062cb2a858ef",
    "name": "Karma, Severed",
    "descHash": "When using Ultimate, increases Break Effect by <nobr>#1[i]%</nobr> for <nobr>#2[i]</nobr> turn(s).",
@@ -480,7 +478,7 @@
   },
   {
    "id": 5,
-   "iconPath": "15086803f357399f4cd6ec281fdf5b28a62bac35a1a027a19b51ab2a412208f6",
+   "iconPath": "9057299f5d9277fa8a12c632b88834551f29fa66ab39df826505d26d7cd11557",
    "artPath": "4f1f427a0d932aa285eefdcdbc1604bbd9ca7a87c1aa427bc5a97593211eab63",
    "name": "Deva, Enthralled",
    "descHash": "Ultimate Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Talent Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.",
@@ -488,7 +486,7 @@
   },
   {
    "id": 6,
-   "iconPath": "c07781ebfc010ba35282acc80264e958ed1693b9e9d13ae30cb568273ba8d64b",
+   "iconPath": "b048f1e21010e6eac200414cc203492ec36ef57d36d2dbe0e58ac4b8da1f059a",
    "artPath": "afdf3580f4ceb602f844b9a13fd6427025be365488c51bdea8104108077935ed",
    "name": "Saṃsāra, Mastered",
    "descHash": "The max stack limit for Karma decreases to <nobr>#1[i]</nobr>.",
@@ -523,7 +521,7 @@
    "energy": "20",
    "id": 419087,
    "name": "Mara-Sunder Awl",
-   "iconPath": "426b3cc60577f2cf43be55f384ddb2bacb09b546134f8cd5c6571f4073e9bd08",
+   "iconPath": "4a757d0c4e4cc6672e4bda1e7b23c3b7d595ca3c9e08ae576e3578d759ccfa30",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +682,7 @@
    "energy": "30",
    "id": 302442,
    "name": "Iniquity Obliteration",
-   "iconPath": "0e9168133bf53accad8ddeabe04d5aea242493a6144c4a5d2b33e672d0d4940a",
+   "iconPath": "967393d189fcfc2489cc76446f37d35df62007f92b03aab2e4130948d2edaf12",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -970,7 +968,7 @@
    "energy": "5",
    "id": 218501,
    "name": "Divine Castigation",
-   "iconPath": "f01e1ee475da84a5b6619efc73243cb5b0fa65726c754d3dbd7b788b36e90b69",
+   "iconPath": "a5134c61e8fb29fd3f4992faa96c150c1aaa773b91b811ab08da2a95388ad40f",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1271,7 +1269,7 @@
    "energy": "2/hit",
    "id": 904200,
    "name": "Karmic Perpetuation",
-   "iconPath": "4ffa07f85ea9093f7201e9e36119d8c3197eebaf6c3f68c104fa6089495becc4",
+   "iconPath": "f1135c7361b767269fdd56471faabe8188de57802fc7a57b3e54c77d0433957e",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1572,7 +1570,7 @@
    "energy": "0",
    "id": 703614,
    "name": "Attack",
-   "iconPath": "426b3cc60577f2cf43be55f384ddb2bacb09b546134f8cd5c6571f4073e9bd08",
+   "iconPath": "4a757d0c4e4cc6672e4bda1e7b23c3b7d595ca3c9e08ae576e3578d759ccfa30",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1594,7 +1592,7 @@
    "energy": "0",
    "id": 619673,
    "name": "Summary Execution",
-   "iconPath": "86f8e7366e2bfe5613600c65d5c7427812b4b3ee15cbacd72b7d449a8ccf5e8e",
+   "iconPath": "2d2a43fee7c83f6b2545dc6ff6c610403241f78c41f1cdd7991ac67d16962110",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1724,7 +1722,7 @@
     "ultimateCost": 0,
     "id": 59332,
     "name": "Clairvoyant Loom",
-    "iconPath": "5ea35ed5943b4f7c1654e0138f56b282114322e9a5e6b6bc8ce3fa57ea61d17d",
+    "iconPath": "3befe8b0399c35128d663fe2eca7d893654e4981491ca459520a36dbe6fd6ab8",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1866,7 +1864,7 @@
     "ultimateCost": 0,
     "id": 59333,
     "name": "Intrepid Rollerbearings",
-    "iconPath": "dd43ba36d72eded3f89faa2832ad284d84ee1cbf314bba35816dfed66cf97d25",
+    "iconPath": "3a80bfa57b67793854e610d5c7213c3c1712c7c8ec446b875e2ddaa52d7d6c3e",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2011,7 +2009,7 @@
     "ultimateCost": 0,
     "id": 59334,
     "name": "Perspicacious Mainframe",
-    "iconPath": "5a22f9830b94d8e19a7176ebc2ea27aeafe5bb8cb3830a0a8dd741fed2940ab5",
+    "iconPath": "71f5d6b8ff1938c371d15cfeb67bc1cdba590694dd5489eba479783580ddc133",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2634,7 +2632,7 @@
   },
   {
    "title": "Character Story: Part I",
-   "text": "\"Ten Lords perceptual, Karma perpetual.\"<br /><br />Dressed as white as the driven snow, the Judge strolled out from the dim street, obscuring his final escape.<br /><br />The man drew closer, but the shrill tremble in his voice betrayed his fear: \"How... is catching them not enough?\"<br /><br />It may have started with a \"How,\" but not as a question, rather as a rhetorical one. The semantic analysis goes back and forth in the mind, and there's no other intel other than \"the target clearly knew who the accomplice was.\"<br /><br />She decided to execute the mission assigned to her straight away.<br /><br />The eyeballs, forehead, chin, heart, the Core Esse, and the lower abdomen... With a glance, she marked off all the parts that might make for a single effective strike. Despite Foxians being known for their quick reactions, her opponent had left himself wide open and one round... two rounds, max, should be enough to take care of things.<br /><br />But this blow missed.<br /><br />The Judge looked at him with an air of curiosity. The man's body seemed to move like scurrying mice, with muscles undulating, and his eyes sparkled with the gleam of a well-executed plan.<br /><br />He panted violently as though suffering from a critical illness, and during a burst of uncontrollable pain his body shot out large swathes of fine hairs as his limbs and body swelled and tore open by some invisible force. Under the glow of moonlight within the delve, a monstrous wolfman stood up. In the view of the Judge, the sanguine silhouette enveloping its body had burned up into a wildfire.<br /><br />\"You... are seeking death.\" She has an urge to sigh out of habit, but her body no longer has that function. \"The partaking of the Disciples of Sanctus Medicus' concoction will only hasten your demise.\"<br /><br />The man's gaze barely wavers at all. \"The second I was discovered by you, I only ever had a few more days to live.\"<br /><br />The Foxian grabs the medicine pouch, and pours out more pills into his mouth as though it were candy. \"You are a tool that sheds no blood and cry no tears. You could never understand — I have my reason for leaving here!\"<br /><br />A huge fist suddenly expanded, filling up the entire field of vision, and the Judge barely had any time to react. Shaking her arms, the chain she clutched whipped into a circle as she tried to lasso the fist.<br /><br />The fist punched into her chest with astonishing force, splitting cracks into the ground like cobwebs and creating a crater beneath where the white-robed Judge was standing.<br /><br />There was no pain, only the gentle ringing of damaged ingenium parts. The white-robed Judge was left befuddled.",
+   "text": "\"Ten Lords perceptual, Karma perpetual.\"<br /><br />Dressed as white as the driven snow, the Judge strolled out from the dim street, obscuring his final escape.<br /><br />The man drew closer, but the shrill tremble in his voice betrayed his fear: \"How... is catching them not enough?\"<br /><br />It may have started with a \"How,\" but not as a question, rather as a rhetorical one. The semantic analysis goes back and forth in the mind, and there's no other intel other than \"the target clearly knew who the accomplice was.\"<br /><br />She decided to execute the mission assigned to her straight away.<br /><br />The eyeballs, forehead, chin, heart, the Core Esse, and the lower abdomen... With a glance, she marked off all the parts that might make for a single effective strike. Despite foxians being known for their quick reactions, her opponent had left himself wide open and one round... two rounds, max, should be enough to take care of things.<br /><br />But this blow missed.<br /><br />The Judge looked at him with an air of curiosity. The man's body seemed to move like scurrying mice, with muscles undulating, and his eyes sparkled with the gleam of a well-executed plan.<br /><br />He panted violently as though suffering from a critical illness, and during a burst of uncontrollable pain his body shot out large swathes of fine hairs as his limbs and body swelled and tore open by some invisible force. Under the glow of moonlight within the delve, a monstrous wolfman stood up. In the view of the Judge, the sanguine silhouette enveloping its body had burned up into a wildfire.<br /><br />\"You... are seeking death.\" She has an urge to sigh out of habit, but her body no longer has that function. \"The partaking of the Disciples of Sanctus Medicus' concoction will only hasten your demise.\"<br /><br />The man's gaze barely wavers at all. \"The second I was discovered by you, I only ever had a few more days to live.\"<br /><br />The foxian grabs the medicine pouch, and pours out more pills into his mouth as though it were candy. \"You are a tool that sheds no blood and cry no tears. You could never understand — I have my reason for leaving here!\"<br /><br />A huge fist suddenly expanded, filling up the entire field of vision, and the Judge barely had any time to react. Shaking her arms, the chain she clutched whipped into a circle as she tried to lasso the fist.<br /><br />The fist punched into her chest with astonishing force, splitting cracks into the ground like cobwebs and creating a crater beneath where the white-robed Judge was standing.<br /><br />There was no pain, only the gentle ringing of damaged ingenium parts. The white-robed Judge was left befuddled.",
    "unlockRequirement": "Unlocked at Character Level <nobr>20</nobr>"
   },
   {
@@ -2649,7 +2647,7 @@
   },
   {
    "title": "Character Story: Part IV",
-   "text": "The raspy laughter of the Foxian next to the judge's ears sounds like the howling of a wolf.<br /><br />The man took away dozens of the most valuable pellets in the organization. Now, it appears that he is simply lacking in combat experience. Ingesting just one pellet is already enough to easily crush the judge before him.<br /><br />\"At the end, ingenia have their limits... They are nothing compared to the immeasurable potential of the bodies of us long-life species.\"<br /><br />The Foxian chuckles and tries to retrieve his arm, only to find several chains entangling it. The chains are interlocked and intertwined over his skin like spider silk.<br /><br />The judge's eyes are glowing through the gaps in her long black hair, which cascades down her face. Her expression reminds the Foxian of a predator that had smelled blood. \"My ingenium organ, 'Deities of the Five Organ Senses,' has been damaged. The part responsible for my sympathy has been reduced.\"<br /><br />\"...That's ridiculous!\" As the Foxian curls his fingers into the shape of a claw and powerfully slams it down, a three-pronged spike pierces through his palm. He shrieks in pain.<br /><br />\"I originally wanted to let you undergo interrogation in the Shackling Prison with your body intact, but you have shattered my sympathy.\"<br /><br />\"Just drop your act! Have you forgotten that I'm tied to you through your chain?\" The wounded beast caught in the trap starts struggling. The Foxian pulls the chain and drags the white-robed judge into his arms. Every inch of his massive muscles contracts like coiled ropes in response to his anger. The unsettling sound of bones sliding out of their sockets and becoming misaligned pops loudly in the air.<br /><br />\"Just like how you put it, body of flesh and blood holds unfathomable potential... But it has a crucial setback. It feels pain.\"<br /><br />The white-robed judge's voice hums as the man's agonizing screams resonate in the night sky.<br /><br />She props her shattered right arm up. Her broken iron bone protrudes out like the sharp tip of a spear, stabbing into the Foxian's jaw that already appears like a wolf's. The twisted fugitive scrambles in all directions but fails to break free from the judge's relentless pursuit. He rolls around on the ground in excruciating pain, finally losing consciousness and going limp like a puddle of goo.<br /><br />\"You say I am a tool that sheds no blood and cries no tears?\" The judge, now dressed in a bloodstained robe, slowly rises from the massive body of the criminal. \"It's Abominations of Abundance like you... that have shattered my sympathy.\"<br /><br />She tries her best to push her skull, spine, and patella back to the correct positions, then fastens to her waist the severed arm that cannot be re-attached no matter what.<br /><br />What will her sister and Huohuo say about this time? A habit slumbering deep in her mind makes her want to heave a sigh, but her body no longer has that function.",
+   "text": "The raspy laughter of the foxian next to the judge's ears sounds like the howling of a wolf.<br /><br />The man took away dozens of the most valuable pellets in the organization. Now, it appears that he is simply lacking in combat experience. Ingesting just one pellet is already enough to easily crush the judge before him.<br /><br />\"At the end, ingenia have their limits... They are nothing compared to the immeasurable potential of the bodies of us long-life species.\"<br /><br />The foxian chuckles and tries to retrieve his arm, only to find several chains entangling it. The chains are interlocked and intertwined over his skin like spider silk.<br /><br />The judge's eyes are glowing through the gaps in her long black hair, which cascades down her face. Her expression reminds the foxian of a predator that had smelled blood. \"My ingenium organ, 'Deities of the Five Organ Senses,' has been damaged. The part responsible for my sympathy has been reduced.\"<br /><br />\"...That's ridiculous!\" As the foxian curls his fingers into the shape of a claw and powerfully slams it down, a three-pronged spike pierces through his palm. He shrieks in pain.<br /><br />\"I originally wanted to let you undergo interrogation in the Shackling Prison with your body intact, but you have shattered my sympathy.\"<br /><br />\"Just drop your act! Have you forgotten that I'm tied to you through your chain?\" The wounded beast caught in the trap starts struggling. The foxian pulls the chain and drags the white-robed judge into his arms. Every inch of his massive muscles contracts like coiled ropes in response to his anger. The unsettling sound of bones sliding out of their sockets and becoming misaligned pops loudly in the air.<br /><br />\"Just like how you put it, body of flesh and blood holds unfathomable potential... But it has a crucial setback. It feels pain.\"<br /><br />The white-robed judge's voice hums as the man's agonizing screams resonate in the night sky.<br /><br />She props her shattered right arm up. Her broken iron bone protrudes out like the sharp tip of a spear, stabbing into the foxian's jaw that already appears like a wolf's. The twisted fugitive scrambles in all directions but fails to break free from the judge's relentless pursuit. He rolls around on the ground in excruciating pain, finally losing consciousness and going limp like a puddle of goo.<br /><br />\"You say I am a tool that sheds no blood and cries no tears?\" The judge, now dressed in a bloodstained robe, slowly rises from the massive body of the criminal. \"It's Abominations of Abundance like you... that have shattered my sympathy.\"<br /><br />She tries her best to push her skull, spine, and patella back to the correct positions, then fastens to her waist the severed arm that cannot be re-attached no matter what.<br /><br />What will her sister and Huohuo say about this time? A habit slumbering deep in her mind makes her want to heave a sigh, but her body no longer has that function.",
    "unlockRequirement": "Unlocked at Character Level <nobr>80</nobr>"
   }
  ],

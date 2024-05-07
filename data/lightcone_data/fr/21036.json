@@ -5,9 +5,8 @@
  "iconPath": "eb377578f2a10c7427bf93be5edea1cc49b0ba72f3e212625d363bc9bdd50038",
  "artPath": "97cbc7b410267cdbba566f2b66538620f6bfd8069a017f13cb7bdccb65f9af8d",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAABwCQCdASoUABwAPm0uk0akIqGhMBgIAIANiWwAnTKEgQiCLCvM4Ce2r53LTY95L/0ThteALeV9JewB+qG+ABzuL1VaIWrvMRB+TfNTKZIWbnFrYAAA/v2lDErhWLtNGzhNB+YiH2f+YwY9iB0Ouk4MnSyHlLHsE18z+TW3rf1PC4jEXKA5HYFpYrIoa3RC+emM02n3BOw7N6Zb/2o1hYfOIvqq+TvHbUjhKbU24uRp9PO8v2s0c+fux9+1E9ln57P/T/6rb/ctfK6o9Ci209jvTndPsV5FBeoa/fN+Sp6w7uVFBWbpgKaJgGNTdl/VcyIVsX0qODOfkD6YWPQuX3pfbXhEwBPrqqsoJrKzz1TF7+Vac9g0YVdeiWjmLxjzE/9EZ7LBY0hl05nmc5jUprsNIzYEZaTwf8oa+BtaO1VRbG84zGqjj84MlCTPkJu/6Bw4sn+tQEHMRGHUebNCf8f/atOnRapzdt4KXvprjhfmrGeDVaaVqzFlarJVEpvQuanIFuoFNkZktEW6yrH4E+WjWzJX07r/mmfOd6TSI/9//6XIgRlvHUI0H/73T8kgVPx7W1RwykQhWqKU7Z8mVu9hKkqZnzrWvQwbQAAA",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "a55660e4476406b8c7b73748c674abd46b591364e7c2f236679d98c9ed3b5db4",
  "baseType": {
@@ -101,7 +100,7 @@
    "purposeId": 3,
    "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
    "name": "Mélodie céleste",
-   "desc": "Mouvements symphoniques du cosmos. Permettent d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
+   "desc": "Mouvement symphonique provenant de l'univers. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
    "lore": "Musique issue de l'ordre. Résonne discrètement depuis les cieux, noyée dans le silence, telle une étoile solitaire brillant dans une rivière stellaire.<br /><br />« Personne ne la ressent avant qu'elle tombe dans l'oubli... »",
    "purpose": "Matériau de Trace<br />Matériau d'élévation de cône de lumière",
    "rarity": 4,

@@ -6,9 +6,8 @@
  "fgPath": "5510a1ee5aaffcd744747faed81172bcc9f2a10a4341df6c347df0b04eabb375",
  "splashIconPath": "a36e13b4f5d9507bafaca1f5105f0b721edc70f6309a309d8c52441022bf6471",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRv4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSDwBAAABkCvbtmlbY+19bdu2jWfbtm1Gtm1Eimzbfi+ybXOvOYKrX4iICQCgTNjZAUasLxQMlLUF4L04CdUuxaFsqAl4tm7uYH/39rwRhwc41XTOTk0DDAy4VOB8idwW2bfxkClLWqOsMXTNsqf8x6UBu2feeeAT5AIAzW7x2Vdq3nlL7pi0NUOhQ4uQxntOTv9Ji/zN+c26Aehylq8WbJpziVrr/+wQ5A5njOHI+oc/8b+mWDzvmw4V2OsIl9Xfzn+kyH/28IgAYHb9Q/4RilCEB/pCAQF79q78RxGSFHKiM6AQOr7jD1pCERHqYsCAwqD7f1hWRDTvtrdHWdfwNZYlYv23+IBckgtAAfC6QE1SfzjdNcUXZU20+cg/ezdc50MT5SskzrjC+SjdsvmMs2GUAzigVvtADBwNdwNVdUf5VlA4IJwBAADQCACdASoUABQAPm0ylEekIqIhKAgAgA2JbACdMoSBB+bbB4UmmV89v+qvwa+UqUu/xZfNf/O9wPdVf2ADcdzfRhH/fELmwZV/NcSYBfuAAP7Azc1AkU6YgWL0Fcy+hg8YW6qGFwblk9/4cAQT+1uOS9sXYDrck2PT2Xnp6mjonyEQkzO/A8fd7KJua2w8oRPoUh/Ve/Mp4KT6OJ+tozG/gw9CZikcNezjcaWAPwlPfUx953slPj3chDAGyHZzu6/5Ss6qmzcwhl+PO92Xh7dB+63ETuEmnmCRtAN0jcpkYZd9DYi6MZT9JWayLmd65G33gtwzNOxxAk78Kt9lf0338Tco2rN/YLOn92vk4rXJy94b/PHKA/nQVOnEff/Gib+fxiSla/K/whI+PDYczYJA1PuSxqsTNySEXkBy/Mi00nCZJgbpv32cPXjr2cgMKGtGR/LTSB+AM/aiIOeDLZ62LzEryB+q/f1FMJuR/W//krqPZcIwfviogaX+Z3/ERqiIFu0j7d/h3+hf0k6lRfx8aaLDGH/uxupAAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -181,7 +180,6 @@
    "rewardPath": "/material/635673",
    "comeFrom": [
     "Calyx (Storage Zone)",
-    "Calyx (Storage zone)",
     "Embers Exchange",
     "Omni-Synthesizer — Material Exchange"
    ]
@@ -2477,7 +2475,7 @@
   },
   {
    "title": "Character Story: Part I",
-   "text": "How is Arlan's work in the Security Department?<br />— Brother Arlan is the beacon that guides the Security Department, the core support for everyone's battles! Without him, the space station would fall to pieces in a day. Without him, people's lives would be ruined in ten days. Without him, the station would be hellish in just one hundred days!<br />— But he plays holodisc with Peppy during work hours.<br />— Because he's finished all daily security tasks ahead of schedule! His mere presence is an inspiration to us all.<br />— But he plays holodisc with Peppy during work hours.<br />— How do you know that playing holodisc with Peppy isn't actually part of his job description...<br /><br />\"You're not allowed to play with your phone while out on patrol. Give it to me.\"<br />\"No, brother Arlan! People are talking smack about you in the group chat! Don't you care?\"<br />\"Nope. Too busy.\"<br />\"Huh, have you got an urgent mission? Let me go with you. What happened?\"<br />\"I'm taking Peppy to do rehab through play holodisc.\"",
+   "text": "How is Arlan's work in the Security Department?<br />— Brother Arlan is the beacon that guides the Security Department, the core support for everyone's battles! Without him, the space station would fall to pieces in a day. Without him, people's lives would be ruined in ten days. Without him, the station would be hellish in just one hundred days!<br />— But he plays holodisc with Peppy during work hours.<br />— Because he's finished all daily security tasks ahead of schedule! His mere presence is an inspiration to us all.<br />— But he plays holodisc with Peppy during work hours.<br />— How do you know that playing holodisc with Peppy isn't actually part of his job description...<br /><br />\"You're not allowed to play with your phone while out on patrol. Give it to me.\"<br />\"No, brother Arlan! People are talking smack about you in the group chat! Don't you care?\"<br />\"Nope. Too busy.\"<br />\"Huh, have you got an urgent mission? Let me go with you. What happened?\"<br />\"I'm getting Peppy to do rehab through playing holodisc.\"",
    "unlockRequirement": "Unlocked at Character Level <nobr>20</nobr>"
   },
   {

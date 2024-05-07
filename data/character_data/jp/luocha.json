@@ -6,9 +6,8 @@
  "fgPath": "059cdf4ec1eab9c4a8825c49f4b58d40771de7a63af005c59e1b3df04f51f40b",
  "splashIconPath": "6822455c0a99b390bc06cf51b668e540037871a57795dba58518d99689e71425",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRloCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPQAAAABkKNt27FH9xPbbK3WqrUD2066jNVnEVPaxgJc2ijtmfe578GPLUTEBCCqJZghZjNDvAYAKXmtjZ0VFsWQVJ458/iRPm8PZMASDACSNr+9l+Q6iIgGFE5+lBjc9W6kAFlN3TDskTspyqUvp17oSDa67skpSZS7JIVZjEoUSYoig7s+VmNLzogiSdE1iJ6fIin9J9J1swH9YkRRohh0OBW4qUBKlEhSb3/PJ6Bb7iRFigw6XgMA5xV+OyO6/1qGwZB7XfLfIYRfv6ljSACQgJTubUX+caUMBgAGYPz4jft3Dq02AIbIiQYg0QDAEGOiAUhMNPwPVlA4IEABAACQBgCdASoUABQAPm0wk0ckIqGhKAqogA2JaACdMoR10sxxSWmzbyqSpzxnDfWY6J5ABQhk/IHcmOd30+PgAP0k8uni8YJFTIWLiaTqwMdwRf7VI3penc1rwIaN4kbnSCwg3it2OsigAkKkwJimGF/unOKGNYsja+RqzU/njd31F/ntEfr9PZQTRq2OtAyGKDdKEnKcfWKswx0LBFhr9qU25J8d7G8jq5BWNYqNLU6VrBt6iaaOnQ9k9xRKd45rMWNz5grT9cACzaF4hFBKCcc7TzQOYkJXiQs22KfGRzZjGfVfcBY6CgXH+T37rcLFZ4HJCCYRwbrtKSeaHFoXStYh8PY8Iy8a3UCIj/P/Md0L1qm1YMShKstnK+daDIZcP0zyCXuwWIE0+PQ9UXnYd4kDjBYhwfyXxv+Ro2lrtFYAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2077,7 +2076,7 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "行動制限系デバフを抵抗する確率+<nobr>#1[i]%</nobr>。",
+    "descHash": "行動制限系デバフに抵抗する確率+<nobr>#1[i]%</nobr>。",
     "ultimateCost": 0,
     "id": 343114,
     "name": "幽谷を越え",

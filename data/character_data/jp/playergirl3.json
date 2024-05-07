@@ -1,0 +1,2994 @@
+{
+ "spRequirement": 140,
+ "iconPath": "68e7a8fe2c5d22d0a696741f6e432b68d38d2e42a3593412ae6ba7bb7d1e5413",
+ "bgPath": "edbfbd447c950d9a7e306c684d56441c847497fc05ba4b6fd4a9165a5476a08a",
+ "figPath": "4920579ad807d29375b1636a59d6c8e8c2ded22e262795226b184d4e55c72146",
+ "fgPath": "75b3d2f1d90cf3b0965bb9a396fee217ddffa38a4b254344347e11f93996d618",
+ "splashIconPath": "c3412b4b5595d1763a904fb289dcc33122dd0817c55425a4a363528e07b81989",
+ "splashPlaceholder": {
+  "w": 0,
+  "h": 0
+ },
+ "damageTypeId": 0,
+ "baseTypeId": 0,
+ "baseTypeTraces": {
+  "id": 4,
+  "iconPath": "55d5339b99655abd5d47c976596bebf22e6e522614fef628f7c875606f3e1abd",
+  "color": "#FFFFFF",
+  "rarity": 0
+ },
+ "itemReferences": {
+  "29328": {
+   "id": 29328,
+   "type": 101,
+   "purposeId": 11,
+   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "name": "信用ポイント",
+   "desc": "スターピースカンパニーが顧客との決済に使用している貨幣。現在は宇宙旅行をする時の決済通貨となっている。",
+   "lore": "「人々は、端末に表示される数字のためだけに奔走し、戦い、取引をする。しかし、本当に大切なものは、カンパニーの数字で買えるものではない」",
+   "purpose": "星間通貨",
+   "rarity": 3,
+   "rewardPath": "/material/29328",
+   "comeFrom": [
+    "疑似花萼「大鉱区」",
+    "疑似花萼「工造司」",
+    "疑似花萼「ホテル・『レバリー』-夢境」",
+    "クエスト報酬",
+    "依頼報酬",
+    "エンバー交換"
+   ]
+  },
+  "125435": {
+   "id": 125435,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "name": "運命の足跡",
+   "desc": "軌跡レベルアップ用の高級素材。",
+   "lore": "幾度の敗北があなたに勝利をもたらし、一歩一歩の前進があなたを運命の転換点へと導いた。",
+   "purpose": "軌跡素材",
+   "rarity": 5,
+   "rewardPath": "/material/125435",
+   "comeFrom": [
+    "「模擬宇宙」ポイント報酬",
+    "ナナシの勲功",
+    "エンバー交換",
+    "星芒交換",
+    "期間限定イベント報酬"
+   ]
+  },
+  "409960": {
+   "id": 409960,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "name": "漫遊指南",
+   "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>20000</nobr>獲得できる。",
+   "lore": "世界を渡り歩くためには欠かせない、冒険手引き集。閲覧キーを押すと、電子音声が理解可能な言語で、有名な冒険者たちが様々な世界で体験したことや、彼らが色々な星で得た貴重な知識を語り聞かせてくれる。<br /><br />「漫遊指南最新シリーズ『スペースグルメガイド』が現在発売中。ぜひお買い求めください」<br />「投稿の際は、博識学会共感覚ビーコンのオペレーター<nobr>23</nobr>θにお繋ぎください。原稿料はあなたが普段から利用している方法でお振込みいたします」",
+   "purpose": "キャラクター経験値素材",
+   "rarity": 4,
+   "rewardPath": "/material/409960",
+   "comeFrom": [
+    "疑似花萼「郊外雪原」",
+    "疑似花萼「流雲渡し」",
+    "疑似花萼「ドリームボーダー」",
+    "「忘却の庭」"
+   ]
+  },
+  "409961": {
+   "id": 409961,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "name": "冒険記録",
+   "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>5000</nobr>獲得できる。",
+   "lore": "綺麗に装丁された、一目でためになるとわかる冒険日誌。冒険に関する細かい描写、価値のある情報、サバイバル術が書かれている。<br /><br />「なんで数字化してデバイスに保存しないの？持ち歩きやすくなるでしょ」<br />「お前が思っているより、先進技術は恒星嵐や中性子噴出に弱いんだ。なにより、この本の制作者は、最も簡単な方法で人々に読んでもらいたかったんだろう」",
+   "purpose": "キャラクター経験値素材",
+   "rarity": 3,
+   "rewardPath": "/material/409961",
+   "comeFrom": [
+    "疑似花萼「郊外雪原」",
+    "疑似花萼「流雲渡し」",
+    "疑似花萼「ドリームボーダー」",
+    "デイリー訓練",
+    "エンバー交換"
+   ]
+  },
+  "409962": {
+   "id": 409962,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "name": "旅の見聞",
+   "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>1000</nobr>獲得できる。",
+   "lore": "旅の出来事を記した日記。字はかすれており、不鮮明。思うままに内容が書かれてあるので、あまり助けにはならないだろう。<br /><br />「読み終わったら早くその紙切れを捨てるのよ、丹恒？」",
+   "purpose": "キャラクター経験値素材",
+   "rarity": 2,
+   "rewardPath": "/material/409962",
+   "comeFrom": [
+    "疑似花萼「郊外雪原」",
+    "疑似花萼「流雲渡し」",
+    "疑似花萼「ドリームボーダー」",
+    "依頼報酬"
+   ]
+  },
+  "470781": {
+   "id": 470781,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "name": "星を蝕む古の悪",
+   "desc": "軌跡レベルアップ用の高級素材。",
+   "lore": "蟲の王が自ら繁殖させた子孫。唯一の望みは群れを広げることである。巨大な鎌で星を刈り取って巣とし、最期の瞬間まで子孫を育て、多くの生命に害をなした。<br /><br />「砕けた星では、巨大なイナゴが空を覆い、虫の群れが地面から這い出した。クワガタはこの新しい巣を蟲の王に献上した…この悲劇が歴史の記録上だけに存在するものとし、二度と繰り返されないことを願って」",
+   "purpose": "軌跡素材",
+   "rarity": 4,
+   "rewardPath": "/material/470781",
+   "comeFrom": [
+    "歴戦余韻「封鎖部分」"
+   ]
+  },
+  "549437": {
+   "id": 549437,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "15365d10ed38771d99d247bc228b03787e29972cc714a655a9b8feef3031505e",
+   "name": "略奪の本能",
+   "desc": "微弱な反物質、強化に必要な簡易素材。",
+   "lore": "ヴォイドレンジャー・略奪の体内から散逸する微弱な反物質、まるで破壊本能の具現化。<br /><br />「彼らは湮滅の刻を待ち望み、世界と共に鍛錬され、一体化しようとしている」",
+   "purpose": "軌跡素材 <br />キャラクター昇格素材",
+   "rarity": 2,
+   "rewardPath": "/material/549437",
+   "comeFrom": [
+    "反物質レギオンからドロップ",
+    "「模擬宇宙」で敵からドロップ",
+    "依頼報酬",
+    "エンバー交換",
+    "「万能合成マシン」- 素材交換",
+    "疑似花萼（金）"
+   ]
+  },
+  "589819": {
+   "id": 589819,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "9dcc37e0e0903af3108640d694d154e4d9c54670d5b1de405adc1c283ef3186f",
+   "name": "空際の小節",
+   "desc": "天上から舞い落ちてきた音楽の小節。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">調和</span>の運命を歩むキャラクターの軌跡を中幅アップできる。",
+   "lore": "秩序の中から落ちてきた1段落の旋律。一握りの砂が砂漠に溶けるように、天の縁からこっそりと、喧噪の中に落ちた。<br /><br />「それは誰にも注意されなかった、インスピレーションに捕らわれるまで…」",
+   "purpose": "軌跡素材 <br />光円錐昇格素材",
+   "rarity": 3,
+   "rewardPath": "/material/589819",
+   "comeFrom": [
+    "疑似花萼「ホテル・『レバリー』-夢境」",
+    "「万能合成マシン」- 素材合成",
+    "エンバー交換",
+    "「万能合成マシン」- 素材交換"
+   ]
+  },
+  "633378": {
+   "id": 633378,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "3cd4c92ff44d695595377ffc6c0896d6839775f6014e96daf679b256bc0d19cf",
+   "name": "改ざんの野心",
+   "desc": "希薄な反物質、強化に必要な普通素材。",
+   "lore": "ヴォイドレンジャー・改ざんの周辺に浮かぶ希薄な反物質、粒子と反粒子がここで危険な均衡を保っている。<br /><br />「彼らは消滅の瞬間を待ち望み、鍛錬され、世界と同化する」",
+   "purpose": "軌跡素材 <br />キャラクター昇格素材",
+   "rarity": 3,
+   "rewardPath": "/material/633378",
+   "comeFrom": [
+    "均衡Lv.2に達した後、反物質レギオンからドロップ",
+    "「万能合成マシン」- 素材合成",
+    "「模擬宇宙」で敵からドロップ",
+    "「万能合成マシン」- 素材交換"
+   ]
+  },
+  "673760": {
+   "id": 673760,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
+   "name": "天外の楽章",
+   "desc": "宇宙から伝わってきた交響曲。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">調和</span>の運命を歩むキャラクターの軌跡を大幅アップできる。",
+   "lore": "秩序の中から降り落ちてきた1曲の音楽。孤独な星が星河に輝くように、天外で静かに奏で、巨大な沈黙に沈む。<br /><br />「それは誰にも感じ取られなかった、すべての人に忘れ去られるまで♬……」",
+   "purpose": "軌跡素材 <br />光円錐昇格素材",
+   "rarity": 4,
+   "rewardPath": "/material/673760",
+   "comeFrom": [
+    "疑似花萼「ホテル・『レバリー』-夢境」",
+    "「万能合成マシン」- 素材合成",
+    "「万能合成マシン」- 素材交換"
+   ]
+  },
+  "717319": {
+   "id": 717319,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "3c858c8ff4df238403e5443f57850367e4164a62efb508ce359db9c5b7474a19",
+   "name": "踏みにじる意志",
+   "desc": "凝縮された反物質、強化に必要な高級素材。",
+   "lore": "ヴォイドレンジャー・蹂躙の体内で高度に凝縮された反物質、湮滅の刻が文明の壊滅を告げる。<br /><br />「彼らは湮滅の刻を待ち望み、世界と共に鍛錬され、一体化しようとしている」",
+   "purpose": "軌跡素材 <br />キャラクター昇格素材",
+   "rarity": 4,
+   "rewardPath": "/material/717319",
+   "comeFrom": [
+    "均衡Lv.4に達した後、反物質レギオンからドロップ",
+    "「万能合成マシン」- 素材合成",
+    "「模擬宇宙」で敵からドロップ",
+    "「万能合成マシン」- 素材交換"
+   ]
+  },
+  "782692": {
+   "id": 782692,
+   "type": 601,
+   "purposeId": 2,
+   "iconPath": "d0fe9b49a5b2f2c2ce6cd06e1a93f44291ac41df9a5e9482da67de1dc0ddd417",
+   "name": "深邃な星外物質",
+   "desc": "深邃なプリズム結晶。開拓者の昇格素材。",
+   "lore": "至高の存在から剥離したもの、千変万化する幻影を映し出している。プリズムのそれぞれの面には、過去の物と未来の物が輝いていて、観測者を呑み込もうとしている。<br /><br />「文明とは、混沌とした暗い海の上にある、薄氷のようなもの」",
+   "purpose": "キャラクター昇格素材",
+   "rarity": 4,
+   "rewardPath": "/material/782692",
+   "comeFrom": [
+    "クエスト報酬",
+    "レベルボーナス"
+   ]
+  },
+  "874346": {
+   "id": 874346,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "0b9599c040d16b07324d2f3ea37854bbe9d3d22cb80a43b3070662e562738a04",
+   "name": "雲端の音符",
+   "desc": "雲の端から落ちてきた僅かな音符。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">調和</span>の運命を歩むキャラクターの軌跡を小幅アップできる。",
+   "lore": "秩序の中から落ちてきた1枚の音符。一滴の涙が海に溶けるように、雲の端からこっそりと、凡界の音の中に落ちた。<br /><br />「それは誰にも聞こえなかった、ある歌の中に落ちるまで…」",
+   "purpose": "軌跡素材 <br />光円錐昇格素材",
+   "rarity": 2,
+   "rewardPath": "/material/874346",
+   "comeFrom": [
+    "疑似花萼「ホテル・『レバリー』-夢境」",
+    "エンバー交換",
+    "「万能合成マシン」- 素材交換"
+   ]
+  }
+ },
+ "levelData": [
+  {
+   "attackBase": 60.72,
+   "attackAdd": 3.036,
+   "hpBase": 147.84,
+   "hpAdd": 7.392,
+   "defenseBase": 92.4,
+   "defenseAdd": 4.62,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 105,
+   "speedAdd": 0,
+   "promotion": 0,
+   "maxLevel": 20,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 3200
+    },
+    {
+     "id": 549437,
+     "count": 4
+    }
+   ]
+  },
+  {
+   "attackBase": 85.008,
+   "attackAdd": 3.036,
+   "hpBase": 206.976,
+   "hpAdd": 7.392,
+   "defenseBase": 129.36,
+   "defenseAdd": 4.62,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 105,
+   "speedAdd": 0,
+   "promotion": 1,
+   "maxLevel": 30,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 6400
+    },
+    {
+     "id": 549437,
+     "count": 8
+    }
+   ]
+  },
+  {
+   "attackBase": 109.296,
+   "attackAdd": 3.036,
+   "hpBase": 266.112,
+   "hpAdd": 7.392,
+   "defenseBase": 166.32,
+   "defenseAdd": 4.62,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 105,
+   "speedAdd": 0,
+   "promotion": 2,
+   "maxLevel": 40,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 12800
+    },
+    {
+     "id": 633378,
+     "count": 5
+    },
+    {
+     "id": 782692,
+     "count": 4
+    }
+   ]
+  },
+  {
+   "attackBase": 133.584,
+   "attackAdd": 3.036,
+   "hpBase": 325.248,
+   "hpAdd": 7.392,
+   "defenseBase": 203.28,
+   "defenseAdd": 4.62,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 105,
+   "speedAdd": 0,
+   "promotion": 3,
+   "maxLevel": 50,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 32000
+    },
+    {
+     "id": 633378,
+     "count": 8
+    },
+    {
+     "id": 782692,
+     "count": 6
+    }
+   ]
+  },
+  {
+   "attackBase": 157.872,
+   "attackAdd": 3.036,
+   "hpBase": 384.384,
+   "hpAdd": 7.392,
+   "defenseBase": 240.24,
+   "defenseAdd": 4.62,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 105,
+   "speedAdd": 0,
+   "promotion": 4,
+   "maxLevel": 60,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 64000
+    },
+    {
+     "id": 717319,
+     "count": 5
+    },
+    {
+     "id": 782692,
+     "count": 8
+    }
+   ]
+  },
+  {
+   "attackBase": 182.16,
+   "attackAdd": 3.036,
+   "hpBase": 443.52,
+   "hpAdd": 7.392,
+   "defenseBase": 277.2,
+   "defenseAdd": 4.62,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 105,
+   "speedAdd": 0,
+   "promotion": 5,
+   "maxLevel": 70,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 128000
+    },
+    {
+     "id": 717319,
+     "count": 7
+    },
+    {
+     "id": 782692,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "attackBase": 206.448,
+   "attackAdd": 3.036,
+   "hpBase": 502.656,
+   "hpAdd": 7.392,
+   "defenseBase": 314.16,
+   "defenseAdd": 4.62,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 105,
+   "speedAdd": 0,
+   "promotion": 6,
+   "maxLevel": 80,
+   "cost": []
+  }
+ ],
+ "ranks": [
+  {
+   "id": 1,
+   "iconPath": "a82b4f60eb5ccb29b81411d851621a01ea9e5b2eaacafe17cd186e22fce83d1f",
+   "artPath": "8680630b0f12fe068cac5ed65a2bd316ecd8ad756968aa0c566d0fd04fbfbc46",
+   "name": "最高の観客席",
+   "descHash": "初めて戦闘スキルを発動した後、SPを<nobr>#1[i]</nobr>回復する。",
+   "params": [
+    1
+   ]
+  },
+  {
+   "id": 2,
+   "iconPath": "79acfa763d30425575b4bcee139f1f4e3dc98e98335207194f1286fef8e812bf",
+   "artPath": "4d79b2eb7d67ee99702a8e7d205acc40f4f1313da712371ffbc74173a8727860",
+   "name": "牢を打ち破る虹",
+   "descHash": "戦闘開始時、開拓者のEP回復効率+<nobr>#1[i]%</nobr>、<nobr>#2[i]</nobr>ターン継続。",
+   "params": [
+    0.25,
+    3
+   ]
+  },
+  {
+   "id": 3,
+   "iconPath": "44a205fac3399804c844eeae69671cce93f80f05369dddad5fcf2c190b93739a",
+   "artPath": "cdcb116d6dd09d5dfecc04a897b40fc2f88d4fbc94f2d4ae6b1b56549cc10052",
+   "name": "休止符の療養院",
+   "descHash": "戦闘スキルのLv.+2、最大Lv.<nobr>15</nobr>まで。天賦のLv.+2、最大Lv.<nobr>15</nobr>まで。",
+   "params": []
+  },
+  {
+   "id": 4,
+   "iconPath": "e34685af7396dd08b5b7b03f48e4323d2fc859c1dc7884dda1aa4807e2201081",
+   "artPath": "ab990ec5840756d81382ed7ed7505efee42d007716afcb0b254587605857b858",
+   "name": "ハトを隠す冠",
+   "descHash": "開拓者がフィールド上にいる時、自身以外の味方の撃破特効を、開拓者の撃破特効<nobr>#1[i]%</nobr>分アップする。",
+   "params": [
+    0.15
+   ]
+  },
+  {
+   "id": 5,
+   "iconPath": "393bb68e1de84c938ca44c3985bb858204268c83b57b47d220699cdfb00de414",
+   "artPath": "7edb94aba6025a52a4d527589639538c349aed242e9ec29e2c81c63f50c65174",
+   "name": "古き旋律を抱く詩篇",
+   "descHash": "必殺技のLv.+2、最大Lv.<nobr>15</nobr>まで。通常攻撃のLv.+1、最大Lv.<nobr>10</nobr>まで。",
+   "params": []
+  },
+  {
+   "id": 6,
+   "iconPath": "a2a2fd7f9c7adda47adce755bb220c3c77c8b19466603aece52767969123d413",
+   "artPath": "edfd67b4fccf2241df54eb7a932ad049d107f6f58cf741a313d44beffa308ea4",
+   "name": "明日<br />スポットライトの下で",
+   "descHash": "戦闘スキルのヒット数+<nobr>#1[i]</nobr>。",
+   "params": [
+    2
+   ]
+  }
+ ],
+ "skillGrouping": [
+  [
+   961207
+  ],
+  [
+   844562
+  ],
+  [
+   760621
+  ],
+  [
+   446320
+  ],
+  [
+   129089
+  ]
+ ],
+ "skills": [
+  {
+   "tagHash": "単体攻撃",
+   "descHash": "指定した敵単体に開拓者の攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#F4D258;\">虚数</span>ダメージを与える。",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "20",
+   "id": 961207,
+   "name": "揺らめく礼儀",
+   "iconPath": "eebe6da1e2373b87d060785f44bcc904eb6f66bdc233882dd62f16860fa6da0f",
+   "typeDescHash": "通常攻撃",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 4000
+      },
+      {
+       "id": 874346,
+       "count": 2
+      },
+      {
+       "id": 549437,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.7
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 8000
+      },
+      {
+       "id": 589819,
+       "count": 2
+      },
+      {
+       "id": 633378,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      0.8
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 16000
+      },
+      {
+       "id": 589819,
+       "count": 4
+      },
+      {
+       "id": 633378,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.9
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 36000
+      },
+      {
+       "id": 673760,
+       "count": 2
+      },
+      {
+       "id": 717319,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      1
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 128000
+      },
+      {
+       "id": 673760,
+       "count": 6
+      },
+      {
+       "id": 717319,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      1.1
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "バウンド",
+   "descHash": "指定した敵単体に開拓者の攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#F4D258;\">虚数</span>属性ダメージを与え、さらに4ヒットする。1ヒットごとに、ランダムな敵単体に開拓者の攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#F4D258;\">虚数</span>属性ダメージを与える。",
+   "ultimateCost": 0,
+   "break": "30/hit",
+   "energy": "6/hit",
+   "id": 844562,
+   "name": "間奏曲が降らす雨",
+   "iconPath": "44a205fac3399804c844eeae69671cce93f80f05369dddad5fcf2c190b93739a",
+   "typeDescHash": "戦闘スキル",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.25,
+      2
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      2
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2000
+      },
+      {
+       "id": 549437,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      0.3,
+      2
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 4000
+      },
+      {
+       "id": 874346,
+       "count": 2
+      },
+      {
+       "id": 549437,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.325,
+      2
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 8000
+      },
+      {
+       "id": 589819,
+       "count": 2
+      },
+      {
+       "id": 633378,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      0.35,
+      2
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 16000
+      },
+      {
+       "id": 589819,
+       "count": 4
+      },
+      {
+       "id": 633378,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.375,
+      2
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 24000
+      },
+      {
+       "id": 589819,
+       "count": 6
+      },
+      {
+       "id": 633378,
+       "count": 5
+      }
+     ]
+    },
+    {
+     "params": [
+      0.40625,
+      2
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 36000
+      },
+      {
+       "id": 673760,
+       "count": 2
+      },
+      {
+       "id": 717319,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      0.4375,
+      2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 64000
+      },
+      {
+       "id": 673760,
+       "count": 4
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717319,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.46875,
+      2
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 128000
+      },
+      {
+       "id": 673760,
+       "count": 6
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.5,
+      2
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 240000
+      },
+      {
+       "id": 673760,
+       "count": 11
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.525,
+      2
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.55,
+      2
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.575,
+      2
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6,
+      2
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.625,
+      2
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "サポート",
+   "descHash": "味方全体に「バックダンス」を付与する、<nobr>#1[i]</nobr>ターン継続。開拓者のターンが回ってくるたびに「バックダンス」の継続時間-1ターン。「バックダンス」を持つ味方の撃破特効+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span>、<u>弱点撃破状態</u>の敵に攻撃を行った後、その回の攻撃の靭性値を1回の<u>超撃破ダメージ</u>に転換する。",
+   "ultimateCost": 140,
+   "break": "0",
+   "energy": "5",
+   "id": 760621,
+   "name": "賑やかなパレード",
+   "iconPath": "7c7d923097053f8088e293e83b984177140a6349891ca97248edc0394154f566",
+   "typeDescHash": "必殺技",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      3,
+      1,
+      0.15
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.165
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2000
+      },
+      {
+       "id": 549437,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.18
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 4000
+      },
+      {
+       "id": 874346,
+       "count": 2
+      },
+      {
+       "id": 549437,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.195
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 8000
+      },
+      {
+       "id": 589819,
+       "count": 2
+      },
+      {
+       "id": 633378,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.21
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 16000
+      },
+      {
+       "id": 589819,
+       "count": 4
+      },
+      {
+       "id": 633378,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.225
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 24000
+      },
+      {
+       "id": 589819,
+       "count": 6
+      },
+      {
+       "id": 633378,
+       "count": 5
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.24375
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 36000
+      },
+      {
+       "id": 673760,
+       "count": 2
+      },
+      {
+       "id": 717319,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.2625
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 64000
+      },
+      {
+       "id": 673760,
+       "count": 4
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717319,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.28125
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 128000
+      },
+      {
+       "id": 673760,
+       "count": 6
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.3
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 240000
+      },
+      {
+       "id": 673760,
+       "count": 11
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.315
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.33
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.345
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.36
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      3,
+      1,
+      0.375
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "妨害",
+   "descHash": "敵が弱点撃破された時、開拓者はEPを<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]</nobr></span>回復する。",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 446320,
+   "name": "エアリアルステップ",
+   "iconPath": "5cc9555af7e2ccf15d00e8b5181d36b5515e1b728d003045de5925c5ff7bd4aa",
+   "typeDescHash": "天賦",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      5.5
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2000
+      },
+      {
+       "id": 549437,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      6
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 4000
+      },
+      {
+       "id": 874346,
+       "count": 2
+      },
+      {
+       "id": 549437,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      6.5
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 8000
+      },
+      {
+       "id": 589819,
+       "count": 2
+      },
+      {
+       "id": 633378,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      7
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 16000
+      },
+      {
+       "id": 589819,
+       "count": 4
+      },
+      {
+       "id": 633378,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      7.5
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 24000
+      },
+      {
+       "id": 589819,
+       "count": 6
+      },
+      {
+       "id": 633378,
+       "count": 5
+      }
+     ]
+    },
+    {
+     "params": [
+      8.125
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 36000
+      },
+      {
+       "id": 673760,
+       "count": 2
+      },
+      {
+       "id": 717319,
+       "count": 2
+      }
+     ]
+    },
+    {
+     "params": [
+      8.75
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 64000
+      },
+      {
+       "id": 673760,
+       "count": 4
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717319,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      9.375
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 128000
+      },
+      {
+       "id": 673760,
+       "count": 6
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      10
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 240000
+      },
+      {
+       "id": 673760,
+       "count": 11
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      10.5
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      11
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      11.5
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      12
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      12.5
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "",
+   "descHash": "敵を攻撃。戦闘に入った後、敵の対応する属性の靭性を削る。",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "0",
+   "id": 245734,
+   "name": "攻撃",
+   "iconPath": "eebe6da1e2373b87d060785f44bcc904eb6f66bdc233882dd62f16860fa6da0f",
+   "typeDescHash": "",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "サポート",
+   "descHash": "秘技を使用した後、次の戦闘開始時、味方全体の撃破特効+<nobr>#1[i]%</nobr>、<nobr>#2[i]</nobr>ターン継続。",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 129089,
+   "name": "即興！独奏団",
+   "iconPath": "f4b5e6e250041ab90cf6771cbf92c24768fbbf68bd7d2bb9f3e9a16910e8408a",
+   "typeDescHash": "秘技",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.3,
+      2
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  }
+ ],
+ "skillTreePoints": [
+  {
+   "id": 8006101,
+   "anchor": 6,
+   "type": 1,
+   "children": [
+    {
+     "id": 8006202,
+     "anchor": 10,
+     "type": 2,
+     "children": [
+      {
+       "id": 8006203,
+       "anchor": 11,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 844491,
+        "name": "撃破強化",
+        "levelReq": 0,
+        "promotionReq": 3,
+        "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+        "statusList": [
+         {
+          "key": "撃破特効",
+          "value": 0.053
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 8000
+         },
+         {
+          "id": 589819,
+          "count": 2
+         },
+         {
+          "id": 633378,
+          "count": 2
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 844492,
+      "name": "ダメージ強化・虚数",
+      "levelReq": 0,
+      "promotionReq": 2,
+      "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+      "statusList": [
+       {
+        "key": "<span style=\"color:#F4D258;\">虚数</span>属性与ダメージ",
+        "value": 0.032
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 4000
+       },
+       {
+        "id": 874346,
+        "count": 2
+       },
+       {
+        "id": 549437,
+        "count": 4
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "フィールド上の敵の数が5以上/4/3/2/1の場合、「バックダンス」が触発する超撃破ダメージ+<nobr>#1[i]%</nobr>/<nobr>#2[i]%</nobr>/<nobr>#3[i]%</nobr>/<nobr>#4[i]%</nobr>/<nobr>#5[i]%</nobr>。",
+    "ultimateCost": 0,
+    "id": 844460,
+    "name": "ダンス・フォー・ミー",
+    "iconPath": "461ec8a6a6e9b1e7de54a60aa278f3aed54c11dd4929d3556768d6607cb4c2d1",
+    "levelReq": 0,
+    "promotionReq": 2,
+    "levelData": [
+     {
+      "params": [
+       0.2,
+       0.3,
+       0.4,
+       0.5,
+       0.6
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 2,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 4000
+       },
+       {
+        "id": 874346,
+        "count": 2
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 8006102,
+   "anchor": 7,
+   "type": 1,
+   "children": [
+    {
+     "id": 8006205,
+     "anchor": 13,
+     "type": 2,
+     "children": [
+      {
+       "id": 8006206,
+       "anchor": 14,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 844488,
+        "name": "ダメージ強化・虚数",
+        "levelReq": 0,
+        "promotionReq": 5,
+        "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+        "statusList": [
+         {
+          "key": "<span style=\"color:#F4D258;\">虚数</span>属性与ダメージ",
+          "value": 0.048
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 36000
+         },
+         {
+          "id": 673760,
+          "count": 2
+         },
+         {
+          "id": 717319,
+          "count": 2
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 844489,
+      "name": "撃破強化",
+      "levelReq": 0,
+      "promotionReq": 4,
+      "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+      "statusList": [
+       {
+        "key": "撃破特効",
+        "value": 0.08
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 16000
+       },
+       {
+        "id": 589819,
+        "count": 4
+       },
+       {
+        "id": 633378,
+        "count": 3
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "戦闘スキルを発動した時、1ヒット目の靭性値+<nobr>#1[i]%</nobr>。",
+    "ultimateCost": 0,
+    "id": 844461,
+    "name": "流れに身を任せて",
+    "iconPath": "992ad912bf29efe072c701a4ffc437d4942591b5a06a9a3143fe6cf3b614828b",
+    "levelReq": 0,
+    "promotionReq": 4,
+    "levelData": [
+     {
+      "params": [
+       1
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 4,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 16000
+       },
+       {
+        "id": 589819,
+        "count": 4
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 8006103,
+   "anchor": 8,
+   "type": 1,
+   "children": [
+    {
+     "id": 8006208,
+     "anchor": 16,
+     "type": 2,
+     "children": [
+      {
+       "id": 8006209,
+       "anchor": 17,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 844485,
+        "name": "ダメージ強化・虚数",
+        "levelReq": 75,
+        "promotionReq": 0,
+        "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+        "statusList": [
+         {
+          "key": "<span style=\"color:#F4D258;\">虚数</span>属性与ダメージ",
+          "value": 0.064
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 128000
+         },
+         {
+          "id": 673760,
+          "count": 6
+         },
+         {
+          "id": 717319,
+          "count": 6
+         }
+        ]
+       }
+      },
+      {
+       "id": 8006210,
+       "anchor": 18,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 727849,
+        "name": "撃破強化",
+        "levelReq": 80,
+        "promotionReq": 0,
+        "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+        "statusList": [
+         {
+          "key": "撃破特効",
+          "value": 0.107
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 128000
+         },
+         {
+          "id": 673760,
+          "count": 6
+         },
+         {
+          "id": 717319,
+          "count": 6
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 844486,
+      "name": "効果抵抗強化",
+      "levelReq": 0,
+      "promotionReq": 6,
+      "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+      "statusList": [
+       {
+        "key": "効果抵抗",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 128000
+       },
+       {
+        "id": 673760,
+        "count": 6
+       },
+       {
+        "id": 717319,
+        "count": 6
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "味方が敵を弱点撃破した後、さらに敵の行動順を<nobr>#1[i]%</nobr>遅延させる。",
+    "ultimateCost": 0,
+    "id": 844462,
+    "name": "シアターハット",
+    "iconPath": "b7e1338e7c4877e51b2868d837c3c7a21ad21e8b40f4a0ead1625d1d8fa267ca",
+    "levelReq": 0,
+    "promotionReq": 6,
+    "levelData": [
+     {
+      "params": [
+       0.3
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 6,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 128000
+       },
+       {
+        "id": 673760,
+        "count": 6
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 8006201,
+   "anchor": 9,
+   "type": 2,
+   "children": [
+    {
+     "id": 8006204,
+     "anchor": 12,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 844490,
+      "name": "効果抵抗強化",
+      "levelReq": 0,
+      "promotionReq": 3,
+      "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+      "statusList": [
+       {
+        "key": "効果抵抗",
+        "value": 0.04
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 8000
+       },
+       {
+        "id": 589819,
+        "count": 2
+       },
+       {
+        "id": 633378,
+        "count": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": 8006207,
+     "anchor": 15,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 844487,
+      "name": "撃破強化",
+      "levelReq": 0,
+      "promotionReq": 5,
+      "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+      "statusList": [
+       {
+        "key": "撃破特効",
+        "value": 0.08
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 36000
+       },
+       {
+        "id": 673760,
+        "count": 2
+       },
+       {
+        "id": 717319,
+        "count": 2
+       }
+      ]
+     }
+    }
+   ],
+   "embedBuff": {
+    "id": 844493,
+    "name": "撃破強化",
+    "levelReq": 1,
+    "promotionReq": 0,
+    "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+    "statusList": [
+     {
+      "key": "撃破特効",
+      "value": 0.053
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 2000
+     },
+     {
+      "id": 549437,
+      "count": 2
+     }
+    ]
+   }
+  }
+ ],
+ "relicRecommend": {
+  "twoPcSets": [],
+  "fourPcSets": [],
+  "props": [
+   {
+    "relicTypeHash": "胴体",
+    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "propertyName": "HP",
+    "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf"
+   },
+   {
+    "relicTypeHash": "脚部",
+    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "propertyName": "速度",
+    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+   },
+   {
+    "relicTypeHash": "次元界オーブ",
+    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "propertyName": "防御力",
+    "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a"
+   },
+   {
+    "relicTypeHash": "連結縄",
+    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "propertyName": "撃破特効",
+    "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f"
+   }
+  ]
+ },
+ "voiceItems": [
+  {
+   "id": 1,
+   "title": "思い出・自分について",
+   "text": "選択の機会があるのなら、自分が後悔するような道は選ばない……",
+   "unlockRequirement": "開拓クエスト「旅は続く」をクリアした後に解放",
+   "cnUrl": "b826918cf62a07abee91356924ba91d96f94e4c7e640934e9356c8082c412d3f",
+   "jpUrl": "ff992c18fe9a1726a431eec48931891262aa4fa335b7179e0432737b0cd8f8a5",
+   "enUrl": "84d4f21052ee7f5fbc17aac3d8058898a70564294a0088120abbaa663e02a393",
+   "krUrl": "35e4f6194b4a3ad733580d7b35f73f0dfe5700db44f9f8b38ec352c48069d46b"
+  },
+  {
+   "id": 2,
+   "title": "思い出・列車",
+   "text": "もし列車に乗ることを選ばなかったら、私はどんな人生を送っていたんだろう…いや、そんな未来は存在しないか。",
+   "unlockRequirement": "開拓クエスト「旅は続く」をクリアした後に解放",
+   "cnUrl": "807f87176b5cb153f519c363adc74dbc618d54e8aefbde96be44c94b6e783ccc",
+   "jpUrl": "524a227bedca888ab6ad1574d0bd63fcdf614ca33a268efe735b65976f4c9f43",
+   "enUrl": "09047fbf53b25277a72fcd1b9a65562607b549876399c7746f6ea4ce7d3fb5a1",
+   "krUrl": "11881206aca7e79c9c139976cab06942f3d61ca6155081fda11d13d3fba2806b"
+  },
+  {
+   "id": 3,
+   "title": "思い出・パム",
+   "text": "口では嫌がっても、体の反応は正直なんだよね…よし、もっとパムに会いに行く回数を増やそう！",
+   "unlockRequirement": "冒険クエスト「車掌からの贈り物」をクリアした後に解放",
+   "cnUrl": "14bc0a52537cec5342de8e4eaeac7873a220dcb274d11fed18eeac78e2e11260",
+   "jpUrl": "063b43349fbc21467da52e3d10a1d9f40c224a17fcdf235691207b458de0f6eb",
+   "enUrl": "283c6f3f41650ff9458b79083d82e3848fb4ff4c1a8c768dd9d98c685f668715",
+   "krUrl": "b865c70b4ba19cb4c0b2649ac180ea6b3edc9011c3deed53ba1d71222c1239f2"
+  },
+  {
+   "id": 4,
+   "title": "思い出・宇宙ステーション「ヘルタ」",
+   "text": "たしか、私の武器も宇宙ステーションの奇物だったんだよね。どこから持ってきたものか分からないけど――ミス・ヘルタが気に入って収集したものなら、きっと特別な何かがあるはず……",
+   "unlockRequirement": "開拓クエスト「旅は続く」をクリアした後に解放",
+   "cnUrl": "d601757923fcba0d3136afda99c0199e28f6ac3b288eff933b3b8135c9979af8",
+   "jpUrl": "e210d95a330fe78c73f9208c9837a1f167e6caa60dc76e243555077fd5fe7ec5",
+   "enUrl": "ce9fbd4d9696fe7827ca7e95d5d294a2c85f64e36bdbc0e8f38c5b25e87e2920",
+   "krUrl": "c7f630775adfb07b8a294b177c62ddd2a4d8e543ee5623d4a02fec88701273f0"
+  },
+  {
+   "id": 5,
+   "title": "思い出・「壊滅」",
+   "text": "「壊滅」の意志は一体どこから来たんだろう。本当に体の中にある星核が原因なのかな……？",
+   "unlockRequirement": "開拓クエスト「旅は続く」をクリアした後に解放",
+   "cnUrl": "a98f28aadc3c99f61c3394824e69ce10a464cdaa06e843e1c85b203b86bcab92",
+   "jpUrl": "53bcd1f781434d3f05fcf29a9987139f9aa362dfc5befce89fc524100267aec0",
+   "enUrl": "17fc99e2e0f03c1f2b03a294e16fdb45dce3b626a85929c566e5b6bd6c36abc8",
+   "krUrl": "bb8154258310a24a1d332b2b2c3ab04fe54ffb2736f80c57c9c8cc7d1d8b3e53"
+  },
+  {
+   "id": 6,
+   "title": "思い出・ベロブルグ",
+   "text": "ベロブルグの人たちも私と同じように、あの星の本当の空を初めて目にしたんだよね……",
+   "unlockRequirement": "開拓クエスト「静かな星河」をクリアした後に解放",
+   "cnUrl": "d957f5c533147050ce6e93814a21c18325e8c652a9c84996ca4e276b2c74459a",
+   "jpUrl": "431da6f963eeb20f4f5d037b5d07af15be343180d58ff4149773cc68ec327e6f",
+   "enUrl": "bb6d7d26be2a4d85fa0d771cfb7d960dea1aae9a207eadba2b490595e2672772",
+   "krUrl": "b7e5933443b6dd982b05ed94cc663cdf51259fcd4f0ef09131ee4cf3cdef5c35"
+  },
+  {
+   "id": 7,
+   "title": "思い出・「存護」",
+   "text": "「存護」の種は、ずっとベロブルグにあった。私は都市の生き残りたいという意志を呼び覚ましたに過ぎない…たとえ弱い意志だとしても、まだ消える時じゃなかったんだ。",
+   "unlockRequirement": "開拓クエスト「静かな星河」をクリアした後に解放",
+   "cnUrl": "729f3a332810b01106fe5cb23c6fe350cd713db921d99895b97a2fa523be3ea7",
+   "jpUrl": "4e00685511a1f1ebf109f88bcc14c4faa9cfaaaa7b9392cf6c6e71af8b38678d",
+   "enUrl": "1216d9013c729a23c01964e29cd12d08ade5d3de7afca0be5fa6de24baedb188",
+   "krUrl": "efa670dacde7b742277253bbf58d16582f9ac07bce97b6f65c56bdbe9f429262"
+  },
+  {
+   "id": 8,
+   "title": "「壊滅」星魂覚醒",
+   "text": "選択は、思ってるほど手の届かないものじゃない。",
+   "unlockRequirement": "",
+   "cnUrl": "bfbd2e11d33576bc9193ac09683e796087cc658aa7e80609d1323ed07edcdcca",
+   "jpUrl": "bd2dba4ad6c060ab4b37d2b75123a1099a448e027bbe896ed303927eb45669f8",
+   "enUrl": "71290db35d18b0ea8c021ec89c9f66db2c4cb6c4a34fd8b13511bf284cc8c96c",
+   "krUrl": "6ef862ff782be073b19872ab58d82b8d14f42f7f524c2a75e50ba10819bc4c75"
+  },
+  {
+   "id": 9,
+   "title": "「存護」星魂覚醒",
+   "text": "選択の価値は、意志の強さによって決まる。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "f77c640ab6056943416a999f7fcf14042f0b9ef410c48dea3e99eb7cf9a1dcd2",
+   "jpUrl": "d8bcf2ce4a8f803d2a3c78cda0b4c45c639d7d32f85c4d6941c24ce5247eec88",
+   "enUrl": "11c1ff19ef5800d7641c9c862f1d7e64522a2515d31bce4cecf9b9b5f357e09d",
+   "krUrl": "860753a582e9249b6282634f239d9c32c0e7111dd0aab8b8b27cfec99a2aff94"
+  },
+  {
+   "id": 10,
+   "title": "キャラクター昇格",
+   "text": "まだ立ち止まる時じゃない。",
+   "unlockRequirement": "",
+   "cnUrl": "fe163a35644699b1d2f4045311e87b7f5641edd1d1f8f54076cb1e567c3056f9",
+   "jpUrl": "78fd3441082b9b989f3ba82f5abc3c2167a098877f99492d610e075a252f24e8",
+   "enUrl": "5e48bcba7b3db6f06c77e74685d7d61b2efc7bf198a19d416f243724e855d27e",
+   "krUrl": "10ce006c4b489c24f639a9e8bfa583d12e3971e065cb7e5d1bdff5a8a9083f1e"
+  },
+  {
+   "id": 11,
+   "title": "レベルMax",
+   "text": "旅は…終わらない。",
+   "unlockRequirement": "",
+   "cnUrl": "86571a712fe63dbbbfde84d902bd223e4bfb2c520b9d0c7f93b7024cf8794de5",
+   "jpUrl": "853746c1749bab8d388db41e60ba2e882f09a94953486c0d297521bb58531e00",
+   "enUrl": "541583b1011785df5b711b73eb0b7597000e845ec8e29d4aed676d8a85473694",
+   "krUrl": "c16cab0e4e6a821d1b1212522a62794a84d49852ca04aed114aa0b71adea4705"
+  },
+  {
+   "id": 12,
+   "title": "「壊滅」軌跡覚醒",
+   "text": "これが…私の意志。",
+   "unlockRequirement": "",
+   "cnUrl": "0a7facb959ad5ab9e653b25dab7d7cfb71514c820546ea896cdefee0c3cb4700",
+   "jpUrl": "680227244880e0cc1f3120c6c162abec6eea902524f5ec88e9d1606536aba55c",
+   "enUrl": "78d238abe270cc9d3dc38c43fb7d350af197ae6f8479f1e081e8156d1ba981d6",
+   "krUrl": "ac754b868de19ee8f2c1e07c178ff046d617ac3e29a76299b2159ccf1cded9c2"
+  },
+  {
+   "id": 13,
+   "title": "「存護」軌跡覚醒",
+   "text": "「存護」は…行動によって決まる。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "db8fc2469b815c5e785d99ca93998e728b75735d0e2ffc79a67e954d5b2d8aaf",
+   "jpUrl": "a6a881523d3c46bfb5a7afe4f691d2d4b6a71ac5a66e2d7a0b207f5128f0347d",
+   "enUrl": "bace8fe01f33ed8e3861ccb8a142c55344059caf945b9362f9f2aef92528249c",
+   "krUrl": "62fa52fbf24b548f0712b53b5845249da0cbfe93701de99d586fef24287757e8"
+  },
+  {
+   "id": 14,
+   "title": "パーティ編成・三月なのか",
+   "text": "反撃はなのに任せるよ。信じてるから。",
+   "unlockRequirement": "",
+   "cnUrl": "497fca650fb4796b4ee2e7be6853d0c491c9caa19f13529f2a6719f8f68d6889",
+   "jpUrl": "bb55b018a444e5dc4a7134adebcbfb3b0621da391dbe5aff3b58867fba3b8bdf",
+   "enUrl": "f2ad8fcad0a7aa7c28e9768d70ef2f8614eb39d17c3c6a43c25a6fe0605b5d89",
+   "krUrl": "5189a86d49457f18193fa20780df7d543744ef061b1e1aad5bf4496f7ce44ef6"
+  },
+  {
+   "id": 15,
+   "title": "パーティ編成・丹恒",
+   "text": "丹恒、速戦即決しよう。",
+   "unlockRequirement": "",
+   "cnUrl": "fff8cf37fabc8aa3b538b190f11c534d0adae536031a44ea9f050b6c2880ddb8",
+   "jpUrl": "579adec4e21186ede5b90def29f26dc971903dc3d1c62f93f8ac77dd24f4fd1b",
+   "enUrl": "9940380b5936bf6cbbae8b862e992eb7acce9e319516b9f5ad23c0784f3eb853",
+   "krUrl": "ac4a2af07d890d1fb2100cf1f65442a6b136e1ca8bf7a79094694e638116c5bf"
+  },
+  {
+   "id": 16,
+   "title": "パーティ編成・丹恒・飲月",
+   "text": "丹恒、いつも通り、速戦即決しよう。",
+   "unlockRequirement": "",
+   "cnUrl": "110eaace9744e7ed93c2c32f640effdb557edac583ed5afa3428d01ef175e582",
+   "jpUrl": "3a25e2b9a197ddec8113a5f9624404c7e3d17f508cbcd2ea2c74de2f695bbba3",
+   "enUrl": "653d0b7e25c0f802f8bb4731fab0b834348e84922a557237b402835c162d961f",
+   "krUrl": "420a288129764ce3c79a1a723a53efc6ca9441f186430a0d9a251601dd65ed31"
+  },
+  {
+   "id": 17,
+   "title": "パーティ編成・姫子",
+   "text": "今回の最後の一手は姫子に任せるね。",
+   "unlockRequirement": "",
+   "cnUrl": "007921641f8a48afa64652cecba2a5ad6b022aa48d840f1b55d0e730a9eb1125",
+   "jpUrl": "d6ef21fe0dffc360d5ee3c6f394e0bc15218d02aca5c8c701234017fe1d1d21e",
+   "enUrl": "0a6ec45664822aa5c2602b5f1af92e72ed5d5993fab90720ecf5125f2a375259",
+   "krUrl": "98dcb31061533b3c670df2a2bd370b9c075a4cc8e1d55a12592a378cc9709fee"
+  },
+  {
+   "id": 18,
+   "title": "パーティ編成・ヴェルト",
+   "text": "安心して任せて、ヨウおじ…ヴェルト。",
+   "unlockRequirement": "",
+   "cnUrl": "a22b97bcfb06891da481fe12278cf40f9ed1735b18f80ac0bb1dac4984df12d6",
+   "jpUrl": "38843bd4cee72ada8a5e5db70dd4f5811672b96040fcf164820c78dd515d3870",
+   "enUrl": "82a0aa3dce1d32c0bc2bea8cdc7f4c6753a64c4b20d254c5981c8f33d80e5f7e",
+   "krUrl": "91207fdc9a02a7bdbd75d7a5de198456095ed23db7b1ff995a644c4372e16a81"
+  },
+  {
+   "id": 19,
+   "title": "「調和」星魂覚醒",
+   "text": "お互いを知らなくても、私たちは同じ目標のために同じ選択をする。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "cefe1871e8fc39f62abe3fc2e7a19a696bd280b8fa3b81f93627571721f6f0bf",
+   "jpUrl": "7a570f1ef252cbbcaebf7af1d9f6bccbda5194c3790785dcc3c2c7e38ac683fd",
+   "enUrl": "005d5ea03d3cd15752660a0e0fb22ca72a2d6c56f3eeff2a031ea82743f4ec2e",
+   "krUrl": "fc028b27ddb8ba67be7b5b0385975f6e9da2b36b447235a8a92174b920aed9f4"
+  },
+  {
+   "id": 20,
+   "title": "「調和」軌跡覚醒",
+   "text": "別々の道を行くことになるまでは、一緒にいる時間を大切にしよう。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "e8076b82e3ebd33b0ed138939ed4c85840728f5b665319eb8edb323a9d7c69f5",
+   "jpUrl": "bedc127b57cfc8feab2cf11a95a3a96798406891f37995466230687fdc47c754",
+   "enUrl": "24029401984f183acfa5b1bc9e4a35e960a872c9142783bb53a58dd994549b7d",
+   "krUrl": "afd082cac0575a374eceeea56f044a230b8863e956815e6c98faeeb4f2565235"
+  },
+  {
+   "id": 101,
+   "title": "「壊滅」戦闘開始・弱点撃破",
+   "text": "この機会を逃さないで。",
+   "unlockRequirement": "",
+   "cnUrl": "d2549b0fa5bdb6caf71930403ef9b4b5192a33128637b17ee5652d8d7bdecdb1",
+   "jpUrl": "6b1b59479405efa910e80291179cb1c752ceecc0510a7a02bdf0a4835beabab9",
+   "enUrl": "6cb44814eb48dfa2f463d6c5f680c7f0937427ad77a58867401311d470913e64",
+   "krUrl": "10d8c3c37e6de669c021f45b5935984396fdc2d8352e8f11aef406cac132c306"
+  },
+  {
+   "id": 102,
+   "title": "「壊滅」戦闘開始・危険予知",
+   "text": "警戒して。",
+   "unlockRequirement": "",
+   "cnUrl": "4687bc51df70fa4c1efc3952212d48e452dde20c7e2f431503e7b3b243c182e6",
+   "jpUrl": "027ade7050d4d112c2e4ccd20c6d7020b3c58eef23571dc6b3e0b775ba8eb0f6",
+   "enUrl": "ccf8a03b401a29ea0d97b9cc4f070ed6e5ba3a332c75111c1fbd2f7dad16958f",
+   "krUrl": "15a8b52deb8a68d99b0a3692fab468bc38de6f2bdfcb07c35d618e79c71cf86f"
+  },
+  {
+   "id": 103,
+   "title": "「壊滅」ターン・1",
+   "text": "始めようか。",
+   "unlockRequirement": "",
+   "cnUrl": "dade273fbc91175b76408aa963232512665ed1c7da13a570dbe72d693934f7e0",
+   "jpUrl": "3f7281b977b3770eba339e23b5a3449f7743cf4207d2ea95036e6d9865e59c2e",
+   "enUrl": "a972390cbd280033ab1ff73562a78053302c046dd609cbd414a1c976ecdad66e",
+   "krUrl": "c433c0279f7d0fc172f96b35b1c29cdad9a039c6ddf7dbc59e01667893c04884"
+  },
+  {
+   "id": 104,
+   "title": "「壊滅」ターン・2",
+   "text": "速戦即決でいこう。",
+   "unlockRequirement": "",
+   "cnUrl": "79e2130002ea82ccc8d06554293bf6f355a768615fe99354103493ab28db321f",
+   "jpUrl": "42257ef4a34239ad5bf0f0fe9cce1d42cb766f5e452ff5797e1bb7802639caf1",
+   "enUrl": "949c2eb9ad20794cc55579fb7632fe34cddcce50956e10641a057cf845895672",
+   "krUrl": "64b34219bf01731b89c79762f37f0ca5632251ea213957821ab9c34d9682b31e"
+  },
+  {
+   "id": 105,
+   "title": "「壊滅」戦闘中待機",
+   "text": "次は誰？",
+   "unlockRequirement": "",
+   "cnUrl": "83db5d29ee6d2c1c1c1351a8ab91de060ca6920ee18c8a63df44a69062e784b2",
+   "jpUrl": "bdd7116275e41315b75c7703f4f2e8472e771d9fda738851781c877036b5eb92",
+   "enUrl": "7a17f2f2174fcb681e57de80b4543eea5066e441d165f65b49cb5a6088a6e40c",
+   "krUrl": "c547432afce64536b5121d8c9d2e31d6741e834a6d8f2f4cdc24308388309703"
+  },
+  {
+   "id": 106,
+   "title": "「壊滅」通常攻撃",
+   "text": "あんたの番だよ。",
+   "unlockRequirement": "",
+   "cnUrl": "38eaf5b8ca91a39ebe6dd5648f3839a4f7281860dd807cdc8697f923b3723ca0",
+   "jpUrl": "aee124507c00cb2537ac5c03ec55346694832be1e44d2df8897c885ef1a55029",
+   "enUrl": "2dd008a3e86a9eb9486639cfab6e1a697e36a620c807421cb6a4b870aa63dcb1",
+   "krUrl": "8c181fd428f1fc0e79c5c90b522a75c1207e164ad32111ce5e4109827314682f"
+  },
+  {
+   "id": 107,
+   "title": "「壊滅」戦闘スキル",
+   "text": "くらえ！",
+   "unlockRequirement": "",
+   "cnUrl": "1208fe59a7bfc1ebae2d121b746a6a7d4631ea9635b60cc1fb772dfae153b45b",
+   "jpUrl": "bdf7050e828555e89d42e9c79127a14e82bae204a4a07eaecfb7721b8f1926d4",
+   "enUrl": "ee807aa0eb8a5c41fa26ed895095732905f4f66317f09eba92535a31a0fae2f0",
+   "krUrl": "cbb387f742da00cff02bf19d1f6a22252e921f57d1971d1781f3e73b47aa6c89"
+  },
+  {
+   "id": 108,
+   "title": "「壊滅」攻撃を受ける",
+   "text": "痛くも痒くもない。",
+   "unlockRequirement": "",
+   "cnUrl": "c70ec5dd029fd2dc5ae60b774df92ac59b674c2238f8c6196d266c205be5dd8e",
+   "jpUrl": "f7c4635ab2534820037207d843716c26bdc36d6fc6b59feba21a9b57a5112b48",
+   "enUrl": "abc112afc3ee539603b4ca278a3ad27a6485943cb3b033c0fe3263c497fb4baa",
+   "krUrl": "1d25909bc507b11a660c6710df2ec10e0a5d83f6129ac80cd70eb925a887eee4"
+  },
+  {
+   "id": 109,
+   "title": "「壊滅」重撃を受ける",
+   "text": "まだまだ。",
+   "unlockRequirement": "",
+   "cnUrl": "beafce29f59eb3493e46dcc8104fe3c0b33e953cf5bb7815bec33ac6263e0675",
+   "jpUrl": "4658ec85671f800046e6d5b4082db5efcca651c736f08c8c6192da7dd55394aa",
+   "enUrl": "d35b176b58ac1c4b3c02ea477f1838f450f66274958dc89fe928c27c655d6d1a",
+   "krUrl": "4cbd72a1c75e127a46da2c79decb969cd1b609aeda4b917c1fe7be12d1654bf2"
+  },
+  {
+   "id": 110,
+   "title": "「壊滅」必殺技・アクティブ",
+   "text": "ルールは、破るためにある。",
+   "unlockRequirement": "",
+   "cnUrl": "7302dfe8ffb6450d42fd4273b1d440d143cddd8e049ee3fdf43ee405f4c82c42",
+   "jpUrl": "2b54dcfaaf0a697bda1eaf0a7e76869eec1e7c3644b14bcc9aeaaefaf4cefd6b",
+   "enUrl": "10feee221d63fd67b9022e5c5bd90d4df407483f370e353a3cef12af2edc38e7",
+   "krUrl": "4829903274bff5ea8460bfa277c9706b07a2837a5f1d6f56a7f732a51725a66c"
+  },
+  {
+   "id": 111,
+   "title": "「壊滅」必殺技・発動・1",
+   "text": "アウトッ！",
+   "unlockRequirement": "",
+   "cnUrl": "07312a8cf5cd521d0f60bca08192713ad785659e234416108ed4ec56b7fe5d36",
+   "jpUrl": "db116cc551f5e88f13e4b18ea5e005a913180754683c235a8f108ccb6f6d0ab8",
+   "enUrl": "10c7b19392c29d46df849a363fc259527e510488901fa96d47b994569a1eb8d3",
+   "krUrl": "ba8e3a4abba2961d70965174264349c49a0dc39bef87085177e767197f235567"
+  },
+  {
+   "id": 112,
+   "title": "「壊滅」必殺技・発動・2",
+   "text": "楽にしてあげる。",
+   "unlockRequirement": "",
+   "cnUrl": "5cc1406cdae08f9de59ac79d29c1c6db1c2eb8256e380e850b18bc91ce513522",
+   "jpUrl": "aae47b00c2329fc2b2275c03c539807ffbeea21347faca005b2b65b2a6662e7d",
+   "enUrl": "3e974bca39ed0f97b5d78ea5ce5ff1bac71ee4c91cd5ab066e039f88a151f785",
+   "krUrl": "11791aaad0c0f14cc33766c1843c0a4535eadf3302e195ec62ad9455f707ef48"
+  },
+  {
+   "id": 113,
+   "title": "「壊滅」必殺技・発動・3",
+   "text": "一撃で沈める！",
+   "unlockRequirement": "",
+   "cnUrl": "ee10a915ceee072247263845ddf294a84d53cce89b7ba06d39990a22fcddcc77",
+   "jpUrl": "ce5a41df3e505eccd77433cb0c8df03fb0652e77edb1014181b290d0b33da9b1",
+   "enUrl": "70e987d465261a39324fb6e107db32cc70aa0db306a5bbeb40d4de3c1a5a332e",
+   "krUrl": "df3a0e1e2671d29012145d6b4f3601a0f55a04cbd285cdf80d0db6507f395505"
+  },
+  {
+   "id": 114,
+   "title": "「壊滅」戦闘不能",
+   "text": "私の…負け…",
+   "unlockRequirement": "",
+   "cnUrl": "f9bdb5666d456b6df893d008b80970773e6ef0a3122ebb5cb444d90fa6f4f2ca",
+   "jpUrl": "7881112728a6d8143013fff7a211814c33f68e894c11be4a4f5a4c00bb06f00a",
+   "enUrl": "7122622fd2721249fe543cdec1bf6548f348ce6616fe317782232c1fa15083c9",
+   "krUrl": "3af8d1bb25e18eed7036ed4d077284040e39cdaacb9e702769de51697d96a5dd"
+  },
+  {
+   "id": 115,
+   "title": "「壊滅」戦闘に戻る",
+   "text": "二回戦を始めよう。",
+   "unlockRequirement": "",
+   "cnUrl": "87875529066867e2310ad723bd980d095781f708a86c5b8500b651148de81bbc",
+   "jpUrl": "0fcd3c5331db43383fddf4117951273ff3aa79ad5622f2af7bf2267d0b7cdb32",
+   "enUrl": "03ed1560807435f79f0c2c007712846ca0949741ae8ed92c2cfa37da454dc625",
+   "krUrl": "ca1af1fed8f5caadd1cacc36ac63bbd23e1268fe45f87d14787912e77a0f3392"
+  },
+  {
+   "id": 116,
+   "title": "「壊滅」HP回復",
+   "text": "助かった。",
+   "unlockRequirement": "",
+   "cnUrl": "334c0183b43e844391dedb7d20792add7dfe975728eadf00f006114bad1c6c74",
+   "jpUrl": "8c10f9a23905b70a021788fc451b41a032b7959beec0073b8a18756da97a7910",
+   "enUrl": "68f98e8771a6ce949335ff61553ac0cada652b8e07594bf3df21daeccfc1d521",
+   "krUrl": "3aca377ed0c200bd2e150c7faab7402c252bc6de9e9f6adbb1922efb84ff53ca"
+  },
+  {
+   "id": 117,
+   "title": "「壊滅」秘技",
+   "text": "あと少し。",
+   "unlockRequirement": "",
+   "cnUrl": "40457d976bffa274ee34723d5481fbdf815fdff9f74fbc02d49c0f47cc456933",
+   "jpUrl": "a66fa7eb91613e846d6e0d031a1f2e463c820f44d0568b810fa1459688055bbe",
+   "enUrl": "bfc83352a4a0133242c03fad6eb8bdf9131cdb5818c64394d4db7d155ef3aa48",
+   "krUrl": "860d7bee492eb018e6e6392a99b6f8a925d5f503722f56752b4f30afc9c104d0"
+  },
+  {
+   "id": 118,
+   "title": "「存護」戦闘開始・弱点撃破",
+   "text": "攻撃のチャンスだよ。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "436d87b9135e243b00e67aa735f698c01830c76ecbb6daef90ed98d670748939",
+   "jpUrl": "6d19a064bdb87b23a628f89c611d30fba1aa5b8ed20962b572f192603c359abb",
+   "enUrl": "9aa9b8bbc295e6b477d133c0243a7854ac2d824364365a8925852e32eb7e406d",
+   "krUrl": "31656abd54108acda75a95711d83b7d9ca28853dad147abd69e1ebb381f20223"
+  },
+  {
+   "id": 119,
+   "title": "「存護」戦闘開始・危険予知",
+   "text": "警戒して。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "161fc9fbcbed4710bb58fed54f386e51a6d235bc423be0fbcbe2f385dea1b4fd",
+   "jpUrl": "f731501b062ee2dddcac59e4954eac1224827fc3471eb634030f71bf3f2a57f7",
+   "enUrl": "cdef28065c9fd9937239671879d50ec004db88b6091f3c4a27862c9388bb77a2",
+   "krUrl": "f8aeff6928267335e0bf4ef8484d899a8a196eaacd9a45466418ded15e14344e"
+  },
+  {
+   "id": 120,
+   "title": "「存護」ターン・1",
+   "text": "ランス、戦闘準備。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "2753947371e13c31bc03ddec0df21759d360b1d6458357762b1deafa13fcd2df",
+   "jpUrl": "965bd29d082f9e7be4f14fce5a844cb75dd2900275bf8f311b9b735b421f27c0",
+   "enUrl": "71503f5e4eb5c6bad684d5998e29b1f45a5190a487283213a62dfdcf2867f5df",
+   "krUrl": "a2eef2903ce0b1f14dc2aa53081a5d5519eb32562274c14746ef151b37c05307"
+  },
+  {
+   "id": 121,
+   "title": "「存護」ターン・2",
+   "text": "私が守る。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "d0e6468f2c83227570303d7fc75c7d8635c2af5f979530f530ebfbbc312ed42a",
+   "jpUrl": "5a1dd98e5aa7a76fadab839c6fd297bf8b6e3c79b4cb071ff9403af1b5836276",
+   "enUrl": "ff913acb8d730962ca18b95fd49a2bd06137ea0133e22171f5aa4e5e8331e322",
+   "krUrl": "ce6fef3e78a798a651c080e9b75198d7de0b5d39af114d51bd9a3d9557819839"
+  },
+  {
+   "id": 122,
+   "title": "「存護」戦闘中待機",
+   "text": "戦闘を長引かせすぎた。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "73224e7a9eca06a9d7d9e753716d93053e80c1c536e6e01e6c0d8574aaa0b30e",
+   "jpUrl": "3e773c29fcde15291a4bb688cc3ec878fd40e7a7a2ddeb0cf76b7709d389cd7d",
+   "enUrl": "41a4bb29c7931b3e2ff223677b1b10de665e4ac2339fe6f2599e3591a81c2e68",
+   "krUrl": "3611be1b20309c7ac0b11e6eea298a8cac1cda7bf58a77c9336a925181e92feb"
+  },
+  {
+   "id": 123,
+   "title": "「存護」通常攻撃",
+   "text": "貫け！",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "1d6e20b988e659f86dfa51009bb3fbccd9f8316190a4f69976f6d97c66c640cb",
+   "jpUrl": "a1334b8a336a0bfd3e86252d0c19bd54b8ed369302c4e5ddd3a13f0eb404f3c6",
+   "enUrl": "1b913d0ffb7882584b7ee02448562749df3427da313739b50dc3a40a2b3df872",
+   "krUrl": "eb789efaab73106c977b4223ea56980be2981594b2075bf792e3c7bd50e2a6f8"
+  },
+  {
+   "id": 124,
+   "title": "「存護」強化通常攻撃",
+   "text": "大地を割れ！",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "55e9269e7944c6c7322d40a96761f92c584205c8422c59d827017ea6f8149c51",
+   "jpUrl": "432853568bfb50e624ed13c2a5ffeb2efec3b69393e35145025c51f0bdc651a4",
+   "enUrl": "e86cb070949f45970dd85e716a5a909c2e54eed133bf4f4fd1b493e6675e5fd1",
+   "krUrl": "c6101353c4465061885d2680912bc082f24ea71fc6f107057540ac5ca92d1391"
+  },
+  {
+   "id": 125,
+   "title": "「存護」戦闘スキル・1",
+   "text": "難攻不落。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "0d61ed4071d08315c81d12cf9ee07ef1940ea8879b7261be429925cfeb8bb03f",
+   "jpUrl": "d5f21cadcc0ac65e8b999a327d8d8a6d74683d69061362fdafbc1a591ab0ca45",
+   "enUrl": "34e9f1bbb7a02cac55621c283c479cecbed7e764376877ba0ff7432821557bda",
+   "krUrl": "05c3f31d6fe8767d5965ae0734ca6a042cc6d144b9c43ba9dc97bde4a6ec0d70"
+  },
+  {
+   "id": 126,
+   "title": "「存護」戦闘スキル・2",
+   "text": "弱き者のために。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "bd408c0168a276890674a740bda34e313b648e6f495d06260b7a1739fbc7ca94",
+   "jpUrl": "51ef17fe95cec8a5f9435f5d023cd236e5b506f687b9a1dec6e73bbbc3f73f84",
+   "enUrl": "deee962c5bb46417e419cbde3463eb4040d1855b14f958401d8297068ab62533",
+   "krUrl": "011981588943bccaa62155939b23d5dba73c9594e00f0771c1f911890af6f17b"
+  },
+  {
+   "id": 127,
+   "title": "「存護」攻撃を受ける",
+   "text": "その程度？",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "c48c92f802855d83e0298b090ad09241c33642aafabfe5a5a5b55817ccb4d038",
+   "jpUrl": "cfaf9d9f2c49d0aee3ea9bed51b3aa83aea6239299b045f30dcbdebe4ec7a085",
+   "enUrl": "ae910867eeac0916a57474c14120bd30a66931ea3e5bb80f8699d822f0006942",
+   "krUrl": "a9fea7f969d3ea7c8ea85d05692a7cd237c3e363116833b747882480f1c17c8a"
+  },
+  {
+   "id": 128,
+   "title": "「存護」重撃を受ける",
+   "text": "だい…じょうぶっ。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "fafb8f896403cfa8c7e24a1555da2041b4d4d3754193a4e8e294540126d6585a",
+   "jpUrl": "055ca79e8327cf0e1fedf5a429b809e7fc0519010df812ede5ed09650efc6dc8",
+   "enUrl": "9169122190240361b376df448b0517cd4e2bbadefcfcfce97c4983ff84300f46",
+   "krUrl": "96505d3c59367f2844f8fb7bfcaa5cb0c3c23d329dfde67130c9b3d1f1220d7b"
+  },
+  {
+   "id": 129,
+   "title": "「存護」必殺技・アクティブ",
+   "text": "槍先に火を。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "4dc018ef6987c1d3a25017443d759a6f40627bdbf52291973d871d31469804b2",
+   "jpUrl": "bc1a149fcc2934fcc935ba349fe70d3571a9f2498058f4a795ce6628acd1c90c",
+   "enUrl": "386cff8e03278a7b8faa787cc1c87e61141893981fd6749d06e68392c192de49",
+   "krUrl": "128cc2c7ea6191a059665e23940268fe6e7b7c4f453060eddfb64cd76247795d"
+  },
+  {
+   "id": 130,
+   "title": "「存護」必殺技・発動",
+   "text": "炎の槍よ！断ち切れ！",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "726993a40f5ae9d4f1061e2b003f043762cad8b9f369bd01cbe159bb2bef61c1",
+   "jpUrl": "2e4eead389ebc9c4dfd6c673a7d73525803e400ac8634d637d8bce5af5061944",
+   "enUrl": "4959643f30f81bb379c921136ee70e93a56aac3034d6834cd0d11aad648437cb",
+   "krUrl": "811529b8370547cf798a6be8feb610f448ffe48f8d845c35b4d4106434d79293"
+  },
+  {
+   "id": 131,
+   "title": "「存護」戦闘不能",
+   "text": "私が…最後まで…",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "cb5818d9fb00c3b15cfdc89573ab3f162f2e66b96cdfed71ec503801e38fb6db",
+   "jpUrl": "0f06498586c09bb60130e4b3419393d377d3b696c78a724411dec861d48ca9bb",
+   "enUrl": "316dd8450f8308c4fada55e1c9f03738fbaa7c3c4338102d3bc413b9198943cf",
+   "krUrl": "744173781c89281f94819c548c923036b4bc76e4001dfb16502d4e82c5847e70"
+  },
+  {
+   "id": 132,
+   "title": "「存護」戦闘に戻る",
+   "text": "絶対に退かない。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "b0c40c0074ec693683b2bb6206099b63da41041955c80b475f85748b662ffdd3",
+   "jpUrl": "3de929a6afb99514b19dda0bcdca8c06cfef37cdb4e6d83f7d195291ea8fc456",
+   "enUrl": "f39b848862297d7d5748635f74f5eb81857bc01cfa8f9168d44686fb3344a473",
+   "krUrl": "83b89854affbd5b1f4a2f446d7c659a4d2fb1da9fb775b6a4301346875f3bece"
+  },
+  {
+   "id": 133,
+   "title": "「存護」HP回復",
+   "text": "助かった、ありがとう。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "9251dc3f146fea7bb3d5854ccfb47da1d13d688467b75e092b2254cee57fcf92",
+   "jpUrl": "5bc712ee3b9cb267e5bf0de370a08dcd0d8f482d1742dd25e01dba5b3cba1b91",
+   "enUrl": "70f91bd0767558d6366f45434bb5d752d72bd321c1bae004a8d70079823e770a",
+   "krUrl": "160f1185f841fa94193b41c8fd193bcc5375f577fc0d38c11608cf1e468f3126"
+  },
+  {
+   "id": 134,
+   "title": "「存護」秘技",
+   "text": "存護の意志よ！",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "f0ca251572cb5e958fbebfe6143c09c68b715a541a00a529b089bc5eb92e29e6",
+   "jpUrl": "0e2c13615935f42a3a9e91c747a47b4b70cfae626c4979cd02b74b0a0890fc63",
+   "enUrl": "cc4898fceeb158092cd2e70c366a6b80a226f9598b72b3bca0f2e38436f7547d",
+   "krUrl": "9b3f0d5702e851c28266beb3b41159d94176ca74aa74068c797c8c57d326288c"
+  },
+  {
+   "id": 135,
+   "title": "「調和」戦闘開始・弱点撃破",
+   "text": "テンポが乱れた？",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "a0fdaf817d10d96aff7dc308c10eee7e030aab690b81c1ea685a71ad8ee8b2ff",
+   "jpUrl": "ae55e757f82adadd3ff8bc94bec886a3c7e8178c293c1db97290dcd10175e1cf",
+   "enUrl": "c3bc7be787b43c31201ccb5e6310159108a1cc1e106a833c8676bfbf0d5da820",
+   "krUrl": "7c709cb57d81fd93d5f562063f1678a82665ff3c0d06a83b34f591b2e0d96a27"
+  },
+  {
+   "id": 136,
+   "title": "「調和」戦闘開始・危険予知",
+   "text": "私たちのチームワークを試す時だよ。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "d25c25d9b5082ff202d6a5f66e358a26d64846197636fc4cb74138672c366df5",
+   "jpUrl": "d8edbc6f8b1bbeea16afad655670d3df3c5e6616f66217995cde74c813243703",
+   "enUrl": "8c0dfa1279e2d3cba1c1746e3733423993bdcea66741e99638c3c092ef0da3f1",
+   "krUrl": "d80e0f492ee98ceba2237399ed34ad1f8d5a4f67afca5744bf5a3a929f8b9f16"
+  },
+  {
+   "id": 137,
+   "title": "「調和」ターン・1",
+   "text": "スタンバイ——",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "528e579818cf11338a2535181315cf3bf0e7f83597b146449690d8c480b94661",
+   "jpUrl": "bac44333858ac8fe91af193b306f57c4d79ad00c180da7e6aa5690c84fac6ce7",
+   "enUrl": "c8e237f741c805aadb657cbe2b5f5074382cb4ea4244dc690959b71d2d31047c",
+   "krUrl": "3d3b0a61535fdb1aabf9bf72d32ea6747c9c8f08adc26e81388ba431ac9fc8f3"
+  },
+  {
+   "id": 138,
+   "title": "「調和」ターン・2",
+   "text": "ペースを合わせよう。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "8abdd0b6a2a1bbf38a991ab362f9962e5f136775b5d4f7742df2ad21c916dea9",
+   "jpUrl": "0936a938e3d9360fb1d015e7cb54ac9edf3265335a323a0d54dbe4eb8f3050c0",
+   "enUrl": "5e213134770cad2d889d2fe0132df5bfed9d69651d4cff5478d2f56318a143e7",
+   "krUrl": "99f88ac3317c5cf400e828f4f2eafc6ec4fc730230ea19797c9dc56342842902"
+  },
+  {
+   "id": 139,
+   "title": "「調和」戦闘中待機",
+   "text": "入場のベストタイミングを見逃さないで。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "94b1ac6d52d15849a852af5097e19720b0a2f1ac134afafa29d94def55c96aed",
+   "jpUrl": "5249fa65d4cc47cf83535a7fd421dd607cdf961bc7efcdcb67d8c44b5cd2ac13",
+   "enUrl": "90af8292badefda25fd3fdba7bc0f7f5c36d3a4a6ca4d7fc2a7ab1f34a2e395c",
+   "krUrl": "64bf5ee45600a1725746d464d21fc12c9263110d4b1c3a70a56de653e3ac0851"
+  },
+  {
+   "id": 140,
+   "title": "「調和」通常攻撃",
+   "text": "私の出番だね。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "4997f33793445e62f49180338612b16e4649cf305128f5f729bbb7cafba50bc6",
+   "jpUrl": "81d20f560bb86092cb129b70bdf7901402db1f7c75ce4e4ade2528b4a45b4e18",
+   "enUrl": "9e8f38bd10cd754de874b1e7ebf060409603fdbc454af44be135429375f7c86c",
+   "krUrl": "837278d07b4e381ee97018a6042ea52334c17db564e5178ed9241b47e712fbef"
+  },
+  {
+   "id": 141,
+   "title": "「調和」戦闘スキル・1",
+   "text": "アドリブで！",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "ffc4927a8519b9a37d1e2cace235c5f6051fe8d7705627b97a02450fed19b93c",
+   "jpUrl": "8ff6967ae66c6ad6d0702f811703fd77e24cb45566775af3951905e5826dbd3a",
+   "enUrl": "aaef064303aedf7cf1c1494b53a4cf4f075b7d890a384fd0407ff2e290f135e3",
+   "krUrl": "6aa607e53de7e7958d4d36eacbf823cd0cfbf4000713a74b62a7b717e1be6098"
+  },
+  {
+   "id": 142,
+   "title": "「調和」戦闘スキル・2",
+   "text": "ドリーム・カム・トゥルー！",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "e623167c5361b5bd53549a4a836d02869539a90c9bd34d6bc00f72502410aa8a",
+   "jpUrl": "64238580ed03b2da77fd56fa9462340275ec2864cd9ef9ca249f1cb265478cce",
+   "enUrl": "33beb070a229b5193b5b3a6fcf727f1b9ffa1791bc5ee7b9e0808883f65d88aa",
+   "krUrl": "5c27645888b7c9f756655acab566c995591eaaadb2dbfc5b6991f3b1b47f79d2"
+  },
+  {
+   "id": 143,
+   "title": "「調和」攻撃を受ける",
+   "text": "またそれ……",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "4c1c209fa4c281782a018867615b55bb8c74702e32ace65b2563d71563f027b0",
+   "jpUrl": "cb16c983ce0b8d86e4a16eddcc5bf6156ee9ef550fab2d27a73ffeaf28b36937",
+   "enUrl": "b00769b5cfcf05aa903c5ea1e3c4bb8b19bb99f390e10a07018b7cebc5f22fe7",
+   "krUrl": "fbd16ec5f8f64be583a8dee2c43743f39454fb640fdab6bd40597e8bf247bae5"
+  },
+  {
+   "id": 144,
+   "title": "「調和」重撃を受ける",
+   "text": "すぐ追いつくよ。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "a498f098e523350e244a85791cc27f5e4f18e94567ce5c173c6f33996281747d",
+   "jpUrl": "6896aa97215e99e9721bf99f0d4babb8c774428d47974f84b1814ad0d71af5ae",
+   "enUrl": "a28e02522f5acae542c5a40e445f1b6ace433187aa4bb196c45e751cb4dd04c6",
+   "krUrl": "3b00b64e4a1d6d27d3aacce53be0f03aaff5b80042f8834067a3f3b54375d927"
+  },
+  {
+   "id": 145,
+   "title": "「調和」必殺技・アクティブ",
+   "text": "イッツショータイム。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "f7f0be2f2f4aa292ceffbd4e7fec907e734f442c89cdf41bac3352230e4387f5",
+   "jpUrl": "11ced1045b20275d7d29ba797edae4a2b018875f77ff78e8d61d9c0122d0dbde",
+   "enUrl": "c95e1de2277c544102a21085e410a0fba43273d4b5f6a7e5a688c3839ab8ee9c",
+   "krUrl": "bf0c318f4971d61b59b2113ecac625ee7e9ec1912baa2bf738019a53255f7fa2"
+  },
+  {
+   "id": 146,
+   "title": "「調和」必殺技・発動",
+   "text": "コラボ、スタート！",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "c621987aff45651d143a9ad9779dff4503e04050743207690d01c8996be9d7dc",
+   "jpUrl": "ea7836a9af7528e285c2014134e5d3f26ffba08b43f3feb634b0c70447b970b3",
+   "enUrl": "5a496ebcb8d937ffc6ad3017cd0dcf65cf357e0330ad0d8cf6d8310a0263598f",
+   "krUrl": "60aa0a004d408027f0437d4515f97f60ef0a95869f06786c993642eaf73a8a7d"
+  },
+  {
+   "id": 147,
+   "title": "「調和」戦闘不能",
+   "text": "まだ…終演じゃ……",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "f833f68a0b9b94641af72f98a127995fd06936e977ec3ac7d41f36c62933c746",
+   "jpUrl": "e830720ee274a002c68d05037d77353c1ad0ee235da6f2ca72fa39166ec92ff3",
+   "enUrl": "e0efd3b5a718e102112e9008d0693fc52634868985dcf53bc6463b025fdbd99b",
+   "krUrl": "e3cd991cd7621318cf98fc820126bb0f05aaec58eb4094bef67677efb69113ea"
+  },
+  {
+   "id": 148,
+   "title": "「調和」戦闘に戻る",
+   "text": "幕間終了。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "d286843adf34aa4b9c968b13a7e5e214ebd60110b59da05a8d711442c4e088c9",
+   "jpUrl": "44105460bd51e918ee649f8d6d90b87b4795929130ab0712129a03016bce7193",
+   "enUrl": "719aedac207e2467d6183e233f3ed34dd25d14fd3f648717a354944f0eea17e6",
+   "krUrl": "9975363de9923e5b3ac1c5b65aa69efa0becf0e5ed2a0aa64f2df73c0f33eabe"
+  },
+  {
+   "id": 149,
+   "title": "「調和」HP回復",
+   "text": "ナイスコンビネーション。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "09bcb247c29e0341281889d9dfd63d56c4b687f1e6a7a42e148ef05e01a5b1af",
+   "jpUrl": "2bde1a641c0d419be78072c0c79d19222e12513f24ed4106f24433f089151bab",
+   "enUrl": "85f196c7718570118810eeb0dfcbee54a32bf3ae30367a7e8ce12735b702f288",
+   "krUrl": "efa4bf2055fece2b14685d8b8e459a65c622189994c19c1646a520372fd1c809"
+  },
+  {
+   "id": 150,
+   "title": "「調和」秘技",
+   "text": "乞うご期待。",
+   "unlockRequirement": "新しい運命に踏み入れた後に解放",
+   "cnUrl": "89c3a5beb69d07abf5f3b2e7db3b8d01551836271eaf99106b43b0a88041a0f2",
+   "jpUrl": "912fc9725b13508f0f2c3cb88209cd6cb652264dcc4adad302774c3396464d5b",
+   "enUrl": "b219a528ba0791d936ab0d3ecee6a9b75fb1952fe9da53e808a0da31cfc67423",
+   "krUrl": "57097d8d8f4b680f0b1b50ece8ec62a50cc1d137b7769b4ab1a650571f62885e"
+  },
+  {
+   "id": 995,
+   "title": "戦闘勝利",
+   "text": "自分の意志で、結末に辿り着いてみせる。",
+   "unlockRequirement": "",
+   "cnUrl": "50c10cbb958e99de8d9949255238de48dcc07d42e07b47622447ac83864dbd2b",
+   "jpUrl": "9395e5cd6f7cdaef3105d8d1bff41f10c22fa44baafbf697e2c4fa4e873c8a2d",
+   "enUrl": "42d5eaa490fa0b069eea83f57af1cc9abaf19a774c6e58133811cd655a87733c",
+   "krUrl": "8187e3e4cb4b4f5cf5e4e17fd4f4a725f546ce5c1d8966b6ded6a49241602a2a"
+  },
+  {
+   "id": 996,
+   "title": "戦利品を開ける・1",
+   "text": "いい感じ。",
+   "unlockRequirement": "",
+   "cnUrl": "53b7b06ec27aac970c87c2652626f3d7e7b65c9fe5886b4c16aa7c3e8d2cc93e",
+   "jpUrl": "84c78479783491ddf0b9655c7b83611ba65ead41749afb9f001e5edc906c880a",
+   "enUrl": "2065b4a8cb477d583d8cdbf5071123a33b6be464fba2caa4b8488e878fdf1afe",
+   "krUrl": "05fd170d9cde14c111ed7d1e6cf491cda6d8a788cb79101d33cf66876a09f4a5"
+  },
+  {
+   "id": 992,
+   "title": "戦利品を開ける・2",
+   "text": "この品で最後だね？",
+   "unlockRequirement": "",
+   "cnUrl": "abcc1cb5402537e9d7966696872913dc0b3123e3232c26ab7b822ec8422c280b",
+   "jpUrl": "4a670135a3a71e34e8b916cf1f966b388015f7d0b1b24c508e5799665b8f4748",
+   "enUrl": "12d6b79c8a1e677622cd071028541fd480f96da3de89880ff1cab7b92c8f1d06",
+   "krUrl": "f5a69a90b5218ff89a252aa65a390cc5a3b58a12fe1fc0c546ca2c8fa30885e2"
+  },
+  {
+   "id": 993,
+   "title": "貴重な戦利品を開ける",
+   "text": "うん、多ければ多いほどいいよね。",
+   "unlockRequirement": "",
+   "cnUrl": "35587dafcc3bbfc498d896c30b7437a195c6b0522c9205050b55cd2b5596021c",
+   "jpUrl": "7635440d72276014025c59e8cde0c9a8facdd08f89a8364b5cdab2ecb5b29f66",
+   "enUrl": "3af0e74bc7f46316b630bb3fdfd0f033ec178d093edd34005ab8a8ce3435bea8",
+   "krUrl": "2b6c0c7c5fae8300859aba0f64cf6ea695a8ef09bb0b1ab5d459ad828741d291"
+  },
+  {
+   "id": 997,
+   "title": "謎解きに成功・1",
+   "text": "そういうことだったのね…",
+   "unlockRequirement": "",
+   "cnUrl": "8f8a0cce0164312bafd26a07452fc907514ea732cf6f7a9a1546a9869e0c9d80",
+   "jpUrl": "d45b5761236f73e8a78c6882b23f7d6dfafb50cd0c73e3238f29ca529c9ddf6d",
+   "enUrl": "e4e3043cb8665bf87a1a7277a131218c4c8bcee4459ba78c377ca5a09fbc0177",
+   "krUrl": "143d9b2d4242f51971c48bc097f6d0e839e27bdfa65974b740dce0df069238e7"
+  },
+  {
+   "id": 994,
+   "title": "謎解きに成功・2",
+   "text": "この程度ってところかな。",
+   "unlockRequirement": "",
+   "cnUrl": "f215b6c71616bed82f1422992d29d48c27f333403fc4fe8c705c8f9af704d2d5",
+   "jpUrl": "08e4d054c77cc51cb85add2352f9d7a5a97a3cf2ffd240e86d90ea3afd969d61",
+   "enUrl": "23035052767f460db15c55a44774e74491aeb7d7898f3d46c70e44cda50084ea",
+   "krUrl": "1fd9c33410c5e6033ec9ba24fa3d167f5a1b98bfb837759892a85611ecf0f91f"
+  },
+  {
+   "id": 998,
+   "title": "敵ターゲット発見",
+   "text": "対処法を考えよう。",
+   "unlockRequirement": "",
+   "cnUrl": "1a0eae6e4db0c3c65e3aebd30988523a7001ab5a9c3fe607920d2e7a938286d2",
+   "jpUrl": "cd1b6458e5d182e528a8dda81e9ccc1a7e99716c8f8b9478a17a48e9d45e666e",
+   "enUrl": "db6851b31ac1e513ec89807e8a938155964533209986f6828dff4eb6152e6928",
+   "krUrl": "51b7a46ea157862a572d4cefdcc036adb9a0f02c05cdd47662316f9882346113"
+  },
+  {
+   "id": 999,
+   "title": "町に戻る",
+   "text": "まだ早いし、どこかへ行く？",
+   "unlockRequirement": "",
+   "cnUrl": "10452aecbf1bc608aaea40de9518bbde7e8fe8f042ac7cd78937356faa35dbf5",
+   "jpUrl": "4c22ded20ef60662d97f5a34f612cbb6199d95bff3458bd7641cbbe79e8bfb36",
+   "enUrl": "fde2567868306a0d57a70bfcb1f13f7b5abcc1679869733acdb217e8a4b656f9",
+   "krUrl": "8f475697104f63109f9ed83473724d838cb34951c90d27cf2af1b2e9415546c2"
+  }
+ ],
+ "storyItems": [
+  {
+   "title": "「あなた」について",
+   "text": "星核がもたらす危機を回避するため、少女/少年——開拓者は星穹列車への乗車を選んだ。",
+   "unlockRequirement": "開拓クエスト「旅は続く」をクリアした後に解放"
+  },
+  {
+   "title": "あなたの「物語」・1",
+   "text": "あなたが覚えていることは多くない。<br />あなたはどこから来たわけでも、どこかに向かうわけでもなかった——<br />微かな声が耳を撫でるまでは。それは悲しそうに言い聞かせるような声で、催促とは似て非なるものだった…<br />種が根を張る。あなたは目を開けた。声の主はもういない。<br /><br />ただ声はどんどん増え、さらに明瞭になった。<br />安らげる心がけがある、冷静な忠告がある、毅然とした態度がある、優しい後押しがある……<br />あなたは糸が明日を紡ぐのを見た。<br /><br />巨大な獣が無限から降臨し、<br />金色の瞳が夜闇からあなたを見下ろす、<br />あなたはもう過去から見捨てられたりはしない。<br />あなたは長い開拓の旅を始める、<br />踏みしめた苦難はやがて道になるだろう。<br /><br />列車の汽笛が鳴る。あなたが自分の意志で——<br />未来にたどり着けることを願う。",
+   "unlockRequirement": "開拓クエスト「旅は続く」をクリアした後に解放"
+  },
+  {
+   "title": "あなたの「物語」・2",
+   "text": "あなたは「存護の城」に来た。<br />降る雪の後ろで、風は剣のようで、火種は未だ残っている。<br />遠くからは聞こえぬ、大地は震え、人々の慟哭だけが風に乗る。<br /><br />外敵、寒波、裂界による混乱の後、崩壊は砦の中から始まった。<br />あなたは援助の手を差し伸べたが、それは振り払われた。<br />あなたを軽視する人、誤解した人がいた。それでもあなたはその人たちに歩み寄り、一緒に進むべき道を探した。<br />それよりも多くの人があなたを気にかけ、苦難と向き合い、苦悩している人のために解決方法を探した。<br />最終的に彼らはあなたに歩み寄ってくれた。<br /><br />氷雪の中、あなたは炎のように、この世界の魂を存護した<br />——たとえ、それが日夜自分を焼くことになろうとも。",
+   "unlockRequirement": "開拓クエスト「静かな星河」をクリアした後に解放"
+  }
+ ],
+ "archive": {
+  "cvCn": "陈婷婷",
+  "cvJp": "石川由依",
+  "cvKr": "김하루",
+  "cvEn": "Rachael Chau",
+  "camp": "星穹列車"
+ },
+ "calculator": {
+  "expCost": {
+   "1": 200,
+   "2": 300,
+   "3": 500,
+   "4": 600,
+   "5": 1050,
+   "6": 1670,
+   "7": 2320,
+   "8": 3060,
+   "9": 3860,
+   "10": 4740,
+   "11": 5710,
+   "12": 6730,
+   "13": 7830,
+   "14": 9000,
+   "15": 10240,
+   "16": 11550,
+   "17": 12920,
+   "18": 14360,
+   "19": 15870,
+   "20": 16580,
+   "21": 16840,
+   "22": 17100,
+   "23": 17370,
+   "24": 17640,
+   "25": 17910,
+   "26": 18190,
+   "27": 18480,
+   "28": 18760,
+   "29": 19040,
+   "30": 19340,
+   "31": 19630,
+   "32": 19930,
+   "33": 20220,
+   "34": 20530,
+   "35": 20840,
+   "36": 21140,
+   "37": 21450,
+   "38": 21760,
+   "39": 22080,
+   "40": 22390,
+   "41": 25550,
+   "42": 29140,
+   "43": 32830,
+   "44": 36600,
+   "45": 40470,
+   "46": 44430,
+   "47": 48480,
+   "48": 52630,
+   "49": 56870,
+   "50": 61190,
+   "51": 65620,
+   "52": 70130,
+   "53": 74740,
+   "54": 79450,
+   "55": 84240,
+   "56": 89120,
+   "57": 94110,
+   "58": 99190,
+   "59": 104350,
+   "60": 106240,
+   "61": 111830,
+   "62": 117530,
+   "63": 123320,
+   "64": 129210,
+   "65": 135200,
+   "66": 141290,
+   "67": 147480,
+   "68": 153780,
+   "69": 160170,
+   "70": 179260,
+   "71": 199920,
+   "72": 220920,
+   "73": 242260,
+   "74": 263930,
+   "75": 285950,
+   "76": 308300,
+   "77": 331000,
+   "78": 354040,
+   "79": 377420,
+   "80": 414350
+  },
+  "expItemConfig": {
+   "1000": 409962,
+   "5000": 409961,
+   "20000": 409960
+  },
+  "sCoinId": 29328
+ },
+ "name": "開拓者",
+ "rarity": 5,
+ "descHash": "星穹列車に乗車した少女/少年。 星核がもたらす危機を回避するため、星穹列車に同行することを選択した。",
+ "artPath": "7c0fb16adbe8b62bf176e9cdf08567c3160bf7aaa5140b752d738826eb9dd263",
+ "miniIconPath": "e9824b5afa7a9d70aba292ddfe71216d5a2db52db853e1d416184982780a13d1",
+ "damageType": {
+  "id": 64,
+  "iconPath": "91b47b558df75f608b0a8aa93f35fd2063ed789ec25cbcc7bee926c60fba7ab1",
+  "color": "#F4D258",
+  "name": "虚数",
+  "rarity": 0
+ },
+ "baseType": {
+  "id": 0,
+  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
+  "altIconPath": "691e6c36e7f71344352e4ed80941938d7dc5722b23cef7a18f7fa8722d8c0523",
+  "color": "#FFFFFF",
+  "name": "調和",
+  "rarity": 0
+ },
+ "pageId": "playergirl3"
+}

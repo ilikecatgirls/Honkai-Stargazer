@@ -5,9 +5,8 @@
  "iconPath": "0eb5b2e7c3c90bdc0bd71294aa34f7e9670070aa86ce8b06d930e5df884b5c14",
  "artPath": "2105fa207135c58cd48f45dc52813cb0f313b8da65d96f6962b8143331670ecf",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRu4BAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSBgAAAABD9D/iAgYZBupd/5Qh/BgDxDR/ySu5hVWUDggsAEAABAJAJ0BKhQAHAA+bTCSRiQjIaEwGAgAgA2JaACdMoR2f+g4EGA2y3PEaYBvJn+4LEE7J6AzOaqBhKuZetuxW1KS7FvcM6DQJE1wOorF1CrdgAD++IMJ49vTdFVlcphbPeov3i1+w1eXrrtQgzKNP2/vRMjwT267bYgSqKunfYpMcYF1n1Co5bOrhF9h44hXQQoWVwE4Usl5vG9sxxR2vpkkz34Ri2HKAxHuYmpbuyGPx+NvHU5jAD782eI1HZo2MAA5iJ+3a+rD1h01cedUWhY8QnsIgwsjwnW44/Fy3CJr7//AtaK/o4NOnyjvjF4LoRxvJrO/4fMNmm/1w2fcLFXwIIWnbNSeS+bCEn+nwF8wrl4eUqZ30dl0oFLRFnT++2bPoVleWz/5YSFrvL+TpoGzqDnxPQJ3IlV/Bvs6drf0QeWe7GakXy1w1r7Lw89QUVLGou4rBBkUSruRAfvdiI7ckBwfBVkHu0uipV6B0IUO8JNkVvTylh+du93h4Swt5to7AvVF07zHWA+ZYRAGWyXNgI1vO1tRAioWW6IdXXpdEwJVyMJAyevTQR8KyAAAAA==",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "e7421e0463f72e78931ab4f095679b93190cccd06acfaaf57e4ce144ab2e663c",
  "baseType": {
@@ -66,7 +65,7 @@
    "iconPath": "51df77b60e4e1a610f4dfa37d2309c435f9d2a1595b672bcfc8b59a95e531090",
    "name": "Crystal Meteorites",
    "desc": "The crystals that separate from the Amber Lord's body when THEY swing the celestial hammer. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Preservation</span> characters.",
-   "lore": "People only become aware of the fact that Qlipoth has swung their hammer again from the two phenomena invariably detected afterward: an enormous burst of intense gravitational waves, and \"starquakes.\" Like a gift from the Preservation, the crystal meteorites dash across the dark sky and announce the beginning of a new Era.<br /><br />\"The Genius Society is audacious enough to declare the Amber Lord as the slowest Aeon in the Cosmos, but none of these people have ever successfully observed the entire process of Qlipoth swinging the celestial hammer.\"",
+   "lore": "People only become aware of the fact that Qlipoth has swung THEIR hammer again from the two phenomena invariably detected afterward: an enormous burst of intense gravitational waves, and \"starquakes.\" Like a gift from the Preservation, the crystal meteorites dash across the dark sky and announce the beginning of a new Era.<br /><br />\"The Genius Society is audacious enough to declare the Amber Lord as the slowest Aeon in the Cosmos, but none of these people have ever successfully observed the entire process of Qlipoth swinging the celestial hammer.\"",
    "purpose": "Trace Material<br />Light Cone Ascension Material",
    "rarity": 3,
    "rewardPath": "/material/589817",
@@ -84,7 +83,7 @@
    "iconPath": "d76fcb744e5bf3574f3fa68b6e66adfefdf41b1652d1dd788b0dbe68407b1e0d",
    "name": "Fragments of Impression",
    "desc": "A memoria fragment of profound impression. Normal material used for enhancement.",
-   "lore": "Within the Memory Zone, the form memories float as fleeting glimmers of light, and only profound and memorable fragments can condense it crystals.<br /><br />\"Memory is not a mere replication of past sensations, but a reconstruction of past impressions.\"",
+   "lore": "Within the Memory Zone, the form of memories float as fleeting glimmers of light, and only profound and memorable fragments can condense it crystals.<br /><br />\"Memory is not a mere replication of past sensations, but a reconstruction of past impressions.\"",
    "purpose": "Trace Material<br />Character Ascension Materials",
    "rarity": 3,
    "rewardPath": "/material/633151",
@@ -173,7 +172,7 @@
    "iconPath": "ac85858f27838b734365e77343aabcdbaf56463c492b153cfb4ebd64c04f659f",
    "name": "Shards of Desires",
    "desc": "A memoria fragment of obsessive desires. Advanced material used for enhancement.",
-   "lore": "Within the Memory Zone, memoria of desires develops ceaselessly. It absorbs thoughts and impressions, nurtures magic mirrors of desires, and reflects the eerie shadows of memetic entities.<br /><br />\"Memory points to the past, while desire points to the future. Seek desires from memory will cause dreams to become inverted, and inner demons will naturally be born.\"",
+   "lore": "Within the Memory Zone, memoria of desires develops ceaselessly. It absorbs thoughts and impressions, nurtures magic mirrors of desires, and reflects the eerie shadows of memetic entities.<br /><br />\"Memory points to the past, while desire points to the future. To seek desires from memory will cause dreams to become inverted, and inner demons will naturally be born.\"",
    "purpose": "Trace Material<br />Character Ascension Materials",
    "rarity": 4,
    "rewardPath": "/material/717092",

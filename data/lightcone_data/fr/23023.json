@@ -1,13 +1,12 @@
 {
  "name": "Destin injuste",
  "rarity": 5,
- "descHash": "Une fois la dernière carte abattue, la déception, la rage, l'impuissance, le calme... Un torrent d'émotions traverse en un instant le visage de ses adversaires.<br />« Au point où on en est, pourquoi ne pas pimenter un peu les choses ? »<br />Il mise tous ses jetons. Ceux qui ont accepté leur défaite quittent la table en le maudissant, espérant secrètement sa défaite.<br /><br />Victoire ou défaite, réputation, chance... Il ne s'est jamais soucié de ces concepts. Il est simplement ivre du moment présent qui peut faire basculer sa vie.<br />L'enfer n'est pas si éloigné du paradis après tout.<br /><br />Les dés en sont jetés tandis que des soupirs s'élèvent, se dissipant en un instant lorsque la partie arrive à son terme, tout comme ce sentiment illusoire de satisfaction.<br />« C'est tout ou rien, mais ce n'est pas à moi de choisir... »",
+ "descHash": "Une fois la dernière carte abattue, la déception, la rage, l'impuissance, le calme... Un torrent d'émotions traverse en un instant le visage de ses adversaires.<br />« Au point où on en est, pourquoi ne pas pimenter un peu les choses ? »<br />Il mise tous ses jetons. Ceux qui ont accepté leur défaite quittent la table en le maudissant, espérant secrètement sa défaite.<br /><br />Victoire ou défaite, réputation, chance... Il ne s'est jamais soucié de ces concepts. Il est simplement ivre du moment présent qui peut faire basculer sa vie.<br />L'enfer n'est pas si éloigné du paradis après tout.<br /><br />Les dés sont jetés tandis que des soupirs s'élèvent, se dissipant en un instant lorsque la partie arrive à son terme, tout comme ce sentiment illusoire de satisfaction.<br />« C'est tout ou rien, mais ce n'est pas à moi de choisir... »",
  "iconPath": "bace4881e374fbb73f92584e6b9d50194d3edfeb1174a754ecdb4bdff9d73f03",
  "artPath": "2f2afd373e02252f884e2eb338f91adf9f6990c4e07b7a90b4050e6e3a0697d4",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRuwBAABXRUJQVlA4IOABAADQCQCdASoUABwAPm0uk0ckIiGhKAqogA2JagCdMoR7Ttc5TeQeJL+s3vSaY7vHnkgXJ2uu/w00r3QF3ZZ4/pMMOzU2vb8con5QEDnA3CNufjBzaMt8nGAA/P0ox/eDgz2GOrKjZmpIri6zQHF7vKs5KpeooGtbkJHt7XhcInjRQA34a2B2Y9vb91m31aOD4HuPo8jGUhbjn7Os+6K+tA9cGzKz8dBKxF/9tiMDMjukTR4lu9fpZOFGumwScN4Ppkvfy2hK+6MfPxDLTUEQUFa+vT4K1PunT8NWkYI2qdAlQEBzk8Wo94SkSkR6vc0tuCFh8q40TpyP0amjfwp/cZGg/EEIa3jYuX/f+mtDlbmek/Ume79lCcMpIVWhuwgqc/suJbqW1z8qHMArd92pa4en9QDgbfI6BZ1AJJS2lakrF5zS5/+1dPDs8+8EPlfcqqFDqpG8O2hp4yaE4oiUSMVkYCC1a+Ka1dIpDRH5oZ7Gc+SMhlCFzImaUIJg4aOfrSnWllh/ryv1uX3IU2DCU8JX6LkgvL2eMlHGaGWgXYiDn6DXIiz1u8R0a+qviRNM5PnYla278qT47JkK9jDxoU7tJtjELn+H3iIna4JiiClym5Fkt8K/jECtPxktviyZQAA=",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "30b2d86655e5c8d8c2a19cf5614e082e128f7ed75e7bff101e0c19247d808d6b",
  "baseType": {
@@ -358,7 +357,7 @@
  "skill": {
   "id": 23023,
   "name": "Le tout pour le tout",
-  "descHash": "Augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> la DÉF du porteur. Les DGT critiques du porteur augmentent de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span> pendant <nobr>#3[i]</nobr> tours à chaque fois qu'il accorde un bouclier à un allié. Lorsque le porteur utilise une attaque de suivi pour attaquer un ennemi, il y a <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span> de chances de base d'augmenter les DGT subis par l'ennemi attaqué de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[f1]%</nobr></span> pendant <nobr>#6[i]</nobr> tours.",
+  "descHash": "Augmente la DÉF du porteur de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>. Les DGT critiques du porteur augmentent de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span> pendant <nobr>#3[i]</nobr> tours à chaque fois qu'il accorde un bouclier à un allié. Lorsque le porteur utilise une attaque de suivi pour attaquer un ennemi, il y a <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span> de chances de base d'augmenter les DGT subis par l'ennemi attaqué de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[f1]%</nobr></span> pendant <nobr>#6[i]</nobr> tours.",
   "levelData": [
    {
     "params": [

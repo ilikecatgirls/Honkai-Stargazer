@@ -6,9 +6,8 @@
  "fgPath": "",
  "splashIconPath": "d7ee10b5f8e12837d64ba3a8c1986142a999de1538a71e2f40155d0a72831414",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRl4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSA0BAAABkGNb27E91/O+v43Of6r8VcofXTQADMC209l2UhlVag7Ctm3rxXWCd2UMETEBUhQpSFLf6QlNCvrfQUcnPIQXnSr5Z/ze/urumx/JkjzlgAr74MFDSN98csbHFfMUKdYOILPhW04G/YqDjpHkGBtM8uh0jRSdJcPG2DYbZ41QpAOkto2NzcMzsytiLSEz2GDIuDemNOgYqW2wjVP2dVYEHSezbcA450uPIm0jxfyDzQ/GSdoFpsCY748GKGjk1hQX2Xxa36xYoxY/JTM2ds6LgQpBLVe/gY1tUj50KihS97WP943BKfkqRZJizbg3/ESeJEnOhcEqDpo7evJbgEN1CkWS6tU7d/uSfimWJABWUDggKgEAAJAGAJ0BKhQAFAA+bS6RRqQioaEoDVCADYloALEfMuyRiBvMFYANiO9gDvqcgY8rlztJ5/7VhE5PKnSSTAAA/BiymXkVXtGlsxxPV229cT8N8/QZRVEO1R6f51xDsYIdO4/Jdn/owP1pCl4cAm2nMnOEsA8ODgN2zhE/iiKaiH9Fpx13t25+RSufFM6HosXaLgSPKnP0/blDAt6MIN37neokgnWpieSJfXfq/Yp/Xgg72DOZZ2ZJxXfTJfxAKyLw75E1iJaH3w/nEmzlaZdfYQ4cCWpFTp9oVbHpbWTV4CgvxjP1GBOB/9JIJCdDjr65syoI9kGSgX4T9DaUPL3bdzBFZKWqOLxiXTjQfjW23qVedO2D+YbeDVGaQ9j6raRDoqCWu8OD3AAAAAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2811,6 +2810,26 @@
    "krUrl": "91207fdc9a02a7bdbd75d7a5de198456095ed23db7b1ff995a644c4372e16a81"
   },
   {
+   "id": 19,
+   "title": "Ativação de Eidolon da Harmonia",
+   "text": "Desconhecidos um ao outro, porém unidos em propósito, fazemos as mesmas escolhas.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "cefe1871e8fc39f62abe3fc2e7a19a696bd280b8fa3b81f93627571721f6f0bf",
+   "jpUrl": "7a570f1ef252cbbcaebf7af1d9f6bccbda5194c3790785dcc3c2c7e38ac683fd",
+   "enUrl": "005d5ea03d3cd15752660a0e0fb22ca72a2d6c56f3eeff2a031ea82743f4ec2e",
+   "krUrl": "fc028b27ddb8ba67be7b5b0385975f6e9da2b36b447235a8a92174b920aed9f4"
+  },
+  {
+   "id": 20,
+   "title": "Ativação de Rastro da Harmonia",
+   "text": "Antes que nossos caminhos se dispersem, aprecie a jornada em conjunto.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "e8076b82e3ebd33b0ed138939ed4c85840728f5b665319eb8edb323a9d7c69f5",
+   "jpUrl": "bedc127b57cfc8feab2cf11a95a3a96798406891f37995466230687fdc47c754",
+   "enUrl": "24029401984f183acfa5b1bc9e4a35e960a872c9142783bb53a58dd994549b7d",
+   "krUrl": "afd082cac0575a374eceeea56f044a230b8863e956815e6c98faeeb4f2565235"
+  },
+  {
    "id": 101,
    "title": "Início da Batalha: Quebra de Fraqueza (A Destruição)",
    "text": "Essa é a nossa chance.",
@@ -3149,6 +3168,166 @@
    "jpUrl": "0e2c13615935f42a3a9e91c747a47b4b70cfae626c4979cd02b74b0a0890fc63",
    "enUrl": "cc4898fceeb158092cd2e70c366a6b80a226f9598b72b3bca0f2e38436f7547d",
    "krUrl": "9b3f0d5702e851c28266beb3b41159d94176ca74aa74068c797c8c57d326288c"
+  },
+  {
+   "id": 135,
+   "title": "Início da Batalha: Quebra de Fraqueza (A Harmonia)",
+   "text": "Perdeu o ritmo?",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "a0fdaf817d10d96aff7dc308c10eee7e030aab690b81c1ea685a71ad8ee8b2ff",
+   "jpUrl": "ae55e757f82adadd3ff8bc94bec886a3c7e8178c293c1db97290dcd10175e1cf",
+   "enUrl": "c3bc7be787b43c31201ccb5e6310159108a1cc1e106a833c8676bfbf0d5da820",
+   "krUrl": "7c709cb57d81fd93d5f562063f1678a82665ff3c0d06a83b34f591b2e0d96a27"
+  },
+  {
+   "id": 136,
+   "title": "Início da Batalha: Alerta de Perigo (A Harmonia)",
+   "text": "É hora de testar nossa conexão.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "d25c25d9b5082ff202d6a5f66e358a26d64846197636fc4cb74138672c366df5",
+   "jpUrl": "d8edbc6f8b1bbeea16afad655670d3df3c5e6616f66217995cde74c813243703",
+   "enUrl": "8c0dfa1279e2d3cba1c1746e3733423993bdcea66741e99638c3c092ef0da3f1",
+   "krUrl": "d80e0f492ee98ceba2237399ed34ad1f8d5a4f67afca5744bf5a3a929f8b9f16"
+  },
+  {
+   "id": 137,
+   "title": "Começo de Rodada - 1 (A Harmonia)",
+   "text": "Todos a postos.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "528e579818cf11338a2535181315cf3bf0e7f83597b146449690d8c480b94661",
+   "jpUrl": "bac44333858ac8fe91af193b306f57c4d79ad00c180da7e6aa5690c84fac6ce7",
+   "enUrl": "c8e237f741c805aadb657cbe2b5f5074382cb4ea4244dc690959b71d2d31047c",
+   "krUrl": "3d3b0a61535fdb1aabf9bf72d32ea6747c9c8f08adc26e81388ba431ac9fc8f3"
+  },
+  {
+   "id": 138,
+   "title": "Começo de Rodada - 2 (A Harmonia)",
+   "text": "Mantenham o mesmo ritmo.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "8abdd0b6a2a1bbf38a991ab362f9962e5f136775b5d4f7742df2ad21c916dea9",
+   "jpUrl": "0936a938e3d9360fb1d015e7cb54ac9edf3265335a323a0d54dbe4eb8f3050c0",
+   "enUrl": "5e213134770cad2d889d2fe0132df5bfed9d69651d4cff5478d2f56318a143e7",
+   "krUrl": "99f88ac3317c5cf400e828f4f2eafc6ec4fc730230ea19797c9dc56342842902"
+  },
+  {
+   "id": 139,
+   "title": "Rodada Ociosa (A Harmonia)",
+   "text": "Não perca a melhor oportunidade para um ataque.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "94b1ac6d52d15849a852af5097e19720b0a2f1ac134afafa29d94def55c96aed",
+   "jpUrl": "5249fa65d4cc47cf83535a7fd421dd607cdf961bc7efcdcb67d8c44b5cd2ac13",
+   "enUrl": "90af8292badefda25fd3fdba7bc0f7f5c36d3a4a6ca4d7fc2a7ab1f34a2e395c",
+   "krUrl": "64bf5ee45600a1725746d464d21fc12c9263110d4b1c3a70a56de653e3ac0851"
+  },
+  {
+   "id": 140,
+   "title": "ATQ Básico (A Harmonia)",
+   "text": "Minha vez.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "4997f33793445e62f49180338612b16e4649cf305128f5f729bbb7cafba50bc6",
+   "jpUrl": "81d20f560bb86092cb129b70bdf7901402db1f7c75ce4e4ade2528b4a45b4e18",
+   "enUrl": "9e8f38bd10cd754de874b1e7ebf060409603fdbc454af44be135429375f7c86c",
+   "krUrl": "837278d07b4e381ee97018a6042ea52334c17db564e5178ed9241b47e712fbef"
+  },
+  {
+   "id": 141,
+   "title": "Perícia - 1 (A Harmonia)",
+   "text": "Vamos improvisar!",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "ffc4927a8519b9a37d1e2cace235c5f6051fe8d7705627b97a02450fed19b93c",
+   "jpUrl": "8ff6967ae66c6ad6d0702f811703fd77e24cb45566775af3951905e5826dbd3a",
+   "enUrl": "aaef064303aedf7cf1c1494b53a4cf4f075b7d890a384fd0407ff2e290f135e3",
+   "krUrl": "6aa607e53de7e7958d4d36eacbf823cd0cfbf4000713a74b62a7b717e1be6098"
+  },
+  {
+   "id": 142,
+   "title": "Perícia - 2 (A Harmonia)",
+   "text": "Os sonhos podem mesmo se realizar!",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "e623167c5361b5bd53549a4a836d02869539a90c9bd34d6bc00f72502410aa8a",
+   "jpUrl": "64238580ed03b2da77fd56fa9462340275ec2864cd9ef9ca249f1cb265478cce",
+   "enUrl": "33beb070a229b5193b5b3a6fcf727f1b9ffa1791bc5ee7b9e0808883f65d88aa",
+   "krUrl": "5c27645888b7c9f756655acab566c995591eaaadb2dbfc5b6991f3b1b47f79d2"
+  },
+  {
+   "id": 143,
+   "title": "Ao Receber um Ataque Leve (A Harmonia)",
+   "text": "Ainda é o mesmo de sempre...",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "4c1c209fa4c281782a018867615b55bb8c74702e32ace65b2563d71563f027b0",
+   "jpUrl": "cb16c983ce0b8d86e4a16eddcc5bf6156ee9ef550fab2d27a73ffeaf28b36937",
+   "enUrl": "b00769b5cfcf05aa903c5ea1e3c4bb8b19bb99f390e10a07018b7cebc5f22fe7",
+   "krUrl": "fbd16ec5f8f64be583a8dee2c43743f39454fb640fdab6bd40597e8bf247bae5"
+  },
+  {
+   "id": 144,
+   "title": "Ao Receber um Ataque Pesado (A Harmonia)",
+   "text": "Eu não vou ficar para trás.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "a498f098e523350e244a85791cc27f5e4f18e94567ce5c173c6f33996281747d",
+   "jpUrl": "6896aa97215e99e9721bf99f0d4babb8c774428d47974f84b1814ad0d71af5ae",
+   "enUrl": "a28e02522f5acae542c5a40e445f1b6ace433187aa4bb196c45e751cb4dd04c6",
+   "krUrl": "3b00b64e4a1d6d27d3aacce53be0f03aaff5b80042f8834067a3f3b54375d927"
+  },
+  {
+   "id": 145,
+   "title": "Perícia Suprema: Ativar (A Harmonia)",
+   "text": "Essa atmosfera está perfeita.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "f7f0be2f2f4aa292ceffbd4e7fec907e734f442c89cdf41bac3352230e4387f5",
+   "jpUrl": "11ced1045b20275d7d29ba797edae4a2b018875f77ff78e8d61d9c0122d0dbde",
+   "enUrl": "c95e1de2277c544102a21085e410a0fba43273d4b5f6a7e5a688c3839ab8ee9c",
+   "krUrl": "bf0c318f4971d61b59b2113ecac625ee7e9ec1912baa2bf738019a53255f7fa2"
+  },
+  {
+   "id": 146,
+   "title": "Perícia Suprema: Liberar (A Harmonia)",
+   "text": "Que o show comece!",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "c621987aff45651d143a9ad9779dff4503e04050743207690d01c8996be9d7dc",
+   "jpUrl": "ea7836a9af7528e285c2014134e5d3f26ffba08b43f3feb634b0c70447b970b3",
+   "enUrl": "5a496ebcb8d937ffc6ad3017cd0dcf65cf357e0330ad0d8cf6d8310a0263598f",
+   "krUrl": "60aa0a004d408027f0437d4515f97f60ef0a95869f06786c993642eaf73a8a7d"
+  },
+  {
+   "id": 147,
+   "title": "Ao Ficar Fora de Combate (A Harmonia)",
+   "text": "Isso ainda... não... acabou...",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "f833f68a0b9b94641af72f98a127995fd06936e977ec3ac7d41f36c62933c746",
+   "jpUrl": "e830720ee274a002c68d05037d77353c1ad0ee235da6f2ca72fa39166ec92ff3",
+   "enUrl": "e0efd3b5a718e102112e9008d0693fc52634868985dcf53bc6463b025fdbd99b",
+   "krUrl": "e3cd991cd7621318cf98fc820126bb0f05aaec58eb4094bef67677efb69113ea"
+  },
+  {
+   "id": 148,
+   "title": "Ao Voltar à Batalha (A Harmonia)",
+   "text": "O intervalo acabou.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "d286843adf34aa4b9c968b13a7e5e214ebd60110b59da05a8d711442c4e088c9",
+   "jpUrl": "44105460bd51e918ee649f8d6d90b87b4795929130ab0712129a03016bce7193",
+   "enUrl": "719aedac207e2467d6183e233f3ed34dd25d14fd3f648717a354944f0eea17e6",
+   "krUrl": "9975363de9923e5b3ac1c5b65aa69efa0becf0e5ed2a0aa64f2df73c0f33eabe"
+  },
+  {
+   "id": 149,
+   "title": "Ao Recuperar PV (A Harmonia)",
+   "text": "Bom trabalho em equipe.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "09bcb247c29e0341281889d9dfd63d56c4b687f1e6a7a42e148ef05e01a5b1af",
+   "jpUrl": "2bde1a641c0d419be78072c0c79d19222e12513f24ed4106f24433f089151bab",
+   "enUrl": "85f196c7718570118810eeb0dfcbee54a32bf3ae30367a7e8ce12735b702f288",
+   "krUrl": "efa4bf2055fece2b14685d8b8e459a65c622189994c19c1646a520372fd1c809"
+  },
+  {
+   "id": 150,
+   "title": "Técnica (A Harmonia)",
+   "text": "Por favor, mantenha a atenção.",
+   "unlockRequirement": "Desbloqueia após trilhar um novo Caminho",
+   "cnUrl": "89c3a5beb69d07abf5f3b2e7db3b8d01551836271eaf99106b43b0a88041a0f2",
+   "jpUrl": "912fc9725b13508f0f2c3cb88209cd6cb652264dcc4adad302774c3396464d5b",
+   "enUrl": "b219a528ba0791d936ab0d3ecee6a9b75fb1952fe9da53e808a0da31cfc67423",
+   "krUrl": "57097d8d8f4b680f0b1b50ece8ec62a50cc1d137b7769b4ab1a650571f62885e"
   },
   {
    "id": 995,

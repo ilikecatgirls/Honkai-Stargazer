@@ -5,9 +5,8 @@
  "iconPath": "e34e19f632522a8effd15ccd5ea784afed71fef9e7bfab2106d4de8e0504cfb7",
  "artPath": "64933796ab1bd0f2d536ab2ecf165e46fdf31f5c5b5c1571f988d367da979aaa",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAABQCQCdASoUABwAPm0wlEakIqIhKAqogA2JZACdMzRCyK4sK8DrAaADnw9Mr3kWsmoJDkys9v0Z7AASgr26ZnZi+Hp7ao2fvictIg0pjtm1Lk0IlgD++vLoip9hFN8ppngn/vgAoG1pfQG7uetaq9aBlTcUnmNfnW3gcbCqx4kLFH/SfcvQUAPmgWBoyrkOoFZFnX22yCg7kdZ6bADA7af2HCoX+iQHGn826r4hd/+T4sl3HuPwncn+lBFCTMPFgrHjYAWDvCIyuVETLidI4LQ+WcRTnvSrBXdxSPpvDGUA93+jtkhIiWo+XPb/sHwcqcS2b0zy0CyVLKJxptK4CO/8qeJSC+h7BYLNjpk6AAIBV9QZ6y+yc5XsD5qbcPq46ZvDS05b1Yl534tUOLoUqHzvUsijCHpqsLNSHEmDRsVy5pVLhaoN5KfgkfFGH5Q1aoaLR1WbjRBDdOSfEszyUOJoRk9ZRzSuBdOiJ8mGQgywr5tbMnNj/mJR7TjbFvPMHpx33gX8T9QNtvEwfjKnfPfoX/IvJ9V+G+6m8L5K6OfEN7vVs71zPHL1893di788zPY2s6SN/lMcTfH+JSUh+EvjAT3/gqSJ/PgsAAAA",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "d2e60c97a441cf8bfa823bbd25d849f4527f214200ed4de5bd840739751bb4a7",
  "baseType": {
@@ -358,7 +357,7 @@
  "skill": {
   "id": 21015,
   "name": "振り返って",
-  "descHash": "装備キャラの攻撃が敵に命中した時、その敵が「陥落」状態でない場合、<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>の基礎確率で敵を「陥落」状態にする。「陥落」状態の敵は防御力-<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>、<nobr>#3[i]</nobr>ターン継続。",
+  "descHash": "装備キャラの攻撃が敵に命中する時、その敵が「陥落」状態でない場合、<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>の基礎確率で敵を「陥落」状態にする。「陥落」状態の敵は防御力-<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>、<nobr>#3[i]</nobr>ターン継続。",
   "levelData": [
    {
     "params": [

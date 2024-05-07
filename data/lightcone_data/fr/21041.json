@@ -5,9 +5,8 @@
  "iconPath": "db16ff176ccb0cb662d20f80b0a4d0ea9fdbd93b000e660056bbf562183a48b1",
  "artPath": "0f7b35b50e465945ee32829e105dba2adc30c6854ee5a10b8eebad67c4a07cd0",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAADQCQCdASoUABwAPm0qkUWkIqGYBABABsS2AE6ZdntEalYV4HAA2ynmA85n0AbxL6AHSjf5kwD/7lq9Gdn6R9gQZFAlPG0ERvMCkGEF8EOT6o0X6Ua9udgA/v3k3Vj7hpQ0P55MdU0cdOPs3bU12ZJfai/f07cln0/8FMGmEXuSwNUyhq+uTRzK/D52F1zotqDU0egbhzmS/ftKoP4HQn/pzuZ1je8iZPgjYBUpXvQaFcbZYk70XrNvEtftkNZPYNeHg6OQYqUjjtxxhZsbED/WfbDBrcDwfFtq3aa8EwD6k3Af/sX705lNerLeLiDQ3o/lLtF//7Sm2T1MXyfyfAuHVJW9yDVWaJ39DXtt4zBt5JIlpa4LTcYPva7z23e7EPSi6+0RFQy4Ab0y/W5c+Ag9p7IXH0mZmNumUP0XF/rMnTy0/6wbLIHVqsqXHWWuUvtcwOB6Nnghw+zNZeeahbOf4lJuND+SyJWobxDkQUyh3A5k3E+yFG2lGOyUY6b3EshN2FTkTj/DCq787l3X/SuGQYk86J88qX9Oz/8Napw+2CUL/GEvk5vxikJWQDgH7ginPE51ev/lAoyxreLmrh50R+r9OwOFmg5WgAAA",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "1bfd8e43da26821e5495a79d34252ea2c235bafab9f74bfe33570c445834e9e1",
  "baseType": {
@@ -358,7 +357,7 @@
  "skill": {
   "id": 21041,
   "name": "Divertissement",
-  "descHash": "Le porteur gagne un cumul de Mascarade lorsqu'il inflige un malus à un ennemi. Chaque cumul de Mascarade augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> les DGT infligés par le porteur pour un maximum de <nobr>#2[i]</nobr> cumuls. Cet effet dure <nobr>#3[i]</nobr> tour. Augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[i]%</nobr></span> l'ATQ du porteur lorsque ses chances d'appliquer des effets sont supérieures ou égales à <nobr>#4[i]%</nobr>.",
+  "descHash": "Le porteur gagne un cumul de Mascarade lorsqu'il inflige un malus à un ennemi. Chaque cumul de Mascarade augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> les DGT infligés par le porteur pour un maximum de <nobr>#2[i]</nobr> cumuls. Cet effet dure <nobr>#3[i]</nobr> tour. Augmente l'ATQ du porteur de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[i]%</nobr></span> lorsque ses chances d'appliquer des effets sont supérieures ou égales à <nobr>#4[i]%</nobr>.",
   "levelData": [
    {
     "params": [

@@ -6,9 +6,8 @@
  "fgPath": "fcd04d383f61e6cf0aaa8fd1b6880c2b2b6f4de08b7b2dff318b5fd9d6a396dc",
  "splashIconPath": "d865c2226e88755c525fb64665fbf95823000e8a34b563c4bf0009b697e34980",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRkoCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAEBAAABkLpt2/m/4u/n/fk3285OS66LS2tWRbJtZNuL3uKivTXb/Hze+/o5IiZALYZaTqHWk/qvPTK//aCOUmoWlalC3b8C736/3NNFIalSzZdcogSYr2opVL/6/M25msy/XHKivVQRGv4UYOtivmMvmj5rnKT9/CkK+z+YDLBKuk42BhvjoswsVI+juDm2sf2fgzFmwzeMscE2f7ncbsFnMsZgjDNvxnbSNLIzNhjbl4cpaRzZNtjYBStUJaXT/LeNm/N5ikIhXeRfiY3zPx52VUhJNbegLHJRwu0+CklKqt9+8D7Ax309VaEWQ9LkIy8OTe0pJbUaKaRqSSnU5oqkqAi1CABWUDggIgEAABAHAJ0BKhQAFAA+bTKVR6QioiEoCACADYlAF2QVaTbsf+qAOeB7j9Tlze/pPkgBiuL0x+XQ99O87haPYvro6YqIAP7RfBg/U8NrCu2X3sR9xJCzc4FtGt/W9HyCB5g245nx+57RYEi5usVd/R9dbSV+qheE9ax4ZH+mu5h7hdIDTjR4I/LHoj+u/nkhCX3c85/nrayOhns3XTF0ERp9ALRyhuScgtaObOEERTHvfm1jOYaUzTyl6hgK++WjzDvGb0xL9IbNxaztJR3IeFSu92kZWoQL25ytqKVXyFtxgPOsEe+6toVotJYlacPOFeLosqWqhzyaEnVAAiODmbFxpMFKjVdW3088bkz2I/4Mgsvff8IJQ2Ty9C9XDoC1fWG5E0AA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2303,7 +2302,7 @@
   },
   {
    "id": 15,
-   "title": "Level Max Karakter",
+   "title": "Level Max Tercapai",
    "text": "Sulit untuk mulai bergerak lagi setelah kamu berhenti, bukan?",
    "unlockRequirement": "",
    "cnUrl": "e1bf23b522a42de11413917eb2e00e0470253cf6374f142f98d9733167228c2f",

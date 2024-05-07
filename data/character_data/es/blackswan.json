@@ -6,9 +6,8 @@
  "fgPath": "",
  "splashIconPath": "8235c510c01b722b5ced0f0ece69b8f597028c031a888fb79177692456aa68f2",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRl4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAEBAAABkGtr27E59/ONbdtuZ01tu4ptp046q05l2+l8Blkpbdt63/sezylExAQAQEiAqRsQaoEZALMJ0NuzKQwTmgEw1D/+dHdaY1YKEJWaCARAgLq/+uf0+u3tm49e3z9RASAEq+QkasLn0wJDxGVHkt47573/Ly1A+dKHIiWRIqm/2tPwRBRFjSXJ/zoUflWOosaSEqkNUZ/kSHGMROrf8XjslrzzIknR//+4MQ5I2vVdkhcpUrq3oihA/N45zUceyVMUn52ZkWkAqhOA9fpP90978zDJnDv6+08aWNCK0HEsBP2/JV3bPtQOw4SGzPNHd+ahumEyMIwNAQyTNViIwQzjAgBWUDggNgEAADAHAJ0BKhQAFAA+bTKVR6QioiEoCACADYlqAJ0zJf9pB3xAPXVsjoiDvJM6owbtofaR3hXH2aoRdGCNaR9U/5+CgAD+9DLbvRnEYp+Qfj6a6cdpnJWurfuP+p6BAjiSRJ+1Ida3M/VahgqaUAB8EzS0ywVuafU8mmXo8duSnrWXMASkxeb8fwZVxiQ5OWgNq929bIxULsklVvLFYX1kk/aTnQmKLksDOwDDdfDtcC+TiRPdN032wuzluUATJTDEv3HMendYCFxMCKc52BoN967q7DeZ0U+RaXyCcHv9+f+MkhpU/v1c5WvMxeDL5sj4QCDK2yGhfguPB4/6DN9skb4c8A5JkQY7Hu9jJl1dseImDofKh8Aj/4Hv/TFq+OOnrD8zZyaH6WnkGKZkEVA46eUEDbmoAAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "ba1141393ef88c217b2e59bdce58a61ba5f45d9b0162166a86704a4945219cf6",
+   "iconPath": "3b2ac9ffda311747001b2cbf528b2614c6b424b1292ea5570e1049df9dbb5a76",
    "artPath": "4513a29ebcc922eab12617a55dd58978c6a2c06cf4ac90fdd2ad892dc05ba0d2",
    "name": "Siete pilares de sabiduría",
    "descHash": "Cuando Cisne Negro está activa en la batalla, la RES a Viento, Físico, Fuego o Rayo de los enemigos afectados por Intemperie, Sangrado, Quemadura o Electrocución, respectivamente, se reduce en un <nobr>#1[i]%</nobr>.",
@@ -450,7 +449,7 @@
   },
   {
    "id": 2,
-   "iconPath": "420d033f134db663da7f64e6e3b12017f97b9228fe03a35566b5cad859ae4784",
+   "iconPath": "7e6edfd63021efc6f3561af79235df9ecaec43656e12c921c80261b6b621150c",
    "artPath": "7d751acb21fa87b9e3239065a6cc46cf3587d92671e3c23113b1a4eeb6100904",
    "name": "No llores por mí, cordero",
    "descHash": "Cuando se elimina a un enemigo afectado por Arcano, hay una probabilidad base del <nobr>#1[i]%</nobr> de aplicar <nobr>#2[i]</nobr> acumulaciones de Arcano a los enemigos adyacentes.",
@@ -461,7 +460,7 @@
   },
   {
    "id": 3,
-   "iconPath": "d20288ef01a22a9347aea1f469fd5bf221e9a9c7266ca64896e31ef3da49c55f",
+   "iconPath": "358db77b90868ee881ed44c7ae9ba1f2822afd2e096d25b6088c1434f5b3c067",
    "artPath": "4203ab6b8102c900683e6d21decb4bc0f0118c25c158897e37308723fd86966b",
    "name": "Como arriba, así es abajo",
    "descHash": "Niv. de habilidad básica +2 (máximo: nivel <nobr>15</nobr>). Niv. de talento +2 (máximo: nivel <nobr>15</nobr>).",
@@ -469,7 +468,7 @@
   },
   {
    "id": 4,
-   "iconPath": "ab35f129f930b7e0d7dc02b53f09ca63272056d8eca7dc09f55e248695dec404",
+   "iconPath": "aa93a5a97bdc2e8caf664c11307aced633b5b31824700a661c7b243917610d23",
    "artPath": "71d0beda48cd4198ed9d3880275cbef849c999019d5e88bcb355ecc6faacebaf",
    "name": "Regalo de lágrimas",
    "descHash": "En el estado de Desvelación, la RES a efecto de los objetivos enemigos se reduce en un <nobr>#1[i]%</nobr> y Cisne Negro recupera <nobr>#2[i]</nobr> pts. de energía al comienzo de cada turno de los enemigos afectados por Desvelación o cuando un enemigo afectado es eliminado. El efecto de recuperación de energía solo se puede activar 1 vez mientras dure Desvelación. El contador de activaciones se actualiza cuando se vuelve a aplicar Desvelación.",
@@ -480,7 +479,7 @@
   },
   {
    "id": 5,
-   "iconPath": "1f77c680c96f816c05e772ac266cc78a08c5a98ffaba8f5419185cdba1a6ea67",
+   "iconPath": "0de5e86ce11b056904564198f2d256f84d920478aa28b5e573ddb5553536d71d",
    "artPath": "46f20e4ec519bee5dfda5fa0ebb507279603181ea6ddb949723de32c0abf65e8",
    "name": "Estrellas migratorias",
    "descHash": "Niv. de habilidad definitiva +2 (máximo: nivel <nobr>15</nobr>). Niv. de ATQ básico +1 (máximo: nivel <nobr>10</nobr>).",
@@ -488,7 +487,7 @@
   },
   {
    "id": 6,
-   "iconPath": "090706494f93eb29c1fe4706d7cab5959cf93457be91584013611ee7dca14480",
+   "iconPath": "198cea0d117b9c0aaba5916feab05df2a736ffc42c2dd6614951714e3aa5840a",
    "artPath": "10c3567544ec1c0100dd07c6efd00fdc5698dd5058f6eb7977b146f36f4c13e1",
    "name": "Dioses buenos, plebe desgraciada",
    "descHash": "Cuando los aliados de Cisne Negro atacan a un enemigo, Cisne Negro tiene una probabilidad base del <nobr>#2[i]%</nobr> de aplicar 1 acumulación de Arcano a ese objetivo.<br />Cada vez que Cisne Negro aplica Arcano a un objetivo, hay una probabilidad fija del <nobr>#1[i]%</nobr> de que la cantidad de acumulaciones de Arcano aplicadas esta vez aumente en <nobr>#3[i]</nobr>.",
@@ -525,7 +524,7 @@
    "energy": "20",
    "id": 451140,
    "name": "Discernimiento, alba silenciosa",
-   "iconPath": "28c089fa8c20eb8021e6611f35b0fbded241044a0b15cd2d85d6a316c1b030ce",
+   "iconPath": "8879eb9ec8c1b183b641398e521ee59f5678a3fae5a32b5489f168807758ede4",
    "typeDescHash": "ATQ básico",
    "levelReq": 0,
    "promotionReq": 0,
@@ -704,7 +703,7 @@
    "energy": "30",
    "id": 735667,
    "name": "Decadencia, falso crepúsculo",
-   "iconPath": "d20288ef01a22a9347aea1f469fd5bf221e9a9c7266ca64896e31ef3da49c55f",
+   "iconPath": "358db77b90868ee881ed44c7ae9ba1f2822afd2e096d25b6088c1434f5b3c067",
    "typeDescHash": "Habilidad básica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1039,7 +1038,7 @@
    "energy": "5",
    "id": 651726,
    "name": "Regocijo en el abrazo de otro mundo",
-   "iconPath": "23a4792bfaf92a04d3c6dad9992b2855bb2e847b201041f2db754a2bc1f035d1",
+   "iconPath": "18ccf1ed883398c204b309154e21ec85ca7ad6b17c9f3e772c20ec7d3ce749dd",
    "typeDescHash": "Habilidad definitiva",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1359,7 +1358,7 @@
    "energy": "0",
    "id": 936253,
    "name": "Telar del capricho del destino",
-   "iconPath": "fd03e726637331044db0cd24a4f58de55ca78fb71c281f88f041ef53348b868c",
+   "iconPath": "34b250ecb2b075e2d40589f0beb817255838120706860faa46a926b8f70f2da5",
    "typeDescHash": "Talento",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1739,7 +1738,7 @@
    "energy": "0",
    "id": 136839,
    "name": "Ataque",
-   "iconPath": "28c089fa8c20eb8021e6611f35b0fbded241044a0b15cd2d85d6a316c1b030ce",
+   "iconPath": "8879eb9ec8c1b183b641398e521ee59f5678a3fae5a32b5489f168807758ede4",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1761,7 +1760,7 @@
    "energy": "0",
    "id": 20194,
    "name": "De la apariencia a la verdad",
-   "iconPath": "7b9bde5a20064da11a6d5d8310b59f9be3834d20110ca9b965a940ced0250cec",
+   "iconPath": "8f6cd8752924ef13080c783176f6fe6a19379da168c7826880e7997e85dec529",
    "typeDescHash": "Técnica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1892,7 +1891,7 @@
     "ultimateCost": 0,
     "id": 88345,
     "name": "La intranquilidad de las vísceras",
-    "iconPath": "f7bbe66d5abb062414a7ba4105470891c3f1c9f0b8154af7c01f6db1528a4e9b",
+    "iconPath": "fdcd6f9d27d024b16055890daaf1f65738dcf2a0fd49f4a44d1facb6df18ceee",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2033,7 +2032,7 @@
     "ultimateCost": 0,
     "id": 88348,
     "name": "Los posos de la copa",
-    "iconPath": "b4936224993a00c3f6cc5fd8f9ade0139fb35460b32d20f69cd58b5aedd38130",
+    "iconPath": "f034253311ceaa26ad8e5fd09bdf73afe0820f7cd4b0272e23a2e50ec38bd254",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2144,7 +2143,7 @@
     "ultimateCost": 0,
     "id": 88347,
     "name": "El portento de las llamas",
-    "iconPath": "e77d0ab82e7a474767dd9f8a3fd47b231cd8d0af494f7c4039127c3fe16150b2",
+    "iconPath": "2b84d1924a76102c9a601af023fc112b0d96f9cf11ac154d1b8e86016beb6d3d",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2532,6 +2531,66 @@
    "jpUrl": "ef268a4b9cc2dc62f83cc940a39d22f508c90747337338460d40b981fb63cc94",
    "enUrl": "cae396e16ea1637244aba626c13d85d16851b1a6d2bfa0557fbc2668f568a1f3",
    "krUrl": "6f90a022f3d703b9532848986be5e0db567f7f9b0c6d0b6671681354fa33ec17"
+  },
+  {
+   "id": 27,
+   "title": "Acerca de Misha",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "Se desbloquea tras completar la misión trazacaminos «Y en el octavo día...».",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 28,
+   "title": "Acerca de Robin",
+   "text": "Puede que, precisamente porque se fue pronto de casa, se haya dado cuenta de que los sueños, aunque encantadores, son solo eso: sueños.",
+   "unlockRequirement": "",
+   "cnUrl": "7b64f1df47cc0149cda18ab97e31523874e8d257e337beffd70c0956ead07b17",
+   "jpUrl": "d78e95477d40bbe6fd1fe5059560fded964bf47600f74aed9123f40de3214d01",
+   "enUrl": "50a9668165b755fc58f57c4a2749ca588595eeb461e24130bbc2afcff7ed94bc",
+   "krUrl": "c52bce4134f76d3757a1fa4a8fbbfa38b1846646bb959d74aa7bf25cacbb261a"
+  },
+  {
+   "id": 29,
+   "title": "Acerca de Boothill",
+   "text": "Abandonó su cuerpo original para grabar esos recuerdos de ira y tristeza más hondo en su ser.",
+   "unlockRequirement": "",
+   "cnUrl": "f701d01fd972873d88c6e6827977cf7f1cd201c7ddbc39ecc250dc3c8025e601",
+   "jpUrl": "4de6199b761f763e58302d5bb7d298baffff606f27037e040a2bac5d93970be2",
+   "enUrl": "701527f0812067a35cd1dc89468284895fded519f2afc7b5a4d1768850764462",
+   "krUrl": "7b39ac640ce298d50ce7ef4796ba5fcd7d34a23039c566de3a55205b2a9a8320"
+  },
+  {
+   "id": 30,
+   "title": "Miembro del equipo: Misha",
+   "text": "Tal y como esperaba, tu viaje empezó hace mucho tiempo.",
+   "unlockRequirement": "",
+   "cnUrl": "984629fc3e547b0ddc1bcbd7a0e269096557525d1eaf3498bb42461b3d0d15a7",
+   "jpUrl": "a9ec6213ce6cc8765885490071e533c6eb45aef46b8fdc8d5fa4208b2a163cf9",
+   "enUrl": "d6bd919e64d66b7690908a00b946b3ba4fcaad18ce353c2a0f03b178fbe99263",
+   "krUrl": "9571ea2f838eb807ada84a83ed027537631ec0e22950362c586b044394c36e67"
+  },
+  {
+   "id": 31,
+   "title": "Miembro del equipo: Robin",
+   "text": "Si el precio de renunciar a mi cuerpo físico fuese no poder escuchar a Robin cantar, habría tenido mis dudas.",
+   "unlockRequirement": "",
+   "cnUrl": "60dbda99b1b48654534060aed212852c4b6913576193df6af8602d422f9edc4d",
+   "jpUrl": "c4d9522d6cfadf03b1dd2611b8001dc7cea083ccd9e7ef049456660f8b4313f7",
+   "enUrl": "fe4c8a2e58f25624a57693dbe96af123daf8dac7bcd4da48b649214d92132209",
+   "krUrl": "053f72b7a6949c09c835366ff557c701609f81f9f46b0f01aa1b2523eb70e7f5"
+  },
+  {
+   "id": 32,
+   "title": "Miembro del equipo: Boothill",
+   "text": "He trabajado con la Corporación antes. Si necesitas ayuda, dímelo.",
+   "unlockRequirement": "",
+   "cnUrl": "4dcbf8af519217532a49398c3f0255770b507bc85bf3a1224c8383d0406b74be",
+   "jpUrl": "5099c2c8de53dbd6619c23a0fadf61b0c5334123f6515e1b764d7e99263b852d",
+   "enUrl": "6507bc10613293c9befb14585c13256c569e40b3125fe4df7fb06d5fd4dbb41b",
+   "krUrl": "f8400bf98df553bccd98c7bc2ca9bdb92565c688fa3c60a02b222b6803ed6499"
   },
   {
    "id": 51,

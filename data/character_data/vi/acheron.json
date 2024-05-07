@@ -6,9 +6,8 @@
  "fgPath": "6842366bfe6b21e4f7927de23251acbac7710a6995d6d5ad3f6fcf1f8728f440",
  "splashIconPath": "cb8b1e8e90176861cda2ed901b194688fc571573f3875b506fd5eef3425bc52d",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBgBAAABkHNb27HH2q/n/WLbtp2MPZVttlOzcqluKla2Udq2bVvv+z3XFSciJgBdNEAgOjtxz7GNA4GsuI4czFbb0RET0bEPO/XH/1fHl+XDdGLwJ1n93nwhHO36ggGUnZen73Oux7cXm940t/9iWbq6dKYEBnDQvTZ5/I+/oqS/n0fDBzgJR+9Pm/nXsq2rxfDBoOyzbjyjFSn6tT7NgcHkD5QkSqTV6h4AkH1BriVJiVYnZwEmtnrRS5GiJJL/VsUAOUMbFt72i2rHak0AHPQ6+/0XRVGkXF0xcDBEkiiKpJW7HDCIPCzP83ueZ2X1oAEGMEjaoPb/68LY7skAYFCwYOu+9Vs2vfvw9MCCbHQcsnB8XFr9kJHDImEAVlA4IC4BAABwBQCdASoUABQAPm0ylEekIqIhKAgAgA2JQBicgmxEGhfkLY+oza9f8o7rXPqL/qCs7GkAAP73fYgmb/tUJrb1Ac/t0G9oUn6gsXboeduu52XKgV/GctGDPF/QdGAmyZosf9QDksEUK7XO7OYsoDRfwGkCWyIHI/H/pcsjUoG/Yllg+yM0FqFueCcYZMBTbiftCL6XY7QaQ8n3GSER90qe7/AewGPz/x6F/TZv8/8VXfvLIp/+aSjoB1WY2X/Rw539oOr8QKG6t5zJz69wL/6/mUmjdKsWM9+vW/9o+msEFWPNrBf+hY0D+OZVte4Nb2f51+HY5yneDfvwEK5BXjFkHT9AMH81z5RLLPhsW7X/xvQBHr8yQnijfx9m8qvxswT/nZPDQnk4ekRgAAAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "df764a5759a0dca82769c6f3b9d0c49fc112137b5c7e7cf0fe97c158667b35d0",
+   "iconPath": "4b2f6a82ca5832faabb21365f8e801c9294eabdcfe332bd0391a19bc78f57864",
    "artPath": "b434b6fb86e3b72574dcd5aa2e2b043d1020ef54067bdfa51ca183c33ec326c3",
    "name": "Khởi Đầu Chân Ngôn Cõi Trời Thưa Thớt",
    "descHash": "Khi gây sát thương cho kẻ địch có Hiệu Ứng Xấu, Tỷ Lệ Bạo Kích tăng <nobr>#1[i]%</nobr>.",
@@ -450,15 +449,15 @@
   },
   {
    "id": 2,
-   "iconPath": "0b8497d7bbbbd66c4fb49a5f303473bea784cc4654589c5bf1898819ff4de0a4",
+   "iconPath": "cd5b2875fb57c9169388dd2614bcb1d40c9faec35a6f5438fa352e2d1d457847",
    "artPath": "a3538ce5431936c85fbdf5315b3492172121bbda4430c2eda2bda0db888872ad",
    "name": "Sấm Thinh Lặng, Giông Tố Dừng",
-   "descHash": "Giảm 1 nhân vật Vận Mệnh \"Hư Vô\" cần thiết để Vết Tích \"Vực sâu\" đạt được hiệu quả cao nhất. Khi hiệp của bản thân bắt đầu sẽ nhận 1 điểm Mộng Tàn, đồng thời kèm theo 1 tầng \"Nút Thắt Đỏ\" cho kẻ địch có nhiều \"Nút Thắt Đỏ\" nhất.",
+   "descHash": "Giảm 1 nhân vật Vận Mệnh \"Hư Vô\" cần thiết để Vết Tích \"Vực Sâu\" đạt được hiệu quả cao nhất. Khi hiệp của bản thân bắt đầu sẽ nhận 1 điểm Mộng Tàn, đồng thời kèm theo 1 tầng \"Nút Thắt Đỏ\" cho kẻ địch có nhiều \"Nút Thắt Đỏ\" nhất.",
    "params": []
   },
   {
    "id": 3,
-   "iconPath": "6ecdff74c736876295c3a2969409ec038408c32dd6bdad0549016d770b05b948",
+   "iconPath": "230b424511fcd8cf762fd715267b48490c72f14fada5a9355b92fd5a9252985b",
    "artPath": "a304e8ba19df70f659e15e0ee7c414a11f3c42856b45926818527fdee620a026",
    "name": "Lạnh Giá Vĩnh Hằng",
    "descHash": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp <nobr>15</nobr>, cấp Tấn Công Thường +1, tối đa không quá cấp <nobr>10</nobr>.",
@@ -466,7 +465,7 @@
   },
   {
    "id": 4,
-   "iconPath": "0b76fa7437b3ea59213281fcc50a0c10399dae3858d8ba583cfcebc3a9a8a24b",
+   "iconPath": "c31e039f4b95129e0d94b103f2f2d103313d451d651a2ec9a7297163ffa72637",
    "artPath": "96fcdaa2e5e9e27b10167c2b9c80041c606ac4a14b490971f9d85a5abbc65132",
    "name": "Hồn Gương Rực Lửa",
    "descHash": "Khi kẻ địch vào chiến đấu, sẽ khiến kẻ đó rơi vào trạng thái Trọng Thương Tuyệt Kỹ, sát thương Tuyệt Kỹ phải chịu tăng <nobr>#1[i]%</nobr>.",
@@ -476,7 +475,7 @@
   },
   {
    "id": 5,
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "artPath": "c37fcc04adc70fd9e069134d95e9b81ebe81e3d75473da22d092b8634c739b85",
    "name": "Núi Đá Phân Ly, Thiên Hồn Tiêu Tán",
    "descHash": "Cấp Chiến Kỹ +2, tối đa không quá cấp <nobr>15</nobr>; Cấp Thiên Phú +2, tối đa không quá cấp <nobr>15</nobr>.",
@@ -484,7 +483,7 @@
   },
   {
    "id": 6,
-   "iconPath": "ba4559da01571e6233428c99d0c8b742d2a10b64aadfb1702bf58bffc180b373",
+   "iconPath": "41bf295a83cf97873df78e0a7880441fdcbdf9ba6ab21e81168adf2439206487",
    "artPath": "f82f081f46888b3743c68c1080edc8459c751c0a8866386cdfa09f1928eda895",
    "name": "Ngày Tận Thế, Người Giải Phóng",
    "descHash": "Tăng <nobr>#1[i]%</nobr> Xuyên Kháng Toàn Thuộc Tính mà sát thương Tuyệt Kỹ của Acheron gây ra, sát thương của tấn công thường và Chiến Kỹ gây ra cũng được xem là sát thương Tuyệt Kỹ, đồng thời bỏ qua thuộc tính Điểm Yếu và làm giảm Sức Bền của địch. Khi phá vỡ Điểm Yếu sẽ kích hoạt hiệu ứng Phá Vỡ Điểm Yếu Lôi.",
@@ -523,7 +522,7 @@
    "energy": "0",
    "id": 639823,
    "name": "Ba Đường Thăng Trầm",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "Tấn Công Thường",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +683,7 @@
    "energy": "0",
    "id": 355296,
    "name": "Bát Lôi Phi Độ",
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "typeDescHash": "Chiến Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -989,7 +988,7 @@
    "energy": "0",
    "id": 439237,
    "name": "Giấc Mộng Tàn Khuyết, Một Chém Đoạn Tuyệt",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Tuyệt Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1354,7 +1353,7 @@
    "energy": "0",
    "id": 154710,
    "name": "Mưa Lá Đỏ, Vạn Vật Hóa Hư Không",
-   "iconPath": "4991aa8fe3558d340c3ef2bfd5f5d9096798e6000b7e4eb0ffa01c0c148745b2",
+   "iconPath": "221738a182c2b155974a4c0c07b3a617e6dbd1d1511c63575ee795f4801160ad",
    "typeDescHash": "Thiên Phú",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1644,7 +1643,7 @@
    "energy": "0",
    "id": 954124,
    "name": "Tấn Công",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1666,7 +1665,7 @@
    "energy": "0",
    "id": 70769,
    "name": "Tứ Tướng Đoạn Ngã",
-   "iconPath": "f994082615a6791b3f40f7fb5a4dd56345f3061eeafb844157a0cb3c1dfe8aff",
+   "iconPath": "e8eeade7747ffa2975fd8ef9f5ddc16f7a58784a2e2563665231630a5df3f390",
    "typeDescHash": "Bí Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1691,7 +1690,7 @@
    "energy": "0",
    "id": 154711,
    "name": "Lưỡi Chém Mưa",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Tuyệt Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1996,7 +1995,7 @@
    "energy": "0",
    "id": 271356,
    "name": "Lưỡi Chém Mưa",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Tuyệt Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2301,7 +2300,7 @@
    "energy": "0",
    "id": 954125,
    "name": "Lưỡi Chém Mưa",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Tuyệt Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2606,7 +2605,7 @@
    "energy": "0",
    "id": 70770,
    "name": "Hoàng Tuyền Vượt Kiếp",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Tuyệt Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2987,7 +2986,7 @@
     "ultimateCost": 0,
     "id": 76442,
     "name": "Quỷ Đỏ",
-    "iconPath": "9522620e04f20b7d6b642d2e754f803373455ce52fabf7453a61015d11a48281",
+    "iconPath": "3b9e60fa6b782292abd846f1713b011be0ef91600abd22723c5243e7f058f5b4",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -3129,7 +3128,7 @@
     "ultimateCost": 0,
     "id": 76445,
     "name": "Vực Sâu",
-    "iconPath": "5b174d18d7e7d6aa171e07c508de164561b3c659c70e8ef91f60dc9088a477a1",
+    "iconPath": "d09b4f4b65a0a0e321126847e90435cbbbe8ee6ab8699f0906754cc21756e1d0",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -3240,7 +3239,7 @@
     "ultimateCost": 0,
     "id": 76444,
     "name": "Trái Tim Sấm",
-    "iconPath": "45e2ef4d90a9f7a28abfea0bfaf688c119eee1ffe447a2f8c6cc025f0771c7ea",
+    "iconPath": "d355b39e44c731c0f9b7ebb3f9c97541c73581178e115717bbc1635c8e67c44f",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -3425,12 +3424,12 @@
   {
    "id": 6,
    "title": "Về Bản Thân - Thân Phận",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Giấc mơ vốn không có ý nghĩa, thứ đem lại ý nghĩa cho nó chính là màu nền của sinh mệnh. Nhưng nếu màu sắc là một vùng \"hư vô\"... thì giấc mơ cũng chỉ còn lại chiếc vỏ trắng đen trống rỗng.",
    "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Đi Qua Vùng Đất Chết\" sẽ mở khóa",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "e894a180a9981608b4c57431079623e4d13d0054cbe9a246462eea85a7491d9c",
+   "jpUrl": "2bf5db4dde1d16760266c2956d9126485b2c2a3922e94f321409c97609794e9a",
+   "enUrl": "7d605dc4ac9c7395467e9d5ebb93e8c2734a0fccd758fc8c4a35d249f3969fb2",
+   "krUrl": "2468f13e9707e8d1240d48d6b2793836f685a18fce410fa37b13d1db031c26b8"
   },
   {
    "id": 7,
@@ -3475,12 +3474,12 @@
   {
    "id": 11,
    "title": "Phiền Não",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Khi tỉnh lại từ bờ bên đó, tận cùng biển cả vẫn còn tiếng sấm rền, mưa máu lã chã đầy trời... Chỉ có khung cảnh của khoảnh khắc đó hiện lên rõ ràng trước mắt tôi. Mà ký ức trước đó và sau đó đều ảm đạm phai màu, rồi dần biến mất.",
    "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Đi Qua Vùng Đất Chết\" sẽ mở khóa",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "c6e3372573e30d0399079e4cf02ae8cd4c7da61603aca30dbb51045c980ac58e",
+   "jpUrl": "a047f85153c68597b61849acdfe9bb6a13fa901db41f7514ad23caebc97965e3",
+   "enUrl": "c398f29352076918b50d85342f03b741cae5aec4ed43c1690ac9b28a04dd59a2",
+   "krUrl": "ad799c9fd195e7b5a05a6a24bfc1864e5ee931e62a5d6d9984c931ab7861d45b"
   },
   {
    "id": 12,
@@ -3489,7 +3488,7 @@
    "unlockRequirement": "",
    "cnUrl": "de6dcc427794a3897ee79f1a0c3af4d9ad76f8a1e5a88b33a10c321fe319b5cc",
    "jpUrl": "677b38e00145fa37daaa71ca394a9ac88a233c0e833df62ba80934cf16231c5e",
-   "enUrl": "25a85b55b639a8172d034f42c50cf1a57536e389da3165cbda9f81a8754bc1a7",
+   "enUrl": "1438b357b3ce5962d3fa521dc251220e79cd49439fc4e7cfecc75a8e3dc8c5ce",
    "krUrl": "bb3432ece2a51edf1c8851dfa91fbbdf43fb978970cb9d3d8cea2a8a5fa16b2c"
   },
   {
@@ -3515,12 +3514,12 @@
   {
    "id": 15,
    "title": "Hiểu Biết - Vận Mệnh",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Con người bước đi trên vận mệnh... sau đó tìm kiếm, sau đó giác ngộ, sau đó tồn tại.",
    "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Đi Qua Vùng Đất Chết\" sẽ mở khóa",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "22cc19dfe635ac6e8a7c59f7cca017ee780aba9f7ba1e8350831914d6e8af883",
+   "jpUrl": "babe5ee9d6a6feaa54b5ae44851b83f4984e373f115a5fae14a49b4b282aaddc",
+   "enUrl": "55362848ae88e0e5fc6a4bc702a4f1237ad0beb112379c475cf15afe02f4691d",
+   "krUrl": "e7b4944732f4f07d1c4ef8abd2847b0af4f5f888a709d898962417399ae9e284"
   },
   {
    "id": 16,
@@ -3661,6 +3660,26 @@
    "jpUrl": "d9509528f3e8a4d73459b1303d41d60d85a2b68015a569eac05abe719cef9299",
    "enUrl": "b5fa0dda88deea8498c474a3f5a1f2f16f7ee1ce2bef31c61fc5d55a5b7eb110",
    "krUrl": "e6cab93f80f2c2269cda7f9a17797add8cc6d8a75638dbe2abd5ce17bc643e42"
+  },
+  {
+   "id": 30,
+   "title": "Về Boothill",
+   "text": "Cảnh Binh Thiên Hà... tổ chức chỉ là vỏ bọc cho những hành động của anh ta, có thể thấy được, người đàn ông này chỉ sống vì chính mình, đây cũng là lý do tôi tin tưởng anh ấy.",
+   "unlockRequirement": "",
+   "cnUrl": "11bef2f1393fee88be482c7b80e4eecf159dff22c53dff07cf5254e0045baaa3",
+   "jpUrl": "d4c4dcaec1a75f8352b5a176aeae3979f3be9c32a35222a305b27b529d51e130",
+   "enUrl": "6b28895670d2707d6009c006ad153caf464e3a9a30449dedcfdfcdd499d3cee2",
+   "krUrl": "ecb611967f5f8f611d7ef0f7ada8ebae6174e407b41b85307e5694d7c1116383"
+  },
+  {
+   "id": 31,
+   "title": "Điều Chỉnh Đội-Boothill",
+   "text": "Động tác nhanh thật... Tôi dường như có thể nhìn thấy nòng súng anh giơ lên.",
+   "unlockRequirement": "",
+   "cnUrl": "920e3198955bc657460319070b5eb772d76ddc133bc5977b6d2daed7cd0eea9b",
+   "jpUrl": "3afc98dc66137c9e09feaab97d7c5299727f4f4c3502bc28452136124c32c282",
+   "enUrl": "0bbd53ac6d16e596df6b7e9e5b30f39c9d113c0478b6d24a7244020a021aed63",
+   "krUrl": "2a43910a31a4add9b1250a31b106d9b08efcd2f03302c607e3636abfdb131b4b"
   },
   {
    "id": 51,
@@ -3830,7 +3849,7 @@
    "cnUrl": "0acc28a4f99053d4d8960c0c81e110940ba1553db42f7db992ecff0c1250f46b",
    "jpUrl": "51908b0ad7629a9abf94fda0e1627e50fba3a9cada5f59e07a02f0914b10b6e9",
    "enUrl": "9ca2eab1f57dd43a35fc174d3a063180511c822d9ebdf02b2fc5de259c17da70",
-   "krUrl": "2469e88654b183a9dc08635e8073add024803111f176f6974172bdd5b98f8275"
+   "krUrl": "7afda6b1f112d18625c2a50fb0d7ffa2bf2d1d325b2ebc81623bbf2be485eb1c"
   },
   {
    "id": 68,
@@ -3931,22 +3950,22 @@
   },
   {
    "title": "Câu Chuyện Nhân Vật 1",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"...Không phải người chọn đao, mà là đao chọn người. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Cũng như con người không thể lựa chọn số phận, mà là số phận lựa chọn con người</span>... Hôm đó, nhìn \"đao\" do chính tay tôi rèn ra rồi được trao vào tay cô gái, tôi nhận ra rằng, trên con đường chống lại <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">\"Yaoyorozu no Kami\"</span>, cô ấy đã lựa chọn... hoặc đã được chọn... để dấn thân vào con đường <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">trông như</span> dẫn đến ngày mai đó. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Tôi rất hy vọng</span> đây là một thời đại tươi đẹp, ngay cả khi vương quốc Izumo đang phải đối mặt với những mối đe dọa, mọi người vẫn ôm hy vọng, tin rằng <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Ác Thần</span> sẽ bị tiêu diệt toàn bộ, thế giới sẽ giành lại được tự do... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Nhưng phải đến khi ánh đao biến mất, tôi mới nhận ra, đây là một ngõ cụt không có điểm dừng, và những người đặt chân lên con đường đó sẽ không bao giờ có thể quay trở về</span>...\"<br /><br /><align=\"right\">— Mảnh Sách Cổ</align>",
    "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Đi Qua Vùng Đất Chết\" sẽ mở khóa"
   },
   {
    "title": "Câu Chuyện Nhân Vật 2",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"...Từ những mảnh sách do người rèn đao để lại, chúng ta biết được rằng Izumo đã từng đứng bên bờ vực diệt vong. Để được tiếp tục tồn tại, họ đã dùng <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">\"Thần Hài\"</span> rèn thành đao, người cầm đao được tôn làm anh hùng cứu nước. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Hội rất có hứng thú với \"Yaoyorozu no Kami\" được đề cập trong đó, hiện vẫn chưa rõ đối tượng ấy liên quan đến con đường vận mệnh nào. Và trong các ghi chép sau này, cách gọi của người Izumo dành cho chủ nhân của các thanh đao đó cũng dần từ \"người\" chuyển sang \"quỷ\".</span><br /><br />Đáng tiếc là thế giới này đã biến mất khỏi Bản Đồ Hành Tinh, không thể tìm thấy chân tướng của lịch sử, \"ký ức\" cũng không còn tồn tại. Khi học phái Khảo Cổ Vũ Trang đến đó, chỉ có bài ca dao \"thần bí\" lưu truyền trong Tinh Hệ: Cơn mưa vô tận tuôn trào như lệ rơi trong <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Mặt Trời Đen Tối</span>, dưới màn mưa mờ ảo, những người dân may mắn sống sót của vương quốc Izumo đang quay lưng về phía cố hương đã được <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">cô ấy cứu rỗi rồi tận tay</span> xóa bỏ... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Trước mặt cô ấy chỉ có những bóng đen vô hình.</span>\"<br /><br /><align=\"right\">- Người chấp bút: Oppenheimer</align>",
    "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Đi Qua Vùng Đất Chết\" sẽ mở khóa"
   },
   {
    "title": "Câu Chuyện Nhân Vật 3",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"Tôi đã sử dụng thuốc bào chế \"Thức Tỉnh<nobr>-310</nobr>\", nó có thể khiến người ta chìm vào giấc ngủ thật sâu, để một lần nữa trải qua những ký ức quá khứ. Một số bệnh nhân có thể nhờ đó mà lấy lại <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">niềm tin vào cuộc sống</span>, nhưng cô ấy thì khác. Trước cô ấy, chưa từng có ai có thể chủ động tỉnh dậy khỏi giấc ngủ sâu. Tôi đã quan sát giấc mơ của cô ấy... Đó khó có thể gọi là những ký ức hạnh phúc: bầu trời u ám, thành phố đổ nát, đất hoang khô cằn, và cơn mưa phùn bất tận.<br /><br />Cơn mưa như thể sẽ không bao giờ ngừng rơi, khi thủy triều dâng lên, mọi người mỉm cười trong cảnh đuối nước. Và trong đêm đen khổ ải đó, tôi luôn nghe thấy tiếng sấm đang đến gần từ phía chân trời xa, cho đến một khoảnh khắc nào đó, sấm sét đột nhiên xuất hiện, xé toạc màn đêm. Dưới bầu trời vỡ tan, tôi lại nhìn thấy cô ấy... Trong thế giới phai màu thành hư vô, cô ấy nhẹ nhàng vung đao, lấy đi toàn bộ vương quốc của những giấc mơ.<br /><br />Tôi phải thừa nhận rằng, trên con đường này, cô ấy đã đi sâu hơn chúng tôi rất nhiều. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">\"Hư Vô\"</span> khó nắm bắt đó đã dẫn dắt cô ấy đi về phía <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Tự Hủy Diệt</span>, và cô ấy thì lại giữ chặt nó trong tay trong vô hình. Có lẽ khi bắt đầu cuộc hành trình, cô ấy đã chuẩn bị sẵn sàng để đối mặt với kẻ địch thực sự... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Tôi từng hỏi cô ấy, tất cả mọi chuyện có ý nghĩa gì? Nhưng cô ấy không trả lời. Là vì cô ấy không biết phải trả lời như thế nào, hay trong lòng cô ấy đã có sẵn câu trả lời rồi?</span>\"<br /><br /><align=\"right\">- Bút ký của <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Bác Sĩ Hỗn Độn</span> nào đó</align>",
    "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Đi Qua Vùng Đất Chết\" sẽ mở khóa"
   },
   {
    "title": "Câu Chuyện Nhân Vật 4",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"Tôi để lá thư này lại đây. Nếu tôi không thể quay về, thì nó sẽ kể câu chuyện về cô ấy, một người bạn đồng hành mà tôi đã tình cờ gặp gỡ ở <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Orkron</span>. Con đường đi đến bờ bên kia vô cùng khó khăn, may mắn có cô ấy đi cùng, tôi mới có thể bình an vô sự suốt dọc đường. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Khi gặp nhau lần đầu, tôi luôn cảm thấy hình như cô ấy đang gánh vác một sứ mệnh nào đó, có phải là \"trả thù\"? E là không. Một người có lòng thù hận thì nhất định vào một lúc nào đó cũng sẽ thể hiện ra điều đó, nhưng cô ấy luôn bình tĩnh như vậy, ngoại trừ một chút đau buồn mà cô ấy thỉnh thoảng bộc lộ ra...</span><br /><br />...Trước khi chúng tôi gặp nhau, cô ấy đã đi qua nhiều thế giới, vô cùng thành thạo các loại kỹ năng sống. Tôi và cô ấy cùng nấu ăn và dựng lều nơi hoang dã, vào những đêm trời không sao, cô ấy sẽ lắng nghe tôi kể chuyện, bàn với tôi xem ngày mai phải làm gì. Nhiều lúc, chúng tôi chỉ lặng lẽ bước đi. Tuyết ở đây có màu đỏ tím, nếm thử có vị chua chua ngọt ngọt như quả mâm xôi. Cô ấy <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">đã không thể nếm được nhiều hương vị nữa, nhưng vẫn</span> sẽ khen ngợi món bánh mochi Orkron mà tôi làm...<br /><br />...Trước khi quen biết cô ấy, tôi đã từng bôn ba nhiều năm ở dòng sông <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">\"Hư Vô\"</span>. Cô ấy đã dang tay ra với tôi, và chúng tôi đã cùng đồng hành trên con sông này. Nay đã đến lúc phải chia xa, tôi vẫn chưa đến được bờ, cũng không biết sắp phải đối mặt với điều gì... Nhưng tôi không có lý do gì để dừng lại. Cuộc đời chẳng qua là một con đường cuối cùng sẽ có điểm kết thúc. Trước lúc đó, tôi sẽ dùng chính đôi chân mình để đi đến cùng. Tôi tin cô ấy cũng sẽ như vậy.\"<br /><br /><align=\"right\">- Bút ký của <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">\"Frebass\"</span></align>",
    "unlockRequirement": "Hoàn thành Nhiệm Vụ Khai Phá \"Đi Qua Vùng Đất Chết\" sẽ mở khóa"
   }
  ],

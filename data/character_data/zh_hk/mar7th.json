@@ -6,9 +6,8 @@
  "fgPath": "10675a7a69c30561c05bc6ab2d0adf1a98082952b05057364a51b5d55526f246",
  "splashIconPath": "fca6f92dd8bbbc3c1ae4b768607819340d9bfc35abebbc35e95227acf665d365",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRioDAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSFoBAAABkChJsmlbtXFt2/fZtm3btm3btm3btm3b9uvHf4iICeBvE7BwTMl/DbBIlxY8u/kQ5mL+hWmR9FYcvgvze0aPaAwQlBw8TqtF6HldqBw9oDwmGENysUXqtF8/lYpod/6Om9FMur5bnzSDPpeWXciLh02ld5IWTtfXveNW7JYuny9lEPj95NQuVNKDD7XpqM+va2OSWvPj3Kt/1psWhfZ/v7s6M1gMH5T/8OStT3UpTbHShTudisMgZN/pNLdfH7wi7c7Tqn3O9oDdrn6th1+fvPupV+uLzJrTvn/1KLy2evo/05VO335oe9blLyRVgzEJ2j3cv/nCyqF6NL9d9/tqjoV/xMLrrgXeHL7Xc/y0RMz8cK8YQMpvV7/uzKCj4W91+KWkBGCS46KmjD49Z1DTWZf0+OnOWMCm3KBrWuVwehcdT0Y7808Lq2vrRJTWAnwt/m8CFtn7OYABVlA4IKoBAABwCQCdASoUABQAPm0ukUakIqGhKA1QgA2JbACdMoR1d7NwhLt3YDxAMkv9ADynfZH8ngpkni7+iPQ99DPzQPRADamSXWGIVkUbO/v8fOP3kIKIegAA/o9OKMC4eErbMt1IkBmhZYSp3LzLhR4P95khDsxsSLfJDCm03bkpklz6DZlu3Qczuw/4lr/ZO9nF7vq0hAiRtX7+A0Rw9pNXzl0uxHqA/asUGfrUTnHgO628u+0IvQAgD5ROZOC07MVChxVaewbri19RCiXP9otWIq66Jx2nugN0zqGTDSJMej38TxpHP8JdnYPCT4ThBbbD5eJH/PB3AnBMTmDS/XmJVdIOUJnzeKr7l3Xwx1HXVv7tbb43vJTPs3fsNQC7oQteOkq2PeR7okv7MnsTgiPtLOjFiNyBIrNdUafZBhomYijkb8EF3+Nz6BbHW7Y9rHe2g+joslC+2Z9WF0oFLszmGcv598I9F7PZB/tLPBuQNlYIf76JObFtpHV9nG073LLhKt566OGo/8QNwIwet633cTW+VJyu4U8K5rTmUbu+vI6SRftF4hBU85AAAAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -451,7 +450,7 @@
   {
    "id": 2,
    "iconPath": "c098c7b37fa2ff94f10aaaef5cabbbb3381bc819dee5b4385fbb106071fb33d3",
-   "artPath": "2fd658cbf1adcc591dedfa4e63315b67ea74812ead29441b25348600141fefe1",
+   "artPath": "328920eaa4911b0e45218766398723866339cccfc6059043760e36a3807a1c5e",
    "name": "記憶中的它",
    "descHash": "進入戰鬥時，爲當前生命值百分比最低的我方目標提供等同於三月七<nobr>#1[i]%</nobr>防禦力+<nobr>#3[i]</nobr>的護盾，持續<nobr>#2[i]</nobr>回合。",
    "params": [
@@ -2677,7 +2676,7 @@
   },
   {
    "title": "角色故事·三",
-   "text": "相比「列車長」帕姆，「領航員」姬子，「護衛」丹恆，「什麼都會的」瓦爾特，即使自稱爲「勇士」，連三月七都很難說清楚自己在列車上的分工。<br />但三月七的一舉一動，無時無刻都在影響列車組的行動方針。<br /><br />「三月七旅客摔倒了……」<br />「三月，小心頭頂的方鉛礦球。」<br />「小三月，那邊的景點拍過照了嗎？」<br />「我相信小三月，她說不好喫，那就肯定不好喫。」<br /><br />於其說三月七容易讓人放心不下，不如說她總是會讓人放在心上。<br />當然，三月七對此毫無察覺，她正在全力思考適合開拓者的列車組定位。",
+   "text": "相比「列車長」帕姆，「領航員」姬子，「護衛」丹恆，「什麼都會的」瓦爾特，即使自稱爲「勇士」，連三月七都很難說清楚自己在列車上的分工。<br />但三月七的一舉一動，無時無刻都在影響列車組的行動方針。<br /><br />「三月七旅客摔倒了……」<br />「三月，小心頭頂的方鉛礦球。」<br />「小三月，那邊的景點拍過照了嗎？」<br />「我相信小三月，她說不好喫，那就肯定不好喫。」<br /><br />與其說三月七容易讓人放心不下，不如說她總是會讓人放在心上。<br />當然，三月七對此毫無察覺，她正在全力思考適合開拓者的列車組定位。",
    "unlockRequirement": "角色等級<nobr>60</nobr>解鎖"
   },
   {

@@ -1,0 +1,2755 @@
+{
+ "spRequirement": 160,
+ "iconPath": "eda9eb4d611aebbebc76c9f36463222444d78b763bf41c52f57301da25bfd43d",
+ "bgPath": "7f423fac5a5055f2795b0a2e3aacd03d714016fae7d64991f12ec5397920da3e",
+ "figPath": "73b48269ce73c11adb7b3bf9dd758f5619ae10f0a46b767f8a662dea8d0f4b14",
+ "fgPath": "f2b4f2314295c89f822dc40b202f97035dfaae5abb9ec788d125981ae36c5179",
+ "splashIconPath": "d3f0beaa9b190826b041eeb4bc03404547818b4de65040064e41aa2032712099",
+ "splashPlaceholder": {
+  "w": 0,
+  "h": 0
+ },
+ "damageTypeId": 0,
+ "baseTypeId": 0,
+ "baseTypeTraces": {
+  "id": 4,
+  "iconPath": "55d5339b99655abd5d47c976596bebf22e6e522614fef628f7c875606f3e1abd",
+  "color": "#FFFFFF",
+  "rarity": 0
+ },
+ "itemReferences": {
+  "29328": {
+   "id": 29328,
+   "type": 101,
+   "purposeId": 11,
+   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "name": "信用点",
+   "desc": "星际和平公司与客户结算时使用的货币，如今已成为太空旅行的硬通货。",
+   "lore": "「人们奔波、争斗、贸易，为的不过是个终端里显示的数字。但真正珍贵之物，公司的数字是买不到的。」",
+   "purpose": "通用货币",
+   "rarity": 3,
+   "rewardPath": "/material/29328",
+   "comeFrom": [
+    "拟造花萼【大矿区】",
+    "拟造花萼【工造司】",
+    "拟造花萼【「白日梦」酒店-梦境】",
+    "任务奖励",
+    "委托奖励",
+    "余烬兑换"
+   ]
+  },
+  "125435": {
+   "id": 125435,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "name": "命运的足迹",
+   "desc": "行迹升级的高阶素材。",
+   "lore": "一次又一次的败北成就了你的胜利，一步又一步的前进让你抵达了命运的拐点。",
+   "purpose": "行迹材料",
+   "rarity": 5,
+   "rewardPath": "/material/125435",
+   "comeFrom": [
+    "「模拟宇宙」积分奖励",
+    "无名勋礼",
+    "余烬兑换",
+    "星芒兑换",
+    "限时活动奖励"
+   ]
+  },
+  "409960": {
+   "id": 409960,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "name": "漫游指南",
+   "desc": "角色的经验材料，可以获得<nobr>20000</nobr>点角色经验。",
+   "lore": "跨越诸界必备的冒险丛书。按下阅读键，充满磁性的声音将以你能听懂的语言讲述知名冒险家们在不同世界间的传奇经历，以及他们在各个星球上获得的珍贵智慧。<br /><br />「漫游指南全新书系《星际美食烹饪导览》开售在即，敬请支持。」<br />「投稿请接入博识学会联觉信标<nobr>23</nobr>θ联络员，稿酬可以以您接受的任何形式支付。」",
+   "purpose": "角色经验材料",
+   "rarity": 4,
+   "rewardPath": "/material/409960",
+   "comeFrom": [
+    "拟造花萼【城郊雪原】",
+    "拟造花萼【流云渡】",
+    "拟造花萼【筑梦边境】",
+    "「忘却之庭」"
+   ]
+  },
+  "409961": {
+   "id": 409961,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "name": "冒险记录",
+   "desc": "角色的经验材料，可以获得<nobr>5000</nobr>点角色经验。",
+   "lore": "装订严整，一看就颇有教育意义的冒险札记。图文并茂地描述了冒险行动的始末、有价值的信息和生存相关的技巧。<br /><br />「干嘛不数据化放进光刻片里？便携多了。」<br />「面对恒星风暴和中子流喷发时，高科技比你想象的还要脆弱。何况，制作这本书的人一定希望人们用最简单的方式阅读它。」",
+   "purpose": "角色经验材料",
+   "rarity": 3,
+   "rewardPath": "/material/409961",
+   "comeFrom": [
+    "拟造花萼【城郊雪原】",
+    "拟造花萼【流云渡】",
+    "拟造花萼【筑梦边境】",
+    "每日实训",
+    "余烬兑换"
+   ]
+  },
+  "409962": {
+   "id": 409962,
+   "type": 601,
+   "purposeId": 1,
+   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "name": "旅情见闻",
+   "desc": "角色的经验材料，可以获得<nobr>1000</nobr>点角色经验。",
+   "lore": "记录旅途见闻的日志，字迹漫漶不清，内容随心所欲，对你并没有太大的帮助。<br /><br />「看完了就赶紧把这堆废纸处理掉吧，丹恒？」",
+   "purpose": "角色经验材料",
+   "rarity": 2,
+   "rewardPath": "/material/409962",
+   "comeFrom": [
+    "拟造花萼【城郊雪原】",
+    "拟造花萼【流云渡】",
+    "拟造花萼【筑梦边境】",
+    "委托奖励"
+   ]
+  },
+  "470781": {
+   "id": 470781,
+   "type": 601,
+   "purposeId": 4,
+   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "name": "蛀星孕灾的旧恶",
+   "desc": "行迹升级的高阶素材。",
+   "lore": "作为虫皇亲自繁育的子嗣，它的唯一欲望便是扩张族群。它以巨镰收割星体为巢，不倦培育无穷子孙，涂炭万千生灵，直至陨落一刻。<br /><br />「破碎星球之上，巨蝗遮蔽天空，群虫涌出地壳。锹甲将这颗新巢穴举起，向它的虫皇献礼…愿此番惨状只存于史料中，永不复现。」",
+   "purpose": "行迹材料",
+   "rarity": 4,
+   "rewardPath": "/material/470781",
+   "comeFrom": [
+    "历战余响【禁闭舱段】"
+   ]
+  },
+  "549209": {
+   "id": 549209,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "name": "蓄梦元件",
+   "desc": "梦境造物的储能装置，强化所需的简单材料。",
+   "lore": "储存碎梦的筑梦容器，为梦境造物提供了基本的能源。<br /><br />「如果装上这个玩意儿，就会得到一位美梦剧团的成员。」",
+   "purpose": "行迹材料 <br />角色晋阶材料",
+   "rarity": 2,
+   "rewardPath": "/material/549209",
+   "comeFrom": [
+    "惊梦剧团掉落",
+    "「模拟宇宙」中敌方掉落",
+    "委托奖励",
+    "余烬兑换",
+    "「万能合成机」- 材料置换",
+    "拟造花萼（金）"
+   ]
+  },
+  "589819": {
+   "id": 589819,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "9dcc37e0e0903af3108640d694d154e4d9c54670d5b1de405adc1c283ef3186f",
+   "name": "空际小节",
+   "desc": "自天穹上飘落的乐句小节。可中幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">同谐</span>角色的命途行迹。",
+   "lore": "由秩序之中散落的一段音律。从天边悄悄坠落，掉进嘈杂之中，就像一抔黄沙散落在荒漠中。<br /><br />「无人能注意它，直到它被灵感捕获……」",
+   "purpose": "行迹材料 <br />光锥晋阶材料",
+   "rarity": 3,
+   "rewardPath": "/material/589819",
+   "comeFrom": [
+    "拟造花萼【「白日梦」酒店-梦境】",
+    "「万能合成机」- 材料合成",
+    "余烬兑换",
+    "「万能合成机」- 材料置换"
+   ]
+  },
+  "633150": {
+   "id": 633150,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "name": "流梦阀门",
+   "desc": "梦境造物的控制部件，强化所需的普通材料。",
+   "lore": "调节欲念的筑梦装置，控制着梦境造物内心的情绪。<br /><br />「如果这玩意儿失灵了，就会得到一位惊梦剧团的成员。」",
+   "purpose": "行迹材料 <br />角色晋阶材料",
+   "rarity": 3,
+   "rewardPath": "/material/633150",
+   "comeFrom": [
+    "突破至均衡等级2后，惊梦剧团掉落",
+    "「万能合成机」- 材料合成",
+    "「模拟宇宙」中敌方掉落",
+    "「万能合成机」- 材料置换"
+   ]
+  },
+  "673760": {
+   "id": 673760,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
+   "name": "天外乐章",
+   "desc": "自宇宙中传来的交响乐章。可大幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">同谐</span>角色的命途行迹。",
+   "lore": "由秩序之中散落的一曲乐声。于天外静静回响，被巨大的沉默淹没，就像孤星闪烁在星河中。<br /><br />「无人能感受它，直到它被所有人遗忘♬……」",
+   "purpose": "行迹材料 <br />光锥晋阶材料",
+   "rarity": 4,
+   "rewardPath": "/material/673760",
+   "comeFrom": [
+    "拟造花萼【「白日梦」酒店-梦境】",
+    "「万能合成机」- 材料合成",
+    "「万能合成机」- 材料置换"
+   ]
+  },
+  "717091": {
+   "id": 717091,
+   "type": 601,
+   "purposeId": 7,
+   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "name": "造梦马达",
+   "desc": "梦境造物的动力核心，强化所需的高级材料。",
+   "lore": "创造幻想的筑梦机械，赋予梦境造物灵魂的发动机。<br /><br />「如果发现这玩意儿出了故障…朋友，在陷入噩梦前快醒过来吧。」",
+   "purpose": "行迹材料 <br />角色晋阶材料",
+   "rarity": 4,
+   "rewardPath": "/material/717091",
+   "comeFrom": [
+    "突破至均衡等级4后，惊梦剧团掉落",
+    "「万能合成机」- 材料合成",
+    "「模拟宇宙」中敌方掉落",
+    "「万能合成机」- 材料置换"
+   ]
+  },
+  "866635": {
+   "id": 866635,
+   "type": 601,
+   "purposeId": 2,
+   "iconPath": "e77713aac9f0dc8efb0047a1b9c918d14aaa40589e0472f557374cb53d06818d",
+   "name": "星际和平工作证",
+   "desc": "星际和平公司「资深员工」的工作证明，物理属性角色的晋升素材。",
+   "lore": "在星际和平公司，只有项目组的小组长级别才能拥有这个款式的工作证。对于这些以工作为傲的资深员工来说，哪怕忘穿衣服，也不能忘记戴上工牌。<br /><br />「它不只是你走入庇尔波因特的通行证，更是一种社会身份的象征！」",
+   "purpose": "角色晋阶材料",
+   "rarity": 4,
+   "rewardPath": "/material/866635",
+   "comeFrom": [
+    "凝滞虚影【克劳克影视乐园】",
+    "「万能合成机」- 材料置换"
+   ]
+  },
+  "874346": {
+   "id": 874346,
+   "type": 601,
+   "purposeId": 3,
+   "iconPath": "0b9599c040d16b07324d2f3ea37854bbe9d3d22cb80a43b3070662e562738a04",
+   "name": "云际音符",
+   "desc": "自云端上散落的零星音符。可小幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">同谐</span>角色的命途行迹。",
+   "lore": "由秩序之中散落的一枚音符。从云边悄悄坠落，掉进凡音之中，就像一滴泪水融化在海水中。<br /><br />「无人能听见它，直到它掉进一首歌中…」",
+   "purpose": "行迹材料 <br />光锥晋阶材料",
+   "rarity": 2,
+   "rewardPath": "/material/874346",
+   "comeFrom": [
+    "拟造花萼【「白日梦」酒店-梦境】",
+    "余烬兑换",
+    "「万能合成机」- 材料置换"
+   ]
+  }
+ },
+ "levelData": [
+  {
+   "attackBase": 87.12,
+   "attackAdd": 4.356,
+   "hpBase": 174.24,
+   "hpAdd": 8.712,
+   "defenseBase": 66,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 0,
+   "maxLevel": 20,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 4000
+    },
+    {
+     "id": 549209,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "attackBase": 121.968,
+   "attackAdd": 4.356,
+   "hpBase": 243.936,
+   "hpAdd": 8.712,
+   "defenseBase": 92.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 1,
+   "maxLevel": 30,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 8000
+    },
+    {
+     "id": 549209,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "attackBase": 156.816,
+   "attackAdd": 4.356,
+   "hpBase": 313.632,
+   "hpAdd": 8.712,
+   "defenseBase": 118.8,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 2,
+   "maxLevel": 40,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 16000
+    },
+    {
+     "id": 633150,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 3
+    }
+   ]
+  },
+  {
+   "attackBase": 191.664,
+   "attackAdd": 4.356,
+   "hpBase": 383.328,
+   "hpAdd": 8.712,
+   "defenseBase": 145.2,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 3,
+   "maxLevel": 50,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 40000
+    },
+    {
+     "id": 633150,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 7
+    }
+   ]
+  },
+  {
+   "attackBase": 226.512,
+   "attackAdd": 4.356,
+   "hpBase": 453.024,
+   "hpAdd": 8.712,
+   "defenseBase": 171.6,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 4,
+   "maxLevel": 60,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 80000
+    },
+    {
+     "id": 717091,
+     "count": 6
+    },
+    {
+     "id": 866635,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "attackBase": 261.36,
+   "attackAdd": 4.356,
+   "hpBase": 522.72,
+   "hpAdd": 8.712,
+   "defenseBase": 198,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 5,
+   "maxLevel": 70,
+   "cost": [
+    {
+     "id": 29328,
+     "count": 160000
+    },
+    {
+     "id": 717091,
+     "count": 9
+    },
+    {
+     "id": 866635,
+     "count": 35
+    }
+   ]
+  },
+  {
+   "attackBase": 296.208,
+   "attackAdd": 4.356,
+   "hpBase": 592.416,
+   "hpAdd": 8.712,
+   "defenseBase": 224.4,
+   "defenseAdd": 3.3,
+   "crate": 0.05,
+   "cdmg": 0.5,
+   "aggro": 100,
+   "speedBase": 102,
+   "speedAdd": 0,
+   "promotion": 6,
+   "maxLevel": 80,
+   "cost": []
+  }
+ ],
+ "ranks": [
+  {
+   "id": 1,
+   "iconPath": "21e336b48e11c1463a129146f02e24d165410eec5c3fa7ae30a491423a408a1f",
+   "artPath": "1c33f658c3f7ea19839b361bd1b6c60f23756e6e7efbe314eaf692b7415e17b4",
+   "name": "微笑的国度",
+   "descHash": "处于【协奏】状态时，我方全体全属性抗性穿透提高<nobr>#1[i]%</nobr>。",
+   "params": [
+    0.24
+   ]
+  },
+  {
+   "id": 2,
+   "iconPath": "978b1491f0216e5f8cd91fb1b801e0b687d41604b8589c1d35e9b5923770e086",
+   "artPath": "3a9d06c608b882b7d476157e76df564b7280a7810d5ea0944a56e25583d4b86a",
+   "name": "两者的午茶",
+   "descHash": "处于【协奏】状态时，我方全体速度提高<nobr>#1[i]%</nobr>。天赋的能量恢复效果额外提高<nobr>#2[i]</nobr>点。",
+   "params": [
+    0.16,
+    1
+   ]
+  },
+  {
+   "id": 3,
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "artPath": "76c2551ec34702bdb41b20a6771cde591c75c4a8a32870acaa7af258ecc5d72c",
+   "name": "倒悬的弦宫",
+   "descHash": "战技等级+2，最多不超过<nobr>15</nobr>级，终结技等级+2，最多不超过<nobr>15</nobr>级。",
+   "params": []
+  },
+  {
+   "id": 4,
+   "iconPath": "c8b5f11986362057fe659a391ec3eb193a8c266a90e790c260ed339fa5494040",
+   "artPath": "50350af0d85d5eb9439a3b141315f3cc0e1dd538eb538a8018415888e62ee028",
+   "name": "雨滴的钥匙",
+   "descHash": "施放终结技时，解除我方全体的控制类负面状态，使我方全体在知更鸟处于【协奏】状态期间的效果抵抗提高<nobr>#1[i]%</nobr>。",
+   "params": [
+    0.5
+   ]
+  },
+  {
+   "id": 5,
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "artPath": "2f2955b5d7040846379b487d53001fb63c189026173ac24e62cbb057515c4e4f",
+   "name": "孤星的眼泪",
+   "descHash": "普攻等级+1，最多不超过<nobr>10</nobr>级，天赋等级+2，最多不超过<nobr>15</nobr>级。",
+   "params": []
+  },
+  {
+   "id": 6,
+   "iconPath": "4859dbd0db6c3f43054a37aba1cbe0c886d83963babe02a0ec70792608a7440c",
+   "artPath": "b91d0398e090f093b5ebd0c922961e628b15b979938e64398d9c118b6acc91c1",
+   "name": "月隐的午夜",
+   "descHash": "处于【协奏】状态时，终结技造成的物理属性附加伤害的暴击伤害额外提高<nobr>#2[i]%</nobr>。【月隐的午夜】效果最多触发<nobr>#1[i]</nobr>次，每次施放终结技时重置触发次数。",
+   "params": [
+    8,
+    4.5
+   ]
+  }
+ ],
+ "skillGrouping": [
+  [
+   758858
+  ],
+  [
+   642213
+  ],
+  [
+   558272
+  ],
+  [
+   474331
+  ],
+  [
+   157100
+  ]
+ ],
+ "skills": [
+  {
+   "tagHash": "单攻",
+   "descHash": "对指定敌方单体造成等同于知更鸟<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>攻击力的<span style=\"color:#FFFFFF;\">物理</span>属性伤害。",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "20",
+   "id": 758858,
+   "name": "扑翼白声",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "普攻",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.7
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.8
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.9
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      1
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      1.1
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      1.3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "辅助",
+   "descHash": "使我方全体造成的伤害提高<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>，持续<nobr>#2[i]</nobr>回合，知更鸟每回合开始时持续回合数减1。",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "30",
+   "id": 642213,
+   "name": "翎之咏叹调",
+   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "typeDescHash": "战技",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.25,
+      3
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      3
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.3,
+      3
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.325,
+      3
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.35,
+      3
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.375,
+      3
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.40625,
+      3
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.4375,
+      3
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.46875,
+      3
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.5,
+      3
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.525,
+      3
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.55,
+      3
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.575,
+      3
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.6,
+      3
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.625,
+      3
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "辅助",
+   "descHash": "知更鸟进入【协奏】状态，使除自身以外的队友立即行动。<br />处于【协奏】状态时，我方全体攻击力提高，提高数值等同于知更鸟攻击力的<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span>+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]</nobr></span>点，且我方目标每次施放攻击后，知更鸟会额外造成1次等同于其自身<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[i]%</nobr></span>攻击力的<span style=\"color:#FFFFFF;\">物理</span>属性<u>附加伤害</u>，该伤害暴击率固定为<nobr>#5[i]%</nobr>，暴击伤害固定为<nobr>#6[i]%</nobr>。<br />处于【协奏】状态时，知更鸟免疫<u>控制类负面状态</u>，【协奏】状态结束前不会进入自己的回合且无法行动。<br />行动序列上出现【协奏】倒计时，倒计时回合开始时知更鸟退出【协奏】状态并立即行动，倒计时固定拥有<nobr>#2[i]</nobr>点速度。",
+   "ultimateCost": 160,
+   "break": "0",
+   "energy": "5",
+   "id": 558272,
+   "name": "千音迭奏，群星赋格",
+   "iconPath": "8c18f6a980650b868e7d8544dc55b66266f713ba779ef9d0ffee778366d8b800",
+   "typeDescHash": "终结技",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.152,
+      90,
+      50,
+      0.72,
+      1,
+      1.5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.1596,
+      90,
+      65,
+      0.768,
+      1,
+      1.5
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1672,
+      90,
+      80,
+      0.816,
+      1,
+      1.5
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1748,
+      90,
+      95,
+      0.864,
+      1,
+      1.5
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1824,
+      90,
+      110,
+      0.912,
+      1,
+      1.5
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.19,
+      90,
+      125,
+      0.96,
+      1,
+      1.5
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1995,
+      90,
+      143.75,
+      1.02,
+      1,
+      1.5
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.209,
+      90,
+      162.5,
+      1.08,
+      1,
+      1.5
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2185,
+      90,
+      181.25,
+      1.14,
+      1,
+      1.5
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.228,
+      90,
+      200,
+      1.2,
+      1,
+      1.5
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2356,
+      90,
+      215,
+      1.248,
+      1,
+      1.5
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2432,
+      90,
+      230,
+      1.296,
+      1,
+      1.5
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2508,
+      90,
+      245,
+      1.344,
+      1,
+      1.5
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.2584,
+      90,
+      260,
+      1.392,
+      1,
+      1.5
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.266,
+      90,
+      275,
+      1.44,
+      1,
+      1.5
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "辅助",
+   "descHash": "使我方全体暴击伤害提高<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span>，且我方目标攻击敌方目标后，知更鸟额外为自身恢复<nobr>#2[i]</nobr>点能量。",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 474331,
+   "name": "调性合颂",
+   "iconPath": "641a4d2b6c02e2c482e8f3f9e4abd3218e4450d9572b0b7e4311a473a7bdddc4",
+   "typeDescHash": "天赋",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      0.05,
+      2
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.065,
+      2
+     ],
+     "level": 2,
+     "levelReq": 0,
+     "promotionReq": 1,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 2500
+      },
+      {
+       "id": 549209,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.08,
+      2
+     ],
+     "level": 3,
+     "levelReq": 0,
+     "promotionReq": 2,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 5000
+      },
+      {
+       "id": 874346,
+       "count": 3
+      },
+      {
+       "id": 549209,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.095,
+      2
+     ],
+     "level": 4,
+     "levelReq": 0,
+     "promotionReq": 3,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 10000
+      },
+      {
+       "id": 589819,
+       "count": 3
+      },
+      {
+       "id": 633150,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.11,
+      2
+     ],
+     "level": 5,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 20000
+      },
+      {
+       "id": 589819,
+       "count": 5
+      },
+      {
+       "id": 633150,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.125,
+      2
+     ],
+     "level": 6,
+     "levelReq": 0,
+     "promotionReq": 4,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 30000
+      },
+      {
+       "id": 589819,
+       "count": 7
+      },
+      {
+       "id": 633150,
+       "count": 6
+      }
+     ]
+    },
+    {
+     "params": [
+      0.14375,
+      2
+     ],
+     "level": 7,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 45000
+      },
+      {
+       "id": 673760,
+       "count": 3
+      },
+      {
+       "id": 717091,
+       "count": 3
+      }
+     ]
+    },
+    {
+     "params": [
+      0.1625,
+      2
+     ],
+     "level": 8,
+     "levelReq": 0,
+     "promotionReq": 5,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 80000
+      },
+      {
+       "id": 673760,
+       "count": 5
+      },
+      {
+       "id": 470781,
+       "count": 1
+      },
+      {
+       "id": 717091,
+       "count": 4
+      }
+     ]
+    },
+    {
+     "params": [
+      0.18125,
+      2
+     ],
+     "level": 9,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 160000
+      },
+      {
+       "id": 673760,
+       "count": 8
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.2,
+      2
+     ],
+     "level": 10,
+     "levelReq": 0,
+     "promotionReq": 6,
+     "cost": [
+      {
+       "id": 29328,
+       "count": 300000
+      },
+      {
+       "id": 673760,
+       "count": 14
+      },
+      {
+       "id": 125435,
+       "count": 1
+      },
+      {
+       "id": 470781,
+       "count": 1
+      }
+     ]
+    },
+    {
+     "params": [
+      0.215,
+      2
+     ],
+     "level": 11,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.23,
+      2
+     ],
+     "level": 12,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.245,
+      2
+     ],
+     "level": 13,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.26,
+      2
+     ],
+     "level": 14,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    },
+    {
+     "params": [
+      0.275,
+      2
+     ],
+     "level": 15,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "",
+   "descHash": "攻击敌人，进入战斗后削弱敌方目标对应属性韧性。",
+   "ultimateCost": 0,
+   "break": "30",
+   "energy": "0",
+   "id": 273745,
+   "name": "攻击",
+   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "typeDescHash": "",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  },
+  {
+   "tagHash": "辅助",
+   "descHash": "施放秘技后，在自身周围展开持续<nobr>#1[i]</nobr>秒的特殊领域，处于领域内的敌人不会对知更鸟发动攻击，且在领域展开期间跟随知更鸟。领域展开期间进入战斗后，每个波次开始时知更鸟恢复<nobr>#2[i]</nobr>点能量。我方制造的领域效果最多存在1个。",
+   "ultimateCost": 0,
+   "break": "0",
+   "energy": "0",
+   "id": 157100,
+   "name": "酣醉序曲",
+   "iconPath": "27ed98d04302103286581f7ffa736edd301561bc6ff2fb9cadc5ae97ec4148f4",
+   "typeDescHash": "秘技",
+   "levelReq": 0,
+   "promotionReq": 0,
+   "levelData": [
+    {
+     "params": [
+      15,
+      5
+     ],
+     "level": 1,
+     "levelReq": 0,
+     "promotionReq": 0,
+     "cost": []
+    }
+   ]
+  }
+ ],
+ "skillTreePoints": [
+  {
+   "id": 1309101,
+   "anchor": 6,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309202,
+     "anchor": 10,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309203,
+       "anchor": 11,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363456,
+        "name": "攻击强化",
+        "levelReq": 0,
+        "promotionReq": 3,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "攻击力",
+          "value": 0.04
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 10000
+         },
+         {
+          "id": 589819,
+          "count": 3
+         },
+         {
+          "id": 633150,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363455,
+      "name": "生命强化",
+      "levelReq": 0,
+      "promotionReq": 2,
+      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "statusList": [
+       {
+        "key": "生命值",
+        "value": 0.04
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 549209,
+        "count": 6
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "战斗开始时，自身行动提前<nobr>#1[i]%</nobr>。",
+    "ultimateCost": 0,
+    "id": 363359,
+    "name": "华彩花腔",
+    "iconPath": "c4d2f5cc476f3512e459714a55ecfd4ca18c450af273734de91f55b6d11ba8fe",
+    "levelReq": 0,
+    "promotionReq": 2,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 2,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 5000
+       },
+       {
+        "id": 874346,
+        "count": 3
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309102,
+   "anchor": 7,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309205,
+     "anchor": 13,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309206,
+       "anchor": 14,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363451,
+        "name": "生命强化",
+        "levelReq": 0,
+        "promotionReq": 5,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "生命值",
+          "value": 0.06
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 45000
+         },
+         {
+          "id": 673760,
+          "count": 3
+         },
+         {
+          "id": 717091,
+          "count": 3
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363454,
+      "name": "攻击强化",
+      "levelReq": 0,
+      "promotionReq": 4,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "攻击力",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 633150,
+        "count": 4
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "处于【协奏】状态时，我方全体发动追加攻击造成的暴击伤害提高<nobr>#1[i]%</nobr>。",
+    "ultimateCost": 0,
+    "id": 363362,
+    "name": "即兴装饰",
+    "iconPath": "73a8b04c935054e24f9433a44c751dd3956335aeed2bbba2abbd0f49170b1c20",
+    "levelReq": 0,
+    "promotionReq": 4,
+    "levelData": [
+     {
+      "params": [
+       0.25
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 4,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 20000
+       },
+       {
+        "id": 589819,
+        "count": 5
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309103,
+   "anchor": 8,
+   "type": 1,
+   "children": [
+    {
+     "id": 1309208,
+     "anchor": 16,
+     "type": 2,
+     "children": [
+      {
+       "id": 1309209,
+       "anchor": 17,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 363466,
+        "name": "生命强化",
+        "levelReq": 75,
+        "promotionReq": 0,
+        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "statusList": [
+         {
+          "key": "生命值",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      },
+      {
+       "id": 1309210,
+       "anchor": 18,
+       "type": 2,
+       "children": [],
+       "embedBuff": {
+        "id": 279516,
+        "name": "攻击强化",
+        "levelReq": 80,
+        "promotionReq": 0,
+        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "statusList": [
+         {
+          "key": "攻击力",
+          "value": 0.08
+         }
+        ],
+        "cost": [
+         {
+          "id": 29328,
+          "count": 160000
+         },
+         {
+          "id": 673760,
+          "count": 8
+         },
+         {
+          "id": 717091,
+          "count": 8
+         }
+        ]
+       }
+      }
+     ],
+     "embedBuff": {
+      "id": 363465,
+      "name": "速度强化",
+      "levelReq": 0,
+      "promotionReq": 6,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "速度",
+        "value": 3,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 717091,
+        "count": 8
+       }
+      ]
+     }
+    }
+   ],
+   "embedBonusSkill": {
+    "descHash": "施放战技时额外恢复<nobr>#1[i]</nobr>点能量。",
+    "ultimateCost": 0,
+    "id": 363361,
+    "name": "模进乐段",
+    "iconPath": "1b682ac043a69e0e67e377b998430c71e7f9dc506dfef5c6a6e14513b5e04e96",
+    "levelReq": 0,
+    "promotionReq": 6,
+    "levelData": [
+     {
+      "params": [
+       5
+      ],
+      "level": 1,
+      "levelReq": 0,
+      "promotionReq": 6,
+      "cost": [
+       {
+        "id": 29328,
+        "count": 160000
+       },
+       {
+        "id": 673760,
+        "count": 8
+       },
+       {
+        "id": 125435,
+        "count": 1
+       },
+       {
+        "id": 470781,
+        "count": 1
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 1309201,
+   "anchor": 9,
+   "type": 2,
+   "children": [
+    {
+     "id": 1309204,
+     "anchor": 12,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363453,
+      "name": "速度强化",
+      "levelReq": 0,
+      "promotionReq": 3,
+      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "statusList": [
+       {
+        "key": "速度",
+        "value": 2,
+        "int": true
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 10000
+       },
+       {
+        "id": 589819,
+        "count": 3
+       },
+       {
+        "id": 633150,
+        "count": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": 1309207,
+     "anchor": 15,
+     "type": 2,
+     "children": [],
+     "embedBuff": {
+      "id": 363452,
+      "name": "攻击强化",
+      "levelReq": 0,
+      "promotionReq": 5,
+      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "statusList": [
+       {
+        "key": "攻击力",
+        "value": 0.06
+       }
+      ],
+      "cost": [
+       {
+        "id": 29328,
+        "count": 45000
+       },
+       {
+        "id": 673760,
+        "count": 3
+       },
+       {
+        "id": 717091,
+        "count": 3
+       }
+      ]
+     }
+    }
+   ],
+   "embedBuff": {
+    "id": 363458,
+    "name": "攻击强化",
+    "levelReq": 1,
+    "promotionReq": 0,
+    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "statusList": [
+     {
+      "key": "攻击力",
+      "value": 0.04
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 2500
+     },
+     {
+      "id": 549209,
+      "count": 2
+     }
+    ]
+   }
+  }
+ ],
+ "relicRecommend": {
+  "twoPcSets": [],
+  "fourPcSets": [],
+  "props": [
+   {
+    "relicTypeHash": "躯干",
+    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "propertyName": "攻击力",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "脚部",
+    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "propertyName": "攻击力",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "位面球",
+    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "propertyName": "攻击力",
+    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+   },
+   {
+    "relicTypeHash": "连结绳",
+    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "propertyName": "能量恢复效率",
+    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+   }
+  ]
+ },
+ "voiceItems": [
+  {
+   "id": 1,
+   "title": "初次见面",
+   "text": "晚上好，我是来自家族的歌者知更鸟。不必拘谨，这只是一次舞台下的私人问候，能为我抽些时间吗？",
+   "unlockRequirement": "",
+   "cnUrl": "163097ee1c36e14e4f0988edd057d3f96289ac15992d0add187759540955556c",
+   "jpUrl": "24d8018a55d0126717920d218bd2ef1783e408f8167b190a92fd5445bdad2517",
+   "enUrl": "23950a9cd93277faaee89a9236f6e188200a625d2a207ba0d167187199fdc63c",
+   "krUrl": "f71747b2c9352d3336dc1e52540f027e15f5fd4f784f6926e8961a67f79c49a3"
+  },
+  {
+   "id": 2,
+   "title": "问候",
+   "text": "又见面了，这回想听什么歌？",
+   "unlockRequirement": "",
+   "cnUrl": "9b51cbd95e26a12327596799913283cbc60336f106f79bf38bc3f0354a9bde64",
+   "jpUrl": "ae322d661f66b697ba13aa67980ef5b0fb26346e1fc0bc70a792da6b71826077",
+   "enUrl": "c22bb76807f3919403dadee8a2cf7162cc9396176984ccb74bf9b1bb34e742b4",
+   "krUrl": "b4fc09da0191ec99f2d96f960ca39d1bb24b4a5539ff37f73d2c174e698bcd99"
+  },
+  {
+   "id": 3,
+   "title": "道别",
+   "text": "下次再见吧，希望我的歌声能为你带来一夜好梦。",
+   "unlockRequirement": "",
+   "cnUrl": "4f11de1a288051c9a5b9486c5829bc19c4d2752f51caf827fabc84daa3fa84ba",
+   "jpUrl": "05b93daf746fac9bc7f131d3abbac4b5e2d8c824703ade6acc5502afd6ea954c",
+   "enUrl": "36ac96ff54d335e7e4bbf748007015d93d1e0d829e692329da2cea8b79eeaabd",
+   "krUrl": "d77e7a9532883093bfadf69bf2ae28af040d5710781831556580988035a645d9"
+  },
+  {
+   "id": 4,
+   "title": "关于自己•创作",
+   "text": "音乐或许有所谓的创作窍门，但歌曲之所以动人，除去技巧之外，引起共鸣的总是歌声中蕴含的情感与决心。",
+   "unlockRequirement": "",
+   "cnUrl": "688b6fceff94a18dbf92a052fc3646c85e2123a061e4453739dd449cc32b49b1",
+   "jpUrl": "47379f1fbfffb9a2e6c2960aa1abc258ae7e3784782fb820f4907e935a3e56bb",
+   "enUrl": "6300ac0662c79bb4f4cb94b5eca1ed30ea598ace1b298fdc6ec8277b0efa4c59",
+   "krUrl": "830c7f8966004a5b9aa6d8bb6bf05f29a0e2ba48f31c478019ba26a25788059b"
+  },
+  {
+   "id": 5,
+   "title": "关于自己•歌声",
+   "text": "人们常说食客的口味越刁钻，厨师的技艺才会越精湛。不管别人怎么说，我自己永远会做那个最刁钻的听众。",
+   "unlockRequirement": "",
+   "cnUrl": "2339f4577df934b8595a936459d8640b854a696b00cdef52984102c0cdbb627a",
+   "jpUrl": "f285f93414e97d622d1393e2ac59197e24f0eb04e5ba736aad15693f1ae9fb69",
+   "enUrl": "73dbd75d59bf1f0f7d63a700e63153223b23db05a4dc4dc3e1158eed6a6f9287",
+   "krUrl": "df892291b56570c7a62f4f69876a63a3babe0610b3376daeeb9b7319494df21c"
+  },
+  {
+   "id": 6,
+   "title": "闲谈•唱片",
+   "text": "为了留住那一首歌的触动，前人将音乐封存于唱片。我的收藏来自于不同的星球，甚至部分唱片的文明早已消弭…但留下的感动将化为永恒。",
+   "unlockRequirement": "",
+   "cnUrl": "cc7105037e3aade3c7be84908fa6b77867448c7242a6bea23301d7625a0ebe77",
+   "jpUrl": "91cf48e514af59ac2c06a1277211f854fcb36c442ebd4d883fa0ba51e0a1e295",
+   "enUrl": "c472be66924d397bca6e35cf27e8b44b6b0c935ec9fb67210a55753f66fbbed3",
+   "krUrl": "5d067936271fb81b04fff176b6f7011d2886fc64e2507fbf645a8102437cf887"
+  },
+  {
+   "id": 7,
+   "title": "闲谈•第一首歌",
+   "text": "小时候哥哥常常会哼摇篮曲哄我入睡，那是我学会的第一首曲子…虽然它没有歌词，但依旧是我最喜欢的一段旋律。",
+   "unlockRequirement": "",
+   "cnUrl": "f2e82cb57484fc489ba3ff7f87e83b04bdf315cd430db9bf5eeb9ffdc23c3eea",
+   "jpUrl": "6c088ee98b648b7acbb3ebfb203011106fd1ab935a276154282ae5a96787f323",
+   "enUrl": "07c924b1e2df6b8f6ad3962db37ea0d66f2a8968f08613b5689a623795431a95",
+   "krUrl": "8971245c67cea31dd7ae78169d8d1de73f744ff6d9e7d0304d90cd3aff59a20c"
+  },
+  {
+   "id": 8,
+   "title": "爱好",
+   "text": "偶尔戴上假发，换个妆容，再戴一副眼镜——这样去哪都不用担心了~",
+   "unlockRequirement": "",
+   "cnUrl": "486cf60e5a8ca30b2e75b89065c5cde9ccaa660fd9473510f7fc79e8867f902d",
+   "jpUrl": "b4bf6d08424c8b0c3765cc5e27973f562f1e3388afad696d2a02928452086dda",
+   "enUrl": "73eddd42c8d0995c610ba593619cd206685b828b4685bd76ca5b9cf2813707db",
+   "krUrl": "38b1fc299c988e35e6aabd907811b9c18e641ab414daf8b84dcb1466b97d131f"
+  },
+  {
+   "id": 9,
+   "title": "烦恼",
+   "text": "没有巡演的日子里，我更喜欢离开都市去感受自然的声音…可惜，匹诺康尼的梦境中没有真正的森林，我也只能和梦里的「小鸟」聊聊天了。",
+   "unlockRequirement": "",
+   "cnUrl": "3e7344dbae6b546fe379f4dc1a73f6e00971aee0675c47578b12ab04c14caff1",
+   "jpUrl": "e6cc186707f64b993fa5bff134c8f67baf001c8e6fad12273103ba6465d69d41",
+   "enUrl": "e76a2d3cab7c2c1232307c69b90383ed90756bafe085e1b6954dea11ab38f191",
+   "krUrl": "335bfef4e14f4ef2898d23979e8616c4cc37289886343d2d057220b5848421e1"
+  },
+  {
+   "id": 10,
+   "title": "分享",
+   "text": "「同谐」的家庭中并无尊卑，所有人都能沐浴在千面神的颂歌下，我们共享一切苦难与幸福。希望我的歌声也能为所有人带来安宁。",
+   "unlockRequirement": "",
+   "cnUrl": "bd9170ca1103d3b7b096a33aa749bbfdbf83f139263b694259544d448a5691ce",
+   "jpUrl": "eab2266363c6c7ba7b93e9c87c03c777da008c46518e861ba88ead5f87457c27",
+   "enUrl": "b50dd8c8054712fcb737abf5c22c14726c3c101ba36105a013d269a0ea25f5c6",
+   "krUrl": "6948c6fa75e3d8b0b7b1270d6751aebf2ff7d251543896ef8b063697788c003d"
+  },
+  {
+   "id": 11,
+   "title": "见闻",
+   "text": "艾普瑟隆的发行商为我出过几张专辑，也邀请我过去住过一段时间。那颗星球的氛围很像匹诺康尼，但比起艺术，人们似乎更关心艺术所能带来的巨额利润……",
+   "unlockRequirement": "",
+   "cnUrl": "de4049aacbc622aa90f398cef6aa98136be654969a26e9ae8170a2e211c69945",
+   "jpUrl": "4bb34c6121053c32c912c2b872d9af8350756a644193110a9e0723aaadf542c2",
+   "enUrl": "1c6a5fd11874d540879c58980146b1df38b2a136f337b3f554101a80579d44bd",
+   "krUrl": "307c1199a1514c43c4f416a60af30c371bfc7e5dc2317fbbe3a9c176306dd402"
+  },
+  {
+   "id": 12,
+   "title": "关于星期日",
+   "text": "哥哥或许认为，自己要承担起更重的责任。他总会认真倾听我的烦恼，却很少向我吐露心声…可能在他心中，我仍旧是妹妹吧。",
+   "unlockRequirement": "",
+   "cnUrl": "031976c85774b81e38e4b3d196b2d168379229eb0b4d4292cc8f2d0f4ad2fe54",
+   "jpUrl": "22240df81aca424f736d2e923c4089a5fdc2e318f9803717777cee6aeefa1462",
+   "enUrl": "0a70106fb5e67d17d38d1fac21d7663eb51b515e007cd78af31a3370453254af",
+   "krUrl": "2e4b14b161718fd1af731b6b028fb3697b89367d8a20988b1375bc7e98862cb9"
+  },
+  {
+   "id": 13,
+   "title": "关于星期日·二",
+   "text": "Coming soon - Stay tuned!",
+   "unlockRequirement": "完成开拓任务「然后，在第八天…」后解锁",
+   "cnUrl": "",
+   "jpUrl": "",
+   "enUrl": "",
+   "krUrl": ""
+  },
+  {
+   "id": 14,
+   "title": "关于加拉赫",
+   "text": "加拉赫先生总是将自己的温柔藏起来呢…虽然平常看起来有些散漫，但关键时刻永远会站在同伴身侧。",
+   "unlockRequirement": "",
+   "cnUrl": "094e1e6a1b5f106ce4096fcfaff51c550b9cd91feeb48118f30b3db57f007072",
+   "jpUrl": "3816c421e68adc45232e14852d665f7eeaeaa873be79ab730bb2cc4ff6aedf71",
+   "enUrl": "5218eda77365ad468cde6bf6dee33a8397a315fea8f4b1c244edd35aa78d5ed4",
+   "krUrl": "dc32f45e0e78382197ea35bfb31b6248fb17b69490308f6744c8d90ef1de9062"
+  },
+  {
+   "id": 15,
+   "title": "关于黑天鹅",
+   "text": "黑天鹅小姐的谋略与手段，就如她的舞蹈一般周全曼妙。期待未来我们有共舞的那一刻。",
+   "unlockRequirement": "",
+   "cnUrl": "e6377d6382f3075753a702bd405d7bb08da167d74465be0077d71d55db34cdc6",
+   "jpUrl": "9c6d53abbdb152060e5a5f0fe18d70b7f9a0301221a5a525b91cfcb84793229b",
+   "enUrl": "5e7429d3a0772780ec058009c35b6adf69813805e8369cfb7268ca40f19dcc40",
+   "krUrl": "62a80228b83571581c86c40a7c7c467e824a6e639bb141fc957b2ee7fcabb430"
+  },
+  {
+   "id": 16,
+   "title": "星魂激活",
+   "text": "听，谐乐的低吟更加清晰了……",
+   "unlockRequirement": "",
+   "cnUrl": "722216acf341257a7a120e7873798d38fe7b3c5a733cd0b6b37595ada8269780",
+   "jpUrl": "c9391701f57ee5437ad90bbdd3215f46121af7392489e802acee1634111f0bf0",
+   "enUrl": "6050f1c16c7070c473e4799dcc2ed0d5bbe76600ef6df2d0ab3aba2f6201df4e",
+   "krUrl": "a73c5f61f877c9ed6281c7a320fafd684851e135a55b22df2e6bcc1e451f7e8e"
+  },
+  {
+   "id": 17,
+   "title": "角色晋阶",
+   "text": "坚持练习才能保证最佳状态。",
+   "unlockRequirement": "",
+   "cnUrl": "71101847ee71d418cd681d507515e3892e49a5b964fe63c6bc467853a7704ab9",
+   "jpUrl": "a7790bb108ceceef132cba9131e91b99acc050022ca2ee261c36d1d6f979217f",
+   "enUrl": "edd80ccc9713259dd2b0f51f9b9c50c372350cfe604a08e65174a649c1fb89a7",
+   "krUrl": "786f09667b399a2afa85caba530af9beafacbfd588c5a1b1e654248839801929"
+  },
+  {
+   "id": 18,
+   "title": "角色满级",
+   "text": "万事俱备，到了登台演出的时刻了。",
+   "unlockRequirement": "",
+   "cnUrl": "b4dd940589635b52c57e85227283185ba8fc551eaf5174c8d72772d81c12a345",
+   "jpUrl": "f311fa7da2f76eda8f8356605a4ccb54ae430ad80bffd7d7e3533fd92ac27cde",
+   "enUrl": "4b9231fdc94685cd852cf8d46b45705f8c7955535f67f30756fbc931f0ff45e3",
+   "krUrl": "4327a458028a630804c91b12dd07a577ad5d67115d0f446300f1ef5c0f36565c"
+  },
+  {
+   "id": 19,
+   "title": "行迹激活",
+   "text": "乐曲之外的准备也不能懈怠。",
+   "unlockRequirement": "",
+   "cnUrl": "9a311550fb4453065f464239b38df23c75c1d0f73d18a1f7a3d221b06ae32d8c",
+   "jpUrl": "ce831fa27460b176512431cde2ede263d4517a9a3835b9311a6df8555a55c2cd",
+   "enUrl": "37b99801eb27e1912cf98c02f2a9e48c79d2e7140331a0d1913353678a8b27fb",
+   "krUrl": "c288f20e889e5123ef91e0d9ae801a5f6e07531dce1012fdf6a1de57d38eda49"
+  },
+  {
+   "id": 20,
+   "title": "队伍编成•开拓者",
+   "text": "别担心，我会一直陪在你身边。",
+   "unlockRequirement": "",
+   "cnUrl": "ac10aec6dc3851699b43acab717e0f898bad6f96fec889f6bcbba7380b66c859",
+   "jpUrl": "80e5a40574f15eba484404473a5631b38124bb8e7de604c75b61fb613ab8e3ea",
+   "enUrl": "293f81588619f67b00f49ef386ec988045b0471140f0befa5bcb0430004e238d",
+   "krUrl": "d6004796b1fdbae17a715f826a91ea815c9d83b29582d8aab8b2bc4f10e29842"
+  },
+  {
+   "id": 21,
+   "title": "队伍编成•加拉赫",
+   "text": "背后的敌人就拜托你了，加拉赫先生。",
+   "unlockRequirement": "",
+   "cnUrl": "435217d55a9b18332bd4f9d33b08f13967357281ac059b566a357961c8edc913",
+   "jpUrl": "4e5965f2daebdfba4c133016fe0dd0b357b991dbbfc636987c1db2be5beba7b4",
+   "enUrl": "f9250f7ab1e263e0ab96f49e6bf0b232b7fe6967f0cb3e9a8ad9b35bdaf3ccdf",
+   "krUrl": "44d5936c9d20217906d5f76da708dca7ebe66500b0c2eb8ae16004bcf6862f8a"
+  },
+  {
+   "id": 22,
+   "title": "队伍编成•黑天鹅",
+   "text": "愿这首乐曲，与黑天鹅小姐的舞步相称。",
+   "unlockRequirement": "",
+   "cnUrl": "3543edb6170f41eb7b7d3db482511b12b97a6b3e2a903d9e492b9193ffd590f8",
+   "jpUrl": "ebdf81f0702e6bdf88189a11c21bf9e8268d305cf57f6ff055ab18a5e80a044c",
+   "enUrl": "18ecbecb721b31d6f20bb00e57cfa7b2e0b338254231904b69f04c913bf121cb",
+   "krUrl": "eb19abfff0ff428d7ad3d30474a83fd340066dcb33ffd9713f9b1848cba4af28"
+  },
+  {
+   "id": 51,
+   "title": "战斗开始•弱点击破",
+   "text": "聆听生命的终曲。",
+   "unlockRequirement": "",
+   "cnUrl": "2e1bdbf8d71f7db85cb161b3e54e37bacbcadb3ab9955ff8e5ab21de1c1c096b",
+   "jpUrl": "b2da4684936e58f3917b62f5f68a196984b9b71328da792623ed69c3f26fe8f6",
+   "enUrl": "7d4c2bc8272c2d5696ab86ecfd88a68a4271af4cf516c72e6fc1697dbfbe2291",
+   "krUrl": "f80ce3b2d39158efff4c5879fa71d7dbc4e41e7c02cc2de262cd2f5ffb0cbbb8"
+  },
+  {
+   "id": 52,
+   "title": "战斗开始•危险预警",
+   "text": "危险的心声。",
+   "unlockRequirement": "",
+   "cnUrl": "27f67972476542e12b4ddb56d51c087961665d6fd7fa988d3ad4065c4ab7bd74",
+   "jpUrl": "4ccfe3672b4123be9585ae55e9a17d8e0e304fe2f86387bdbab04073743a78b8",
+   "enUrl": "b6fc1cea0a520030e9f5d639e6b334b15e3d174b11bd598770f6cc6e3b708436",
+   "krUrl": "97346ba2956f630c59744bf47f8ca136df22f6c0efaa4bc80dcdcb7117665fad"
+  },
+  {
+   "id": 53,
+   "title": "回合开始•一",
+   "text": "愿歌声为我们带来胜利。",
+   "unlockRequirement": "",
+   "cnUrl": "f7225b89de2b2a4e48112fa36301ef7d0c605332ff0240c4ae095a3a78af2131",
+   "jpUrl": "7a5d0cfa241c3a2c61eb8400102a79dd2453b326f8cb3be90751666993a44ea3",
+   "enUrl": "745768793edc0708e4f48808ecd6cbd2c0b70268a392079fa85c32b4ccb1b73b",
+   "krUrl": "714205e1f88b6d0371531e91142206bd541ab1628d96036122de72af1079d190"
+  },
+  {
+   "id": 54,
+   "title": "回合开始•二",
+   "text": "希望世间纷争不再。",
+   "unlockRequirement": "",
+   "cnUrl": "37e1764a88cc303867629152f6414e321d48793df87bb1b158c3ee8263ea1fb7",
+   "jpUrl": "ad290960ba6b33447789ddb465cb12a7dd1997f98455e074cfe3302a9a6e904e",
+   "enUrl": "84eff91000ed7accbcb8b351dca5abb58c358d6910ad86ef10ce2f5916e53cd3",
+   "krUrl": "c12a026653edb28d6037c64f7cdcf02a813b128d04b121472fb9980a5d7056e5"
+  },
+  {
+   "id": 55,
+   "title": "回合待机",
+   "text": "该进入新乐章了。",
+   "unlockRequirement": "",
+   "cnUrl": "dd81cba252fd8885f7eff4936640ff44f2394e8bf92b619b6fa2a48225866d4c",
+   "jpUrl": "af3e2dd84040c0157063b58a3e67e5ffe217847fac1098f2536abdb9a961c766",
+   "enUrl": "587ad6acbee703f3fd9cb961c2fc39904052bd85e8e5dca6b1c67ad4c4738e04",
+   "krUrl": "2a59f4cc6b0c88da2a85db55a080df2f8fc5d7a711af05db456340b86ad7ee92"
+  },
+  {
+   "id": 56,
+   "title": "普攻",
+   "text": "请安静下来。",
+   "unlockRequirement": "",
+   "cnUrl": "5f42def6c467791bbbb85216fd64b4276fc81017773d20cffdb15cbacd07eb9e",
+   "jpUrl": "aa97384e0434af80389896fc0698bc90b617e7354083a7621b9cb53ea031745b",
+   "enUrl": "743afba9034af96be91a6b37bd515a0e07844ed1b1ae7c25957259cec2abdbd8",
+   "krUrl": "8281284d7eeca909eb76b073f170b2d78d9de2002af675bc2d6e5f5ef5ee5678"
+  },
+  {
+   "id": 57,
+   "title": "战技•一",
+   "text": "谐乐，即将齐奏。",
+   "unlockRequirement": "",
+   "cnUrl": "0330b2961f5a38dc115830d7992e2d009cdbd0b6734e8d81136a43a61a9a97ed",
+   "jpUrl": "28693e29fded0b6c61a3733a6897702ca6043288fbceff92fa54b72b9128b109",
+   "enUrl": "47fe307826102b6e07e9bdd24b4ad85917f0592e26f1907ac90d487a4f840e6d",
+   "krUrl": "7a6b5475ed74de66ed71766c4e1cfaa748964c7619f43728028e222b15f4799f"
+  },
+  {
+   "id": 58,
+   "title": "战技•二",
+   "text": "万籁，再次共鸣。",
+   "unlockRequirement": "",
+   "cnUrl": "3812779efa3c3f34e77fb495180e5596d277ba3baab932c891f4ea8719896697",
+   "jpUrl": "8c878ff1d82c60863f61d3f48302245310e707a7eb95110653be6659c8b98a9e",
+   "enUrl": "7f41a837fb37a3ebc2b8d91a951c819d3b2d9dbb420dabce0d38e6ba8252174c",
+   "krUrl": "011c29b129095579b55388ca6c4db0b75ccbf15d9ceadd83c20a932f830111ad"
+  },
+  {
+   "id": 59,
+   "title": "轻受击",
+   "text": "没事，没事的……",
+   "unlockRequirement": "",
+   "cnUrl": "3405186fbcee5cfb0591eab32663a77ba39447b9e9f4263fbf53718b6943d8fc",
+   "jpUrl": "1efe1ccf74a850eda68198b0fdd238522bcdb2063f35dfaeb3d10f8db773913d",
+   "enUrl": "84bbdaedc87366625d1d3675177af38cdf40f523bf839437a72382a9d849c7f6",
+   "krUrl": "201687398a8223ea735d0c9634b5baa11474b9ffa09aa44baa1811d7ea1921bf"
+  },
+  {
+   "id": 60,
+   "title": "重受击",
+   "text": "有点…疼……",
+   "unlockRequirement": "",
+   "cnUrl": "094cd10dec1021f6c6c6078f294be75a99f089828a082235fe9a74288bd9ba87",
+   "jpUrl": "ccc350814422973673ce7425f9dccd6d2ed41a8ff674f119be7e221deb98eba5",
+   "enUrl": "6aed96ce70b81b98c73e9ba9e187ddd412c60b0f519dfec50ab1dc3b6b59a3c7",
+   "krUrl": "c1cda97a915142c0e9172c3b14d5a972c3cb4aacd5211d305300404440df19b1"
+  },
+  {
+   "id": 61,
+   "title": "终结技•激活",
+   "text": "今夜，灵魂彼此相拥。",
+   "unlockRequirement": "",
+   "cnUrl": "629acad382e51ec28f3ff19a0f20ba57f7127b520c59c7c4c9b06bb022a78155",
+   "jpUrl": "cbdb4d49403c32f4664e631f1376da9163c22278fb4620c34446ffcf716ae79f",
+   "enUrl": "55d83534d262c072cc824fbdeb3ac15ceb86f96000c3560433e8157d3687e22c",
+   "krUrl": "09afb296c68577c5de9ac5f6e1704c4ac11b5f824399dd1a376aaa721d342927"
+  },
+  {
+   "id": 62,
+   "title": "终结技•施放",
+   "text": "今夜，群星因我回响。",
+   "unlockRequirement": "",
+   "cnUrl": "ff0fc27c48d9203c00ed9651d126d0a6cfd3d9efb1ac4b4691e76bd0276dba54",
+   "jpUrl": "a15855eb547ea84f789fa6b22396572ebf35b8f05a3fea713b0632edbc90478d",
+   "enUrl": "5e5597fbbc012ec3985361f454172cb731651d29b4073596e31d06f384465358",
+   "krUrl": "20cca19902fddb1bded9c0647d4e35361a0a2c4842e67367355c1cea35f95307"
+  },
+  {
+   "id": 63,
+   "title": "无法战斗",
+   "text": "演出…还没…",
+   "unlockRequirement": "",
+   "cnUrl": "553ce56e56a39b5338ccdbea468b743a02d4c3cfe458be36c60dce5db7d80f6b",
+   "jpUrl": "f78ba2593d114bce30dfc8d28eed04ac3fd653b880edb2f64567170ebc702ec1",
+   "enUrl": "74ccd2efae074ddc3e6384e707fad7cfc830fafb13a072e8ccbd4a521eab18be",
+   "krUrl": "782d1d8580fb9cb64ab52dd227ac881dbfc40269ac298740087714999c6572e6"
+  },
+  {
+   "id": 64,
+   "title": "重回战斗",
+   "text": "我还能继续。",
+   "unlockRequirement": "",
+   "cnUrl": "06a1d247db237608ee8e6f9a723d67970e5cc50b569efe8e5b39a378eb98c6cf",
+   "jpUrl": "2e0a05b6b237639cd354707b0f49f5525e0ae2f7ee4c1fd1dd5e09d6f4e84284",
+   "enUrl": "5993c06a1849276f094f3d531dc2b840a11d4f1e7e157d5f33bc5ddd2f81fcd7",
+   "krUrl": "5addda09e80f221ad83e652f0d805093f70ead56ac889e95d13c369a71a0d3f6"
+  },
+  {
+   "id": 65,
+   "title": "回复生命",
+   "text": "谢谢，喉咙舒服多了。",
+   "unlockRequirement": "",
+   "cnUrl": "641af788dc9a5c6bdf761d7e40f6dcbb493e1e9e1c4b16921e2fa261d60f3593",
+   "jpUrl": "506d453e8260b372d1be7983e336744862ebe5a285ce7ee34a2e82e52960aa4e",
+   "enUrl": "27098ef1d1e94b924d8ba4b3043e3d242f695176a0e6f4d3f0a7bf1e90823aef",
+   "krUrl": "436c37d10005c486888978553a4df12022254e7a9d7888922f182309e75a4efd"
+  },
+  {
+   "id": 66,
+   "title": "秘技",
+   "text": "演出开始~",
+   "unlockRequirement": "",
+   "cnUrl": "ae4313d5268b0af84c52c2d3c904ad5ef548ecbc70d069d835cfca6aab688927",
+   "jpUrl": "af37dd347c9b722ed38e459a2b4995a7ea6a64f9f47cbf34251a24d178256941",
+   "enUrl": "595a43a8d08d9df9380372621656b312705d001fb874aa40d59ad5b5d65f5493",
+   "krUrl": "e8fbc2af858be306842ab0b1c266c77855a0cb81ab48553dc1460608865e5653"
+  },
+  {
+   "id": 67,
+   "title": "战斗胜利",
+   "text": "愿你能在歌中寻得安宁。",
+   "unlockRequirement": "",
+   "cnUrl": "88521e0610b438ff5931a4886fd449e8e76fcc803116abadd94ded7c4eca24fe",
+   "jpUrl": "ed02862de0512baa630d91ad855fd5b256519991e32f8c78bf9465e1cfadda4b",
+   "enUrl": "c037f54ed9ed2b04464e5d69b4720993971431e15fa960f1e73fda258a17b044",
+   "krUrl": "e9a81b882f826ed9e38e3cef8df179c51e52106548eb4e837725d07968a51cf1"
+  },
+  {
+   "id": 68,
+   "title": "开启战利品•一",
+   "text": "嗯，不错不错。",
+   "unlockRequirement": "",
+   "cnUrl": "67af6959f2f48c52933ffc6368966f508fb75d6fae4dc30d7b1b48e980c2c6e2",
+   "jpUrl": "53e81979f484dba9adf673fbcf6ad4f6f478f7fe711f1b81635e8cf9aad574d1",
+   "enUrl": "9694afa29fc1e6de78582e23d013eb08c4dfcfcf6b11345e5d3a38f4bd1bd8e0",
+   "krUrl": "f503303ef0a8177402633595b6f6e1e087f4536d0aee4dc90a54f8fc13ddbb49"
+  },
+  {
+   "id": 69,
+   "title": "开启战利品•二",
+   "text": "我喜欢惊喜~",
+   "unlockRequirement": "",
+   "cnUrl": "66080e1866d98958baf234090dd3f29c8d6f0f896b11f8ec383a852b63f9b30a",
+   "jpUrl": "dcd6974b03b18d0d84528a73859ba19d188a6923de9d8f1df57f7c67068d032b",
+   "enUrl": "de1ca4551bdbf20ad1e7ba1a179d842ff84c9eea446dfc334f4b975d23c609da",
+   "krUrl": "cb217c816899d8e9f74f7c7ad3d2db7dadac5c06f0f7cedd1a93c9546f8327fe"
+  },
+  {
+   "id": 70,
+   "title": "开启贵重战利品",
+   "text": "坚持就有回报，对吧？",
+   "unlockRequirement": "",
+   "cnUrl": "20141e4ab9a2676c8130627b1fdc9e5c1477e5e6c0979d4319440d028a3cb714",
+   "jpUrl": "c9a6aa4c72a6a8a66d2385a9863da050183d3c58e33bc7870a557801fff41a02",
+   "enUrl": "17303478d8ef3bcac8588922c9da68f19d851b9a5e3186baa580becb354364db",
+   "krUrl": "c61967fda53de89cb02e80171f64d7a17e9d0dd2bef829cc9493a155886b3faf"
+  },
+  {
+   "id": 71,
+   "title": "解谜成功•一",
+   "text": "就像在拆解和声呢。",
+   "unlockRequirement": "",
+   "cnUrl": "73eb12e9ef252adf078146d3d5f044ee2da271b7a6915c357a6fd27f35afc297",
+   "jpUrl": "02444b665af8419f4f420f43e3caad166b09cc60ec853f30790e3d0ac7071bc8",
+   "enUrl": "163dc950dae283072543154faf17900933d06ed07836049446159bd40f8252c6",
+   "krUrl": "240ccbaa0498299a747c1ca7b8e8842ec508768598726987729222e89fa704ab"
+  },
+  {
+   "id": 72,
+   "title": "解谜成功•二",
+   "text": "有没有旋律构写的谜题……",
+   "unlockRequirement": "",
+   "cnUrl": "7936734fc40d116c351b1e3d514bda6d0ccd62ff3a0c8c7949c0b292036e1370",
+   "jpUrl": "73a4d948a267fd4721300775750ec3c901af706fca2ab154c2cd933a1a47802e",
+   "enUrl": "ca690b4e309c9f3ed98ceccf93e29b00ab377835c975c152f558a4921932b233",
+   "krUrl": "c70016305b37e7e3f8c4800c8d4e2775b980b4231ace2ebfbaac34ec546c35b9"
+  },
+  {
+   "id": 73,
+   "title": "发现敌方目标",
+   "text": "似乎听到了不和谐音。",
+   "unlockRequirement": "",
+   "cnUrl": "98f7a7eca45af109be6e0ae299aab7633ebdebddd702ca8afdad2feb4d28c319",
+   "jpUrl": "00aa292c9dc5a41906678d50bc4f53ef3a75a63ad9378d9b6ee0ca18f441c002",
+   "enUrl": "c6db049d6d9021969cef2b7720fc80263fd1658ad1332093a891a28b68e08056",
+   "krUrl": "43c9eee74b172402683a3e665e09cf5e4002975c9645ef491d633eb2ca09f294"
+  },
+  {
+   "id": 74,
+   "title": "返回城镇",
+   "text": "巡演结束，该回去休息啦。",
+   "unlockRequirement": "",
+   "cnUrl": "c285e6db8c4f51cf463edd532de7409e8d7bc22e9aed82a0655c73ab845b8418",
+   "jpUrl": "3452ba16e8792e3eebffd130c92fe402ee0c0ae7f2636d2c6e7e8ae5f12bcae8",
+   "enUrl": "1d20a858e9412920f4fe764c73bfef441b5979e67a5675588721c3eb3a3ba380",
+   "krUrl": "57c3b258585f4255fd710dcde991b9719bf32650ce81a808a9d6f58cbbd2574a"
+  }
+ ],
+ "storyItems": [
+  {
+   "title": "角色详情",
+   "text": "出生于匹诺康尼，闻名银河的天环族歌者，举止从容优雅的少女。<br />此次受家族宴请回到故乡，在「谐乐大典」为众宾献歌一曲。<br />可以依靠「同谐」的力量传递歌声，在歌迷乃至万界生灵之中展现「共鸣」。",
+   "unlockRequirement": ""
+  },
+  {
+   "title": "角色故事·一",
+   "text": "「她将自己的生活形容为一首歌，而那首歌的开始阴沉而苦涩。<br /><br />在她尚在襁褓之中时，星核落入她的故乡。<br />『哀哭，叹息，祈求——那就是我记忆中最初的声音。我们以哀歌祈祷拯救，却始终未能等来神的垂目……』<br /><br />这位始终保持微笑的歌者罕见地陷入了沉默。<br /><br />『所以，那算是你的音乐启蒙吗？』<br /><br />『那时候我太小，大部分的歌我都不记得了。但我依然记得，当星核开始吞噬梦境的时候，母亲将我和兄长抱在怀中，企图用歌声安抚我们的恐惧……』<br /><br />『你还记得母亲唱的是什么吗？』<br />看着她露出痛苦的神色，我本想将这个问题跳过，但片刻之后她依然做出了回答。<br /><br />『我听不见…耳边都是恐怖的巨响，我只能看见母亲翕动着嘴唇，她抱紧我们，胸口起伏着，兄长在一旁紧紧抓住我的手。冰冷的星星在母亲的身后急速下落，然后…她消融在忆域的漩涡之中，我们就像折翅的鸟儿一般坠落……<br /><br />如果鸟儿注定要坠落的话，为何它们还要飞向天空？』<br /><br />我没有回答，也无法回答。这并不是一个向我提出的问题，而答案，只在她的心中。」 <br /><br /><align=\"right\">——摘自《鸟儿与天空：知更鸟独家专访》</align>",
+   "unlockRequirement": "角色等级<nobr>20</nobr>解锁"
+  },
+  {
+   "title": "角色故事·二",
+   "text": "「所幸这样沉闷的气氛没有持续多久，在我们分享了两杯莓果冰淇淋之后，她又变回了那个活泼的少女。<br /><br />在星核灾难之后，家族对幸存者伸出了援手。她与兄长受到庇护，并接受了良好的教育，也正是此时，她逐渐开始展现过人的音乐天赋。<br /><br />『还是小时候的味道，那时为了保护嗓子，我只能在哥哥的掩护下偷偷吃冰淇淋。』<br />她满足地放下杯子。<br /><br />『当爱好变成事业的时候，它就不那么容易了。我不仅要学习如何科学地歌唱，还要学习乐器、作曲、作词、礼仪…有好几次我都想放弃了，但在周围人的鼓励与帮助下，我还是坚持了下来。』<br /><br />她谈起了自己创作的第一首歌。在专辑的封面上，这首歌特别标注了『献给所有失去希望的人们』，而这首歌的灵感正是来自于银河中的美梦之星『匹诺康尼』。<br /><br />『虚空中的美梦，不可能发生的事，在奇妙的忆域中梦想成真…那时我曾单纯地希望，像我一样漂泊无依的人们可以在其中寻到自己的栖身之所，但……』<br /><br />她叹息一声，望向窗外，淅淅沥沥的雨水将街道涂成灰色，穿着鲜艳雨衣的孩子们在雨中打闹。她转过头，颇为郑重地说道——<br />『但无论世界如何变化，我的心愿不会改变。』」<br /><br /> <align=\"right\">——摘自《鸟儿与天空：知更鸟独家专访》</align>",
+   "unlockRequirement": "角色等级<nobr>40</nobr>解锁"
+  },
+  {
+   "title": "角色故事·三",
+   "text": "「在连续发布三张专辑之后，她的音乐生涯逐渐走向顶峰。《使一颗心免于哀伤》、《在最美丽的一天》等等歌曲刷新了银河各大音乐排行榜，成为脍炙人口的热门单曲。令人不解的是，她却选择在此时退出了大众的视野之中。<br /><br />谈起那段时期，她向我们展示了自己拍下的种种照片。在战争的废墟中，她帮助流离失所的人们重建家园；她为无法接受教育的孩子建立学校；她去往无人知晓的世界追寻即将绝迹的歌声……<br /><br />她关上手机，叹了一口气，讲起了做出这样决定的原因。<br />『那时，我越来越不知道自己为了什么而歌唱。』<br />『面对真实的灾难，歌声一无用处。歌唱是为了讨好上位者，还是为了粉饰苦难，给予人虚假的希望？』<br /><br />在那段旅途的最后一站，她回到了天环族故地的坠毁之处。原本惨烈的废墟已被青草覆盖，在微风与花香中，她枕靠在崎岖的岩石之上，看着天光透过云层照亮大地。<br /><br />『我一再地想起母亲的歌声，我曾以为那是徒劳无益的声音，因为我根本不记得那是怎样的声音，也改变不了覆灭的结局。但直到现在我才明白，歌曲传递的并非只有声音本身…我还记得母亲的心跳，身旁兄长的颤抖，我们三人彼此依靠的温暖…即使在无可改变的结局面前，依然能够毫不颤抖地唱出自己的声音，就一定能传达到……』<br /><br />窗外的雨渐渐停了，她沉醉于那时的回忆。不幸的是，一阵电话铃声打破了迷人的寂静，我们的采访也就此中止。<br /><br />因为工作变动，知更鸟小姐需要马上动身前往匹诺康尼。亲爱的读者朋友，我们也将在梦的国度再会。」 <br /><br /> <align=\"right\">——摘自《鸟儿与天空：知更鸟独家专访》</align>",
+   "unlockRequirement": "角色等级<nobr>60</nobr>解锁"
+  },
+  {
+   "title": "角色故事·四",
+   "text": "「时隔一年之后，我们收到邀请，来到匹诺康尼再度接续上次的采访。<br /><br />与上次见面相比，她更显疲惫，连声音都沙哑了许多。这次她穿着庄重的家族礼服，举止拘谨小心，但见到我们后仍如以前那般平易近人。此次，我们也见到了她的兄长，一位风度翩翩的领导者。<br /><br />『这就是银河中唯一的美梦世界，也是家族的驻地。家族将荒芜的梦境改造为人间天堂……』<br />她的兄长向我们一一介绍匹诺康尼的历史，她帮我们消除入梦的不适，热情地请我们品尝梦境中的美食。<br /><br />我们游览了梦中的种种奇景，只可惜在这样喧闹的环境下，无法开展深度采访。<br /><br />最后，我们来到了宏伟的歌剧院。在即将到来的谐乐大典上，她将在这座华美的舞台歌唱，向全宇宙传播同谐的乐声。<br /><br />就在我以为此次专访即将结束时，她看着辉煌的歌剧院，突然提起采访开始时的问题。<br /><br />『主编，你还记得我当初问你的问题吗，鸟儿为何要飞向天空？回到匹诺康尼后，我想了很久很久。』<br /><br />她看向梦境的天空，深沉的夜色下满是人造的光芒。<br />『也许鸟儿注定要如此，因为那是它的愿望、归宿，以及不可剥夺的权利……』<br /><br />她微笑着看向某个地方，向我们发出邀请。<br />『未来，在这里将会有一场盛大的演出。我会在这里表演到目前为止最满意的一首歌，多么希望人们能在歌声中拉起彼此的双手啊——即使是梦中的世界，终究也会有光洒落其间。』<br /><br />我不知道她看向的是什么地方，但那绝不是歌剧院的舞台。所以，她说的演出又会是什么呢？<br /><br />唯一确定的是，即便在如此纸醉金迷的地方，她依然没有放弃以强援弱的信念。这样的信念贯穿她人生的始终，从苦涩的前奏开始，进展到优美的主歌，而在暗流涌动的间奏过后，迎来或许是最为华美的绽放和落幕。」 <br /><br /> <align=\"right\">——摘自《鸟儿与天空：知更鸟独家专访》</align>",
+   "unlockRequirement": "角色等级<nobr>80</nobr>解锁"
+  }
+ ],
+ "archive": {
+  "cvCn": "钱琛 / 歌：Chevy",
+  "cvJp": "名塚佳織 / 歌：Chevy",
+  "cvKr": "신온유/ 노래: Chevy",
+  "cvEn": "Alice Himora / Song vocals: Chevy",
+  "camp": "匹诺康尼"
+ },
+ "calculator": {
+  "expCost": {
+   "1": 200,
+   "2": 300,
+   "3": 500,
+   "4": 600,
+   "5": 1050,
+   "6": 1670,
+   "7": 2320,
+   "8": 3060,
+   "9": 3860,
+   "10": 4740,
+   "11": 5710,
+   "12": 6730,
+   "13": 7830,
+   "14": 9000,
+   "15": 10240,
+   "16": 11550,
+   "17": 12920,
+   "18": 14360,
+   "19": 15870,
+   "20": 16580,
+   "21": 16840,
+   "22": 17100,
+   "23": 17370,
+   "24": 17640,
+   "25": 17910,
+   "26": 18190,
+   "27": 18480,
+   "28": 18760,
+   "29": 19040,
+   "30": 19340,
+   "31": 19630,
+   "32": 19930,
+   "33": 20220,
+   "34": 20530,
+   "35": 20840,
+   "36": 21140,
+   "37": 21450,
+   "38": 21760,
+   "39": 22080,
+   "40": 22390,
+   "41": 25550,
+   "42": 29140,
+   "43": 32830,
+   "44": 36600,
+   "45": 40470,
+   "46": 44430,
+   "47": 48480,
+   "48": 52630,
+   "49": 56870,
+   "50": 61190,
+   "51": 65620,
+   "52": 70130,
+   "53": 74740,
+   "54": 79450,
+   "55": 84240,
+   "56": 89120,
+   "57": 94110,
+   "58": 99190,
+   "59": 104350,
+   "60": 106240,
+   "61": 111830,
+   "62": 117530,
+   "63": 123320,
+   "64": 129210,
+   "65": 135200,
+   "66": 141290,
+   "67": 147480,
+   "68": 153780,
+   "69": 160170,
+   "70": 179260,
+   "71": 199920,
+   "72": 220920,
+   "73": 242260,
+   "74": 263930,
+   "75": 285950,
+   "76": 308300,
+   "77": 331000,
+   "78": 354040,
+   "79": 377420,
+   "80": 414350
+  },
+  "expItemConfig": {
+   "1000": 409962,
+   "5000": 409961,
+   "20000": 409960
+  },
+  "sCoinId": 29328
+ },
+ "name": "知更鸟",
+ "rarity": 5,
+ "descHash": "出生于匹诺康尼，闻名银河的天环族歌者，举止从容优雅的少女。 此次受家族宴请回到故乡，在「谐乐大典」为众宾献歌一曲。 可以依靠「同谐」的力量传递歌声，在歌迷乃至万界生灵之中展现「共鸣」。",
+ "artPath": "0138e78111a7211d884e5ac86d8745f7d556b3d769edc541724ff94c9e7f8a84",
+ "miniIconPath": "92edd6c32fa7d7899058fa5d263158536da5b0afca1bd6779bda7bfd53360c6d",
+ "damageType": {
+  "id": 1,
+  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "color": "#FFFFFF",
+  "name": "物理",
+  "rarity": 0
+ },
+ "baseType": {
+  "id": 0,
+  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
+  "altIconPath": "691e6c36e7f71344352e4ed80941938d7dc5722b23cef7a18f7fa8722d8c0523",
+  "color": "#FFFFFF",
+  "name": "同谐",
+  "rarity": 0
+ },
+ "pageId": "robin"
+}

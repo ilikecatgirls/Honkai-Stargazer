@@ -6,9 +6,8 @@
  "fgPath": "04d6bcc33d0353d0143b61ab552916eecac0a1baee3e1e6c1606449c78562590",
  "splashIconPath": "72da6f1b2fae6c3fced8b6356875784d9bdfe1e28c20d7ae1026c5ce9d142cf4",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRlgCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPEAAAABkLrt//nX8l+f73e2bbsvr3lrTkr2ko206B01OyKuHlb7NOP7eb0OxoiYAJyic5A5kg+QCicHx8xYL8jPzB6Ic2AOCZt/cLdmeaJw4c5wFA5vfLm/8fzp5c/3J8pg/jOIH3rlfRG/SRf88b9B0EVJspSlmuHvAj6Y+f6dpEjS7sYDCAKuyx4gUbrW3ZxY3LBjSUkUKUr6lJf/RqJISiJl9Xkc7qw8UqT4v1UDgEp5FA8Qf+tdEAzMPVnvt6Uo6+lHmwsYpHWV70u0/C2928Lh7WefSVYaCgg/yLgO4Lfm6Wo1jmxcIL8CcMxRAAMALg4GAFZQOCBAAQAA8AYAnQEqFAAUAD5tMpVHpCKiISgIAIANiWIAnTKEdXCBagLsl3mZ8Ae4LeAzAA6OpORbdYkPNMe4r+QKECVxQAD+83sZMfOLCjEVjZd364q5dBoWvKRLMXjyzvYcrWu/WmczIvvF0mv3pA9su+qjAr57EOVtNsYPe3gN7yBReWB7oxh5ttYNuenUmCLl/wvOS3P5EqfVur26RYsSRrn/M23Iysgy0+rd5RqTnVOjEyaCaJ2TC9DwwdiYK3TS23mMhhMV357DIDxO22bPpYU8DuIFB2a3RkZGa6uutfmf+OLkYRQzit/2SlBRimtmH+NvtHlhmfwWrsPQU9Pf7bkw6brKaxwHwftGlXPR5nfduBUGTZPIgROl7ALrF0M92YGmmivj//eMWamdaBFxovqlCFti36unQfBq2VBkyUgAAAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2557,7 +2556,7 @@
   {
    "id": 61,
    "title": "Déclenchement de l'ultime",
-   "text": "Esprit radieux, entends-moi. Pas de pitié !",
+   "text": "Esprit puissant, entends mes paroles et sois sans pitié !",
    "unlockRequirement": "",
    "cnUrl": "265baa7d2d0319c65392bab30646c33e7238ba3849de53651287d5339d96a342",
    "jpUrl": "0f90912dd3b3d139b814b84bc3b40cee32601da8cce4d3f38d1c9f3dde25ea66",

@@ -6,9 +6,8 @@
  "fgPath": "9beae506832b8d7285bc31d34c930a519f60f1937f0f9a19073309141a286c22",
  "splashIconPath": "7daf4930f6d1c0c317a1305821824f2bfdd746a88f3ad9704ffa437985c7f6f0",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRpQCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPkAAAABkHLbtrKtO1r3vp9/X/LvB3jzLwruDskdknsjWXXP2qgMEkQGySVa8vTy3OfZO7wSERNAzRLNazogUGdopPPtm8d7IdYBo8+d7KeNRCCW6OrrOf/DSSn3g34ibcDk5bKdW1burwPE2W3zzb1XnBWWZJV9nxhP/f+35ZUl2ZaVeykw/PPvb8uVkjPfgkZW2IVVYSv3y0hkLLPkqnLuZxBZask1lHwBGjjmJFWR5PIYlFjjvJaTXxCA+N7JqrDkrUSI7LQLS7Zy3yAABE5ZhSXJnqFUQeCys0KWkm8RavDYTillya+pGQjnfrnyy0ZCNQL0HHpy4/CCdgAAVlA4IHQBAAAQCACdASoUABQAPm0ukkakIqGhKA1QgA2JbACdMoM6NcBtgOfA0wDnqv2Z+DP9dyaO+KPUACt/tOTzjcR7t/+1+yQzVk2DXxdQAP7uzIlu9/7skZse8kMcnT1Gf6uFlG4UZOf7geYxfVSbQ0yVTgI1LVVEZsq/ylSPViEoe1tNc/H6XmMFmHvcbXOLsIOdGtf2f2HznJFTpaQaG2yRpn8cfYZHM56Zvz+iHY3VhZIRpKAqCVQjS6shcMJFF/lNCr39vvMLEEaP+VQl8V/GE2kyYd9lFjQhW/+n/P/HOBy5vHbopq2wRygE1idaJUx5H35KL/60sVzKNpqfjBgHke+5LMIkB/6sxpBdJ0RADMbs+Ip33uWUdawS/sSe5cjiFNHuINGgPO9cXEy4/hyM5cKIyEBiVU3p+aGf/wbm9DRWWz4G7VDW3tNqjbuDyDFzHL1dn4PllPDQkegg0V8QtjpBeWuBdi9+8O494hBaJU2XUxGAAAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2288,7 +2287,7 @@
   },
   {
    "id": 18,
-   "title": "Level Max Karakter",
+   "title": "Level Max Tercapai",
    "text": "Medali dari masa lalu tidak akan memenangkan pertempuran di esok hari.",
    "unlockRequirement": "",
    "cnUrl": "18a4f0b24e9e9be857b724c3ef73ca8d57ae7c677775e0410d244b0e4a66bb84",

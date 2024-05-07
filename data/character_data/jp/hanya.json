@@ -6,9 +6,8 @@
  "fgPath": "aa38bcc6a8172825475bf8cda08f53ff1b8838395daab996dfd9d0dfccb67b53",
  "splashIconPath": "c1ca41aeccea99e7840f768fe9999bf816194185def767f83007af0e60d3e0e5",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRn4CAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBEBAAABkKNt27FH9/t9sW3be3BSOqlsjm1jAa5sd7ZVsbLt+f0+9+D7/zVExATAZxO++5sA/OHv74NCOBAC1M6C6Q2Jg7lnX1+qXMuVUVAWCuELlpH88cbDXvhZIGjkoRbtJl08AigABtpJCqlFaFsaB0Cp1pt0C0UoFM0x+PmhgtQUIUmhm+eiAGMj3RQhKUIhuRwNVx0US1KE2mb/PZQ5cPwDSXq0x6WFPx6vSUlEvU30NwcthbZ7U7Jholr0o68/xjbcnbX+C98+29YTBgMHSD4daQ2d+9Tu0fy9uxBA8JL3JG2XSc3/O/B/8OA7Uj784olpM7ZmA4AygcjaztTwksYIAFCwNODVzzQMeDdMBWUq/A8AVlA4IEYBAABQBgCdASoUABQAPm0wkkckIqGhKAqogA2JbACxHt7A7IA3nTeHiIS0EAMVpdJdEuV5SRIDeasqVQSK8AD+6/5qWcHMwrl8XReEQ5Gefr4ovHAVh9QkYv043Upfm2D+tFS1gZBGayU5N2OE4uMaKcLHGbAz3NAv1aXo1pXmX4UgjRqOj+Yjiy4Zi5cDlKRM9aeGo1l5BR80Fr05Ay3XSHl8+1ES/1oL0+0Hmb/u6rotkCmvIYn4GtBXzEGrECM44l/2EOTZX/j/h03iQJRPDvaIz2NFymQR+NEstVJ+WPTJuMTbYEp2eK825+8CMdk/hCBApsuNVdwuUiiVNSzIBv1cpbL+l7lqWq7Z5GKiUrIkx0jLd7GD/JyZZtTqLrGn6mPiq2Wu3CbClPfJ5wCzVWXh8gijyqhwueCpovXr0i5aXX/gwwAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "bd8d3896d01979ead66758f902d455aef9fb0306e7ac744cf7dfcff4395d5b7b",
+   "iconPath": "05a19e8d2f0c892332b7a5b1cacc7196d894f618e70b79215e1df9736ea3a44c",
    "artPath": "89f72a7473270ff439e41451ba2d6644ed9c977cac0b61affdbcfc199673c9ce",
    "name": "一心",
    "descHash": "寒鴉の必殺技のバフを持つ味方が敵を倒した時、寒鴉の行動順が<nobr>#1[i]%</nobr>早まる。この効果はターンが回ってくるたびに<nobr>#2[i]</nobr>回まで発動できる。",
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "32d917373e815868d69fdc92db0cf49b6b787f973b395f9b732a76915e658671",
+   "iconPath": "35730bca60ce2b2e7b865b8d7c407f72e056f2600cd75d4dddbe2af00014a369",
    "artPath": "cba36a80d2a62f035ce8e5c2f130e1dae4d94333885abd19dbfea8d72e7a7efb",
    "name": "二観",
    "descHash": "戦闘スキルを発動した後、速度+<nobr>#1[i]%</nobr>、<nobr>#2[i]</nobr>ターン継続。",
@@ -462,7 +461,7 @@
   },
   {
    "id": 3,
-   "iconPath": "84ba61c48fe42b8ce3848d8358773ee7d005fa4a707b9f555b203a8c033ab384",
+   "iconPath": "83a04c881188e877db3ae1168ffcca8b7c10bf201def8e518213e1878b1ce8d7",
    "artPath": "0eb525c9771e696ed40451492b919e50816f82ec73304bfc09ad666cdae4cbe4",
    "name": "三塵",
    "descHash": "戦闘スキルのLv.+2、最大Lv.<nobr>15</nobr>まで。通常攻撃のLv.+1、最大Lv.<nobr>10</nobr>まで。",
@@ -470,7 +469,7 @@
   },
   {
    "id": 4,
-   "iconPath": "841dc7f96beb69d7905e339848411a2572ebdc383ccdc80a822cc4bbf9f0be39",
+   "iconPath": "d39c0ed3bbf96ce52b4822541b68906a571b23396e56b293d4e35c21716c3fa5",
    "artPath": "99eef445271a6dd517d0a7f8a5b3951a4f29213df2e1cf245177e9134598c3f2",
    "name": "四諦",
    "descHash": "必殺技の継続時間+<nobr>#1[i]</nobr>ターン。",
@@ -480,7 +479,7 @@
   },
   {
    "id": 5,
-   "iconPath": "f3e777a7fd594f390c02e8e625b5a24752758a7d61d50d58da472a0fb11be886",
+   "iconPath": "5b5c3af1f9f0993d33cc341e53fb8e9718d6dc94508995aad5a82a94f6841b20",
    "artPath": "53e607a02823d398e3853c63fc23a9a1a23c4eedbc17da47f3415c2eadd539b7",
    "name": "五陰",
    "descHash": "必殺技のLv.+2、最大Lv.<nobr>15</nobr>まで。天賦のLv.+2、最大Lv.<nobr>15</nobr>まで。",
@@ -488,7 +487,7 @@
   },
   {
    "id": 6,
-   "iconPath": "3ea1ed9febc467c07e9fab4de0bde53a809428fdf9fbe18b669b67c83c992fa2",
+   "iconPath": "66ee74a56b94a0ae8487b1ca7bed78eebce5e03376220eb78820829a3b45bdbf",
    "artPath": "f1da4c8adb20e993717ee70dfa0228763ba727896e52caee1d5e1f10c663ed43",
    "name": "六正",
    "descHash": "天賦のダメージアップ効果がさらに<nobr>#1[i]%</nobr>アップ。",
@@ -523,7 +522,7 @@
    "energy": "20",
    "id": 581588,
    "name": "冥兆天筆",
-   "iconPath": "c6f118fbc2a0dd70dd917325891ebb3fb286e4d9e262324bb4f33b46ffa30984",
+   "iconPath": "2f48077a892ed60f81dbc0890e1eaf5d49eccec5e634be3dc5011ceb292d936a",
    "typeDescHash": "通常攻撃",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +683,7 @@
    "energy": "30",
    "id": 297061,
    "name": "生滅捕縛",
-   "iconPath": "84ba61c48fe42b8ce3848d8358773ee7d005fa4a707b9f555b203a8c033ab384",
+   "iconPath": "83a04c881188e877db3ae1168ffcca8b7c10bf201def8e518213e1878b1ce8d7",
    "typeDescHash": "戦闘スキル",
    "levelReq": 0,
    "promotionReq": 0,
@@ -970,7 +969,7 @@
    "energy": "5",
    "id": 381002,
    "name": "十王の勅令、遍く遵行せよ",
-   "iconPath": "53adb08d7a56a4667152066de64a63f03c47e982dad085082d3092d120ff4f5c",
+   "iconPath": "0526505dc792aa15996d8e85d2904a5dea879fd93df9483b727dc83f2d3d78e4",
    "typeDescHash": "必殺技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1271,7 +1270,7 @@
    "energy": "0",
    "id": 866115,
    "name": "懲悪",
-   "iconPath": "ad52b1d6074b5510f6982bbef2c6f3c16533283c8ff147b69b92c7aac4b8d73c",
+   "iconPath": "7fca34e644a7068e1834a977f25db445fba5cddf9b678cb6105a5055081c7535",
    "typeDescHash": "天賦",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1557,7 +1556,7 @@
    "energy": "0",
    "id": 665529,
    "name": "攻撃",
-   "iconPath": "c6f118fbc2a0dd70dd917325891ebb3fb286e4d9e262324bb4f33b46ffa30984",
+   "iconPath": "2f48077a892ed60f81dbc0890e1eaf5d49eccec5e634be3dc5011ceb292d936a",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1579,7 +1578,7 @@
    "energy": "0",
    "id": 782174,
    "name": "判冥",
-   "iconPath": "c3350e770431e8bdd3b1a54dd6dfaa88cec19f5f0400fb2243e440daf96cf7c2",
+   "iconPath": "6a5b3305b1cafd23abec715d2a563cf3b63bc69aac1773fd0fd79caaf662a156",
    "typeDescHash": "秘技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1674,7 +1673,7 @@
     "ultimateCost": 0,
     "id": 21247,
     "name": "録事録事",
-    "iconPath": "5e2f9f3bf9c6e86ee9931d9c4c586b8082516d7a5fcaeaec049e90a12dc3b31a",
+    "iconPath": "6d0c6f72b3ac9509041574cfee19dae1860a098a995c931cc1e0d3c1489431cc",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1783,7 +1782,7 @@
     "ultimateCost": 0,
     "id": 21248,
     "name": "幽府",
-    "iconPath": "4dd0bba8e68efe285b6272c65f621fa88cf09bd5063acf7499a3fd3110a199ce",
+    "iconPath": "fbce9984a8c994c9666409b67e893076e326b12766b0df18f0f9e74b0da558aa",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1929,7 +1928,7 @@
     "ultimateCost": 0,
     "id": 21249,
     "name": "還陽",
-    "iconPath": "118f8cdcde2fd68cf9143ac862fa60d3ab0a17277e58de53ed4d2aed20faeb35",
+    "iconPath": "d8ce53d19b42068ed892932dd3cd49bd898439722b1b7dc477eebf1938496648",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2579,7 +2578,7 @@
   },
   {
    "title": "ストーリー・1",
-   "text": "巨大な棺は嵐の中で揺れる小舟のようで、荒れ狂う意識の海の中で今にも沈みそうになっている。彼女は人々の怒り、願望、憎しみ、恐怖、疲労に己の体を晒している。それは無色の波が彼女を1つの流れから別の波頭に投げつけるようなものだ。<br /><br />溺れて死んだ者のように、彼女はついに小さな自分を捨て、その混沌とした大海原に溶け込んでいった——<br /><br />ある時の彼女は地衡司で忙しなく働く執行人で、山のような雑務をこなしながら、上へ行くため歯を食いしばって耐えていた。しかし、ついに頭の奥で弦が切れるような音が響き、そのまま幽霊のように街中を彷徨い始める……<br /><br />次の瞬間、彼女は深い悲しみを堪え、生まれながらに天欠のある子供を星槎培養液で満たされたカプセルの中に沈めた。彼女も夫も、その子供が生まれてくることをずっと待ち望んでいたはずなのに……<br /><br />かつて雲騎軍の兵士だった彼女は、鋭いオオカミの爪に激しく踏みつけられたことがある。冷たい爪が顔の皮膚を引っ張り、歪んだ「笑顔」を作り出した。それからというもの、彼女は微笑むたびに痛みを感じるようになった……<br /><br />占いの結果を見て、自分の命が尽きようとしていることを知った彼女は、信じられない思いで窮観の陣の演算端末を点検する。自分自身を陣の中枢に繋ぎ、そのすべての力を使おうとしたが、窮観の陣の力は容赦なく彼女の精神を引き裂いた……<br /><br />彼女は自分が丹精込めて設計した機巧を砕くと、それと共に彼女にあれこれ難癖をつけていた師匠も破壊した。彼女は自分が職人になれる望みがないことを理解している。しかし、職人以外に自分に何ができるのかもわからなかった……<br /><br />彼女は彼ら全員になり、彼らのすべてになった。しかし、まるで滴り落ちた1滴の墨汁のように、ある光景が彼女の目の前に広がっていく……<br /><br />彼女は青空の下に座っていた。周りでは麦の穂が波打ちながら成長している。器用な手が彼女の頭に花冠を載せた。彼女は枝や葉、花の香りに包まれ、まるで温かい両手に抱き締められているかのようだ……<br /><br />その懐かしい温もりによって、彼女は溺れる寸前で情報の海から目を覚ました。<br /><br />彼女は自分が彼らではないことに気がついた。彼らの中の誰でもなく、彼らのすべてでもない。その瞬間、彼女は意識の海の中で取るに足らない一滴の水滴となり、自分の名前、自分が担っている仕事を思い出した——<br /><br />彼女は十王司の判官の1人、代名は「寒鴉」。<br /><br />彼女が目を覚ましたことに気づき、棺の傍に控えていた金人が素早く筆を動かし始める。その動きは肉眼では追えないほどだ。<br /><br />業判の結果はすでに出ていた。夢の中に現われた名前が玉兆の令牌に書き込まれ、送り出される。洞天の陽が落ち夜が更けると、また多くの人がこの世を去るだろう。彼らは仙舟の最奥の片隅で、自分たちの命が尽きる瞬間を決めている人物がいることなど知る由もない。そして数時間後には、その人物は彼らのことを忘れているのだ。",
+   "text": "巨大な棺は嵐の中で揺れる小舟のようで、荒れ狂う意識の海の中で今にも沈みそうになっている。彼女は人々の怒り、願望、憎しみ、恐怖、疲労に己の体を晒している。それは無色の波が彼女を1つの流れから別の波頭に投げつけるようなものだ。<br /><br />溺れて死んだ者のように、彼女はついに小さな自分を捨て、その混沌とした大海原に溶け込んでいった——<br /><br />ある時の彼女は地衡司で忙しなく働く執行人で、山のような雑務をこなしながら、上へ行くため歯を食いしばって耐えていた。しかし、ついに頭の奥で弦が切れるような音が響き、そのまま幽霊のように街中を彷徨い始める……<br /><br />次の瞬間、彼女は深い悲しみを堪え、生まれながらに天欠のある子供を星槎培養液で満たされたカプセルの中に沈めた。彼女も夫も、その子供が生まれてくることをずっと待ち望んでいたはずなのに……<br /><br />かつて雲騎軍の兵士だった彼女は、鋭いオオカミの爪に激しく踏みつけられたことがある。冷たい爪が顔の皮膚を引っ張り、歪んだ「笑顔」を作り出した。それからというもの、彼女は微笑むたびに痛みを感じるようになった……<br /><br />占いの結果を見て、自分の命が尽きようとしていることを知った彼女は、信じられない思いで窮観の陣の演算端末を点検する。自分自身を陣の中枢に繋ぎ、そのすべての力を使おうとしたが、窮観の陣の力は容赦なく彼女の精神を引き裂いた……<br /><br />彼女は自分が丹精込めて設計した機巧を砕くと、それと共に彼女にあれこれ難癖をつけていた師匠も破壊した。彼女は自分が職人になれる望みがないことを理解している。しかし、職人以外に自分に何ができるのかもわからなかった……<br /><br />彼女は彼ら全員になり、彼らのすべてになった。しかし、まるで滴り落ちた1滴の墨汁のように、ある光景が彼女の目の前に広がっていく……<br /><br />彼女は青空の下に座っていた。周りでは麦の穂が波打ちながら成長している。器用な手が彼女の頭に花冠を載せた。彼女は枝や葉、花の香りに包まれ、まるで温かい両手に抱き締められているかのようだ……<br /><br />その懐かしい温もりによって、彼女は溺れる寸前で情報の海から目を覚ました。<br /><br />彼女は自分が彼らではないことに気がついた。彼らの中の誰でもなく、彼らのすべてでもない。その瞬間、彼女は意識の海の中で取るに足らない一滴の水滴となり、自分の名前、自分が担っている仕事を思い出した——<br /><br />彼女は十王司の判官の1人、代名は「寒鴉」。<br /><br />彼女が目を覚ましたことに気づき、棺の傍に控えていた金人が素早く筆を動かし始める。その動きは肉眼では追えないほどだ。<br /><br />業判の結果はすでに出ていた。夢の中に現れた名前が玉兆の令牌に書き込まれ、送り出される。洞天の陽が落ち夜が更けると、また多くの人がこの世を去るだろう。彼らは仙舟の最奥の片隅で、自分たちの命が尽きる瞬間を決めている人物がいることなど知る由もない。そして数時間後には、その人物は彼らのことを忘れているのだ。",
    "unlockRequirement": "キャラLv.<nobr>20</nobr>で解放"
   },
   {

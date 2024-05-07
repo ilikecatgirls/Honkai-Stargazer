@@ -5,9 +5,8 @@
  "iconPath": "0c2e20c23cf12e8893e0ef5288b676c8397e714a44ebfd9354249a3cfcd31702",
  "artPath": "34eb5a1e8dc9541b6b476ced5dc88ba3c789f0c6a22cf15e9194472e45cc367e",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAACQCACdASoUABwAPm0skkWkIqGYBABABsS2AE6ZQd0G6zcCDAbZPnnNMA3nR8ee+iYqzvPuw4Su/O9yiiMGbJtDgl7SUfdJuIO3mCuYAAD++ff5Kv/JYYalo76ot5OBS2lUg4kuWK1gQlyl+xUhc6hLcwvjl92Uup2cvt2yQCbF0M5giGRHHpQuUjJUi791etf3jWtEED7T9J2t0jWEkUakCA4o6HBrt4tSBiXtqRwKucinhfhb5i+WA0gxCoFd1h2+G1E2nN3uHYOD0Wc+NkQCX9NoD2szjs+g5Mv6++Azj+vFt/+UgMDRYPgfcA7IhEPRsv1CkMmxznzyTVztavWbRRcwGNKBMemKrrK/OOmS7+892QA/843fFRnyYLjRUzpayzX/cNtfWlu+h8L1EPVoJxg+qymrGRgSOr+iOwJtcRIGfzyGiJn7NXngmyuKhVeuqb1G9HjRVQxrvyLI+qxYW0hQ4E3zZxLbEqVPlN0y78Tk/1Fj/9la3O+qDYeLGZHemXkKicbRDaqdhRmOdQ8ayF+q0kzVaNvlQBegONhvaDZXGTkZAgC500AAAA==",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "2e9d12fcb6d8465d07a5be26f87d8eef20f97920e1cba487921a1e1f5122818e",
  "baseType": {
@@ -84,7 +83,7 @@
    "iconPath": "d76fcb744e5bf3574f3fa68b6e66adfefdf41b1652d1dd788b0dbe68407b1e0d",
    "name": "Fragments of Impression",
    "desc": "A memoria fragment of profound impression. Normal material used for enhancement.",
-   "lore": "Within the Memory Zone, the form memories float as fleeting glimmers of light, and only profound and memorable fragments can condense it crystals.<br /><br />\"Memory is not a mere replication of past sensations, but a reconstruction of past impressions.\"",
+   "lore": "Within the Memory Zone, the form of memories float as fleeting glimmers of light, and only profound and memorable fragments can condense it crystals.<br /><br />\"Memory is not a mere replication of past sensations, but a reconstruction of past impressions.\"",
    "purpose": "Trace Material<br />Character Ascension Materials",
    "rarity": 3,
    "rewardPath": "/material/633151",
@@ -173,7 +172,7 @@
    "iconPath": "ac85858f27838b734365e77343aabcdbaf56463c492b153cfb4ebd64c04f659f",
    "name": "Shards of Desires",
    "desc": "A memoria fragment of obsessive desires. Advanced material used for enhancement.",
-   "lore": "Within the Memory Zone, memoria of desires develops ceaselessly. It absorbs thoughts and impressions, nurtures magic mirrors of desires, and reflects the eerie shadows of memetic entities.<br /><br />\"Memory points to the past, while desire points to the future. Seek desires from memory will cause dreams to become inverted, and inner demons will naturally be born.\"",
+   "lore": "Within the Memory Zone, memoria of desires develops ceaselessly. It absorbs thoughts and impressions, nurtures magic mirrors of desires, and reflects the eerie shadows of memetic entities.<br /><br />\"Memory points to the past, while desire points to the future. To seek desires from memory will cause dreams to become inverted, and inner demons will naturally be born.\"",
    "purpose": "Trace Material<br />Character Ascension Materials",
    "rarity": 4,
    "rewardPath": "/material/717092",

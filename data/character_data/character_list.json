@@ -1,5 +1,46 @@
 [
   {
+    "name": "Boothill",
+    "element": "Imaginary",
+    "path": "Preservation",
+    "rare": 5,
+    "sex": "Male",
+    "status": "RELEASED",
+    "fileName": "boothill",
+    "version": "2.2.0"
+  },
+  {
+    "name": "Robin",
+    "element": "Imaginary",
+    "path": "Preservation",
+    "rare": 5,
+    "sex": "Male",
+    "status": "RELEASED",
+    "fileName": "robin",
+    "version": "2.2.0"
+  },
+  {
+    "name": "Trailblazer Girl (Imaginary)",
+    "element": "Imaginary",
+    "path": "Harmony",
+    "rare": 5,
+    "sex": "Female",
+    "status": "RELEASED",
+    "fileName": "playergirl3",
+    "version": "2.2.0"
+  },
+  {
+    "name": "Trailblazer Boy (Imaginary)",
+    "element": "Imaginary",
+    "path": "Harmony",
+    "rare": 5,
+    "sex": "Male",
+    "status": "RELEASED",
+    "fileName": "playerboy3",
+    "version": "2.2.0"
+  },
+  
+  {
     "name": "Aventurine",
     "element": "Imaginary",
     "path": "Preservation",

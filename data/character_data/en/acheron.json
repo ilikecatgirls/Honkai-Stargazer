@@ -6,9 +6,8 @@
  "fgPath": "6842366bfe6b21e4f7927de23251acbac7710a6995d6d5ad3f6fcf1f8728f440",
  "splashIconPath": "cb8b1e8e90176861cda2ed901b194688fc571573f3875b506fd5eef3425bc52d",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRmwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBgBAAABkHNb27HH2q/n/WLbtp2MPZVttlOzcqluKla2Udq2bVvv+z3XFSciJgBdNEAgOjtxz7GNA4GsuI4czFbb0RET0bEPO/XH/1fHl+XDdGLwJ1n93nwhHO36ggGUnZen73Oux7cXm940t/9iWbq6dKYEBnDQvTZ5/I+/oqS/n0fDBzgJR+9Pm/nXsq2rxfDBoOyzbjyjFSn6tT7NgcHkD5QkSqTV6h4AkH1BriVJiVYnZwEmtnrRS5GiJJL/VsUAOUMbFt72i2rHak0AHPQ6+/0XRVGkXF0xcDBEkiiKpJW7HDCIPCzP83ueZ2X1oAEGMEjaoPb/68LY7skAYFCwYOu+9Vs2vfvw9MCCbHQcsnB8XFr9kJHDImEAVlA4IC4BAABwBQCdASoUABQAPm0ylEekIqIhKAgAgA2JQBicgmxEGhfkLY+oza9f8o7rXPqL/qCs7GkAAP73fYgmb/tUJrb1Ac/t0G9oUn6gsXboeduu52XKgV/GctGDPF/QdGAmyZosf9QDksEUK7XO7OYsoDRfwGkCWyIHI/H/pcsjUoG/Yllg+yM0FqFueCcYZMBTbiftCL6XY7QaQ8n3GSER90qe7/AewGPz/x6F/TZv8/8VXfvLIp/+aSjoB1WY2X/Rw539oOr8QKG6t5zJz69wL/6/mUmjdKsWM9+vW/9o+msEFWPNrBf+hY0D+OZVte4Nb2f51+HY5yneDfvwEK5BXjFkHT9AMH81z5RLLPhsW7X/xvQBHr8yQnijfx9m8qvxswT/nZPDQnk4ekRgAAAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -441,17 +440,17 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "df764a5759a0dca82769c6f3b9d0c49fc112137b5c7e7cf0fe97c158667b35d0",
+   "iconPath": "4b2f6a82ca5832faabb21365f8e801c9294eabdcfe332bd0391a19bc78f57864",
    "artPath": "b434b6fb86e3b72574dcd5aa2e2b043d1020ef54067bdfa51ca183c33ec326c3",
    "name": "Silenced Sky Spake Sooth",
-   "descHash": "CRIT Rate increases by <nobr>#1[i]%</nobr> when dealing DMG to debuffed enemies.",
+   "descHash": "When dealing DMG to debuffed enemies, increases the CRIT Rate by <nobr>#1[i]%</nobr>.",
    "params": [
     0.18
    ]
   },
   {
    "id": 2,
-   "iconPath": "0b8497d7bbbbd66c4fb49a5f303473bea784cc4654589c5bf1898819ff4de0a4",
+   "iconPath": "cd5b2875fb57c9169388dd2614bcb1d40c9faec35a6f5438fa352e2d1d457847",
    "artPath": "a3538ce5431936c85fbdf5315b3492172121bbda4430c2eda2bda0db888872ad",
    "name": "Mute Thunder in Still Tempest",
    "descHash": "The number of Nihility characters required for the Trace \"The Abyss\" to achieve its highest possible effect is reduced by 1. When this unit's turn starts, gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the enemy with the most Crimson Knot stacks.",
@@ -459,7 +458,7 @@
   },
   {
    "id": 3,
-   "iconPath": "6ecdff74c736876295c3a2969409ec038408c32dd6bdad0549016d770b05b948",
+   "iconPath": "230b424511fcd8cf762fd715267b48490c72f14fada5a9355b92fd5a9252985b",
    "artPath": "a304e8ba19df70f659e15e0ee7c414a11f3c42856b45926818527fdee620a026",
    "name": "Frost Bites in Death",
    "descHash": "Ultimate Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Basic ATK Lv. +1, up to a maximum of Lv. <nobr>10</nobr>.",
@@ -467,17 +466,17 @@
   },
   {
    "id": 4,
-   "iconPath": "0b76fa7437b3ea59213281fcc50a0c10399dae3858d8ba583cfcebc3a9a8a24b",
+   "iconPath": "c31e039f4b95129e0d94b103f2f2d103313d451d651a2ec9a7297163ffa72637",
    "artPath": "96fcdaa2e5e9e27b10167c2b9c80041c606ac4a14b490971f9d85a5abbc65132",
    "name": "Shrined Fire for Mirrored Soul",
-   "descHash": "When enemy targets enter combat, afflict them with the Ultimate DMG Vulnerable Vulnerability state, increasing the amount of Ultimate DMG they take by <nobr>#1[i]%</nobr>.",
+   "descHash": "When enemy targets enter combat, inflicts them with the Ultimate DMG Vulnerability, increasing the amount of Ultimate DMG they take by <nobr>#1[i]%</nobr>.",
    "params": [
     0.08
    ]
   },
   {
    "id": 5,
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "artPath": "c37fcc04adc70fd9e069134d95e9b81ebe81e3d75473da22d092b8634c739b85",
    "name": "Strewn Souls on Erased Earths",
    "descHash": "Skill Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Talent Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.",
@@ -485,10 +484,10 @@
   },
   {
    "id": 6,
-   "iconPath": "ba4559da01571e6233428c99d0c8b742d2a10b64aadfb1702bf58bffc180b373",
+   "iconPath": "41bf295a83cf97873df78e0a7880441fdcbdf9ba6ab21e81168adf2439206487",
    "artPath": "f82f081f46888b3743c68c1080edc8459c751c0a8866386cdfa09f1928eda895",
    "name": "Apocalypse, the Emancipator",
-   "descHash": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by <nobr>#1[i]%</nobr>. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When Weakness is broken, triggers the Lightning Weakness Break effect.",
+   "descHash": "Increases the All-Type RES PEN for the Ultimate DMG dealt by Acheron by <nobr>#1[i]%</nobr>. The DMG dealt by Basic ATK and Skill will also be considered as Ultimate DMG and can reduce enemy toughness regardless of Weakness Types. When breaking Weaknesses, triggers the Lightning Weakness Break effect.",
    "params": [
     0.2
    ]
@@ -524,7 +523,7 @@
    "energy": "0",
    "id": 639823,
    "name": "Trilateral Wiltcross",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +684,7 @@
    "energy": "0",
    "id": 355296,
    "name": "Octobolt Flash",
-   "iconPath": "2b2765db3ef02ffa3abd2b3ba91a83a73222ffd2d1ab3f0e712d4b7232c63042",
+   "iconPath": "a821f4c695653d23792479153a0d7e8ccc5331ccd074c989c94e4c6b8915bf06",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -984,13 +983,13 @@
   },
   {
    "tagHash": "AoE",
-   "descHash": "Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing <span style=\"color:#c75de2;\">Lightning </span>DMG up to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#6[i]%</nobr></span> of Acheron's ATK to a single target enemy, as well as <span style=\"color:#c75de2;\">Lightning </span>DMG up to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#7[i]%</nobr></span> of Acheron's ATK to other targets.<br /><br />Rainblade: Deals <span style=\"color:#c75de2;\">Lightning </span>DMG equal to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot from the target. When Crimson Knot is removed, immediately deals <span style=\"color:#c75de2;\">Lightning </span>DMG equal to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[f1]%</nobr></span> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, this DMG Multiplier is additionally increased, up to a maximum of <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[f1]%</nobr></span>.<br /><br />Stygian Resurge: Deals <span style=\"color:#c75de2;\">Lightning </span>DMG equal to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> of Acheron's ATK to all enemies and remove all Crimson Knots.<br />Crimson Knot cannot be applied to enemies during the Ultimate.",
+   "descHash": "Sequentially unleash Rainblade 3 times and Stygian Resurge 1 time, dealing <span style=\"color:#c75de2;\">Lightning </span>DMG up to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#6[i]%</nobr></span> of Acheron's ATK to a single target enemy, as well as <span style=\"color:#c75de2;\">Lightning </span>DMG up to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#7[i]%</nobr></span> of Acheron's ATK to other targets.<br /><br />Rainblade: Deals <span style=\"color:#c75de2;\">Lightning </span>DMG equal to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> of Acheron's ATK to a single target enemy and removes up to 3 stacks of Crimson Knot from the target. When Crimson Knot is removed, immediately deals <span style=\"color:#c75de2;\">Lightning </span>DMG equal to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[f1]%</nobr></span> of Acheron's ATK to all enemies. For every stack of Crimson Knot removed, this DMG Multiplier is additionally increased, up to a maximum of <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#5[f1]%</nobr></span>.<br /><br />Stygian Resurge: Deals <span style=\"color:#c75de2;\">Lightning </span>DMG equal to <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> of Acheron's ATK to all enemies and remove all Crimson Knots.<br /><br />Crimson Knot cannot be applied to enemies during the Ultimate.",
    "ultimateCost": 9,
    "break": "15/hit",
    "energy": "0",
    "id": 439237,
    "name": "Slashed Dream Cries in Red",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1349,13 +1348,13 @@
   },
   {
    "tagHash": "Enhance",
-   "descHash": "When Slashed Dream reaches <nobr>#1[i]</nobr> point(s), the Ultimate can be activated. During the Ultimate, reduces enemies' Toughness regardless of Weakness Types and reduces all enemies' All-Type RES by <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>, lasting until the end of the Ultimate.<br />When any unit inflicts debuffs on an enemy target while using their ability, Acheron gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on the target. If debuffs are inflicted on multiple targets, then the 1 stack of Crimson Knot will be inflicted on the enemy target with the most Crimson Knot stacks. This effect can only trigger once per every ability usage.<br />After an enemy target exits the field or gets defeated by any unit while Acheron is on the field, their Crimson Knot stacks will be transferred to the enemy target with the most Crimson Knot stacks on the whole field.",
+   "descHash": "When Slashed Dream reaches <nobr>#1[i]</nobr> point(s), the Ultimate can be activated. During the Ultimate, reduces enemies' Toughness regardless of Weakness Types and reduces all enemies' All-Type RES by <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>, lasting until the end of the Ultimate.<br />When any unit inflicts debuffs on an enemy target while using their ability, Acheron gains 1 point of Slashed Dream and inflicts 1 stack of Crimson Knot on a target. If debuffs are inflicted on multiple targets, then the 1 stack of Crimson Knot will be inflicted on the enemy target with the most Crimson Knot stacks. This effect can only trigger once for every ability use.<br />After an enemy target exits the field or gets defeated by any unit while Acheron is on the field, their Crimson Knot stacks will be transferred to the enemy target with the most Crimson Knot stacks on the whole field.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 154710,
    "name": "Atop Rainleaf Hangs Oneness",
-   "iconPath": "4991aa8fe3558d340c3ef2bfd5f5d9096798e6000b7e4eb0ffa01c0c148745b2",
+   "iconPath": "221738a182c2b155974a4c0c07b3a617e6dbd1d1511c63575ee795f4801160ad",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1645,7 +1644,7 @@
    "energy": "0",
    "id": 954124,
    "name": "Attack",
-   "iconPath": "58fe773118753639da43f4b4dbf38ea138cdcabcb85f79bd0bd9fa75500af12b",
+   "iconPath": "e6a15963cee5f678de96562862cb1e5d45b0be906dadba4e6b4a28d90f55d837",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1661,13 +1660,13 @@
   },
   {
    "tagHash": "",
-   "descHash": "Immediately attacks the enemy. At the start of each wave, gains Quadrivalent Ascendance, dealing <span style=\"color:#c75de2;\">Lightning </span>DMG equal to <nobr>#1[i]%</nobr> of Acheron's ATK to all enemies and reducing Toughness of all enemies irrespective of Weakness Types. When Weakness is broken, triggers the <span style=\"color:#c75de2;\">Lightning </span>Weakness Break effect.<br />Quadrivalent Ascendance: After using the Ultimate, Acheron gains <nobr>#2[i]</nobr> point(s) of Slashed Dream and inflicts <nobr>#2[i]</nobr> stack(s) of Crimson Knot on a single random enemy.<br />If attacking a normal enemy, immediately defeats them without entering combat. When not hitting enemies, no Technique Points are consumed.",
+   "descHash": "Immediately attacks the enemy. At the start of each wave, gains Quadrivalent Ascendance, dealing <span style=\"color:#c75de2;\">Lightning </span>DMG equal to <nobr>#1[i]%</nobr> of Acheron's ATK to all enemies and reducing Toughness of all enemies irrespective of Weakness Types. When breaking Weaknesses, triggers the <span style=\"color:#c75de2;\">Lightning </span>Weakness Break effect.<br />Quadrivalent Ascendance: After using the Ultimate, Acheron gains <nobr>#2[i]</nobr> point(s) of Slashed Dream and inflicts <nobr>#2[i]</nobr> stack(s) of Crimson Knot on a single random enemy.<br />If attacking a normal enemy, immediately defeats them without entering combat. When not hitting enemies, no Technique Points are consumed.",
    "ultimateCost": 0,
    "break": "60",
    "energy": "0",
    "id": 70769,
    "name": "Quadrivalent Ascendance",
-   "iconPath": "f994082615a6791b3f40f7fb5a4dd56345f3061eeafb844157a0cb3c1dfe8aff",
+   "iconPath": "e8eeade7747ffa2975fd8ef9f5ddc16f7a58784a2e2563665231630a5df3f390",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1692,7 +1691,7 @@
    "energy": "0",
    "id": 154711,
    "name": "Rainblade",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1997,7 +1996,7 @@
    "energy": "0",
    "id": 271356,
    "name": "Rainblade",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2302,7 +2301,7 @@
    "energy": "0",
    "id": 954125,
    "name": "Rainblade",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2607,7 +2606,7 @@
    "energy": "0",
    "id": 70770,
    "name": "Stygian Resurge",
-   "iconPath": "b743704b7b3ed256dbc367d73edc742727d290092da2f4d40329103994c7df64",
+   "iconPath": "c87113005c6721ee5da58a15a6aca80b49a11439c64d0c72c24c950f7afc80d9",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2984,11 +2983,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "When battle starts, immediately gains <nobr>#1[i]</nobr> point(s) of Slashed Dream and applies <nobr>#1[i]</nobr> stack(s) of Crimson Knot to a random enemy. When Slashed Dream reaches its upper limit, for every point of Slashed Dream that exceeds the limit, gains 1 stack of Quadrivalent Ascendance. Increases the maximum stackable count for Quadrivalent Ascendance to <nobr>#2[i]</nobr>.",
+    "descHash": "When battle starts, immediately gains <nobr>#1[i]</nobr> point(s) of Slashed Dream and applies <nobr>#1[i]</nobr> stack(s) of Crimson Knot to a random enemy. When Slashed Dream reaches its upper limit, for every point of Slashed Dream that exceeds the limit, gains 1 stack of Quadrivalent Ascendance. Enables Quadrivalent Ascendance to stack up to <nobr>#2[i]</nobr> time(s).",
     "ultimateCost": 0,
     "id": 76442,
     "name": "Red Oni",
-    "iconPath": "9522620e04f20b7d6b642d2e754f803373455ce52fabf7453a61015d11a48281",
+    "iconPath": "3b9e60fa6b782292abd846f1713b011be0ef91600abd22723c5243e7f058f5b4",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -3130,7 +3129,7 @@
     "ultimateCost": 0,
     "id": 76445,
     "name": "The Abyss",
-    "iconPath": "5b174d18d7e7d6aa171e07c508de164561b3c659c70e8ef91f60dc9088a477a1",
+    "iconPath": "d09b4f4b65a0a0e321126847e90435cbbbe8ee6ab8699f0906754cc21756e1d0",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -3241,7 +3240,7 @@
     "ultimateCost": 0,
     "id": 76444,
     "name": "Thunder Core",
-    "iconPath": "45e2ef4d90a9f7a28abfea0bfaf688c119eee1ffe447a2f8c6cc025f0771c7ea",
+    "iconPath": "d355b39e44c731c0f9b7ebb3f9c97541c73581178e115717bbc1635c8e67c44f",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -3426,12 +3425,12 @@
   {
    "id": 6,
    "title": "About Self: Identity",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Dreams, in essence, are meaningless. Their purpose is painted by the backdrop of life. Yet, if that backdrop is \"emptiness\"... then dreams are reduced to colorless, hollow shells.",
    "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"A Walk Among the Tombstones\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "e894a180a9981608b4c57431079623e4d13d0054cbe9a246462eea85a7491d9c",
+   "jpUrl": "2bf5db4dde1d16760266c2956d9126485b2c2a3922e94f321409c97609794e9a",
+   "enUrl": "7d605dc4ac9c7395467e9d5ebb93e8c2734a0fccd758fc8c4a35d249f3969fb2",
+   "krUrl": "2468f13e9707e8d1240d48d6b2793836f685a18fce410fa37b13d1db031c26b8"
   },
   {
    "id": 7,
@@ -3476,21 +3475,21 @@
   {
    "id": 11,
    "title": "Annoyances",
-   "text": "Coming soon - Stay tuned!",
+   "text": "When I awoke from that place, the sea's horizon still held faint thunder, and the falling blood rain was easing — the sight of that moment lay strikingly clear before me. All other memories, both prior and subsequent, paled and slowly ebbed away.",
    "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"A Walk Among the Tombstones\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "c6e3372573e30d0399079e4cf02ae8cd4c7da61603aca30dbb51045c980ac58e",
+   "jpUrl": "a047f85153c68597b61849acdfe9bb6a13fa901db41f7514ad23caebc97965e3",
+   "enUrl": "c398f29352076918b50d85342f03b741cae5aec4ed43c1690ac9b28a04dd59a2",
+   "krUrl": "ad799c9fd195e7b5a05a6a24bfc1864e5ee931e62a5d6d9984c931ab7861d45b"
   },
   {
    "id": 12,
    "title": "Something to Share: Weapon",
-   "text": "Curious about this blade? When unsheathed, it unveils the memories stored within — every instance I've swung it, in the beginning, the end... and nothingness.",
+   "text": "Curious about this blade? When unsheathed, every memory of having used it is unveiled... from Origin, to End... then Naught.",
    "unlockRequirement": "",
    "cnUrl": "de6dcc427794a3897ee79f1a0c3af4d9ad76f8a1e5a88b33a10c321fe319b5cc",
    "jpUrl": "677b38e00145fa37daaa71ca394a9ac88a233c0e833df62ba80934cf16231c5e",
-   "enUrl": "25a85b55b639a8172d034f42c50cf1a57536e389da3165cbda9f81a8754bc1a7",
+   "enUrl": "1438b357b3ce5962d3fa521dc251220e79cd49439fc4e7cfecc75a8e3dc8c5ce",
    "krUrl": "bb3432ece2a51edf1c8851dfa91fbbdf43fb978970cb9d3d8cea2a8a5fa16b2c"
   },
   {
@@ -3516,12 +3515,12 @@
   {
    "id": 15,
    "title": "Knowledge: Paths",
-   "text": "Coming soon - Stay tuned!",
+   "text": "Humans traverse the path of fate... seeking knowledge, craving revelation, striving to exist...",
    "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"A Walk Among the Tombstones\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "22cc19dfe635ac6e8a7c59f7cca017ee780aba9f7ba1e8350831914d6e8af883",
+   "jpUrl": "babe5ee9d6a6feaa54b5ae44851b83f4984e373f115a5fae14a49b4b282aaddc",
+   "enUrl": "55362848ae88e0e5fc6a4bc702a4f1237ad0beb112379c475cf15afe02f4691d",
+   "krUrl": "e7b4944732f4f07d1c4ef8abd2847b0af4f5f888a709d898962417399ae9e284"
   },
   {
    "id": 16,
@@ -3662,6 +3661,26 @@
    "jpUrl": "d9509528f3e8a4d73459b1303d41d60d85a2b68015a569eac05abe719cef9299",
    "enUrl": "b5fa0dda88deea8498c474a3f5a1f2f16f7ee1ce2bef31c61fc5d55a5b7eb110",
    "krUrl": "e6cab93f80f2c2269cda7f9a17797add8cc6d8a75638dbe2abd5ce17bc643e42"
+  },
+  {
+   "id": 30,
+   "title": "About Boothill",
+   "text": "Galaxy Ranger... His affiliation with the organization is merely a cover. It's evident that he lives only for himself, and that is exactly why I have faith in him.",
+   "unlockRequirement": "",
+   "cnUrl": "11bef2f1393fee88be482c7b80e4eecf159dff22c53dff07cf5254e0045baaa3",
+   "jpUrl": "d4c4dcaec1a75f8352b5a176aeae3979f3be9c32a35222a305b27b529d51e130",
+   "enUrl": "6b28895670d2707d6009c006ad153caf464e3a9a30449dedcfdfcdd499d3cee2",
+   "krUrl": "ecb611967f5f8f611d7ef0f7ada8ebae6174e407b41b85307e5694d7c1116383"
+  },
+  {
+   "id": 31,
+   "title": "Added to Team With Boothill",
+   "text": "You're fast... hand at the holster already?",
+   "unlockRequirement": "",
+   "cnUrl": "920e3198955bc657460319070b5eb772d76ddc133bc5977b6d2daed7cd0eea9b",
+   "jpUrl": "3afc98dc66137c9e09feaab97d7c5299727f4f4c3502bc28452136124c32c282",
+   "enUrl": "0bbd53ac6d16e596df6b7e9e5b30f39c9d113c0478b6d24a7244020a021aed63",
+   "krUrl": "2a43910a31a4add9b1250a31b106d9b08efcd2f03302c607e3636abfdb131b4b"
   },
   {
    "id": 51,
@@ -3831,7 +3850,7 @@
    "cnUrl": "0acc28a4f99053d4d8960c0c81e110940ba1553db42f7db992ecff0c1250f46b",
    "jpUrl": "51908b0ad7629a9abf94fda0e1627e50fba3a9cada5f59e07a02f0914b10b6e9",
    "enUrl": "9ca2eab1f57dd43a35fc174d3a063180511c822d9ebdf02b2fc5de259c17da70",
-   "krUrl": "2469e88654b183a9dc08635e8073add024803111f176f6974172bdd5b98f8275"
+   "krUrl": "7afda6b1f112d18625c2a50fb0d7ffa2bf2d1d325b2ebc81623bbf2be485eb1c"
   },
   {
    "id": 68,
@@ -3912,7 +3931,7 @@
   },
   {
    "title": "Character Story: Part I",
-   "text": "\"...Warriors don't choose their blades, but rather their blades choose them. ██████████████████████████████████████████████████████████████████████████... On that day, as I witnessed the blade I had crafted being passed on to that girl, I realized that in the fight against ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇, she had chosen — or been chosen — to embrace the path that ▇▇▇▇▇▇▇▇▇ led her toward a new tomorrow. ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ there would be a bright future. Despite the peril looming over the Izumo Kingdom, its people would hold onto hope, believing that the ▇▇▇▇▇▇▇▇▇ shall one day be vanquished, and the world shall be liberated... ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇...\"<br /><br /><align=\"right\">— An Ancient Scattered Manuscript</align>",
+   "text": "\"...Warriors don't choose their blades, but rather their blades choose them. ██████████████████████████████████████████████████████████████████████████... On that day, as I witnessed the blade I had crafted being passed on to that girl, I realized that in the fight against ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇, she had chosen — or been chosen — to embrace the path that ▇▇▇▇▇▇▇▇▇ led her toward a new tomorrow. ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ there would be a bright future. Despite the peril looming over Izumo, its people would hold onto hope, believing that the ▇▇▇▇▇▇▇▇▇ shall one day be vanquished, and the world shall be liberated... ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇...\"<br /><br /><align=\"right\">— An Ancient Scattered Manuscript</align>",
    "unlockRequirement": "Unlocked at Character Level <nobr>20</nobr>"
   },
   {
@@ -3932,22 +3951,22 @@
   },
   {
    "title": "Character Story: Part I",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"...Warriors don't choose their blades, but rather their blades choose them. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Just as people don't choose their fate, but rather their fate chooses them</span>... On that day, as I witnessed the blade I had crafted being passed on to that girl, I realized that in the fight against <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Yaoyorozu no Kami</span>, she had chosen — or been chosen — to embrace the path that <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">seemingly</span> led her toward a new tomorrow. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">How I wish that</span> there would be a bright future, that despite the peril looming over Izumo, its people would hold onto hope, believing that the <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">evil Kami</span> shall one day be vanquished, and the world shall be liberated... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">However, it was only when the blade's light waned that I came to a realization: This is an impasse with no escape, and those who venture upon it have no recourse to turn back</span>...\"<br /><br /><align=\"right\">— An Ancient Scattered Manuscript</align>",
    "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"A Walk Among the Tombstones\""
   },
   {
    "title": "Character Story: Part II",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"...Through the scrolls left behind by the blade forger, we have learned that Izumo was once on the brink of destruction. In order to survive, they forged blades from the <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">remains of Kami</span>, and those who wielded them were hailed as the saviors of their realm. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">The Guild is interested in the enigmatic Yaoyorozu no Kami mentioned in these scrolls, but the Path they are associated with remains shrouded in mystery. In later accounts, the people of Izumo ceased to refer to the wielders of the blades as 'heroes,' but rather as 'revenants.'</span><br /><br />Unfortunately, the world has long vanished from the astral charts. The truth of history eludes us, and the Remembrance no longer holds its place. When the Armed Archaeologists arrived, the galaxy resounded solely with the melody of the Enigmata: <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Dark Sun's</span> tears, rain's boundless outpour. Beneath faint curtain, survivor departs from her shore. Her homeland, <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">once saved, by her hands erased</span>... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Invisible shadows ahead, her vision encased.</span>\"<br /><br /><align=\"right\">— Oppenheimer, the Recorder</align>",
    "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"A Walk Among the Tombstones\""
   },
   {
    "title": "Character Story: Part III",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"I used the 'Revitalization<nobr>-310</nobr>' tincture, which induces a profound slumber, enabling individuals to relive their past memories. While some patients found <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">solace and rediscovered hope</span>, she proved an exception. No one has ever awakened from their dream state, yet she defied the odds. I closely observed her dreams... and they can hardly be called happy moments: gloomy skies, crumbling cities, ruined lands, and incessant rains.<br /><br />The rain never stopped. Amidst the swelling tide, individuals wore smiles even as they were drowned, and within the engulfing darkness, I heard the distant rumble of thunder, until, at a particular moment, lightning shattered the veil of night. Below the fractured sky, I saw her once more: Within a world fading into oblivion, she elegantly swung her blade, eradicating the entire realm of dreams.<br /><br />I must admit that she has ventured far beyond our progress on this path. The elusive <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Nihility</span> beckons her toward <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">self-annihilation</span>, yet she subtly holds its reins. Perhaps she was prepared to confront the true enemy from the very beginning of her journey... <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Once, I asked her about the purpose behind it all, but she remained silent. Was she at a loss for words? Or did she already have an answer in mind?</span>\"<br /><br /><align=\"right\">— A Note from a <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Doctor of Chaos</span></align>",
    "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"A Walk Among the Tombstones\""
   },
   {
    "title": "Character Story: Part IV",
-   "text": "Coming soon - Stay tuned!",
+   "text": "\"I am leaving this letter here. In the event that I do not return, let this letter bear witness to the tale of a companion I encountered in <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Orkron</span>. The journey to the other side was perilous, and it was thanks to her that I managed to navigate it through. <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">When I first met her, it appeared that she was on a certain quest, possibly seeking revenge. However, I soon realized that it wasn't the case, as a person consumed by hatred would inevitably expose it, yet she remained remarkably composed, with only fleeting glimpses of sorrow...</span><br /><br />...She had traversed numerous worlds before our paths crossed, and she possessed a wide range of life skills. Together, we cooked and established camps amidst the wilderness. On starless nights, she lent an ear to my stories and deliberated plans for the following day. Yet, more often than not, we journeyed in silence. The snow here bears a purplish-red hue, carrying the tangy flavor of raspberries. While <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">she has almost lost her sense of taste</span>, she appreciates the Orkron snow doughnuts I prepare...<br /><br />...Before meeting her, I had spent countless years wading through the river of <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Nihility</span>. She extended her hand to me, and together, we ventured along this river. Now, the time has come for us to part ways, and I have yet to reach the shore, uncertain of what lies ahead... Even so, I see no reason to halt my journey. Life is merely a road that eventually culminates, and until that moment arrives, I shall keep pressing forward. I am certain she would do the same.\"<br /><br /><align=\"right\">— A Note from <span style=\"display: inline-block; color: #ff3a3e; font-weight:bold;\">Frebass</span></align>",
    "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"A Walk Among the Tombstones\""
   }
  ],

@@ -6,9 +6,8 @@
  "fgPath": "dda3db5c89edf47cb29222a502980f671b6c1fa080816719ab226d2ca5dbfb1b",
  "splashIconPath": "2a99e36bac5404f0d572eaea97f47cffa4b023504d67cee9db81f469a1ed9fb5",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRswCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSCoBAAABkHPbtrG9wve5n23bZsneiO1UqlN9VWzbtm3btm3zuWfHSURMAAAjEBj8VxExf4ryalh9sBgFAGAA11+ie60l723iRMkZg9BwuAsMio8438hLr889ZN9jO/u3gMAV3ek4+uIlaS3J6TBwwQB+pZKWlvYrm8GIYA8dpeXri7SWjwIgQO5bqqry23vyG9fFRMMdM/iVqqqkfnG4b8IWzNp7m2qpavl14mNa8rlfzdZlmz/zHVX56TWVlktD4J48b86mXdcvOu945Rz5iV8mw6/r5lWNy2u2tO998MHCaQNnNQ1Og0kd2G/nhwenWy0dZnuu6rOmNQCYgpJREy+PuzxuLRc3tZiwJgm/BgGpkhHZacfdSsSm+/8iMCICIK4iAP8ogt/KXwEQwW8BVlA4IHwBAADQBwCdASoUABQAPm0ylUekIqIhKAgAgA2JZgCdMoSA8QzuyveXCfbvTczT/OfsAfqhvrv6Sh9uzZgFQCMWNDX+R6vQ786VAAD+z4E1Prn7hSk3RyJ302E+EJ7KP2pJs1T3JpxIzHsl9KrurIq/wWDj7fyCMqQoCnlsjv1xhww/PmGU7EJDpvRDY6sTkGTcRyCcyw7NFezoN7ZEJXB77Ziw14W/ZP1bXilgklS0Tf6uQo5yjnpt22fz2Ps67LcKZ0/YB9YLQYQYBr8UpIL2FEBMOx6lNaPr+nK3OuQTqmUrtLkFj/9SEy+yWSY/n03qQrsFGQmWPLz/Bb3YBKhke+iq3prXxw8Pn86fP608VmIgtQmwX/jxCcy4sP/g4/u1gGSi++OtWCu9Mft7yTBe70RPPcbrz2X3cxK5FPPbymqsA1emR+2sfpj8x2kvxAnoKVryQAZ1pec8ncKW/5mCXvFEzcF/783T+/Y/bf38kf0ITIL8T5tpIXHjI3QAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2288,7 +2287,7 @@
   },
   {
    "id": 19,
-   "title": "Level Max Karakter",
+   "title": "Level Max Tercapai",
    "text": "Oh, sudah ya? Aku sudah mencapai puncak?",
    "unlockRequirement": "",
    "cnUrl": "32926563b5f5017b5b1a3e10ecd30da9cb3471a503a6bd7a6163480c8845f349",

@@ -1,13 +1,12 @@
 {
  "name": "Concert pour deux",
  "rarity": 4,
- "descHash": "« Grand frère, qu'est-ce que c'est... »<br />« Ça fait longtemps que tu n'as pas chanté, non...? Alors, j'ai construit une scène rien que pour toi. C'est juste... un peu rudimentaire. »<br />« Mais le professeur a dit que je n'étais pas douée... »<br />« Moi je trouve que tu es très douée ! Tu vas réaliser tes rêves et un jour, tu monteras sur une scène encore plus grande que celle-ci... »<br />...<br /><br />Bien des années plus tard, elle se tient sur une scène éclatante, les yeux rivés sur les fans qui déferlent en bas. Elle reste perdue dans ses pensées le temps d'un instant...<br />Sur le long chemin de la poursuite des rêves, elle se souviendra toujours de ce regard encourageant et de son premier \"concert\".<br />Pas de lumières éblouissantes, pas de maquillage sophistiqué, juste un enfant qui a construit une scène pour encourager un autre enfant à poursuivre leur rêve.<br /><br />« À présent, nos rêves se sont réalisés. Mais... s'agit-il encore de \"nos\" rêves ? »<br />Elle prend le micro. La tristesse n'a pas le temps de la saisir que sonnent les premières notes de la prochaine chanson.",
+ "descHash": "« Grand frère, qu'est-ce que c'est... »<br />« Ça fait longtemps que tu n'as pas chanté, non...? Alors, j'ai construit une scène rien que pour toi. C'est juste... un peu rudimentaire. »<br />« Mais le professeur a dit que je n'étais pas douée... »<br />« Moi je trouve que tu es très douée ! Tu vas réaliser tes rêves et un jour, tu monteras sur une scène encore plus grande que celle-ci... »<br />...<br /><br />Bien des années plus tard, elle se tient sur une scène éclatante, les yeux rivés sur les fans qui déferlent en bas. Elle reste perdue dans ses pensées le temps d'un instant...<br />Sur le long chemin de la poursuite des rêves, elle se souviendra toujours de ce regard encourageant et de son premier « concert ».<br />Pas de lumières éblouissantes, pas de maquillage sophistiqué, juste un enfant qui a construit une scène pour encourager un autre enfant à poursuivre son rêve.<br /><br />« À présent, nos rêves se sont réalisés. Mais... s'agit-il encore de \"nos\" rêves ? »<br />Elle prend le micro. La tristesse n'a pas le temps de la saisir que sonnent les premières notes de la prochaine chanson.",
  "iconPath": "0eb5b2e7c3c90bdc0bd71294aa34f7e9670070aa86ce8b06d930e5df884b5c14",
  "artPath": "2105fa207135c58cd48f45dc52813cb0f313b8da65d96f6962b8143331670ecf",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRu4BAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSBgAAAABD9D/iAgYZBupd/5Qh/BgDxDR/ySu5hVWUDggsAEAABAJAJ0BKhQAHAA+bTCSRiQjIaEwGAgAgA2JaACdMoR2f+g4EGA2y3PEaYBvJn+4LEE7J6AzOaqBhKuZetuxW1KS7FvcM6DQJE1wOorF1CrdgAD++IMJ49vTdFVlcphbPeov3i1+w1eXrrtQgzKNP2/vRMjwT267bYgSqKunfYpMcYF1n1Co5bOrhF9h44hXQQoWVwE4Usl5vG9sxxR2vpkkz34Ri2HKAxHuYmpbuyGPx+NvHU5jAD782eI1HZo2MAA5iJ+3a+rD1h01cedUWhY8QnsIgwsjwnW44/Fy3CJr7//AtaK/o4NOnyjvjF4LoRxvJrO/4fMNmm/1w2fcLFXwIIWnbNSeS+bCEn+nwF8wrl4eUqZ30dl0oFLRFnT++2bPoVleWz/5YSFrvL+TpoGzqDnxPQJ3IlV/Bvs6drf0QeWe7GakXy1w1r7Lw89QUVLGou4rBBkUSruRAfvdiI7ckBwfBVkHu0uipV6B0IUO8JNkVvTylh+du93h4Swt5to7AvVF07zHWA+ZYRAGWyXNgI1vO1tRAioWW6IdXXpdEwJVyMJAyevTQR8KyAAAAA==",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "e7421e0463f72e78931ab4f095679b93190cccd06acfaaf57e4ce144ab2e663c",
  "baseType": {
@@ -358,7 +357,7 @@
  "skill": {
   "id": 21043,
   "name": "Inspiration",
-  "descHash": "Augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> la DÉF du porteur. Les DGT infligés par le porteur augmentent de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span> pour chaque personnage qui bénéficie d'un bouclier sur le champ de bataille.",
+  "descHash": "Augmente la DÉF du porteur de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>. Les DGT infligés par le porteur augmentent de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span> pour chaque personnage qui bénéficie d'un bouclier sur le champ de bataille.",
   "levelData": [
    {
     "params": [

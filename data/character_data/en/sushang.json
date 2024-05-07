@@ -6,9 +6,8 @@
  "fgPath": "2e9da4befdac98ad2633027365b60298d236ca6ce9fd0896f2dec33073474a40",
  "splashIconPath": "b86ed618c16cf8af3a5acca21fde505bb4d30a597618167cd8c25575da3678e8",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRowCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAkBAAABkGNb27E91/O+f2zbto3Wtp10SW9MwEmnynZS2rY1ABvPe53iwxgiYgKUPwmSxk9T0UGav37l180KxWjACeB1s4ppoTRpdQr/493i/qFAqjpLb8XMGcxTkhOk9kfAxpElKiUpUZh1IP6xbf6zRyqVShUPQ4axHTnRaVl3hVrXiZmNwebPd3Y3VtNtn7AxGJyxrEYVlRr7LSevidyvqERTweTawH9u9lWjk3d/Y8Bgm788V8NN239hG2wb/2eXNOoj/2PmXIwjz8onWkzezBgDcZASTXp6/sPP7zhmtuOPYcpfZ8iQK0DGufptKqeSgnLLznv88y+/1nWvqvwhTaQKzXsOHju7WYkAAFZQOCBcAQAAsAcAnQEqFAAUAD5tMJJHJCKhoSgKqIANiWwAuzMziDnC/S7YDn0fQBvFe8lVwBQI7twMjHKfSamicDQ2+zNtVnk+3CMLAAD9G6off+tW0Kf5JBBnDWCXLSLYqGn299yahF2DasIDB+qOWX57OV1qp6Vs+dPHnrpO7O08WwC6LAOg35OmoHKD0mVQoMYJ0IVJuWPuDqK5M0a82XhhFaic/BRBxL6yFN2u2VnUyi8ZGv/vpgkRK+4W9WoO8SoCvyz53lDv3bznRtmlYwirmaJov9omeiOp8OpJT3XV5Hxxvy99ISH0+S2w7Yiq/evrN9/5/8JfEHX/j3Vv9iBRd/6qLHwETfEZTAPyd1xbZ+VwpsrH9kgus37jfoHy7aQQzb7eDFgASfTfWL0qUwYTs9Nc/7yG/y/OPE/+YS4qSf9PmyadtKjgkjgdqA0wte671DMOU6dKjAYPhJjoAAAA",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2166,7 +2165,7 @@
   {
    "id": 6,
    "title": "Hobbies",
-   "text": "When I was a kid, I was mesmerized by the Foxian gents on the streets telling the stories of the Cloud Knight martyrs. If my Ma didn't drag me away, I would have listened to them all day!",
+   "text": "When I was a kid, I was mesmerized by the foxian gents on the streets telling the stories of the Cloud Knight martyrs. If my Ma didn't drag me away, I would have listened to them all day!",
    "unlockRequirement": "",
    "cnUrl": "94949ce04fe029e6e99d73194f5fef637b0d2fc822bfe91362b3443b153abcda",
    "jpUrl": "f5ad02492183add4515d8f66bfe5a1757daca44e55e5b87fbf78832a8a2035b8",

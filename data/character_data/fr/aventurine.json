@@ -6,9 +6,8 @@
  "fgPath": "4cbe7d3125ee7572488ad827297310fc2e95a9e6f6c9a1a997e35ff26c841576",
  "splashIconPath": "a689849f61af1ba601f65834a8414859806b23ad28488916cadee237ae1c4541",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRngCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAoBAAABkGtr27E59/u9Y9v2VLbtmWpiO6lyAEmVVpVaO6WNPm1KG5X1vvcdfP8cQ0RMACIai/8tFmksgIbVG9JgIwVA+ro7Xno4BBsBZQdeS/I/9SQX4WlbPkrOkfqh/YgPqX2un56h+rQ5MQT35USKpNPRmJDEF/KUKFGf92UCMKh2okhJ9DqykAUE6Jeo/+n1dMt8A0w02hfh9KBhKgYAdslTokjqVyGCoH7LWcmLEiWv1zUwia3tay5+FimK/K1TMAB69u54K5IivR6XA0BC0cLr6+6Hk6f7qRv1FkBgunavviRJvyVtaY0FABuD5D2Xlh38rUc7u6ctwqMsAIxtjwEW8iIAxgQAYAP8D1ZQOCBIAQAA8AcAnQEqFAAUAD5tMJNHJCKhoSgKqIANiWwAnTKDK50gegDCjtwA9hjeZJgDsUeAMWszVJou6zB0dWrP0f2X5KQsDPUQi1NAAP75ERkVgApui9kq67UZKwS0Okbee1VuYFQeyfyol/WX+uhCc+XHoTtFoSRSBW0BrtSXauok4lMSRarIne55nsjTV8kLkvT74z57vJjv6cPCB2FLVu3uBhy98ClLdmW2jF7u/8co6IXRsplfiZucLFPx/n7qbVXOYqq61RYQc9/EthBHFMkzFcgzHCKAIWyPzX5V+jA9/EjfP7aEphrjW+Qtpjx/1pT9xczC4bfNU1JyWI3duN1Lvhr+D5bnebfXfNyXtNeuqgQ6J1Vrzb/fv0kHX2mzCLteymTSihB3KyqLPpJP+Tf6A49G88yMYj+WkHu+6jhAS+cB6h9xuYAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,10 +439,10 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "3ac152b38ca090369a4b7f1dccd8f2350f4cd3ad6e292d801dfd756f0755acd9",
+   "iconPath": "157993c5b42d4644c2878cf5de16cb88e7c20a4a149eac13a4c843ed456f266d",
    "artPath": "f1e7851884ab9a87b810985c9de55b2828f0f9e1a7279a7aec8ad14b033d5ffa",
    "name": "Dilemme du prisonnier",
-   "descHash": "Augmente de <nobr>#1[i]%</nobr> les DGT critiques des alliés qui bénéficient de Mise renforcée. Après avoir utilisé l'ultime, accorde à tous les alliés un bouclier de Mise renforcée dont la valeur de bouclier est équivalente à <nobr>#2[i]%</nobr> de celle accordée par la compétence. Dure <nobr>#3[i]</nobr> tours.",
+   "descHash": "Augmente les DGT critiques des alliés qui bénéficient de Mise renforcée de <nobr>#1[i]%</nobr>. Après avoir utilisé l'ultime, accorde à tous les alliés un bouclier de Mise renforcée dont la valeur de bouclier est équivalente à <nobr>#2[i]%</nobr> de celle accordée par la compétence. Dure <nobr>#3[i]</nobr> tours.",
    "params": [
     0.2,
     1,
@@ -452,10 +451,10 @@
   },
   {
    "id": 2,
-   "iconPath": "34b2edb34b4aa5cad91d5236c0b83640c1d4f42b3de06e093b3513ac019e935a",
+   "iconPath": "402d97965c55e9738fdc33a61faea03f4d0355445059af87a284eecb2612fc94",
    "artPath": "fee8a2d2beeb5fd9f3af77f6a826f96188aec5153236c948caebe80773578ec3",
    "name": "Rationalité limitée",
-   "descHash": "Réduit de <nobr>#2[i]%</nobr> toutes les RÉS de type de la cible pendant <nobr>#3[i]</nobr> tours lors de l'utilisation de l'ATQ normale.",
+   "descHash": "Réduit toutes les RÉS de type de la cible de <nobr>#2[i]%</nobr> pendant <nobr>#3[i]</nobr> tours lors de l'utilisation de l'ATQ normale.",
    "params": [
     1.2,
     0.12,
@@ -464,7 +463,7 @@
   },
   {
    "id": 3,
-   "iconPath": "f616e61289ea1857d2ca768e2f191bcec434bea75a7016b752801acdca91408b",
+   "iconPath": "1b7f3c20817245a9111200fe402771636fdc6fc7c97c2a3098ea5af13047acd3",
    "artPath": "04307835faaf0b102e14c9e08dabc018b9002ec820bbb1066eb33c9d21b7e1ab",
    "name": "Rendement maximal",
    "descHash": "Niv. de l'ultime +2, jusqu'au niv. <nobr>15</nobr> maximum.<br />Niv. de l'ATQ normale +1, jusqu'au niv. <nobr>10</nobr> maximum.",
@@ -472,7 +471,7 @@
   },
   {
    "id": 4,
-   "iconPath": "db63f088d58d92536c5a257771b609ef6bfc4fdabd1037fc3ee346359f373e3e",
+   "iconPath": "f402e04a64cd14e803270d59e7edb4cb4469dd7f514ded92607b5bfc65737cff",
    "artPath": "e10ee14a20ea7356bca45c28d2c1d0716a47fac1596ff8a8d3d2bee81e57bedc",
    "name": "Paradoxe inattendu",
    "descHash": "Lors du déclenchement de l'attaque de suivi de son talent, la DÉF d'Aventurine augmente de <nobr>#1[i]%</nobr> pendant <nobr>#2[i]</nobr> tours et le nombre de frappes par action de l'attaque de suivi déclenchée par son talent augmente de <nobr>#3[i]</nobr>.",
@@ -484,7 +483,7 @@
   },
   {
    "id": 5,
-   "iconPath": "277fb63e853550917ef926957cf7f2f41555745b346ae5cd2fa473080b33f48f",
+   "iconPath": "da11b1875ce44a803ecafa41639bdd347c49c2e77609a42d0a023c4ed528297a",
    "artPath": "1a2a12215436c8f443880e0ee699707ba2f78cc03fba2d4a2a44a246c6a53159",
    "name": "Aversion à l'incertitude",
    "descHash": "Niv. de la compétence +2, jusqu'au niv. <nobr>15</nobr> maximum.<br />Niv. du talent +2, jusqu'au niv. <nobr>15</nobr> maximum.",
@@ -492,7 +491,7 @@
   },
   {
    "id": 6,
-   "iconPath": "7687ec2a118429f78f2ab67cf96c9c2ca885861c183057841a0b8e66d6cf4b6e",
+   "iconPath": "334b6134660307587199db9b98e8ad0663f3cdbe5d6618db9ffc64cc362f7330",
    "artPath": "98a31834dc46cafb436e1d895385fb2342704bd2190ab4dd95955c560dc8ee68",
    "name": "Jeu de chasse",
    "descHash": "Les DGT infligés par Aventurine augmentent de <nobr>#1[i]%</nobr> pour chaque allié qui bénéficie d'un bouclier, jusqu'à une augmentation maximale de <nobr>#2[i]%</nobr>.",
@@ -528,7 +527,7 @@
    "energy": "20",
    "id": 689811,
    "name": "Pari direct",
-   "iconPath": "997e253b9a672af59462a9a814ac488a96292380d9d12ff4aeaf84243c096516",
+   "iconPath": "ac358824a168cae98a6784ffbdb8eca77d9c7ec56e25c6b474f7cfea69e917a1",
    "typeDescHash": "ATQ normale",
    "levelReq": 0,
    "promotionReq": 0,
@@ -683,13 +682,13 @@
   },
   {
    "tagHash": "Défense",
-   "descHash": "Accorde à tous les alliés un bouclier de Mise renforcée qui peut bloquer des DGT équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> de la DÉF d'Aventurine + <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]</nobr></span>pendant <nobr>#3[i]</nobr> tours. Lorsque l'effet Mise renforcée est obtenu à plusieurs reprises, la valeur de bouclier peut se cumuler jusqu'à <nobr>#4[i]%</nobr> du bouclier fourni par la compétence actuelle.",
+   "descHash": "Accorde à tous les alliés un bouclier de Mise renforcée qui peut bloquer des DGT équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[f1]%</nobr></span> de la DÉF d'Aventurine + <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]</nobr></span> pendant <nobr>#3[i]</nobr> tours. Lorsque l'effet Mise renforcée est obtenu à plusieurs reprises, la valeur de bouclier peut se cumuler jusqu'à <nobr>#4[i]%</nobr> du bouclier fourni par la compétence actuelle.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "30",
    "id": 372580,
    "name": "Pierre angulaire de la prospérité",
-   "iconPath": "277fb63e853550917ef926957cf7f2f41555745b346ae5cd2fa473080b33f48f",
+   "iconPath": "da11b1875ce44a803ecafa41639bdd347c49c2e77609a42d0a023c4ed528297a",
    "typeDescHash": "Compétence",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1009,7 +1008,7 @@
    "energy": "5",
    "id": 489225,
    "name": "Roi de la roulette",
-   "iconPath": "29b245a8e8eaddcc76134d17fd8bfcbf9265e0726d56f0e0dcd847439d0382ad",
+   "iconPath": "458ea3bb168cb65cf9b9599086a55832b81c946b7abbf5e4504d1674ef729e3f",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1323,13 +1322,13 @@
   },
   {
    "tagHash": "Rebond",
-   "descHash": "Augmente de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[f1]%</nobr></span> la RÉS aux effets d'un allié qui bénéficie de Mise renforcée. Aventurine récupère 1 Pari aveugle chaque fois qu'un allié qui bénéficie de Mise renforcée subit une attaque. Lorsqu'Aventurine bénéficie de Mise renforcée, il peut résister aux <u>malus de contrôle</u> 1 fois tous les <nobr>#5[i]</nobr> tours et il récupère <nobr>#1[i]</nobr> Pari aveugle supplémentaire lorsqu'il est attaqué. À 7 Paris aveugles, Aventurine utilise tous les paris pour lancer une <u>attaque de suivi</u> qui inflige <nobr>#2[i]</nobr> frappes. Chacune de ces frappes inflige des DGT imaginaires équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> de la DÉF d'Aventurine à un ennemi aléatoire. Aventurine peut cumuler un maximum de <nobr>10</nobr> Paris aveugles.",
+   "descHash": "Tout allié qui bénéficie de Mise renforcée voit sa RÉS aux effets augmenter de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#4[f1]%</nobr></span>, et chaque fois qu'il est attaqué, Aventurine récupère 1 Pari aveugle. Lorsqu'Aventurine bénéficie de Mise renforcée, il peut résister aux <u>malus de contrôle</u> 1 fois tous les <nobr>#5[i]</nobr> tours et il récupère <nobr>#1[i]</nobr> Pari aveugle supplémentaire lorsqu'il est attaqué. À 7 Paris aveugles, Aventurine utilise tous les paris pour lancer une <u>attaque de suivi</u> qui inflige <nobr>#2[i]</nobr> frappes. Chacune de ces frappes inflige des DGT imaginaires équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> de la DÉF d'Aventurine à un ennemi aléatoire. Aventurine peut cumuler un maximum de <nobr>10</nobr> Paris aveugles.",
    "ultimateCost": 0,
    "break": "10/hit",
    "energy": "1/hit",
    "id": 974338,
    "name": "Visé juste",
-   "iconPath": "3f63f1114b85125cf4470f0afeba4e1ef9181ddffd05790872d48cd578e58b5b",
+   "iconPath": "ae1812108cda5e4ad825672c267bc5e0168699c56b8859e8014caa63ee5e0738",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1664,7 +1663,7 @@
    "energy": "0",
    "id": 773752,
    "name": "Attaque",
-   "iconPath": "997e253b9a672af59462a9a814ac488a96292380d9d12ff4aeaf84243c096516",
+   "iconPath": "ac358824a168cae98a6784ffbdb8eca77d9c7ec56e25c6b474f7cfea69e917a1",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1686,7 +1685,7 @@
    "energy": "0",
    "id": 857693,
    "name": "Rouge ou noir",
-   "iconPath": "20175612e70bd89f319f86335f814a90abc244537e56412797daa34feaa23253",
+   "iconPath": "537796864511e7f658cfe17292517a73a989444cc18dba5c619eba6783d75b42",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1814,11 +1813,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "Aventurine récupère 1 Pari aveugle chaque fois qu'un allié qui bénéficie de Mise renforcée lance une attaque de suivi. Cet effet peut se déclencher jusqu'à <nobr>#3[i]</nobr> fois et son nombre de déclenchements se réinitialise au début du tour d'Aventurine. Lorsqu'Aventurine déclenche l'attaque de suivi de son talent, il accorde à tous les alliés un bouclier de Mise renforcée qui peut bloquer des DGT équivalents à <nobr>#1[i]%</nobr> de la DÉF d'Aventurine + <nobr>#2[i]</nobr> et accorde également une Mise renforcée qui peut bloquer des DGT équivalents à <nobr>#4[i]%</nobr> de la DÉF d'Aventurine + <nobr>#5[i]</nobr>à l'allié qui a la valeur de bouclier la plus faible pendant 3 tours.",
+    "descHash": "Aventurine récupère 1 Pari aveugle chaque fois qu'un allié qui bénéficie de Mise renforcée lance une attaque de suivi. Cet effet peut se déclencher jusqu'à <nobr>#3[i]</nobr> fois et son nombre de déclenchements se réinitialise au début du tour d'Aventurine. Lorsqu'Aventurine déclenche l'attaque de suivi de son talent, il accorde à tous les alliés un bouclier de Mise renforcée qui peut bloquer des DGT équivalents à <nobr>#1[i]%</nobr> de la DÉF d'Aventurine + <nobr>#2[i]</nobr> et accorde également une Mise renforcée qui peut bloquer des DGT équivalents à <nobr>#4[i]%</nobr> de la DÉF d'Aventurine + <nobr>#5[i]</nobr> à l'allié qui a la valeur de bouclier la plus faible pendant 3 tours.",
     "ultimateCost": 0,
     "id": 126432,
     "name": "Bingo !",
-    "iconPath": "5d5bbd0ca16f1d22a2c47f2db02c5eb2c9d4b58e4736f6e159149c07f3b0e06b",
+    "iconPath": "51488864da1f5ec657c4ebb7e5701e7618d57f728369206f6fae80651bd57e82",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -1938,7 +1937,7 @@
       "ultimateCost": 0,
       "id": 126430,
       "name": "Par ricochet",
-      "iconPath": "8fbf95d6a7f34d4977605da2d3bb6edf2b24fe48039dce72392dde20e3f77cee",
+      "iconPath": "6b5ed9aec93690defb8021379b0ae579ab6ff35bc40cf6ad4c6bf7a2c3cac104",
       "levelReq": 0,
       "promotionReq": 2,
       "levelData": [
@@ -2047,7 +2046,7 @@
       "ultimateCost": 0,
       "id": 126433,
       "name": "En veine",
-      "iconPath": "9058380058c943c09be0b2ef74dcd42ad7cf96585d85b87eca928fa5fbf74144",
+      "iconPath": "ff8481c7ef50a23c7032bbb33d178257c845819bea19c7722c5eb721fc89079d",
       "levelReq": 0,
       "promotionReq": 4,
       "levelData": [
@@ -2310,7 +2309,7 @@
    "text": "Les horlogers de Penacony ne vivent pas exclusivement de la fabrication de montres, et pourtant, cet endroit est un véritable aimant pour les horlogers de talent. Regarde cette pièce, par exemple. Ses aiguilles et son cadran sont imprégnés de souvenirs, lui permettant de changer d'apparence en fonction des émotions du porteur... Quant à moi, je me contenterais sûrement de changer de montres.",
    "unlockRequirement": "",
    "cnUrl": "e626357a5b295949ec257c916e44d144e8d6c89479af212f4ad2d96443b7cda1",
-   "jpUrl": "eb0edb905a6efd981d747e7f772efa356e7ea59276449c97998c63843861c545",
+   "jpUrl": "23ed7df79dbe6e5d5e57477655d8803ff31bf98f50a68a2dd346829c5d66bad0",
    "enUrl": "54a562817a9c2f914d1d2e0f2e1a013ff70bdad90d25b13540b5eebd3ae2a2aa",
    "krUrl": "17f8fa75f65181fd015b4087b63d81f732fe3993c2f276dcdf670c7a82efa0a4"
   },
@@ -2577,7 +2576,7 @@
   {
    "id": 61,
    "title": "Activation de l'ultime",
-   "text": "Les dés en sont jetés.",
+   "text": "Les dés sont jetés.",
    "unlockRequirement": "",
    "cnUrl": "faafa45b93dc0a923086b0e3f15c0050aa229b4817a1c20cf042a09d2083f509",
    "jpUrl": "27c8b0fcfa0d3821473d2db55f5214ebecf51f8532a1c1be0bf6fa817f2e10b8",
@@ -2748,7 +2747,7 @@
   },
   {
    "title": "Histoire du personnage : Partie II",
-   "text": "« Je dois dire que tu m'impressionnes, mon garçon... Je n'arrive toujours pas à comprendre comment tu as réussi à vider mon entreprise, mais je ne m'avouerai jamais vaincu. Je ferai tout sauter s'il le faut... Qu'est-ce que tu feras pour m'en empêcher ? »<br />Le Taureau fou d'Iymanika fait signe à ses acolytes de lâcher l'homme. Celui-ci relève la tête de la table et époussette son col.<br />« Vous autres, les chiens arrogants de la CPI, vous n'avez aucun respect pour nous, les nomades. Mais maintenant que tu es sur notre territoire, tu vas devoir te soumettre à nos règles. »<br /><br />Taureau fou ouvre le barillet de son revolver et ne garde qu'une cartouche. Il jette l'arme aux pieds de l'autre.<br />« Six coups. C'est le destin qui décidera si tu vis ou si tu meurs après ces six coups. Est-ce que tu auras assez de cran ? »<br /><br />L'autre se baisse et prend le revolver en main.<br />« Bien trop de personnes ont pointé une arme sur moi. Certaines sont même allées jusqu'à appuyer sur la détente... Devine comment je suis toujours debout. »<br />L'homme se relève, regarde Taureau fou droit dans les yeux, lève l'arme et la place sur son propre cœur.<br />« C'est parce que l'arme finit toujours entre mes mains. »<br /><br />« Et ce petit jeu commence à me fatiguer... Une chance sur six ? C'est loin d'être suffisant. Si tu veux provoquer le destin... »<br />Six coups de feu résonnent dans le vaisseau où régnait un silence de plomb. La fumée dissipée, l'homme lève à nouveau l'arme et avance vers Taureau fou. Le barillet contient à nouveau une balle.<br />« Tu dois être aussi versatile qu'un dé. »<br />« Pourquoi tu ne te rends pas ? Parce que tu es doué à ce jeu de hasard ? Ou... »<br />Il pointe l'arme vers les ténèbres.<br />« À cause d'elle ? »<br /><br />Une femme tenant un pistolet émerge lentement des ténèbres vers lesquelles pointe le revolver. Taureau fou réagit comme s'il tenait là sa planche de salut.<br />« Madame Jade, ce n'est pas ce dont nous avions convenu... »<br />Au même moment, les deux ouvrent le feu et deux silhouettes vêtues de noir s'écroulent dans les ombres derrière eux.<br /><br />« La CPI a des ennemis partout, n'est-ce pas ? » La femme range calmement son pistolet, sort un petit miroir et vérifie son apparence.<br />« Vous nous avez utilisés comme appâts, vous leur avez fait croire qu'on avait un contentieux, puis vous les avez tous éliminés... Jolie manœuvre, mais un peu risquée quand même. » Il accueille la femme un sourire aux lèvres, mais ses mains tremblent légèrement.<br /><br />« Une manœuvre ? Non, c'était juste un test. »<br />La femme élégante ouvre la main, dévoilant une aventurine brillant d'une couleur étrange. »<br />« Il n'y a rien de surprenant. Les pierres précieuses sont destinées à être... désirées, recherchées, taillées et vendues. »<br />« Toutefois, on peut faire bien plus avec. Tout dépend de la façon dont on considère les choses. »",
+   "text": "« Je dois dire que tu m'impressionnes, mon garçon... Je n'arrive toujours pas à comprendre comment tu as réussi à vider mon entreprise, mais je ne m'avouerai jamais vaincu. Je ferai tout sauter s'il le faut... Qu'est-ce que tu feras pour m'en empêcher ? »<br />Le Taureau fou d'Iymanika fait signe à ses acolytes de lâcher l'homme. Il relève la tête de la table et époussette son col.<br />« Vous autres, les chiens arrogants de la CPI, vous n'avez aucun respect pour nous, les nomades. Mais maintenant que tu es sur notre territoire, tu vas devoir te soumettre à nos règles. »<br /><br />Taureau fou ouvre le barillet de son revolver et ne garde qu'une cartouche. Il jette l'arme aux pieds de l'autre.<br />« Six coups. C'est le destin qui décidera si tu vis ou si tu meurs après ces six coups. Est-ce que tu auras assez de cran ? »<br /><br />L'autre se baisse et prend le revolver en main.<br />« Bien trop de personnes ont pointé une arme sur moi. Certaines sont même allées jusqu'à appuyer sur la détente... Devine comment je suis toujours debout. »<br />L'homme se relève, regarde Taureau fou droit dans les yeux, lève l'arme et la place sur son propre cœur.<br />« C'est parce que l'arme finit toujours entre mes mains. »<br /><br />« Et ce petit jeu commence à me fatiguer... Une chance sur six ? C'est loin d'être suffisant. Si tu veux provoquer le destin... »<br />Six coups de feu résonnent dans le vaisseau où régnait un silence de plomb. La fumée dissipée, l'homme lève à nouveau l'arme et avance vers Taureau fou. Le barillet contient à nouveau une balle.<br />« Tu dois être aussi versatile qu'un dé. »<br />« Pourquoi tu ne te rends pas ? Parce que tu es doué à ce jeu de hasard ? Ou... »<br />Il pointe l'arme vers les ténèbres.<br />« À cause d'elle ? »<br /><br />Une femme tenant un pistolet émerge lentement des ténèbres vers lesquelles pointe le revolver. Taureau fou réagit comme s'il tenait là sa planche de salut.<br />« Madame Jade, ce n'est pas ce dont nous avions convenu... »<br />Au même moment, les deux ouvrent le feu et deux silhouettes vêtues de noir s'écroulent dans les ombres derrière eux.<br /><br />« La CPI a des ennemis partout, n'est-ce pas ? » La femme range calmement son pistolet, sort un petit miroir et vérifie son apparence.<br />« Vous nous avez utilisés comme appâts, vous leur avez fait croire qu'on avait un contentieux, puis vous les avez tous éliminés... Jolie manœuvre, mais un peu risquée quand même. » Il accueille la femme un sourire aux lèvres, mais ses mains tremblent légèrement.<br /><br />« Une manœuvre ? Non, c'était juste un test. »<br />La femme élégante ouvre la main, dévoilant une aventurine brillant d'une couleur étrange. »<br />« Il n'y a rien de surprenant. Les pierres précieuses sont destinées à être... désirées, recherchées, taillées et vendues. »<br />« Toutefois, on peut faire bien plus avec. Tout dépend de la façon dont on considère les choses. »",
    "unlockRequirement": "Disponible au niveau <nobr>40</nobr> de personnage"
   },
   {
@@ -2758,7 +2757,7 @@
   },
   {
    "title": "Histoire du personnage : Partie IV",
-   "text": "« Penacony... Est-ce que Diamant envisage enfin de faire quelque chose à ce sujet ? »<br />Le modèle miniature sur la table continue de tourner, alors que la bulle mémorielle de cristal émet de minuscules sphères de mousse.<br /><br />« Cette dette historique est inimaginable. Ce qui rend les bénéfices... incroyablement élevés. »<br />La personne devant lui a le dos tourné et contemple le ciel pourpre de l'Embarcadère au crépuscule.<br /><br />« Mais pourquoi moi ? »<br />La personne continue à lui tourner le dos. Même s'il a le regard vif, il ne parvient pas à déchiffrer la raison derrière cette décision.<br /><br />« Ça aurait dû être moi, mais Diamant pense que la coopération avec la Famille a encore une certaine valeur et espère que cette affaire pourra être résolue de manière pacifique.<br />Donc, après mûre réflexion, j'en ai conclu que tu étais le meilleur candidat. »<br /><br />« Ce n'est que la deuxième fois qu'on se voit. Vous me faites confiance à ce point ? »<br /><br />« Non, je ne t'ai jamais fait confiance. Jade peut-être, mais pas moi.<br />La chance ne sera peut-être pas de ton côté, ce coup-ci, et tu paieras pour la veine insolente que tu as eue jusqu'ici. »<br /><br />Enfin, la personne devant lui se retourne. La lumière opalescente se reflète sur le bâtiment au loin tandis qu'une boîte à musique joue son drôle de morceau.<br />« Mais n'est-ce pas là ce que tu as toujours souhaité ? »",
+   "text": "« Penacony... Est-ce que Diamant envisage enfin de faire quelque chose à ce sujet ? »<br />Le modèle miniature sur la table continue de tourner, alors que la bulle mémorielle de cristal émet de minuscules sphères de mousse.<br /><br />« Cette dette historique est inimaginable. Ce qui rend les bénéfices... incroyablement élevés. »<br />La personne devant lui a le dos tourné et contemple le ciel pourpre de l'Embarcadère au crépuscule.<br /><br />« Mais pourquoi moi ? »<br />La personne continue à lui tourner le dos. Même s'il a le regard vif, il ne parvient pas à déchiffrer la raison derrière cette décision.<br /><br />« Ça aurait dû être moi, mais Diamant pense que la coopération avec la Famille a encore une certaine valeur et espère que cette affaire pourra être résolue de manière pacifique.<br />Donc, après mûre réflexion, j'en ai conclu que tu étais le meilleur candidat. »<br /><br />« Ce n'est que la deuxième fois qu'on se voit. Vous me faites confiance à ce point ? »<br /><br />« Non, je ne t'ai jamais fait confiance. Jade peut-être, mais pas moi.<br />La chance ne sera peut-être pas de ton côté, ce coup-ci, et tu paieras pour la veine insolente que tu as eue jusqu'ici. »<br /><br />Enfin, la personne devant lui se retourne. La lumière opalescente reflète tout un kaléidoscope de couleurs sur le gratte-ciel au loin tandis qu'une boîte à musique joue son drôle de morceau.<br />« Mais n'est-ce pas là ce que tu as toujours souhaité ? »",
    "unlockRequirement": "Disponible au niveau <nobr>80</nobr> de personnage"
   }
  ],

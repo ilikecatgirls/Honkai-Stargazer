@@ -6,9 +6,8 @@
  "fgPath": "cbb1c01e976cebe66bd9f9cdd3496cc6f5a93f76c0597428bb4dcd450d730dac",
  "splashIconPath": "1a9427acfd1f096a90ca70972ccb997dcd3dd783985b26b415a9a5e50d517a49",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRqACAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSDcBAAABkHPbtrG9sveDz7Zt27ZtxLYro7PZJZVt20Zr285z744jYgLw34qC/1VNoiav9rEANPU/gJimrd8ezFIA9R963eZXnz6QvLksDKoJAAX6ZFJSCEE+iEO8JRTEbXTs8YSSUhrfeTKmtgAK3GbaIHD/M/mn4PWX4wANKOmK8e++S0FKfvo4AAp8Wi/N7kxL3EchpeCVPa2qjqjzr86sPXFeUkpS8H0yEHvw+w9+XtdnDUlJwXuBqWOOkPIbN1mMeC0MSoO7tAkkf0iDd98uXvn6CQV/ZCAueAb5g6eDEu0Dzt2lwVtm5gBm3SIfVgHJ4z/zG9dFJymKbmJZdmViug6bVfzKZ+Wne+Cv7lpq69AdT0ijtnW29x9a9vzvpPH12c0defi3Rd7oDTt6mForgAJV+ct/KioAAABWUDggQgEAAJAHAJ0BKhQAFAA+bTKVR6QioiEoCACADYlmAJ0ygy7JwEsQegB0spKqvGt9DewBukH63B5IL7r48Dsw6tLvpqlltx+HsAD+8eBcRrzTlFbJxZbifnfozsSfnQYIJ578/7z2ZTyQlG32sOskYluDaSp1czKA4VG/LtE+aDlVOM3OUj76zQ25AHxewToTGl/5/x7vO9WPvXIXog1HsgRmAOom01plhyGTkz1kRWqT2l1uR4nhOTEv206fcOWI4+bZAB3w4PSdvf99rWLbdipNEkuR/4CzbTN7ceUFJGLW8+KgyoSV3OeaEXxKuE2V3ZyP2K/rr7CAxbFqc/nwa7y7d4RURz4tvZpXo3dWriyQmP8Ifa3YG1LVnmM0aq+TLCv5Nw4rzw2Lra60CnUJM7HGl4+j4LkAS1ZC9DFOAOEL65HAAAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "64a0a203abb578b199e30810d3b98e3b04d792df8b2446063a54260491449048",
+   "iconPath": "afdc7ba21a0a1386cf47bdd1eb6e9465535cb7aed8aea6de46ad63b3065302bf",
    "artPath": "3b4f75168c7c92c0de802d1a435c759aaa43593c09e3271291b51281734123aa",
    "name": "Rêverie insaisissable",
    "descHash": "Lors de l'utilisation de l'ultime, augmente le nombre de frappes par action de l'ultime en cours de <nobr>#1[i]</nobr> pour chaque ennemi sur le champ de bataille, jusqu'à une augmentation maximale de <nobr>#2[i]</nobr> frappes.",
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "d14381519c40e07efa2984ae10a4b94241d8a189a1a4e274ba4c53f08cd78f6a",
+   "iconPath": "33a19f565aaf2f814dfb0048ed691a4e76841e679335b768e4f7aa1eaef0578d",
    "artPath": "4c15e577e0d8cb964b1f4583575753922a88d0110694f113b222b4096bf69c05",
    "name": "Mélancolie de la jeunesse",
    "descHash": "Avant chaque frappe de l'ultime, il y a <nobr>#3[i]%</nobr> de chances de base de réduire la DÉF de la cible de <nobr>#1[i]%</nobr> pendant <nobr>#2[i]</nobr> tours.",
@@ -463,7 +462,7 @@
   },
   {
    "id": 3,
-   "iconPath": "64fa1faad980625d5304ad67ca625454abacff8be9dc6cec788606ae89a7d822",
+   "iconPath": "b6f4437a747ed4faf7845e14dc3c2f7d0e1265d12114ae70770c1daae4cd78e1",
    "artPath": "94686de2335ae99ed51255046005a75c5d851bfdbbcf2d3b5434b39a316cd7fd",
    "name": "Vestiges du bonheur",
    "descHash": "Niv. de l'ultime +2, jusqu'au Niv. <nobr>15</nobr> maximum.<br />Niv. de l'ATQ normale +1, jusqu'au Niv. <nobr>10</nobr> maximum.",
@@ -471,17 +470,17 @@
   },
   {
    "id": 4,
-   "iconPath": "3e4e166c3d7e25097d36f11b12f31fb228f69168cbec3590cbc6abe843f8447d",
+   "iconPath": "09e8a88d37641a754cc9df51e5c448834a16c8e40e677d2faddb30362fbc3d83",
    "artPath": "c01a43ed3ff800848e25dad3208477fd65ae4fca114147af5bb54acde80d90c0",
    "name": "Présence bienveillante",
-   "descHash": "Augmente de <nobr>#1[i]%</nobr> le multiplicateur de DGT de chaque frappe de l'ultime.",
+   "descHash": "Augmente le multiplicateur de DGT de chaque frappe de l'ultime de <nobr>#1[i]%</nobr>.",
    "params": [
     0.06
    ]
   },
   {
    "id": 5,
-   "iconPath": "4374bf6a7d4233b8e2b9a467c29f6ff26e4a2ba4e3da86f753b9127e529f7699",
+   "iconPath": "dffc551bbdf9f00250f575be010de425d3297f148944ba17741ac84e77558790",
    "artPath": "bdc520574f5485289e73a22d6750c4341a4a6660846d0c3d514d2e4059396b1a",
    "name": "Genèse du premier amour",
    "descHash": "Niv. de la compétence +2, jusqu'au Niv. <nobr>15</nobr> maximum.<br />Niv. du talent +2, jusqu'au Niv. <nobr>15</nobr> maximum.",
@@ -489,10 +488,10 @@
   },
   {
    "id": 6,
-   "iconPath": "522236f2e402c98fdb0e2995d635bb29361eafb932051c4acd61510704167bd1",
+   "iconPath": "fd128d9d9a264d0b1630f5f3424d5e6bcdf3a4b24f2c8eb5adbe2e0e4a9ec824",
    "artPath": "0b4aa144cd876a324349b09faee57c378da13c4eefc8c6dc6d0a247a588bf32a",
    "name": "Distanciation du rêve",
-   "descHash": "Augmente de <nobr>#2[i]%</nobr> les DGT du personnage jusqu'à la fin du tour lorsqu'il utilise son ultime. D'autre part, régénère <nobr>#1[i]</nobr> point de compétence pour l'équipe lors de la prochaine utilisation de la compétence.",
+   "descHash": "Augmente les DGT du personnage jusqu'à la fin du tour lorsqu'il utilise son ultime de <nobr>#2[i]%</nobr>. D'autre part, régénère <nobr>#1[i]</nobr> point de compétence pour l'équipe lors de la prochaine utilisation de la compétence.",
    "params": [
     1,
     0.3
@@ -525,7 +524,7 @@
    "energy": "20",
    "id": 14910,
    "name": "P—Pardon de vous déranger !",
-   "iconPath": "01c0bdc68429c8ddcb25f8443deea5f75c1e9959843853576bd94328bcd3d455",
+   "iconPath": "44f4f9a3d6dcf60a9fdd52580f7f36aef28c360f215a11655ff1d9f1ec9838b0",
    "typeDescHash": "ATQ normale",
    "levelReq": 0,
    "promotionReq": 0,
@@ -686,7 +685,7 @@
    "energy": "30",
    "id": 98851,
    "name": "À votre service !",
-   "iconPath": "4374bf6a7d4233b8e2b9a467c29f6ff26e4a2ba4e3da86f753b9127e529f7699",
+   "iconPath": "dffc551bbdf9f00250f575be010de425d3297f148944ba17741ac84e77558790",
    "typeDescHash": "Compétence",
    "levelReq": 0,
    "promotionReq": 0,
@@ -987,7 +986,7 @@
    "energy": "5/hit",
    "id": 182792,
    "name": "J—Je vais être en retard !",
-   "iconPath": "02ecdce60d2ccf6f75b4727440c7e8cdad54ce0ac51314b46e80ad3f1c9e2227",
+   "iconPath": "68be36f1511ee25af47822e14b6a0533f303abd31a303f1cec22ec0b05359c27",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1318,7 +1317,7 @@
    "energy": "0",
    "id": 529797,
    "name": "Échappée minutée",
-   "iconPath": "b634853bf5ce4717b2c3a85e40aa870e539988fa6b6cf2854d9849e9d8eb8eb6",
+   "iconPath": "747857b98c1a03ae4006ef2f52386815af811e4fe30e4e00808d898cdcc8219d",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1604,7 +1603,7 @@
    "energy": "0",
    "id": 730383,
    "name": "Attaque",
-   "iconPath": "01c0bdc68429c8ddcb25f8443deea5f75c1e9959843853576bd94328bcd3d455",
+   "iconPath": "44f4f9a3d6dcf60a9fdd52580f7f36aef28c360f215a11655ff1d9f1ec9838b0",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1626,7 +1625,7 @@
    "energy": "0",
    "id": 814324,
    "name": "Pas si vite !",
-   "iconPath": "4398b0162a3b642a113aa5c99dbc6e12a46390216060e7c8c5b5714bb6728731",
+   "iconPath": "c12e3e8febecbedffb13eb5b77632b685dd625d17641f26c939e9db4a132e7e4",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1753,11 +1752,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "Augmente de <nobr>#1[i]%</nobr> les chances de base de geler la cible avant que la première frappe de l'ultime ne touche.",
+    "descHash": "Augmente les chances de base de geler la cible avant que la première frappe de l'ultime ne touche de <nobr>#1[i]%</nobr>.",
     "ultimateCost": 0,
     "id": 454569,
     "name": "Libération",
-    "iconPath": "1de0cb40e2189a17bb4052f9234a3093b4a7e2ea036e323a9562529c17790d7d",
+    "iconPath": "f697bcc9428a466082bb48dbe6bf8987769dde3d2fbad76ac70bf0a4c0fb8d3a",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1898,7 +1897,7 @@
     "ultimateCost": 0,
     "id": 454570,
     "name": "Verrouillage",
-    "iconPath": "e10779a1c12ceebc87e508e96b75a92a760081131988d5df4043c3211a21f674",
+    "iconPath": "8239328fd9461ff5202a4f90cd42949d7afd290a35388ac0f3a22412cc4c4ffe",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2038,11 +2037,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "Augmente de <nobr>#1[i]%</nobr> les DGT critiques du personnage contre les ennemis gelés.",
+    "descHash": "Augmente les DGT critiques du personnage contre les ennemis gelés de <nobr>#1[i]%</nobr>.",
     "ultimateCost": 0,
     "id": 454571,
     "name": "Transmission",
-    "iconPath": "7f29861afa9899ca2d01cac21b7ed36800dd9232a8485aafff85a8383363b298",
+    "iconPath": "b0988168ecaa522aff66f2d5533bfb092b06804ac748c83e7a99b65a65159329",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2357,6 +2356,16 @@
    "krUrl": "fe634019e5290d9054f631321b3123e5f9a742ea2953f178285739c2a6a9cc5d"
   },
   {
+   "id": 23,
+   "title": "Rejoint l'équipe avec Robin",
+   "text": "Oh mon Dieu, mademoiselle Robin est là... Je... Je... Il faut que je fasse de mon mieux !",
+   "unlockRequirement": "",
+   "cnUrl": "30c660c3a795598f301fe4c70046b8716291f484c5559aa8ed6acc89c1519d89",
+   "jpUrl": "2e84da1e6f485fe41b42fb311a67381db1210ae4ecb04c4242117625f771ff1a",
+   "enUrl": "7f581895826e538d1c4199167d9e104c23dde2a1949d717f17d660ae5525bad5",
+   "krUrl": "bdd8089292d79d0b6acfe852170ea45447df1d7d39cdc167a7b18affd44db8fd"
+  },
+  {
    "id": 51,
    "title": "Rupture de faiblesse en début de combat",
    "text": "Allez, je peux le faire...!",
@@ -2610,12 +2619,12 @@
   },
   {
    "title": "Histoire du personnage : Partie II",
-   "text": "Lorsque la montre-gousset marqua deux heures de l'après-midi, la fin de son service, il enfila son bleu de travail et entreprit une révision des machines.<br /><br />Walder le précédait, s'arrêtant parfois pour tapoter sur des mécanismes compliqués. Micha le suivait de près, l'oreille tendue vers les bruits mécaniques, trouvant sans mal les problèmes.<br /><br />La tâche du jour consistait à réparer une multitude d'horloges, de rouages endommagés, obsolètes ou rouillés. Micha y voyait des marins égarés en quête d'un guide.<br /><br />« Prenez à l'ouest, Monsieur Cadran au mur... Et vous, Monsieur Montre gousset ! Ne vous arrêtez pas là ! »<br />« Madame Alarme, allez manger avant de reprendre et vous trois, là-bas, suivez Monsieur Montre gousset ! »<br />À ce moment précis, les rouages défectueux s'animaient. Micha tournait les roues et réglait les aiguilles, comme un capitaine en pleine mer temporelle.<br />« Capitaine Micha, nous avons retrouvé notre route ! »<br />« Le brouillard s'est levé ! L'objectif est en vue. »<br />« Tenez bon la barre ! Plus rien ne pourra nous arrêter ! »<br />Aux yeux de Micha, les horloges semblaient avoir leur vie propre et exprimer leur bonheur de continuer leur course.<br /><br />Walder sourit et lui tapota la tête.<br />« Plus besoin de s'inquiéter du temps ici, on dirait. N'est-ce pas, Capitaine horloger ? »",
+   "text": "Lorsque la montre-gousset marqua deux heures de l'après-midi, la fin de son service, il enfila son bleu de travail et entreprit une révision des machines.<br /><br />Walder le précédait, s'arrêtant parfois pour tapoter sur des mécanismes compliqués. Micha le suivait de près, l'oreille tendue vers les bruits mécaniques, trouvant sans mal les problèmes.<br /><br />La tâche du jour consistait à réparer une multitude d'horloges, de rouages endommagés, obsolètes ou rouillés. Micha y voyait des marins égarés en quête d'un guide.<br /><br />« Prenez à l'ouest, Monsieur Cadran au mur... Et vous, Monsieur Montre gousset ! Ne vous arrêtez pas là ! »<br />« Madame Alarme, allez manger avant de reprendre et vous trois, là-bas, suivez Monsieur Montre gousset ! »<br />À ce moment précis, les rouages défectueux s'animaient. Micha tournait les roues et réglait les aiguilles, comme un capitaine en pleine mer temporelle.<br />« Capitaine Micha, on se dirige enfin dans la bonne direction ! »<br />« Le brouillard s'est levé ! L'objectif est en vue. »<br />« Poursuivons la route ! Plus rien ne pourra nous arrêter ! »<br />Aux yeux de Micha, les horloges semblaient avoir leur vie propre et exprimer leur bonheur de continuer leur course.<br /><br />Walder sourit et lui tapota la tête.<br />« Plus besoin de s'inquiéter du temps ici, on dirait. N'est-ce pas, Capitaine horloger ? »",
    "unlockRequirement": "Disponible au niveau <nobr>40</nobr> de personnage"
   },
   {
    "title": "Histoire du personnage : Partie III",
-   "text": "Lorsque la montre-gousset marqua sept heures, Micha débarrassa son dîner et s'allongea sur le placard qui lui servait de couchette.<br />Le regard perdu dans les ténèbres environnantes, il écoutait le tic-tac régulier de sa montre... C'était les heures les plus délicieuses de la journée. Loin du travail et de la réalité... Perdu dans ses voyages infinis et fantastiques.<br /><br />De l'autre côté du brouillard, l'histoire qu'il avait imaginée trouvait son dénouement au cœur d'une bataille navale grandiose. Il tendit la main pour tirer à lui son compagnon tombé par-dessus bord et dessina une ligne dans sa vision, comme si cela pouvait éliminer les monstres marins...<br /><br />« Capitaine, Capitaine, réveillez-vous, le ciel est dégagé ! »<br />Il se frotta les yeux et regarda, incrédule.<br />Une montre-gousset en or, à présent dotée de bras et de jambes, et vêtue d'un uniforme à nœud papillon rouge, l'intimait de se lever.<br />Une femme miroir en argent reflétait son image et scrutait l'horizon à la jumelle tout en ajustant sa robe.<br />L'orage de la nuit précédente avait disparu sans laisser de trace. Une légère brise marine fit jouer les pans de sa veste et Micha aperçut au loin la silhouette du Nouveau monde.<br /><br />« Capitaine, la côte n'est plus très loin ! »<br />Monsieur Montre-gousset et Mademoiselle Miroir prirent Micha par la main et bondirent sur les nuages. Avant qu'il ne comprenne ce qui se passait, ils volaient sur la mer infinie au-dessus du continent en forme de croissant. Ses deux compagnons riaient et Micha se trouva entraîné dans une danse endiablée. Il leur tenait fermement la main, le cœur rempli de joie et d'étonnement.<br /><br />« C'est vous... mes compagnons ? »<br />« Oui, nous avons affronté d'innombrables défis, nous nous sommes souvent égarés, mais nous avons enfin trouvé le Nouveau monde ! »<br />...<br /><br />L'aube tira Micha de son rêve, une larme glissant au coin de l'œil.<br />Alors que son regard courait sur sa chambre, il remarqua la montre-gousset qu'il tenait contre lui et le miroir tombé du mur. Il s'essuya les yeux, c'était comme si l'essentiel était là... et en même temps comme s'il avait tout perdu.",
+   "text": "Lorsque la montre-gousset marqua sept heures, Micha débarrassa son dîner et s'allongea sur le placard qui lui servait de couchette.<br />Le regard perdu dans les ténèbres environnantes, il écoutait le tic-tac régulier de sa montre... C'était les heures les plus délicieuses de la journée. Loin du travail et de la réalité... Perdu dans ses voyages infinis et fantastiques.<br /><br />De l'autre côté du brouillard, l'histoire qu'il avait imaginée trouvait son dénouement au cœur d'une bataille navale grandiose. Il tendit la main pour tirer à lui son compagnon tombé par-dessus bord et dessina une ligne dans sa vision, comme si cela pouvait éliminer les monstres marins...<br /><br />« Capitaine, Capitaine, réveillez-vous, le ciel est dégagé ! »<br />Il se frotta les yeux et regarda, incrédule.<br />Une montre-gousset en or, à présent dotée de bras et de jambes, et vêtue d'un uniforme à nœud papillon rouge, l'intimait de se lever.<br />Une femme miroir en argent reflétait son image et scrutait l'horizon à la jumelle tout en ajustant sa robe.<br />L'orage de la nuit précédente avait disparu sans laisser de trace. Une légère brise marine fit jouer les pans de sa veste et Micha aperçut au loin la silhouette du Nouveau monde.<br /><br />« Capitaine, la côte n'est plus très loin ! »<br />Monsieur Montre-gousset et Mademoiselle Miroir prirent Micha par la main et bondirent sur les nuages. Avant qu'il ne comprenne ce qui se passait, ils volaient sur la mer infinie au-dessus du continent en forme de croissant. Ses deux compagnons riaient et Micha se trouva entraîné dans une danse endiablée. Il leur tenait fermement la main, le cœur rempli de joie et d'étonnement.<br /><br />« C'est vous... mes compagnons ? »<br />« Oui, on a traversé tellement d'épreuves, on s'est perdus tellement de fois, mais on a quand même fini par atteindre le Nouveau monde ! »<br />...<br /><br />L'aube tira Micha de son rêve, une larme glissant au coin de l'œil.<br />Alors que son regard courait sur sa chambre, il remarqua la montre-gousset qu'il tenait contre lui et le miroir tombé du mur. Il s'essuya les yeux, c'était comme si l'essentiel était là... et en même temps comme s'il avait tout perdu.",
    "unlockRequirement": "Disponible au niveau <nobr>60</nobr> de personnage"
   },
   {

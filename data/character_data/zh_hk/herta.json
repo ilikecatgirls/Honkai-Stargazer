@@ -6,9 +6,8 @@
  "fgPath": "6cf0ea545601fc51a9f9b8066e93fa340793f41ad99b97209f7158de03e2f37e",
  "splashIconPath": "7614446d60a6a3edef33331f2a6f5a24e2f0bac8ab84cb24364c7d379346d060",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRooCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAgBAAABkGxt27Et5/O8v+0/27Yb27ZrViPbtm3X1Bi7cbvQ1HpxX+HDLkTEBJClo2kh0CBI5QOA4t0FQJ9WOPAeIKD/1twBvrzpQIIggBm78j1td8/d24vi0StqgKGHQ42Ad/fXdAGqtk1tuu/GJ0XJh5NLty2vobowgC1fJUUySWdHNO/QvoDu76UwSmRKwki3vAdOKEpkJjOThVpEDk0v2v+SzEyxXgEsU2ym1GamYXgOK8ok0dd2OLYpSWeW6FMjHN1NZjJJJsX6WAR0/Kb4P5MlUazHODwTpSSOojiMpfDKWDzAg59K/ePExul4UrZ5+WLNwXt7N7cmrxcuVco2gAdHhoEvzPEOHABWUDggXAEAAJAHAJ0BKhQAFAA+bTCTRyQioaEoCqiADYlsAJ0yhHAv8IxEhAYKBqGe8eViU5+7NOzKwZvnXq5ezphrnvRvGmvuPqPRAADMk1KL9xOFXk6og5kxuSbtufWdXALm19F2BWbSHskQJjCA15xaT63yIdjN2qFL11H1nDF4f4k/euXhZD4Ev32U9k174S8fXRVOSP9W5fTF8cBqjI5BlbhuhZv8v+37PP5Dun8v3fuXsKJHmWpauW/zfVTN1oreXahM9uy41zEVX7WKyTHNUYtSkBKx3+oAox/weJ+tNSfx88IH3Fn1TklNU+fquPrpn6+vehdLXIbuasQnd8fuf+m1xARuc3vM/sRd0AcvaHwCKN8zfc1mnxJ+9CMcdKlIgTMV7weeQyj/+xutn0uTgDx6Hy7MnqnrbAtBmiPzoGvRCAZOr4/Jemae/gsG2FWsMO1sg0FLGtQaVrHcQQAAAA==",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -2581,7 +2580,7 @@
   },
   {
    "title": "角色故事·三",
-   "text": "最近空間站的研究進度受到事故的衝擊，有所延後。不少科員捶胸頓足，爲辜負了黑塔女士的信任與青睞而自責，請問黑塔女士，您有沒有什麼話想跟大家說？<br /><br />「沒有，加油。」 <br /><br />大家都想爲黑塔女士您的科研之路出一份力嘛……<br /><br />「不用了。」 <br /><br />確實，大家的科研水平遠不如黑塔女士，這也是我們被您的智慧與卓見深深折服的原因。請問黑塔女士，您有沒有什麼科研建議能給送給大家，我們也想向您學習學習！<br /><br />「沒有。」 <br /><br />黑塔女士，您的智力水平與天賦之高大家都有目共睹，可是對於我們普通人來說，實在沒辦法做到和您一樣…您能不能給我們指導指導，比如說我們智力有限，那就應該集中精力在某某領域之類的？<br /><br />「那就回家睡覺唄。」",
+   "text": "最近空間站的研究進度受到事故的衝擊，有所延後。不少科員捶胸頓足，爲辜負了黑塔女士的信任與青睞而自責，請問黑塔女士，您有沒有什麼話想跟大家說？<br /><br />「沒有，加油。」 <br /><br />大家都想爲黑塔女士您的科研之路出一份力嘛……<br /><br />「不用了。」 <br /><br />確實，大家的科研水平遠不如黑塔女士，這也是我們被您的智慧與卓見深深折服的原因。請問黑塔女士，您有沒有什麼科研建議能送給大家，我們也想向您學習學習！<br /><br />「沒有。」 <br /><br />黑塔女士，您的智力水平與天賦之高大家都有目共睹，可是對於我們普通人來說，實在沒辦法做到和您一樣…您能不能給我們指導指導，比如說我們智力有限，那就應該集中精力在某某領域之類的？<br /><br />「那就回家睡覺唄。」",
    "unlockRequirement": "角色等級<nobr>60</nobr>解鎖"
   },
   {

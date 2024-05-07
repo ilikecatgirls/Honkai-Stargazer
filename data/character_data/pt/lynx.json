@@ -6,9 +6,8 @@
  "fgPath": "cf6114cacb12907786e934848f6d9e474618a12f0bd2f4a6afa8527b92cfa69e",
  "splashIconPath": "b32d5a8078f427207704521da532db7dfa0fd0d5a4dfd6b33410320b7f9da73a",
  "splashPlaceholder": {
-  "data": "data:image/webp;base64,UklGRpoCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPUAAAABkGtr26E997zzd1Zs206XMq15BOmSNumS2nZv23ZqV7Y5M+99FZ9OISImQLUGVRtC/Zx9V5alSislQVoBcLef0nJBGr70CXmR8Xa80pKgui0RIpDxeZCCFNR6E/KIMf+5KCmRTvDfpdjOWSwFbSQzNhhT8EhBU3IiNja2za9+6v6caBsbU/J/qFaTGwMYQ8E1TS8wpoKJPJ21hGhTDf9Z0+0l0QYbDI58H3ICcuNSXPbfkl4rX1Dk0UAWY5FnkUNSy2GAPx9/ULbY0TlJpQVn3v358njV+sevL+1dPl6SEklNo2bO6KTQEiSFRJLSRKVBUkiDBABWUDggfgEAAHAIAJ0BKhQAFAA+bTKUR6QioiEoCACADYlsAJ0yhHp4+Gwr6LtnzzumAegB0l37kEa3upfQADpoXJfA0NpI5//KDCndKW7LS8HnQ2QA/svnRYVF/Drzivto8cWf193OG+saDVf9w4SWpYVRAuqzadDXL7xNK9x/Vvyqeno55uoVMyrLE2dSoZOJybCGu8QZ/qjV7MScDS2vjRuRqWJSk51L6MedyuL7kDX/PCU9MZVNvwrgbA3mGIShQCqQGqi3LY7Ob2BFDppHDphz2ZR/8S7wgdUOPBVKG0MJLH/ph8xol6IzvmYv5IH8qfEfjAWheuH8z6LZJlv5NlezCH+0sUAnmLg396Ff6xlb/dCv+CHgz/J3lmvMBPZft001+pTyU/M/t+PWJSaD/wQ88GemvFLBunpoPbhQ8WcaP3MzhJo9AyImcBSspSC5bq3NBHz+Ld69cF6zz+sRg7UyDB4ZCuZNFIN0I9n4LdEMS2pq5unudfbw2Z4AlsEyJg9RgAA=",
-  "w": 2048,
-  "h": 2048
+  "w": 0,
+  "h": 0
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
@@ -440,7 +439,7 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "46c45872061e8efbcd3f8578580ef97721506e91fab6c565e87e65a5e28d75fe",
+   "iconPath": "30dc59c296630e7f601b14e36d3468f820e7f2a6b9504224c921e3c5bd3b3754",
    "artPath": "4bb621a41769d72813a24092703352abe0b5c3bd266bfc9b977a87b7b366e35a",
    "name": "Madrugada da Caminhada na Neve",
    "descHash": "Ao curar aliados com PV iguais ou menores que <nobr>#1[i]%</nobr>, a Cura Realizada de Lynx aumenta em <nobr>#2[i]%</nobr>. Este efeito também funciona em curas contínuas.",
@@ -451,7 +450,7 @@
   },
   {
    "id": 2,
-   "iconPath": "83f3de27867e042417278415694cc9f1dd7367c95601483d643c12969c7a6567",
+   "iconPath": "cde835957e0fc6e2931a9b73cd9c2fd1b08d664380a2958485071b7d76ee1a95",
    "artPath": "70fec0aeafa4f63017f2fbf649ac31130d511f9450f1040f47514c5ee49358a5",
    "name": "Manhã da Fornalha Portátil",
    "descHash": "Um alvo com \"Resposta de Sobrevivência\" pode resistir a aplicação de penalidade por <nobr>#1[i]</nobr> vez(es).",
@@ -461,7 +460,7 @@
   },
   {
    "id": 3,
-   "iconPath": "31e6696a6e652b28e7314e87c34b7d13ef979372f14e281795059a6b041a5d18",
+   "iconPath": "af4e41014864a8f554e377fa20b54a0d26f1cbb0b1032e210818014c3c25a29d",
    "artPath": "17bd5bff3d7d8523c41f0526615f7ed47857dc69ec59473ee916841ec0118d60",
    "name": "Tarde do Sinalizador de Avalanche",
    "descHash": "Nv. da Perícia +2, até no máximo Nv. <nobr>15</nobr>.<br />Nv. do ATQ Básico +1, até no máximo Nv. <nobr>10</nobr>.",
@@ -469,7 +468,7 @@
   },
   {
    "id": 4,
-   "iconPath": "696f97ca59b1685a6b5db231aa4b996bd343d8097f8b1131049b9ceceec72369",
+   "iconPath": "256edcaec4bb88c4bd917e000967e6c689cc6f3ff7bfb73bfb1f25f3a2bcf23f",
    "artPath": "7c7d5ebe559a8277fb93e4e125204eee335e0b21e526216ea1885ca7cdc809b3",
    "name": "Crepúsculo da Fogueira Acolhedora",
    "descHash": "Quando a \"Resposta de Sobrevivência\" é recebida, aumenta o ATQ do alvo em uma quantidade igual a <nobr>#1[f1]%</nobr> dos PV máximos de Lynx por <nobr>#2[i]</nobr> rodada(s).",
@@ -480,7 +479,7 @@
   },
   {
    "id": 5,
-   "iconPath": "76531b9d5d4a57c2c0d3becfba8d624947de7ca81a6bb497f28f9ea407d19471",
+   "iconPath": "d48de11fffb18287b3aa13e4bd8fe6553398ca48d32ff0750c7655f1f8b383a1",
    "artPath": "6e13b927794e8d258aad40f390b013685783e864fd0e58eb1d9cdd80d28bf721",
    "name": "Noite do Chá de Aurora",
    "descHash": "Nv. da Perícia Suprema +2, até no máximo Nv. <nobr>15</nobr>.<br />Nv. do Talento +2, até no máximo Nv. <nobr>15</nobr>.",
@@ -488,7 +487,7 @@
   },
   {
    "id": 6,
-   "iconPath": "2c3bacfa7ef84ad0d3c7e6354de434834da756004e475ba6163beb844e12739b",
+   "iconPath": "b44b11c617adf20402294ffd32af532c8bb0ff375731a1b274a8c7ccadbd1f13",
    "artPath": "ee636a3b81ab291e50c002542c7cddef2c6e0cfcae90b69fc303b165c7bfe94b",
    "name": "Amanhecer do Mapa dos Exploradores",
    "descHash": "Melhora adicionalmente o efeito de aumento de PV máximos da \"Resposta de Sobrevivência\" em uma quantidade igual a <nobr>#1[f1]%</nobr> dos PV máximos de Lynx e aumenta a RES a Efeito em <nobr>#2[i]%</nobr>.",
@@ -524,7 +523,7 @@
    "energy": "20",
    "id": 549438,
    "name": "Técnica de Grampos de Neve",
-   "iconPath": "d93e1a33eaeaafc6160d370dac03b9c234f5a79d135a5d45704efffe9d43105f",
+   "iconPath": "603656ddf07dd9a588057d833ca4ab325b300d922e908398141ff756502dfa89",
    "typeDescHash": "ATQ Básico",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +684,7 @@
    "energy": "30",
    "id": 633379,
    "name": "Latas de Acampamento Salgadas",
-   "iconPath": "31e6696a6e652b28e7314e87c34b7d13ef979372f14e281795059a6b041a5d18",
+   "iconPath": "af4e41014864a8f554e377fa20b54a0d26f1cbb0b1032e210818014c3c25a29d",
    "typeDescHash": "Perícia",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1031,7 +1030,7 @@
    "energy": "5",
    "id": 717320,
    "name": "Primeiros Socorros do Campo de Neve",
-   "iconPath": "6aee788a64a71c6379e18fec8291d287ac82d39e1d5b660967a64ff5e208c122",
+   "iconPath": "e6a580862d64d80ff288666e6ac46fe5a2473eaa28c8f99d9c793d66e8a395c8",
    "typeDescHash": "Perícia Suprema",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1332,7 +1331,7 @@
    "energy": "0",
    "id": 64325,
    "name": "Experiência de Sobrevivência na Neve",
-   "iconPath": "c6511baeeb9a2b58e0c4bbc7dc3ff339f14ae0dcc9b68e58aa88ccae40598e1d",
+   "iconPath": "da096924ee0966742e1240b06753c856428920832fdcdd19572152ab89b95c93",
    "typeDescHash": "Talento",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1663,7 +1662,7 @@
    "energy": "0",
    "id": 232207,
    "name": "Ataque",
-   "iconPath": "d93e1a33eaeaafc6160d370dac03b9c234f5a79d135a5d45704efffe9d43105f",
+   "iconPath": "603656ddf07dd9a588057d833ca4ab325b300d922e908398141ff756502dfa89",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1685,7 +1684,7 @@
    "energy": "0",
    "id": 348852,
    "name": "Barra de Chocolate Energética",
-   "iconPath": "c22387e8dacd03ee2d62684656f69f2ad45ced63f1f5fb049078b17210179c79",
+   "iconPath": "a1622fd01ca7300836bfc5a3fecdddcdb3718d022713c14f1510053e5d35cc2d",
    "typeDescHash": "Técnica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1815,7 +1814,7 @@
     "ultimateCost": 0,
     "id": 989097,
     "name": "Pesquisa de Avanço",
-    "iconPath": "135b0ad0b326e04622bad6428e88d05cf7b8d55988e0873000ce6e91b47e8925",
+    "iconPath": "cf2dab40787d337430371068a4ade324526bb8000f6ed81e3bb8b5f8b7b65b68",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1956,7 +1955,7 @@
     "ultimateCost": 0,
     "id": 989098,
     "name": "Técnicas de Exploração",
-    "iconPath": "4dad595e29df901f3b5b951f37588a6cd2f1591f6a9b2f8cbc2e37fe21f5947b",
+    "iconPath": "d280aec2ce5c52edab49d4cd02f61665d7041836dea5d2b1e8a81b83513cf7f4",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2066,7 +2065,7 @@
     "ultimateCost": 0,
     "id": 989099,
     "name": "Sobrevivência ao Extremo",
-    "iconPath": "73f945fe8cc5f5505877cdf686dc5ae210a33b0f754b14feff8a378b4331981a",
+    "iconPath": "d79e638f84b0988cbcb95a8e8912e65248f8381f0e2d6b31303f598fa15e1c20",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [

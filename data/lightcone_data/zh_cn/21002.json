@@ -5,9 +5,8 @@
  "iconPath": "93640a3e5e402dfa7873be215e02cab8cbef058d9f276a996163bc58032dfca9",
  "artPath": "7895f540dab6b5ecc5fca97883c2da9421de8f227c9cd6817722af3d549ee58a",
  "artPlaceholder": {
-  "data": "data:image/webp;base64,UklGRtYBAABXRUJQVlA4IMoBAADwCACdASoUABwAPm0ulUakIqIhKAqogA2JZgCdMoMlyYEGe2wHik+uZpgG8pvgGsCpXePr6W9gYLGRtV3y13a1JJStcUTTWms0nU2whNZWAAD+8Bv6qJipKRfmRpy1ZoBPG0bvcZPrvZrQMd+6rHyQSRcqHeBo/F8LWxkmmVfO8OZfANFzXuzTKn6vx/NTgO7jraCMg9hwqOcocUpM5AFmKSkf3wy+Z0GRDNi58Z/0On0rom6DouQdEJ9k0vGTrftW+B8JtFvBLN8vyqE4Y1COieidnnCWcYE/TsEUsh9YecU0zpEcyNo/eyTTGyXmUqs3Fi2XBi3InuO2p8ZoXf2lrXguSIGqi8mT5qvhquAWZfmPR0EjU5MuYRnf+dxwbePCFjvYlqGd9eLBqLtf+Jz0SlIzlF/7m92XBaNM+XE3biEtxnnrMdZaZesnxA6/Y/zNbMadjOmc2Hr9KoKgP3iB3NrJUqzXKktBz/9ociteY96D+BV+j756JGOPLwhV4wEIk6N1ywomFRQ8KYbDKxvUvL0V52sX640QXgkgg0le30NM0S8pXgiz39degWK3CONnV5uWaTcyfZWbHcipd61SiU6wDJcmKU8gAA==",
-  "w": 867,
-  "h": 1230
+  "w": 0,
+  "h": 0
  },
  "mediumIconPath": "66ef9ed322af24c2b77b091b1653762c0156338387084b1fc4d0cd385686ba18",
  "baseType": {
