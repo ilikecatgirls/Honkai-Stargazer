@@ -1,4 +1,9 @@
 const officalLightconeId: any = {
+  //Add in 2.2.0
+  23027: "Sailing Towards A Second Life",
+  23026: "Flowing Nightglow",
+  22002: "For Tomorrow's Journey",
+  21044: "Boundless Choreo",
 
   23023: "Inherently Unjust Destiny",
   23024: "Along the Passing Shore",

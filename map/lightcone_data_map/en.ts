@@ -101,7 +101,18 @@ import InherentlyUnjustDestiny from "../../data/lightcone_data/en/23023.json";
 import AlongthePassingShore from "../../data/lightcone_data/en/23024.json";
 import ConcertforTwo from "../../data/lightcone_data/en/21043.json";
 
+//add in 2.2.0
+import SailingTowardsASecondLife from "../../data/lightcone_data/en/23027.json";
+import FlowingNightglow from "../../data/lightcone_data/en/23026.json";
+import ForTomorrowsJourney from "../../data/lightcone_data/en/22002.json";
+import BoundlessChoreo from "../../data/lightcone_data/en/21044.json";
+
 const EN = {
+  //add in 2.2.0
+  "Sailing Towards A Second Life": SailingTowardsASecondLife,
+  "Flowing Nightglow": FlowingNightglow,
+  "For Tomorrow's Journey": ForTomorrowsJourney,
+  "Boundless Choreo": BoundlessChoreo,
   //add in 2.1.0
   "Inherently Unjust Destiny": InherentlyUnjustDestiny,
   "Along the Passing Shore": AlongthePassingShore,

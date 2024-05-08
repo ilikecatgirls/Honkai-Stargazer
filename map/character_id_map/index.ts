@@ -3,6 +3,8 @@ const charId: any = {
   "Trailblazer Girl (Physical)": 8002,
   "Trailblazer Boy (Fire)": 8003,
   "Trailblazer Girl (Fire)": 8004,
+  "Trailblazer Boy (Imaginary)": 8005,
+  "Trailblazer Girl (Imaginary)": 8006,
   "March 7th": 1001,
   "Dan Heng": 1002,
   "Himeko": 1003,
@@ -46,9 +48,11 @@ const charId: any = {
   "Aventurine": 1304,
   "Dr. Ratio": 1305,
   "Sparkle": 1306,
-  "Acheron": 1308,
   "Black Swan": 1307,
+  "Acheron": 1308,
+  "Robin": 1309,
   "Misha": 1312,
+  "Boothill": 1315,
 };
 
 export default charId;

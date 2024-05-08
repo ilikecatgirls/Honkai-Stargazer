@@ -55,7 +55,18 @@ import Acheron from "../../data/character_data/ru/acheron.json";
 import Aventurine from "../../data/character_data/ru/aventurine.json";
 import Gallagher from "../../data/character_data/ru/gallagher.json";
 
+//add in 2.2.0
+import Robin from "../../data/character_data/ru/robin.json";
+import Boothill from "../../data/character_data/ru/boothill.json";
+import PlayerBoy3 from "../../data/character_data/ru/playerboy3.json";
+import PlayerGirl3 from "../../data/character_data/ru/playergirl3.json";
+
 const RU = {
+  //add in 2.2.0
+  Robin,
+  Boothill,
+  "Trailblazer Boy (Imaginary)": PlayerBoy3,
+  "Trailblazer Girl (Imaginary)": PlayerGirl3,
   //add in 2.1.0
   "Acheron": Acheron,
   "Aventurine": Aventurine,

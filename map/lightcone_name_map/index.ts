@@ -1,4 +1,9 @@
 const LightconeName = {
+  //Add in 2.2.0
+  "sailing-towards-a-second-life":"Sailing Towards A Second Life",
+  "flowing-nightglow":"Flowing Nightglow",
+  "for-tomorrows-journey":"For Tomorrow's Journey",
+  "boundless-choreo":"Boundless Choreo",
   //Add in 2.1.0
   "inherently-unjust-destiny": "Inherently Unjust Destiny",
   "along-the-passing-shore": "Along the Passing Shore",

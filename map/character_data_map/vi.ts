@@ -55,7 +55,18 @@ import Acheron from "../../data/character_data/vi/acheron.json";
 import Aventurine from "../../data/character_data/vi/aventurine.json";
 import Gallagher from "../../data/character_data/vi/gallagher.json";
 
+//add in 2.2.0
+import Robin from "../../data/character_data/vi/robin.json";
+import Boothill from "../../data/character_data/vi/boothill.json";
+import PlayerBoy3 from "../../data/character_data/vi/playerboy3.json";
+import PlayerGirl3 from "../../data/character_data/vi/playergirl3.json";
+
 const VI = {
+  //add in 2.2.0
+  Robin,
+  Boothill,
+  "Trailblazer Boy (Imaginary)": PlayerBoy3,
+  "Trailblazer Girl (Imaginary)": PlayerGirl3,
   //add in 2.1.0
   "Acheron": Acheron,
   "Aventurine": Aventurine,

@@ -1,4 +1,4 @@
-const scoreWeight = require("../sharedData/relicWeightList.json");
+//const scoreWeight = require("../sharedData/relicWeightList.json");
 const demoCharData = require("../sharedData/charDataDemo.json");
 
 function getRelicScore() {

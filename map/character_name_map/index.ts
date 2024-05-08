@@ -1,4 +1,9 @@
 const CharacterName = {
+  //add in 2.2.0
+  "robin": "Robin",
+  "boothill": "Boothill",
+  "trailblazer-imaginary": "Trailblazer Girl (Imaginary)",
+
   //add in 2.1.0
   "acheron": "Acheron",
   "aventurine": "Aventurine",
