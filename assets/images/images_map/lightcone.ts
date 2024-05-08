@@ -1,4 +1,21 @@
 const Lightcone: any = {
+  //add in 2.2.0
+  "Sailing Towards A Second Life": {
+    icon: require("../../images/lightcone_icon/sailing_towards_a_second_life.webp"),
+    imageFull: require("../../images/lightcone_artwork/sailing_towards_a_second_life_artwork.webp"),
+  },
+  "Flowing Nightglow": {
+    icon: require("../../images/lightcone_icon/flowing_nightglow.webp"),
+    imageFull: require("../../images/lightcone_artwork/flowing_nightglow_artwork.webp"),
+  },
+  "For Tomorrow's Journey": {
+    icon: require("../../images/lightcone_icon/for_tomorrows_journey.webp"),
+    imageFull: require("../../images/lightcone_artwork/for_tomorrows_journey_artwork.webp"),
+  },
+  "Boundless Choreo": {
+    icon: require("../../images/lightcone_icon/boundless_choreo.webp"),
+    imageFull: require("../../images/lightcone_artwork/boundless_choreo_artwork.webp"),
+  },
   //add in 2.1.0
   "Along the Passing Shore": {
     icon: require("../../images/lightcone_icon/along_the_passing_shore.webp"),

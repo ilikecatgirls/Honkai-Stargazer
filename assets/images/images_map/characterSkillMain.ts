@@ -4,6 +4,35 @@
  */
 
 const CharacterSkillMain: any = {
+  //add in 2.2.0
+  "Robin": {
+    skill1: require("../../images/character_skill/robin_skill1.webp"),
+    skill2: require("../../images/character_skill/robin_skill2.webp"),
+    skill3: require("../../images/character_skill/robin_skill3.webp"),
+    skill4: require("../../images/character_skill/robin_skill4.webp"),
+    skill6: require("../../images/character_skill/robin_skill6.webp"),
+  },
+  "Boothill": {
+    skill1: require("../../images/character_skill/boothill_skill1.webp"),
+    skill2: require("../../images/character_skill/boothill_skill2.webp"),
+    skill3: require("../../images/character_skill/boothill_skill3.webp"),
+    skill4: require("../../images/character_skill/boothill_skill4.webp"),
+    skill6: require("../../images/character_skill/boothill_skill6.webp"),
+  },
+  "Trailblazer Boy (Imaginary)": {
+    skill1: require("../../images/character_skill/trailblazer_imaginary_skill1.webp"),
+    skill2: require("../../images/character_skill/trailblazer_imaginary_skill2.webp"),
+    skill3: require("../../images/character_skill/trailblazer_imaginary_skill3.webp"),
+    skill4: require("../../images/character_skill/trailblazer_imaginary_skill4.webp"),
+    skill6: require("../../images/character_skill/trailblazer_imaginary_skill6.webp"),
+  },
+  "Trailblazer Girl (Imaginary)": {
+    skill1: require("../../images/character_skill/trailblazer_imaginary_skill1.webp"),
+    skill2: require("../../images/character_skill/trailblazer_imaginary_skill2.webp"),
+    skill3: require("../../images/character_skill/trailblazer_imaginary_skill3.webp"),
+    skill4: require("../../images/character_skill/trailblazer_imaginary_skill4.webp"),
+    skill6: require("../../images/character_skill/trailblazer_imaginary_skill6.webp"),
+  },
   //add in 2.1.0
   "Acheron": {
     skill1: require("../../images/character_skill/acheron_skill1.webp"),

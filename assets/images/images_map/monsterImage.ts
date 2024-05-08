@@ -1,4 +1,32 @@
 const Monsterimages: any = {
+  //Add in 2.2.0
+  "\"Tomorrow in Harmonious Chords\"": {
+    icon: require("../../images/monster_icon/monster_tomorrow_in_harmonious_chords_icon.webp"),
+  },
+  "\"Present Inebriated in Revelry\"": {
+    icon: require("../../images/monster_icon/monster_present_inebriated_in_revelry_icon.webp"),
+  },
+  "The Past, Present, and Eternal Show": {
+    icon: require("../../images/monster_icon/monster_the_past_present_and_eternal_show_icon.webp"),
+  },
+  "Memory Zone Meme \"Insatiable Vanity\"": {
+    icon: require("../../images/monster_icon/monster_memory_zone_meme_insatiable_vanity_icon.webp"),
+  },
+  "Echo of Faded Dreams": {
+    icon: require("../../images/monster_icon/monster_echo_of_faded_dreams_icon.webp"),
+  },
+  "Dreamjolt Troupe's Fortune Seller": {
+    icon: require("../../images/monster_icon/monster_dreamjolt_troupes_fortune_seller_icon.webp"),
+  },
+  "\"Past Confined and Caged\"": {
+    icon: require("../../images/monster_icon/monster_past_confined_and_caged_icon.webp"),
+  },
+  "\"Harmonious Choir\" The Great Septimus": {
+    icon: require("../../images/monster_icon/monster_harmonious_choir_the_great_septimus_icon.webp"),
+  },
+  "\"Harmonious Choir\" The Great Septimus2": {
+    icon: require("../../images/monster_icon/monster_harmonious_choir_the_great_septimus2_icon.webp"),
+  },
   //Add in 2.1.0
   "Ten Stonehearts: Aventurine of Stratagems": {
     icon: require("../../images/monster_icon/monster_ten_stonehearts_aventurine_of_stratagems_icon.webp"),

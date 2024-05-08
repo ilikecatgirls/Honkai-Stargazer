@@ -1,5 +1,11 @@
-const Material: any = {
-  //add in 2.1.0-
+const Material: any = {  
+  //add in 2.2.0
+  836267: require("../../images/material_icon/material_countertemporal_shot.webp"),
+  920208: require("../../images/material_icon/material_destined_expiration.webp"),
+  866635: require("../../images/material_icon/material_ipc_work_permit.webp"),
+  386840: require("../../images/material_icon/material_lost_echo_of_the_shared_wish.webp"),
+  635681: require("../../images/material_icon/material_meteoric_bullet.webp"),
+  //add in 2.1.0
   673758: require("../../images/material_icon/material_divine_amber.webp"),
   673753: require("../../images/material_icon/material_myriad_fruit.webp"),
   589817: require("../../images/material_icon/material_crystal_meteorites.webp"),
