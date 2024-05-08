@@ -1,8 +1,8 @@
 [
   {
     "name": "Boothill",
-    "element": "Imaginary",
-    "path": "Preservation",
+    "element": "Physical",
+    "path": "Hunt",
     "rare": 5,
     "sex": "Male",
     "status": "RELEASED",
@@ -11,8 +11,8 @@
   },
   {
     "name": "Robin",
-    "element": "Imaginary",
-    "path": "Preservation",
+    "element": "Physical",
+    "path": "Harmony",
     "rare": 5,
     "sex": "Male",
     "status": "RELEASED",

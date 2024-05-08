@@ -1,4 +1,13 @@
 [    
+    {"version":"2.2","phase":2,"poolCode":3032,"type":"LIGHTCONE","special_rare5":["She Already Shut Her Eyes"],"special_rare4":["Geniuses' Repose","A Secret Vow","Landau's Choice"],"begin_time":1716955200,"end_time":1718694000},
+    {"version":"2.2","phase":2,"poolCode":2032,"type":"CHAR","special_rare5":["Fu Xuan"],"special_rare4":["Pela","Luka","Hook"],"begin_time":1716955200,"end_time":1718694000},
+    {"version":"2.2","phase":2,"poolCode":3031,"type":"LIGHTCONE","special_rare5":["Sailing Towards A Second Life"],"special_rare4":["Geniuses' Repose","A Secret Vow","Landau's Choice"],"begin_time":1716955200,"end_time":1718694000},
+    {"version":"2.2","phase":2,"poolCode":2031,"type":"CHAR","special_rare5":["Boothill"],"special_rare4":["Pela","Luka","Hook"],"begin_time":1716955200,"end_time":1718694000},
+    {"version":"2.2","phase":1,"poolCode":3030,"type":"LIGHTCONE","special_rare5":["Worrisome, Blissful"],"special_rare4":["Swordplay","Boundless Choero","Perfect Timing"],"begin_time":1715137200,"end_time":1716955140},
+    {"version":"2.2","phase":1,"poolCode":2030,"type":"CHAR","special_rare5":["Topaz & Numby"],"special_rare4":["March 7th","Hanya","Xueyi"],"begin_time":1715137200,"end_time":1716955140},
+    {"version":"2.2","phase":1,"poolCode":3029,"type":"LIGHTCONE","special_rare5":["Flowing Nightglow"],"special_rare4":["Swordplay","Boundless Choero","Perfect Timing"],"begin_time":1715137200,"end_time":1716955140},
+    {"version":"2.2","phase":1,"poolCode":2029,"type":"CHAR","special_rare5":["Robin"],"special_rare4":["March 7th","Hanya","Xueyi"],"begin_time":1715137200,"end_time":1716955140},
+    
     {"version":"2.1","phase":2,"poolCode":3028,"type":"LIGHTCONE","special_rare5":["I Shall Be My Own Sword"],"special_rare4":["Concert for Two","Shared Feeling","Make the World Clamor"],"begin_time":1713326400,"end_time":1715065140},
     {"version":"2.1","phase":2,"poolCode":2028,"type":"CHAR","special_rare5":["Jingliu"],"special_rare4":["Lynx","Luka","Serval"],"begin_time":1713326400,"end_time":1715065140},
     {"version":"2.1","phase":2,"poolCode":3027,"type":"LIGHTCONE","special_rare5":["Inherently Unjust Destiny"],"special_rare4":["Concert for Two","Shared Feeling","Make the World Clamor"],"begin_time":1713326400,"end_time":1715065140},

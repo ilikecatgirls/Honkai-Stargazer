@@ -1,4 +1,4 @@
-import scoreWeight from "../../../../data/weight_data/relicWeightList.json";
+//import scoreWeight from "../../../../data/weight_data/relicWeightList.json";
 
 export default function getRelicScore(
   charId: string,
