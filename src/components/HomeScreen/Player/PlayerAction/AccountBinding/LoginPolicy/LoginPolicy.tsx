@@ -1,4 +1,4 @@
-import { View, Text } from "react-native";
+import { View, Text, TouchableOpacity } from "react-native";
 import React, { useEffect, useState } from "react";
 import Button from "../../../../../global/Button/Button";
 import { HtmlText } from "@e-mine/react-native-html-text";
@@ -30,12 +30,16 @@ export default function LoginPolicy(props: Props) {
 
   return (
     <View style={{ gap: 10, alignItems: "center" }}>
-      <View>
-        <HtmlText style={{ color: "#000", fontFamily: "HY65", lineHeight: 20 }}>
-          {/* @ts-ignore */}
-          {LOCALES[language].LoginPolicy}
-        </HtmlText>
-      </View>
+      {/** React Native u must kidding me */}
+      <ScrollView style={{maxHeight:400}} keyboardShouldPersistTaps="always">
+        <TouchableOpacity activeOpacity={1}> 
+          <HtmlText style={{ color: "#000", fontFamily: "HY65", lineHeight: 20 }}>
+              {/* @ts-ignore */}
+              {LOCALES[language].LoginPolicy}
+          </HtmlText>
+        </TouchableOpacity>
+      </ScrollView>
+      
       <Button
         onPress={countDown === 0 ? props.onAcceptPolicy : () => {}}
         hasShadow={false}
@@ -57,6 +61,7 @@ export default function LoginPolicy(props: Props) {
       >
         {LOCALES[language].NotOK}
       </Button>
+        
     </View>
   );
 }
