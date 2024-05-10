@@ -6,7 +6,7 @@ import CharPageHeading from "../../../../components/global/PageHeading/PageHeadi
 import useCharId from "../../../../context/CharacterData/hooks/useCharId";
 import { Person } from "phosphor-react-native";
 import CharacterName from "../../../../../map/character_name_map";
-import charAdviceMap from "../../../../../map/character_advice_map";
+//import charAdviceMap from "../../../../../map/character_advice_map";
 import CharSuggestTeamCard from "./CharSuggestTeamCard/CharSuggestTeamCard";
 import CharacterImage from "../../../../../assets/images/images_map/chacracterImage";
 import { CharacterName as CharNameType } from "../../../../types/character";
@@ -17,9 +17,14 @@ import {
 } from "../../../../utils/data/getDataFromMap";
 import CharCard from "../../../global/CharCard/CharCard";
 
+/**
+ * @deprecated, replaced by CharSuggestTeamNew
+ */
 export default React.memo(function CharSuggestTeam() {
   const { language: textLanguage } = useTextLanguage();
   const { language: appLanguage } = useAppLanguage();
+
+  const charAdviceMap = []; //This is not the best way to do so.
 
   const charId = useCharId();
   // @ts-ignore

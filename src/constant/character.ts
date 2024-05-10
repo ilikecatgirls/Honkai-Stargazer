@@ -1,6 +1,22 @@
 import { CharacterName } from "../types/character";
 
 export const CHARACTERS: CharacterName[] = [
+  //Add in 2.2.0
+  "Boothill",
+  "Robin",
+  "Trailblazer Girl (Imaginary)",
+  "Trailblazer Boy (Imaginary)",
+  //Add in 2.1.0
+  "Aventurine",
+  "Acheron",
+  "Gallagher",
+  //Add in 2.0.0
+  "Sparkle",
+  "Black Swan",
+  "Misha",
+  "Dr. Ratio",
+  "Ruan Mei",
+  "Xueyi",
   "Argenti",
   "Huohuo",
   "Jingliu",
@@ -37,4 +53,9 @@ export const CHARACTERS: CharacterName[] = [
   "Tingyun",
   "Welt",
   "Yanqing",
+  
+  "Trailblazer Girl (Fire)",
+  "Trailblazer Boy (Fire)",
+  "Trailblazer Girl (Physical)",
+  "Trailblazer Boy (Physical)",
 ];

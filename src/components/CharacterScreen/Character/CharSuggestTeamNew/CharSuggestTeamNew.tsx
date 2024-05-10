@@ -7,7 +7,7 @@ import useCharId from "../../../../context/CharacterData/hooks/useCharId";
 import { Person } from "phosphor-react-native";
 import CharacterId from "../../../../../map/character_id_map";
 import CharacterOfficialId from "../../../../../map/character_offical_id_map";
-import charAdviceMap from "../../../../../map/character_advice_map";
+//import charAdviceMap from "../../../../../map/character_advice_map";
 import CharAdviceIdMap from "../../../../../map/character_advice_id_map";
 import CharacterImage from "../../../../../assets/images/images_map/chacracterImage";
 import { CharacterName } from "../../../../types/character";

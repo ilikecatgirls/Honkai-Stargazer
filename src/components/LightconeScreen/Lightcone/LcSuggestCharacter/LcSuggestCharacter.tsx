@@ -9,13 +9,17 @@ import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
 import { LOCALES } from "../../../../../locales";
 import useLcId from "../../../../context/LightconeData/hooks/useLcId";
 import { CHARACTERS } from "../../../../constant/character";
-import charAdviceMap from "../../../../../map/character_advice_map";
+//import charAdviceMap from "../../../../../map/character_advice_map";
 import { forEach } from "lodash";
 import { useEffect, useMemo, useState } from "react";
 import LightconeName from "../../../../../map/lightcone_name_map";
 import { getCharFullData } from "../../../../utils/data/getDataFromMap";
 import useTextLanguage from "../../../../language/TextLanguage/useTextLanguage";
 import { CharacterName } from "../../../../types/character";
+import useCharWeightList from "../../../../hooks/charWeightList/useCharWeightList";
+import officalLightconeId from "../../../../../map/lightcone_offical_id_map";
+import charIdMap from "../../../../../map/character_id_map";
+
 
 export default function LcSuggestCharacter() {
   const { language: textLanguage } = useTextLanguage();
@@ -24,25 +28,47 @@ export default function LcSuggestCharacter() {
   const lcId = useLcId();
 
   const [suggestChars, setSuggestChars] = useState([]);
+  // @ts-ignore
+  const [CharWeightList, setCharWeightList] = useState<Object[]>([])
+  const [alreadyInit, setAlreadyInit] = useState(false)
+
+  useEffect(() => {
+    async function init() {
+      setCharWeightList(await useCharWeightList());
+      setAlreadyInit(CharWeightList !== undefined);
+    }
+    if(!alreadyInit) {
+      init()
+    }
+  })
+
   useEffect(() => {
     const suggestCharacters: any = [];
-    const charIdToCones = CHARACTERS.map((charId) => ({
-      [charId]: charAdviceMap[charId]?.conesNew.map((c) => c.cone),
-    }));
-    charIdToCones.forEach((charIdToCone) => {
-      for (const [charId, cones] of Object.entries(charIdToCone)) {
-        if (cones) {
-          cones.forEach((cone) => {
-            // @ts-ignore
-            if (LightconeName[cone] === lcId) {
-              suggestCharacters.push(charId);
-            }
-          });
+      const charIdToCones = CHARACTERS.map((charId) => {
+        if(CharWeightList[charIdMap[charId]]){
+          return ({
+            //@ts-ignore
+            [charId]: CharWeightList[charIdMap[charId] as string][0]?.advice_lightcone!.concat(
+                  CharWeightList[charIdMap[charId] as string][0]?.normal_lightcone!)})
+        }else{
+          return ({[charId] : []})
         }
-      }
-    });
-    setSuggestChars(suggestCharacters);
-  }, [lcId]);
+      });
+      
+      charIdToCones.forEach((charIdToCone) => {
+        for (const [charId, cones] of Object.entries(charIdToCone)) {
+          if (cones) {
+            cones.forEach((cone) => {
+              // @ts-ignore
+                if (officalLightconeId[cone] === lcId) {
+                  suggestCharacters.push(charId);
+              }
+            });
+          }
+        }
+      });
+      setSuggestChars(suggestCharacters);
+  },[lcId, CharWeightList]);
 
   const suggestCharsJsx = useMemo(
     () =>

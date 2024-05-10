@@ -7,7 +7,7 @@ import CharSuggestRelicsLeft from "./CharSuggestRelicsLeft/CharSuggestRelicsLeft
 import CharSuggestRelicsRight from "./CharSuggestRelicsRight/CharSuggestRelicsRight";
 import CharSuggestRelicsProps from "./CharSuggestRelicsProps/CharSuggestRelicsProps";
 import useCharId from "../../../../context/CharacterData/hooks/useCharId";
-import charAdviceMap from "../../../../../map/character_advice_map";
+//import charAdviceMap from "../../../../../map/character_advice_map";
 import { LOCALES } from "../../../../../locales";
 import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
 import charIdMap from "../../../../../map/character_id_map";

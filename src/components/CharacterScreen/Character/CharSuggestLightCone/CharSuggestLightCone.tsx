@@ -10,7 +10,7 @@ import LightconeNameMap from "../../../../../map/lightcone_name_map";
 import { LightconeName } from "../../../../types/lightcone";
 import useTextLanguage from "../../../../language/TextLanguage/useTextLanguage";
 import Lightcone from "../../../../../assets/images/images_map/lightcone";
-import charAdviceMap from "../../../../../map/character_advice_map";
+//import charAdviceMap from "../../../../../map/character_advice_map";
 import { LOCALES } from "../../../../../locales";
 import useAppLanguage from "../../../../language/AppLanguage/useAppLanguage";
 import lcOfficalIdMap from "../../../../../map/lightcone_offical_id_map";

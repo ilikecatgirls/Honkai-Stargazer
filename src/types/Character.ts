@@ -2,7 +2,17 @@
  * * 崩鐵角色稱標準名稱
  * * 作為 Stargazer 的角色 ID
  */
-export type CharacterName =
+export type CharacterName =  
+  //Add in 2.2.0
+  | "Boothill"
+  | "Robin"
+  | "Trailblazer Girl (Imaginary)"
+  | "Trailblazer Boy (Imaginary)"
+  //Add in 2.1.0
+  | "Aventurine"
+  | "Acheron"
+  | "Gallagher"
+  //Add in 2.0.0
   | "Black Swan"
   | "Sparkle"
   | "Misha"

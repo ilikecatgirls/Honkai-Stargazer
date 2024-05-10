@@ -13,7 +13,7 @@ import SelectedIndex from "../ui/SelectedIndex";
 import CharSuggestRelicsCard from "../CharSuggestRelicsCard/CharSuggestRelicsCard";
 import { SCREENS } from "../../../../../constant/screens";
 import { useNavigation } from "@react-navigation/native";
-import charAdviceMap from "../../../../../../map/character_advice_map";
+//import charAdviceMap from "../../../../../../map/character_advice_map";
 import charIdMap from "../../../../../../map/character_id_map";
 import relicOfficalIdMap from "../../../../../../map/relic_offical_id_map";
 import { useEffect } from "react";
