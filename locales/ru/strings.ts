@@ -396,5 +396,8 @@ export const strings = {
   //Title of Action Order in menu and header
   ActionOrder: "Action Order",
   ActionOrderAddTeam: "Add",
-  ActionOrderEdit: "Edit"
+  ActionOrderEdit: "Edit",
+  //The text next to the bar of Wrap Analysis Record List
+  //E.g. once if u got Himeko in Robin's pool, then that'll name as "LOSE"
+  WrapAnalysisPullFailed: "LOSE"
 };

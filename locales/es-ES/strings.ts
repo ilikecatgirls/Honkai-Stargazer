@@ -394,7 +394,10 @@ export const strings = {
   SurveyButtonNowDontHave: "No hay ningún cuestionario para rellenar",
   //20240422 - Action Order List & Simulator
   //Title of Action Order in menu and header
-  ActionOrder: "Action Order",
-  ActionOrderAddTeam: "Add",
-  ActionOrderEdit: "Edit"
+  ActionOrder: "Orden de acción",
+  ActionOrderAddTeam: "Agregar",
+  ActionOrderEdit: "Editar",
+  //The text next to the bar of Wrap Analysis Record List
+  //E.g. once if u got Himeko in Robin's pool, then that'll name as "LOSE"
+  WrapAnalysisPullFailed: "LOSE"
 };
