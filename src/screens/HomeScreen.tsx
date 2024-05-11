@@ -272,6 +272,7 @@ export default function HomeScreen() {
               ),
               id: char?.id?.toString(),
               level: char?.level,
+              rank: char?.rank,
               promotion: getPromotionByLevel(char?.level),
               light_cone: char?.equip?.id !== undefined ? {
                 attributes: getLcAttrDataJSON(char?.equip?.id, char?.equip?.level),
@@ -731,6 +732,8 @@ export default function HomeScreen() {
           const doc = db.UserCharacterScores(char.id).doc(uid);
           const docIsExist = (await doc.get()).exists;
           const relicScore = getRelicScore(char.id, char.relics,scoreWeight);
+
+          //console.log(char?.skills)
 
           const scoreData: any = {
             score: getCharScore(char.id, char,scoreWeight),

@@ -68,7 +68,16 @@ export default function getCharScore(charId, charData, scoreWeight) {
     // 行跡分數 -> 占比34%
     let traceScore = 0
     let isChecked = [false, false, false, false];
-    charTraceLvl.map((trace) => {
+    charTraceLvl.map((trace, index) => {
+
+      switch (index) {
+        case 0: if (isChecked[0]) return; isChecked[0] = true; traceScore += charScoreWeight.trace.normal_atk * trace.level / 3; break; //Max 9*2/3 = 6
+        case 1: if (isChecked[1]) return; isChecked[1] = true; traceScore += charScoreWeight.trace.ultimate * trace.level / 3; break; //Max 15*2/3 = 10
+        case 2: if (isChecked[2]) return; isChecked[2] = true; traceScore += charScoreWeight.trace.talent * trace.level / 3; break;  //Max 15*2/3 = 10
+        case 3: if (isChecked[3]) return; isChecked[3] = true; traceScore += charScoreWeight.trace.skill * trace.level / 3; break;  //Max 15*2/3 = 10
+        default: traceScore += 0
+      }
+      /*
       switch (trace.type) {
         case "Normal": if (isChecked[0]) return; isChecked[0] = true; traceScore += charScoreWeight.trace.normal_atk * trace.level / 3; break; //Max 9*2/3 = 6
         case "Ultra": if (isChecked[1]) return; isChecked[1] = true; traceScore += charScoreWeight.trace.ultimate * trace.level / 3; break; //Max 15*2/3 = 10
@@ -76,6 +85,7 @@ export default function getCharScore(charId, charData, scoreWeight) {
         case "BPSkill": if (isChecked[3]) return; isChecked[3] = true; traceScore += charScoreWeight.trace.skill * trace.level / 3; break;  //Max 15*2/3 = 10
         default: traceScore += 0
       }
+      */
     })
 
     //突破分數 -> 占比6%
@@ -117,7 +127,7 @@ export default function getCharScore(charId, charData, scoreWeight) {
     })
 
     //最大值 沒上限 , 畢業100
-    //console.log(lightconeScore+"||"+ soulScore+"||" + traceScore +"||"+ attrScore+"||"+promotionScore)
+    //console.log(charId + " : "+lightconeScore+"||"+ soulScore+"||" + traceScore +"||"+ attrScore+"||"+promotionScore+" = "+(lightconeScore + soulScore + traceScore + attrScore + promotionScore))
 
     schoolData.push((lightconeScore + soulScore + traceScore + attrScore + promotionScore))
     if (schoolData[index] > schoolData[maxSchoolDataIndex]) {

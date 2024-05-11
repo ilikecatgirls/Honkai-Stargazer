@@ -131,8 +131,8 @@ export default function getRelicScore(
     return main.map((sub, j) => {
       // 副詞條名稱
       const name = Object.keys(sub)[0];
-      // 副詞條數值
-      const attrValue = (sub[name] === undefined ? 0 : sub[name]);
+      // 副詞條數值 - 下捨入到一位小數
+      const attrValue = Math.trunc(sub[name] === undefined ? 0 : sub[name]*1000)/1000;
       /* Deprecated
       // 副詞條權重 - 四捨五入補償
       const charAttrWeight =
@@ -246,6 +246,10 @@ export default function getRelicScore(
   relicEachFinalScore.map((val, i) => {
     relicAllFinalScore += val[relicOrder[i]];
   });
+
+  if(charId === "1308" || charId === "Acheron"){
+    console.log(relicSubScore)
+  }
 
   //你只需要 relicAllFinalScore 去計算評價等級 (等級範圍明天聊)
   return {
