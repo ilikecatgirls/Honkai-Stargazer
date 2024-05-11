@@ -3,8 +3,7 @@ const CharacterImage: any = {
   "Robin": {
     icon: require("../../images/character_icon/robin_icon.webp"),
     imageSplash: require("../../images/character_splash/robin_splash.webp"),
-    imageFull: require("../../images/character_splash/robin_splash.webp"),
-    //imageFull: require("../../images/character_full/robin_full.webp"),
+    imageFull: require("../../images/character_full/robin_full.webp"),
     fade: require("../../images/character_fade/robin_fade.webp"),
   },
   "Boothill": {
@@ -17,15 +16,13 @@ const CharacterImage: any = {
   "Trailblazer Boy (Imaginary)": {
     icon: require("../../images/character_icon/trailblazer_imaginary_male_icon.webp"),
     imageSplash: require("../../images/character_splash/trailblazer_imaginary_male_splash.webp"),
-    imageFull: require("../../images/character_splash/trailblazer_imaginary_male_splash.webp"),
-    //imageFull: require("../../images/character_full/trailblazer_imaginary_male_full.webp"),
+    imageFull: require("../../images/character_full/trailblazer_boy_full.webp"),
     fade: require("../../images/character_fade/trailblazer_imaginary_male_fade.webp"),
   },
   "Trailblazer Girl (Imaginary)": {
     icon: require("../../images/character_icon/trailblazer_imaginary_female_icon.webp"),
     imageSplash: require("../../images/character_splash/trailblazer_imaginary_female_splash.webp"),
-    imageFull: require("../../images/character_splash/trailblazer_imaginary_female_splash.webp"),
-    //imageFull: require("../../images/character_full/trailblazer_imaginary_female_full.webp"),
+    imageFull: require("../../images/character_full/trailblazer_girl_full.webp"),
     fade: require("../../images/character_fade/trailblazer_imaginary_female_fade.webp"),
   },
   //add in 2.1.0
