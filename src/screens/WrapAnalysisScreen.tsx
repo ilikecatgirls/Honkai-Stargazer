@@ -510,7 +510,7 @@ export default function WrapAnalysisScreen() {
                   //console.log(tmrGachaSummary[0].totalPulls + " | " + tmrGachaSummary[1].totalPulls + " | " + tmrGachaSummary[2].totalPulls + " | " + tmrGachaSummary[3].totalPulls)
                   
                   tempId++
-                  console.log(tempId+" : ["+gacha.rank_type+"] "+gacha.name)
+                  //console.log(tempId+" : ["+gacha.rank_type+"] "+gacha.name)
 
                   switch (parseInt(gacha.rank_type)) {
                     case 3: {
@@ -527,7 +527,7 @@ export default function WrapAnalysisScreen() {
                     case 5: {
                       //根據時間判定是否歪/UP角色
                       gacha = (pool !== 1 && pool !== 2 ? updateGachaData(gacha, pool, isPityRare5, 5) : gacha);
-                      console.log(tempId+" "+gacha.name+" : "+lastRare5Index)
+                      //console.log(tempId+" "+gacha.name+" : "+lastRare5Index)
                       gacha.afterPulled = tempId - lastRare5Index;
                       lastRare5Index = tempId
                       tmpGachaSummary[x].rare5Gacha.push(gacha)
