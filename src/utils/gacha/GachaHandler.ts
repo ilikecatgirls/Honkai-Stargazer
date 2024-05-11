@@ -29,7 +29,7 @@ export type GachaInfo = {
   uid: string,
   gacha_id: number,
   gacha_type: 1 | 2 | 11 | 12,
-  item_id: number,
+  item_id: string,
   count: 1,
   time: string,
   name: string,

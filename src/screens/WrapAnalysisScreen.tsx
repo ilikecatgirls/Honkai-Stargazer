@@ -99,6 +99,9 @@ export default function WrapAnalysisScreen() {
   //開啟了匯入頁面？
   const [openedImportPage, setOpenedImportPage] = useState(false)
 
+  //是否正在讀取數據？
+  const [isReadingGachaData, setIsReadingGachaData] = useState(false);
+
   //Scale of your screen
   const dpScale = Dimensions.get('screen').scale
 
@@ -132,7 +135,7 @@ export default function WrapAnalysisScreen() {
   ]
   const avgGetUP = gachaSummary[selectedPage]?.rare5GachaAverage;
 
-  const minDpOfText = 14
+  const minDpOfText = 20
   return (
     <View style={{ flex: 1 }} className="overflow-hidden">
       <StatusBar style="dark" />
@@ -371,14 +374,14 @@ export default function WrapAnalysisScreen() {
                           {dataFull?.name}
                         </Text>
                         <LinearGradient
-                          colors={(dataPulled <= avgGetUP ? goodRateColor : dataPulled <= 70 ? midRateColor : poorRateColor)}
+                          colors={(Number(data?.rank_type) === 5 ? ["#FFD070","#FFD070"] : ["#FFFFFFC0","#FFFFFFC0"])}
                           start={{ x: 0, y: 0 }}
                           end={{ x: 0.58, y: 0 }}
                           style={{
                             flexDirection: 'row',
                             justifyContent: "space-between",
                             padding: 3,
-                            width: (barMaxLength * dataPulled / 90 < (minDpOfText * (dataIsPity ? 2 : 1)) ? minDpOfText * (dataIsPity ? 2 : 1) : barMaxLength * dataPulled / 90) + 1,
+                            width: (barMaxLength * dataPulled / 90 < (minDpOfText * (dataIsPity ? 2 : 1)) ? minDpOfText * (dataIsPity ? 2 : 1) : barMaxLength * dataPulled / 90) + 4,
                           }}
                         >
                           <Text className="text-[12px] font-[HY65] text-[#000000]">
@@ -386,7 +389,7 @@ export default function WrapAnalysisScreen() {
                           </Text>
                           {dataIsPity && (
                             <Text className="text-[12px] font-[HY65] text-[#000000]">
-                              歪
+                              {LOCALES[appLanguage].WrapAnalysisPullFailed}
                             </Text>
                           )}
                         </LinearGradient>
@@ -460,6 +463,8 @@ export default function WrapAnalysisScreen() {
         setWrapURL={setWrapURL}
         confirmedTasks={(url: string) => {
           async function todo() {
+            //標記開始讀取Gacha紀錄
+            setIsReadingGachaData(true);
             let arr: GachaInfo[] = [];
             const gachaInfoArray = await new GachaHandler().gachaCombineHandler(
               (url.startsWith("https://") ? encodeURIComponent(new URL(url).searchParams.get('authkey')) : url),
@@ -477,48 +482,54 @@ export default function WrapAnalysisScreen() {
 
             let preSortGachaInfoArray = gachaInfoArray.sort(
               (a: GachaInfo, b: GachaInfo) => (
-                a.id - b.id
+                ('' + a.id).localeCompare(b.id)
               )
             )
 
             //console.log(gachaInfoArray)
 
             let tmpGachaSummary = [
-              { regionTimezone: -1, rare5Gacha: [], rare4Gacha: [], rare5GachaAverage: 0, rare5HavePityPercent: 0, totalPulls: 0, luckyRanking: 0, isInit: false } as GachaSummary,
-              { regionTimezone: -1, rare5Gacha: [], rare4Gacha: [], rare5GachaAverage: 0, rare5HavePityPercent: 0, totalPulls: 0, luckyRanking: 0, isInit: false } as GachaSummary,
-              { regionTimezone: -1, rare5Gacha: [], rare4Gacha: [], rare5GachaAverage: 0, rare5HavePityPercent: 0, totalPulls: 0, luckyRanking: 0, isInit: false } as GachaSummary,
-              { regionTimezone: -1, rare5Gacha: [], rare4Gacha: [], rare5GachaAverage: 0, rare5HavePityPercent: 0, totalPulls: 0, luckyRanking: 0, isInit: false } as GachaSummary,
+              { regionTimezone: -1, rare5Gacha: [], rare4Gacha: [], rare5GachaAverage: 0, rare5HavePityPercent: 0, totalPulls: 0, luckyRanking: 0, isInit: false } as unknown as GachaSummary,
+              { regionTimezone: -1, rare5Gacha: [], rare4Gacha: [], rare5GachaAverage: 0, rare5HavePityPercent: 0, totalPulls: 0, luckyRanking: 0, isInit: false } as unknown as GachaSummary,
+              { regionTimezone: -1, rare5Gacha: [], rare4Gacha: [], rare5GachaAverage: 0, rare5HavePityPercent: 0, totalPulls: 0, luckyRanking: 0, isInit: false } as unknown as GachaSummary,
+              { regionTimezone: -1, rare5Gacha: [], rare4Gacha: [], rare5GachaAverage: 0, rare5HavePityPercent: 0, totalPulls: 0, luckyRanking: 0, isInit: false } as unknown as GachaSummary,
             ] as GachaSummary[]
             for (let x = 0; x < GachaPoolArray.length; x++) {
               const pool = GachaPoolArray[x]
               let isPityRare4 = false, isPityRare5 = false;
-              let afterPullRare4 = 0, afterPullRare5 = 0;
+              //let afterPullRare4 = 0, afterPullRare5 = 0;
+              let lastRare4Index = 0, lastRare5Index = 0;
+              let tempId = 0;
               preSortGachaInfoArray
                 .filter((gacha: GachaInfo) => (parseInt(gacha.gacha_type) === pool))
                 .map((gacha: GachaInfo) => {
                   tmpGachaSummary[x].totalPulls += 1
+                  //if(pool === 11){
+                  //  console.log("["+gacha.rank_type+"] "+gacha.name+" XPR "+gacha.gacha_type+" XPR "+gacha.id+" XPR "+(new Date(gacha.time).getTime()))
+                  //}
                   //console.log(tmrGachaSummary[0].totalPulls + " | " + tmrGachaSummary[1].totalPulls + " | " + tmrGachaSummary[2].totalPulls + " | " + tmrGachaSummary[3].totalPulls)
+                  
+                  tempId++
+                  console.log(tempId+" : ["+gacha.rank_type+"] "+gacha.name)
+
                   switch (parseInt(gacha.rank_type)) {
                     case 3: {
-                      afterPullRare4++
-                      afterPullRare5++
                       break;
                     }
                     case 4: {
                       //根據時間判定是否歪/UP角色
                       gacha = (pool !== 1 && pool !== 2 ? updateGachaData(gacha, pool, isPityRare5, 4) : gacha);
-                      gacha.afterPulled = afterPullRare4;
-                      afterPullRare4 = 1
-                      afterPullRare5++
+                      gacha.afterPulled = tempId - lastRare4Index;
+                      lastRare4Index = tempId
                       tmpGachaSummary[x].rare4Gacha.push(gacha)
                       break;
                     }
                     case 5: {
                       //根據時間判定是否歪/UP角色
                       gacha = (pool !== 1 && pool !== 2 ? updateGachaData(gacha, pool, isPityRare5, 5) : gacha);
-                      gacha.afterPulled = afterPullRare5;
-                      afterPullRare4++
-                      afterPullRare5 = 1
+                      console.log(tempId+" "+gacha.name+" : "+lastRare5Index)
+                      gacha.afterPulled = tempId - lastRare5Index;
+                      lastRare5Index = tempId
                       tmpGachaSummary[x].rare5Gacha.push(gacha)
                       break;
                     }
@@ -526,9 +537,8 @@ export default function WrapAnalysisScreen() {
                 })
             }
             let postSortGachaInfoArray = preSortGachaInfoArray.sort(
-              (a: GachaInfo, b: GachaInfo) => (
-                b.id - a.id
-              )
+              (a: GachaInfo, b: GachaInfo) =>
+                ('' + b.id).localeCompare(a.id)
             )
 
             //這個稍後弄
@@ -559,9 +569,12 @@ export default function WrapAnalysisScreen() {
 
             new GachaHandler().importGachaRecord(JSON.stringify(postSortGachaInfoArray))
             new GachaHandler().setGachaSummary(tmpGachaSummary)
+            setIsReadingGachaData(false);
           }
 
-          todo();
+          if(!isReadingGachaData){
+            todo();
+          }
         }}
       />
       }

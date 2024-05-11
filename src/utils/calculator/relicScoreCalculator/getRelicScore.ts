@@ -247,10 +247,6 @@ export default function getRelicScore(
     relicAllFinalScore += val[relicOrder[i]];
   });
 
-  if(charId === "1308" || charId === "Acheron"){
-    console.log(relicSubScore)
-  }
-
   //你只需要 relicAllFinalScore 去計算評價等級 (等級範圍明天聊)
   return {
     mainScore: relicMainScore,
