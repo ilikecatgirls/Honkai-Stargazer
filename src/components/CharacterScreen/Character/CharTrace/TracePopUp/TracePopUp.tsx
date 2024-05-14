@@ -130,7 +130,7 @@ export default React.memo(function TracePopUp({ type, data, onClose }: Props) {
                       {formatDesc(
                         skillData?.descHash,
                         skillData?.levelData?.[skillLevel]?.params
-                      )}
+                      ).replaceAll("#F4D258","#D9A800")}
                     </HtmlText>
                   )}
                   {skillData?.statusList && (
