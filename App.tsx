@@ -1,6 +1,6 @@
 import "./app.d";
 
-import { Platform, View } from "react-native";
+import { Platform, Text, TextInput, View } from "react-native";
 import { useFonts } from "expo-font";
 import { useCallback, useEffect, useRef, useState } from "react";
 import * as SplashScreen from "expo-splash-screen";
@@ -29,6 +29,21 @@ import getSurveyURL from "./src/hooks/survey/getSurveyURL";
 
 SplashScreen.preventAutoHideAsync();
 const queryClient = new QueryClient();
+
+//https://stackoverflow.com/questions/65192622/initializing-text-defaultprops-with-typescript
+interface TextWithDefaultProps extends Text {
+    defaultProps?: { allowFontScaling?: boolean };
+}
+
+interface TextInputWithDefaultProps extends TextInput {
+    defaultProps?: { allowFontScaling?: boolean };
+}
+
+((Text as unknown) as TextWithDefaultProps).defaultProps = ((Text as unknown) as TextWithDefaultProps).defaultProps || {};
+((Text as unknown) as TextWithDefaultProps).defaultProps!.allowFontScaling = false;
+((TextInput as unknown) as TextInputWithDefaultProps).defaultProps = ((TextInput as unknown) as TextInputWithDefaultProps).defaultProps || {};
+((TextInput as unknown) as TextInputWithDefaultProps).defaultProps!.allowFontScaling = false;
+
 
 export default function App() {
   const [initialRouteName, setInitialRouteName] = useState(SCREENS.HomePage.id);
