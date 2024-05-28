@@ -1,4 +1,5 @@
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
+import { RouteProp, useNavigation, useRoute } from "@react-navigation/native";
 import useAppLanguage from "../language/AppLanguage/useAppLanguage";
 import useTextLanguage from "../language/TextLanguage/useTextLanguage";
 import Header from "../components/global/Header/Header";
@@ -49,7 +50,7 @@ export default function ActionOrderListScreen() {
   const { language: textLanguage } = useTextLanguage();
   const { language: appLanguage } = useAppLanguage();
   const scrollViewRef = useRef(null);
-
+  const navigation = useNavigation();
   const [charCardListData, setCharCardListData] = useState<TeamData[]>();
 
   useEffect(() => {
@@ -162,6 +163,14 @@ export default function ActionOrderListScreen() {
 
   const teamListContent = teamDataTest;
 
+  //Go to ActionOrderSimuator
+  const handleTeamPress = useCallback((teamIndex: number) => {
+    // @ts-ignore
+    navigation.push(SCREENS.ActionOrderSimulatorPage.id, {
+      selectedTeamData: teamListContent[teamIndex],
+    });
+  }, []);
+
   return (
     <View style={{ flex: 1 }} className="overflow-hidden">
       <StatusBar style="dark" />
@@ -197,9 +206,8 @@ export default function ActionOrderListScreen() {
               <View style={{ paddingBottom: 12 }}>
                 <View style={{ backgroundColor: "#DDDDDDFF", padding: 12, borderRadius: 4, borderTopRightRadius: 16 }}>
                   <TouchableOpacity
-                    onPress={() => {
-                      // @ts-ignore
-                    }}
+                    //@ts-ignore
+                    onPress={handleTeamPress}
                   >
                     <Text style={{ fontSize: 16, color: "#000000FF", paddingBottom: 4 }}>{team.teamName}</Text>
                     <Text style={{ fontSize: 14, color: "#00000099", paddingBottom: 8 }}>{getDisplayDateByUnix(team.teamBuildDate)}</Text>

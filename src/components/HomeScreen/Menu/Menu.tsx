@@ -322,7 +322,7 @@ export default function Menu() {
 
     //排軸 Action Order
     
-    /**
+    
     {
       type: "normal",
       name: SCREENS.ActionOrderListPage.getShortName(language),
@@ -339,7 +339,7 @@ export default function Menu() {
       },
 
     },
-     */
+     
     // 問卷
     {
       type: "normal",

@@ -36,9 +36,10 @@ import Lightcone from "../../assets/images/images_map/lightcone";
 import DropDownMenuButton from "../components/LotteryScreen/DropDownMenuButton";
 import LightConeCard from "../components/global/LightConeCard/LightConeCard";
 import { LightconeName } from "../types/lightcone";
-import { Table } from "phosphor-react-native";
+import { Table, Trash } from "phosphor-react-native";
 import dayjs from "dayjs";
 import { typeWithPageIndex } from "./LotteryScreen";
+import RightBtn from "../components/CharacterScreen/Character/CharSuggestRelics/ui/RightBtn";
 
 
 export default function LotteryScreen() {
@@ -110,6 +111,19 @@ export default function LotteryScreen() {
               {LOCALES[appLanguage].LotterySimulatorRecord}
             </Text>)
           }
+          /*
+          rightBtn={
+            <TouchableOpacity onPress={() => {
+              setPullRecord([])
+            }}>
+              <Trash
+                color="white"
+                size={40}
+                weight={"regular"}
+              />
+            </TouchableOpacity>
+          }
+          */
         />
 
         {/* 躍遷注意事項*/}
