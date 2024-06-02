@@ -105,9 +105,11 @@ export default function getCharScore(charId, charData, scoreWeight) {
 
     charAttrFinal.map((attrs) => {
       const name = Object.keys(attrs)[0];
-      const attrValue = attrs[name] + (name === "sp_rate" ? 1 : 0);
+      //根據網友提醒更正 https://forum.gamer.com.tw/Co.php?bsn=72822&sn=95721
+      const attrValue = Math.min(attrs[name] + (name === "sp_rate" ? 1 : 0) , (name === "sp_rate" ? 2.00 : Number.MAX_SAFE_INTEGER));
       const weightValue = charScoreWeight.attr[name];
       const gradValue = charScoreWeight.grad[name];
+      
       /*
       attrScore += 
       (weightValue === undefined ? 0 : weightValue) 

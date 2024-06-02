@@ -33,9 +33,9 @@ export default React.memo(function UserCharAttribute() {
         (inGameCharData?.attributes.filter(
           (attr: any) => attr.field === "hp"
         )[0]?.value || 0) +
-          (inGameCharData?.additions.filter(
-            (attr: any) => attr.field === "hp"
-          )[0]?.value || 0)
+        (inGameCharData?.additions.filter(
+          (attr: any) => attr.field === "hp"
+        )[0]?.value || 0)
       ),
     },
     {
@@ -51,9 +51,9 @@ export default React.memo(function UserCharAttribute() {
         (inGameCharData?.attributes.filter(
           (attr: any) => attr.field === "atk"
         )[0]?.value || 0) +
-          (inGameCharData?.additions.filter(
-            (attr: any) => attr.field === "atk"
-          )[0]?.value || 0)
+        (inGameCharData?.additions.filter(
+          (attr: any) => attr.field === "atk"
+        )[0]?.value || 0)
       ),
     },
     {
@@ -69,9 +69,9 @@ export default React.memo(function UserCharAttribute() {
         (inGameCharData?.attributes.filter(
           (attr: any) => attr.field === "def"
         )[0]?.value || 0) +
-          (inGameCharData?.additions.filter(
-            (attr: any) => attr.field === "def"
-          )[0]?.value || 0)
+        (inGameCharData?.additions.filter(
+          (attr: any) => attr.field === "def"
+        )[0]?.value || 0)
       ),
     },
     {
@@ -87,9 +87,9 @@ export default React.memo(function UserCharAttribute() {
         (inGameCharData?.attributes.filter(
           (attr: any) => attr.field === "spd"
         )[0]?.value || 0) +
-          (inGameCharData?.additions.filter(
-            (attr: any) => attr.field === "spd"
-          )[0]?.value || 0)
+        (inGameCharData?.additions.filter(
+          (attr: any) => attr.field === "spd"
+        )[0]?.value || 0)
       ).toFixed(1),
     },
     {
@@ -109,16 +109,18 @@ export default React.memo(function UserCharAttribute() {
         (attr: any) => attr.field === "sp_rate"
       )[0]?.display,
       value:
-        Math.floor(
+        Math.min((Math.floor(
           ((inGameCharData?.attributes.filter(
             (attr: any) => attr.field === "sp_rate"
           )[0]?.value || 0) +
             (inGameCharData?.additions.filter(
               (attr: any) => attr.field === "sp_rate"
             )[0]?.value || 0)) *
-            1000
+          1000
         ) /
-          10 +
+          10)
+          , 2.00
+        ) +
         "%",
     },
     {
@@ -138,9 +140,9 @@ export default React.memo(function UserCharAttribute() {
             (inGameCharData?.additions.filter(
               (attr: any) => attr.field === "crit_rate"
             )[0]?.value || 0)) *
-            1000
+          1000
         ) /
-          10 +
+        10 +
         "%",
     },
     {
@@ -160,9 +162,9 @@ export default React.memo(function UserCharAttribute() {
             (inGameCharData?.additions.filter(
               (attr: any) => attr.field === "crit_dmg"
             )[0]?.value || 0)) *
-            1000
+          1000
         ) /
-          10 +
+        10 +
         "%",
     },
     {
@@ -221,9 +223,9 @@ export default React.memo(function UserCharAttribute() {
             (inGameCharData?.additions.filter(
               (attr: any) => attr.field === "heal_rate"
             )[0]?.value || 0)) *
-            1000
+          1000
         ) /
-          10 +
+        10 +
         "%",
     },
 
@@ -340,7 +342,7 @@ export default React.memo(function UserCharAttribute() {
           >
             {attributes.map(
               (attr) =>
-                ((attr.attr && attr.attr !== "0.0%") || (attr.addi  && attr.addi !== "0.0%")) && (
+                ((attr.attr && attr.attr !== "0.0%") || (attr.addi && attr.addi !== "0.0%")) && (
                   <View
                     style={{
                       flexDirection: "row",
@@ -365,7 +367,7 @@ export default React.memo(function UserCharAttribute() {
           >
             {attributes.map(
               (attr) =>
-                ((attr.attr && attr.attr !== "0.0%") || (attr.addi  && attr.addi !== "0.0%")) && (
+                ((attr.attr && attr.attr !== "0.0%") || (attr.addi && attr.addi !== "0.0%")) && (
                   <View
                     className="w-[320px]"
                     style={{
@@ -404,7 +406,7 @@ export default React.memo(function UserCharAttribute() {
                 )
             )}
           </View>
-        )} 
+        )}
       </TouchableOpacity>
     )
   );
