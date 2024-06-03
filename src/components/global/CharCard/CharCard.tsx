@@ -35,6 +35,7 @@ type Props = {
   | undefined;
   isShowMultiType?: boolean;
   typeListStr?: string;
+  isLevelReplaceName?: boolean;
   onPress?: (charId: string, charName: string) => void;
   onPressShowChoice?: () => void;
 };
@@ -174,7 +175,7 @@ export default React.memo(function CharCard(props: Props) {
                     numberOfLines={1}
                     className="text-text2 font-[HY65] text-[12px] leading-4"
                   >
-                    {props.name}
+                    {(props.isLevelReplaceName ? "Lv "+props.level : props.name)}
                   </Text>
                 ) : (
                   <>{props.name}</>
@@ -201,7 +202,7 @@ export default React.memo(function CharCard(props: Props) {
               )}
             </View>
             {/* 等級 */}
-            {props.level !== undefined && (
+            {props.level !== undefined && !props.isLevelReplaceName && (
               <View
                 className="absolute w-full"
                 style={{ alignItems: "center", marginTop: oneItemWidth - 26 }}
