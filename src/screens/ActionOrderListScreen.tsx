@@ -165,6 +165,7 @@ export default function ActionOrderListScreen() {
 
   //Go to ActionOrderSimuator
   const handleTeamPress = useCallback((teamIndex: number) => {
+    console.log(teamIndex)
     // @ts-ignore
     navigation.push(SCREENS.ActionOrderSimulatorPage.id, {
       selectedTeamData: teamListContent[teamIndex],
@@ -201,21 +202,21 @@ export default function ActionOrderListScreen() {
 
       <ScrollView className={dynamicHeightScrollView} ref={scrollViewRef} nestedScrollEnabled={true}>
         {
-          teamListContent?.map((team: TeamListItem) => {
+          teamListContent?.map((team: TeamListItem, index: number) => {
             return (
               <View style={{ paddingBottom: 12 }}>
                 <View style={{ backgroundColor: "#DDDDDDFF", padding: 12, borderRadius: 4, borderTopRightRadius: 16 }}>
                   <TouchableOpacity
                     //@ts-ignore
-                    onPress={handleTeamPress}
+                    onPress={() => handleTeamPress(index)}
                   >
                     <Text style={{ fontSize: 16, color: "#000000FF", paddingBottom: 4 }}>{team.teamName}</Text>
                     <Text style={{ fontSize: 14, color: "#00000099", paddingBottom: 8 }}>{getDisplayDateByUnix(team.teamBuildDate)}</Text>
                     <View style={{ backgroundColor: "#00000010", width: "100%", height: 1 }}></View>
                     <View style={{ flexDirection: 'row', paddingTop: 8 }}>
                       {
-                        team.teamInfo.map((char: TeamData) => (
-                          <CharCard outlinePadding={12} {...char} />
+                        team?.teamInfo?.map((char: TeamData) => (
+                          <CharCard outlinePadding={12} isLevelReplaceName={true} {...char} />
                         ))
                       }
                     </View>
