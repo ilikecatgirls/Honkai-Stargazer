@@ -9,8 +9,7 @@ const CharacterImage: any = {
   "Boothill": {
     icon: require("../../images/character_icon/boothill_icon.webp"),
     imageSplash: require("../../images/character_splash/boothill_splash.webp"),
-    imageFull: require("../../images/character_splash/boothill_splash.webp"),
-    //imageFull: require("../../images/character_full/boothill_full.webp"),
+    imageFull: require("../../images/character_full/boothill_full.webp"),
     fade: require("../../images/character_fade/boothill_fade.webp"),
   },
   "Trailblazer Boy (Imaginary)": {
