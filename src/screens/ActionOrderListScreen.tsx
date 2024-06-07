@@ -164,13 +164,13 @@ export default function ActionOrderListScreen() {
   const teamListContent = teamDataTest;
 
   //Go to ActionOrderSimuator
-  const handleTeamPress = useCallback((teamIndex: number) => {
-    console.log(teamIndex)
+  const handleTeamPress = (teamIndex: number) => {
+    console.log(JSON.stringify(teamListContent[teamIndex]))
     // @ts-ignore
     navigation.push(SCREENS.ActionOrderSimulatorPage.id, {
       selectedTeamData: teamListContent[teamIndex],
     });
-  }, []);
+  };
 
   return (
     <View style={{ flex: 1 }} className="overflow-hidden">

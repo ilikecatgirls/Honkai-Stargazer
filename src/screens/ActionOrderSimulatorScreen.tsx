@@ -26,8 +26,6 @@ export default function ActionOrderSimulatorScreen() {
   const InfoBtn = require("../../assets/icons/info.png");
   const BackBtn = require("../../assets/icons/Back.svg");
 
-  console.log(route.params)
-
   const handleClose = () => {
     navigation.goBack();
   };
@@ -45,9 +43,9 @@ export default function ActionOrderSimulatorScreen() {
       />
 
       {/** Body */}
-      <View style={{ flex: 1, backgroundColor: "#CCCCCC22", flexDirection: "row", padding: 24 }}>
+      <View style={{ flex: 1, backgroundColor: "#CCCCCC22", flexDirection: "row", margin: 24}}>
         {/** Left - Showing Team Data & Params */}
-        <View style={{ flex: 0.40, backgroundColor: "#55555544" }}>
+        <View style={{ flex: 0.45, backgroundColor: "#55555544" }}>
           {/** Header of Page (Left only) */}
           <View>
             <View
@@ -94,41 +92,71 @@ export default function ActionOrderSimulatorScreen() {
           <View style={{ height: 22 }}></View>
 
           {/** Showing Character Status, Level & Basic info */}
-          <View style={{ backgroundColor: "#F3F9FFCD", flex: 1, borderRadius: 8, borderTopRightRadius: 20 }}>
+          <ScrollView style={{ backgroundColor: "#F3F9FFCD", flex: 1, borderRadius: 8, borderTopRightRadius: 20 }}>
             <View style={{ padding: 12 }}>
               <View style={{ flexDirection: "row" }}>
                 <Text style={{ fontSize: 18, }}>角色</Text>
                 <View style={{ flex: 1 }}></View>
                 <Text style={{ fontSize: 18, }}>編輯</Text>
               </View>
-              <View style={{ flexDirection: "row" }}>
-                <View style={{ flexDirection: 'row', paddingTop: 8,}}>
-                <View style={{ width: 6 }} />
-                  <ScrollView horizontal={true} style={{width:"100%", marginLeft : -12,}}>
-                  {
-                    teamData?.teamInfo.map((char: TeamData) => (
-                      <View style={{ paddingBottom : 12,}}>
+
+              <ScrollView horizontal={true} style={{ width: "100%", paddingTop: 8, paddingBottom: 12, backgroundColor: "#666" }}>
+                {
+                  teamData?.teamInfo.map((char: TeamData) => {
+                    /** Space for allowing to add testing codes */
+                    return (
+                      <View>
+                        {/** Character Card */}
                         <CharCard outlinePadding={12} isLevelReplaceName={true} {...char} />
 
-                        {/** 大技能量所需 */}
-                        <View>
-
+                        {/** Energy Required of their 終結技 */}
+                        <View style={{ width: "100%", paddingTop: 6, paddingLeft: 12, paddingRight: 12, justifyContent: "center", alignSelf: "center", maxWidth: 80 }}>
+                          <Text style={{ width: "100%", padding: 6, color: "#FFF", backgroundColor: "#00000033", justifyContent: "center", alignSelf: "center", textAlign: 'center', borderRadius: 4 }}>
+                            {char.energyLimit}
+                          </Text>
                         </View>
                       </View>
-                    ))
-                  }
-                  </ScrollView>
-                  
-                <View style={{ width: 6 }} />
+                    )
+                  })
+                }
+              </ScrollView>
+
+              <View>
+                <View style={{ flexDirection: 'row', width: "100%" }}>
+                  <Text style={{ fontSize: 18, flex: 1, justifyContent: 'center', alignSelf: 'center' }}>初始戰績點</Text>
+                  <View style={{ width: "100%", paddingTop: 4, paddingBottom: 4, paddingLeft: 12, paddingRight: 0, justifyContent: "center", alignSelf: "center", maxWidth: 80 }}>
+                    <Text style={{ width: "100%", padding: 6, color: "#FFF", backgroundColor: "#00000033", justifyContent: "center", alignSelf: "center", textAlign: 'center', borderRadius: 4 }}>
+                      {3}
+                    </Text>
+                  </View>
                 </View>
-              </View>
+                <View style={{ flexDirection: 'row', width: "100%" }}>
+                  <Text style={{ fontSize: 18, flex: 1, justifyContent: 'center', alignSelf: 'center' }}>戰績點上限</Text>
+                  <View style={{ width: "100%", paddingTop: 4, paddingBottom: 4, paddingLeft: 12, paddingRight: 0, justifyContent: "center", alignSelf: "center", maxWidth: 80 }}>
+                    <Text style={{ width: "100%", padding: 6, color: "#FFF", backgroundColor: "#00000033", justifyContent: "center", alignSelf: "center", textAlign: 'center', borderRadius: 4 }}>
+                      {5}
+                    </Text>
+                  </View>
+                </View>
+                <View style={{ flexDirection: 'row', width: "100%" }}>
+                  <Text style={{ fontSize: 18, flex: 1, justifyContent: 'center', alignSelf: 'center' }}>敵人速度</Text>
+                  <View style={{ width: "100%", paddingTop: 4, paddingBottom: 4, paddingLeft: 12, paddingRight: 0, justifyContent: "center", alignSelf: "center", maxWidth: 80 }}>
+                    <Text style={{ width: "100%", padding: 6, color: "#FFF", backgroundColor: "#00000033", justifyContent: "center", alignSelf: "center", textAlign: 'center', borderRadius: 4 }}>
+                      {190}
+                    </Text>
+                  </View>
+                </View>
+                </View>
+
             </View>
-          </View>
+          </ScrollView>
 
           {/** */}
         </View>
 
-        <View style={{ flex: 0.05, backgroundColor: "#55555544" }}></View>
+        {/** Middle Blank*/}
+        <View style={{ width: 24, backgroundColor: "#55555544" }}></View>
+
         {/** Right - Showing Flow and Simuated List */}
         <View style={{ flex: 0.55, backgroundColor: "#00000055" }}>
 
