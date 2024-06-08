@@ -43,9 +43,9 @@ export default function ActionOrderSimulatorScreen() {
       />
 
       {/** Body */}
-      <View style={{ flex: 1, backgroundColor: "#CCCCCC22", flexDirection: "row", margin: 24}}>
+      <View style={{ flex: 1, backgroundColor: "#CCCCCC00", flexDirection: "row", margin: 24 }}>
         {/** Left - Showing Team Data & Params */}
-        <View style={{ flex: 0.45, backgroundColor: "#55555544" }}>
+        <View style={{ flex: 0.45, backgroundColor: "#55555500" }}>
           {/** Header of Page (Left only) */}
           <View>
             <View
@@ -100,7 +100,7 @@ export default function ActionOrderSimulatorScreen() {
                 <Text style={{ fontSize: 18, }}>編輯</Text>
               </View>
 
-              <ScrollView horizontal={true} style={{ width: "100%", paddingTop: 8, paddingBottom: 12, backgroundColor: "#666" }}>
+              <ScrollView horizontal={true} style={{ width: "100%", paddingTop: 8, paddingBottom: 12, backgroundColor: "#00000000" }}>
                 {
                   teamData?.teamInfo.map((char: TeamData) => {
                     /** Space for allowing to add testing codes */
@@ -146,7 +146,7 @@ export default function ActionOrderSimulatorScreen() {
                     </Text>
                   </View>
                 </View>
-                </View>
+              </View>
 
             </View>
           </ScrollView>
@@ -155,11 +155,23 @@ export default function ActionOrderSimulatorScreen() {
         </View>
 
         {/** Middle Blank*/}
-        <View style={{ width: 24, backgroundColor: "#55555544" }}></View>
+        <View style={{ width: 24, backgroundColor: "#55555500" }}></View>
 
         {/** Right - Showing Flow and Simuated List */}
-        <View style={{ flex: 0.55, backgroundColor: "#00000055" }}>
+        <View style={{ flex: 0.55, backgroundColor: "#0000002C" }}>
+          {/** Header */}
+          <View>
+            {/** All Steps */}
+            <View style={{ paddingLeft: 16, paddingRight: 16, paddingBottom:12}}>
+              <Text style={{ fontSize: 20, color: "#FFF" }}>所有流程</Text>
+            </View>
 
+
+          </View>
+          
+          {/** Step List */}
+          <View style={{ backgroundColor: "#F3F9FF66", flex: 1, borderRadius: 8, borderTopRightRadius: 20 }}>
+          </View>
         </View>
       </View>
 
