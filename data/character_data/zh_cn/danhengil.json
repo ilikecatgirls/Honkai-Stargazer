@@ -1,19 +1,20 @@
 {
  "spRequirement": 140,
- "iconPath": "6088d9faf3d3c1b4b681e8c39dcb5810b6d776024a0a29084e0411cb9c81ca23",
- "bgPath": "da0bd339fec9edd543c46943e7dcf5f73816b9e079ab84f4a0160f456392b8a0",
- "figPath": "8769b1a36262ff6949adbb3fadc9c3c41625a7198eb9e6e5f4fe3c01ee476384",
+ "iconPath": "f373ef563c2a8a38fcfeb39bdf1a2e0dc74fe51f01f1ab4a77911b2eb4919036",
+ "bgPath": "48097e4a067ffa739bc94133f492d9c63184ce3fffce5746b160bdefdbe38806",
+ "figPath": "140459cbd45783536107262c71821eb985311ee396f315524135f031b83effe1",
  "fgPath": "",
- "splashIconPath": "dcd00c030b2ee5dbebb5b120b9c573740d2cc745a60e7bf526f41db0bae855f3",
+ "splashIconPath": "7e65cade7f00b8c77b7138acefdf6c6a0308f774cb77daeda7d1cd24ba6a6dd5",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRloCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSOsAAAABkGptmyI579+1zIrZ7SrmMCuW0XFMljkqNlEo2UUxMydXwNHLW1VfoLavISImgGRjKTUlRRg5s+Kmw2e/vry/GpeDZbcm9f8asJTVnpN88LMKx8DACh1bYggxxhik8wCupqr8puZiMsxoNw7gsnyc1+tLOWZ0STGn1wYc2Cv5HJobJTM6PylGhZTXFSxjszQZ/HQqSAsB9v98PKuohGafDABG7YqnCvH/oDOO/w24KB9jDPrdjfsPcxxTiJqTNpGRzOgcV/BTur2sCUthHNGs9L4HjHkz9klvTzdTaOR9qq2AI6fRsX0tOCMNAFZQOCBIAQAAUAcAnQEqFAAUAD5tMpRHpCKiISgIAIANiWIAnTKEdXD97CdY54CwAP1m6zr/PV4F8ANiiRJz94J5UbJWdkltvBE8AAD+rEDroWDBLDWxLfLzTGx+Uf+Ofwvr+48yoyjiXy+BFZeXlW13TdhdcadMaxy9xrxzyTHWn9e4ItaO0QC4AjTbLf83hgmMB9LzG2W4c69JMjgrJGrRYThF9oOiGystFUx7Fio0gW0eT0mSejH2rTPhVIMtXX7HzeQz+R7lBw9docQPzLxW1TlO0mYu6d6zbG6HVn7/M06c/5F5m3hlrMRW/Rv+RcaxYcp+4g/91LFCWZ5zKdreHI0h/KGofpuYb0DKd2Qvz7/68fnqw/9BLD6T/BNPSgmFRpmy+Ityf5jZ8PW3Dby/P/8et+cbnqpAtfw34bKfdSDUWfl5T+fVTHCMmQAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 1,
-  "iconPath": "db6e0535800ce9a3dd926342c0481644831ce68b6b6add1f64a6a7fd01922095",
+  "iconPath": "9f28432ac8546f6dd782b5076a5d15201c1906c11fdeaabe48bc845302e47cfa",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用点",
    "desc": "星际和平公司与客户结算时使用的货币，如今已成为太空旅行的硬通货。",
    "lore": "「人们奔波、争斗、贸易，为的不过是个终端里显示的数字。但真正珍贵之物，公司的数字是买不到的。」",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "命运的足迹",
    "desc": "行迹升级的高阶素材。",
    "lore": "一次又一次的败北成就了你的胜利，一步又一步的前进让你抵达了命运的拐点。",
@@ -61,7 +62,7 @@
    "id": 186254,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "9794d4b9cee70ded671331e6e9eec06326dcb9428d59540d9960f2a0bbea00e1",
+   "iconPath": "cf2788ec5bdb2c1137c8bdf583b557edd00667b1f629205eccb2a92e506b62a8",
    "name": "无穷假身的遗恨",
    "desc": "行迹升级的高阶素材。",
    "lore": "无论夺取多少肉身，它都无法如愿以偿。就像那些寻求仙药的人一样，它渴望一具长存的躯壳，不必再畏怖「毁灭」。它知道，这是永难企及的迷梦。<br /><br />「我曾见过无数世界被负创神的烈焰吞噬，我曾是这些烈焰中的一朵。我随祂的指尖舞蹈，却深知若柴薪燃尽，火焰也将熄灭…」",
@@ -76,7 +77,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "漫游指南",
    "desc": "角色的经验材料，可以获得<nobr>20000</nobr>点角色经验。",
    "lore": "跨越诸界必备的冒险丛书。按下阅读键，充满磁性的声音将以你能听懂的语言讲述知名冒险家们在不同世界间的传奇经历，以及他们在各个星球上获得的珍贵智慧。<br /><br />「漫游指南全新书系《星际美食烹饪导览》开售在即，敬请支持。」<br />「投稿请接入博识学会联觉信标<nobr>23</nobr>θ联络员，稿酬可以以您接受的任何形式支付。」",
@@ -94,7 +95,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "冒险记录",
    "desc": "角色的经验材料，可以获得<nobr>5000</nobr>点角色经验。",
    "lore": "装订严整，一看就颇有教育意义的冒险札记。图文并茂地描述了冒险行动的始末、有价值的信息和生存相关的技巧。<br /><br />「干嘛不数据化放进光刻片里？便携多了。」<br />「面对恒星风暴和中子流喷发时，高科技比你想象的还要脆弱。何况，制作这本书的人一定希望人们用最简单的方式阅读它。」",
@@ -113,7 +114,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "旅情见闻",
    "desc": "角色的经验材料，可以获得<nobr>1000</nobr>点角色经验。",
    "lore": "记录旅途见闻的日志，字迹漫漶不清，内容随心所欲，对你并没有太大的帮助。<br /><br />「看完了就赶紧把这堆废纸处理掉吧，丹恒？」",
@@ -131,7 +132,7 @@
    "id": 468392,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "fde5283543d2c56dbc6fa50e20ee2cd2a34a0ec0d0b3d2c1df1af003e36f8174",
+   "iconPath": "c31905e6c5bec5a3962f29a1961f5813d9441b1aacd59d07be0accadf3184acc",
    "name": "镇灵敕符",
    "desc": "仙舟机巧术的部件，虚数属性角色的晋升素材。",
    "lore": "传言在鲁珀特掀起无机生物的灾祸后，仙舟金人也随之叛乱，大开杀戒。为了保证祸乱不再复起，匠人们以符箓施加禁锢，夺走了金人的思考能力。<br /><br />「你到底做了什么让这家伙发起疯来？」<br />「我也没干什么啊！就是…把那道金符擦了擦。」",
@@ -147,7 +148,7 @@
    "id": 549504,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "71d58f084522c87e93327e3e7fc1db8fb4abb65e9989b163d4a348c9a3761329",
+   "iconPath": "6c179a11ddab366162a8539ea956319bacacb460c375d4b3d7f4ab3637918e75",
    "name": "永寿幼芽",
    "desc": "古老神物萌发的新芽，强化所需的简单材料。",
    "lore": "仙舟长生种「无尽形寿」的源头，「丰饶」神迹的残余。无数岁月前，一位帝皇的长生妄念促成了仙舟舰队渡航天之外海，求取仙方。<br /><br />「朕欲垂化万世，国祚永延。惜乎天年有尽，人力有穷。故遣天艟九座，飙航天外，谒求仙方。」",
@@ -156,6 +157,7 @@
    "rewardPath": "/material/549504",
    "comeFrom": [
     "丰饶孽物掉落",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "委托奖励",
     "余烬兑换",
@@ -167,7 +169,7 @@
    "id": 633445,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fc1f8e93b552510a719e96df3c4e48ace4f905d262668303315d785b951a7c04",
+   "iconPath": "d1124c0146a84ca0b7fea540fdaf95e66dc3e8f128ec5a9f9250b388c8183db8",
    "name": "永寿天华",
    "desc": "古老神物结成的花朵，强化所需的普通材料。",
    "lore": "仙舟长生种「无尽形寿」的源头，「丰饶」神迹的残余。历经坎坷，求药之舟谒见天颜。神明垂迹显化，建木生发。<br /><br />「新蕊月中落，天华云外香。桂馥吐纳间，鹤发换青髫。」",
@@ -177,6 +179,7 @@
    "comeFrom": [
     "突破至均衡等级2后，丰饶孽物掉落",
     "「万能合成机」- 材料合成",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "「万能合成机」- 材料置换"
    ]
@@ -185,7 +188,7 @@
    "id": 635673,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "9fe7d5d3bec56787a53e9acfa89161bc0599ba7b6a3a0d95eb60863ff6dcd006",
+   "iconPath": "c34484b3ccf3e5f1f4113e3c24d465e8d93dd5fcb95446241a8c08d6f65a0d27",
    "name": "破碎残刃",
    "desc": "反物质军团成员遗落的武器碎片。可小幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "此烙印代表其位阶和「毁灭」的功业。<br />这柄武器的主人骑乘红马，点燃城市，使众人反目，令国度如蚁群溃散。<br /><br />「持此印者，受命将和平逐出列国。」",
@@ -202,7 +205,7 @@
    "id": 717386,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5708b196a8af89740ced588d98dc414c791d209879957fb0bc8644cc2dc84adb",
+   "iconPath": "fd7a32682f691044c47ac3a898e66880b2f442ae41c7264f87c4101558550161",
    "name": "永寿荣枝",
    "desc": "古老神物的枯荣之枝，强化所需的高级材料。",
    "lore": "仙舟长生种「无尽形寿」的源头，「丰饶」神迹的残余。三灾过后，仙舟生灵涂炭。天人堕魔，苦厄不绝。<br /><br />「按十王司律令，凡濒陷魔阴者，将受判官勾摄，入幽狱审断。」",
@@ -212,6 +215,7 @@
    "comeFrom": [
     "突破至均衡等级4后，丰饶孽物掉落",
     "「万能合成机」- 材料合成",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "「万能合成机」- 材料置换"
    ]
@@ -220,7 +224,7 @@
    "id": 836259,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "d9e262af4f143c0b58be9d20f5c04e04a252fb8f05eb675c0996f5b1bc8f6ad5",
+   "iconPath": "da98edf78f23a9c80090c50d9633d6cdf6d43fb74d873ffa5f791126205599d4",
    "name": "净世残刃",
    "desc": "反物质军团成员遗落的残损武器。可大幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "这柄武器代表着主人在军团中的位阶和「毁灭」的功业。<br />这柄武器的主人负责在战争尾声时登场，点燃劫火焚烧世界。无论受何方神明眷顾，无论曾拥有何等辉煌的基业，这颗星球终将如同熄灭的炭烬，在星空深处黯淡死去。<br /><br />「持此印者，受命净空世界。」",
@@ -237,7 +241,7 @@
    "id": 920200,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e8f74ef086a603eed69945d0872fbbc9776145890808104be58b4d30dca2d7a",
+   "iconPath": "31324efb8271c657d2271c0c656cf3c265165e1b1de5ab0a1355397703472c11",
    "name": "无生残刃",
    "desc": "反物质军团成员遗落的武器残锷。可中幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "此烙印代表其位阶和「毁灭」的功业。<br />这柄武器的主人憎恨着所有会思考的生灵，他们聆听智慧生物的哀鸣犹如悦耳曲声，他们令数千年的文明高塔于一夕坍塌。<br /><br />「持此印者，受命使呼吸远离众生。」",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "b3f17da498523c9e162abecb2f680b8e5e14094916d5a335f62afdfcbf1d4c99",
-   "artPath": "7e4d5433de24cd07488469cd7700374b6b66f2b344f4e37309ccaaacb2b7baf2",
+   "iconPath": "78ec5a4b2a3c5bc4a9eabb348145db4207210b11994793027b17ee4fc530689a",
+   "artPath": "a7018d1f763003f89c3045e2ce9c3dcaf0914cf3fc8d7feb6446d2475de38ec0",
    "name": "萦天",
    "descHash": "使【亢心】的可叠加层数增加<nobr>#1[i]</nobr>层。且每段攻击额外获得1层【亢心】。",
    "params": [
@@ -449,40 +453,40 @@
   },
   {
    "id": 2,
-   "iconPath": "6dd7a7a953b7910d229815024da76a570c401c26afa739796b8018c0db82fae8",
-   "artPath": "2f5b133bd24f3a1a12b55e4abdb5908f601b42ee336ece84878ca17fe3aa08d6",
+   "iconPath": "2a74a7e73397bc181b0a6fba15c4fc4ec759affd70f048b30e4e5627c41dbb0b",
+   "artPath": "b9e549c7a223c73cc0ebb2ff5a132212eaeb8771a8d69af93681a4584ecafd99",
    "name": "九斿",
    "descHash": "施放终结技后丹恒•饮月行动提前<nobr>100%</nobr>，并且会额外获得1个【逆鳞】。",
    "params": []
   },
   {
    "id": 3,
-   "iconPath": "38d3e48303ecd83c585c23d87d1f394f65cd0b6917b9a8a256bb405d1280a81a",
-   "artPath": "7c204ddee5483a41bff402777c3740710c6df491415aed9c4b17d6330fa69e4b",
+   "iconPath": "44d81b7c23f1555c6fad2165e6f76fd0db1f03abae46c12e2dcb5867e07ee7e9",
+   "artPath": "177737fbe05103aa220cba85522952fb1d0f1f67ef31ce8edfbf73a73bd09960",
    "name": "云旂",
    "descHash": "战技等级+2，最多不超过<nobr>15</nobr>级；普攻等级+1，最多不超过<nobr>10</nobr>级。",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "fa97305466550f4a976016d256a21b1ae195f1b607b34c7d47d7f8cacda7204d",
-   "artPath": "4670c0e7eb7feb27975225166ae6538f4c4712d98aebb15b096cb119a3d50e9d",
+   "iconPath": "de75a175462c407328d5709553e1cc42301023475d1043fe4b411d4cb93b7ce0",
+   "artPath": "24c0822d3887c017cac561acdd0ee1e00e06d9891749e0ca719604d6667c6688",
    "name": "嘲风",
    "descHash": "【叱咤】的增益效果会持续到下一个自身回合结束。",
    "params": []
   },
   {
    "id": 5,
-   "iconPath": "d2ec3e5750210f0bdc06ea6be9d43b3588c44f33b8ac89512dd3fa639a9c671e",
-   "artPath": "b4eee5f5a36dc9b5d63d224ee4c94de889319425733c65904ed2528101a3e33c",
+   "iconPath": "80714ce83d77daa33e545d849a740d8c533f370c60d2129eda70704a2fd80ce5",
+   "artPath": "dda42e989134fafe46449a76b1def8ad17f4ebc2a73584ddbfd25e416ba238dc",
    "name": "偃蹇",
    "descHash": "终结技等级+2，最多不超过<nobr>15</nobr>级；天赋等级+2，最多不超过<nobr>15</nobr>级。",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "1b89e1310d9a02486714d56de87b59a086b063cc5f5266aabaf752a2e67a0a70",
-   "artPath": "0288c21ebb78f0341da9f7cecdc26e453a629c6224ec61dc34b192fba93ff5fb",
+   "iconPath": "5e65ef329e74cba58f00ead58d8c60f61f792ac834cf57b5a6fef0a7d8b3cdc4",
+   "artPath": "704f3f82f18fcb2af73ed187d32fa4c70a8ae1f343640be15e251452b1e7c375",
    "name": "见谯",
    "descHash": "我方其他角色施放终结技后，丹恒•饮月下一次施放【盘拏耀跃】时虚数属性抗性穿透提高<nobr>#1[i]%</nobr>，该效果最多叠加<nobr>#2[i]</nobr>层。",
    "params": [
@@ -520,7 +524,7 @@
    "energy": "20",
    "id": 906590,
    "name": "泽芝",
-   "iconPath": "899fddd0dc6bd67c9b99d848c668a4b7cf26d66d25d1e6e5397962be934cd3e8",
+   "iconPath": "52634cd50babf0d8164b912ae5d7e045657505949ec241083dbd5e2364b07f60",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -681,7 +685,7 @@
    "energy": "0",
    "id": 990531,
    "name": "龙力自在",
-   "iconPath": "38d3e48303ecd83c585c23d87d1f394f65cd0b6917b9a8a256bb405d1280a81a",
+   "iconPath": "44d81b7c23f1555c6fad2165e6f76fd0db1f03abae46c12e2dcb5867e07ee7e9",
    "typeDescHash": "战技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -971,7 +975,7 @@
    "energy": "5",
    "id": 107176,
    "name": "苍龙傲睨，劫水濯世",
-   "iconPath": "cd1ddb1fb3f01458ffeffeaecd3ad47680ef51692bada56f1bb36c9ce1a1207c",
+   "iconPath": "bd7350596402959a803a01cc7974ac6889fc3eec59db6da228a8d717679cc23d",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1291,7 +1295,7 @@
    "energy": "0",
    "id": 421477,
    "name": "亢心",
-   "iconPath": "d760a31c391bd79ea2a7426ab5d1d05fbe794e2c8feee7055e42fc71e0221e7d",
+   "iconPath": "565100b834b5f06de98f63b4787b39bba9beca98df23acfa0956dfbff0358d94",
    "typeDescHash": "天赋",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1581,7 +1585,7 @@
    "energy": "0",
    "id": 622063,
    "name": "攻击",
-   "iconPath": "899fddd0dc6bd67c9b99d848c668a4b7cf26d66d25d1e6e5397962be934cd3e8",
+   "iconPath": "52634cd50babf0d8164b912ae5d7e045657505949ec241083dbd5e2364b07f60",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1603,7 +1607,7 @@
    "energy": "0",
    "id": 706004,
    "name": "掣空如虹",
-   "iconPath": "2ceece2b4207167f79da7af0909b991928e5bbe0e5260a27cad74a40a222d29e",
+   "iconPath": "fcf91801326e61347eaf6e016b29843a02b5e092e6f75aba189ad0a760cfdf1b",
    "typeDescHash": "秘技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1629,7 +1633,7 @@
    "energy": "30",
    "id": 559585,
    "name": "瞬华",
-   "iconPath": "196ea282031c4cae9020b30532a20df4d65e68dc88a0a1aebdf4469da24a60c8",
+   "iconPath": "d64d748830f0cc915822411689f4bedcedb14b150858d793f198202320d20a4a",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1790,7 +1794,7 @@
    "energy": "0",
    "id": 676230,
    "name": "取消",
-   "iconPath": "d8031c4d72f80d0284004f3cbe42b7bdbf7b5de5622bf7bfb2304f2046574fad",
+   "iconPath": "5597e192d9327b80edf016766a2ea4f12918c771861a6ba638383edb10fa1a4f",
    "typeDescHash": "战技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1812,7 +1816,7 @@
    "energy": "35",
    "id": 822648,
    "name": "天矢阴",
-   "iconPath": "98a0c9b40630c959fb0a1df75b6e3078f28d74f7205aae92d65904f19289e1fb",
+   "iconPath": "c8faa873b201face304cf5706de132fbd4c7465285272391c91a1c8dfd6c73d6",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1982,7 +1986,7 @@
    "energy": "40",
    "id": 990530,
    "name": "盘拏耀跃",
-   "iconPath": "109a2c1259f45c87074c806373fd1105760bfe23558387ea78ab81ea6247660a",
+   "iconPath": "d15d7e125313f3b0a6092a2f6884d249f0c62b98e73d555bceaadda2d49cff40",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2171,7 +2175,7 @@
           "name": "生命强化",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+          "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
           "statusList": [
            {
             "key": "生命值",
@@ -2200,7 +2204,7 @@
         "name": "伤害强化•虚数",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+        "iconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
         "statusList": [
          {
           "key": "<span style=\"color:#F4D258;\">虚数</span>属性伤害提高",
@@ -2229,7 +2233,7 @@
       "name": "暴击率强化",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+      "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
       "statusList": [
        {
         "key": "暴击率",
@@ -2258,7 +2262,7 @@
     "ultimateCost": 0,
     "id": 346249,
     "name": "伏辰",
-    "iconPath": "f8db316ed0803a1f6ddb9746f20b189432258194e43bf9df028ba370e0220fbd",
+    "iconPath": "e3e94df148ac694704b450f556ea17b18c52ab7d8fa95b4bb935a8f41156c9e6",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2312,7 +2316,7 @@
           "name": "伤害强化•虚数",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+          "iconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
           "statusList": [
            {
             "key": "<span style=\"color:#F4D258;\">虚数</span>属性伤害提高",
@@ -2341,7 +2345,7 @@
         "name": "暴击率强化",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+        "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
         "statusList": [
          {
           "key": "暴击率",
@@ -2370,7 +2374,7 @@
       "name": "伤害强化•虚数",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+      "iconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
       "statusList": [
        {
         "key": "<span style=\"color:#F4D258;\">虚数</span>属性伤害提高",
@@ -2399,7 +2403,7 @@
     "ultimateCost": 0,
     "id": 346250,
     "name": "修禹",
-    "iconPath": "fecc40aac1842ab392f0fe57bec3ffe0376fa0a49d9c4ddfb43897b612b7112a",
+    "iconPath": "5b3e3753edf847f1755ae51cbb773a04b008c5001564518cf4353957bfc75f45",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2452,7 +2456,7 @@
         "name": "暴击率强化",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+        "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
         "statusList": [
          {
           "key": "暴击率",
@@ -2485,7 +2489,7 @@
         "name": "伤害强化•虚数",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+        "iconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
         "statusList": [
          {
           "key": "<span style=\"color:#F4D258;\">虚数</span>属性伤害提高",
@@ -2514,7 +2518,7 @@
       "name": "生命强化",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "生命值",
@@ -2543,7 +2547,7 @@
     "ultimateCost": 0,
     "id": 346251,
     "name": "起蛰",
-    "iconPath": "0f16526a71447a9d134b8d3e356c92c1d1141bb10af418b995efa6fe9c38ba07",
+    "iconPath": "af729eb9312822f4bb6c5075aa717c0ee502e7056d7291ec8b0a14de8622cc52",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2586,7 +2590,7 @@
     "name": "伤害强化•虚数",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+    "iconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
     "statusList": [
      {
       "key": "<span style=\"color:#F4D258;\">虚数</span>属性伤害提高",
@@ -2612,27 +2616,27 @@
   "props": [
    {
     "relicTypeHash": "躯干",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "暴击率",
-    "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8"
+    "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695"
    },
    {
     "relicTypeHash": "脚部",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "速度",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "位面球",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "虚数属性伤害提高",
-    "propertyIconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e"
+    "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068"
    },
    {
     "relicTypeHash": "连结绳",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "攻击力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2642,490 +2646,490 @@
    "title": "初次见面",
    "text": "这是我原本的样子，持明族的姿态…不必担心，我仍是丹恒，是持明后裔，也是一名无名客。",
    "unlockRequirement": "",
-   "cnUrl": "60c1be3d99b71677f4638bb2d82e5de80a1cceb5ac45c65647ba4c2e9f528339",
-   "jpUrl": "dba359af039c59afb54ca7d47bcfebbf12ff0815a1d37b091ba4b08533ce5f8c",
-   "enUrl": "2d794ea22e0cc77985e51c89171eab258a2355c3f135d832dae2e130be2c4cd3",
-   "krUrl": "237d1ca8c7517ba271e863fb37f63ddba65e89505ea272ce6dd8dc592ed9aa32"
+   "cnUrl": "a5d3fe27df18618b7b2f3243e1802f19ddd1ad9dfa77c9f4acc3ca69db9fc5a7",
+   "jpUrl": "dd31605715f658efe07d2ace371b52fcf1ad0c934cb1a7788ab1e38f0a16fb22",
+   "enUrl": "a99ba9d187501d3913253bc490e18bba50ef395199655a1e5c9e0aa28efbe918",
+   "krUrl": "a2de253de9f8c2fddf4668db42e56fee5f929e83ae96199b822040143e88f4a5"
   },
   {
    "id": 2,
    "title": "问候",
    "text": "如智库所记，按持明礼俗，见面问候需以手加额。我们…不用如此。",
    "unlockRequirement": "",
-   "cnUrl": "cf4da5e46e0c23c36f0cffcfd028452aa5be07b1191d3d776bb6c33ac6689f13",
-   "jpUrl": "9500a6645a859e80a7e3e155675bc54eec92fc5a9e535436e6c791d4049485cb",
-   "enUrl": "67b33897b82658e37d835fee6cee18d4db4ca115344ebddac7cc608869299bb5",
-   "krUrl": "1fa161f830b70d8d7e9ce90d6ddde5fd45640d456b6f56b55ee3f8a6aa208e95"
+   "cnUrl": "08360f2594e2101de929592285b81f45a5f0a50c981564cfc5d598f62a2e8e38",
+   "jpUrl": "4e3ec7dfcafadac680d66bb1736fae5d451f3a6c8d0549410784b9d6690c4bde",
+   "enUrl": "2ecc3e20e46991d9aa3e008fade163660bf729c196f5f50850a7e0ec67142d6c",
+   "krUrl": "033f67e508f488f5aa542232cddfd72f54420198d86ada7027e4e273da6fa30d"
   },
   {
    "id": 3,
    "title": "道别",
    "text": "到点了，我不会熬夜的，也祝你好梦。",
    "unlockRequirement": "",
-   "cnUrl": "fa3c7bde54a89e8e9257bc4d7adf78ea664c483c9f8874fe8cd99a5243c2edf8",
-   "jpUrl": "c9e6e492d4b2416d891afbb35200e9285277c8c5da6b78700dbd279d3810f097",
-   "enUrl": "e1526b46c8f1d52801b6de7994d69c53ccd1a61a51a90b4bdacd43f2751955dc",
-   "krUrl": "81f6306a22c9256db8730386b5370f9dd0aac128ea92132abec81e283f29f021"
+   "cnUrl": "935be0e893bbc4ccb8d6d29de555f7d7738bbd0ef2627d193498504f2add0dc7",
+   "jpUrl": "e3d1419074d0a8c87eae3465b3cca73b7bb613123b056ce6c196a709daa865a4",
+   "enUrl": "9f48f53974d0500a3cd11269154b42b6e84b0bf1f76c02a53db3fa286cccb1a4",
+   "krUrl": "15d4c955cdca9138ff5a459fd7473697b7738b3c6e01d76115ce235521ae54d4"
   },
   {
    "id": 4,
    "title": "关于自己•前生",
    "text": "前生种种，对我来说就像陌生的影子，看不真切，却亦步亦趋。我很难描述那种感觉，但可以肯定的是，我不是任何人的影子。",
    "unlockRequirement": "",
-   "cnUrl": "f37367c6e6c9ddea95d8ec49e7dc4649d922ad84d2fdce7fa23d0ce51bb17f11",
-   "jpUrl": "3ab40a1147e65dee2d1507447ee15b800720da7bfc3ee23a9464a22fb6a978b8",
-   "enUrl": "01b5cb52d19557de95a18eb996530f14a12e85d575e2a522a9a0f607d69748cf",
-   "krUrl": "f4c4c7436cd8323569b43201834480f7b7fa4a79189680e8286bb8e664369b89"
+   "cnUrl": "991dd67b370628d8546cf3324d762dbd7e3ac7f1875f9c1a560a68af68764e1e",
+   "jpUrl": "a930e721405b5469c839cf52a06cb9a229e2fc328da624067a2a42f6106f0fcd",
+   "enUrl": "b9803b5e89a8baf84a2d533f9d87aaaca1ebf95a0f0681a6e86e57f9fbfa4b4f",
+   "krUrl": "914b61d1092f9f9de64da4ece1447b0047e33a8bd2e67c90a2b83e1e545ff639"
   },
   {
    "id": 5,
    "title": "闲谈•流放",
    "text": "那一纸永久流放的命令，倒像是对我的特赦…毕竟，我现在在这里，不是么？",
    "unlockRequirement": "",
-   "cnUrl": "999d40f0e9859bd4ecabdd0f5b924918d5a00bb9769f3dacfcfae967505af5cb",
-   "jpUrl": "1206c3affebb70b1aef5bab8fed06602d3a7f961c01b8d91db37954ecb59292f",
-   "enUrl": "8f38df30952fe4f23f67b1509af60f01b6472d05c2ffe21677b306b6cc9965d4",
-   "krUrl": "b0321925e69f452444781ef3adc1dbc2aec5c92c6c53f28adb15c2ab7814fffb"
+   "cnUrl": "89e4202d90bd6e132f095400320f8f0fb63eb9670efdeb0df9a0b40635b2c8cf",
+   "jpUrl": "426be523bf0b378e1b420387a9d09d23d8e91a6318e9c6f282b4d8521b3e571b",
+   "enUrl": "43bada1b732b76a33205d341d559fd68a98f70897e7c68740ac89f5ea5255d6b",
+   "krUrl": "833b2d793a4e9dd2bc17d2ceb5bf66dc316d85cac26dfa9ea3724e5d68425157"
   },
   {
    "id": 6,
    "title": "闲谈•击云",
    "text": "我与这柄枪的铸造者之间，尚未了结。",
    "unlockRequirement": "",
-   "cnUrl": "825673eed917399a50d70a134538e2c4fe5fec28feea452e4e9f1437965154f6",
-   "jpUrl": "95231f932f9e94188d38e54b90380e47c1746f3766ef6b72b9de3e3a92eaf0ab",
-   "enUrl": "e1d0b8f34cfd8bc65ef13b20ab45508aec8e5cbab7d99377054222c0c8614666",
-   "krUrl": "f786bebf0af3fd93d0e6e448a8bf4176adb4b30fa9b0de6b01bd5bedb07ad665"
+   "cnUrl": "dfbb234ca113b2dce07fe35f389e06f289832ed657ebfad5c820642ef607d21c",
+   "jpUrl": "eb7083c6839bb52436f676079896016ebd937915a510292e4ac8a0bab58e6afc",
+   "enUrl": "0aa016a932f010b5515932e87919031097e464d2d11c1ae73a9e536756b372a4",
+   "krUrl": "024cdc05ebf6307ed560b2e3cd2b574da3963df403a1760b9f84d3f99c8d7603"
   },
   {
    "id": 7,
    "title": "爱好",
    "text": "在幽囚狱的那些日子，只有阅读能让我逃离漫长的时间和过去的影子。",
    "unlockRequirement": "",
-   "cnUrl": "baa78c56ebce580c2aded1cf8a2aad848ccadb76ae4ff97104527e233d07978b",
-   "jpUrl": "1f0106e26381959767d68b2c80f2fcaccc5612b6c55818465d798112d3a60e30",
-   "enUrl": "d4f1c7e8397c2f8b0e9b098a1ac57dcc94a2df1464c9b19a8cd41b4e9c11c918",
-   "krUrl": "160d1e3e81d9b16fb9cb10f70747c345e4bef7abb5608c2be4d69da26c75a74e"
+   "cnUrl": "dadd3d37b5b017baf0783d78864607752262673db8c5af151ac28a13b11cfab5",
+   "jpUrl": "9069aa87eb6bf8d3d9bdebeb7cfe6de34a33ccd3483d6d45a1004eac43071e02",
+   "enUrl": "dde62d79f6ccce07401c85bc9a96ca5067904c2f6b37f2709cf50510ec1ae295",
+   "krUrl": "f9bac17f67e31854c4dccf10d4c5c12a45019e8e58a290309d3bc44065e74e89"
   },
   {
    "id": 8,
    "title": "烦恼",
    "text": "饮月君的功罪，我无意评说。若有机会，他的名号我也想抛下…但动用了这份力量，其后果便只能由我承担。",
    "unlockRequirement": "",
-   "cnUrl": "26c899fcd3820e729c01481019622f59401bdbfd90b53ab3382f1648466d16f9",
-   "jpUrl": "c3c2071a255569ccc4ec6eea5bedcc63e61351c29d8d3874e4a1bce74425a6df",
-   "enUrl": "cdfc10443ddbe0aee582a1ef7d5b01973ff354ded8b2e1a96bc5d71bee86f01a",
-   "krUrl": "86d4271bf6410289ab9bb2cc75007ee445e1185df5b468c5d342fccc1488d3b3"
+   "cnUrl": "33ffcd8483a9f0fc367ece5f1e3757edff5dab95cfcfc8f05c4efdaed164a0b9",
+   "jpUrl": "41f2d4df0113d03ae916b3a7bcd07da2167216045d3524c0f76204175247ebcf",
+   "enUrl": "0e93f589cababfdffb90fa90bfed139acffabb8826a857f3f42e484177eb608d",
+   "krUrl": "cbc22a973366d3368090c291481e67c6ad9d41a172d0d0273682e31042dccc2b"
   },
   {
    "id": 9,
    "title": "分享",
    "text": "每艘仙舟上的持明族都分得了「不朽」龙祖的恩赐。罗浮持明掌有御水行雨的奇术，名唤「云吟」。",
    "unlockRequirement": "",
-   "cnUrl": "8c3b305e6f91a813529e7ba7a2c3936de2d25b1ffdb5025dbf3a9a825c33047a",
-   "jpUrl": "db03ae1d637a60abab5e99ff08824c4b551da2bab8d9665d56e1584e7cad3353",
-   "enUrl": "b1957d820a99911747f47cd5a6d7f9352f5e87b204a329eba22fddd4df2ff123",
-   "krUrl": "b0b918147ed75c9362d6353d9fa26a54117519f55caebc618cb0bf78f9260078"
+   "cnUrl": "eb22918c7a7b7db8f6c457e3112f58be24cda0da6273e570035ce20905a73ece",
+   "jpUrl": "17a6704f5675ce196c9b8b31dbbabeb232cedc799c3e71a5c12e241906c2e70f",
+   "enUrl": "8f454e44720945faf409610b1ba505f7e0ace201741bd1f9fd1477ad727bf54e",
+   "krUrl": "e904771d666e72363f03f808312895d268bed844b01f4c7d3c1a92809a574f59"
   },
   {
    "id": 10,
    "title": "见闻",
    "text": "「建木」被斫断千年，却不死不灭。若丰饶民有异动，必定与其有关。",
    "unlockRequirement": "",
-   "cnUrl": "e4d107db3153bb329f0134e4c9a27780094901764186ecd5e47519d8051bc730",
-   "jpUrl": "233cbe87c7fb1d72d74501a7655afa6c82afb790b6603b81e81915b5d67e8d1a",
-   "enUrl": "fc548d81e54062fba00e1a94fe835fb2be7243c0a2efc5d0f28a3d63a85a3ce8",
-   "krUrl": "efbda003a1731f62f344459205f1f87e13ef27fecabfeb4f1ee7450e2c473627"
+   "cnUrl": "d49d58516a42394ac0df73adc6f2ba0a7a4658e4fdec466c31a206ee28bf1985",
+   "jpUrl": "3d2a0ee33f6f0108fd33ac4f0761159219176ce87352f64181133ba7941c1d1a",
+   "enUrl": "42cb87417b53311a70f0c6b6b44505eb7c953119e481a555dbd36705af4b2e63",
+   "krUrl": "14735f117555122e86a58116fd35365bf84c1dabc02b47c60cae761c8254065c"
   },
   {
    "id": 11,
    "title": "关于景元",
    "text": "将军偶尔会把我当成旧日的朋友。可惜，我并不能回应这份期待。",
    "unlockRequirement": "",
-   "cnUrl": "3c5192b97dfa38f9daaf69ca0feb3cea4e2b710b1d99e0b899648077a6003088",
-   "jpUrl": "0e0da7c30d7de71173908c22474f15a10018660a3a8e6627b3f7acf80ffcf664",
-   "enUrl": "9e63b4fc16c62629923f32739bbbbb9c44cebc45f8a4fa951c78c53ac8ae9e8e",
-   "krUrl": "25cca8f283eca53aab7f99710c245887046caae6908d23999067c89023b39827"
+   "cnUrl": "5c22876c4eb170ded3f74648aae846a1f3ba8a486a87a34667c8bb2eb476293c",
+   "jpUrl": "ae9a2ba5ef23af67a93b866112dc20fd48e5756e082083cb9775dcb91e58caf3",
+   "enUrl": "eabaa77d5774a26e9d3013f6b5fe395624eb839c313f7c18661146c3c019fcba",
+   "krUrl": "2e29076a0b50b08b3e52367b6e0608dcd851e40f2f5e5dacf1d0ba92ab38d763"
   },
   {
    "id": 12,
    "title": "关于白露",
    "text": "龙尊传承并未完成，致使她困于浅水…好在，她有股子不受人摆布的活力。",
    "unlockRequirement": "",
-   "cnUrl": "b6363d5170be4a61eccd4b2b77df8d06532333fbddb8e437a1e11280b331389e",
-   "jpUrl": "6935c9d898c5fc3632237049bd6c79bdb002be74840c2692626a47ddaad48c00",
-   "enUrl": "7a02623dabdb088078e9d48d4124516438253e25eb5230cca025363470b9f7fc",
-   "krUrl": "37e1159c6a4b7f0ec63df8f0ccbb219c63aaf898c2131bf4929cdae7c72332f6"
+   "cnUrl": "62b0a0897b16a6681e810f8fa4921a8cd33e7f4ffa86ff899c8b5471bb137900",
+   "jpUrl": "409b4edaf6e72f211d23aaed8b20a363ddec727e2c7adfcc8f3cf0e17f4d076b",
+   "enUrl": "322d332d7a78477c48dce4a5cfc1821da8e73951a0644e26775eb120d1b3d921",
+   "krUrl": "a9d896f3f18c0ba5b4131c891642071b823eeaba7440bd840de07dd51817090e"
   },
   {
    "id": 13,
    "title": "关于彦卿",
    "text": "那位小剑士的眼神和身手都颇为了得，但我不打算与人比剑。",
    "unlockRequirement": "",
-   "cnUrl": "94e8e4e44de140ffaec5cfc9cffe4b801c410b3e710a9aeebfd0fb6196ec0d0c",
-   "jpUrl": "7be3aebf9f8bd473485302a82136a157bdb432481570933c72cd49e8ab694b4f",
-   "enUrl": "9bdb41cf62d998ef41ade5416e96cfada25c54058a5a1abefda42fb7cffcee93",
-   "krUrl": "65de42d4c122f7451056e65b9c3473b34091d4ce4cff2da391cf20ca6c8ecd8c"
+   "cnUrl": "9d4d072da2eda9478bf61fbe644b7444838e8778a194bc63f97d03b66f839d36",
+   "jpUrl": "23841e7addee2f259e1bc7c64413b92c3c728af076d3aec061f965675c02fdb7",
+   "enUrl": "9c9e7b4ecaf0da3b8377a12a7d9cdf24d7ad1315810215926a3332fbce017603",
+   "krUrl": "0faa203f2870129914bf3bfbe2dfe6e6183651faf7176c3f89f74589e489def0"
   },
   {
    "id": 14,
    "title": "关于刃",
    "text": "从我的身上，他无法获得他想要的。",
    "unlockRequirement": "",
-   "cnUrl": "57224e62602b30b27ea3335edc7c08c9db9c06afcafa38ee50e6699443ab6ccf",
-   "jpUrl": "0a6a6b9cc0d1e5d142a8ece4d2fe546bb0d60e2e80ea12a0dff0733f1cad7f41",
-   "enUrl": "af344217c933e76ed4ae628e0026c23e420e967a9a3db2395bd1f72786270c2c",
-   "krUrl": "f1001af8e83c4ccafa342abe4f8f64e8c77e7df54b0d7b2d913a76e8111608a5"
+   "cnUrl": "5efc1a93b2f9a8a976febbc38da2931491d75794731b10ddbf7f75dbc1ba4cbb",
+   "jpUrl": "6bdeeeeaa03bec3f9763b4967d694b7e1912ed2e30915fa3fd0ce7862359fbfb",
+   "enUrl": "574983e1f580a7a5cda329a7c9ffdf35f13507bba45121dc6a3e75e237db5da6",
+   "krUrl": "ff4b58f5f948270a43c5983917b90b2ae1c04e1f7331910b436f7b097e9fc876"
   },
   {
    "id": 15,
    "title": "星魂激活",
    "text": "回忆无法选择。无论如何，我的过去都不会改变。",
    "unlockRequirement": "",
-   "cnUrl": "c86a136009ccd14a41a2f24317316a49cba0c39e433780a2488c6d771962d233",
-   "jpUrl": "c52a23d19a1e55389efce81b1e024e987170a7aa5efc994869bf1dbff086eb50",
-   "enUrl": "dc539595e8e031a2c018f6f7dd3b9574c9fd12fdb116ff725f459f7a32933bcf",
-   "krUrl": "67b5aeb141de6aec47d77b1fc14772bc1a324e32ec9e7bb46bfc784e3b50e6ed"
+   "cnUrl": "ed441815777272c64d48065dc44a0d42e69c7e5420057e303e9267b70d9256e4",
+   "jpUrl": "a468f4032cba01f87f3b08dddde76747c5136f2475db8e2619cc325761eae7ff",
+   "enUrl": "611fb81e6c6104cf824dc0088efbb20125e2f1f69faa734409b9762fff1004a0",
+   "krUrl": "6474ae83b5ea7cd2b998b90fce75cfc029b24a925f03f15e9c91e8663b473a4e"
   },
   {
    "id": 16,
    "title": "角色晋阶",
    "text": "胸口翻滚着的汹涌躁动，也需予以出路。",
    "unlockRequirement": "",
-   "cnUrl": "a8dde5c5270deebb2f66682348c923e6b6cc31aae6bd4b599bcfe55e593cc95a",
-   "jpUrl": "aca9372dda1f82c83aad6b37dbca8048d67c7080247afc6cf66d9c6dadc72b80",
-   "enUrl": "35b47682d28be4ce4e3f341e0620beea4202e4b3bda92e33c73c62a71a065f99",
-   "krUrl": "b9d3aa106900b581ed514ef5919d6ec5ed58382437f4a28aef2512badb47ff98"
+   "cnUrl": "f71231e0c08dcc3332376e9229306e01b54170cf95f2224ebde004951f7d8ac5",
+   "jpUrl": "044d46989e3dd5cefee46282fc13b9be86e38a269d2154c79dc37278d8797ed2",
+   "enUrl": "abe59d2ddca55b1240abeb4f6d4d0ddb2f661e65f054b6a7c0f698a7c9f0f00f",
+   "krUrl": "a12076976ec1aabc4601c0d993a1ca03b61d3eb1377377849f55b71bbf0c37ac"
   },
   {
    "id": 17,
    "title": "角色满级",
    "text": "未来不可知，但…我能够「选择」。",
    "unlockRequirement": "",
-   "cnUrl": "2e087de7497377280b555163be8230e3c532a1dce0bdd1485158ca0c4391c526",
-   "jpUrl": "0614f21c90e2249ce1fc5ead889452e6aeb578fb56a6090020153ba6038dc956",
-   "enUrl": "1b831a7a32071322a851a3bb6dd0c7ea17fe112ff45dab3fd2f3f4e75aa7042f",
-   "krUrl": "499498b878e0958e548144b5be33cf478faf5886fb29542cb3efa75d086d0b13"
+   "cnUrl": "80e91682dc551ccef3f21136e3b3d81a26d23e628b284e1f7eec26a525060183",
+   "jpUrl": "02727e11524d2149b2de0bcf183131f0a473fe490f1b9d4e30bc5f2ea6ee586b",
+   "enUrl": "dac395b7be4d80c32ea9befcb195535ebce3d891574bdbba7935c48f50d92f48",
+   "krUrl": "1b1facbd95232a33b07c872e38e71b1441c54a0bc77b9c0c27b4f2b16963a17b"
   },
   {
    "id": 18,
    "title": "行迹激活",
    "text": "我来承担这份力量的代价。",
    "unlockRequirement": "",
-   "cnUrl": "9105c63a18b3649a23c91490c6874213c408468be5070db3a82603e9845968a7",
-   "jpUrl": "e32ed4ac6123992ad8b59428bd1adb25ee4bfe5943928d901cc5aeec93b85391",
-   "enUrl": "bdd7f6f59e618072259a23e382860256e490c004dd860aecddda83ba731531d4",
-   "krUrl": "21b05f9d8c2b6a47df2650c84a25fe623df1d918206e584c92ed756864a15979"
+   "cnUrl": "bfaa197d74867ebaa628c3edf5da540d499dcf8ebc46d21ba7000cc57129aba8",
+   "jpUrl": "6beb479bd2c57a6fbbcedcd1a6fbee15f9b20b8208b7f25287eb873ec8f80c2e",
+   "enUrl": "9746140efb6466abc8fb768546913194ac86855f5d5bd4158a75cf73e7a42f48",
+   "krUrl": "1e2e6c3e5efeeb102ad0dfbb7eda31ee6226a6621c8196edf983a6fd273ecb8d"
   },
   {
    "id": 19,
    "title": "队伍编成•开拓者",
    "text": "开拓者，小心行事。有我在，放心。",
    "unlockRequirement": "",
-   "cnUrl": "992c4ebd0418f7423afae0e36d5d3e496dd62a6ced4f012db07a54e17ae931a9",
-   "jpUrl": "7d5e51126c17a64852390b7bcf33499f1f93170ef2964ea7e04e62b2a72b5a99",
-   "enUrl": "f7d94cb41742b8925993f12f3ba61348b221341e5194c128a8a005e97767bd02",
-   "krUrl": "3269d1aa0e4cb2128e0972e7baace6da8f93baf0f0fc1868c8ede6ec689741ee"
+   "cnUrl": "1e7e15595a5ef1dbd8070a8b1684dd1ad03cf75940530e490ae66ea75b913d09",
+   "jpUrl": "3fcbe99036bfc0a429c077013cc87eb4cfcb825a7d90a20c2eeee16d14261e39",
+   "enUrl": "79d532e5c9bcb2fa4b3603a92af0868bc433c3ed02d32e96ac5760ae57ebe5ca",
+   "krUrl": "f5f1b95abdcc98f23c7e92d21e206021a2a159a3efb7e1458d31e4f1a3647e7d"
   },
   {
    "id": 20,
    "title": "队伍编成•三月七",
    "text": "三月，记得…罢了，反正每次你都不记得。",
    "unlockRequirement": "",
-   "cnUrl": "6ec3cbb96b36e442198aec513f728e6794c42a4b62906dd17d7cca9fba685109",
-   "jpUrl": "2f79cfd82117f5b9c3e4d47d75491dfda351d45bd8ff308ea6998abd346b7457",
-   "enUrl": "9a1eabb5e89860fc33b2eedb26c72052302ab5117cba9f9e69fbf871b113d548",
-   "krUrl": "94639f49cad7f64008afa3665ab596c05891b40f3e10c8f8fc4b20fea2f94632"
+   "cnUrl": "fe4851431153bcbeda7ed85ad0d729016ab9423c229de5981687aaa80ba1d813",
+   "jpUrl": "ddb6370d8493e4dc852a0b79e9a9e58e9670ec6b9cfa2e55e7082d13e702aa77",
+   "enUrl": "770eb246d17eb716cff20556fa20b80e38a3154f2fc9e7bda6f1aded4e069388",
+   "krUrl": "4494f90bc20df07cbd86b5cb5f2d03ef3edbda2a7022c750432c9d1a3ff7d935"
   },
   {
    "id": 21,
    "title": "队伍编成•姬子",
    "text": "姬子小姐，同往常一样，交由我来处理便是。",
    "unlockRequirement": "",
-   "cnUrl": "e92b0ce32bca68de70c2137a75e60c2c17308ff151837fd1b99b853e03d902fc",
-   "jpUrl": "a38c51a25e1643b8c5436276a6cd95e84ea166563325038d10948b9fdf545a65",
-   "enUrl": "b4b9469e19402fb9bb598566c2a0541be64a6fd167a6097dc005d85cbb258f16",
-   "krUrl": "ce89311edc1bafa3fd478a74544bca3889415bb75b61cbfee0f86ea438366e42"
+   "cnUrl": "57525af789f0002b7f7aa500e5eb0ea6326e0140189bb7a0703558933e9ec3e6",
+   "jpUrl": "4529aa2552869cf0ec74e0618717248af4bcab8d8ea4986c2b7060ea279e32f9",
+   "enUrl": "5ec58e440fcfa828df36223b2ebe006b6b2ee965d4235b2a1ef200c4c7fec3d2",
+   "krUrl": "1414c9ba198bfe6f22de8b7762a7112ed4f75eed907dc02260cedd9d5b1a60e8"
   },
   {
    "id": 22,
    "title": "队伍编成•瓦尔特",
    "text": "瓦尔特先生，对此你有何指教？我也会如实表达我的想法。",
    "unlockRequirement": "",
-   "cnUrl": "fa223222d6328fc5f7f05d4c339251c72a2c3948d61fbd0999fc97aa60c35edf",
-   "jpUrl": "dfa9cd8041a16a56d62790c3a7cbe8f5192a8b2834c1ab61807c15e7e7b06a3f",
-   "enUrl": "8305b9d3d9389579a5bbd08a94a502a7dc93c45614b8edc8cd9c7d7b7b649a89",
-   "krUrl": "ff6ac861134198b861e42ab1d300b3eb7da5d06599d6c87345cc80c9c7fd31e4"
+   "cnUrl": "23405d2d0957576e26328570bde3a1e5b15a1c480540f60d18be61dc9e942f38",
+   "jpUrl": "5de14484893543cc4c232e4927442df16f802f7063652d649be512215bc87d72",
+   "enUrl": "1efb219fd867a0e61731075323dff5f893175443501b2dc5cbc7410190d31220",
+   "krUrl": "5c6884f016ea9159418486c6cbedc889e9a4fee146197c19eae9a0c2731dfc29"
   },
   {
    "id": 23,
    "title": "队伍编成•景元",
    "text": "将军，幸会。",
    "unlockRequirement": "",
-   "cnUrl": "ef5e494227271e0605c236c6d156570a7dd2d6403de020e5a3ccd36d506e69db",
-   "jpUrl": "c1423857be024f5fdbb47634ca9452b4008ad7bed68396f902edb71cf2abc543",
-   "enUrl": "7d2a27d0c82fcc392b95479251e93082448982619227e86b69a5ff8537ec2196",
-   "krUrl": "93892d6716a3ea951962f813355daa3186350b3d4dc13c2dce9f5c4d09418f8b"
+   "cnUrl": "a07ebb804289c8beacb6fc789cbc976b5ee90b0e42e9436b770e925d25d6c8e2",
+   "jpUrl": "80e86bc4053ce478a6afe67ba8ec732b501147524ec5e5993f019fc37a266ad2",
+   "enUrl": "5abf15fd870e384f1d2f6cbe29410ac28896a96ced04e907d54e713de3025869",
+   "krUrl": "29fb7e748d29bfb32c228fb4384e8d5c2f511a0393235ce663cd423cc63547c5"
   },
   {
    "id": 24,
    "title": "队伍编成•刃",
    "text": "再警告一次，你，别靠近我的同伴。",
    "unlockRequirement": "",
-   "cnUrl": "4fae52ce089db7af1f2a38677ca64a53269caf42c0a9359a8b6e25fb5755e43b",
-   "jpUrl": "b287e0df1ee896708c61f69fe6916653988492022d2b448d83698be9eaacb93e",
-   "enUrl": "d743351c06387ba094ff2f2483a5690d9398722d414d47f5bc588075cfaa9f3d",
-   "krUrl": "260b920f15bfe02c3f60e937d34e723dbfe8470b524b986563fab790a40a52ce"
+   "cnUrl": "af9fd353d51c4461b18fa3951f1bf39a072978e4e2faca6131c6de40f8b876ca",
+   "jpUrl": "91c83149c3feea00fc315426927a172597e26fb686c73176a730ffd183f4d44a",
+   "enUrl": "541c6ce68c60cf0cefd3ba487a9daf16a7bd504c582b877916b4e80d1ac24dcd",
+   "krUrl": "5abde0b2ff23742cc9c2da3204a095709ccd21affc0f8ace8e98df88c03d73c0"
   },
   {
    "id": 51,
    "title": "战斗开始•弱点击破",
    "text": "如今，时异势殊。",
    "unlockRequirement": "",
-   "cnUrl": "9c0c45f7c94fb83f39cce2dee000db93fef72add4a8c699d491bc8c8cc8b2113",
-   "jpUrl": "3a2a98d9b3055a722fed160b427b570c094b2224dab1a773f3d0823356f04104",
-   "enUrl": "d67742117a22d98828a5a3650ed2e2f12216a12f0df9f40b8db0065dcb8c7917",
-   "krUrl": "caa7c0332b12a88216c58076e003cb39c4ce3e35683da48e312587e5531d3728"
+   "cnUrl": "012a8fbf1b16526c2094756fa54fe53c9aba7699a49bdfd4d41db069c3164211",
+   "jpUrl": "2c5013f96d4cfae11ef13a97e58cffc527d74c26236ee5227b030cec7a61e9ce",
+   "enUrl": "ad051a47e73d8ee3d39399686d2eb82ca9cf96350d5e66e8bc8da441c3d08518",
+   "krUrl": "8923957830c7cf5dc7aa2f8f61da907ba3d9178a23672838df08c5ad4db416db"
   },
   {
    "id": 52,
    "title": "战斗开始•危险预警",
    "text": "不必畏惧。",
    "unlockRequirement": "",
-   "cnUrl": "c2396e5c77bf178859946b37f82abf6d0c3b90693fc42e79b5bb3beb2a374424",
-   "jpUrl": "3199e303620f9f7f72afc1bb541aad43765856afc1737d4e80c8a238b89498a2",
-   "enUrl": "c682e137626c06b80d2e5252f909cf267ef3d7518b93dbfb74246a2498bb0f5c",
-   "krUrl": "1f7ae91d04fb2278b8254eda5952e16f1d9e40c7e9ec5c272157c3aaac30f979"
+   "cnUrl": "5bff4b7922aafcc4487ceaa9cb358e57e77ec17de09a97644ddcdeedd0b8b3f3",
+   "jpUrl": "fbad47b64677bdce03e460375556a99a9db458204f7e75cc704cdd72f6409ba9",
+   "enUrl": "cf1294b28fff1da4d554aa730f9f5d8a29457bf507cff14a0a48d6742bcbda83",
+   "krUrl": "2a8df8a6c37eb68606156a12cbf445974e4804d08f2b9d4f09d30e52ce735819"
   },
   {
    "id": 53,
    "title": "回合开始•一",
    "text": "我能感受到这股躁动…",
    "unlockRequirement": "",
-   "cnUrl": "13b0213c5c307c5e3d7ad18bbac17f1703a36a36ea612f8287a3be82e9c4ba17",
-   "jpUrl": "9d19664e4aea323e6189076231e63a82dcb67766dc4b2e96786c193dc46a3efb",
-   "enUrl": "b88a87aea0b2795f175d39853e51deb0e8f506f3ce9c00038e0b61e4f5d17279",
-   "krUrl": "cb2b515161c97672695382811ed078830db7e2252267cbb702226a92be887417"
+   "cnUrl": "fc9434a0db0b843a19e83ab80915c212f185e570bd76bacea927d5181a5ae40b",
+   "jpUrl": "064dfafaa4683862c6c6c3f558f0a26a2d1e14df2654c77d46063e0a11e420d9",
+   "enUrl": "2562845eb47405f9cd3f55c5fdb23fac1e538c339eebe097cca8a098e87b8ff1",
+   "krUrl": "2e22afa67939d7d4907886cbbc2b3f88f185a1205ec48ceaa437f3bcc9eb7e23"
   },
   {
    "id": 54,
    "title": "回合开始•二",
    "text": "这股力量…我本不欲使用。",
    "unlockRequirement": "",
-   "cnUrl": "701f83eae04fdd12749c6d7d14eaca00a375dfae34d28dac6dc9adb039cf0942",
-   "jpUrl": "f725c85f14284f11abb167a091dafb70a707471ac9919c2494a3f9ed5cf5cf73",
-   "enUrl": "fc7f281aa01ff65d765cb2dfa39fbb1a400d5577d4f11233ee5b1ada60306f61",
-   "krUrl": "e5dd2f59af60d9de9e52381f8cc7b1deab5f3f28abbf0770e50b31f5a0afe42a"
+   "cnUrl": "4248eefd79295b80b47bc95c4aec1e1ec98e6b3eb35eb40a0fdef7b25882f54a",
+   "jpUrl": "4db524e45a7d8223cf7fb6415445e4bd52856315573d6bbeaf991db5ddb1cfbf",
+   "enUrl": "123e14d31f96b8c640029342bd1f1b246c00d9db37b7e0e24b7d975d9f24e36a",
+   "krUrl": "3d6ddcebc44a3266f394d3065fb823e6111b5c3d91def10324a7cb6de4555251"
   },
   {
    "id": 55,
    "title": "回合待机",
    "text": "战阵之中，最忌分神。",
    "unlockRequirement": "",
-   "cnUrl": "fd5a3e9c176239db7577e9112160df845ef40e6b669135087e1c11fda528d5e5",
-   "jpUrl": "577d336c4df0673e25039797e7c26ceab8a14407f8e9471404d363f7bbf3798d",
-   "enUrl": "fccc0949238ba1d9c08465ca487c48d574b6e0e282c4df633f95bc016a23917a",
-   "krUrl": "b68c430d9fb452432896e8ef1ba2769397eaa32221ccaa6652668d6e2eaf7df2"
+   "cnUrl": "d1817e0f5bd491b1d3e6fcfd098c5e3af344f127248d700b115673e081185013",
+   "jpUrl": "33f205a7d455e887ee2f3cc3d570dbcacd6cc447be06599adb5770eb38bad71e",
+   "enUrl": "858dbf30838214d982052c5a009f1374f39e9283ed1f6e65da0930c9e5adc529",
+   "krUrl": "49deb2a849548e610ddc6b3ba75f2baa63bb90260d8441eb02c4b2dba3832d36"
   },
   {
    "id": 56,
    "title": "强化普攻二",
    "text": "破绽百出。",
    "unlockRequirement": "",
-   "cnUrl": "71a0df401ea367675e9d1c3d5d359a4639563270573756deca7ad7fa8853bdad",
-   "jpUrl": "bd8c69da4634391b98b36a419980df83b5e47dbc6bed8d416d9429211e55d0b5",
-   "enUrl": "6390e503ae19dac0cfada77fc653762551cdb034a44d41cbaa4aa84d382d4ad4",
-   "krUrl": "11fb6408f0ddb04ebff7af08c8973a038ccc0625ba55ea58307e6feb8925bba4"
+   "cnUrl": "117c74468a1a057c66f03c0f049947f9984614d0348654fdb31f0d69f8555815",
+   "jpUrl": "2879f0fbfdf50f25c9fa0e5b30bc5051294beb2857b2525523442bdd62b93c2b",
+   "enUrl": "ccbb8e230a954b01934e6f5f95248b52fc1eb9fffb68df14149657422f451c42",
+   "krUrl": "21eda2124e46e2a21b4d1d1b3ce3fde583ce666bfac229f9c6da72455b491876"
   },
   {
    "id": 57,
    "title": "强化普攻三•激活",
    "text": "天洪奔涌…",
    "unlockRequirement": "",
-   "cnUrl": "813cdb856b7298a8477524520ebcad7b0d90ddb459d0f496ada72e6c1fb72019",
-   "jpUrl": "9284ef26d68d4e541c8a13aad10bc8a7998356b76757545f7e73b4e41d7b49a9",
-   "enUrl": "85d7341856bb23364fb50223a1c30d2f35d6b78a335d9f0b6fd845fe4b54db48",
-   "krUrl": "085c1eb9e0220920a9d623d4056936648a4eed0a61e74aefcc4a2e511f612b97"
+   "cnUrl": "a21a8bf5f7415d9f1e6d9bf81d46e379bfd5bf9dabb3ad7a2d926bc56e2156a8",
+   "jpUrl": "53adc68d7132ca682e263715d541b5ad6d2a4aa188dcb2643207f5f5e973f4ce",
+   "enUrl": "9ecf4186ba325d934352cb447fb8a47fd4575c874299eb59bfa3309111ccafd1",
+   "krUrl": "0cdf811b16d5ab8964a04b6d46bf285eb55b80125635435ddf91e3d22022a510"
   },
   {
    "id": 58,
    "title": "强化普攻三•施放•一",
    "text": "霄龙现影，破！",
    "unlockRequirement": "",
-   "cnUrl": "467af7bd47836923b7a9ee33fb177e5785316b4c1fe0e7d0312a437bc0c997bf",
-   "jpUrl": "231f3ce0ded6fb9c342132d6593dc3003b79b8d754f84dc484e7c52ef6eb4614",
-   "enUrl": "2b2346fafdd989d6ad0bcbfccae20bc667950b00c1a6df012aa8c5867de0fb32",
-   "krUrl": "6227ae434bd5092cc6f87214286ad50e62b1b1ea45138959b70452ac933991be"
+   "cnUrl": "4e0c1f4026081039046a9610cb4df42d9c381887e297e6a9fe433390cd2a8166",
+   "jpUrl": "b60289ec67cd9daef1201583f6c7236be9a729faf6ad881b889d5ff0942ee410",
+   "enUrl": "015c99572eb0bf0ab108d86c9503cd40bedfbcf62e5670d5fa48468b53e29b91",
+   "krUrl": "802bbfd4015522b72dfaf489b0eec4ffa3b835a1ac925d00b375137550390324"
   },
   {
    "id": 59,
    "title": "强化普攻三•施放•二",
    "text": "神蛟腾云，起！",
    "unlockRequirement": "",
-   "cnUrl": "2b57bdf84e45028e28fd960852634faa0590260f872da0ece3d9058bbb9ca6a2",
-   "jpUrl": "3cdb6c66d035283b4d663fae953b0a7f86247ee63b1f0c5bdf49fc49e209ee66",
-   "enUrl": "6b7986aeb9629170be44c036f6e89488727dc2451c582695b16c7f9b67609700",
-   "krUrl": "dc538f9078ec8136df6fbd7f4da05df43ec439f0f1736ad343de0ef1a7c32b47"
+   "cnUrl": "84b5f7173097931f87adcdbacbed138f3b98282c13122a0199549ac0212e6ea0",
+   "jpUrl": "ab7b0078cb71edb6071ca5652cc44fcbb3fe4591e2c3988f756c5731013a361b",
+   "enUrl": "20407d45d6a300087013406954ba818c89da5fc45a1d20076cf54ed2c0f5a81b",
+   "krUrl": "d893181c9265e08f2eaf60dc38d6e25478014184cf85e7b2ec369eb881442b86"
   },
   {
    "id": 60,
    "title": "轻受击",
    "text": "无妨。",
    "unlockRequirement": "",
-   "cnUrl": "167c0f98da67053f47e6b4e6ba1708464434b4bf2e0728f183b2e10dce2eeb54",
-   "jpUrl": "ae7c74632b3c329767646efa2e8da315766921b6556d8e82563fabca6a4db7a5",
-   "enUrl": "40d9ea0a54347af56e7baf4628e04c5068d601e919b3e01d54e1ed7719c97e94",
-   "krUrl": "6e8797a1d06664512e32c706405e000bf16957d94a0cc1e7a88000aa80aee4f2"
+   "cnUrl": "c0d7aa649330d3c2e21196dd8a46837ae8a2dac98fa3e75d9f5c8cc7cd6e28a0",
+   "jpUrl": "9dbf5e47c26fb8d636ad535163381707af9cde602124327fad183bf7931cde6d",
+   "enUrl": "8d9d2e044abb82918e469c3bcaf4450809fb4c29a64a25b5ad970642a5c11189",
+   "krUrl": "1f2773354f5d9062ce787cc9d145c4377b9356d4c71e776d29c6c888aeed90c2"
   },
   {
    "id": 61,
    "title": "重受击",
    "text": "千虑一失。",
    "unlockRequirement": "",
-   "cnUrl": "29395be1404db4c24881e02bc07ed609816dac8b719dce3ba77813f8ec5f2dd8",
-   "jpUrl": "11b71ef7aafbbdade8a68107e698738f7e2de992e9a909b7f77decd3cb3dff3d",
-   "enUrl": "89cb7707151d03e105b190013287f0162b56f714eaf2ab716f5c2027b91805a1",
-   "krUrl": "2cca7f2139088ce390479d156f983e33f770b3592886e75830c7c1344161a6c9"
+   "cnUrl": "9e8313d6c012a99961ab23f2aa8537fe968a26f0953e4f4cf9fd7e3c1465220c",
+   "jpUrl": "2dd725c60aba6be1e0140826546ad7a5674c2ab8199b531f0434d0c4df7b2889",
+   "enUrl": "ad05eb68ff7cda64daeef688bd6c48861690803969cc09456b594d7550db031d",
+   "krUrl": "9890adc1a97b659d3654877cf54ed0eefc917842220bd9bf8fc85a16d12d1de7"
   },
   {
    "id": 62,
    "title": "终结技•激活",
    "text": "潜鳞，已现。",
    "unlockRequirement": "",
-   "cnUrl": "b1141c57b7ea198aa747d84d54b8ad691ff37685712cef1c41182122e72b7595",
-   "jpUrl": "fc0ed397461372fa36b94bc51e78a8c4a9014ba28bd6ff3a3c2baf90076c2709",
-   "enUrl": "d948f15ce13407d601efb5c9a3ab8a2813e26e412e4232d20010a6acccf6201d",
-   "krUrl": "41fdbc7900dc7da6e78e17f2da278adbbb9898e8fb24308b430fec9cf254c141"
+   "cnUrl": "ffa8b6721bbf0a1d183ba9a9f0fafbef037d0db55c83360fe9c2804416acf376",
+   "jpUrl": "3a1d231537f421d659c21eeeace12e4dade9768a21385aa1f038e39740205aa1",
+   "enUrl": "c751294d92832a728dbe0fcbfb5955b8577afc5caacc47327bc5b9e0bb2a35c5",
+   "krUrl": "c230a2af394be76753947ca552b676b8f464af412b1fb86207b54cedd11d93d8"
   },
   {
    "id": 63,
    "title": "终结技•施放",
    "text": "洞天隐月，苍龙濯世！",
    "unlockRequirement": "",
-   "cnUrl": "1822b7f1fbd014135901014222d1e9bf142e0a31b4d15a01290364fb45ebdb7b",
-   "jpUrl": "ceed0a0b3758ee8b9f255d216e81421da51915edb45378005624a65a7ad064c6",
-   "enUrl": "f6b0b6048fbfdf8ab6612e6afb11271704763dd04b204c49ff210311a7900830",
-   "krUrl": "18b967d935d2b87be1d3c5015f2b787e0663980649ac14a83c62f88fef49adb5"
+   "cnUrl": "7ab16afe9c4ae0fd077c2223c262a0620e6c36150395d1f5922372efd3b51884",
+   "jpUrl": "9715ed331b179b1fa628903e0a2975580c0aecfce6d3bafc97f1524b5a751526",
+   "enUrl": "8bfe60742602500821807ab2da6e2238ee8954069c62893b1849c266e7b79e45",
+   "krUrl": "151cea2f33f45924b35eda1c6930b2a143d1030fbdcbeecc3f07b1d2c9b7d82c"
   },
   {
    "id": 64,
    "title": "无法战斗",
    "text": "不该是…现在。",
    "unlockRequirement": "",
-   "cnUrl": "093e7e593fcdc7119a0bee9f992878837c3b6de829b86811e87125394f3e61b0",
-   "jpUrl": "b2fc6b4b4a0679d97bb86a8e0c33508c7de92f095a8b153cc2978299d608de01",
-   "enUrl": "6b405a8c7ede5399363d4ccc44ec5ee540160bccc6268128e59732c9e04d715b",
-   "krUrl": "2d8e80903dbf9dde36162e0602af36e32c4247e916c6eee6fcc38078dde52e58"
+   "cnUrl": "b6b6e598481953e790aab97dcc79ed9eafbf090815261851564c453c7d690dc3",
+   "jpUrl": "dc35fa2dfec918fbeea531338ed3a3c214826c6709743a373b1648dd1516f92d",
+   "enUrl": "ce76e6a341eb5405397b2fa0005f87d317ccbcd5e14eb717c4022088a5e6f7e5",
+   "krUrl": "20b645421e32539ab129a4df6182c0692c978713005167e0aa73daa4427089d4"
   },
   {
    "id": 65,
    "title": "重回战斗",
    "text": "龙…终会回归。",
    "unlockRequirement": "",
-   "cnUrl": "6e2cc249133cf116385fcb35a60e69071e53b0120e39166a1066ed29e32467ed",
-   "jpUrl": "ea0307f430d7ef140cb6092e4c7805a24617b832178b74bc78bfbc826e769b1a",
-   "enUrl": "9fbd45147c78aa0474db482e07dcbbfd329239ab5815e4dafd03589a50d3d895",
-   "krUrl": "bb2c99565f33530f6b6ef1954a725a71010b6440c122eb2fda05bc719ca20dd9"
+   "cnUrl": "664d878264a663d004015d886019109113af297ec139ea6df42aae771f8a43e8",
+   "jpUrl": "5160fa46ccd6faf434a04afa61e08d16ad10ce32437d0df0255957b29ad442c8",
+   "enUrl": "af2d35d0aa7da873fcfbec5f7f5866f04a27a7c1a130436f5f9fdf21353f7449",
+   "krUrl": "965145a3ae3b937a260c35ec2488cd643d214740156b2c0aeb600463ae7be527"
   },
   {
    "id": 66,
    "title": "回复生命",
    "text": "无需紧张。",
    "unlockRequirement": "",
-   "cnUrl": "28b3694dddc9b0b74b99fe16a4909205f048e0f6d112d8903e2b88f2ff14ee49",
-   "jpUrl": "44bc7e44916c09536a9bc2ae11ff64355324447ae0b08fbc79e5acd24acbea9b",
-   "enUrl": "6c0501ed041a94d770e17488805fee2e56b181bd190ff0b6ee0af770c261f0a2",
-   "krUrl": "a6da685b0b8700510dcb7190a664cdfae9d15dc4d194009f05c58d2799465c08"
+   "cnUrl": "d29d82aa8bd79041b361a73741c81b075f64d26dbf430bdd5eb4497e2f75ab91",
+   "jpUrl": "3d8918ff18642692d09b278e76e7ded77247be87541cb5281a91da8c7825ea95",
+   "enUrl": "864c273d00558561e888b777815e1bf0f69b7a8e7925280c2f154ce4a25003cc",
+   "krUrl": "884e6065b3603c6b8b4d44344f7aa2ab6fb881116b6e1265ff677bb7cbcc2e78"
   },
   {
    "id": 67,
    "title": "秘技",
    "text": "云吟御水。",
    "unlockRequirement": "",
-   "cnUrl": "0ef2a142e8e94e8ebd8a8d9128e5f8fdd59463c58fe6c9d5626781bc91e59bb2",
-   "jpUrl": "67cad7e5bb9141204c9b7d0c16b1af20d49ee2dd5b739a1b69cf646a72c95d81",
-   "enUrl": "5fe550d4a4d2d255afb13962b813ced34729a1a0434dc95f3cedb1d6c4666619",
-   "krUrl": "bfee79d7b791b4ace885b11194f361ff8c8e039e2903eb85c5f9948d9887ef12"
+   "cnUrl": "f1d9f132cf9836401569d6bfd887fa7fa68d2964002ae7db2b2d7dd1b7770218",
+   "jpUrl": "141b9d7ff45cc6174504367081e8e7a344d1c1df7536c998b7deeb182721d833",
+   "enUrl": "71df11c8f03bfc1519ae251eaeed358992b0f6199c0767ec91531fb8dd36217f",
+   "krUrl": "6434e6f64bc555d7ae1806819361b67bcd091d59d03ab4c5be0ea778a3c821a1"
   },
   {
    "id": 68,
    "title": "战斗胜利",
    "text": "诸般后果，我来背负。",
    "unlockRequirement": "",
-   "cnUrl": "617762539531639e1bf5ad43db56dfdab0b83c2d17be4ae35ff62bc9c52763e2",
-   "jpUrl": "0adcc69f32dd779e399d57e09d202537297c4a937929b68e14f3620fafb5e717",
-   "enUrl": "160223c002af6cf2f857a7a6d9dda4f7cdc5b36a924aa4ef538e4ec59b75d8e4",
-   "krUrl": "8d758f128348df9833c34ce67bb3750d2befa4d1d52869d0da616c2dcdd3298a"
+   "cnUrl": "8e546f91400cf32bc837a19b3524365da76c64e1b6b81bfe70c87dc90bcabc4a",
+   "jpUrl": "ff7ac4daf7db03dc80a19386ad0e9ed4bec881b213a7f16e6135a60ef99a47f2",
+   "enUrl": "8dbf8fdfd77c8e14d4122678501397e90d6e3b8fa58fc24ed17cdaea3a232100",
+   "krUrl": "73a2bb0b91db175800d2befe127d9d053ee5bc324f96b905b1397bc4094239ea"
   },
   {
    "id": 69,
    "title": "开启战利品•一",
    "text": "都归你吧。",
    "unlockRequirement": "",
-   "cnUrl": "2527a9e05fa1fce7e8fd46314f0b7b18a207674f6dc31d0b89c231a4f35435f3",
-   "jpUrl": "cfbc5763d6b36a172353359b3b399ad12d62e7fadef3b07fea50c492ffacedfa",
-   "enUrl": "0df866b5e78328c08e643832b4149057abc5a8a6a826902cc1e00abc0fda3457",
-   "krUrl": "ca26b76df585b99349c4eaa6885038f00fcc192d2303fa0d2716440a180a3538"
+   "cnUrl": "43b5449cf770b1a5fc95b76ba3743954cc3458b1ec5ecced4038b49445575e09",
+   "jpUrl": "e53af3b0a1adf25be7ae89dff0c57e84f44fdea597f10cf4d09f507663028806",
+   "enUrl": "16d3bba151dcc9a6037a54ac90b626e1cb612a80749c41a7c42d9af4b8760963",
+   "krUrl": "f100c1d848583b5389d24f54a2236da1571fa6584a285ac89f064fc8a937ca1a"
   },
   {
    "id": 73,
    "title": "开启战利品•二",
    "text": "或许对你有用。",
    "unlockRequirement": "",
-   "cnUrl": "b9900a5ada120f74ec75eab3fdfa761846de04388de49b80636cf9d18488352f",
-   "jpUrl": "e2755950bb917f329c31ea12390656b46e184d4147f34e7456f529cb3ba24099",
-   "enUrl": "a8ef1ec3d7afc24058c0cd076e770ad8fc8b65f6d6708dabf5530a525e19945b",
-   "krUrl": "911875941a6064a9216da2e61320fc92091a96b5919be13c42fb30b1d077ce35"
+   "cnUrl": "2e8778717200ebe7643b515fbef2a7b4b494c0465e3a856ba54f84f66dfd78ad",
+   "jpUrl": "749688c931a7b3f34d0b37acde43c75523d778894ac0d7d898d26a8527eb0617",
+   "enUrl": "a0e6ff03269cd6c5fa514f7b15c0f40b126ee61e472ba3422879dea5e046f7c8",
+   "krUrl": "9d8e4655beacf2e5aba1f4f3473729019439949a31e43e5389c8978ee47aecf0"
   },
   {
    "id": 74,
    "title": "开启贵重战利品",
    "text": "也算是上品。",
    "unlockRequirement": "",
-   "cnUrl": "76461c88c60c50b78c669973aed281bf157a29c828154e30551dea935b29204c",
-   "jpUrl": "e1d9c7bb4672cec7175f18edac71a6351335b33ee2d5d5db69a0f116aa1010d1",
-   "enUrl": "4cca21b3e2a7b235643591da142ea22b2634b513660ca98d42dedc51676142b7",
-   "krUrl": "f1cedf5785223cd55843460e0df519a98ee58d89afb704ef5ae7afb820bf59b7"
+   "cnUrl": "5a6d86ad01d215c79cd812f1138c70ebbfd105271659426b8ed1babb00212311",
+   "jpUrl": "252744e48732ee55a1840dc2d939daa60194ac9a644a54e6140ddd343bfa8e13",
+   "enUrl": "c99c9c45e33cbfe850c97d6535dcd6c5def5da679f1225e409415b39d4b0884a",
+   "krUrl": "15be9e7d3aed4fc7a02885ccc93a9dc62b841bfe3f3132f9f9e282d5696af18e"
   },
   {
    "id": 70,
    "title": "解谜成功•一",
    "text": "这样就好了。",
    "unlockRequirement": "",
-   "cnUrl": "b6b29695d233848af0e97098f39bf2f33ed67314b2929a068c3caa6c2d790a9c",
-   "jpUrl": "ff50f01c6c5b10f07f8ec1e9276ad14796a2a0d5fa9506049563e7ef053b0e14",
-   "enUrl": "f91d402f82d8936d4028b1226e9da997ad427eea39d54ce70618c118afdd8a9c",
-   "krUrl": "b48d7bb45a7319d713d8c6c983d420f3cdc8bb65714adf1a2cf45b1422a44ebe"
+   "cnUrl": "4c43c6326e2395cc132a235e8661de9c4c20b34b02224a3ab58a2733be048ec7",
+   "jpUrl": "ef12e9ffd065bf252af706162ac7d59c6506a2ba3486ccab90ee220d36b2ecc7",
+   "enUrl": "ad44f505516f7556d575564f12b033080233b5a42167d46ef2b8f23bff294779",
+   "krUrl": "71e54a5a4b79091bcefab77e72a6e06b897501b404581cd21e6df04732ae66f8"
   },
   {
    "id": 75,
    "title": "解谜成功•二",
    "text": "奇术种种，各有千秋。",
    "unlockRequirement": "",
-   "cnUrl": "1f5058631b342b2c25e248a74cc5b36c49702265f5b1dab878bf7d440dc4f551",
-   "jpUrl": "af9057ee64ab639f76fc953186043d24d96d7dd8622075f138dee6f5e06989d0",
-   "enUrl": "e5dcc8f1bc6c30199bb03aaaa0a2b478c7d37946ec95b059213921727bbdcb1c",
-   "krUrl": "9cf310287a57aa72bf5c9d167acec692965580e8ee9a921fb3d74f502180077a"
+   "cnUrl": "ce154aec8846beb60dd0afbe01071b017a1c4e22e6caf3b6c771748fa1113143",
+   "jpUrl": "2cd370323c5a6ea5c3319337f849653d51ef770dbfce48cf52e6a72439f86cf3",
+   "enUrl": "426f654fdc1725695bcc54c299c08b5076b3078b77765e04cabcdf7ef60fbfaf",
+   "krUrl": "911d8f41422bf128fdd0b934cf0ccd6815c8965e976a2cb0c6a9c4d95a424738"
   },
   {
    "id": 71,
    "title": "发现敌方目标",
    "text": "谨慎，但也无需胆怯。",
    "unlockRequirement": "",
-   "cnUrl": "139fcc6fcd2769dcf40b052ab9c283c9414eb71addbf44c2e00e74a785adf085",
-   "jpUrl": "8c9a71062001c93da11e0f7bfa137a712fdc34843abdcb4681a8d6d7569695df",
-   "enUrl": "2a99be156c363c1e4e19f8d83ed609d4aa3ae585aa3fed6060ae5bb5b8231510",
-   "krUrl": "367f61f83cea92797a158f5debcf9373702c20bad9a14127f70813fef3539fdc"
+   "cnUrl": "d8305ba702d5e224938dffbc34256e26d9887c2435579cccc018b5fa3466fc4a",
+   "jpUrl": "e6f6851643b56ba939cccae164b952a59f6cc3adce3c54a9061cd7aa09e054e4",
+   "enUrl": "7980256e5b3ec7a43bba088aa36d55aa640b33ecddf854f8c36862caba80a72a",
+   "krUrl": "f50f966d8042ee469af824d7413e311d2dabc4caaf40c9d4e38e43fedd082cf1"
   },
   {
    "id": 72,
    "title": "返回城镇",
    "text": "一切仍如昨日所见……",
    "unlockRequirement": "",
-   "cnUrl": "f4c8e6b81d83713785759b41b3f8bc089f2f8897d2c2d771f89533a7b14af99a",
-   "jpUrl": "3603a7a107bc999e3a80202df7b5beaaa8390dd7cc8476eb1138de0ce39d140b",
-   "enUrl": "2d5975f90035b60f2da403a73c02d6102fa601550db95d4a1ce495d407f7b955",
-   "krUrl": "aeda9bbd3112f2c44afadfbf446cb131dfba37ae39cbe10976449a8a4e9ead30"
+   "cnUrl": "ed4c48ced79a89d5f45b2c9f62ba305c16c02a2a79b7dbe062fb90b0c32df36f",
+   "jpUrl": "7877b45055ebb73b9682bbab0b9028d0b9c646aa293463c60b4632afac5badee",
+   "enUrl": "ce89fc2a986307f91f5e00b27ab43a7af73765aac293dc417c8d9b179cbd0b96",
+   "krUrl": "45b90811b56d003661dd2da357bb91aa9cff05e5964d558d8c66cf8b49d77ce8"
   }
  ],
  "storyItems": [
@@ -3255,19 +3259,19 @@
  "name": "丹恒•饮月",
  "rarity": 5,
  "descHash": "丹恒身为持明族的本相，其上一世「饮月君」所遗存的力量。 接受了额顶的峥嵘角冠，就要接受那罪人所立的一切功过。",
- "artPath": "ddd2ad9f6f8a4690d01e2b15a438b89cad0050223e097f230d5cc6ae7aac9bab",
- "miniIconPath": "f293b86948b99fb50719e3c28ac17544bc51cc554a3754c2d073f436c53db6d7",
+ "artPath": "be63e6490d6c5010b35f6e0f141c017ca50cfdd2a4eb6f3faded1fb998968295",
+ "miniIconPath": "5c4c7fdf9280758a89ede5fba134fb809306c82637961cd536faf3f8820f80fe",
  "damageType": {
   "id": 64,
-  "iconPath": "91b47b558df75f608b0a8aa93f35fd2063ed789ec25cbcc7bee926c60fba7ab1",
+  "iconPath": "e2b4f38f1a093eaeb29590634279febc9a6f3a1b5753684b7fffac8e5d23e981",
   "color": "#F4D258",
   "name": "虚数",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "673136d8ba64c836e77a0084380bccea317250a93f866ddfcb0d64682b543970",
-  "altIconPath": "9093f5a5aa958c0fe5a14267d9fe5101a95a033e08898ba40b35994c1a3a8d81",
+  "iconPath": "e2b380aede0faa68b817597cd40abe7dd90c14a08c11f2b65fd7b56d9fa8212d",
+  "altIconPath": "951cb2c1f37a5a634ba690168cca2f5d0f36f2850b2d4b9afef9922106d0075b",
   "color": "#FFFFFF",
   "name": "毁灭",
   "rarity": 0

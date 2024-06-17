@@ -1,19 +1,20 @@
 {
  "spRequirement": 120,
- "iconPath": "ee794f57f01e4db9a6cbcd754a79d06c55884da5aaeb99cf01eb5e68ef971fd9",
- "bgPath": "864f837899e9248a5865f6147a4677102c6ca356c851fdd940673cd7b34bd647",
- "figPath": "b554206f0939d0fb54152bad65f6ff9c87be33f4a7237b49dafcade4b6b6a6f7",
- "fgPath": "fcd04d383f61e6cf0aaa8fd1b6880c2b2b6f4de08b7b2dff318b5fd9d6a396dc",
- "splashIconPath": "d865c2226e88755c525fb64665fbf95823000e8a34b563c4bf0009b697e34980",
+ "iconPath": "5bbfed21a95638dc46ad947b3d9f98a2fa9432aba4b727835fe55ee7a1325de9",
+ "bgPath": "9bfb1f70371a2eb4a8dee06201235c2f426c6cd38f71abb65f0690cb015ce1c8",
+ "figPath": "d11343d354e37404310ad9823e7dc13dc659fcd6a2368627ad3d9e2e972200c8",
+ "fgPath": "50ea1bce13d78ade455fae04825f8f420e78e93102ef7ed8a64cfd08e76e0354",
+ "splashIconPath": "b450cf6973f1f410f7fb94ab7da87d14f7bdb306baad5308309ced5185d015ff",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRkQCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPwAAAABkHPbtrG96ve5n237+2p3ZvuVLq0Wla1Yte2UTsqUdtLZ5vPcs4PnfSJiAuAp8DaCwAbZiweGo/NiAfOfBJsgJH8k+er70x0JEADB+H/iHF2SHEYoIIicP3V1EM38ZV0eiQGCBMUPSXLjOD9Tday7vw7Abn53HNXfpNIlyTngMq2qKlVVqb8dy1GkHOR/3lb1N/dKxcon+lDlT56LHnlP68vyRWUcumjV+tDzRTCoo6s+Hc4gBDDH+TuQ5fsWCAQ4y1+uh/3JO4kQwCDsGuk41nHJ6xkwAGAQuXnvLZJ8sysVQfAUAM0HnuxrTQUMAooIEArACHwHGUiQwBNWUDggIgEAALAFAJ0BKhQAFAA+bTKVR6QioiEoCACADYlAF2QMiQDClRh8ubF9ACYbQs6GRgF5SCUMYzf/AAD+0XwYP1PDXg3t/6m8qNo1LvnmHP+ogd6o/MOyYyu98f/W1myuiobd4rMN39X0V+EQNH9KceOZ/pruYe4XR6T/AE7l9VmJ9y8Lf1L3ZWk7Xn+M2qyOhirDzRwscl1DT5/+NXu2VerK0DuLHd4BaB+OBnZmWJr+Cd0Zxj1JX4pzJIT1xvuf7oApN0u1/JoQ9msg29VteYHqOGtmf2bUSBSK863ZcBV3BiwYicWksROMul/HKxLFBsR/OL5v7pUg1372gmvn1p7GMpP+HHo7MYHpdjRc0jdMLqixZS2qxNtZVhyvhu4k49NpotAA",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 5,
-  "iconPath": "4b4b5f13f6588e7fb1c030c28f9b9b67a7a8c4bab77c05e38d5c9f64eb0d99e7",
+  "iconPath": "28571bec548b7a0a6b24ad8825c718a27732ae7c72c79d9288924e1258360ada",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "신용 포인트",
    "desc": "스타피스 컴퍼니가 고객과 결산을 위해 사용하던 화폐. 오늘날 우주여행에 널리 쓰이는 경화가 되었다",
    "lore": "「사람들이 그저 단말 장치에 표시된 숫자를 위해 분주히 뛰고, 싸우고, 거래한다. 하지만 정작 정말로 소중한 것은 컴퍼니의 숫자로 살 수 없다」",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "운명의 발자취",
    "desc": "행적 레벨업의 고급 소재",
    "lore": "거듭되는 패배가 당신에게 승리를 가져다주었고, 한 걸음 한 걸음의 전진이 당신을 운명의 전환점으로 이끌었다",
@@ -61,7 +62,7 @@
    "id": 151161,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "2ec1fa84daf481a7bef5ee243b4e6b195a84cde88befd531353eeb44bae62a63",
+   "iconPath": "74e56fa506cd872f5d0f198444fb8ca3c35666c7e9629800410a0a3b4b9463ec",
    "name": "조형자의 번개 지팡이",
    "desc": "「약왕의 비전」 조형자가 남긴 뾰족한 지팡이. 번개 속성 캐릭터의 승급 소재",
    "lore": "선주의 고서에 따르면 수행으로 깨달음을 얻는 데 성공한 자는 천둥과 바람을 다스릴 수 있게 된다고 한다. 「약왕의 비전」은 자신이 선인이라고 주장하면서 옛 선인의 흔적을 내보여 은밀하게 추종자를 모았다고 하는데, 이 지팡이에 감도는 번개의 기운을 보면 그 이야기가 거짓이 아닐지도 모른다.<br /><br />「육체는 환상일 뿐, 승천한 자에게 진실은 모습을 드러낼지니」",
@@ -78,7 +79,7 @@
    "id": 186254,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "9794d4b9cee70ded671331e6e9eec06326dcb9428d59540d9960f2a0bbea00e1",
+   "iconPath": "cf2788ec5bdb2c1137c8bdf583b557edd00667b1f629205eccb2a92e506b62a8",
    "name": "무한한 가짜의 여한",
    "desc": "행적 레벨업의 고급 소재",
    "lore": "그 많은 몸을 훔쳤으면서도 이것은 끝끝내 원하는 바를 이루지 못했다. 마치 묘약을 찾는 이들처럼, 그것은 더 이상 「파멸」을 두려워하지 않게 해 줄 껍데기를 갈망했다. 그것은 이게 이뤄지지 않을 꿈이라는 것을 잘 알고 있었다.<br /><br />「나는 수많은 세계가 괴멸의 신에게 삼켜지는 것을 보았고, 나는 그중의 한 송이 불꽃이었다. 그분의 손짓에 따라 나는 춤을 췄지만 마음 깊은 곳에서는 알고 있었다, 땔감이 다 타버리면 화염도 꺼져버린다는 것을…」",
@@ -93,7 +94,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "여행 가이드",
    "desc": "캐릭터 경험치 재료. 캐릭터 경험치를 <nobr>20,000</nobr>pt 획득한다",
    "lore": "세계를 횡단할 때 반드시 구비해야 하는 모험 총서. 읽기 버튼을 누르면 매력적인 목소리가 독자의 언어로 유명 모험가들의 다양한 세계에서의 모험 전기와 각 행성에서 획득한 값진 지혜에 대해 들려준다.<br /><br />「여행 가이드의 신규 시리즈 ≪우주 요리 가이드≫가 곧 출판됩니다. 많은 기대 바랍니다」<br />「투고는 지식학회 공감각 비콘 <nobr>23</nobr>θ 연락원에게 연락 바랍니다. 원고료는 원하시는 방식으로 지급합니다」",
@@ -111,7 +112,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "모험 기록",
    "desc": "캐릭터 경험치 재료. 캐릭터 경험치를 <nobr>5,000</nobr>pt 획득한다",
    "lore": "정갈하게 제본된 모험 일지. 딱 봐도 교육적인 취지의 책이다. 모험의 시작과 끝, 가치 있는 정보와 생존 기술을 삽화와 글로 묘사했다.<br /><br />「왜 데이터화해서 디스크에 넣지 않는 거야? 그게 더 편리한데」<br />「항성 폭풍과 중성자 흐름 분출을 마주할 때, 첨단 기술은 네가 생각하는 것보다 많이 연약하지. 더군다나 이 책을 만든 사람은 이 책이 가장 간단한 방법으로 읽히길 원했을 거야」",
@@ -130,7 +131,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "여행 견문",
    "desc": "캐릭터 경험치 재료. 캐릭터 경험치를 <nobr>1,000</nobr>pt 획득한다",
    "lore": "여행 견문을 기록한 일지. 알아보기 힘들 정도로 휘갈긴 글씨로 멋대로 적은 내용은 별 도움이 되지 않는다.<br /><br />「단항, 다 읽었으면 이 폐지 더미는 빨리 버리자」",
@@ -148,7 +149,7 @@
    "id": 549437,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "15365d10ed38771d99d247bc228b03787e29972cc714a655a9b8feef3031505e",
+   "iconPath": "4f72b8f7844978949880397801aefcce237cda7868c4a12e08bfbc01942f4045",
    "name": "약탈의 본능",
    "desc": "미약한 반물질. 강화에 필요한 기본 재료",
    "lore": "허졸•약탈자의 체내에서 나온 미약한 반물질. 파괴 본능을 실체화한 것 같다.<br /><br />「이들은 모두 파멸의 순간만을 기다리며 세계와 하나가 되려 하고 있다」",
@@ -157,6 +158,7 @@
    "rewardPath": "/material/549437",
    "comeFrom": [
     "반물질 군단 드랍",
+    "「차분화 우주」 적 드랍",
     "「시뮬레이션 우주」 적 드랍",
     "의뢰 보상",
     "잔화 교환",
@@ -168,7 +170,7 @@
    "id": 633378,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "3cd4c92ff44d695595377ffc6c0896d6839775f6014e96daf679b256bc0d19cf",
+   "iconPath": "c280dfdd449649afcb43215a3b8a13ac25ada88cac3c214030421be50e954a8f",
    "name": "변조된 야망",
    "desc": "희박한 반물질. 강화에 필요한 일반 재료",
    "lore": "허졸•변조자의 주변을 맴도는 극소량 반물질. 반입자가 위험한 평형을 이루고 있다.<br /><br />「이들은 모두 파멸의 순간만을 기다리며 세계와 하나가 되려 하고 있다」",
@@ -178,6 +180,7 @@
    "comeFrom": [
     "균형 레벨 Lv.2까지 돌파 후 반물질 군단 드랍",
     "「만능 합성기」- 재료 합성",
+    "「차분화 우주」 적 드랍",
     "「시뮬레이션 우주」 적 드랍",
     "「만능 합성기」- 재료 치환"
    ]
@@ -186,7 +189,7 @@
    "id": 635669,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "271b1f9a291c44b698190683f224996bae3b49e8e596c227b819b72c3a2b82dd",
+   "iconPath": "825865adfbcce2087595f3e3f5f83074ff634bac538fef3447ca92d001377dd8",
    "name": "어두운 흑요",
    "desc": "허공에서 얻은 검은 물질 조각. <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">공허</span> 캐릭터의 운명의 길 행적이 소폭 상승한다",
    "lore": "어떤 수단으로도 본체를 확인할 수 없다.<br />살짝 만지면 조각에서 의미불명의 말소리가 들린다.<br /><br />「████ ██ █ █」",
@@ -203,7 +206,7 @@
    "id": 717319,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "3c858c8ff4df238403e5443f57850367e4164a62efb508ce359db9c5b7474a19",
+   "iconPath": "eebc291ef462012e745328f6c1c3e34e603ab1e7d8cd0d11433221be7824a2de",
    "name": "짓밟힌 의지",
    "desc": "희박한 반물질. 강화에 필요한 고급 재료",
    "lore": "허졸•유린자의 체내에서 나온 고도로 응축된 반물질. 파멸의 순간은 곧 문명의 멸망을 알리는 호각이 되리라.<br /><br />「이들은 모두 파멸의 순간만을 기다리며 세계와 하나가 되려 하고 있다」",
@@ -213,6 +216,7 @@
    "comeFrom": [
     "균형 레벨 Lv.4까지 돌파 후 반물질 군단 드랍",
     "「만능 합성기」- 재료 합성",
+    "「차분화 우주」 적 드랍",
     "「시뮬레이션 우주」 적 드랍",
     "「만능 합성기」- 재료 치환"
    ]
@@ -221,7 +225,7 @@
    "id": 836255,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "34d88252515cd13ab58b6f5aae7329794a4a330a0147e1c5f755c8a2f4444bff",
+   "iconPath": "a006d01f6dff4b81ed47879eec1b9c3513644d0677c4815bc3c8530882c4be21",
    "name": "타락의 흑요",
    "desc": "허공에서 얻은 검은 물질. <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">공허</span> 캐릭터의 운명의 길 행적이 대폭 상승한다",
    "lore": "의지가 박약한 사람은 한 번 힐끗 보기만 해도 혼돈에 영원히 빠져버린다.<br /><br />「         」",
@@ -238,7 +242,7 @@
    "id": 920196,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "1a896480b5f6ee84644db112069845e85930f6dbc0f428a3f8a6de2b187702af",
+   "iconPath": "eec42c153a07330e42c7c9d85fb5fd5e1dc72c10e1912f3f825bc4f853ae4bd1",
    "name": "허공의 흑요",
    "desc": "허공에서 얻은 검은 물질 덩어리. <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">공허</span> 캐릭터의 운명의 길 행적이 중폭 상승한다",
    "lore": "칠흑 같은 표면엔 어떤 것도 비치지 않는다. 빛을 흡수할 뿐만 아니라 소유자의 감정 기복도 흡수해 잔잔한 공허함만 남기는 듯하다.<br /><br />「……」",
@@ -440,8 +444,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "1ab434ab578b463bd42e5a9f37da7418173a87618c46c79eda10805cb7a6b0d6",
-   "artPath": "c5f7e55b2cbdc20eb1cdd1a225d3956fa93f0205660c5bfa2f97932b12a5d923",
+   "iconPath": "760b2a0a1c9cd69920d5848f1a16a5a14429d1bd6d53569e9f88deb3b4a986d1",
+   "artPath": "1c072f3f7a7cb4f1cd836d820dc081ac068547bfa07da8bc8b514d606fa69dc6",
    "name": "다카포",
    "descHash": "특성으로 추가 공격을 발동하면 <nobr>#1[i]%</nobr>의 기본 확률로 적이 받는 지속 피해가 <nobr>#2[i]%</nobr> 증가한다. 지속 시간: <nobr>#3[i]</nobr>턴",
    "params": [
@@ -452,8 +456,8 @@
   },
   {
    "id": 2,
-   "iconPath": "4b2b7ebbd496f930d9a8b3a286951e1f78592eb288b56134d6c00a72436b5e4a",
-   "artPath": "6dbec52f9c550b1fdfbc12e0c82f7b6b7b1a95be3839d4dd1ec18cde3a5a44b3",
+   "iconPath": "b3ae852c083f7c747fbf82e1dd057eabee885663c9293ab48b02946d2594131d",
+   "artPath": "538224d1bff4ddaa5b3a382b7dec6715f6e203787514ae30fc8580592786c8b9",
    "name": "포르티시시모",
    "descHash": "카프카가 필드에 있으면 모든 아군이 가하는 지속 피해가 <nobr>#1[i]%</nobr> 증가한다",
    "params": [
@@ -462,16 +466,16 @@
   },
   {
    "id": 3,
-   "iconPath": "d287417359a015ddcbfe079f01ca08d2079f3474281c4f23b5015ddd182fa95c",
-   "artPath": "ca058387ee280b323835272dc5b5afbf117c16a58dd459374d121cafa9ee8fb1",
+   "iconPath": "b01e71621b10084824a79bea760dbcf7ac416e84e0fec1deeb080a795354659a",
+   "artPath": "2b4352d4b216a9cb438cec1e1d26e31cf8eb3bc9ee96180badfb8edfd0dc7458",
    "name": "카프리치오",
    "descHash": "전투 스킬 레벨+2, 최대 Lv.<nobr>15</nobr>. 일반 공격 레벨+1, 최대 Lv.<nobr>10</nobr>",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "e1ee7993044eb8eef2a62f191c102b797a104d9416ab9d4bcd74bca5ae52ca20",
-   "artPath": "53e789fd19d59cca230ee61c594204d8be32d47ee76db100b730dd01fcf8862c",
+   "iconPath": "87d7aad1e0a80d930ac5c8085c417e69589b5e7c025047fcf9851d807fcf66eb",
+   "artPath": "545978438fe77fd11e96d5d814d0b9e455c834b76876eada4d9f61a0feb0cefb",
    "name": "레치타티보",
    "descHash": "적이 카프카가 부여한 감전 상태로 인해 피해를 받으면 카프카는 에너지 <nobr>#1[i]</nobr>pt를 추가로 회복한다",
    "params": [
@@ -480,16 +484,16 @@
   },
   {
    "id": 5,
-   "iconPath": "34264dbb27ef393a51840990abde24e31272003aaafe3adaba46159e3e02a6c4",
-   "artPath": "a69013ce26e3b4ba26afec1773b370e31018fea4bc07f802d04d24b3269d8933",
+   "iconPath": "011151e8422f067f1877e4ae3bd69298efa297409167dc414d64008311ac6b08",
+   "artPath": "ad11af38cac6d336542559c17e9f6af943c5bc550c8bbf22c6842f90c48ce575",
    "name": "돌로로소",
    "descHash": "필살기 레벨+2, 최대 Lv.<nobr>15</nobr>. 특성 레벨+2, 최대 Lv.<nobr>15</nobr>",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "8c1a21a0626407a5ada459b5ed114a081e8f0cd6fdd65a67b39ff721cd8afb4f",
-   "artPath": "8e93113a0010e2bb31593f3ab64c383cf5799aa1079307dd248b46cecfa667df",
+   "iconPath": "59a178c0117635608a75a8d613f11aa311e4d29a67778ea39bd1c94b89101dc4",
+   "artPath": "0c6de292bbf00c2ec39ab0fa05611237d4691eb84e9fd7048b39a8e6c908559b",
    "name": "레지에로",
    "descHash": "필살기, 비술, 특성으로 발동한 추가 공격은 적이 받는 감전 상태의 피해 배율을 <nobr>#1[i]%</nobr> 증가시키고, 감전 상태 지속 시간이 <nobr>#2[i]</nobr>턴 연장된다",
    "params": [
@@ -524,7 +528,7 @@
    "energy": "20",
    "id": 791017,
    "name": "소란스러운 밤",
-   "iconPath": "592639e097465f6ed8c9db44532037d47b93c32deb8858ecd13d23c0f07b2cc6",
+   "iconPath": "8edf7c88147de58aec3bea25650f299702c56ae4e2e956871db64da8980e105b",
    "typeDescHash": "일반 공격",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +689,7 @@
    "energy": "30",
    "id": 874958,
    "name": "달빛의 어루만짐",
-   "iconPath": "d287417359a015ddcbfe079f01ca08d2079f3474281c4f23b5015ddd182fa95c",
+   "iconPath": "b01e71621b10084824a79bea760dbcf7ac416e84e0fec1deeb080a795354659a",
    "typeDescHash": "전투 스킬",
    "levelReq": 0,
    "promotionReq": 0,
@@ -990,7 +994,7 @@
    "energy": "5",
    "id": 958899,
    "name": "비극 끝의 떨리는 소리",
-   "iconPath": "019b8123f866f78ec35dd7308011a1d0de9145199a05c07591ceec7874fb8ca8",
+   "iconPath": "ca2e2a765619548780806257520eb3c3491466eede4a2fef5e4cb05131bc6d93",
    "typeDescHash": "필살기",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1325,7 +1329,7 @@
    "energy": "10",
    "id": 75544,
    "name": "상냥함이 곧 잔혹함",
-   "iconPath": "812677e7db550968b34522703759b5c053e0542ecd53084a77a17e85be4060d8",
+   "iconPath": "19380ff08451eb54be0acca227f5cec8eabf0edb5af4da8fc36fdcfe4733d7ff",
    "typeDescHash": "특성",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1630,7 +1634,7 @@
    "energy": "0",
    "id": 276130,
    "name": "공격",
-   "iconPath": "592639e097465f6ed8c9db44532037d47b93c32deb8858ecd13d23c0f07b2cc6",
+   "iconPath": "8edf7c88147de58aec3bea25650f299702c56ae4e2e956871db64da8980e105b",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1652,7 +1656,7 @@
    "energy": "0",
    "id": 360071,
    "name": "자비와 무관한 용서",
-   "iconPath": "76b8f176cf9c5906c14627912fbfd0c49bed29583d9f98c6fcd5a3cdcebed4df",
+   "iconPath": "2bf7d48f482a5f05d849ed12397d6d13a52cbbc8c6e71a5328a138a0557a34bf",
    "typeDescHash": "비술",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1697,7 +1701,7 @@
           "name": "HP 강화",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+          "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
           "statusList": [
            {
             "key": "HP",
@@ -1726,7 +1730,7 @@
         "name": "공격 강화",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "공격력",
@@ -1755,7 +1759,7 @@
       "name": "효과 명중 강화",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+      "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
       "statusList": [
        {
         "key": "효과 명중",
@@ -1784,7 +1788,7 @@
     "ultimateCost": 0,
     "id": 227636,
     "name": "고통",
-    "iconPath": "7199f0f5755dbbc612866c7dbc2dc8de6034dafe5a0c3e66cc98c959e473ee77",
+    "iconPath": "6fa8f6841e64c0f42fa7194881c9ae7a1c2a803c55dd04f198bd4b670063e3f9",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1836,7 +1840,7 @@
           "name": "공격 강화",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+          "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
           "statusList": [
            {
             "key": "공격력",
@@ -1865,7 +1869,7 @@
         "name": "효과 명중 강화",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+        "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
         "statusList": [
          {
           "key": "효과 명중",
@@ -1894,7 +1898,7 @@
       "name": "공격 강화",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "공격력",
@@ -1923,7 +1927,7 @@
     "ultimateCost": 0,
     "id": 227639,
     "name": "약탈",
-    "iconPath": "4a9e729c82a2b324d13825af8b24aad4ddb6dd746addad3fc4947aa7d2928fa4",
+    "iconPath": "153cbfbcd781d9875e638346deab97614c74ec4a1fc7975cf73d75acf09e9aa3",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1971,7 +1975,7 @@
       "name": "HP 강화",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -2004,7 +2008,7 @@
       "name": "효과 명중 강화",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+      "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
       "statusList": [
        {
         "key": "효과 명중",
@@ -2033,7 +2037,7 @@
     "ultimateCost": 0,
     "id": 227638,
     "name": "가시",
-    "iconPath": "b1715d9f09ac288bf41b643615a7164146f5352b3282ae3f8e5ba80ea5facb7e",
+    "iconPath": "412fbcddd1827d54713b7ffaf4e5044af3e2dd4c966ee4019163ec4a669ff0d4",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2081,7 +2085,7 @@
       "name": "공격 강화",
       "levelReq": 80,
       "promotionReq": 0,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "공격력",
@@ -2110,7 +2114,7 @@
     "name": "공격 강화",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "공격력",
@@ -2136,27 +2140,27 @@
   "props": [
    {
     "relicTypeHash": "몸통",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "공격력",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "다리",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "속도",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "차원 구체",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "번개 속성 피해 증가",
-    "propertyIconPath": "dbf8a033f78ebfe4765472b27aa0e7d3838d36f8f15868c49a3433ccca9ef1aa"
+    "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a"
    },
    {
     "relicTypeHash": "연결 매듭",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "공격력",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2166,450 +2170,470 @@
    "title": "첫 만남",
    "text": "안녕, 열차팀…… 음, 날 잡았구나?",
    "unlockRequirement": "",
-   "cnUrl": "6efb6b79cc1271c649d4ce25ba971857bae33b9216c6924aeb8de41a51e410a8",
-   "jpUrl": "b48c5f044934798beda2a741fc03e12017f65cf2df5e0dc4f01a033d84aa14c6",
-   "enUrl": "e44b8c12017f4b031059397d70955510c69d831662946c34b0f881805c5041de",
-   "krUrl": "14d44634ae314d1db946aee87ccc7a5580b1c9f468da5cc8cf6ef84f52e77cc8"
+   "cnUrl": "c74653009671117dfafba3200faef834aba31623f82124a726294b437b7bef4b",
+   "jpUrl": "07a9c11548b3769297f50eb946e66c6f5160ca598819e360b0a8cd5791766e76",
+   "enUrl": "bc4317862d949bc9f9bd6e6b3d3783a5632f93461034b95605bf0f2d588fd780",
+   "krUrl": "8440bb1dabd0722dfb40349985489a490e8a7556e7da2fd06fd952fa05ab0cfb"
   },
   {
    "id": 2,
    "title": "인사",
    "text": "한없이 긴 세월, 한없이 광활한 공간에서 우린 같은 곳에 동시에 나타났지. 「운명」이란 그런 거야, 기적을 창조하는 동시에 그걸 우연이라고 생각하게 만들지",
    "unlockRequirement": "",
-   "cnUrl": "f6434867730537a51c2c9e84564eba21ac4fe1e1f709fc93a6d309e7afcfa318",
-   "jpUrl": "9bd6e70f6290dabdf6d05cf49c932667bb8c1662d02fd90d5a65864d2fb5324f",
-   "enUrl": "317dc0c928ea502872458aea4789c8d77ce728884fc24098c7f26f8ebd3169ee",
-   "krUrl": "e5b9f3f7594159f666e098ffa2d50138849609d333ba391e5614ea0f3c50f232"
+   "cnUrl": "00782b8cb965f0b4ecbe8ab15e097046c714b7c60dff8b41a9c6357306ae6c2d",
+   "jpUrl": "0a1478b8978502011be91e2f0ea572f1a4021011949603182acb5a61c4b889a1",
+   "enUrl": "61ec4134c2937d76d8287488b7ce0400291e61d36cd9a691f2017b813a248a6e",
+   "krUrl": "313b7311a733ff7d03f73ba2bb13b06aca877eb58641652ce26e9496ba437d3a"
   },
   {
    "id": 3,
    "title": "작별",
    "text": "잘 가, 개척자. 다음엔 부디 날 놀라게 해 줘",
    "unlockRequirement": "",
-   "cnUrl": "1de3aa0531e470691282d4530c32ad4f74886fb24bb19495906d4ef69e06daab",
-   "jpUrl": "4e49be209325d7e57d674d45845e61838265ab00c718e2bd2ada38a2dd38eb02",
-   "enUrl": "6b3db053d1950679ef1538f0f1de3e9753ddea79add9949ac51d966f7a320be3",
-   "krUrl": "24fd97daa29dad17f7c0c90d9bcd58e7f220310dbc672fc36d88abe0b6a49c1f"
+   "cnUrl": "6d76e8b12a4d4e7149806d1f07778a978b66bf9ceace4bdcfb16167f2507475e",
+   "jpUrl": "0c03c66230bfbbaad367951236fcddd22ef88ed773487459fdc29c38ec944d34",
+   "enUrl": "158b22c15e0d8c83c841cd22e56fd3fa09729391c2f5088f4a2f6a790a0a926f",
+   "krUrl": "8efed66f7f011263a4184b5f17cf23b7d0be613bbaec0172c460e9eb36163dc5"
   },
   {
    "id": 4,
    "title": "자신에 대해",
    "text": "스텔라론 헌터에 가입하기 전에는 업무상의 이유로 한 사람을 두 번이나 만나는 일은 드물었어",
    "unlockRequirement": "",
-   "cnUrl": "6e997b4ac70cbe8f22583b8e4dd31fd78a07bba2adc6280095edd8203eb481ba",
-   "jpUrl": "7a53a602893a014a43325fa16341b8e74f1dc2e78cda10f032b586278a5d7337",
-   "enUrl": "48866874da5e672567328bfa4a76c10e028ce1156f6995aff17827156389540a",
-   "krUrl": "9cbcf6d36a5fd09c9b7526570271a7f168ac52bd26b5c22640b1d6178579b8d9"
+   "cnUrl": "2c4639fcba9221d2573f92eb7283c15ef87e9d0507540d48a99a160d6ac54b4e",
+   "jpUrl": "ecacfd476186fc2db9a05733c84c500f7510c3282e44092ab4186ad5dac1f75c",
+   "enUrl": "8a7819cb66fd3ef6176653dffa28a11a50437970725b78a32e4dc9e18cfe90b9",
+   "krUrl": "c47dfd8aaa371cb3ec55a4a0ac45da9989520b96fa8f0ba58bc97bc9213b1116"
   },
   {
    "id": 5,
    "title": "잡담•공포",
    "text": "엘리오께선 내가 「공포」를 잘 만들어 낸대. 난 전혀 모르는 일이지만",
    "unlockRequirement": "",
-   "cnUrl": "46c004476cf7291848e4c43e5424ceff305de5ba355f648d33d2c6de73ebee5e",
-   "jpUrl": "35067c16ff14edb56c73cdf1a9d5c36c6c64b06c1a96b161f645b0661b97d107",
-   "enUrl": "6c95d6bfbbfb0a7ddcab92723ea802c8082e76b0824ca3ecdab6d770fa027d27",
-   "krUrl": "47986fe1591e9cff70f68d009bc6fdc22c0038ac0708cab3dde1f3515fb3356a"
+   "cnUrl": "28e1acadd24faad8e9c7a1070ae05cd22b90e1e185cac9406fffcd85329f9894",
+   "jpUrl": "20628dda451c8214c1d218c89b3cf07c9df6fc6b8708ac6759dfa0433687e773",
+   "enUrl": "aede90fd70729d00aa264e25d51d27d1d92d1f063dc225268f57c515f55068a3",
+   "krUrl": "2ad05a7fb02f6c95b39a0923f6cceaee92b6266fb2d6ce4d85c9a72c6a82a3d7"
   },
   {
    "id": 6,
    "title": "잡담•바이올린",
    "text": "바이올린 연주는 사격처럼 손가락이 민첩해야 돼. 뭐, 총알이 좀 더 말을 잘 듣긴 하지",
    "unlockRequirement": "",
-   "cnUrl": "a08475959bb33a6f49e4a038a49cc501096c1b6fb0a17d365f8c509902e4b9ea",
-   "jpUrl": "bbb03fb0158071580bd77b5e6c0d34b50c37c7d3edc04da484a1bcfa93cddc4f",
-   "enUrl": "a143572d6612bf6e41e860718c9287fef123f83ae37e6a89aee76a4c706da74b",
-   "krUrl": "d838ac4e636f99671900d0af0db36dbd3245d493a975b058c3b3a5f70c1bed66"
+   "cnUrl": "05a32a3c32c64a2ea594e9e4b243b1240bb9e4d29282ae487b759a98b82d0a6c",
+   "jpUrl": "75af6506110d38d80a8593c73480747d3f46f49f924ea056a14be09d52c492c9",
+   "enUrl": "6eba14b644c226f8c4bce7f38e89ec2c3ea8c670cf44539ba13aba771b690289",
+   "krUrl": "90926a979413345f90cef9aa46a06550c6ed677f5ac950fa5a3379f9ba825f50"
   },
   {
    "id": 7,
    "title": "취미",
    "text": "벨벳 재질의 코트를 가장 좋아해. 취약하고 아름답고, 관리하기 어렵지. 조금만 실수해도 광택을 잃고 말거든",
    "unlockRequirement": "",
-   "cnUrl": "f721e6eb4490aaa2c70ab2eb961b5efe9fe65c79a33351a3d314da618ef0f75c",
-   "jpUrl": "9f9d0692ff292890aa0b47f1991969d140de11d58b0cf507e5bd972fcd6cb9a4",
-   "enUrl": "a80eebb568463e12121abe4c69e1c346235c9804dd77980b261e7cea85dafd1d",
-   "krUrl": "0501e9425b99506adfe7d10d6140318d23be9899db9ad67b768a40ccc5937627"
+   "cnUrl": "5b5c07da3fea0237ea67a241a124083313eabad29d7e93ea0249416745a5d02d",
+   "jpUrl": "e969a5016925ed0e8940a1a8ac9dd95d332ba94ad8669d93ec24fc3c8566ecfb",
+   "enUrl": "4aef8b1f97bbf1aaef66847fdd774d2cc895708cbd397c598e03badb990ebf3f",
+   "krUrl": "f4b27b4fa5308dc1efe607ad1d4c1997d90eb4ba555b589b19fc70b46b16cd2f"
   },
   {
    "id": 8,
    "title": "고민",
    "text": "과거와 미래가 그토록 흡사하지만, 난 아무런 생각이 안 들어",
    "unlockRequirement": "",
-   "cnUrl": "591f073230e2d5f12ba42ff4e75d45f2889741f4e348211bcf0b4095632d879a",
-   "jpUrl": "9a45e591149a4e46ee1cf7e60676247d2a7ae2f82f662c05c0cd4eed6c2f4ab6",
-   "enUrl": "1a441b6acf7718c26614e5cea84d43c2ecd0051960396ead6afd9250b4141833",
-   "krUrl": "34d6842e9b055b96c635bbd11045268cf301c431a0c17b5abdac0339329a0b7a"
+   "cnUrl": "52338f0bf12e7741ae32da1ec1778255abd1c614f956dda9dc6be792b6defe24",
+   "jpUrl": "05bbc070188ff49728e759d5520075a1eb271b9c30a393a62fa6312515fc9de6",
+   "enUrl": "8bef47419f8620d6c49c06d0fbbe88e34cf809022584b7f6283ea7b4393d0caa",
+   "krUrl": "3c17beebcb0922802992f31a6803f1445019cc9e0c817a19c30933c333d81e61"
   },
   {
    "id": 9,
    "title": "공유",
    "text": "매년 여름이면 바다를 보러 한 행성에 갔는데, 세찬 파도 때문에 해안 멀찍이 서 있을 수밖에 없었어. 그러던 어느 해, 바다 위에 긴 잔도가 생겼고, 난 더 이상 그곳을 가지 않았지",
    "unlockRequirement": "",
-   "cnUrl": "f7b8a90ab097a1bf612a2e03482bb19aa23497ff24016bd0859053e0bebbc238",
-   "jpUrl": "5a784607b54c0139a2135f8533050c138c74d4e72c207c5590e243c60db832da",
-   "enUrl": "9242f8a1421036effe4355651844c6603e5c456be4f0bec4f33e45ddead3ac61",
-   "krUrl": "1ce37198d86259316c5a428f58fa7df736cfdaf2358ee549e2ad42235e185700"
+   "cnUrl": "3bd7cd679385a8c7d96d7e3aad57a66952f4adbcba0f5feec95debd0d1d76a70",
+   "jpUrl": "badecc3119b0d50b475488d809390c8996b5abbba8440f3f0fa8e7f03eb93d46",
+   "enUrl": "db51844500821b51d44afc6e25959e0e830d02db163894320834cb83a1661d1c",
+   "krUrl": "3faee412ddfe35281533d7509b97a5140988fb15a1a313c0c5e9cb2e79464ce9"
   },
   {
    "id": 10,
    "title": "견문",
    "text": "「스텔라론」 때문에 변해버린 세계… 내 고향도 그중 하나야. 그 시대가 어떻게 타락했는지 직접 목격하지 못한 게 정말 유감이지",
    "unlockRequirement": "",
-   "cnUrl": "c86dbd5aaad3350b4cdbbb2274410449c57054a688f9f17cb63364e0d42b1509",
-   "jpUrl": "fce2c3fa0fde77c45a40018171a5448f1b1694a7b43a4974b0fc39357645a1b2",
-   "enUrl": "773cc4358e1cfd278b1261dfefae82651a1092842099220aefdfb4596f35e843",
-   "krUrl": "e0f39c8c5d9e0ebb6984b9714b19c8a228b651aaa0e62e1f70718a893783082d"
+   "cnUrl": "5490a39f37a1bb2037d0eb4eb5c5ba8af4b9d93d0550c280d58f8c4d84bba617",
+   "jpUrl": "ff119044766918f66ab48d34b07634981076d88a66539e7f148bec78ac8a7edc",
+   "enUrl": "68978f3167cb139ac83040c6cd0a6086b5b4f44d4ecc87ffcaa54ffaa2cb0b5c",
+   "krUrl": "6688e0c50f9ae3b76757a9d63c028d2152740101bbf0e99e62f02f16707de250"
   },
   {
    "id": 11,
    "title": "은랑에 대해",
    "text": "은랑이랑 대화를 나누는 건 즐거운 일이야. 쪼끄마한 게 생각은 엄청 많다니까",
    "unlockRequirement": "",
-   "cnUrl": "66497bba4f10f22e9f0ab8aa1df688e6314a69038e4767c40a2fb817fdfa1c4f",
-   "jpUrl": "dc138b5fdfba682e1ca3607a431fc50415bbae82ff32dfc04c17447f7d0f6ef3",
-   "enUrl": "b22a8f120de5af251edd9e4bcc3245fb8372912b9e0adc89159bc1d3395c7461",
-   "krUrl": "67cb50f520c4ee8e947e099044e5312e8c6e5f9be7bbc44a9db254cbbf5f7f98"
+   "cnUrl": "189bd1c162edd208d08840b05cb4cf074fe6083101e407e2666c5295d64901ac",
+   "jpUrl": "651927e6fca51c657d6fe553475e4561d1336df3e7893f89998bdff0b7df2567",
+   "enUrl": "4471839abb0abfc6a88ee9a85fa1bea4c6186c9a81773d165f5919f731026431",
+   "krUrl": "114cfbe88f3901c50d001428e98d150f0aeb7de65adfd7b3646e57a035aa7c96"
   },
   {
    "id": 12,
    "title": "블레이드에 대해",
    "text": "블레이디… 이름처럼, 그의 전투는 보는 사람의 눈을 즐겁게 해",
    "unlockRequirement": "",
-   "cnUrl": "5b3e91c7c35a32b094c651151c5b8a3dcd7bcba10acd8ffbae8871aa7ecfa622",
-   "jpUrl": "957194bfdaaf306c17366c4fbeb4c94927800c9852c1baff840e9ec96bf39e2d",
-   "enUrl": "ce3f18644e82893a1ebfdebe67088fe06d085181f5e4a84b1a30271c55f9c26f",
-   "krUrl": "5a4e49c06cf7f0935280167724124f45b89ae45436eca5633c00942911088392"
+   "cnUrl": "9757f786fd0eaba8a89669d4978561a5036076a302973f567e71f3cc34f19ef7",
+   "jpUrl": "a1fd75a93c5b66b840b45e3c4af7c436fc3152d184a0169d7aabaab9289872a9",
+   "enUrl": "41dd886d60be40982e6807d046026bc0b4cf85ef4b71ee9aa213193482f98d34",
+   "krUrl": "3557007258844acf6d8bcbd99edf13e21e8773ec5aa523f8d53b7f7553870415"
   },
   {
    "id": 13,
    "title": "성혼 활성화",
    "text": "다른 사람을 완전히 이해하는 건 불가능해…. 너와 나도 마찬가지지",
    "unlockRequirement": "",
-   "cnUrl": "fa77676c23f401bfa3c1ea84a6a5058cc6915219708d24da1aeb747e9dae091c",
-   "jpUrl": "86d3b0f475cf7228c83fffc57319dc2d04bf3b55779314e59c4fbd2af1776ddf",
-   "enUrl": "c97242992163c0ab6e4ba35c4a79ec0b13282a2151846db0a5c22a81a6ad099f",
-   "krUrl": "c30d97e8eb7c30d76cc1eae62378cf1db0638aa61897c44e8f967512549d1a25"
+   "cnUrl": "9f73ea3e43284ad7e296faf919db2f03ae27d064aed9ca7cba5f98b525966579",
+   "jpUrl": "1d074afef7eacf8ad7c04ee4480b73fecd291c8693f6dcdbfcf96ce44c7e589f",
+   "enUrl": "27329cf8963eabf60cd6e52f4dc613e186b8f2e01d54bac8d4c74e0b90498582",
+   "krUrl": "529392645ef13b1bf1124be921ff3b0f0d32bdd621c2f4055690afcc697a29b3"
   },
   {
    "id": 14,
    "title": "캐릭터 승급",
    "text": "운명이 날 움직일 수 없다면, 내가 운명을 움직일 거야",
    "unlockRequirement": "",
-   "cnUrl": "4c1b7c392b8be939bf46c06369ebcd9267419b4c25bb30e36eaa9b2d8e5e4350",
-   "jpUrl": "e95dd09ae6d962664e2d14c871c5a962abdebc6f5fbb9112cae58a6bf3084e74",
-   "enUrl": "2cc8df19d57450868f0ec80f627edea4dbed6945f73ef8d20bd01c15ea709689",
-   "krUrl": "fbff8df2a109d6756e9a65f9b6e27216b633f9c5a66fd796107a720e8532e8ae"
+   "cnUrl": "c037415b4add1e2e4c23634ddc457df694b32a0301384aee1450ac3de54efa96",
+   "jpUrl": "e5032504356d58e2246a4f6bf91ee36930b4962938600b4aa32c3d3dad29bc15",
+   "enUrl": "740b1499f7d7dc8e5ba2f39f0ab7d50b3510fe090468af6988cc8b5a32c6e24f",
+   "krUrl": "f55a4085386c7e65cab509bb2eeb2070908b2bb3e43909baffc286c6c84ee039"
   },
   {
    "id": 15,
    "title": "캐릭터 최고 레벨",
    "text": "휴… 한번 멈추면 다시 시작하기 어렵지, 안 그래?",
    "unlockRequirement": "",
-   "cnUrl": "e1bf23b522a42de11413917eb2e00e0470253cf6374f142f98d9733167228c2f",
-   "jpUrl": "7b80fe715b7b58c71ca66ed82b0dc4875d39bcdbe63b7b045367ea53e5c18701",
-   "enUrl": "0383706833c56a60ca02a8f6d10d8911560dede2c2634d1576d6b268a26fb558",
-   "krUrl": "ef91def0195c6555a2c9b45e9b4e48b274bac9512684730bea0efc8da46bbe41"
+   "cnUrl": "1f80594300d53fca035e463a393702137eed2d1a7783840ebf6ec648d64e61e6",
+   "jpUrl": "172026c864108d7e2bd1a77e5d96910df20b376983da008f5052f77927f5e8a6",
+   "enUrl": "c282a0efe13446ad093457a4c3c0cb2e847892d0ffb1200826c9bf56ef924098",
+   "krUrl": "d39bd05c73a8811f4678c746682a472f2df6c21a7c9a23861f6f1f9272c7534e"
   },
   {
    "id": 16,
    "title": "행적 활성화",
    "text": "한 걸음, 두 걸음… 「미래」로 향하는 길이 바로 발밑에 있어",
    "unlockRequirement": "",
-   "cnUrl": "9dfc452474076354ec3f70267118b0de2c4265e7e897149e7e4f041cd29ef9b8",
-   "jpUrl": "fa759df14402b5db90c7c3c6b59786ec496dfe701a0281e6d0384d3c01895537",
-   "enUrl": "c973bb2dd7f81bf5c9057592ef82d878020ac2499bd68e738e86d74aaf4efc79",
-   "krUrl": "e788b168a0fd74482ec6c1554c9b5022416c781316446093454a2cb74f188ed7"
+   "cnUrl": "26730ddb4860cd79587b26daf4fe79e4b8d6dbb880a0f879c6c86591da9eaa69",
+   "jpUrl": "38bf3fcc3b4d93fbd7ae19bee091259b3ec75dbb713ab9354a9038e177677e7b",
+   "enUrl": "75cee71a102b72b58004b15417c9652ea72952845b085ef17c7922bababadcbb",
+   "krUrl": "c6334ad4392323e170f0588647bb2cf9e1ef145590ce8740a1ef7e4b7cd00246"
   },
   {
    "id": 17,
    "title": "파티 편성•개척자",
    "text": "안녕, 개척자, 또 만났네",
    "unlockRequirement": "",
-   "cnUrl": "111ac20d7b6042cdf376f4332bc7dd6587d5221968a00f4f95de0caa54287946",
-   "jpUrl": "386db045dc8799be5763ad686ce13d78719dd1198e27610359d6b9a88afc245d",
-   "enUrl": "c9a6d02e10099a13fad954469079c0b28cd5cd113eee07bf3143d1f76d557068",
-   "krUrl": "b083072dd229dc05235edd75c98dcf9e4bc141eccad64d859bcea0de4f78e165"
+   "cnUrl": "8c9621650fe9ca6f935e372b3d6f140ee58ab4b487a0f2fda91af5b68fb7f34b",
+   "jpUrl": "c5ba12676cbd438dcfc94ff5d9e982d6004e28f3dc41d94a06f15070aee7c63a",
+   "enUrl": "c8f97a72f9a891b337ea8a69186c80cbfa64836619197c141e6d9fc86c091fda",
+   "krUrl": "941599c0ae90b8a7e695ae6168bd8e21c9ef8ade6a3b8cb87e01849b189e62de"
   },
   {
    "id": 18,
    "title": "파티 편성•은랑",
    "text": "은랑, 나와 합을 맞추는 거라면 미리 이야기할 필요 없어. 즉흥으로 가자고",
    "unlockRequirement": "",
-   "cnUrl": "e8c78c08027b9b3fcccebd2bb5ab4fd02ff1b9231f8e5c7b2515be87d681906b",
-   "jpUrl": "6950ee0573586f3b654d5b59cfd67e96191b82d9fa684438c90ac2056bfee3c5",
-   "enUrl": "3fee3c1f140b5d558ea2af3e2ef1541e588f985eec481a3fd41a463ee03d08c5",
-   "krUrl": "e22b05a4c8230f0e547db21fb4428d5d059d3e7f70d96c0f7eb1970fceb3d37c"
+   "cnUrl": "8be0db96818b713f0b6ab643c8bebe1eec621aa9fd4bb23c1d6d1c0bd066c121",
+   "jpUrl": "42196426b56946e8034c95874cda58d03dbcfb1c4c1f8cd967052b7f8e5036c9",
+   "enUrl": "e19706cc8ea58b6b2bd5066faeeba78bf082afe71caf4ebed0ec45c2020c994d",
+   "krUrl": "99898bc20a06c19a3ce6d3832eb8d6566d4149ebeb98f579e6be5f299ca1e1f9"
   },
   {
    "id": 19,
    "title": "파티 편성•블레이드",
    "text": "블레이디, 「사냥」할 준비는 됐겠지?",
    "unlockRequirement": "",
-   "cnUrl": "28882310acb27acfb5e4d1f387c622bdd390ee5ec057140c629721633ab3b0a7",
-   "jpUrl": "fa3e5809d867ee3d4a0257dde8ddf9e1e4987380f498544c361687177db9f301",
-   "enUrl": "5093e11d81a782791a904884e81f4ce5b66c24d2b7f5ae1d88b1d468c751b358",
-   "krUrl": "ca892b2091a316ebe6665ebc63dca4e3ec3107f42d47f8643a549165a01703f8"
+   "cnUrl": "c79ea7c117fb56929d79fc712a113b0020d0c9a8a1bb3d116f26850d20e7f9f0",
+   "jpUrl": "1cc0cb0e348355dd76596bbeb36cf50710e86eb234cb7e38784f7ec44c7dbe27",
+   "enUrl": "edc66fdfbdd1e0283a03576a4a442f8e994746e37d4c86ed7a8180437d83be0b",
+   "krUrl": "7e4ba2fe1716b833cf9bf1896215c78932241409a2171f192676287f4578a906"
   },
   {
    "id": 20,
    "title": "파티 편성•히메코",
    "text": "휴, 은하열차. 우리가 힘을 합칠 일이 적지는 않을 것 같네",
    "unlockRequirement": "",
-   "cnUrl": "993891e951716fe75caf1086f33f25b250908a8af056cf31a9c8a8fe628acdfb",
-   "jpUrl": "a691dcd005269699a337f6c226dd15c6a0b3f432aeded957fb595fd926421302",
-   "enUrl": "a061dca7115ee1f4742c75215669847641496a76de134cfb0db3c948a2ad117f",
-   "krUrl": "333e169ae6201416c6e763a393f6c99233aeb837659ae4d7e05d01abade35146"
+   "cnUrl": "fcafe238d6d403e394ffe55de7f41a55e446f1c1dbc9238f1c0c51a0c2d86dee",
+   "jpUrl": "e364c838d2a0b59c287f8f69a1c03fe61fc63928a55ec9a2e9552fabbe2d9ba7",
+   "enUrl": "a0fdac84bb53ff42472b63dc9a976b179eb231dd635fd37c2ff591ba3a362061",
+   "krUrl": "9dfc2b625751471ef2ae391b4cb013b9c27502fc577f040d2a7bcd2e277d48b0"
   },
   {
    "id": 21,
    "title": "샘에 대해",
    "text": "샘은 사냥감을 대할 때 나처럼 까다롭게 굴지 않아…. 아마 샘보다는 나를 마주치는 게 더 나을 걸?",
    "unlockRequirement": "",
-   "cnUrl": "45d819a9a318a350791f6949addc6330bf59ec835fcd2816c38f3a390e440ce4",
-   "jpUrl": "8ae76f0a718ee36bd6645e9e323c96a65f01b9d32e9441ec135092be4b696a2d",
-   "enUrl": "985c59583b064a58de99fbf90e791832759a0a831b262c343a79bd8a50cc2fa9",
-   "krUrl": "4c3d9389571f98795a115af34d146aed11f7b2697cb7ab5c0a082b71371bb296"
+   "cnUrl": "1c93a080d4d42f3b47b7d5cd0a3b926811af7d8e02addec758601e74ce307aa7",
+   "jpUrl": "7000cfc1df0eb03f19c7039cd549fff6b500e7f607836714b71439f3e471a581",
+   "enUrl": "21ad87a03b34e72320b4eaef41003b6917359b4459a00a8979c764a1d194a9df",
+   "krUrl": "3eef15b00d912979049af75e0febdcc3ca203d69f3311e00a1e7558766fd40fd"
+  },
+  {
+   "id": 22,
+   "title": "파티 편성•반디",
+   "text": "각본에 없는 건 우리가 정하면 돼",
+   "unlockRequirement": "",
+   "cnUrl": "acd37f03334c15b33fdc4755b60e055704897a8bc2c6e87ae0b4fe993310ab39",
+   "jpUrl": "af7f650b63cd745ca4a26e5fb858d5e8f37d2a408ce48cd44c183c9b5fadc7e2",
+   "enUrl": "197da8b3767b1990f0f08e4a9fabf3712010aabd2c45cbfe8b1dc868ca82a920",
+   "krUrl": "d7cfaf98ce454bc31005e1ad3fbede345be992808c05bd2dcb1b26ec79f1dd53"
+  },
+  {
+   "id": 23,
+   "title": "반디에 대해",
+   "text": "우리가 할 수 있는 건, 그 시간 동안 짧게나마 서로와 함께하는 것뿐이지",
+   "unlockRequirement": "",
+   "cnUrl": "9ffc77264427ef3b03972aa312a7230758824555f60cbe76b20a29e39ddbf612",
+   "jpUrl": "d1d69666f0605dfdacb1a9a7b4653462542b1512c0fb36245b3528d75bf9c60f",
+   "enUrl": "e86cd160c55b4a7619ee5430440accbccb74c6e481e0d592b85851d3492cc67c",
+   "krUrl": "70a8b84833db718a05b05a7872481434539de36b807d34c75f51488a03142284"
   },
   {
    "id": 51,
    "title": "전투 시작•약점 격파",
    "text": "사냥감이 걸렸네",
    "unlockRequirement": "",
-   "cnUrl": "fe3d03dcd3f8704d7f3e87d1440ff3d26de521e011de0dbf2b37e31696bd3a06",
-   "jpUrl": "6cda9d30f3a77fcd00d1c6fbe8481aa606679dbe967262b410e411e1fed33e8f",
-   "enUrl": "020687048ae8b2e4fa34929453768b520cbc879b6dd19fa5ece74f947ecc9b22",
-   "krUrl": "3b9825a202787a1271ecbfef84b85416df1de24da974e9a9acddce725d8d6d8e"
+   "cnUrl": "be76f0a975145f847cc554af547a8235d21680cd2e07b716a7712dcb5cd6e072",
+   "jpUrl": "cc2ba15fb892baad768ee1f9fb9bb8abb41eaa6f71ff41d8e07c448f6d35a75d",
+   "enUrl": "838789dba0a50bbd526ad079df934beeb2c23cb1cceb4355eefe8cd9e6d08348",
+   "krUrl": "ec6e3a85ddca027fac3e94d80ac9c84d17013390c95081f4797af187af56b45f"
   },
   {
    "id": 52,
    "title": "전투 시작•위험 경보",
    "text": "잘 왔어",
    "unlockRequirement": "",
-   "cnUrl": "8ee99f30d7ffdeadd8d125a2833d6e1b2b8045ac248f97324b7c883e757121ad",
-   "jpUrl": "a5ad95904f016f28d6c933ae9cc3f8d6a62c84d4d92ac0b7e52fdb02b7a50f46",
-   "enUrl": "c13c3187b3d191674f1e50aa1daacb8629e7478b0ccee31bb866fb8778ba36a5",
-   "krUrl": "dedb252268c110c085241b62904c7ce6e5807aa46bda93b379934384c3c734c6"
+   "cnUrl": "ec2a0263b4e91ce73e39cf0ecdcd0f83f856d5412b3d63e2ed40ba68c7073d89",
+   "jpUrl": "93d797dd95edd59add3cc26bfce2d54b38d015648a304a6b2fde02eb14df9803",
+   "enUrl": "47fce10fc878cd948522911d665d827dd5e045824af4d00cff1a1344860d1ebc",
+   "krUrl": "0f41573c0301a68aa15c42046e778947be249b736e778a0f4fce99bb20641c6a"
   },
   {
    "id": 53,
    "title": "턴 시작•1",
    "text": "아예 다 죽여줄게~",
    "unlockRequirement": "",
-   "cnUrl": "5e99a1a7933a2003adaef09fd8d952e987325e42ad32bb1c136d7b7b6fd8bf4f",
-   "jpUrl": "24b9d7e96782003f8c52e7680324d31810cd26d15f50f00d184ba771f3fb2286",
-   "enUrl": "6f922624e25fd67e8875e2b013a45a83ceff4843f3597279ac3da46c764682c2",
-   "krUrl": "c1e2741f7c096026987a85f5f7e0cd2c971a33fb61555c0e33e3afd93f60c15d"
+   "cnUrl": "37cdf534e6ec256c03166e569165c3b9e09399078388ff36fbb48f331e2eddb8",
+   "jpUrl": "59acd06c4e2f606fbe64c3f0642228556c88e56746a01ff75d8b54ad172f2252",
+   "enUrl": "382643f0e1a4ecb1ce706832d230050e4d75abb61bf8828c5880023e1b7fca62",
+   "krUrl": "38599c98d778e349b70e59edca9ce0a9f631f67cc64c4b86e0612c8801346e5d"
   },
   {
    "id": 54,
    "title": "턴 시작•2",
    "text": "숨 쉬는 느낌을 기억해 둬",
    "unlockRequirement": "",
-   "cnUrl": "7ca9cf4c8defd4b3270701e5c89170377ff8daf0f2367d42793611eb1e657186",
-   "jpUrl": "3ff3be19b376fa8cbf8f4fb09d3f5364f39ccfdb6a0519eb65356b71ceb98150",
-   "enUrl": "69523ced5bc840f1175decca5dfecd8ff9b8136537ec63fbb3010adaaacd6cff",
-   "krUrl": "f9836e1115c153c42db79da5f147fd53e6d186769e0fa635ee77779fb260d80d"
+   "cnUrl": "db758950597d57d87a51fcf7f0fefa30087abcee6755d45b9574beef6868b2c5",
+   "jpUrl": "e18c350131f60ec5a9d320b23f6634a7ee58a71f4e6277312ee224f24d8e3abe",
+   "enUrl": "a0fa55320d16425b6ed3a8856cb68929bebf20da68414db7d78bef8a4b243b1e",
+   "krUrl": "322a3ba437ed31bc2ba42583c76c6ce3d6da12c86fe50d89826ef9ab3f591c02"
   },
   {
    "id": 55,
    "title": "턴 대기",
    "text": "손을 써야지",
    "unlockRequirement": "",
-   "cnUrl": "dc67326afa30b9a3a004f73beabfc529ff7e9622957381bc51cb3f191feac00c",
-   "jpUrl": "e505867fd082867186290ccbca07301a1c084b262fe718564c6fa3f13badae9f",
-   "enUrl": "421f0ba2d8393845b0d1ea3b947b172a2314bacc48946bc0a2ebdaa8a9641ab6",
-   "krUrl": "68143ba845f109364945af318e25a705c34a898f088e17e3ee5fe0ce5deace51"
+   "cnUrl": "18e4736cd795fa606b652100e9b4b35861d716a3ba0daf69f52ce2ae4e3c7ffd",
+   "jpUrl": "aecc558df397f00ddc721a949d0f429c4248591913806b91356e51c602e2d4e3",
+   "enUrl": "0883e1a40fad40abd8a2c939437c44bc3a9003650c39184c426f43044477ef21",
+   "krUrl": "1ce6dc8e899079cd93388d70849bef04c3591dac0267e6fdf07a689df6676cc0"
   },
   {
    "id": 56,
    "title": "일반 공격",
    "text": "금방 괜찮아져",
    "unlockRequirement": "",
-   "cnUrl": "0cdee16ed0d2c27b4f8f0684d095c769e8e77dc465a137dc1a94a829f56f4dd0",
-   "jpUrl": "40183f45e70ca4a7df5098c4f87a17f30577155826ff9bc5c304e4aed1103ae7",
-   "enUrl": "4c0259c15e39f5fcc05f758dcf8136f099ed12ec6978c26d104f869e021077f5",
-   "krUrl": "0cba4f1676004bac81bec89bb50792f9372582573297b7b61ba2940fed7466e7"
+   "cnUrl": "08475e0b68a825d6dd24088020e1e9e450e394a315761dcc02f48d54585ff1a7",
+   "jpUrl": "1b5a498087e5a9e007e46c46612149178aa519355269521766c47caee0a7b6b3",
+   "enUrl": "d04d33e56748c91bfcdf91961350f1808ea85af9208bbd994e4697644a97f6d7",
+   "krUrl": "d13be999a9212c66df43396be7b176becb9c4ccc074c60366b71fdd8629c7dc5"
   },
   {
    "id": 57,
    "title": "약공격 피격",
    "text": "안 아파",
    "unlockRequirement": "",
-   "cnUrl": "1e50feefff8a8fc68668797fd6e201d2277abab00a0663f70ade337059a98320",
-   "jpUrl": "aa949e1f9b6ec470fe37f20f20991354aa6348bf0ed9822d56be2333207c4d5e",
-   "enUrl": "a30ae619650721003588135c0d4eb23ada686b7f65064db236548b9136459a48",
-   "krUrl": "05918068251ec638a628f33b9baf9f722a89939ef90143127cced73b1c05d69f"
+   "cnUrl": "b5497b982ee5ea82e3dbbb15d47cc3e61dae777d3ec90ab31a03240539bae01b",
+   "jpUrl": "874c62a9995311cb619b399a6e0d240ae11a10887a3a2b7973c8eb119f31a61c",
+   "enUrl": "cddc26d1f693dfde9f6e6f146f541ccdb1f4db4e2c42d1043cff80b23ea21567",
+   "krUrl": "591398c39378f31d233715d247e66a100adb43028b36ce72d4bf182b4d748237"
   },
   {
    "id": 58,
    "title": "강공격 피격",
    "text": "그럴듯하네",
    "unlockRequirement": "",
-   "cnUrl": "79054b114d6c3e3be8202121af521c51fdc51490efa8e6aa97f2c6f626b6ef45",
-   "jpUrl": "5da17869000f7bcf9970bb5c4f80caf352dc754ce8a0bf273c8faf98f60d8993",
-   "enUrl": "23496394ad3ef2ffeab257eab0731320f23b353d6bfbeaa51144c68570b7c200",
-   "krUrl": "37856cdf4d135709767f392b981308d9680a189e3265e1303346303de51e99a0"
+   "cnUrl": "9d3537326120f6308bfffb54d8fd473babb8cd68c13dc22a8351728fc5600059",
+   "jpUrl": "11ae800766807a32a7713292ed8256053ee581b6b4925030228bd7f9815eb63a",
+   "enUrl": "ed04486847adf97551bf4d88be3e04552755dbb6789ca7a045b2cab78c52fbf0",
+   "krUrl": "90f2fed53da7d70663ba393ed44eff8b1f378f75f80e083e5dfb2e9fb69868cd"
   },
   {
    "id": 59,
    "title": "필살기•활성화",
    "text": "아름다운 시절은 끝이 있는 법",
    "unlockRequirement": "",
-   "cnUrl": "a6c46615fdd37cbbd2f15c7e558ed81e912662584bacf7ed2f6197ecf3642bbe",
-   "jpUrl": "70c1a0f69cca66a4c16cf4fd57a8f329d5c76eaf41982c737b65739df46537fa",
-   "enUrl": "ee7619ebc4974c4e128de10bd880f7f0e9c1eb58800e34fed43ed6060bdf8448",
-   "krUrl": "9edf756d7a3279236817d1c93d4dcd5576f1a85b1fc2945f0bf22370402e0725"
+   "cnUrl": "7a64efe080fe7daab6ebe1ce6f4fe8f5410a9ff806d336900996838e5770bfe1",
+   "jpUrl": "2f9034ff94bca840ae158d5ca31c1de3f1470767e494ace2729e7bb9373fc14d",
+   "enUrl": "33f8f701e582f01ff6aa9eb07b50815ea1554cfdaba80f37a5ec048afef63e95",
+   "krUrl": "98d9e0735322e2fe93d7f586f8bbe7b874b386004c4ef1828b5b9b4e6777176e"
   },
   {
    "id": 60,
    "title": "필살기•발동",
    "text": "작별할 시간이야…",
    "unlockRequirement": "",
-   "cnUrl": "7b243bae2b9d6fd9bc94a39463b3a2ac62887c20d9c137f20a0c5f0ffcbdb5cd",
-   "jpUrl": "6b9e1c8c530bf43b2b9da7c937ce5a95bd9bc634dc7a073723dbc21e802ae8ac",
-   "enUrl": "bc5edca0fbe524eadc32a6f5eb46fb857105e9c8e84ce411eaf7633e433c0d27",
-   "krUrl": "1189dcbb1a9d2e5b4b0ad2f587176c67db6ef22ac97799020da1f95a4536119f"
+   "cnUrl": "9b42e686af4b44d26a60b2fe40119eaef6f159d6613d37006bd80e470b8c46e5",
+   "jpUrl": "688e1ee4d2813752d5d9548ce065d857a9d5523bca5a8705a9bd90bd8640e173",
+   "enUrl": "74adb59498182e0ec961cd7b36d9e7adcba89cfba9b0b34b33ed93f2dced2c42",
+   "krUrl": "de6e27131445cc9956722455bc30911a967a30a1cc8de4ed1a9639591c266531"
   },
   {
    "id": 61,
    "title": "특성•1",
    "text": "진정해",
    "unlockRequirement": "",
-   "cnUrl": "852acd69d8079ec439818b78e0ce166d2402f8a54c0d9334aa96f5d8a28d2418",
-   "jpUrl": "80a24893693281fe526e9c2b86ee410c11200e4bffc5eaf08431da5704777394",
-   "enUrl": "1115c7b5b44a30a9cffe1d78b5e3266682ea5e3c2744c4734726e3c0866246ec",
-   "krUrl": "f2368d43a9fb197c2b8fdfb5b5e8e369a0d58652f7b752788446909b2d52e5a1"
+   "cnUrl": "243f3fc53f48358c57a340605750e1b5b8c07e5652b6c3643cf6d1a38d424bf9",
+   "jpUrl": "f65bdeb8ee94d3193a13d84a07da865dba8571f22c1cfd7531ce444a461220de",
+   "enUrl": "6bc2c10e9237aada22976b82099ec2b30be20e4d3864483ca0fd1223bdbd4e24",
+   "krUrl": "7b251c0f915574bb817130f72207f5ed15ab512b68a0b3b0da1b3054dbc34451"
   },
   {
    "id": 62,
    "title": "특성•2",
    "text": "제대로 서있어",
    "unlockRequirement": "",
-   "cnUrl": "e985a2e11819bce6effe1e2bdf4fd8085864f2d5a26fc38d2390b8eb39019e9b",
-   "jpUrl": "a0f1c2706753fcc1c05ba5c46edd3fb9507a1333aa51b1cfbf2e3365b3585265",
-   "enUrl": "d4e4ddeee3ad043895a03bc25d9f36db8add5415fabdfcc98430ae37766b0317",
-   "krUrl": "9f543fb57984d9fe627704fa536452b89deda5fd431cfb52cda2d01ecdc0bf9c"
+   "cnUrl": "af30cf009f97366f6e9ac97422f073ac82782b81ef81720d296d9c6f250b11e7",
+   "jpUrl": "34db5d982d29240fb5b0bf97c51f28ba74ec4f571d04690bd558ed1b2caf62ce",
+   "enUrl": "7eecbd0edbe1f1767e1b3c7eaf029bbfb33d8b7db9ac96040fb235e795876149",
+   "krUrl": "0e3a224e4df0266c80f5b24e0e6004eced222e1267fb0da4b7827ff42619d3a0"
   },
   {
    "id": 63,
    "title": "전투 불능",
    "text": "아직… 결말은 아니야",
    "unlockRequirement": "",
-   "cnUrl": "05a0d934bccbc46c424b24e864d2910a753abd34eebb0cb75c877fdc0577b098",
-   "jpUrl": "9cbabf4bdb99083e418711bc0062ff6fc6d8e21f806e7c407c879368ce745818",
-   "enUrl": "f4cf674d496ef9bee94545149032b2398567d057d8f5c0e880d80935355ff9c4",
-   "krUrl": "b3858e1c30abc752e396bf2c11d6686a7ed6303273eb056e5249786a31032c14"
+   "cnUrl": "d722c01bd44b8f09243a60c068e56f2caaf4af0fd7190e3498d66089ca05c2af",
+   "jpUrl": "970a4756ba66365ba9e8696d512a1a352088764dbaf11b49713666567c3c57df",
+   "enUrl": "ee5d796aa1fe7867e5c6465408614b9aa02af227a5f94bae62673f6272daf374",
+   "krUrl": "375b109160ed8fba99d04119a9d5f8a13946b57e633abbcf7d93e152afea77d0"
   },
   {
    "id": 64,
    "title": "전투 복귀",
    "text": "오~ 나 아직 살아 있어",
    "unlockRequirement": "",
-   "cnUrl": "af5102cc4cb72de7f58daaa0fef8649d53d1c3a7512b7edb584a459d40479daf",
-   "jpUrl": "2ac8397d11cba437a425869b364e36dd522119578fa49cdb1bd56429ff31b677",
-   "enUrl": "b4580d014d919ef8f7f6ebd65dd48279915178f6f37e6eab24703f526c541681",
-   "krUrl": "12bc39a79fc3b8afadf6e6b31b614e9556f41870822a4cc604c8c732c6273855"
+   "cnUrl": "64d3d045f53a93d323a9f678f5d05c1960d0d4bb42963c8870108043f3cb1643",
+   "jpUrl": "8230474ff90d27843ced22b1d57deaa23c66a712d4ccb0b13b7ec4ce27f7d36d",
+   "enUrl": "8b12d64d541fc04e9c852aef1faecf932bda923e1103c3cbb7472ef077ccfd83",
+   "krUrl": "f8d4addbf524eaabc3cf39b9c95178ff489348340a604a61fff56aab6c5884f5"
   },
   {
    "id": 65,
    "title": "HP 회복",
    "text": "고마워, 넌 좋은 사람이야",
    "unlockRequirement": "",
-   "cnUrl": "ba02156edb31be7d4ebf6784cf8d9ae4aff96b14401d46bb556f0300a357471f",
-   "jpUrl": "c28df842301682dc973a5c660c525b6036bf81f7bfd9713ee124f7371daf2a36",
-   "enUrl": "e6c0682c491556af432bd9dbeaddc81e3833cf6da38aaced1d397e9f021122ba",
-   "krUrl": "7b41cdbc7340088a11cf8608b5b1d914c5938ddaed48357c0db0ae21c9109e12"
+   "cnUrl": "a2ad4da6e13e103da20199bf26b1f2fcdd00af748999ef1da085ffd0405f6d91",
+   "jpUrl": "9b20a4c05f9cd95e5b6470ee16b82721f158f4cf1450c7c0e4d5e1cec784f282",
+   "enUrl": "687e5662312d792ce347dc9b792b4703e030f2304fa35e4939a6d74334d69f68",
+   "krUrl": "1388d8438192c7885929ed872f7bd3bd5163e1b82fe2bbbc6df48d08b974af37"
   },
   {
    "id": 66,
    "title": "비술",
    "text": "아플까나?",
    "unlockRequirement": "",
-   "cnUrl": "074092f6d98ce8353bd4322e12cd3606772a0bac89811e3d21e759c3a58d7438",
-   "jpUrl": "f765e79e07112927e5efcc149301e0b33208bd8bf68535d5b60f38884b03a164",
-   "enUrl": "ebb0af129aa1aed11d8aa1ee362edecccaa6bcef643237e42fdcf4cb9c5d6bd4",
-   "krUrl": "f8f678b696a56c3550538ec73b0ce5728cd5c645c1ab5e1392576acb0ad6c770"
+   "cnUrl": "b064b46b2cfb1c727c9c1222a742c7e74b0490b33df9f108de64356e9f3cc1b6",
+   "jpUrl": "462ee1c954f3fb28f97dce4b3378c0dc796e943b628b895101b7a63270e9e60c",
+   "enUrl": "7ff58686737093cd89b6fd93ede8c383bbeccfcebc27608c7c7496f08964ca64",
+   "krUrl": "1eaf4c7d63c92db121b882472be05a7ce7a01a07385e6b267f8513de2ab2e826"
   },
   {
    "id": 67,
    "title": "전투 승리",
    "text": "육체는 약하기 때문에 아름다운 거야",
    "unlockRequirement": "",
-   "cnUrl": "bd55dc7959ebb2b18516fadf67900c8e672472ad54e2b3de4e212a23864707d5",
-   "jpUrl": "a351b54ac079a11ea446d37c583e4ee812ae6f08c195ecec2c9f661fba04d09f",
-   "enUrl": "28d4d5f10d9b24c214da460ed128b8a6bb4cb4058ce6dd49df8410054e1c7e10",
-   "krUrl": "2b07403ed0d3072cd2ab7304620ca90fdd6c5bd3712a122de438d36c7d5a361b"
+   "cnUrl": "7d62775c0ba961be6e7b2d6537e3f537ea9808fba43903ecf5ea0bc6109e20e4",
+   "jpUrl": "4ef782802a1e6b9cc2eda2871cb0c45882c226b5f2d3d770e29804797ffccf92",
+   "enUrl": "79ce3dc72bfe01cd524418e9ca6f94f20bd4a9f108dd6a1e2060ca88fcaad7ca",
+   "krUrl": "7ee0ecec8b2c6b7deb946ab13075816f5c2cda4bc502f19b37c645df311b598f"
   },
   {
    "id": 68,
    "title": "전리품 오픈•1",
    "text": "쓸만하네",
    "unlockRequirement": "",
-   "cnUrl": "811e4f4397c46b6757315ea15ff0ea535c82803fc8322a824dfab0a7586ef4a1",
-   "jpUrl": "44c8f8d0002fd04191f7c91d0bcb8eeef87e90b94ee7969bcd1d4f1f6bbc905a",
-   "enUrl": "dfd4a88b2f9120b4641acd907bdaf0561387804b986775a82ab8cf8341984b31",
-   "krUrl": "6f210a2f2bc9f13d303c41d488a70ea66378477d3416edfe3e7fe9bd41b2e67d"
+   "cnUrl": "2f3d02b639c26e77a56b5be785415425ddab5e7300d8c10462a80224aebd29ce",
+   "jpUrl": "ebf0c0932b5e61458984bcb419ff7423dc2aa5be636010a3fa080dc860ff1ec8",
+   "enUrl": "f99e2c9a28f4be04f6647230319f27fd1b1bfe266bb93c627238e804e1b04ebb",
+   "krUrl": "b79f6b671ae9c94183604ab682bac9862a0f46e4032c682c7e9adf1ecfd54f68"
   },
   {
    "id": 72,
    "title": "전리품 오픈•2",
    "text": "전혀 놀랍지 않아",
    "unlockRequirement": "",
-   "cnUrl": "96e1b619313e7b8410f1ce29fb675b5199685f851ebf97105aad59ad76e2dc3e",
-   "jpUrl": "6c35e189cd48071a8406c4ef5140417261f59278ff9f9cc5f1c45e3c68c0cf7f",
-   "enUrl": "e96735ad3429d6a85e2c1ff7a7b3ecea01a8d058a95a6b3ec6ba66b0ff6a0f46",
-   "krUrl": "cc5d77b1cbada1089f3c37467ac3faa79287212cbac18de3f0b4e5c1f522abdf"
+   "cnUrl": "21f77bc0508c83aef4c6bd3d4e4ef56ff1ee48b16d047a330bac0b52e3c82519",
+   "jpUrl": "b802033b62c5ff3038a4479a2b100ff24494d5fcd6e32e86f9fae52a5d223beb",
+   "enUrl": "e93e0479fc3d314a30d7ff0966355caf71caf3300ea61920a602d14f7f5f25a5",
+   "krUrl": "d236765d1e61afc7caacdd2630ace892ea04182d02e634c74ceb4cbbab810e6f"
   },
   {
    "id": 73,
    "title": "진귀한 전리품 오픈",
    "text": "마음에 들어? 나도 마음에 들어",
    "unlockRequirement": "",
-   "cnUrl": "79b14dd01832f098b55418bfbb426d669c7f233c86dd6da7825e6eaf6c1da1dd",
-   "jpUrl": "9feede7a8256dd1640ee05824eb4e87456523410871e6f0cfbd7b234bc9e142c",
-   "enUrl": "77c87577a05a862769b7e31faafe794654122247b2a4b5f342bcce05e5f435b8",
-   "krUrl": "18a4d869cc3fb2e0a6b721a1b073a72c6e4aa7758e103095f384d19e425b8c1b"
+   "cnUrl": "ef5438c898a2766d8522f9e2bc75ea9434ec8d663d982161355b1d5d9dba0ee6",
+   "jpUrl": "e1a9076a0fb634107d376c54119efc09405e1d0f312df02dc789de1cae4051e8",
+   "enUrl": "0c036598b50e56e392582de9b578fefd4c91aa0aa22724ac9803e6db87afa91c",
+   "krUrl": "f72207650497f12a707b788ebc2bfe788d785354976cbc2e85fb6ccd8ee77e18"
   },
   {
    "id": 69,
    "title": "수수께끼 풀이 성공•1",
    "text": "잘했어",
    "unlockRequirement": "",
-   "cnUrl": "9dd6d449a33cc606ab335fa4eed51fc05209d02050494384300f35e7e23d3225",
-   "jpUrl": "8d32fde535aba6c5837d8066e8c52ddbc2d0fd60b41ae32537d6448b3ebdf37c",
-   "enUrl": "77c036c06f9a234887bd7bbeec87300565214f36ef3ccb9d0cade91376babd7e",
-   "krUrl": "2257573dfb7576ee396251bd69ffb7fdb49b880cec5e7b33b3e3e742c7c32257"
+   "cnUrl": "dc8296393ab5bf8523534c332613bc755538a5a9f5b50ddd8377662489c624d4",
+   "jpUrl": "53255d0137ff8e91f987db42042d773e54552f23f4a9c307ad577b7bbdbe0d2b",
+   "enUrl": "643463f5b4510b70c5b9485c6de178f6bcf13c8fb8036df0e10432bc647e6752",
+   "krUrl": "66021c51492a40250d4b044ac425c5904f1b9f26e4a64378192a10429fe33625"
   },
   {
    "id": 74,
    "title": "수수께끼 풀이 성공•2",
    "text": "대단한걸. 무슨 보상을 원해?",
    "unlockRequirement": "",
-   "cnUrl": "1b1d5d24f6020138026acb44a22c8295c82a833e389a955af7731c849d436828",
-   "jpUrl": "76958489f43725b27d3544f39454be61c3976cbc219c30695fe3d0ab86d8b972",
-   "enUrl": "f9138548a2e5111770281ce7adf5535ca05cf329c45fed3fdfb8a292df5a0a12",
-   "krUrl": "65517f1224a73961c36fe76772c805b9e04509c4c781aee7d705f63178746018"
+   "cnUrl": "a72ab3dca6febee4f1365fde84150ccb61132618c21e0a23f2460554f2467a8a",
+   "jpUrl": "b6d9cdb4022cbf9c533fe2814d430c14b31a8c69236dd998bfc78ca6378e5c87",
+   "enUrl": "6dce313701dcc3deee30b567221a6919f8ef2cd23918884c75b78f94f98b300b",
+   "krUrl": "744d26da56f30825f4969e72a3626c7201c8d3d9cd1293678debe618c5bac3bb"
   },
   {
    "id": 70,
    "title": "적 발견",
    "text": "흠? 난동을 부리려나 보군……",
    "unlockRequirement": "",
-   "cnUrl": "3550fd56df2b55b426da5c7e30969f57ce62f8865a6618d76b58f77692279386",
-   "jpUrl": "1e1d5e0a3e842e8f7160181244bc7681c6b3736fd39520ce0ca2bbae0b49b8ca",
-   "enUrl": "f90d8df5cb20294de07ec37a94916298ff9e72e6f94a5f0c707e538582283452",
-   "krUrl": "56cc52353b4d78c449021ae00af7d10df92572a2bec0c5fe5a5066172c18ebdd"
+   "cnUrl": "baa73e183ece3432eae3458b2e71e75cf08e15acd9b67d09adffb63acbcbebeb",
+   "jpUrl": "2e1df3968af379717d99967daad59368bedf643bb84e48dcc0828a565b2f34c2",
+   "enUrl": "3ba546db2004e8979daf56c182044b53bbbba86dd4ecc099b27692cff1ed2bd7",
+   "krUrl": "26a74899ace5a1da50b5aaf317e0ece1d8916491b68ce11bd9609434023082f1"
   },
   {
    "id": 71,
    "title": "도시로 복귀",
    "text": "후우, 옷이 더러워졌네",
    "unlockRequirement": "",
-   "cnUrl": "76b03e4a5344c47e05bba98671bc3305271b41c3e5af2d4e880f4b19ef5ff54e",
-   "jpUrl": "67304c73f332d9d0b780f41b851894a99a0541ae6810c03a4840d5a3bb30a8f7",
-   "enUrl": "634f380906ec3ddf4e82d45c6e58eef6f5c3915b162b8e75b183442862a4b4c9",
-   "krUrl": "4450f13d70a74fb8d313b07d671a35d57343c85b7f7338895704795301079aba"
+   "cnUrl": "95c52367a5e20ae1bc75af18da1bc70753e104dd8d6069ff85faff24158e3de5",
+   "jpUrl": "59ad58ccde34fc4ca49188a1a4cd1e41971519f1b75bad0c7b404abaf31d2156",
+   "enUrl": "def67e422ea52a33cfb0b9c7586fadd762e7cd2b6b75d50a79478f78dd2547d4",
+   "krUrl": "d4dbe2bb44471aea5374251487151581850b800116326977a1a9490d1a36e292"
   }
  ],
  "storyItems": [
@@ -2739,19 +2763,19 @@
  "name": "카프카",
  "rarity": 5,
  "descHash": "「스텔라론 헌터」의 멤버, 시크하고 차분한 분위기의 오피스룩 미녀. 언령술을 사용해 개척자이(가) 스텔라론을 흡수할 수 있도록 계책을 꾸몄다. 취미는 코트 구매 및 정리하기",
- "artPath": "f1462b576eecef074ec6c2897af8d44c5a674cc855d4f6a0fcf2f7dacb99a0a6",
- "miniIconPath": "075f07546de6a4c1d3169c999fd5a6cbd99dfc8d36edd1ba49d12d45dfb872a5",
+ "artPath": "a06962bb7a77d4c7a5b613665fc68f472dd8a16b27d09b4c85d7bfee48437c20",
+ "miniIconPath": "e0f2088ef889a2e21bb51c4713d4f40c3fe8e972d831673637eaa399fbdd3f7e",
  "damageType": {
   "id": 8,
-  "iconPath": "aec46e1b5be764fe83cac85e30f5832729012baa6a30bb8d91c82348d8a1b4d6",
+  "iconPath": "0a40649ada5773817ffbde0a747d856ffc82d62b6cad86250bf1631190b084b7",
   "color": "#8872F1",
   "name": "번개",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "96c3b8dd457b98955d440531986a23d509f705c13d7aa794d1e97bcfd03d5701",
-  "altIconPath": "b55d340138ed77756cd939d0d9ee2103a5398f999202c1ed19d092ac87333155",
+  "iconPath": "2e8dee1b2516e0376a0ff1ec3cf5cf7d2d37bd482cf5efb5cf79367f9d2be218",
+  "altIconPath": "61e195ac81b36d68bb63480397b0f78505a2cd8c8970b059540187a975563a72",
   "color": "#FFFFFF",
   "name": "공허",
   "rarity": 0

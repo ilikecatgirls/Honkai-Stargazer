@@ -2,16 +2,17 @@
  "name": "Démultiplication",
  "rarity": 3,
  "descHash": "Un soupçon de force condensé par le temps lui-même. Tous les instants en apparence insignifiants se regroupent pour former le magnifique chœur du destin.<br /><br />« Même lorsque la vie n'a plus de sens, il faut continuer à la choyer. »",
- "iconPath": "b7a2fabb5eab561d632dce479cd04f281b97558c7b2bb8fd67a5c887580ab73e",
- "artPath": "56c89767a07bce917d205f8777752f3277edccb0b5244141c868735b824fffb1",
+ "iconPath": "35ea11a572d871977d74d4e3122cf98b0847623cb3dd00734d64df789f546e31",
+ "artPath": "261d9bd2ec27cff7c67329cd6d2712eab13d6a0165c9298b288dc30b66397dfa",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRvIBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSCEAAAABD9D/iAioaSPJgTD8UV75+af6iCCi/xFiw4kuSdwH+hsAVlA4IKoBAADwCACdASoUABwAPm0wlEckIqIhKAqogA2JbACdMoR5joM6tejc9V6E95A3jusZ1062x87jz4GdwwM0uhbhpYLY4dVT+WbkYxsKxuxGQ8qMAAD5d9PHE5QDzXf4o2vV2Sf7x9EeBF6GnH0Iqyr6gb121x+SFpJe3+9qw8STpNv/sLPNfKCTW9vogwCpzBfgnqNJc8Xf4GkrK9mhfImfqKzWKJkSh39ZtXcaP//Xr0I6AmEB0cfOeYXhuBG/7wJm4AUXvBdcg8eWcbk289v9JEtx9LzmahAJ5dRMz6EAvO0szXzUee6CBc52LZKS869bkOpQuB9W1m7KG7dQ4rjvPJcfPDUuFpVYdVjNwWmzYfucIJNVCQHQM05Sj2aLj6XHb933C/RFt7rg8GtaecgYcYMPK+4rKybmtTYgvFka+rjtddsn3/zeWIUO5E6FI+mOlrM7XgYGes4tW3KOOuVquD7Lp7YF3HRM55ZzC4hjOVxpBC71Vg4AhZqh/LIwhKCcVibsyf2ZfHXcN/iezh7W984Pqn/gzUqhVpG9gjhA2hVnkFE54mnJhH4IAAA=",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "3082170726dde98eca762c433c69713cde1cd9edf924dd7fd76a3f0409cff222",
+ "mediumIconPath": "c14d42a4a4866477faf043facba3ed5ec300f750a242dd75cb838a124d740119",
  "baseType": {
   "id": 0,
-  "iconPath": "81e58cfdc0c8a9a026c2c3111a6bdf663d572fa71524907b004fc5eb7f34fade",
+  "iconPath": "099f836bb82a0db5555a593235596f78b0afd634e500ed415da9f15b9b74a6cf",
   "color": "#FFFFFF",
   "name": "L'Abondance",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549504": {
    "id": 549504,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "71d58f084522c87e93327e3e7fc1db8fb4abb65e9989b163d4a348c9a3761329",
+   "iconPath": "6c179a11ddab366162a8539ea956319bacacb460c375d4b3d7f4ab3637918e75",
    "name": "Jeune pousse immortelle",
    "desc": "Jeune pousse ayant bourgeonné à partir d'une ancienne construction divine. Matériau commun utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Il y a de très nombreuses années, le désir orgueilleux et démesuré d'un souverain pour l'immortalité a mené la flotte de Xianzhou à lever les voiles en direction de la mer cosmique pour y rechercher des remèdes divins.<br /><br />« Nous voulons vivre jusqu'à des temps sans fin et maintenir notre empire pour l'éternité. Malheureusement, la vie humaine prend toujours fin, et les capacités humaines ont leurs limites. Par conséquent, nous avons envoyé neuf Navium Astriger pour naviguer au-delà du ciel, à la recherche des recettes divines de l'immortalité. »",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549504",
    "comeFrom": [
     "Abominations de l'Abondance",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 633445,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fc1f8e93b552510a719e96df3c4e48ace4f905d262668303315d785b951a7c04",
+   "iconPath": "d1124c0146a84ca0b7fea540fdaf95e66dc3e8f128ec5a9f9250b388c8183db8",
    "name": "Aérofleur immortelle",
    "desc": "Nouvelle fleur ayant éclos à partir d'une ancienne construction divine. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Après d'innombrables tentatives, la flotte à la recherche du remède de l'immortalité était capable de contempler le visage de l'être divin. La divinité envoya ses bénédictions sous une forme matérielle, et l'Arbre d'ambroisie étendit ses feuilles.<br /><br />« De nouveaux bourgeons descendirent sur la lune, où des fleurs divines se mirent à pousser entre les nuages. Le temps de la floraison, le vieux bois retrouva sa jeunesse. »",
@@ -72,6 +74,7 @@
    "comeFrom": [
     "Abominations de l'Abondance au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -80,7 +83,7 @@
    "id": 635671,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e1b0a1a8ab4a806daac48e2e5de6c69a9a1aad87f950c5a4c92c9513dd9d6b9",
+   "iconPath": "9c646329c4d4e9b8cb867e7864ce74f4ca6d18e611b748c516c1a5f3334d04b6",
    "name": "Graine d'abondance",
    "desc": "Graine de bénédiction semée par l'Aiôn de l'Abondance. Permet d'améliorer légèrement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abondance</span>.",
    "lore": "Ceux qui la touchent voient lentement disparaître leurs blessures et leurs maux.<br />Ceux qui, frappés de désespoir, appellent de leurs prières les bienfaits de la vie seront toujours entendus.<br /><br />« Tu recevras ce que tu demandes. »",
@@ -89,7 +92,7 @@
    "rewardPath": "/material/635671",
    "comeFrom": [
     "Calice du Col de Backwater",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -97,7 +100,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -115,7 +118,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -126,14 +129,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -151,7 +154,7 @@
    "id": 717386,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5708b196a8af89740ced588d98dc414c791d209879957fb0bc8644cc2dc84adb",
+   "iconPath": "fd7a32682f691044c47ac3a898e66880b2f442ae41c7264f87c4101558550161",
    "name": "Branche-lumière immortelle",
    "desc": "Branche à feuilles caduques provenant d'une ancienne construction divine. Matériau avancé utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Après les Trois Souffrances, Xianzhou a été en proie à la dévastation. Les Homo celestinae se sont retrouvés au rang de démons, et les catastrophes se sont enchaînées sans discontinuer.<br /><br />« En vertu du décret de la Commission des dix seigneurs, quiconque sur le point d'être frappé par le mara sera saisi par les juges infernaux et envoyé à la Prison des enchaînés. »",
@@ -161,6 +164,7 @@
    "comeFrom": [
     "Abominations de l'Abondance au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -169,7 +173,7 @@
    "id": 836257,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "e08699257c4a96a135b4467fd8eba3917d5734b2c943ac631d2a39ae3c4ccb37",
+   "iconPath": "969a6d57c217f2b43cb2d1be96d5fa06a30b8ca9834ec984f0649d019d666b13",
    "name": "Fleur de l'éternité",
    "desc": "Une fleur magnifique issue de la Pousse de la vie. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abondance</span>.",
    "lore": "Les étamines contiennent le pouvoir concentré de la Voie de l'Abondance, assurant la vitalité éternelle de la fleur. Ni le feu, ni la glace, ni aucune agression extérieure ne peuvent entraver la croissance de cette magnifique forme de vie.<br />Avec le temps, ses feuilles se nourriront de lumière d'étoile. Ses racines s'enfonceront dans la chair de chaque être de ce monde, toutes connectées, sans jamais périr. Ses fruits rempliront leur promesse d'immortalité.<br /><br />« Il existe des vaisseaux géants qui éclipsent les montagnes et dérivent dans le vide. L'arbre éternel dont les fruits sont synonymes d'immortalité y pousse. »",
@@ -186,7 +190,7 @@
    "id": 920198,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "365bf3a80928eea605cbefd72636c62eb0c1887b4652520c3e9c3f99a55f0cb9",
+   "iconPath": "e53b293c86a90843e4eac0cd4649e1b7f94b3aa93adec45d9fcadf0a4532d8af",
    "name": "Pousse de la vie",
    "desc": "Une jeune pousse provenant de la Graine d'abondance. Permet d'améliorer modérément les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abondance</span>.",
    "lore": "Irradiant de chaleur, la vie et la croissance s'épanouissent autour de l'endroit où elle enterre ses racines. Les terres stériles se transforment en champs luxuriants, les plantes fanées rajeunissent et fleurissent, et les sources jaillissent du sol pour humidifier la terre.<br />S'approcher trop près provoque une contraction musculaire et osseuse, qui s'accompagne d'une démangeaison insupportable.<br /><br />« La vie est inépuisable là où l'âme abonde .»",
@@ -196,7 +200,7 @@
    "comeFrom": [
     "Calice du Col de Backwater",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

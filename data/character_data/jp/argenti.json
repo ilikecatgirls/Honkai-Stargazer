@@ -1,19 +1,20 @@
 {
  "spRequirement": 180,
- "iconPath": "40744974ebfc3d3ae6a1ef9a4aa112e0f758ccadd23c3eaa883d1ec79889864f",
- "bgPath": "5fd774f32eca8067858270006fa5c961289010c05a266eda8ee6bf8153af5d29",
- "figPath": "bfd8764654fa153739eea45808c81da90cd3666e530481b3819395fececf631d",
- "fgPath": "1b412d46e309f7e76af8cdc0d9ddf2c20988f91bf309a4d7099d80da8f441962",
- "splashIconPath": "a88b1fa810ae4adad8cd6d2d75e5e13cc649af77aa768ea41ef61223603e70d0",
+ "iconPath": "594bb9830216e613640a3641c6be03540a74d814a822378240ea271bb63dbf81",
+ "bgPath": "d90ca4b67186e2a99d4eeb412ddd625b069586f37994ee702c62033c883a7b1a",
+ "figPath": "95fa1e8e43602c8fece3aa4ff03701f88f35a8286dcdccf2fba4330b7e11c5cd",
+ "fgPath": "7d077b2d058607d3b45633b438d11263a6363506d9ce1992732d948e0ff525f4",
+ "splashIconPath": "0597b544a9fac33f9cb91efe91517288912787294c9ed4017bee96d45cdefa34",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRpYCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAABAAABkKNt27FH9/fFtu0qO0hK21qCbdvqXdtOKpQZe6a1jff73nvwYwsRMQEw7AwoMNNl5dtFBFSTLFFOwUmzWvmDV3EqFBNs0EShk6eAYgxooZC6xjlnKIZ8C1DH31LKX+wAFAAqUtlwSU1KKbjl6Iz/VSzxOaVBjWe2VgCsMMxvhnReH+8EQYENlqlJI8/CHQGg1G2dwpDUeM8dCsbYdY8kDcjfLIIlmviRTz9pr2lAsBfWqtNrvqtevvPQkMZnADDP7xS/KP/XSV6tJ8QeU/8txG/9P745P19rTfMefE/DGgV/zQbjf//kpuGe/TeSfNNaXhYJK1VRYdAlPjshBoYBVlA4IHABAAAwBwCdASoUABQAPm0ulEckIqIhKAqogA2JbACdMoR2etZhAbZjcAbyN6AHSV/tB6QBMqBeJwFfLGYxKrAVophLDRAA/o2jQ9o+kO/N6HajbRqau2z9naXD6WF9P+7YCk6LgN3+4T8ULo/9rzUS8rCQggCOC6Ku/r0RdHvM+JuXlDleMmYsa8c1qrnezhxQ+TKv7j8mgNmezKGNj3djp4DVeq93eqiiO9DLoHtlYxfH2BG2KIo+pSN6hHwdydI5z/r2/uegGP+uYudmsWz3i+c+v9ZrHKLNt6/GwKfD+l0H5YGIPDQXp4g9r44/BaUv2vcf8DB7ufzjpeYccAS4MlHAv5DuHnucXjRPp/+bNr/sPtlzhD3Up7p+vasnNksplfCaIGA4taxwk2W7pitoR6o/LiU4ApKf+DL8w39kElE0UR/RhWSlF3+y4T6gfzF3fnjb0OnbRqH1pAag5VMvW/ALB/gFg/uLhC4QNib+YYAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 3,
-  "iconPath": "4ee4d46a01c45f662c4a193c5823f29be35cc4c19ba38ea2fd6f35a00a053d46",
+  "iconPath": "d2b129dec7122e506216fee426a9319946327741f972bd953a176be01cb2d931",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用ポイント",
    "desc": "スターピースカンパニーが顧客との決済に使用している貨幣。現在は宇宙旅行をする時の決済通貨となっている。",
    "lore": "「人々は、端末に表示される数字のためだけに奔走し、戦い、取引をする。しかし、本当に大切なものは、カンパニーの数字で買えるものではない」",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "運命の足跡",
    "desc": "軌跡レベルアップ用の高級素材。",
    "lore": "幾度の敗北があなたに勝利をもたらし、一歩一歩の前進があなたを運命の転換点へと導いた。",
@@ -61,7 +62,7 @@
    "id": 186254,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "9794d4b9cee70ded671331e6e9eec06326dcb9428d59540d9960f2a0bbea00e1",
+   "iconPath": "cf2788ec5bdb2c1137c8bdf583b557edd00667b1f629205eccb2a92e506b62a8",
    "name": "無窮なる仮身の遺恨",
    "desc": "軌跡レベルアップ用の高級素材。",
    "lore": "いくら肉体を奪っても、願いは叶わない。仙薬を求める人たちのように、それは「壊滅」を恐れる必要のない、永く存在できる体を渇望する。けど同時に、その者は知っている、それは永遠に実現できない迷夢だと。<br /><br />「数え切れないほどの世界が負創神の烈炎に呑まれるのを見てきた、そして妾もその炎の中の一筋であった。妾は其の思うがままに踊る。だが、薪が燃え尽きると炎は消えることも、よく理解している…」",
@@ -76,7 +77,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "漫遊指南",
    "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>20000</nobr>獲得できる。",
    "lore": "世界を渡り歩くためには欠かせない、冒険手引き集。閲覧キーを押すと、電子音声が理解可能な言語で、有名な冒険者たちが様々な世界で体験したことや、彼らが色々な星で得た貴重な知識を語り聞かせてくれる。<br /><br />「漫遊指南最新シリーズ『スペースグルメガイド』が現在発売中。ぜひお買い求めください」<br />「投稿の際は、博識学会共感覚ビーコンのオペレーター<nobr>23</nobr>θにお繋ぎください。原稿料はあなたが普段から利用している方法でお振込みいたします」",
@@ -94,7 +95,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "冒険記録",
    "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>5000</nobr>獲得できる。",
    "lore": "綺麗に装丁された、一目でためになるとわかる冒険日誌。冒険に関する細かい描写、価値のある情報、サバイバル術が書かれている。<br /><br />「なんで数字化してデバイスに保存しないの？持ち歩きやすくなるでしょ」<br />「お前が思っているより、先進技術は恒星嵐や中性子噴出に弱いんだ。なにより、この本の制作者は、最も簡単な方法で人々に読んでもらいたかったんだろう」",
@@ -113,7 +114,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "旅の見聞",
    "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>1000</nobr>獲得できる。",
    "lore": "旅の出来事を記した日記。字はかすれており、不鮮明。思うままに内容が書かれてあるので、あまり助けにはならないだろう。<br /><br />「読み終わったら早くその紙切れを捨てるのよ、丹恒？」",
@@ -131,7 +132,7 @@
    "id": 549438,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5eb86757b6878dd09f969ed2d9e75af43eac2565bd49fdbe391f716e5adca101",
+   "iconPath": "e700f5830b00d37882b23acfb0b87aade99e878187f0e8683a4f04047b74cc6a",
    "name": "消滅した原核",
    "desc": "裂界を徘徊するモンスターの心臓。強化に必要な簡易素材。",
    "lore": "悪性腫瘍の病巣のように、罪を犯す衝動を育てる。これが裂界の歪みの根源である。<br />重い衝撃により、この心臓は鼓動をやめ、輝きを失った。<br /><br />「これは交雑の産物だと初歩的に判断できる。半分が原体、もう半分のデータは星核と酷似している——生物科、サラ・カストラ」",
@@ -140,6 +141,7 @@
    "rewardPath": "/material/549438",
    "comeFrom": [
     "一部の裂界造物からドロップ",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "依頼報酬",
     "エンバー交換",
@@ -151,7 +153,7 @@
    "id": 633379,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "4886a5629723505540ba6d02fac7f264a3164458f4194796470c1826138ba105",
+   "iconPath": "659dbba8b4192386c1150f38f3233d432a759a3121a97cf97202942f7a0c2ce6",
    "name": "微かに光る原核",
    "desc": "裂界を徘徊するモンスターの心臓。強化に必要な普通素材。",
    "lore": "悪性腫瘍の病巣のように、罪を犯す衝動を育てる。これが裂界の歪みの根源である。<br />この心臓はまだわずかな光を放ち、その筋には未だ生命力が宿っている。<br /><br />「あれは一体どんなモンスターなんだ？お前はあれの顔を見たか——あれは前任の隊長の顔だった、彼の顔だったんだ！」",
@@ -161,6 +163,7 @@
    "comeFrom": [
     "均衡Lv.2に達した後、一部の裂界造物からドロップ",
     "「万能合成マシン」- 素材合成",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "「万能合成マシン」- 素材交換"
    ]
@@ -169,9 +172,9 @@
    "id": 635675,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5d1c50902cff0d2be1eb952d08078e3134c231cdf0c9142c1ef475ec07c42b50",
+   "iconPath": "0558df3e5e5ca8710ff54542568bf59d21e7ffd5fd542d4ce0b64236047cc80b",
    "name": "着想のカギ",
-   "desc": "苦慮している学者の手の中に現れる幻のカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を小幅アップできる。",
+   "desc": "苦慮している学者の手の中に現れる幻のカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を小アップできる。",
    "lore": "意識の奥底に封じられた閃きを解き放つことができる。<br />カギを掴んだということは、己の中にある進むべき道を照らす光を掴んだということである。<br /><br />「エウレカ！」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 2,
@@ -186,7 +189,7 @@
    "id": 717320,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "f54699a5eaba1cef67217196db0a1440c1b1c1c5b89179b36b2ebe7331831ea1",
+   "iconPath": "b44e1a4200fb1d3c919589c4287277e97e9094c3da3ce2381beaa68224119583",
    "name": "脈動する原核",
    "desc": "裂界を徘徊するモンスターの心臓。強化に必要な高級素材。",
    "lore": "悪性腫瘍の病巣のように、罪を犯す衝動を育てる。これが裂界の歪みの根源である。<br />この心臓はまだ緩やかに鼓動している。これに残る力は、いずれ新たな災いを引き起こすだろう。恐怖が再び訪れる前に、不活化処理した方がいい。<br /><br />「まるで癌のようだ……」",
@@ -196,6 +199,7 @@
    "comeFrom": [
     "均衡Lv.4に達した後、一部の裂界造物からドロップ",
     "「万能合成マシン」- 素材合成",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "「万能合成マシン」- 素材交換"
    ]
@@ -204,9 +208,9 @@
    "id": 836261,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "36e68603fbc67d4b69c02e01d7d5d41a80446ea6c49b1d828b47320f6225825c",
+   "iconPath": "f20dcddb7d5f53ca8e31f98f97f55ba2c8ebc935e110471bb9e1d913fa53025e",
    "name": "叡智のカギ",
-   "desc": "宇宙の頂点に立つ天才の手の中に現れるカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を大幅アップできる。",
+   "desc": "宇宙の頂点に立つ天才の手の中に現れるカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を大アップできる。",
    "lore": "このカギは、持ち主が知恵の神殿の扉を開く権利を得たという証拠である。<br />カギを手にしても、そのカギで開けられる扉を見つける方が大変である。扉の向こうに行った者は、もう振り返る必要がないことを悟るだろう。<br /><br />「知恵は宇宙の真理を教えてくれるわけではないが、どのように疑問を持てばよいかを教えてくれる」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 4,
@@ -221,9 +225,9 @@
    "id": 866634,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "596fbaf0ec664666606ba684cdb5e8f5ea877d04fab4177151231822416efbed",
+   "iconPath": "33f818868d0d49966e7087b30885cc936f37032ae7987db99a2abfe8da26cdc3",
    "name": "幽府通令",
-   "desc": "金人・勾魂が使う武器。物理キャラクターの昇格素材。",
+   "desc": "金人・勾魂が使う武器。物理属性キャラクターの昇格素材。",
    "lore": "これは十王司の使者が魔陰の身を捕らえ、忌み物を鎮伏するための武器であると同時に、彼らが行動をする時に提示する令牌でもある。彼らが行く先では、この世の如何なる権威も深く追求することはできない。<br /><br />「幽府から来たる使い、冥世からの勅使。拘留の命令を受け、刑罰に赦しなし」",
    "purpose": "キャラクター昇格素材",
    "rarity": 4,
@@ -237,9 +241,9 @@
    "id": 920202,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "489f5c80b6f0de258e076634803c9540b0504c32e55f556748095c334780289d",
+   "iconPath": "26f9f701e21f71fb607d18470b7aee7ab70485eae418ec41e6b0ff10940c2f16",
    "name": "啓発のカギ",
-   "desc": "諸界の智者の手の中に現れる幻のカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を中幅アップできる。",
+   "desc": "諸界の智者の手の中に現れる幻のカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を中アップできる。",
    "lore": "真実を封印している錠前を開き、人智ではたどり着けない領域へと到達させる力を持つ。<br />持ち主がどうにかしてカギを見せようとしても、周りの人はカギの存在を認識することができない。ある人はこれを天啓とし、ある人は狂気の兆しとした。<br /><br />「分子が蛇のようにとぐろを巻いている夢を見たんだ。目覚めたときに気付いた、これが私の求めていた答えだと！」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 3,
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "858d81b5fdb0a76cfd475d6cb96364362cd020cb93802f7712d641051f42f2ac",
-   "artPath": "80eff63c2f6c4d9c4061e95652a02e5358d8cdb06b2a1a198078ba82296bef12",
+   "iconPath": "c3625ed9e743de051d5a77c8364c2a8fe50d6b514ecc392f3b6a6e642e03e7f1",
+   "artPath": "b4a2958664ecaa5bda2624d721222bd43929bd08e2bd1d742f0d6b4ac5319040",
    "name": "審美王国の欠陥",
    "descHash": "「栄達」1層につき、さらに会心ダメージ+<nobr>#1[i]%</nobr>。",
    "params": [
@@ -449,8 +453,8 @@
   },
   {
    "id": 2,
-   "iconPath": "6c588d7be56db79174ddc8abe0718edba20f7107f3adc8d0a7c2b67e09523e72",
-   "artPath": "fc30eb8c7cf7ce5e33040f410cc8a0e0c16fee8d6240663d37b79f04eecae91e",
+   "iconPath": "c7a784d755093076b46c1e42208d4f2ffc15f1a076aeeee53d6482b4d3f77582",
+   "artPath": "c5efd68704a8b87fd83b7a41eec53765e9725639d8f99b4d39db9a4bcb2d4e99",
    "name": "メノウの謙遜",
    "descHash": "必殺技を発動した時、フィールド上の敵が<nobr>#1[i]</nobr>体以上の場合、攻撃力+<nobr>#2[i]%</nobr>、<nobr>#3[i]</nobr>ターン継続。",
    "params": [
@@ -461,16 +465,16 @@
   },
   {
    "id": 3,
-   "iconPath": "b06743a7d28bbcbd66b7ea33a3a3345f018f5efe0f1dda320624621b9d0be2d7",
-   "artPath": "8f3572b1ea7a7a96282fd7737ed3265eb99e71884240e390a43ee33c1a5bbc6e",
+   "iconPath": "77a2cd9c7ed666014b736df2d7214cbd0d0046b042cbb4bbfd5be2398b8dbca6",
+   "artPath": "80fe1fa273a3a409adb3619bcf5cf849d396b36badd4dcd1e1b5c85fd008857c",
    "name": "荊棘の道の栄光",
    "descHash": "戦闘スキルのLv.+2、最大Lv.<nobr>15</nobr>まで。天賦のLv.+2、最大Lv.<nobr>15</nobr>まで。",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "06a63b2bdf110186bef2c0bdb3b9c20cece69570507c8d855c17ba56fb930394",
-   "artPath": "391bff4c0ed4a9e09188615717d271f180083e192a4108420afd76faba8f8233",
+   "iconPath": "b2f01623a6fb1ddb170573078f21b3197e40fccb7cd1841aba77b6330046a144",
+   "artPath": "72b503e11e5056c1e386350a6c157f151c0fc182d33f4b95dfbc51a7563ff0cc",
    "name": "トランペットの奉献",
    "descHash": "戦闘開始時、「栄達」を<nobr>#1[i]</nobr>層獲得し、天賦の累積可能層数+<nobr>#2[i]</nobr>。",
    "params": [
@@ -480,16 +484,16 @@
   },
   {
    "id": 5,
-   "iconPath": "6f014fc0e91111f230f445c842be159e3a8e8e64b9eda8592ccac0c9fb9b717f",
-   "artPath": "ca323018dc911deb6097ff0e2d08531d5cd5da74674d5d2ed3b646166ee8035e",
+   "iconPath": "17c60053b6213828251822f3278fa1f91c3c3ee27ad537faad8917bc613bf140",
+   "artPath": "8fed78b1295b7046d68dee363c4d0601d506c79c1395c5ea98fb3aa20f5a46cf",
    "name": "宇宙のどこかで降る雪",
    "descHash": "必殺技のLv.+2、最大Lv.<nobr>15</nobr>まで。通常攻撃のLv.+1、最大Lv.<nobr>10</nobr>まで。",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "b3bb1e8b6070fa4ddc74def8647b5d896cd8f613d67440af6fbb39f3f34a11f1",
-   "artPath": "7373f2838c7f8ad825ab3b5a7b3b5a7c79e378b2f82ff7122c5215ce083850bd",
+   "iconPath": "d7af838aac81c02cf5a92811333835e6df34d65d7d1b9189748c43c88ef89ddf",
+   "artPath": "7be55c87f5683dd1b0886222afbe181cef84d9ee0bd3afef04f58276cc042e16",
    "name": "「貴女」の輝き",
    "descHash": "必殺技を発動した時、敵の防御力を<nobr>#1[i]%</nobr>無視する。",
    "params": [
@@ -518,13 +522,13 @@
  "skills": [
   {
    "tagHash": "単体攻撃",
-   "descHash": "指定した敵単体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>ダメージを与える。",
+   "descHash": "指定した敵単体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>属性ダメージを与える。",
    "ultimateCost": 0,
    "break": "30",
    "energy": "20",
    "id": 14813,
    "name": "刹那の芬芳",
-   "iconPath": "bc9b6432fec76a065d3ba933b49f1b6eab961e9b36854fe7ed27213b02970844",
+   "iconPath": "3b140b108367bed7d00e43de09420d372aa40e09e9dc08c7da9a8581a8784b4b",
    "typeDescHash": "通常攻撃",
    "levelReq": 0,
    "promotionReq": 0,
@@ -679,13 +683,13 @@
   },
   {
    "tagHash": "全体攻撃",
-   "descHash": "敵全体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>ダメージを与える。",
+   "descHash": "敵全体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>属性ダメージを与える。",
    "ultimateCost": 0,
    "break": "30/hit",
    "energy": "30",
    "id": 98754,
    "name": "公正、ここに咲き誇る",
-   "iconPath": "b06743a7d28bbcbd66b7ea33a3a3345f018f5efe0f1dda320624621b9d0be2d7",
+   "iconPath": "77a2cd9c7ed666014b736df2d7214cbd0d0046b042cbb4bbfd5be2398b8dbca6",
    "typeDescHash": "戦闘スキル",
    "levelReq": 0,
    "promotionReq": 0,
@@ -954,13 +958,13 @@
   },
   {
    "tagHash": "全体攻撃",
-   "descHash": "EPを<nobr>#2[i]</nobr>消費し、敵全体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>ダメージを与える。",
+   "descHash": "EPを<nobr>#2[i]</nobr>消費し、敵全体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>属性ダメージを与える。",
    "ultimateCost": 90,
    "break": "60/hit",
    "energy": "5",
    "id": 182695,
    "name": "花園にて捧げる美の際限",
-   "iconPath": "4eb4c1e34cc239e8ae3b3b5910bea9081c20fd00757558ee2c1e2e7843d267d3",
+   "iconPath": "c1b18c9b07dbbfee2d616e2087805070e6c881cd3c67f452a0d1c011ea68c565",
    "typeDescHash": "必殺技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1250,7 +1254,7 @@
    "energy": "0",
    "id": 529700,
    "name": "崇高なる客体",
-   "iconPath": "9660edbed216b4e51879cbfebecb6840997d4ca786b9aae65cec540a439ffb56",
+   "iconPath": "5d4b4fb19a0054704d217ecced36cce6eb761ab7da5302be19154b142afbdb6f",
    "typeDescHash": "天賦",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1555,7 +1559,7 @@
    "energy": "0",
    "id": 730286,
    "name": "攻撃",
-   "iconPath": "bc9b6432fec76a065d3ba933b49f1b6eab961e9b36854fe7ed27213b02970844",
+   "iconPath": "3b140b108367bed7d00e43de09420d372aa40e09e9dc08c7da9a8581a8784b4b",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1571,13 +1575,13 @@
   },
   {
    "tagHash": "妨害",
-   "descHash": "秘技を使用した後、一定区域内の敵を<nobr>#1[i]</nobr>秒間の目眩状態にする。目眩状態の敵は味方を攻撃しない。<br />目眩状態の敵を先制攻撃して戦闘に入った時、敵全体にアルジェンティの攻撃力<nobr>#2[i]%</nobr>分の<span style=\"color:#FFFFFF;\">物理</span>ダメージを与え、アルジェンティのEPを<nobr>#3[i]</nobr>回復する。",
+   "descHash": "秘技を使用した後、一定区域内の敵を<nobr>#1[i]</nobr>秒間の目眩状態にする。目眩状態の敵は味方を攻撃しない。<br />目眩状態の敵を先制攻撃して戦闘に入った時、敵全体にアルジェンティの攻撃力<nobr>#2[i]%</nobr>分の<span style=\"color:#FFFFFF;\">物理</span>属性ダメージを与え、アルジェンティのEPを<nobr>#3[i]</nobr>回復する。",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 814227,
    "name": "純粋で高潔なる宣言",
-   "iconPath": "3a09c604c70d0b360faec6d6a45a2eab953632294171ad6a1fca26da938d658b",
+   "iconPath": "422347c4b848a0139df4f87065422aba8370b4beb70e0cb3f31c7121e570cf16",
    "typeDescHash": "秘技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1597,13 +1601,13 @@
   },
   {
    "tagHash": "全体攻撃",
-   "descHash": "EPを<nobr>#4[i]</nobr>消費し、敵全体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>ダメージを与え、さらに<nobr>#2[i]</nobr>ヒットする。1ヒットごとに、ランダムな敵単体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>ダメージを与える。",
+   "descHash": "EPを<nobr>#4[i]</nobr>消費し、敵全体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>属性ダメージを与え、さらに<nobr>#2[i]</nobr>ヒットする。1ヒットごとに、ランダムな敵単体にアルジェンティの攻撃力<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span>分の<span style=\"color:#FFFFFF;\">物理</span>属性ダメージを与える。",
    "ultimateCost": 180,
    "break": "60/hit",
    "energy": "5",
    "id": 529701,
    "name": "「我」が授けし至上の勲章",
-   "iconPath": "a17a86a8ad017efa58feca8198e3f1b864ee0cdde032b5afcd4eedddd65af317",
+   "iconPath": "a42b67ff81603da27a62f9d93e318e66a5597440d4895c5970e29b4835265164",
    "typeDescHash": "必殺技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1937,7 +1941,7 @@
         "name": "攻撃強化",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻撃力",
@@ -1970,7 +1974,7 @@
         "name": "HP強化",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
         "statusList": [
          {
           "key": "HP",
@@ -1999,10 +2003,10 @@
       "name": "ダメージ強化・物理",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+      "iconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
       "statusList": [
        {
-        "key": "<span style=\"color:#FFFFFF;\">物理</span>与ダメージ",
+        "key": "<span style=\"color:#FFFFFF;\">物理</span>属性ダメージ",
         "value": 0.032
        }
       ],
@@ -2028,7 +2032,7 @@
     "ultimateCost": 0,
     "id": 451432,
     "name": "敬虔",
-    "iconPath": "664572d31af7d65677d6577a56e7215643f5ae856cc27207c0fe71dac42f04b2",
+    "iconPath": "c084e7e79e78f9fc3e3895e54857a2629534d52bc399f1327d5dcde4eba170a9",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2077,10 +2081,10 @@
         "name": "ダメージ強化・物理",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+        "iconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
         "statusList": [
          {
-          "key": "<span style=\"color:#FFFFFF;\">物理</span>与ダメージ",
+          "key": "<span style=\"color:#FFFFFF;\">物理</span>属性ダメージ",
           "value": 0.048
          }
         ],
@@ -2110,7 +2114,7 @@
         "name": "攻撃強化",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻撃力",
@@ -2139,7 +2143,7 @@
       "name": "攻撃強化",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "攻撃力",
@@ -2168,7 +2172,7 @@
     "ultimateCost": 0,
     "id": 451435,
     "name": "慷慨",
-    "iconPath": "4dfa9c97c81720488047e065ea6cf0aa2709ec40fd7292eeaafcc70ce71a40b2",
+    "iconPath": "0f2e1c5f7ee4d87ec669043206d27eee4a8e03bafaa5d5d3fca9117d662ac033",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2216,7 +2220,7 @@
       "name": "HP強化",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -2249,10 +2253,10 @@
       "name": "ダメージ強化・物理",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+      "iconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
       "statusList": [
        {
-        "key": "<span style=\"color:#FFFFFF;\">物理</span>与ダメージ",
+        "key": "<span style=\"color:#FFFFFF;\">物理</span>属性ダメージ",
         "value": 0.064
        }
       ],
@@ -2278,7 +2282,7 @@
     "ultimateCost": 0,
     "id": 451434,
     "name": "勇気",
-    "iconPath": "f6d4c3247e9de6fe11f7e57c9118517239ac51cb8e9b64fabab559e9d705c24f",
+    "iconPath": "124608de3fb5fc40bb7ee66421851079d69a26bb11b1538285fb3691898ca26a",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2322,7 +2326,7 @@
     "name": "攻撃強化",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "攻撃力",
@@ -2351,7 +2355,7 @@
     "name": "攻撃強化",
     "levelReq": 80,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "攻撃力",
@@ -2381,27 +2385,27 @@
   "props": [
    {
     "relicTypeHash": "胴体",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "会心率",
-    "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8"
+    "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695"
    },
    {
     "relicTypeHash": "脚部",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "速度",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "次元界オーブ",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
-    "propertyName": "物理与ダメージ",
-    "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176"
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
+    "propertyName": "物理属性ダメージ",
+    "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69"
    },
    {
     "relicTypeHash": "連結縄",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "攻撃力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2411,210 +2415,210 @@
    "title": "初対面",
    "text": "僕は「純美の騎士団」所属のアルジェンティと申します。1輪のバラの重さを以って、ご挨拶させてください。",
    "unlockRequirement": "",
-   "cnUrl": "50359dfb1b102428c82138fbfdb804ccc56e7b3739df3eed0a1fcce9951f9130",
-   "jpUrl": "ff2568552e5af6834403d33c78cebd699772a61fac9d4eef95f0e27dca882a7a",
-   "enUrl": "d8e6af7f7e68268193ba77381b82fc432285ec20810e52fef5921edc5e7a69bd",
-   "krUrl": "15f9b861e330b08641ef74552aecab773bd6ac243654978e588d1ca716f7c4e7"
+   "cnUrl": "ae4a8a481d5667766a4ca4adbb503d7d9265c406967958c0ded9c5fc2c0b81a9",
+   "jpUrl": "acf50a5a0c70d35826c64b0731893a6e3f55147bf88a910304af72e25caf6afe",
+   "enUrl": "7131a4addad0c87e0ac0b5bb06949996f50f55e5b370292de9fca6e6cd6320bd",
+   "krUrl": "220536f78e8aaa0591e0709455fde9765f25efe59c91fc3f72dc81ccd1a4821d"
   },
   {
    "id": 2,
    "title": "挨拶",
    "text": "もしトラブルに遭遇したら、絶対に僕に知らせてください。必ずやお守りいたします！",
    "unlockRequirement": "",
-   "cnUrl": "0006274c1259a57fea9f25830270815b34f1cf332cd98635f3db5fd8e29d1a94",
-   "jpUrl": "f927968f498488062d2beeba2c5cc07aa40936ca92cf8ebf93443dce7ad3c2f6",
-   "enUrl": "33edc589eed395a978478b2d7336d48e86bdb5ad5cbc18bd3969f055e7aebe02",
-   "krUrl": "3cfd57b7fd19744f38a1dd2009359440d11435dc1a06b3d64aff0f0982c4cf10"
+   "cnUrl": "3f25b52dd5bf44f7eeda0c9b8a8cb5bea76339b4cf00bbd7852e0dae0f7ed186",
+   "jpUrl": "f3648dff47e0c85f9792062cf418b9e239ece6fac6d6c39a886ff7433a13afe1",
+   "enUrl": "582c6ca833ab99ac82458aa3bdb1241b63e0ce9583d16fe782d59b017341774b",
+   "krUrl": "1c4d8c0a15aeea0f641487f7dfc60fa2229a10c9e7e444f7b378af4eefceaf26"
   },
   {
    "id": 3,
    "title": "お別れ",
    "text": "ああ…僕は責任を負い、宇宙を独りで歩む定めにある…お傍にいられない僕をお許しください。僕たちは、いつかまた宇宙のどこかで巡り会えるでしょう。",
    "unlockRequirement": "",
-   "cnUrl": "68c7e7e79fe5f4977f03d6de5f2c34e9be945a6439b78cae29d2cf1ae81212e7",
-   "jpUrl": "56ad33aebeee37e8f1d17612a2fda08be616ea4134be1cb279c97f2366da5f00",
-   "enUrl": "3d5c531ac534886cf6c36bc5526df8e576310ba92f35c28c36f312332bf74ecb",
-   "krUrl": "8596d071535efb1b2cc5877a6d1c8641d01db0ad39d9111c73db1baf87659736"
+   "cnUrl": "0d8ddfc57698694351ef483cbe2f5788d35ad94334bdc30e21ffa269ed72c9e3",
+   "jpUrl": "64fcdb0d5eb692bfab16274683d1e2dbb1dc153e63ea31bdaf9f9f821d058ba8",
+   "enUrl": "20f21fe2ff92424be9ed4bad49c3d691b6eec7b878335d803dd20b43d8c54409",
+   "krUrl": "10fe5ab70e1af20c64e2d8a71a0f8677a8b3fee29523d5703b85f6ec19db3e27"
   },
   {
    "id": 4,
    "title": "自分について・身の上",
    "text": "僕は純美の騎士団の「叙勲騎士」です。精巧な彫刻が施された鎧は僕たちの象徴と言えましょう。",
    "unlockRequirement": "",
-   "cnUrl": "2dcad145cad3e50d7de3ecf0b2ab3b09d6cbd3e3b9a7370301b0adb5c733da75",
-   "jpUrl": "c4dd63bb32db8f81ea01b70efd66add24572f288570fa63474b3cc6268d51360",
-   "enUrl": "2f771c2d210cbc6c5d6a161c923a9ad4c2df5fb24b4af04e25a73668b82a33ef",
-   "krUrl": "223f243dfbc5cbb7306830cc71355c366e335cd35de6b8dca811847041974d31"
+   "cnUrl": "38fdd7d3368543b3e33578c8211749f0d9cea507885ed690f745c779294b826d",
+   "jpUrl": "d56907f4871baf02ba828d6fdac06ceca94e6cea2ff7e6b4bad173c1e78a5c9c",
+   "enUrl": "6b7f282936eaaa1ff59084c0659fda412a5aa18b8958365cc3b0be8c1a82586f",
+   "krUrl": "c99aa1a8eb1a7fb6cc1151fd3d79fe63cf00991947c73aa015a6c302f9db6c13"
   },
   {
    "id": 5,
    "title": "世間話・純美の騎士団",
    "text": "純美の騎士団の団員は滅多に顔を合わせません。しかし、僕たちは同じ「騎士道」のもと、それぞれ異なる星を渡り歩き、宇宙の隅々までかの女神の美名を広めているのです。",
    "unlockRequirement": "",
-   "cnUrl": "371211a07385e3e4f2d41ff66a3eadc0b7000f5e287b022becada5f883e80110",
-   "jpUrl": "42a9c574011191546c3d97001e7f379c208f57a3bca478a163b5994d66a9b544",
-   "enUrl": "0f8a9d480a3c95b7a2170518ec8d58e2f6cbf9e32db91fe4744774c6b32588da",
-   "krUrl": "50013a886b2046c7c14eda519f47a98d9dc382dd9be5ae50bd28dca532f43404"
+   "cnUrl": "ffd958d723e7d16546ccd2b9bc966574201c220846e70b2e278ee8d4561341b3",
+   "jpUrl": "2384f695fb0a02771a71779eeb5f1f5f429ba7fa21a9232451c282829de12b9a",
+   "enUrl": "5b20b8bc2e9960133307ae62554bf0eacf7d5a0017b1c66883a3f3148169d391",
+   "krUrl": "4cd82c5027021e06a6764a87ec3a34bea8d29b366fcf6e29032ff2c31dda978c"
   },
   {
    "id": 6,
    "title": "世間話・プライスレス",
    "text": "宇宙船には「プライスレス」という名前を付けました。掃除するのが本当に大変で…外形をここまで複雑に彫る必要はなかったかもしれません。",
    "unlockRequirement": "",
-   "cnUrl": "8db5d78dcc593f10dee8400ed4a8475e4de20a3b27562b5cc0c8c4ef20e60f85",
-   "jpUrl": "27b233443d5f3542ad11c94b7e58ea75bc67523ccc6562d77411eaab1a532694",
-   "enUrl": "6bee7e7c72d6abdd0d4451e5a19f7684b478d6528aba822a0b23421f015864c1",
-   "krUrl": "3c00fed03d73d5a8973f1b8d645bad339e6042ff1e78cd22cc200502492f38f7"
+   "cnUrl": "22b93d66bb22035a897f68427d1609725a2abe58b2892823dd728d0905186afa",
+   "jpUrl": "0eb06900e6b63a734bde6c681c070a69bc8dcf861197d3dcc599f06e8fdf8fac",
+   "enUrl": "d9e3aee8e6cd3ba928875fffaabe9ad81869836cb9ae21a13aceff4b711a9455",
+   "krUrl": "57fc25a1ef4ca4316ca64c518f79747d17614d5e94f02743e0e852f106b9de54"
   },
   {
    "id": 7,
    "title": "趣味",
    "text": "僕はバゲットが好きです。ランスでスライスすれば、保存して持ち歩けます。長旅には欠かせない良いものなんですよ。",
    "unlockRequirement": "",
-   "cnUrl": "6736ac579bdf7b77d5ec96b43be8a73ed687b75c1d049a11ebecf7a6be0d5895",
-   "jpUrl": "35d66dc0085b8ba10d617b3211cb632a2ffe1953e5ebb98102f520b9ab1ce06b",
-   "enUrl": "2b28222aeb2e3ea52a4be2e6bb99b5ea79e5e279b60a4d09f663a7172dbf0bfc",
-   "krUrl": "8f0a2daae900967331da7a47033977e5c73cc1040fab94866d166afdbda34316"
+   "cnUrl": "488e8f4c7f0fa3ef42e874dc23b4a840c4db7bf8b6736f96bfb8dbde7449f63a",
+   "jpUrl": "2846cfaa629ac48e4264648b69f7fc50cf3544b7bede255d95219fcff603a599",
+   "enUrl": "95b4b50d7442ca5e54e004e11ae7c0d2c5e650cf8ef27e8bb178bb99f2fcd78d",
+   "krUrl": "4d85dde89cbf1f6b728c34a60cc8193b12075f3462bbacd022f02d92f99eb3f2"
   },
   {
    "id": 8,
    "title": "悩み事",
    "text": "スターピースカンパニーの様々な娯楽や美食は、どれもカラフルでインパクトがありますが、僕はあまり詳しくないのです。いつか、詳しい方からご教示いただきたいですね。",
    "unlockRequirement": "",
-   "cnUrl": "da4b6e1c57596cd65954d9a3309eaa43bc06197aa0fad685f1236328d6219a68",
-   "jpUrl": "750db7bc609eaf67b883610281ad742c26e7f0260e1d16449a518014fb2f6cf4",
-   "enUrl": "056eb342b448b4d608c9bb814d13153febaef8eba077a2fda3b8cc33aa05ecef",
-   "krUrl": "f9fe4c4882c2c3b422d5a56cb424aef09a779a1b9366dd6efbe2da5c2b212a85"
+   "cnUrl": "1a493c25650fcc3880d60106181509d9a1e678110326781211292d1604b34eb4",
+   "jpUrl": "8a6b28588af7df20ed898b5b2719536b0f22c18fc66fba48a3206da900e59010",
+   "enUrl": "5e972ea386f6538445f006595bd21f04476442322d36edee8c7664614dbc7d4f",
+   "krUrl": "34d46678978542fa9f9230a23e119486596edf4534997afeb6dd547ce22713aa"
   },
   {
    "id": 9,
    "title": "シェア",
    "text": "ある星の風習では、本のページで改造した義肢を拭くことによって、知識を直接神経に送り込むそうです。これにはとても衝撃を受けましたが、同じくらい素晴らしいとも思いました。",
    "unlockRequirement": "",
-   "cnUrl": "bb9abefd2f692457b573509c2a1ead55453d7a55b7c90fbde33f3f1af365a8d6",
-   "jpUrl": "d126192ab4e9f67a3f20311be77e92404ce73414e3d067a788f9f33f3238a793",
-   "enUrl": "c232f6da3bcf08d8e5ebc35e13f4c4b0883df06fafe7c5d409aaa86cee21161c",
-   "krUrl": "b9e6fe68f27cd418237dd63b575c031351007d6471b03674b5e954b39af17bb8"
+   "cnUrl": "64b04f763d47643161dfedaadf3faa3fedb80b87c20ecb075682b07d729e5c67",
+   "jpUrl": "33accb9a11b4f9dfedddfe4f73eed22043e5d66794dd089159e67856dc3f2941",
+   "enUrl": "1481407085b7bceb9551b30490b0365b7b4cb46b3807f0a390fce894dc75176c",
+   "krUrl": "6d7d0f775d5647aca85256265f29ea61821f73f78cc0d254d6a7570d2dd7c6bc"
   },
   {
    "id": 10,
    "title": "見聞",
    "text": "「醜悪」が存在しない星について聞いたことはありますか？面白いのは、その星の人々には「美麗」という概念も存在しないということです。",
    "unlockRequirement": "",
-   "cnUrl": "304b8dba33e5b50be319b5dd2696761e868373e5dc6323dd6c34d04eed3c66f0",
-   "jpUrl": "39a16283d30a925ecb04f17eaba03564307176a28c2d9ce2f2e5f193445ce2eb",
-   "enUrl": "bde49e5e22eb9695a400edcff7ef5d24fb7f4d5efc0a19b1bb13e868964daf56",
-   "krUrl": "cf4409d305519e7704c285d3264de05e05a1c8f514d9f804a7e37caa7f0b43c9"
+   "cnUrl": "8f27e4597388e503c049908c66abb6aa63782c15c18fddbf9b0025fc753f0403",
+   "jpUrl": "7e825178f27c4409d0818a5fe9a59eb15d83b974f88a74ccde6b0e97ec76445f",
+   "enUrl": "603288fd900153d0cf9807856b4bb9142f3247e9bf32c93f1f0af7794f39ca33",
+   "krUrl": "3dca44cc01b97b1b91c91b97c8a1e122425d910818efb7d42c29772bc116633b"
   },
   {
    "id": 11,
    "title": "三月なのかについて",
    "text": "三月さんは純粋な心を持っています。あのように善良な性格を持ち、行動できる方は非常に貴重です――銀河には、低俗で利益しか考えていないような本性を持ち、口先ばかりの人間があまりにも多い。僕は彼女の天性を守り、尊重を捧げようと思います。",
    "unlockRequirement": "同行クエスト「宇宙幻覚の夜」をクリア後に解放",
-   "cnUrl": "fb7b05ec5ba2da9faf320e6f830f6b3656692ceba86fe29b3abf488e4625c182",
-   "jpUrl": "16cccc56dbec9678d4d65a0254614db70e80a1c927f6aae6833e38944ee2c243",
-   "enUrl": "c1f72a92f6df1de3574e906e4fe5177fa8e6b5a7d393f7bb399c96811184ebdf",
-   "krUrl": "d12eb2bbb7db7c7bd436cae75a5e7b79bf51ee5cb3cf2366740e6b38299a5de2"
+   "cnUrl": "2a67778d814216d6fd5329ee8052dd3423d7940357093eac1c51378534756f2d",
+   "jpUrl": "79815be25fc73e19de61708eab69060fdecccd33a3cf27bf7daeeff7a82dfea8",
+   "enUrl": "6793df925609ed1d3eb4c4b4b26bf232e80aded309355e999c2ccf8c33e0742f",
+   "krUrl": "4711fd200dd6bd98db765ebbc525ba585b3c4783ec8ecd218d0088b5e801eca0"
   },
   {
    "id": 12,
    "title": "姫子について",
    "text": "ああ、彼女の魂はなんと高貴なのでしょう。長く危険な開拓の旅は、彼女の落ち着きと勇気を摩耗するには至らなかった。僕はその事実を高く評価しています。僕もそのように理想的な品性を持てるように、今後は更に自身に厳しくし、邪悪に対抗する決心を貫くつもりです。",
    "unlockRequirement": "同行クエスト「宇宙幻覚の夜」をクリア後に解放",
-   "cnUrl": "28ec3be524c09216e7e3be2884a43ceeed93aa7f6bab2157970d243d751fa153",
-   "jpUrl": "73e66c912d9f90cd84a7607d69e1f330f7f8836cfc6b6ddbdb29d7d7cfde41ee",
-   "enUrl": "033b00936cad36577f3d37faa9cdd1e22b90e77df911b15542a7ecf65a0ec73c",
-   "krUrl": "b96061a661b36d252d41dcd1278ed34f34acbf215e9c38a3b16b20e4719da5ab"
+   "cnUrl": "0eced3479bc14f4cdd3fe0f89c1f6d1f38d979e9e6e4383a751d61605a110a6e",
+   "jpUrl": "5bab4282d467a01e73c3d07415195b7fecfdf5044d2971622ebf2d4651485946",
+   "enUrl": "572b15ea2efb330334fdf92117876998dfcfc9848f6c78eb4ff08abe8b516da8",
+   "krUrl": "fe2a8409127174d5cd0167e6ba79c1779a0ae6d1d565065236ff706f404dc6e1"
   },
   {
    "id": 13,
    "title": "丹恒について",
    "text": "丹恒さんは常に周囲の人を警戒しているのですね。彼の行いは常に正しく、騎士道のように自身にも厳しいのです。ああ！彼のことも「美しい」と思うことを、どうかお許しください。",
    "unlockRequirement": "同行クエスト「宇宙幻覚の夜」をクリア後に解放",
-   "cnUrl": "75fa981e81ec2899a8bdc189753385cb3faf37effd5eeb9dace803810b3dd18f",
-   "jpUrl": "f1b97b62f98d7409f63e97d64d6d9def9d33919b952d4746e4b03decce838168",
-   "enUrl": "b54e1a83bfc3b5424113ffd5ff647ef5d74c4865332e9910f89570f71b621f97",
-   "krUrl": "055ae33d7a21248c5619eb146b819cb49b3a530e93afbb57f64d26df18679324"
+   "cnUrl": "58c7ff9e159b70d7241807b7bdf4df41023127acd73f895c476b8a127b9c25d2",
+   "jpUrl": "d47989dc73fad70471de6e0890a5a3e155d1eb4b31c3c9edfb09a624bc80346b",
+   "enUrl": "7a01f62b80ae44473ddcc22139e9e79148026a638b035273477face44f16fa5a",
+   "krUrl": "271040c3e01257df375e7eb7f51116a08864dae9f6393883f7bf6a53d2a05ab5"
   },
   {
    "id": 14,
    "title": "ヴェルトについて",
    "text": "流れゆく時の中で、彼は依然として清らかな心を持ち、生活の中で最も純粋な喜びを大切にしている——ヴェルトさんの最たる魅力は、その成熟しているところです！",
    "unlockRequirement": "同行クエスト「宇宙幻覚の夜」をクリア後に解放",
-   "cnUrl": "e14668e2adfd47ee1cb0be51c9b89cabacc322825e43a58166e1bdafc1455271",
-   "jpUrl": "844b2ffcba8c682cb2bf393556ac108ca93b1dce6d88b20ee6665b8e21064947",
-   "enUrl": "5f4b7dccfec034213c2e21c6cf16eb233432887b7bf915abfa1cfcc734fe30bb",
-   "krUrl": "24be4545cb0760baa8f93fca70a5fe59439ac7d8e59851012dedaa45add5fb1e"
+   "cnUrl": "a40524baf462c2bcf4aef121fd3083f7fb50b46c29c0e6e09149449cdd26a00f",
+   "jpUrl": "e96412740b540e55b3a9814e07185601259d85f61bbd6028ec6cbaad94286af1",
+   "enUrl": "4327080e15f7e4909f1d03f948685b3df0690b086f5c272f492251438fdd4cc3",
+   "krUrl": "a58a317b99f88684f34e0ba88d4872e1e2f552e4445791f1bb48e33af84c0d9d"
   },
   {
    "id": 15,
    "title": "パムについて",
    "text": "なんと「魅力」に満ちたフワフワなのでしょう。パムさんは騎士の肩鎧に座り、「栄誉」の象徴になるべきです！",
    "unlockRequirement": "同行クエスト「宇宙幻覚の夜」をクリア後に解放",
-   "cnUrl": "1414c90ce709bb9745b41cc2bd46c594c47ed995887a8c7976714b0905ae1f49",
-   "jpUrl": "4fb151c70cf05a5aaa89966debf498706dcde575775caf30243f23082360f049",
-   "enUrl": "ba987e33668c6cf6cb2457803987f46d9ab9bd3342cf4e5132b42ae6e47b5ad5",
-   "krUrl": "1b1b452a335f21e8e1cbbf5bf190d3027e97bc2dfad466332bc38617958fa69f"
+   "cnUrl": "517aa9385acab51aebf77a909457919b64c98c1e22be4a67276c1c480fda8389",
+   "jpUrl": "ab4e5bd65d45a9565db127881f12130094e74d68463eacea901e1215bf23bb79",
+   "enUrl": "3ff00749f15e38ef7852ac5b8e423273a82061269b2ea04ce3e7299f49dba7ae",
+   "krUrl": "0f246caabe58f06d6313c324cda875da479f1fe5818ac82c67bf834bea70739f"
   },
   {
    "id": 16,
    "title": "ウーウーボについて",
    "text": "ああ、なんと「魅力」に満ちたポヨポヨなのでしょう！",
    "unlockRequirement": "同行クエスト「宇宙幻覚の夜」をクリア後に解放",
-   "cnUrl": "63c572b924d90a5f51ac9fb04b801139bf64adaf570110f268d34912f54ae3a6",
-   "jpUrl": "8e6cfcf4b55d89d11a24fcdd281af185da4814f4768ec2ed79956067f931eb58",
-   "enUrl": "42ffb73463f1c9c3021889c414cae5936b09ffbd89fc3c0db21a6f335c1d935e",
-   "krUrl": "ae3213206045f8da434384fb3ee805bf792b0d39e4209000a218cf3ba395b666"
+   "cnUrl": "7debff93237abbf7c1dd5fa1f76688ecd220b81158a67a3cd062d91ab2eba06b",
+   "jpUrl": "5467035866a2469c7afa2ae67307238fffdeaa96e489645e47037304d8f8de7d",
+   "enUrl": "ba4e7114159de5e3661c42b45850ca115ac13913f4d9775b6e08161daeb8aab4",
+   "krUrl": "d7db0692b60ca72e4d8a62fcc46ae9cfd5a024569eeb2b48dfedeff0812aa87b"
   },
   {
    "id": 17,
    "title": "開拓者について",
    "text": "貴女/貴方の性格は、終始、知り合った日のように不思議で面白いですね。",
    "unlockRequirement": "同行クエスト「宇宙幻覚の夜」をクリア後に解放",
-   "cnUrl": "481e8cd9796a79dc1abc5f018c68d43717d4e4767ca362ee4c65b09ddd5c58e0",
-   "jpUrl": "5596feeb4a5b6f57088e0977839fae930f568e6b54d6c4a4a497be9ae163d933",
-   "enUrl": "10491d22ef1fa45282179a9efadb7357f6694bce48bed6a6fa203a3b3eeb0971",
-   "krUrl": "e65a8af01f2b56afd926f7930ca5e9d4bb7bf16e56de295f6b345cf984ffe7f3"
+   "cnUrl": "d20a8b19b61587a098be32c99f37f2cd20bd293f636fcb1ccc067b61f93bb758",
+   "jpUrl": "b0d8ec787d14a48b1f914084359e8ec6759baecc79b94302dc4da80d3456a600",
+   "enUrl": "54df0c04467f56d246b56cd4f7de190252ec90f5defe45705b1c9c1a337904ea",
+   "krUrl": "60bc2b3feb0546de7c29393df35421e5a9a1aba9b6e7312273308aad4914b9c1"
   },
   {
    "id": 18,
    "title": "星魂覚醒",
    "text": "「純美」はどこにでも存在します――目と鼻の先にも、壮麗な星河の外にも。",
    "unlockRequirement": "",
-   "cnUrl": "5d4d9336c63696ded9816a6f834b4bd8d75eba150bab25d854b95851ceaf4568",
-   "jpUrl": "7537ea3071fbdd69f28fbeb76af925071df8e2c467b524c65b917ccabad754e6",
-   "enUrl": "19c8bce93f55be7c367961b2874e140278b75c5f9bab359a3107ffc13ed6320a",
-   "krUrl": "b16e682ffe8724b60bc739372a2dc765d653f47b46adf40210623d5290783529"
+   "cnUrl": "c00256d0813b216f9d569b5800d2f5a4f6d7a64a1fbe2b6dd1fed0bbab66ff64",
+   "jpUrl": "95fca2d459fdd5de6e7b73a8462cc3a18ee6fdcd94db43db98950a9de53c2ab1",
+   "enUrl": "587d486841441dd7516f6dc054d2b4851c03094e5e2f7795a945f9ddf13adbdb",
+   "krUrl": "14f18af7a3961018f394751d85edb3639b66cfb00c3510a93baa247ab17cdd50"
   },
   {
    "id": 19,
    "title": "キャラクター昇格",
    "text": "一歩ずつ進めば、窮地に陥る心配はありません。",
    "unlockRequirement": "",
-   "cnUrl": "866b0e4c0bba1799c10028f93b9ae72a58b0d89fef76d14ed18c4f04cce5dbff",
-   "jpUrl": "6f4ddf7107a1242692ac531db832acbba92e4728c73bd35af0ebeb8402b198b0",
-   "enUrl": "f5c474a2c676a6c5f08d7ed090747121c0147f3f82a2a81c6ac858c542dea9cd",
-   "krUrl": "02cec685491da05a828ab6591a0dfeb4f8abfbdda041815885d4f4310dbd527f"
+   "cnUrl": "8e076df77e784e8cbf8a0da4b2312120e6d10ad0cf02e97a9259fc5982cacc69",
+   "jpUrl": "64abb0096dc0303fa3e4ee286b03211273dfdc2141f49e94245510365bb0479b",
+   "enUrl": "c94433aca7ba346e8b411fc69c75af6f449a378b02ec1de67e07787f4393295d",
+   "krUrl": "112b488b0c03013211a17d85b21d5003c26cf4f3e35963e27c23b63363c7ce63"
   },
   {
    "id": 20,
    "title": "レベルMax",
    "text": "僕が死しても消えぬほど、「純美」の盛名を宇宙に轟かせてみせると誓いました。その誓いも永久に残るでしょう。",
    "unlockRequirement": "",
-   "cnUrl": "de490fee5aa60d73bf98554816f820c490600dc5d132a801715103f0b96f15f1",
-   "jpUrl": "90548229cca109a03990873b356e76e6c17ed584b1f4de110d0e05abe0a35fe0",
-   "enUrl": "ddb43c22407fefcaab9e0cd15530933e447cab892f285b297ad2f36c1f119a19",
-   "krUrl": "3a90517ec6e2f1b5a1e569db771ed56098b6afbec99e47350357dd6c5e4605b0"
+   "cnUrl": "1d9343987722f86b5d5c918a20d87d27cdaed5d92bf8eaa457b0c4f68eef5815",
+   "jpUrl": "7c45f34f0b298ecd3d143e2ea111a0a870356787f612333188a8e5152aa6b74c",
+   "enUrl": "fb0b3e852fd582e02846d4bf6d8bbdd49df1b458ce1ac9c3a54a3b34e23e3f49",
+   "krUrl": "34e13b2ee34f9a04f68c4cf186562458bb1b71a4469bb5624a0c290b61da6889"
   },
   {
    "id": 21,
    "title": "軌跡覚醒",
    "text": "騎士団の皆さんと異なる道を歩んでいたとしても、僕たちは終点で出会うでしょう。",
    "unlockRequirement": "",
-   "cnUrl": "551a8fb6a0e563211cb34c925ef8f4f01918bec661fbac848a6fad4f7c74f8b4",
-   "jpUrl": "26c99a9b3bb3cf84b8da107227fd0603113c0c4294b4650e9f5a4eb30de029dd",
-   "enUrl": "9f497899488d5f2f418d9d1d7a9be463968912609b808f5f519cc4f2974c2f0e",
-   "krUrl": "999e65b0ad1c613cd200ce9d32e1391767e447787319ae6c01094bc14a9e7b0a"
+   "cnUrl": "d9773ff5a31898375fae4bf7bbc44bcc89b4052e96c6d17b5686cedc988f409c",
+   "jpUrl": "67990fe252d48cca2b9ca065d746495865f4d9f6ceb3ea6db04a09a54e570676",
+   "enUrl": "de7d0ff9bb0f78656c19e7ba039283b11bfaf58945a49c7d1ac7bb746305b5a8",
+   "krUrl": "b38dcf9f0abfe942fc3165b5fd2d0040c177a6c63c5ab6805373dc47af5a9379"
   },
   {
    "id": 22,
@@ -2631,280 +2635,280 @@
    "title": "パーティ編成・三月なのか",
    "text": "三月さん、貴女のために戦うことをお許しください！",
    "unlockRequirement": "",
-   "cnUrl": "ed1ddb6aad97feda97fac30351fd1a26229ce6eb2c5185b0c27df5a0de461301",
-   "jpUrl": "68e4776a38c1b5a9b9e03905ad91ccb0718d0ee437bd75309a0f0a6a06d5afa6",
-   "enUrl": "e693ee0de4e4bbe650f21ffac08c5a593c57e090b88e65ecc2a37632b5098eb5",
-   "krUrl": "8227287d50b5f69836d33a9f339d63b2e6271b7f90a125d94af3969ac4b8304c"
+   "cnUrl": "22345a3661f35dfe01a50d366a983f6e7a45b50a5c655be397a6ba63836452b0",
+   "jpUrl": "a59bd4696d80713c1dbcb66869a5e5631b46a335495093d75c6bbc7572ce8544",
+   "enUrl": "427a86cec1355b66bbc29297791ae0fb91811f63175a943a93c5d0e8e891d365",
+   "krUrl": "67c03eebd3a4891a798a7530c4e13167f973edf787dd725d6b3f17fca6e7f920"
   },
   {
    "id": 24,
    "title": "パーティ編成・丹恒",
    "text": "丹恒さん、貴方と知恵を競う場で共闘でき、光栄です。",
    "unlockRequirement": "",
-   "cnUrl": "2c6c44c68ec2e15a3d0d0d10128456d2fe5ea598161a04b6307cc05926d51b44",
-   "jpUrl": "fe85a2720b57f6ec19094f2e2f876092b4464768d3c60f07fa27cb0db6efd5bc",
-   "enUrl": "a0dad0022553b20cda41a8054c3da612a7ca41776eca7eeb07e8b4e693f7ae26",
-   "krUrl": "955e88fd75331547f253111272b2fe98ec73bb28b8946b48ce2b574adb5935f0"
+   "cnUrl": "dc89c3447cd4512406470519cfc6b506fcfa2fb5b880b8e8ce0d8000e44609fc",
+   "jpUrl": "9d0eede9f7458523cf42249955c6b8a8d127cdf6e68e23c510b1dd08a512c172",
+   "enUrl": "833a849d04ccefae8e6fdce59a64d2cae1bf3bac440230234794374ee494a708",
+   "krUrl": "a1465851aecd231d563dbcf3e64dfb54a709b9f5abc0d5b7127349c5fa2e8d95"
   },
   {
    "id": 25,
    "title": "パーティ編成・姫子",
    "text": "姫子さん、やはり、貴女の勇気の及ぶ場所には、星海が広がっているのですね。",
    "unlockRequirement": "",
-   "cnUrl": "496d2f6212d7ce39c6340a1e47717105033035c3d30bb39bb94f05f33da04066",
-   "jpUrl": "ea84253743d379511bc7af50033e63cb8634f71f4fbd8e87cc86437b9b26884c",
-   "enUrl": "55054f1c836a4c05069c8ed6f7328ac5eaffe614060384be6d8620722b070277",
-   "krUrl": "72cd749c6cb2b2b80668caad5ba26f09cf6ae42157c0f7218809add13d95c3fd"
+   "cnUrl": "f02d32cc60a1a81eb9c5c97410b4d412d425cae35b8e27b91e32fc8202e6c691",
+   "jpUrl": "d5cf20ca6d4764037d7decbf8e9ea74f075447dd18b637314d63dffe754c4ce7",
+   "enUrl": "69ede3935082c855de560dd1b95bd7a49853fd5a9485bf147888a8238b9e65ff",
+   "krUrl": "7f8db7e9d8c70ddddcb06ff5d4c8c1e5fa2f8d6de47123d68e2228ee60fb7652"
   },
   {
    "id": 26,
    "title": "パーティ編成・ヴェルト",
    "text": "貴方の遠略で——力を貸してください、ヴェルトさん。",
    "unlockRequirement": "",
-   "cnUrl": "93a013877982973cdedd670d75bafb17dd3c8b9a41fc11e97396e3e7866814e2",
-   "jpUrl": "820405f78d381e2153753c2c9bad7762071825d0e6282dd3f9214e942cf594f4",
-   "enUrl": "2e9176bb442c8118186fb0cc2b348d12844c1a12861fc52f836758b46b34da2c",
-   "krUrl": "161f6b3ab357c8be31a0fa74d0ba6230ac192dc72aaa32823347196f766e46cd"
+   "cnUrl": "d47a84c18bb7bff8178cc0b9c289f3fe9f105ba831300021aa2c4dac313549ea",
+   "jpUrl": "3b850aa641872c27ae3dc1cfc57ce39af60bd78cc3e560ae4524bae3b0a8a888",
+   "enUrl": "8d7c046de063b33c27b11025809a7939fbc8266bdb9c48ad2cdb3e9e0bbb2862",
+   "krUrl": "4aa7e14baad0bdf3ef5b83f70f80e3ee607c187acc42bc827e28cc26c713d6d9"
   },
   {
    "id": 51,
    "title": "戦闘開始・弱点撃破",
    "text": "これより善を抱くのです。",
    "unlockRequirement": "",
-   "cnUrl": "8c58a943161e30c69285c7cd199e7581ddc748966512d8aecaa3af654e32374d",
-   "jpUrl": "0b193bbf6f032c943b63ef322dcc09991cb571edf2d0251d515907e04796c8a1",
-   "enUrl": "20b28e066ce7643ce16f28ee7d5c1c2f9b4c2222fe0f5ecc1fb3f413164a990d",
-   "krUrl": "b14b47641b6ea6bcf95760f05dbe73f566ab5ccf56c08f3e6b00cc2e69e2d33b"
+   "cnUrl": "1e0eaf34d12941876eed0a77cb37a06127e53bd52ad16d73814ae9dd3101edc8",
+   "jpUrl": "4373c2fb2be37378c892ba5505bde380db009c3e053294833323f04ba92bc80b",
+   "enUrl": "bf94539ca92ee846432b1ba643ea3a70c86b5194abf53345d1381ee9fa9e6421",
+   "krUrl": "16601cd2b5fa8daaf43cd858452326661965ef82c009dac60dc783cb4775bc2c"
   },
   {
    "id": 52,
    "title": "戦闘開始・危険予知",
    "text": "しばしの陰りに過ぎません。",
    "unlockRequirement": "",
-   "cnUrl": "6a8ff64027cadb4641687026402569ca499d5af5742a5d993993dc97072043eb",
-   "jpUrl": "006d0618e51fd5ea4b325b17cbc782c129410b96780e1a325dbb1a2f443f5106",
-   "enUrl": "710fcc9f557014f40f6a814e5bd2e87d0d8efcee5b6a0a9c8b008076967d870d",
-   "krUrl": "9e7f2ec2f766972e17d550a9549ac597a12ccfd3ddc63774bb10c6bb43acade6"
+   "cnUrl": "3f91c21d1d438e2b11ebf260dd28cb2eb79c9a0343a9c0449339b79fe1e50bb8",
+   "jpUrl": "54d272d0824e71616011062ab05108b3442e7c1b07bfa550eea6e3b8afa3d605",
+   "enUrl": "d7784acc6d44af1e195e863919cfa6b8f0a83d05e2dfefde4516e9538e5c8eec",
+   "krUrl": "c8937a4f7388edeb829643dd131f6152c6bf5a865d1d643afa7edb11eda6bc3a"
   },
   {
    "id": 53,
    "title": "ターン・1",
    "text": "一輪のバラに誓います。",
    "unlockRequirement": "",
-   "cnUrl": "d07c4d7aadf43549ac9ff2fedf74efd3d430eaec3242b85da46134e84b895909",
-   "jpUrl": "52aa710d8999de3d244024b92f68a6b862380c643154676eb2ccf021bf063fac",
-   "enUrl": "d892ba9178067d52a9fd15a5798d6a7db91251c5dc84b07f6e230172874cf5ac",
-   "krUrl": "4a5555fa5206b210566da33639e0d81fe2090ef1e255972781483f98d5e88bb5"
+   "cnUrl": "0fddbe2289163c621913555e219a63611e851da77a19fc4478b5c2eefa3a2217",
+   "jpUrl": "059938913f2d2c6fc211cb1b2a3918ab32c6ab89756fc8ca5b47483dc99c274d",
+   "enUrl": "4badbe2ea0ecd3934dab82200f8752cb90964e541898ad2ad941eba8c7b3771f",
+   "krUrl": "6e933e8eea056a3bab52a3add4f4f02d2fad00beae1ec985f7b1c6c5086c2a3f"
   },
   {
    "id": 54,
    "title": "ターン・2",
    "text": "純美の騎士たる役目を果たしましょう。",
    "unlockRequirement": "",
-   "cnUrl": "f1e6bc9d68a99de253b35b4c0f2d6285bf492e295075cc77ccbdb86f31949aec",
-   "jpUrl": "40847d4f493f28c4380f3b63d13c65ece62c71333e52fe09f23d9d07d26d6884",
-   "enUrl": "6c3954d4f185d9abfaebb262e559f6368eb18841b4ec18313e3de5932f92a24c",
-   "krUrl": "2c7d93d157161ad56399298fe20738a2d27769c5addeac553b7862fb1661ac6e"
+   "cnUrl": "6627c74679534c2b0e93531728f988522d59b2c4081489a9166cbd0387e7c77c",
+   "jpUrl": "2608fbf214e4e9964dbf4d9f9b3c92aba18852898b855fbaaebfaa147e7aa1b8",
+   "enUrl": "9e7ad0696debedbf7b2f5e44c75db6bc57b03dffd2eae4c0637832a2aea4ba92",
+   "krUrl": "c83fef154338bcea5daf9e8678478b92536aa86803ed32e606dc3ac337057b47"
   },
   {
    "id": 55,
    "title": "戦闘中待機",
    "text": "彷徨う者よ、そのまなざしはいずこに？",
    "unlockRequirement": "",
-   "cnUrl": "947cbf24b3169891d93d50e67ed35ed55f68a4bda2ca658a2b5f8676a9d288f7",
-   "jpUrl": "7ea58ffd6ae5d86d3ffecade5e8706de9c23fdb699e1ea09457e568cfb309557",
-   "enUrl": "cb06b7196ca36e5ff9004669b4b07205a28c111e8fbc262483c1e634bdf9dc6c",
-   "krUrl": "ffd2b6360c5c73e6b8eecffb3dbbb8983aa45d319588c63b4fafb7482402afaf"
+   "cnUrl": "f5a391ca3f19be9d02964105f5bdc9674894b6107bc2571cd2daa66a6f5efbfd",
+   "jpUrl": "94db48ac06080b77082ef000d435e4f4e507bf32172424564dbead87fe3e3f1b",
+   "enUrl": "ee21fc26433e448300e183ea103c0a76422c0407701104c6e679b0d3ec563e74",
+   "krUrl": "85e1003303c3534bd3ef5a083840a1c6bc2a71ddef6f31517a6f77c5bec73e24"
   },
   {
    "id": 56,
    "title": "戦闘スキル・1",
    "text": "純美は、朽ちません。",
    "unlockRequirement": "",
-   "cnUrl": "b4c5979b71bf846b030cf121af312935ea8211f50f46640254104bd079925ddf",
-   "jpUrl": "07c88a6f6cf889686dd3af3c0d1597fe37b3422b92ae7098cb2e393843cd30b9",
-   "enUrl": "443fdcbf2c081766f563586dddc550901f3b8740b7f612e72cef2aa88c1af045",
-   "krUrl": "ae4c36e364aad4e0f75ca5395f8cf9536b8f3a273b15ce614c457ff1ba43cc06"
+   "cnUrl": "71f221fec60599a49932c54ddd8dec619a43a134f60e992fbf71470cd5daae33",
+   "jpUrl": "239175b4bcd55320cf555b299798e0b592a15a0cd1d2b355a35bb4942e9a425e",
+   "enUrl": "1ff3a905187ee7793a7b7bdbb1d0570c1207be1ca5899df9240175850c02507d",
+   "krUrl": "88453263f90f8d719c2672a2a8c9f23401fd114319181ad3b6802b288a492cab"
   },
   {
    "id": 57,
    "title": "戦闘スキル・2",
    "text": "卑劣を、抹消する。",
    "unlockRequirement": "",
-   "cnUrl": "8609eb07a7d2fae7bc9d650afcfad4e45ce38722bc5605ba72fb3e429e73ba34",
-   "jpUrl": "637771fc13515ffc59b91a644288c0b304667ce1653d484a3db968055b3c33d5",
-   "enUrl": "b156d140e38b03a800c2d3f9278cf2a06bbe0ad50187efb478c71e99e6b11d9c",
-   "krUrl": "0591fe393bdaa1bb14ed2bddf8d2740cc45e407155b33e2b42f2355258bfeb56"
+   "cnUrl": "4598986e47e623749e89bc3b65195e060fbd41ea46a189c517a52a7551e215b2",
+   "jpUrl": "33ac75ad40458fb7eb824fedd8b5c646f160122f0a80f862dc8d30198d50ea16",
+   "enUrl": "a811e6335034c35a3b9ead949417f37cfd4d95754734b26ce0c07330404de143",
+   "krUrl": "03567867a2594b3f89e0a86afc388cc9fef99a975dfcbd7e2a83ea3ad023d396"
   },
   {
    "id": 58,
    "title": "攻撃を受ける",
    "text": "取るに足りませんね。",
    "unlockRequirement": "",
-   "cnUrl": "d6690383f958615de4c308b4ea6df31d1a545d09b1a341bb03ccb27d541440a5",
-   "jpUrl": "d3da1e7c9c73582a14269c06ec2dc3a600a6172a382244b10815fef3c9ca0849",
-   "enUrl": "bea5119954198219f5fe6b8a0a282158905b36da3ed6084696db5b131c4e29c0",
-   "krUrl": "3aa70faadb8a53b9eda48a18fcc91e6f9387b0ec543d3826336da68cee349b53"
+   "cnUrl": "2c9b1d30a4e05583d2f5bd9744f1990221e98968622a58430a1038dde7f0cb7d",
+   "jpUrl": "58157a7723bb8ef5858988c9fe18941c0dbcf47b9692e1ddf6fdd257997953dd",
+   "enUrl": "007467e604587cffbb2f460c09a215c5859306c46a6d8b2b26d0443383b5a576",
+   "krUrl": "e8163d9b1ee33dfb62956a67385596a61cc48e1cd6a20ec6277c5fa6d48db1d9"
   },
   {
    "id": 59,
    "title": "重撃を受ける",
    "text": "これも試練…",
    "unlockRequirement": "",
-   "cnUrl": "18076062f2a71acd1166a468d17f00613db9d3cd1a7785e09a233be116f4f2e3",
-   "jpUrl": "2ad9b08993a283a42b53051e77eb7b73f48cb20b825f2fd92a8cf310087a7da9",
-   "enUrl": "08618c5edf3c6fbedf4e2580a7741ecc40db1241c300232d9c1e8f79243f27fc",
-   "krUrl": "923481ffcf26100d0e2938cafcf1153e161e547d8544e95c56cb2ff87e47e2dd"
+   "cnUrl": "21945937ef8db8b1d24993a4d04a64dd1c1f9cebb6c6df052e8de0302ff907c4",
+   "jpUrl": "c6754be4df13067e0e0fada8a2de75c9e70a0a9ebd8a8434f539a1bbe5dd8a1f",
+   "enUrl": "c4cd8f4e75e0ea7321b76d5ae75ce4a7feb85b9a70aa835236912beb4ae419f4",
+   "krUrl": "9da04bed3799b210b92644fa7d296b7bcd33ea2ff260cc75135a10817b4ef9ed"
   },
   {
    "id": 60,
    "title": "必殺技・アクティブ",
    "text": "あの光と再会するまで…",
    "unlockRequirement": "",
-   "cnUrl": "0eae4ff72cfb81447ffd7b0d8f61d0979120235911851d5356501f26fbffa055",
-   "jpUrl": "92496800350b5075a749f8167b5650f8284a748a90ffe64ab53f2c9bcf6e8fcc",
-   "enUrl": "55ed84a3efa950ce2ef261c932edc1a647d8e3f2cc70941ae1cf74cedc7acbaf",
-   "krUrl": "c719d2121649a50e6b3e182606e5266fd96a930dd1c4fd1dba069ae5041f426a"
+   "cnUrl": "a0de320eb5ac14bdf37bb5412549b81643ac8af91df9411bf130aba8c62e95bc",
+   "jpUrl": "59f8a3e1cf39cc91a3ff90195f85a33c76989ae1d5b2b1584ac01e89f70bc3f6",
+   "enUrl": "b5b4d6100a0a76225bbcf5033de9aedadadacd7c7a960327834ea357da7ef9e1",
+   "krUrl": "1210a32fb62e9d88e7106ca4555ae5532d688e764679585252573be446e8d678"
   },
   {
    "id": 61,
    "title": "必殺技・発動",
    "text": "宙にあるあらゆる美しさは、僕が護り抜きます。",
    "unlockRequirement": "",
-   "cnUrl": "0e709fa109d331d449662b58d12fb887c96edd38c53646ef5ec55816a9dd8652",
-   "jpUrl": "6a6dee4b6de4c3ac0c34061a6cefcd8c9ea873408cba1d51fc72e08fac641819",
-   "enUrl": "da46c91d4d9f643264c74ebaa9a959f23a437301fcd731c1718d0e8731219c87",
-   "krUrl": "b2b11a8fa02ba8c065d5045e30931ac96b8f57df1845d4099f6c22c23123a2b9"
+   "cnUrl": "2b910a526dd65acc0919c40f2c0b65f26ca69a9f23098a2d3cfab13d5ea208cc",
+   "jpUrl": "0adadd573d7694c18fb4b3af5d11eba33e1c449502c644890341450f396e2d07",
+   "enUrl": "61bf71dc965f96f4f32cf8cae043218787e1c02080e0b0707994c7ac410e2725",
+   "krUrl": "ea61d6a518dc3c3b864f1668104117899a4da031d199bd49519036b2156c3f36"
   },
   {
    "id": 62,
    "title": "強化必殺技・発動",
    "text": "…すべてを、イドリラ様に。",
    "unlockRequirement": "",
-   "cnUrl": "7ed671d61abbfb7245b094fd115089e4aaf0c64f0866ec913c6cc59543d9b7a5",
-   "jpUrl": "61032c9a7d92c0600b8eab8b63187e899c424ca97d423d38cf928a29ecac5298",
-   "enUrl": "9d631edd7c55c86283a75b773a01064e2004742a769072b3544a8656e1c987d7",
-   "krUrl": "cb5c6169dbd537b720162d13c435cbb1e6b550e689a2779713128bc687b821de"
+   "cnUrl": "4e5320d9e0d06a339489fe00573550087d081a9d36d4fd933867d118671af448",
+   "jpUrl": "38c945a650db10edb12c86da0131d299147f33a1f80ee1da8e084e489ab2464b",
+   "enUrl": "1e95cfe962cc2cf55af997fcac6fe4cd14005fc538af0d1717b3f7fc381cb1d9",
+   "krUrl": "aef85dc087e67045988c11c4f14a9b54274cf0906c1206006f1a9833daa8b2ec"
   },
   {
    "id": 63,
    "title": "戦闘不能",
    "text": "見つけられ…なかった……",
    "unlockRequirement": "",
-   "cnUrl": "a5cfa77c89939dbc0301e6a2b032a5e6fa1e8328100cfd548d7eb6dddd2f9771",
-   "jpUrl": "945d5547fd746246d44265998408d9dfb25fdbb2cd882995d965177b99fc320d",
-   "enUrl": "2deebdac8879c5964c8132d8d3c1d40406f1c6208101cce9083da8fa645aa654",
-   "krUrl": "8893e844a93ce52fa6bf2450d436fe554299b8b55165372022c574ba621bdf0d"
+   "cnUrl": "9585827eca4d32bec1c26e1735ed6af663ecabb709e8d45b0baa9bb00f108892",
+   "jpUrl": "5e06f90d2e81e3c76e5d20e51f6300f840433bc71a843ac75a758d41afa564d2",
+   "enUrl": "640a9e899e4e0683a71c2d95be962a50b37f4b6b55e7b1f7c8e306f9d7cfcb09",
+   "krUrl": "b7e5e0efc41ad759de2bba775862fba167283728c6f16d18cb5d4fca5a85240a"
   },
   {
    "id": 64,
    "title": "戦闘に戻る",
    "text": "信念は揺らぎません。",
    "unlockRequirement": "",
-   "cnUrl": "73d83ec18d48b770078ca18c67640d0992760b9c28894fe0b1c6a378c264dbe9",
-   "jpUrl": "7d4cc60743f18234721e73bbadb94aea218964803a80308b12f6fda57eeca909",
-   "enUrl": "17889fde54376f1758e29cdc5fb70247c6621814b01aba3d862dc007e636a84a",
-   "krUrl": "d43b1112c4c1175bbdd84ef9525d083661ed93e45f316c49eb7bec7d3c1f6d4e"
+   "cnUrl": "beef5dffff5f2e81c39506b65ccc9bae57156b0a99e3d9a0e0eaeec50c599b29",
+   "jpUrl": "fe709db388e6c9b2548ad688a4f151eae8bae7639e819260fa1aa8a5fecd5f1a",
+   "enUrl": "1fbfce77a9dc9fd49d8a42c3404390a6b499ff6bdd6637e7aec660288b67276c",
+   "krUrl": "f379b25f89c7195f6b6ae0ad24ff52273dc176d3931d2b6d03eb77e78494bf8e"
   },
   {
    "id": 65,
    "title": "HP回復",
    "text": "恩に着ます。",
    "unlockRequirement": "",
-   "cnUrl": "50d4414157afd25d0dafbda829e219fe2291ab36d16dc2802afcaa145bdfca7e",
-   "jpUrl": "f7e56a9ff734b375cc161eb850afe7bcdd29bbda02bfad912a5882b7ded8ab6a",
-   "enUrl": "eb11a6dc3555338a7896c71fa96844517d3c7deddf3295cfb4df6d4b8a8729d3",
-   "krUrl": "29c6437df85862a7c5227c854b719c4446d7845cb2a4fd2e93a14a9ee882c7cb"
+   "cnUrl": "df736e74794aa9782596a29c7dc0f6e9c4f688b8ca7c88c0a642cfd3f5d5e2aa",
+   "jpUrl": "55c1cfcde6f3aacecd86cb4812c8b03039192c8b3621ccdb631f1be46a2badde",
+   "enUrl": "d26d7728691c88bcce86d247db92c083b06d945120a03ce75bdb4b7bdfbb5215",
+   "krUrl": "fa0fe8d294e81840b69751d2f3cdbeb2e7b790034adef927a5104bb0208b2c3f"
   },
   {
    "id": 66,
    "title": "秘技",
    "text": "栄光あれ。",
    "unlockRequirement": "",
-   "cnUrl": "12b2a7e62ef3227f2fb18e2084dd41159cf4df9b66989244ae18a78afb959b0a",
-   "jpUrl": "a7aa19fdbfb276c11b75a0390258159f7488881c83cdfce5ff00675dcd037ecd",
-   "enUrl": "ae4f6a033ba2aeb20bd6e6a3c1e33f5d3fa3ad4474c5261cbf5a8fe8cfba083c",
-   "krUrl": "249bb04081d965c275fd2f9acb1a85ce91d317a4d7b6a9841d615d39eef7f983"
+   "cnUrl": "c9a12f2d043976634af2d0c8a0149a0ae2f1183086e35f28c9ca4bea7da299f4",
+   "jpUrl": "2765e2e4458a722ea56ff615ab8be15c8bc2abc0ae98dbc20ef501578f1f6dea",
+   "enUrl": "1472a13f47f9cede65827297548402e4cae14cedd6751c938bfba6ea807f5c8e",
+   "krUrl": "939ae49aa2eb288d75838e554fc94c0e7b3654c5bf8babb72eb2623859ff2912"
   },
   {
    "id": 67,
    "title": "戦闘勝利",
    "text": "闇を、足止めしましたね。",
    "unlockRequirement": "",
-   "cnUrl": "d32c26c25e083ec795bc7a4b360da593c503f8ad7d377bf63f3294d9d42ba617",
-   "jpUrl": "db2f45643e9f557a864a03fba5544b77eb1be8de5ff6c24d05d756247aad84c0",
-   "enUrl": "b22de8b8c84c9a5d3b14dcf2f2e4df692127d6ee892a12bf3946de8fb1463160",
-   "krUrl": "a5439b42f311e6ef4f69ad3b0f28691a6779ab9d4c8f657abec38b0cd3584f25"
+   "cnUrl": "166d0bade500fec97bfef63b0244dfc5a1f3a44092d499beece01bb34ac6d5f5",
+   "jpUrl": "985c139f06a97bb14b905b105455a0fadca9a68b1320c8d4f91f15e39baea26b",
+   "enUrl": "d2d913cbcf2d586b39ea06e1ab35836d6ab5dbc04f486a32ac9a6ea2e8cb4558",
+   "krUrl": "0194caad22ad8903d75eea526bbbaa4aa5036ed9f2a4dda3a4ee93379a671aef"
   },
   {
    "id": 68,
    "title": "戦利品を開ける・1",
    "text": "おや？サプライズは好きですよ。",
    "unlockRequirement": "",
-   "cnUrl": "08498b4045f256f53adaa7c82ebc96270b3b70ef6d94766c380122fbd063e797",
-   "jpUrl": "ef34af2eac94dfb66247e9e19559ecb3e09bafc9a170477a9cd6ed65671c86d2",
-   "enUrl": "5983e36de44ff0b995afb95d5b00a9cb9777ec32dcc7bfc2c7d04dde8ab88b56",
-   "krUrl": "8a60f34100e97defe58f86c2ee2b179daafd587a90edecf8859963e5d6b6a3cb"
+   "cnUrl": "081d571b9349ebfbe0da9daf3cb585da74e41af065c90c872975e414706724c7",
+   "jpUrl": "5b2f61a169766311230ec18fb620d8f989e47694e89a1d46cee0f4ccd4f2f974",
+   "enUrl": "ea6bcaf695be3b3217a1a8af28b3ad7c3f026f2aec2e65d8d9d2d44977491aed",
+   "krUrl": "0a8ad29bf0adcfc122c77b594e0d5ac8e8b46282d73724d8ef1e43d8673770ed"
   },
   {
    "id": 69,
    "title": "戦利品を開ける・2",
    "text": "返せるのは、バラの香りだけですね。",
    "unlockRequirement": "",
-   "cnUrl": "3d524b80f3f6caaf51263aea8bd6488cdeefaf6365cc40e420c7f4524ffc6576",
-   "jpUrl": "8fa8358e951efe3b8c7ceb4dbf3b34f16504bea5c7b835c320d8c0909a99d3b5",
-   "enUrl": "5f1dbfb38708d0c8675e2a056ac474e8782b7d24ad9d48f6147172afcf5ee04e",
-   "krUrl": "96d8242c0ef4e40be58af00b677fa97549c7c4964eb80fbd63beb554a7ec62e4"
+   "cnUrl": "9fdf5c65ccee34ef0b7b4957588fa7ff27419cf42a175a4a3669d7bb257dfb7b",
+   "jpUrl": "6b99351d19e3eb7387e91adc7788c8faa6ba648fe6a2d7dc82e6d93367649889",
+   "enUrl": "554dea8ca74f584509d94414d22c98109e50929db0c13fe5532c0e4c5c928534",
+   "krUrl": "00daea38675aab47b87e2cc2ca17a352a325114bb89853dbf7d26cd34a0f6baa"
   },
   {
    "id": 70,
    "title": "貴重な戦利品を開ける",
    "text": "きらめく美しさに、心を奪われました…",
    "unlockRequirement": "",
-   "cnUrl": "48c28f81d2cd051c8a83c907434f9b4c6d35acf64ce6515fc89fd34909b09b39",
-   "jpUrl": "a977d83f95c551410bbb82056ffbf6b7198c6ef8577810d08ff1830952a9dc76",
-   "enUrl": "e61ceccb48c0e3461c55f2e4fbf090c7fba43b3ee6e2150bdb41ba95ed617c6e",
-   "krUrl": "273ca15a848e0a946e290294b0a4f33523d2b3ae4dc2d766fa36b73456079250"
+   "cnUrl": "8500c97d25289505471eb771fade1433beacf0ee6ff13bfcc29a6ed70a161ea6",
+   "jpUrl": "edeecd8c97272f52c67229abb6bd65bb368f25179b9f4f1541072755989d8baf",
+   "enUrl": "0727164c97317c0eead8803f9213c7d0ebb1459322b2561fc8d9e2930676bbb8",
+   "krUrl": "d1a66f19176c93564afbd16e088e6603fa8f58ce8fd64ea4d08b3f6937e3a991"
   },
   {
    "id": 71,
    "title": "謎解きに成功・1",
    "text": "賢明な判断です。",
    "unlockRequirement": "",
-   "cnUrl": "bef2a00743d3343e5a03abf1ae4c636ad6c5c26d701240f3016447bf2a4f805b",
-   "jpUrl": "610e3eec7ff3fe43296623cc2077fadf9e720d4c3bf7c5fd6178dc0d760f93c6",
-   "enUrl": "3493e76c8d339b5d7f87f6fc1aa166269c3a8cdb5662e2adc1bbe9b0a2a99050",
-   "krUrl": "d72df83016efd27fcc8b5496606e2b90a80a818358829e35ea512051d71f7be4"
+   "cnUrl": "a85ebfdfc47c7805782435eeda94ab9c97e1038a735ced61e55c89fae223e02d",
+   "jpUrl": "fe800826d2ee2bbaed5a0c60c79a67cc83c1b91e2443bf6f9dc8e1b47e37d7ad",
+   "enUrl": "1cc853ac595974fcd7f2c05dff788afd69eec5470551191cfda1e20919761eaf",
+   "krUrl": "5a055470887e1da1e219105c12e95feda05e4a577bc769c4d9fdee19c19346ef"
   },
   {
    "id": 72,
    "title": "謎解きに成功・2",
    "text": "ご安心を、僕にお任せください。",
    "unlockRequirement": "",
-   "cnUrl": "a92f214993adeb5357dde0e1bd337848ca759aab6c2bbbdfec97de753c4dccab",
-   "jpUrl": "79c5af518a1783696466a861d83748db45397fcd8f58b6a1c731b9b85f8e2c6d",
-   "enUrl": "55b8f8779395074d6ad3fb5d9b36be8cc9618814c61ea6a060a8caa1b5304c97",
-   "krUrl": "0051a166b55a8375b48109cbc526c1e5320dcec88fa28ad4a7febc037d3d8051"
+   "cnUrl": "160c3efd898aab8b0c2db520fc51ea2780ff9f6d7e1966ca06184fa668d24388",
+   "jpUrl": "43a2268d352110ab409ecdd4e176183a578f4b201927cb146f037db2f98b5ebf",
+   "enUrl": "427f037a05410d4d96a33f14430e149284f8abab613413a6c3e6c1038e07d033",
+   "krUrl": "883cf737a4f37d9205f92e24c8ef4266ec77495b2438831a4256292d0967be7e"
   },
   {
    "id": 73,
    "title": "敵ターゲット発見",
    "text": "手合わせは、いかがでしょう？",
    "unlockRequirement": "",
-   "cnUrl": "316400ada38e74a8569e926f8685969a96a2cc84882593f7075c60481fc00fcb",
-   "jpUrl": "6b5a31d8a7141d86b363d739b22c4aebb61e8b3e0cd0ef23a911f506429b8977",
-   "enUrl": "cd487c12c640ed3ab9c3e77a696c328f66cd0a16351b128773405af3bf1d8768",
-   "krUrl": "b7a27adc2b510958a7e32dbccbd3543b1956ceba49661477ac48a95b414046a8"
+   "cnUrl": "ff4b127761aeae1b5b7a0413c5ecbe997af3b90899d91952bd920df53fcc0a37",
+   "jpUrl": "53ada4bc6516ee25cf005a1fe19cf7af081b297871701a0a4f77914f60225d7f",
+   "enUrl": "e9b5f208d3323a3e8f3d4bce321f0fe37d5a2e271f6db99f3774539e75bb10c6",
+   "krUrl": "1e22894e333dcd6d54107e1cd08723bb9de137c43ad9387a0a4b6734948330f1"
   },
   {
    "id": 74,
    "title": "町に戻る",
    "text": "この風…懐かしいですね。",
    "unlockRequirement": "",
-   "cnUrl": "b61c53e3e3c10c4bb04e3d2ef2ccb2cef558358f67465f39659a83e5e18b6360",
-   "jpUrl": "12c8cd2aabe04a91fdb159129e4b6a0857d1615478c0b9073758eed5b1e9ff11",
-   "enUrl": "6e221b0377492b71ad349de9f074698bf06cf416a5130b7b70c71e0a727800eb",
-   "krUrl": "aee60e38c532d9a76b2ba135bfd569b6c1d4df1a08f8c202f4e8e7c05171e8f6"
+   "cnUrl": "857763838bae231b2e837bc00fdecab204378ee794eae0513d53249ade03496c",
+   "jpUrl": "27db22580cec34c8529f068776ec6e3cd307644747c9868eff5c23ba9aed3edb",
+   "enUrl": "622bbac75e29245d322ad644f95a92be195a6cee103011cd803b44891fc52220",
+   "krUrl": "516c4657615d953aed3e5478dd6c2e617f6e284f2ee64f4f245ea3bac09d069a"
   }
  ],
  "storyItems": [
@@ -3034,19 +3038,19 @@
  "name": "アルジェンティ",
  "rarity": 5,
  "descHash": "「純美の騎士団」の古典的な騎士。行方不明になっている「純美」の星神イドリラを敬虔に慕っていた。 正直で、堂々とした性格の人。宇宙を漫遊し、イドリラの名を広めている。",
- "artPath": "6c804977de23b574e08b45a1dd1fa4f11ff66ea0f23ebfded42906fa9386d47e",
- "miniIconPath": "b8b9eb745b1949f108d32c7248e1a7c6046be294909fea2823657f2f51f48c2b",
+ "artPath": "91b3148250c98b5c0de913aa02c2d6f2e7be267e775f4cba084bf392384ed39f",
+ "miniIconPath": "281318431f3a3ae461def60c30b0071d6e3454408c86631670dbb230e48d6fd0",
  "damageType": {
   "id": 1,
-  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "iconPath": "e21edc60ff709336831c1f18a58ad77fbe2cd85ceb630f7e87463545a4057bbc",
   "color": "#FFFFFF",
   "name": "物理",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "a1916e75aa6a99295aa01786a946ae601da457b578603446740cbe30bc5fba5a",
-  "altIconPath": "01710b94c5c1a7c525cfaedc0ea8f32901c99aa71a28896a16d52656c3ce3654",
+  "iconPath": "666728a6ff62e1312e1a1fc35ef8beb21f55310b14a5b76c94fbbdcaf2cb9a89",
+  "altIconPath": "e96af62e75a86b9636b568d3aacf3a12916f164383a76d4491d09ff1db87fe9e",
   "color": "#FFFFFF",
   "name": "知恵",
   "rarity": 0

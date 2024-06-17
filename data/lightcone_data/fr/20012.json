@@ -2,16 +2,17 @@
  "name": "Roues d'engrenage",
  "rarity": 3,
  "descHash": "Un soupçon de force condensé par le temps lui-même. Tous les instants en apparence insignifiants se regroupent pour former le magnifique chœur du destin.<br /><br />« L'harmonie est atteinte lorsque chacun fait sa part au milieu du brouhaha des machines. »",
- "iconPath": "b3a6f7f2f27090a12d9a309d9cf4a5c860c51f8758905dc232d4170288228de0",
- "artPath": "d328288857d900899d7ea56b827c8b6c5da052ecc2b0be6cfe0d71ce238dd755",
+ "iconPath": "54496e64fd6e9bc7649fc6267b079233d26b6da5bf43359de7cd8f8f2d5f712a",
+ "artPath": "b2ae0122f4ca9cf78b66dfe91b62ea77c10884960ccddd2b7a9d6856ec1b8df7",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRgwCAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSEEAAAABD9D/iAgwqm1bSQDkRCIa0X6UP2PqbgcLEdH/uOSoKMSLa0apJfaEk1AzBy6/02Q+0cw60aSUMBNFmWv0n5yiAABWUDggpAEAAHAIAJ0BKhQAHAA+bSySRaQioZgEAEAGxLYATplxvMxbe95j7CA2zHPSaYBvF3+KrUpsdTopeVbMW0u5AcuRzGPtPTZcl/FH/leo6oAA/sqxoqoNjfj70i2PRMx/qNNG07ftlsFh3x2BH/32hkrWt5DIS12endFZmcoCNoL6wAZJoqstDA/MEp8Ho+XnyScy9+f4l8AkUUwOy1d2hTZqBFMHeVbF9MLXoD4qMZjykbUV1YvH/4aaodwP5roz+c/XB8/mKXOdd+loUZ/olaHtBNwBOerMEjvLpX4O2FyfjupW1u5VJYrNdbSrcekYCbQxzzjz1aVw7IWLZsxb/iA/VP8f8/4DtDJzaB/8I91ISN/BurTE/fNslm8yuYu1W63yPs7VPQZQTzWyD4ttV5D4/mJ+hgni8zJMiIGrdO9OR3VW2rDgNeYiPGHw0vIHNhYJC++fC9fPVfcjEJ4Q5nVYbNh9Un5DcMeOMvTb9bAb+xCz3LZn6YSDllDyMMnaRfehvvT6/j/E+KO3VG8r8PvEIYGD74s1+3WiObvwNnHJqlYSqgAAAA==",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "55e3ab8543ff1151b5c8a481e6f964f8f9c171b11d49090367a216b6a5066de8",
+ "mediumIconPath": "d1c23a74bd0ad2a553ae0c3c80cb2a5525db2e62de26b97f92cb2d914e2b5cbe",
  "baseType": {
   "id": 0,
-  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
+  "iconPath": "c0712011803bdb1229240f7c73e2b79b3a8d2c906cccf9c3f339366c0154827a",
   "color": "#FFFFFF",
   "name": "L'Harmonie",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549407": {
    "id": 549407,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "d5bfc95d74fab56f9c9be440028051ed2a9e02f4ee968c8d3db170d5b55dd931",
+   "iconPath": "a72fcf2954997ca8c5928ceaf5a1627bb831e3c8632cf048466d7885560c65be",
    "name": "Badge de la crinière d'argent",
    "desc": "Badge porté par les soldats de la Garde de la crinière d'argent. Matériau commun utilisé pour le renforcement.",
    "lore": "Il est criblé d'éraflures dues à l'érosion causée par le vent et la neige.<br /><br />« Dans l'ancien temps, il n'y avait qu'un seul moyen pour les Gardes de la crinière d'argent de partir à la retraite : la mort. »",
@@ -52,9 +53,10 @@
    "comeFrom": [
     "Marcheur de l'ombre de l'Hiver éternel et Marcheur de l'ombre de l'Incinération",
     "Gardes de la crinière d'argent et vagabonds",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -63,7 +65,7 @@
    "id": 633348,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5be2ad896306c15eb63529806cc7e0175b2c2111e3a6f175accb00a85cf9b90e",
+   "iconPath": "ba6bf0222b2d45356ef4505a36cbe77c7a9b780b174dba76a2ee29427b344447",
    "name": "Insigne de la crinière d'argent",
    "desc": "Insigne militaire porté par les capitaines de la Garde de la crinière d'argent. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "Il s'agit peut-être d'une preuve d'héroïsme qui permet de se vanter auprès de sa famille. Ou peut-être qu'il s'agit d'un porte-bonheur qui peut protéger d'une balle.<br /><br />« Les temps ont changé. »",
@@ -74,6 +76,7 @@
     "Marcheur de l'ombre d'Hiver éternel et Marcheur de l'ombre de l'Incinération au niveau d'équilibre 2 ou supérieur",
     "Gardes de la crinière d'argent et vagabonds au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -82,7 +85,7 @@
    "id": 635670,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "a096383d62b9e5432fbf9a9674cc41041077b151d3473e44509d684eaaccd9bd",
+   "iconPath": "f20b2d461af5d8348103cc846e16f4426441cb47027f294a40f24130640f403f",
    "name": "Accord harmonique",
    "desc": "Boîte à musique compacte, fabriquée par un inconnu. Permet d'améliorer légèrement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
    "lore": "Joue un air joyeux et apaisant.<br />S'il semble simple, n'importe quel amateur de musique verra la maîtrise du compositeur de cet air.<br /><br />« Prends la main de ta Famille et danse ! »",
@@ -91,7 +94,7 @@
    "rewardPath": "/material/635670",
    "comeFrom": [
     "Calice de la Colonie de robots",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -99,7 +102,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -117,7 +120,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -128,14 +131,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -153,7 +156,7 @@
    "id": 717289,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e5c567b0d1a069f86d1fa35a17b282346606c69e5f8cab4028224ece84c8ad58",
+   "iconPath": "0f804f4f5903741a391df7dca374c8f9a80e5a258e74bdebf04d9f811b23ba67",
    "name": "Médaille de la crinière d'argent",
    "desc": "Médaille d'honneur portée par les soldats de la Garde de la crinière d'argent ayant servi de façon courageuse et méritante. Matériau avancé utilisé pour le renforcement.",
    "lore": "Une marque d'honneur décernée à ceux qui ont combattu les créatures du Fragmentum, les habitants du Souterrain, et les catastrophes soudaines.<br />Elle est plus souvent placée sur le cercueil qu'épinglée sur la poitrine de son propriétaire.<br /><br />« Rappelle-toi, jeune Gepard. Ceci n'est pas un jouet : c'est le destin et le sang de la famille Landau. »",
@@ -164,6 +167,7 @@
     "Marcheur de l'ombre d'Hiver éternel et Marcheur de l'ombre de l'Incinération au niveau d'équilibre 4 ou supérieur",
     "Gardes de la crinière d'argent et vagabonds au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -172,7 +176,7 @@
    "id": 836256,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "b423fcc0ae34c8c3b30d0a461af31176b161d5a83f3615756c8f8a91f04ac474",
+   "iconPath": "007ad2366276ce70df0cda130c6cbd33e6a764cf9af6ff302656ff6a6937542f",
    "name": "Symphonie de stellaris",
    "desc": "Boîte à musique complexe, fabriquée par un inconnu. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
    "lore": "Joue une puissante symphonie spatiale.<br /><br />« Certains astronomes pensent que les révolutions des sphères célestes fonctionnent de la même manière que des structures mécaniques complexes. Les notes, aussi claires que le cristal, émises par le mouvement des étoiles ont été baptisées \"Harmonie des sphères célestes\". »",
@@ -189,7 +193,7 @@
    "id": 920197,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "b5aa737b728156387ef4ddce10e0a541deb24993d58c4f2eca0aac0ed4301ea8",
+   "iconPath": "4cf16c3f1c7f10bd8fb063a7ee792484a4d9d3afcc77cd9eea7b975b6afe40e2",
    "name": "Hymne ancestral",
    "desc": "Boîte à musique, fabriquée par un inconnu. Permet d'améliorer modérément les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
    "lore": "Joue un hymne chanté par un petit groupe.<br />Il est impossible de savoir à qui s'adresse cet hymne.<br /><br />« Misère, épreuve du Très haut ! Richesse, grâce du Très haut ! »",
@@ -199,7 +203,7 @@
    "comeFrom": [
     "Calice de la Colonie de robots",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

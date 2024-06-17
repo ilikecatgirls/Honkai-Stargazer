@@ -1,19 +1,20 @@
 {
  "spRequirement": 120,
- "iconPath": "218faf96434a001084762eed4d2499a7fd55d7014588a441709ed7ef335862f7",
- "bgPath": "b5422d3e9fc53ffe9813b32a915769b75dad6ba2e2d9a0b95df4814c95b204c3",
- "figPath": "8edb308439fd6545b630899981d7d833a82efc9c241d5a62215b7c6f2c43bb76",
+ "iconPath": "3a7888b315df54c24af1e72194eefa2fdaff8f416a29d836979d4359b1bc4c18",
+ "bgPath": "3f27c6d18b849f13e86a841c42c70c19a8fc2f9feebfc6fc0666ed92b72b8d98",
+ "figPath": "3783ec7ca1330aeacfc43fa0bcaa6af207973333d4400a2da20ccded4974612a",
  "fgPath": "",
- "splashIconPath": "8235c510c01b722b5ced0f0ece69b8f597028c031a888fb79177692456aa68f2",
+ "splashIconPath": "3cc1550dee2f93246edf1225e48fc43bf80dd7532dcea6e434eb50e7e485b2b5",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRlICAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPUAAAABkGtr27FH9/PFtm23WaltV7ad1Eln1alsO53PICslx7ZnPrzP6Pv/U4iICQAAEwnGE2BKEhEAIh3k5vSbQZcIACH+wbur4kQvF8DK1RGQAAlxv1hW+MWri9P75zerEQBM0M4qs2Ddx8USweJAFUIITVNVTdMU5lqEN93xP/q/eDLhIQsjFJ43P2JVGK5xr9V7Y1hesccEC03VdFT5XZ8d4DT+hZm1/zFftwZJsJ+qTF68Z00IweLxZqknAYh2AHpYForMU34w0OeSf8nMBbWpMP0PmSD/BzMfjxSlg6BL8NxZGvNDdIIhIPxrAhAMJZAJgST8FwBWUDggNgEAABAGAJ0BKhQAFAA+bTKVR6QioiEoCACADYlmAJ0ygzzUkHPJWSERCG7GDds6JFH+cna5p2VW9cm0gAD+9DLbvUYGR+tsvj6a6dBpnJWurm+TQ0vaeI4DePSPnsGh5S7YfLAxXdehEUxNITOce2YKyavLwm8ibuHx2XMASludtZb8qccrSziSAG0khL8hFTiDM8L18e5UqCut/NqUMDxN8Aun+Vb8q2RPsN5w4TNjvLbrzGt0drYCjjl0ximUQRtWW9opgjspuBFJD6j9axBWSu+UODYTw43UgxoJD/OKy6TsdE3pBKC/NUIv9GHcavb0xwLkoxRgOtx1KYOfENbeQhNoGJMtkejoiftetn5X/joA/fyPSjIsP9H/dH/808Pfe//169VKQyRKueS4jMbDTuM+bbliwAA=",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 5,
-  "iconPath": "4b4b5f13f6588e7fb1c030c28f9b9b67a7a8c4bab77c05e38d5c9f64eb0d99e7",
+  "iconPath": "28571bec548b7a0a6b24ad8825c718a27732ae7c72c79d9288924e1258360ada",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Credit",
    "desc": "This currency, used by the Interastral Peace Corporation to settle accounts with its customers, is now widely accepted as the hard currency for space travel.",
    "lore": "\"People run around fighting and trading for numbers in a terminal, but the truly precious cannot be bought.\"",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Tracks of Destiny",
    "desc": "Advanced level-up material for Traces.",
    "lore": "Your victory is secured by countless failures, and the small steps you have taken led you to the turning point of fate.",
@@ -61,7 +62,7 @@
    "id": 267806,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "b58782779268cffe0f8c8873690ce14c5a236ad8d2986a9d8171dc8ac6d49cdb",
+   "iconPath": "17c4281a58775f0d316035a01c93a944f5bb097ffb24955f620adcc19dc03169",
    "name": "Ascendant Debris",
    "desc": "Remains of The Ascended. Can be used for Ascension of Wind characters.",
    "lore": "The Ascended originally intended to bring the world a legacy of kindness, but as the bestowment of Abundance fades, understanding arrives alongside liberation: They were nothing more than a mortal with flesh and blood. Their ability to traverse the skies was nothing but an illusion, and all that remained of their existence was dust and dirt.<br /><br />\"I curse ye, Reignbow Arbiter...\"",
@@ -78,7 +79,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Traveler's Guide",
    "desc": "Experience material for characters. Provides <nobr>20,000</nobr> Character EXP.",
    "lore": "Required reading for world exploration. Press the \"Read\" button to tune in to an attractive voice in a language you understand, telling you about the legendary encounters of renowned adventurers across different worlds as well as the precious wisdom and knowledge that they have gathered.<br /><br />\"All-new series of the Traveler's Guide, The Chef's Manual to Galactic Cuisine, is now available for purchase.\"<br />\"For submissions, please connect to synesthesia beacon ERD<nobr>-23</nobr>θ to contact an Intelligentsia Guild representative. Method of payment can be arranged to your convenience.\"",
@@ -96,7 +97,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Adventure Log",
    "desc": "Experience material for characters. Provides <nobr>5000</nobr> Character EXP.",
    "lore": "A neatly organized collection of educational adventure notes containing countless illustrations and texts entailing adventures from beginning to end, as well as valuable information and survival-related techniques.<br /><br />\"Why not just digitize it and save it on a photolith disk? That'd be much more convenient.\"<br />\"Advanced technology is far more fragile than you'd think when faced with stellar storms and neuron flow eruptions. Besides, I'm sure the author of this book wanted people to read it in the simplest of ways.\"",
@@ -115,7 +116,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Travel Encounters",
    "desc": "Experience material for characters. Provides <nobr>1000</nobr> Character EXP.",
    "lore": "A travel diary with messy handwriting and random content. It's not of much use to you.<br /><br />\"Dan Heng, hurry up and finish reading it so you can throw it away.\"",
@@ -133,7 +134,7 @@
    "id": 470781,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "iconPath": "021510fda34098d12f31549a6dfc2257a20b8c51087684e3585392122b8a07ca",
    "name": "Past Evils of the Borehole Planet Disaster",
    "desc": "Advanced level-up material for Traces.",
    "lore": "As a descendant bred personally by the Imperator Insectorum, its only desire is to expand the numbers of its kind. It uses giant scythes to harvest planets for its nest, tirelessly nurturing countless offspring, and devastating innumerable lives until the moment of its death.<br /><br />\"On the broken planet, giant locusts blotted out the sky, and swarms of insects poured out of the planet's crust. The stag beetle raised this new nest and presented it as a gift to its Imperator Insectorum... May this horror only exist in historical records, never to appear again.\"",
@@ -148,15 +149,16 @@
    "id": 549438,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5eb86757b6878dd09f969ed2d9e75af43eac2565bd49fdbe391f716e5adca101",
+   "iconPath": "e700f5830b00d37882b23acfb0b87aade99e878187f0e8683a4f04047b74cc6a",
    "name": "Extinguished Core",
    "desc": "The heart of a monster wandering the Fragmentum. Crude material used for enhancement.",
-   "lore": "It is a lesion that breeds evil, the impulse to sin. It is the source of the Fragmentum distortion.<br />A heavy blow has caused this heart to stop beating and lose its luster.<br /><br />\"Preliminary tests indicate it's some kind of hybrid: one half is primordial, and the other half is something very similar to Stellarons.\" — Department of Biology, Sarah Castro",
+   "lore": "It is a lesion that breeds evil, the impulse to sin. It is the source of the Fragmentum distortion.<br />A heavy blow has caused this heart to stop beating and lose its luster.<br /><br />\"Preliminary tests indicate it's some kind of hybrid: One half is primordial, and the other half is something very similar to Stellarons.\" — Department of Biology, Sarah Castro",
    "purpose": "Trace Material<br />Character Ascension Materials",
    "rarity": 2,
    "rewardPath": "/material/549438",
    "comeFrom": [
     "Certain Fragmentum Monsters",
+    "Dropped by enemies in Divergent Universe",
     "Simulated Universe enemies",
     "Assignment rewards",
     "Embers Exchange",
@@ -168,7 +170,7 @@
    "id": 589818,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "daa3e2f0fc9cc9bcc2da489f1a17ad0adfa1ce552e27b1f294fc4acb245de673",
+   "iconPath": "7c6f5358c112aaee034dfcf277129fb03c3b23acdad032ea86bb8d940a9f9559",
    "name": "Starfire Essence",
    "desc": "A mature heliobus that ran away after the Flaming Catastrophe War. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihility</span> characters.",
    "lore": "A mean and nasty heliobus that appears like a full flame.<br />The size of a heliobus's flame when it materializes indicates its strength. This torch-like heliobus has just tasted consciousness and is eager to devour its host's emotions and desires.<br /><br />\"Absorb their emotions and sway their wills...\"",
@@ -186,7 +188,7 @@
    "id": 633379,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "4886a5629723505540ba6d02fac7f264a3164458f4194796470c1826138ba105",
+   "iconPath": "659dbba8b4192386c1150f38f3233d432a759a3121a97cf97202942f7a0c2ce6",
    "name": "Glimmering Core",
    "desc": "The heart of a monster wandering the Fragmentum. Normal material used for enhancement.",
    "lore": "It is a lesion that breeds evil, the impulse to sin. It is the source of the Fragmentum distortion.<br />The heart is glimmering and the veins on it indicate it's still alive.<br /><br />\"What kind of monster is this? Did you see it... Its face! It has the face of our previous leader!\"",
@@ -196,6 +198,7 @@
    "comeFrom": [
     "Certain Fragmentum Monsters at Equilibrium Level 2 or higher",
     "Omni-Synthesizer — Material Synthesis",
+    "Dropped by enemies in Divergent Universe",
     "Simulated Universe enemies",
     "Omni-Synthesizer — Material Exchange"
    ]
@@ -204,7 +207,7 @@
    "id": 673759,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "f11dd326fbfb4a1a66e7e8807c44a70a648b773365a75cbd532d7e444f9b52ff",
+   "iconPath": "d0d9f657c8aed8ea463ffb2a299173de7d94d7a4e67017343520f54275dd1e15",
    "name": "Heaven Incinerator",
    "desc": "A beast-form heliobus that homogenized after the Flaming Catastrophe War. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihility</span> characters.",
    "lore": "An intelligent and powerful heliobus that has started to take the form of a beast.<br />The size of a heliobus's flame when it materializes indicates its strength. A large heliobus, having homogenized its numerous lesser peers, will gradually have a stable shape. These immortal beings can become so dangerous that they are considered calamities.<br /><br />\"Floods, fires, landslides, and thunderstorms...\"",
@@ -221,7 +224,7 @@
    "id": 717320,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "f54699a5eaba1cef67217196db0a1440c1b1c1c5b89179b36b2ebe7331831ea1",
+   "iconPath": "b44e1a4200fb1d3c919589c4287277e97e9094c3da3ce2381beaa68224119583",
    "name": "Squirming Core",
    "desc": "The heart of a monster wandering the Fragmentum. Advanced material used for enhancement.",
    "lore": "It is a lesion that breeds evil, the impulse to sin. It is the source of the Fragmentum distortion.<br />The heart is pulsating slowly, with a residual force powerful enough to cause a new calamity. It's best to destroy it to prevent further troubles.<br /><br />\"It's like a cancer...\"",
@@ -231,6 +234,7 @@
    "comeFrom": [
     "Certain Fragmentum Monsters at Equilibrium Level 4 or higher",
     "Omni-Synthesizer — Material Synthesis",
+    "Dropped by enemies in Divergent Universe",
     "Simulated Universe enemies",
     "Omni-Synthesizer — Material Exchange"
    ]
@@ -239,7 +243,7 @@
    "id": 874345,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5bcb3a328152515e073bcf4072d659b4725ab9ae271ee6aedb5cb60fec84a7e1",
+   "iconPath": "7163c8b123f6a71726593ec29688538db75b232b3dfb0a50245eb8a6f4eb28c8",
    "name": "Fiery Spirit",
    "desc": "Feeble heliobus that scattered after the Flaming Catastrophe War. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihility</span> characters.",
    "lore": "An innocent, formless heliobus.<br />The size of a heliobus's flame when it materializes indicates its strength. This little heliobus is innocent and naive and may be easily consumed by more powerful heliobi.<br /><br />\"Formless, rootless, and roaming boundless...\"",
@@ -440,8 +444,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "3b2ac9ffda311747001b2cbf528b2614c6b424b1292ea5570e1049df9dbb5a76",
-   "artPath": "4513a29ebcc922eab12617a55dd58978c6a2c06cf4ac90fdd2ad892dc05ba0d2",
+   "iconPath": "a259f4e48faef8a40af6ed59e08fe15c19bd307db4c19ad93dff32260bc1ba32",
+   "artPath": "a82349f0d3ae614b41289e9e1dcf183e8947a328788d2f72b22e72ede66690bf",
    "name": "Seven Pillars of Wisdom",
    "descHash": "While Black Swan is active in battle, enemies afflicted with Wind Shear, Bleed, Burn, or Shock will have their corresponding Wind, Physical, Fire, or Lightning RES respectively reduced by <nobr>#1[i]%</nobr>.",
    "params": [
@@ -450,8 +454,8 @@
   },
   {
    "id": 2,
-   "iconPath": "7e6edfd63021efc6f3561af79235df9ecaec43656e12c921c80261b6b621150c",
-   "artPath": "7d751acb21fa87b9e3239065a6cc46cf3587d92671e3c23113b1a4eeb6100904",
+   "iconPath": "27de8eebeb84dda75d8f89c827cca82d83909c77074dac36127495954cbec4e7",
+   "artPath": "4f780056e8beb2c1acfb665bb3b7dfbeaba12110db90d930ba3009d97c9240e0",
    "name": "Weep Not For Me, My Lamb",
    "descHash": "When an enemy target afflicted with Arcana is defeated, there is a <nobr>#1[i]%</nobr> base chance of inflicting <nobr>#2[i]</nobr> stack(s) of Arcana on adjacent targets.",
    "params": [
@@ -461,16 +465,16 @@
   },
   {
    "id": 3,
-   "iconPath": "358db77b90868ee881ed44c7ae9ba1f2822afd2e096d25b6088c1434f5b3c067",
-   "artPath": "4203ab6b8102c900683e6d21decb4bc0f0118c25c158897e37308723fd86966b",
+   "iconPath": "2f583c6f400065eafe6f05fbefe5044f2baf7271c4f6aca8cb9720afedb9e714",
+   "artPath": "b5283ec0e1bec6d7080cf0e48ad7cdf6e182c71628591c95eeea4f1e136eabc7",
    "name": "As Above, So Below",
    "descHash": "Skill Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Talent Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "aa93a5a97bdc2e8caf664c11307aced633b5b31824700a661c7b243917610d23",
-   "artPath": "71d0beda48cd4198ed9d3880275cbef849c999019d5e88bcb355ecc6faacebaf",
+   "iconPath": "cda9911c1ba76950e33226d27a04ec3a9c4a52fdf7d57ba3ba9a51c778254b2e",
+   "artPath": "83bf8c63b89a3e96a5c1bfbe7a3793bde6af7d33f59ee28881446ae74d511b4b",
    "name": "In Tears We Gift",
    "descHash": "While in the Epiphany state, enemy targets have their Effect RES reduced by <nobr>#1[i]%</nobr> and Black Swan regenerates <nobr>#2[i]</nobr> Energy at the start of these targets' turns or when they are defeated. This Energy Regeneration effect can only trigger up to 1 time while Epiphany lasts. The trigger count is reset when Epiphany is applied again.",
    "params": [
@@ -480,16 +484,16 @@
   },
   {
    "id": 5,
-   "iconPath": "0de5e86ce11b056904564198f2d256f84d920478aa28b5e573ddb5553536d71d",
-   "artPath": "46f20e4ec519bee5dfda5fa0ebb507279603181ea6ddb949723de32c0abf65e8",
+   "iconPath": "a14d92f689efbe556ee09427c81e8d10bc8a765b2cb8ab4770439cdb741a5031",
+   "artPath": "06f281dc692c5a4f85e923fb711e4af2d8a8c2e54ef437cd5d9e8861b490d162",
    "name": "Linnutee Flyway",
    "descHash": "Ultimate Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Basic ATK Lv. +1, up to a maximum of Lv. <nobr>10</nobr>.",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "198cea0d117b9c0aaba5916feab05df2a736ffc42c2dd6614951714e3aa5840a",
-   "artPath": "10c3567544ec1c0100dd07c6efd00fdc5698dd5058f6eb7977b146f36f4c13e1",
+   "iconPath": "7e469cfc8b4e797516743d13dd6eea80c9fec275868cfeada7b1b20b572cb2c6",
+   "artPath": "50f3ad23ee888651c2c64a4103724fa653b3f7a8ebb389de4263d932be2384d4",
    "name": "Pantheon Merciful, Masses Pitiful",
    "descHash": "When an enemy target gets attacked by Black Swan's allies, Black Swan has a <nobr>#2[i]%</nobr> base chance of inflicting 1 stack of Arcana on the target.<br />Every time Black Swan inflicts Arcana on an enemy target, there is a <nobr>#1[i]%</nobr> fixed chance to additionally increase the number of Arcana stacked this time by <nobr>#3[i]</nobr>.",
    "params": [
@@ -525,7 +529,7 @@
    "energy": "20",
    "id": 451140,
    "name": "Percipience, Silent Dawn",
-   "iconPath": "8879eb9ec8c1b183b641398e521ee59f5678a3fae5a32b5489f168807758ede4",
+   "iconPath": "3e42bcbf3bebf4a55f676ad97c398671c2f13003ad6a64f777f11f45321a518a",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -704,7 +708,7 @@
    "energy": "30",
    "id": 735667,
    "name": "Decadence, False Twilight",
-   "iconPath": "358db77b90868ee881ed44c7ae9ba1f2822afd2e096d25b6088c1434f5b3c067",
+   "iconPath": "2f583c6f400065eafe6f05fbefe5044f2baf7271c4f6aca8cb9720afedb9e714",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1039,7 +1043,7 @@
    "energy": "5",
    "id": 651726,
    "name": "Bliss of Otherworld's Embrace",
-   "iconPath": "18ccf1ed883398c204b309154e21ec85ca7ad6b17c9f3e772c20ec7d3ce749dd",
+   "iconPath": "2334b6b387a7c7b18a01c82a4f106bf34a069cf0045532d837c8ed1f04fb2ab0",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1359,7 +1363,7 @@
    "energy": "0",
    "id": 936253,
    "name": "Loom of Fate's Caprice",
-   "iconPath": "34b250ecb2b075e2d40589f0beb817255838120706860faa46a926b8f70f2da5",
+   "iconPath": "cf4ab5c4d5975307eb434e24969f63453d722b32efe336618a3bd0f0519329ea",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1739,7 +1743,7 @@
    "energy": "0",
    "id": 136839,
    "name": "Attack",
-   "iconPath": "8879eb9ec8c1b183b641398e521ee59f5678a3fae5a32b5489f168807758ede4",
+   "iconPath": "3e42bcbf3bebf4a55f676ad97c398671c2f13003ad6a64f777f11f45321a518a",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1761,7 +1765,7 @@
    "energy": "0",
    "id": 20194,
    "name": "From Façade to Vérité",
-   "iconPath": "8f6cd8752924ef13080c783176f6fe6a19379da168c7826880e7997e85dec529",
+   "iconPath": "fe58dcabe28a53162de0120085c3b8bb0ca1cf68340fa37509ca13429821d931",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1805,7 +1809,7 @@
           "name": "Effect Hit Rate Boost",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+          "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
           "statusList": [
            {
             "key": "Effect Hit Rate",
@@ -1834,7 +1838,7 @@
         "name": "ATK Boost",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATK",
@@ -1863,7 +1867,7 @@
       "name": "DMG Boost: Wind",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "6ed4c20b424ce99fc080b98f339acbf6535738e14c8d8e649ec3e1e286b348fa",
+      "iconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
       "statusList": [
        {
         "key": "<span style=\"color:#00FF9C;\">Wind </span>DMG Boost",
@@ -1892,7 +1896,7 @@
     "ultimateCost": 0,
     "id": 88345,
     "name": "Viscera's Disquiet",
-    "iconPath": "fdcd6f9d27d024b16055890daaf1f65738dcf2a0fd49f4a44d1facb6df18ceee",
+    "iconPath": "97b629addd19c2c2719374096cb552f80f3210bfdae498459ecb44265ce4329d",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1946,7 +1950,7 @@
           "name": "ATK Boost",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+          "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
           "statusList": [
            {
             "key": "ATK",
@@ -1975,7 +1979,7 @@
         "name": "DMG Boost: Wind",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "6ed4c20b424ce99fc080b98f339acbf6535738e14c8d8e649ec3e1e286b348fa",
+        "iconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
         "statusList": [
          {
           "key": "<span style=\"color:#00FF9C;\">Wind </span>DMG Boost",
@@ -2004,7 +2008,7 @@
       "name": "ATK Boost",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATK",
@@ -2033,7 +2037,7 @@
     "ultimateCost": 0,
     "id": 88348,
     "name": "Goblet's Dredges",
-    "iconPath": "f034253311ceaa26ad8e5fd09bdf73afe0820f7cd4b0272e23a2e50ec38bd254",
+    "iconPath": "bbc2ee97463b522eb36fbbd2020cc02a82cb1ee7bd452a87330a896792f51277",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2082,7 +2086,7 @@
       "name": "Effect Hit Rate Boost",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+      "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
       "statusList": [
        {
         "key": "Effect Hit Rate",
@@ -2115,7 +2119,7 @@
       "name": "DMG Boost: Wind",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "6ed4c20b424ce99fc080b98f339acbf6535738e14c8d8e649ec3e1e286b348fa",
+      "iconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
       "statusList": [
        {
         "key": "<span style=\"color:#00FF9C;\">Wind </span>DMG Boost",
@@ -2144,7 +2148,7 @@
     "ultimateCost": 0,
     "id": 88347,
     "name": "Candleflame's Portent",
-    "iconPath": "2b84d1924a76102c9a601af023fc112b0d96f9cf11ac154d1b8e86016beb6d3d",
+    "iconPath": "220d7e5750da80ce975372fd9142b7f229d0d94968d4044603f97ad688a71f5f",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2193,7 +2197,7 @@
       "name": "ATK Boost",
       "levelReq": 80,
       "promotionReq": 0,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATK",
@@ -2222,7 +2226,7 @@
     "name": "ATK Boost",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATK",
@@ -2248,27 +2252,27 @@
   "props": [
    {
     "relicTypeHash": "Body",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "Effect Hit Rate",
-    "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f"
+    "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc"
    },
    {
     "relicTypeHash": "Feet",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "ATK",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "Planar Sphere",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "Wind DMG Boost",
-    "propertyIconPath": "6ed4c20b424ce99fc080b98f339acbf6535738e14c8d8e649ec3e1e286b348fa"
+    "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d"
    },
    {
     "relicTypeHash": "Link Rope",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "ATK",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2278,560 +2282,560 @@
    "title": "First Meeting",
    "text": "Trailblazer? Intriguing name. Hmm... and a fate that's quite elusive...",
    "unlockRequirement": "",
-   "cnUrl": "4f8d8ef49e52ef07076fa7b9c59bb39f2d42e4bfd13ef357697503666b55f42c",
-   "jpUrl": "1ccc5b6cc7fcfe2dca15e46e83f4bfb09f0505c079289f5b64534a93d8427709",
-   "enUrl": "4e19b71fa4ba219b99e8b9dd261c138c907ec0a867de2b71ca96196156d2593e",
-   "krUrl": "864d96ccbeb70bc52879f6b55bcb3b3842ab096db7ae379b340d38ebc2f3f203"
+   "cnUrl": "ab9c480a0f7e19221f90a1271f1e25c736ada50247458a17fe80cd1d9557f8cd",
+   "jpUrl": "9f14cce3730dff40b4834a1aa49b0400858b3c9b053c7d8cdd13a0bba1ae25ff",
+   "enUrl": "934e85c3695bfd989307d2d5ceaa90feb6ab8a686ebab7a9fc7e2cb899e69603",
+   "krUrl": "80e5a4823be39b378fdfc2096e1562a479595a2edf3546c130d5e7aed2852a92"
   },
   {
    "id": 2,
    "title": "Greeting",
    "text": "How's the journey been? If there's something weighing you down, let me do a little divination for you...",
    "unlockRequirement": "",
-   "cnUrl": "431801ec03501c3273c50fa7a4dd23c2c896b176320dddc596024fd64049be9c",
-   "jpUrl": "7570356729de25876a811639a654bcd2c6cac4fb0c3d1940c56e1d59fef4c1e4",
-   "enUrl": "a6d6f3a1f1424e2c5e5fecef1bb4503cf8252d590300e053c1d39c28d4784eee",
-   "krUrl": "910785b5a0d67a8b2ec8d794c5a4729ebad800d7d03a53bfd2c4b82b13ef5b81"
+   "cnUrl": "3038ae004e2c8261ec996fdbc512897b0f9a62bee69941d6cca97318c6e52517",
+   "jpUrl": "bfe9fd6ef29116e8515c81f29ddc7ed1954224957b87a9929b0fe3d689cbcf23",
+   "enUrl": "4739725a7aece706688727c09aaa3c9369d23122cf1b275920477991642f95e8",
+   "krUrl": "1df44be37aa8c59d3168b702cf1c71330e83fa2703418e8e64a0cec394a44f80"
   },
   {
    "id": 3,
    "title": "Parting",
    "text": "Fear not, unless I wipe away your memories, forgetting me is not an option~",
    "unlockRequirement": "",
-   "cnUrl": "db853b9887144d75bd9bb1cb52e3c64d901fffe98d3ff449285b6e82de025eed",
-   "jpUrl": "ca9fca8805ee85fe7a85b0bb39100ec223751347288129494ee75628830347e8",
-   "enUrl": "7f54e18d91205d0c564b946a6d093b597d42976e94eac3224ecf6d914a71b611",
-   "krUrl": "f8e144ac2a1dc18f8576978df02de048d32211fee60a5f160511a19e4f57e59b"
+   "cnUrl": "d0ee47fbd3f204ef371ea3529700ebd9fcc68a4aaf0c9b7aa465898455279dfb",
+   "jpUrl": "dcaaea5bbc273019631698ce2804142ca8551d44dc75635a837baf66f2c9420f",
+   "enUrl": "eab0f9ad32b205adcd7d5b502c6150d26b049cc5b52a83dc706aff05de5dc515",
+   "krUrl": "57a810b38ceaf02367338572cb6450dcf57032b8018be22e9aa866e332c37ef0"
   },
   {
    "id": 4,
    "title": "About Self: Existence",
    "text": "Mortals are bound to the perception of the tangible, failing to comprehend that it is the spirit and the spiritual that form the true essence of the cosmos. Through the grace of \"Fuli,\" we may shed our perishable forms and attain closeness to the true essence of being.",
    "unlockRequirement": "",
-   "cnUrl": "099018899c5cef21798928257c01965bdb7cc2eee6e4d4712e476565c098986a",
-   "jpUrl": "7d6424425033075a351237945dd00b426dcb96a2780200fb12b43c872b4855ea",
-   "enUrl": "526732b4086ef1ac3b6245f129881e7a55b97d84f15ef984ab481fbdfe77d7db",
-   "krUrl": "79ce2ababf53b66d47ad4d5cf4909901483b7034d5df50724c381fc3dd3b83a9"
+   "cnUrl": "57b2a2bcad6bb31c15a5a968c08eab3021e764814e6ae4bb3052b2282afc534d",
+   "jpUrl": "7f0c936e3ef469bc473eb55ffb7d39590ecebcc5d4b4d488647de9a5037a7cd3",
+   "enUrl": "2dee17016d2de5b4d3661cda8fdb1ba1320f8e5620373ab08da934c8f6eec189",
+   "krUrl": "8e82a9397ba2c56e3bb8f4073180482f502eac0e754857a70d9eb3a8b984d93f"
   },
   {
    "id": 5,
    "title": "About Self: Wishes",
    "text": "Recover those cherished recollections and enshrine them in a land of purity. In doing so, all will be preserved from true oblivion.",
    "unlockRequirement": "",
-   "cnUrl": "7ba71f419c1d33fda734d1a95c95c567f134e0e8880f3c35121e98ff7de23bbe",
-   "jpUrl": "74064beeebbd157f0331df5ab37f69f276ad3034d1b4d09660e02503a0cbf1c2",
-   "enUrl": "39b8059804c060d58b2735c629fdc01d11ef77b923d060e129b6bc51c7d2c374",
-   "krUrl": "4a28e00f6ad9f0d08bf45b584054b7afa07d0097033c3bd793868c943b9f6f88"
+   "cnUrl": "fb83446e1f069e465134d7887c0c9137e59126090baea6fec07edba08cb4439b",
+   "jpUrl": "3b740fc5808571aa7574edfc3f5914ea7c7e493b136b287191a0e5c6afc74455",
+   "enUrl": "fc65bfc61dd81ae74625935461ee3ef402683bdc6af69bfa6b80917da9238bab",
+   "krUrl": "99de3875f5611f2e1ad0b490e95ebd339214b34ad30189c5ee8aa566301fae47"
   },
   {
    "id": 6,
    "title": "Chat: Divination Methods",
    "text": "The dance of the stars, the silent whisper of numbers, the foretelling of cards... Mmm, I've heard that divination via app is all the rage these days. Yet, this is just a supplementary tool. To hear one's speech, to venture into their hearts, to glimpse their memories... that's where the most precise truths are revealed.",
    "unlockRequirement": "",
-   "cnUrl": "ed94ca6aede552ed46f9adaf51148552a1e2501e050c1fa11e769914d2f83bcd",
-   "jpUrl": "5e0529b9391876c038e181deab3351f841fca7413dfbab842ced1c893448aa6d",
-   "enUrl": "22e809bb991d03f8440222b229e1364ff332d19305c8b294fa609244a81bddf4",
-   "krUrl": "e3b433bbd7ffdc889f787b0321a54f7bde7a46e1a4256133c81599098b0b0eca"
+   "cnUrl": "f997935a0a70c1c2c051921c3b450dbbec03c8589253686aaf772fa9f45f6cea",
+   "jpUrl": "7357b5f40bcdb1368c340e9fa5db0434ef557ae8b4f6d9edc4a5691b74356a5e",
+   "enUrl": "bc1de0407190d15367ac79065efa9612aefdb7f3fe9d4a904c54e43b5596ac4c",
+   "krUrl": "68e8c8d08d9376619bb9545fa57864bd409e635161bfa61b1f0f76aa2d0c2e59"
   },
   {
    "id": 7,
    "title": "Chat: Light Cone",
    "text": "Through the course of one's existence, only a scant number of impactful memories— pain, joy, rage, sorrow, can be harvested... The Garden of Recollection was conceived with the preservation of such memories in mind — yet it isn't immune to the corporation's endeavor to openly profit from it.",
    "unlockRequirement": "",
-   "cnUrl": "e5666436cc1dfe9861044f39b8179f1a85c3e8067d3d6211559ba8f6f8cad84f",
-   "jpUrl": "6cc75e8f8785b1de96d2bef7888a90c4617133ea18aabcd57c7e6c926f0f74d4",
-   "enUrl": "6ffa81ee373d027f24745ccba7a93a24fceeb891821fb167bbc81b8fafdd07f5",
-   "krUrl": "7a87fdcc59a4da7f25f0caf6e72c3d99040c6cbd6c6c4a75d103307860aaffa3"
+   "cnUrl": "7976d4dfe9ea477e5ca80c418da7c3c64e355193dad84d88aa2b07897217762e",
+   "jpUrl": "214d586051f9fb4d59d5edeabcac92516f2ac2d34ea9c766f142d330d716899e",
+   "enUrl": "87895fc2a968d3267d3a9ea3de6b7055c7b185b022d6849775b1c4897baa996f",
+   "krUrl": "632ec8bde7b9b76f1f02f69124620e0d8f1dd7c32328ca26a1bc688edac2cf2a"
   },
   {
    "id": 8,
    "title": "Hobbies",
    "text": "If I can identify and encapsulate a fragment of memory before it's unveiled to the world, those solitary moments of delight are my most favored and unique memories.",
    "unlockRequirement": "",
-   "cnUrl": "d92d968f70c401567640bf4184cfecdd308bc339afb382a51d8e898932b28629",
-   "jpUrl": "8191ee9a7e8cb8f40b330261c53b9819cc5387494883c19daaf2386340c94ebe",
-   "enUrl": "f10ce61f64ce92fc54e7f6108df518b474f61b12412f9cc1c33af7ef73c01ac5",
-   "krUrl": "3e7ea5cdb18125bafcdfe61e7b8cfd69363bf2e532fe84cef405cca9bab4b9ab"
+   "cnUrl": "38e7e0583c60b49b29760b99345b19e3565b788f86e66af6539de66e69081128",
+   "jpUrl": "c31ebb61b1344063cb78058b614f9d299486cde18fd9e2864eaab57c10bea8e2",
+   "enUrl": "742acb0dc4828fd3160189c55436919b102485abb51f89fe4f8bb6edf6667416",
+   "krUrl": "0d10558267b68fc97d73e507137054fa6070228fca6e470556ab5a708c8e4368"
   },
   {
    "id": 9,
    "title": "Annoyances",
    "text": "It's undeniable, being without a physical body has its perks, but when moving through the world in the form of a memetic entity, the danger of forsaking one's \"self\" becomes apparent.",
    "unlockRequirement": "",
-   "cnUrl": "a44159f7841f9eb19ee87f754aee308f6b48977df6b6dda2c8009c3ab5a69b92",
-   "jpUrl": "2bfb2fdfec204131575f03f02be80b230b0a42bd19a96cc1a698658e151a509f",
-   "enUrl": "7e74bdbf6f517fad61580f94edc2f65979eefe927c0bb20df5d43b29f4f3cc2c",
-   "krUrl": "7f6d2525277ff542c9faeace76b572ec07725d2ced90159f7848fec9ce2e52ea"
+   "cnUrl": "86c3444123a6c40e71fc289338d82b72132d021ba671447be4fd94b16bdbe435",
+   "jpUrl": "25e178fef0c4935d8af901df94f1bf816be8ed1149ec37a8b1e89aa2237c59c5",
+   "enUrl": "fe424dab05275f9dcee884f0a9c1758b4e72a3b2f1f9f3320e1f7e0a31c395dc",
+   "krUrl": "22a77e2094e97f4ccdb34c0ae0831bc9ceed9d338e1268a5ff0a724a4d9fa886"
   },
   {
    "id": 10,
    "title": "Sharing: Pure Land",
    "text": "The most luminous and lavish memories are to be sheltered in the Pure Land of Recollection. In the tales whispered among the Memokeepers, \"Fuli\" will blend these recollections into the Eden of Blessed Insight, and they shall serve to reshape the entirety of the world after its annihilation.",
    "unlockRequirement": "",
-   "cnUrl": "316ec602869c7fa0f7ed064cab6832018073b7f4de22c48b3d36d311bfda8db2",
-   "jpUrl": "66d01a7451db2c351b14628c8c3a7d02232918e62b72859cb8e26dea3963ef7d",
-   "enUrl": "7fabe0238036ac6501ed611d3efe03ff8e5b1061fc89a54e6feb7bdfbf1ae0b7",
-   "krUrl": "810b6b7cbdb549b200fb766d2287165eb6b5e90ec5b25f4517552c07720c835c"
+   "cnUrl": "500cb7580333d7298df3f1b34a78c8f25250e7e00675b7bb6f17348eff5b6854",
+   "jpUrl": "139411f701cf286ba654a6850aaf14c01bbd6b1bc23fa65b9a5b28679355e856",
+   "enUrl": "a97005e41398a6b92070e06b1a74903b89dabfab676ebc84266d71c1b7bbb31c",
+   "krUrl": "4d84721f2ade573e00e0686e08cc9f42808be103b5d6ad0773e56e2e348fa2cf"
   },
   {
    "id": 11,
    "title": "Sharing: Memetic Entity",
    "text": "The day I became a memetic entity, I saw my own corporeal body dissolve, people's memories precipitating, crystallizing, and then shattering in the flow of time. They gleamed with such brilliance, as if they were crystals with boundless facets. It was in that moment I grasped, that everything is transient, but memories are eternal.",
    "unlockRequirement": "",
-   "cnUrl": "98eb0822baf4b5ee0bc8e39e42b18accf8926b64b29b11e93849176ccc16db38",
-   "jpUrl": "169afa40ff9af0c7a42e72a3dd5b3f2a860a923837f976441d771afbeed993ff",
-   "enUrl": "f486a5b30bd647236085b3a0bf6ade9004110a18c70c5f28d7ef41b29881108c",
-   "krUrl": "d21bee74e5a42b1f857f7beee4a6b4163ab64f66ce7d1dcdbb3ee72f8c2898fc"
+   "cnUrl": "8ed764315154ac3fdb139c742cbb33bf7fdcfe4eb11aae3c5cee566b16cf202b",
+   "jpUrl": "ecb357b44bcb37bf7f9447e034845c192da483f3fffbb2439a11a4cb6799c7e9",
+   "enUrl": "b9172a523435a318f1e30c5d87df3fee8547d82763a0353f9a1dc3980de8e086",
+   "krUrl": "bd00ddfb02f2733f35f4fd8c5dce0ea4e6780e92bcc28843ea110a0e6a59c3be"
   },
   {
    "id": 12,
    "title": "Knowledge",
    "text": "A few Memokeepers prefer to covertly penetrate others' thoughts capriciously reshaping their memories, but I harbor no liking for such deeds. Only the recollections that remain untouched by others carry true essence and are treasurable. Anything contrary is just the imposition of another's thought.",
    "unlockRequirement": "",
-   "cnUrl": "5239e7dac9c6bb2a333de8bfde0bc44c7f3024109d9c26d24367e8f85d968ff7",
-   "jpUrl": "8f9e481599eda12e5d554e110d72d8e18ab89d9688fa9097e2799a916eaf58bf",
-   "enUrl": "c509301bcb7936b45799342a53d70d2cc37037eb4cd4d68fa5c7876b65602133",
-   "krUrl": "2da666653624f791ba566ba1a88db2cfd501f39962fed9e3df31ce6b84139f51"
+   "cnUrl": "f7a53f68ea55277ddede487782d3cd70477af49d0f50c7f200114072e0337e7b",
+   "jpUrl": "4641449f5255d834940967be7116441d5a5dc07b9278125943f99ceef348a777",
+   "enUrl": "1f1d8aae9b78f110647c66dfb3f7d821ec3b2600074f5b5ab27bf0834e7e91b1",
+   "krUrl": "451b5035982d5fcfa8cde29bf060cea237d919c2c69ef3420416b362f233703f"
   },
   {
    "id": 13,
    "title": "About Trailblazer",
    "text": "Perhaps, there will come a day when you'll willingly share your memories with me — I eagerly await such a time.",
    "unlockRequirement": "",
-   "cnUrl": "2f1a728791145555d54e4e6b5cc982fe6b496f954de84eaba0c5a99d73ca4680",
-   "jpUrl": "40ffcdb5611ba3e0944adcda6c2ff2e75fdaea1031fa03bee6d36adc6675db7b",
-   "enUrl": "2b13b9129f937ae7948314bb75fd2d88738d9225cf26a0a63e6200265e2f5dd5",
-   "krUrl": "03a952cd679681094971eab86e828ad8a4543cfc4b35ee598ee5d69de9f61341"
+   "cnUrl": "96c97a5970e534c2c8d97c9a90240823e127af53f94d0e51387893d01d2a641d",
+   "jpUrl": "1bf75d854a178abcfd6cf1aeba3ad7ebac05c21edec73a2848d53482b345c3f1",
+   "enUrl": "908aced7ce4cafca074648ba02c513b9b91c8d581afb9958c002c14d27c8c21f",
+   "krUrl": "1c46d942bef14a76a68ff3e42c83b70db6818ef1e93439b56ca691df36796be0"
   },
   {
    "id": 14,
    "title": "About Acheron",
    "text": "Avoid entering someone's past memories lightly, especially hers.",
    "unlockRequirement": "",
-   "cnUrl": "ee6bfd4c8b5afc643f048a0533ca9722184d6a8f9c32448b93cecc43d5782b71",
-   "jpUrl": "0dd93e2d91c59e3ace48bb3e7fe1bad4add4a154ccbf1ed3da60b17bef62cf31",
-   "enUrl": "34b4bba2e42a424cebcb9db42333af7be65d1e698f5032fb249370674fe851f7",
-   "krUrl": "22700bac2377d4185e0882e1b6d00c5c2cb5c9d882c0767b8a15a604c37af633"
+   "cnUrl": "9cefd333ee4b87729893956cb6140c28e3327c140409cbdb6f10216f49322fc7",
+   "jpUrl": "9442cdf5f6880559675d462605fccb1be187c9a4bb486b632f8966a74f14581d",
+   "enUrl": "2b0cb8549ae17ffc534eb5d7456266e8366db68ed28394f1bb66ea525eb11989",
+   "krUrl": "db7232c35693724a896a78c09bdacd0c46daa01e2a150978dcd04f3ccf13135b"
   },
   {
    "id": 15,
    "title": "About Aventurine",
    "text": "When exploring opportunities, one such as he, a gambler, will never reject your overtures. Gratify his whims, but also keep your defenses up.",
    "unlockRequirement": "",
-   "cnUrl": "971f42d8586b173f6c6310a373b33b794f49529379595eebd33a80f0b3437515",
-   "jpUrl": "4c7e00ec987260c82a772d44db87c05f38cd4e0b4fe9f8d99b8e39a126733f67",
-   "enUrl": "630a4129cd4814e87eb8d4bb5d0afb373dd4ca7d06497962c58fdfd21f5f092e",
-   "krUrl": "aa1a8fe605aea518ab594b93b47855dd840758f829bf4d521acfde3e15a28de7"
+   "cnUrl": "d8854e8dc8d95b61941a85d8deb75843366a6cae7d750c5d6e744ba69b974e7c",
+   "jpUrl": "0186315e3d1eae36ef01380d71e33cf100ed45b918da6a79de912180feefd058",
+   "enUrl": "0c4655914e98a1af053c923e03aa2e6c1a05087d05df97573bf1ae3604007887",
+   "krUrl": "46474ecd8ba72f5cb25e4693b854721aef93d65fb38671642d091fefdecff61b"
   },
   {
    "id": 16,
    "title": "About Sparkle",
    "text": "Hmm, a fascinating young girl. She won't admit it, but I imagine she's always yearned to be noticed by others. Her mind is the most chaotic place I've ever witnessed, but it also possesses the strongest tool of all — intuition.",
    "unlockRequirement": "",
-   "cnUrl": "d2ae19f14d9b330a86bae4d1c036eb7f5413b1d0a5a89e9238ab8da3e64f1952",
-   "jpUrl": "e30b85393db865ac6f3bd846e3e9406d4813477967d91a810ce80d5a54439599",
-   "enUrl": "d8d3976d1720f3abf2e352912a4d931644137a51738ed5d39b06c70c7f6961d7",
-   "krUrl": "feee175eec9c7a98025d7d588baacae290ade2d8459e690bd1e03ca20de5c383"
+   "cnUrl": "657660ff0caa6acaad542db06bab2ebdee291c584c34d4ca5ed5bf6e9999811e",
+   "jpUrl": "a557a8011483e03b486dfdaa495b7798e4146b503d2f19830d54419827425d28",
+   "enUrl": "6ab5a1de37d99d0ccb1c767a3147a33479d2fdcd4fe1cca05abbba378d3f7919",
+   "krUrl": "c579d51c0e23912dfcd3d88af3f1d178b711049bb8bbd6c83d74e0cb1a559f9d"
   },
   {
    "id": 17,
    "title": "About March 7th",
    "text": "Even if her past is a forgotten whisper, and she was once bewildered about her future, March's experiences will undoubtedly transform into unique memoria. It's exciting to think just what memories she might bestow upon the Garden of Recollection...",
    "unlockRequirement": "",
-   "cnUrl": "d5abd9d0def47ef5d644c795f34c257e48472a322b12c9021f0dc530c3d0da16",
-   "jpUrl": "42d3fa40017b3d578f9ad6d04fb7d960ba74144abf6ab33a5b0c69d98cf4c480",
-   "enUrl": "387a300bc351e3e2c2a4a80774d455657f687601ac8db4423a9fc8594aec088b",
-   "krUrl": "de7d45bba47842c258e83f0e095da4b7f427ed4ee32802a2d2a9fb1c0137b4e0"
+   "cnUrl": "1858173873ba3774513002911fde730ff3706b7a9dc64ae6933bd92855240837",
+   "jpUrl": "d9007ba1cf55fe919300729ef42d8fadc157c5a9fe96e34855c2eecb60d6c795",
+   "enUrl": "7f8b22446af214abc47c5b750916f0735ffc51862242f66cd2b4940869690360",
+   "krUrl": "350a1d65fcbf71ac716927f4d7f233358afeee9e51c05db74a3e7ad4baac82f0"
   },
   {
    "id": 18,
    "title": "Eidolon Activation",
    "text": "As fate dictates, dispersed memories begin to intertwine anew...",
    "unlockRequirement": "",
-   "cnUrl": "73be736c4b2e4ab6a09d73e76d85946afbd4524bd9b693e49c117bb0289000d6",
-   "jpUrl": "36913bb888a3e51b4cd3ca7ea5c9a700c4990b904150163e9fa1f00c303b390b",
-   "enUrl": "6e880e35448d7b239e32c5f14d6b237247eb156c4d38d6ba504521fac9c12184",
-   "krUrl": "ea6ad988695cc0af3124f44d81ca437e24091ed53d4d7a22d6cb712ddcc7eed7"
+   "cnUrl": "ae23f4ea12bde726169f0ce79faaa47dd7f4303b769c1fa1016e124a480b254f",
+   "jpUrl": "72155e33061945fd6e1170543235ed6d9d04fd22681f562e01bf6da92edd2c8a",
+   "enUrl": "90d32b5ced5216f8d1db717e2da20767ae42512eaaa0ca1e0cb85145e542b99a",
+   "krUrl": "37841d4a95fdb2df0ca53017d7ef8a6cab7d9522f9018feb78f50b3b1fbf17e7"
   },
   {
    "id": 19,
    "title": "Character Ascension",
    "text": "I recall some enchanting moments...",
    "unlockRequirement": "",
-   "cnUrl": "3fbac058b140644e0546f17c504f75834b1d7536ba85669af3581dd171f72091",
-   "jpUrl": "62760172b77ad89434515de34467efae1e5b7fcecce016900aa43e453c5f196d",
-   "enUrl": "ccf8fdc561fa71e752203ccb00867d279c4239263fa18389829c642d77fd09e4",
-   "krUrl": "a2daaed6750a978c80a8cb512c9be260ba57ea29063a76a597f02b1ebf45eb3d"
+   "cnUrl": "92f287f6b3516fd233d83539c7d46032e071de35e75a11fa519f300ae38a6e23",
+   "jpUrl": "19f2e9bdffae280f196919f8ccbb03aea8989601896116c14ac941b07bb47ee5",
+   "enUrl": "0a49b4d631091acc4270ddb2fefb2fd7fd01da90f57c1ccb494c2e29f5a6be31",
+   "krUrl": "4e9523630b4d0782ab227d16f66abbc9cf82ca93cc4b3e8e6c764cf245f70452"
   },
   {
    "id": 20,
    "title": "Max Level Reached",
    "text": "Set forth, for countless memories shimmer in the distance...",
    "unlockRequirement": "",
-   "cnUrl": "2a703e4d76488847a86c7159a155ef6e8c52489a79fe46c615b9fd52ed9b60e7",
-   "jpUrl": "93b0253dfe2155da77376e2423b5172d0d634b71fb4b7008d7fb7ba4f09935bf",
-   "enUrl": "8e68dbf61ef7f26df5ec1fc4fe0c40481b65d003904b4fd4b24951f33e54e4ea",
-   "krUrl": "a6b0bd38ab16e7dc3009ff133b8a406f4ab286af4e0d35a284355758432e19b4"
+   "cnUrl": "37dc21651dd3196492ae541c1b3a11073521c41b00883e10f8ac205a8418b947",
+   "jpUrl": "9382dbabdcd28d9d7f37edbb2e8f69b4492c4b5b71f9d4926e0f33c0c35d3642",
+   "enUrl": "39c452dd57199d2277f75079e4bee445990de82cfa5888e149b62f3cdd57cc5c",
+   "krUrl": "624ea3dbe130b6a0aff552bc06593856cedc419ddaf202bf90eb37a156879459"
   },
   {
    "id": 21,
    "title": "Trace Activation",
    "text": "Grand tales stem from grand pasts...",
    "unlockRequirement": "",
-   "cnUrl": "bb8b7798b9d41d50a5297b0af9e94c120a34d4d7ecfb06589844d19a0df3e9b4",
-   "jpUrl": "e7a1d3334f58b2f826c0f99067bb28a8e7552b544b237c1384e81b49bfe002fe",
-   "enUrl": "f145de8e68d0a9841e04e47b214fc8efd91c33767f3e73029d71a48521d45c65",
-   "krUrl": "1af0de94228e9f714cefe1a725bb4276ae6daed8400ac4aa498202894e60b116"
+   "cnUrl": "495cb69a03b82f235f89d6e5ea2a10ea5f395ac5ad0a2e5bed8db20983dd535e",
+   "jpUrl": "5bfe87ff40199cad7a8978ef7a87670b56b63134fb6c8f6c14c7ed92b19f2285",
+   "enUrl": "d1c59d40e4728219964db95db4f4483f972897fff5d7ce878ed412054b4724c0",
+   "krUrl": "cc8e4368347c9355a9e9e87532dd35a7ae0d3290618a88fea2ea30840485b114"
   },
   {
    "id": 22,
    "title": "Added to Team With Trailblazer",
    "text": "Rest assured, dear, I'll do all that I can to assist you.",
    "unlockRequirement": "",
-   "cnUrl": "20162dee651159907ae733da62dd1158a1ab9299a6c0ec6ba3c6ec4fd612ff67",
-   "jpUrl": "b4dc4633baef0c74f4e0d33011c0ec53b2dad5149b06e54cc343f6bcd06249e2",
-   "enUrl": "fe5332f775faf93966ddeb931f1fc7b6db915e181925fb22251f2ff3a7513262",
-   "krUrl": "22001d9fe8b22e1f8170e22ace9d0d8ce8bec06f2ae8d89f54ac48d78cff3217"
+   "cnUrl": "6955356fb8d20ff4ae293e0c69e673c55f44dfed477de10c2beee62cb16c746d",
+   "jpUrl": "f7364c40b87e03d73e5990c7bf08f996c38f52150bb8bdadc7a46f8868c49534",
+   "enUrl": "8a830278138b3da667f05dbf4cb3916b26a5084890f7c95e3e858ba1b3124bdd",
+   "krUrl": "01a32ea1b7ddf3358a710f81daaf6ebf630ae13c002f8fdf2c9c80104e30dc5b"
   },
   {
    "id": 23,
    "title": "Added to Team With Sparkle",
    "text": "Little lady, make sure you don't go overboard this time.",
    "unlockRequirement": "",
-   "cnUrl": "7f9582756b596236d617e12a7efe301585ea325aa615996c4d6ce0d7602efb65",
-   "jpUrl": "36c32568e8f59c891934da7efa74e454a2c821346e40590750e9c8d3b3f64fcf",
-   "enUrl": "0a8924aefce15140e5deff7f7621edb102b11a92b96acfa378039016132a8ef9",
-   "krUrl": "842af9b344d5c84628a7c994ddfa0f7c1048759288ba6e8d14a834c9606b2e94"
+   "cnUrl": "382a7e2b06fddeb674c61018ec094ae7f8f74530dcff9bc51658688a7e293a55",
+   "jpUrl": "fdf5326e963aab0b72dd925c7f55b5d136ee73277ff71a0eab22b3819a88e973",
+   "enUrl": "ed3f8325cc57ba3a9dee74ff0a720fdf9996d6038ae96efe504396e60638bab8",
+   "krUrl": "0eef4ad9a96b5ec750a538f4b87788a4ed80968a723763ff4cf4898a5d573131"
   },
   {
    "id": 24,
    "title": "Added to Team With March 7th",
    "text": "What meaning does this journey hold for you?",
    "unlockRequirement": "",
-   "cnUrl": "d8c0df698e4872f7592328377e6492f5075640b2d4cab1942433f7e8a6b8368b",
-   "jpUrl": "40c567b5983fb2f5472e51c8c6d910546b1d521902c03fb13718a912a5c10110",
-   "enUrl": "c7e286cdb86e154495b700ca2446df2914411d7ecedaadcbd9428940b883884b",
-   "krUrl": "784b7e80568c7702bcacc182a81b60eb0933c8aadb632f102cd922dcbdc37187"
+   "cnUrl": "4bbefb5d74b76524128557130b832e6c8713fe9025c896535bf4a937f29b3bda",
+   "jpUrl": "575fea5a79b38a4915a31f0d36fe65acc92d26642e717351fb8a396bd9db1dd3",
+   "enUrl": "56a60b75f89aab713aaa9d0ac3bc6f65bfdfbf0b771032b19bfdb54674159b3a",
+   "krUrl": "587ae7e33b46783bcc2f06d9c76c623c75ce3e23f15df34f09e0fa5443878602"
   },
   {
    "id": 25,
    "title": "Added to Team With Acheron",
    "text": "It's your call... What kind of dance do \"you\" want this time?",
    "unlockRequirement": "",
-   "cnUrl": "bd2ae9b04e261093b32005ec1bb1e8675d3f394a34ac1f63afc6275c2bacd941",
-   "jpUrl": "aecc5d2f10eaf4b856b3092f0adcd324f9b490c77ee7df2453b861e9415a9fc4",
-   "enUrl": "3828f5ce1d63e62383782c6e6ee728ea4989ee6df80f8acedfcfa300a4e5af94",
-   "krUrl": "601d24e234772ed45d1b6fb72f3339d2212ebd98751eb83f50c88057b5ee60b4"
+   "cnUrl": "756c802a326156910c395e0cbc041d97e852a7da7a7779e6b0008ad9817866f4",
+   "jpUrl": "cf342fea1ea3dcb3ba92fbb3429c86853ce8a44c9e84a4559d4f1df981a17b93",
+   "enUrl": "e30aed8d36d29bd6361bb06d177d2fb39b59352e85ff6c8653495765eb71f0e6",
+   "krUrl": "a1c7fefa1329c926e8e1b7a9f0273b761360fe31ffb5e73fb6a3797ca97b37c2"
   },
   {
    "id": 26,
    "title": "Added to Team With Aventurine",
    "text": "As we reunite in this venture, let's hope the fates grant us both what we seek.",
    "unlockRequirement": "",
-   "cnUrl": "72cee1d8e11c432ec564631300c82352db5432254cbf90de1c94b9a9b224d392",
-   "jpUrl": "ef268a4b9cc2dc62f83cc940a39d22f508c90747337338460d40b981fb63cc94",
-   "enUrl": "cae396e16ea1637244aba626c13d85d16851b1a6d2bfa0557fbc2668f568a1f3",
-   "krUrl": "6f90a022f3d703b9532848986be5e0db567f7f9b0c6d0b6671681354fa33ec17"
+   "cnUrl": "56edffd6c5bc70bfd5dba1816c11d8d244a0b13c46803ce20535c7d8eb7f7711",
+   "jpUrl": "c0136c7a1be5e8ae29c5acd783b6735386394a0f4f15216ea1ac105f7348d541",
+   "enUrl": "19fef3f28deb3c04da52bb2682e1ed5d262e671cccbf8307b0cf1965f22eb74c",
+   "krUrl": "43ac6db5c31d58abd7b3e481fd406816180494e91b8b96d19b41c98d9079e9f3"
   },
   {
    "id": 27,
    "title": "About Misha",
-   "text": "Coming soon - Stay tuned!",
+   "text": "His being yet again demonstrates that... there are those who, despite being offered countless choices, will always choose the same path.",
    "unlockRequirement": "Unlocked after completing the Trailblaze Mission \"And on the Eighth Day\"",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "1bd942b706ae6f2b53d26361371808084c160e50054bbfcfd8094aa37497ea9b",
+   "jpUrl": "ec0c7e52034fb4b76b15bb1d2880ffcc8e132a75357711d547e3da5983731461",
+   "enUrl": "b9031cc9c11350c20fc0e5bd60babf1008512583f8d935ea489ba615285bfe99",
+   "krUrl": "888413216525cae48040fb96012605523d4120a02f2c5eab8932dea832bc37c1"
   },
   {
    "id": 28,
    "title": "About Robin",
    "text": "Maybe it's because she left home early she realizes that dreams, while enchanting, are ultimately just that — dreams.",
    "unlockRequirement": "",
-   "cnUrl": "7b64f1df47cc0149cda18ab97e31523874e8d257e337beffd70c0956ead07b17",
-   "jpUrl": "d78e95477d40bbe6fd1fe5059560fded964bf47600f74aed9123f40de3214d01",
-   "enUrl": "50a9668165b755fc58f57c4a2749ca588595eeb461e24130bbc2afcff7ed94bc",
-   "krUrl": "c52bce4134f76d3757a1fa4a8fbbfa38b1846646bb959d74aa7bf25cacbb261a"
+   "cnUrl": "a9541c2e2d6d2a4cfdbd662c4325bbdac4f686c5af06425009f5aace540e59ef",
+   "jpUrl": "8bbb233747327622fc66f4203c6f4f91bd601de60c6253d2d908fee584959c3b",
+   "enUrl": "3fda80145bd0be4c64aedcb72474d2ff81f2c58a332a316733ab48f6fe83d5ca",
+   "krUrl": "c0e97f6462465cf71949f24fbc5f6f87cf76839d4530a1ae7566248c21526fbc"
   },
   {
    "id": 29,
    "title": "About Boothill",
    "text": "He cast aside his physical form in order to etch the memories of rage and sadness deeper into his being.",
    "unlockRequirement": "",
-   "cnUrl": "f701d01fd972873d88c6e6827977cf7f1cd201c7ddbc39ecc250dc3c8025e601",
-   "jpUrl": "4de6199b761f763e58302d5bb7d298baffff606f27037e040a2bac5d93970be2",
-   "enUrl": "701527f0812067a35cd1dc89468284895fded519f2afc7b5a4d1768850764462",
-   "krUrl": "7b39ac640ce298d50ce7ef4796ba5fcd7d34a23039c566de3a55205b2a9a8320"
+   "cnUrl": "e2659eee6b9401701224bcbd3f4d9f373cbe701076d9b477d55c74c87ad7fff9",
+   "jpUrl": "59367b1d927bc8dc7010a8b18f56908baeca45bb2a43306ddb2b94ec4e7a5fed",
+   "enUrl": "361ce7b523d9754a1fff070fc3c7db09b8d49247f2c135d51c1f4f1aa3ac6c2b",
+   "krUrl": "9802d58f416208387c6e212fb083f3f0dcacdcb039b428bd197801b6ecda9ed2"
   },
   {
    "id": 30,
    "title": "Added to Team With Misha",
    "text": "As expected, your journey began long ago.",
    "unlockRequirement": "",
-   "cnUrl": "984629fc3e547b0ddc1bcbd7a0e269096557525d1eaf3498bb42461b3d0d15a7",
-   "jpUrl": "a9ec6213ce6cc8765885490071e533c6eb45aef46b8fdc8d5fa4208b2a163cf9",
-   "enUrl": "d6bd919e64d66b7690908a00b946b3ba4fcaad18ce353c2a0f03b178fbe99263",
-   "krUrl": "9571ea2f838eb807ada84a83ed027537631ec0e22950362c586b044394c36e67"
+   "cnUrl": "7ee02fe710f3b6601e573964b61d535765c5efba18054f730909f1b466d6682d",
+   "jpUrl": "270a87ed044b43ab51e8a565919dc08fd273134919e502f22766dd5de03d1931",
+   "enUrl": "620c0c972370adc25196e60f015a59eddd1f39bbbe51cd569c9921872eada618",
+   "krUrl": "95a7e4ee9e0b3c0b69ebb96e3a0deadf475f96c14bb9e163a8f40892269b9015"
   },
   {
    "id": 31,
    "title": "Added to Team With Robin",
    "text": "If the price of giving up my body was not being able to hear Miss Robin sing, I would probably have some hesitations.",
    "unlockRequirement": "",
-   "cnUrl": "60dbda99b1b48654534060aed212852c4b6913576193df6af8602d422f9edc4d",
-   "jpUrl": "c4d9522d6cfadf03b1dd2611b8001dc7cea083ccd9e7ef049456660f8b4313f7",
-   "enUrl": "fe4c8a2e58f25624a57693dbe96af123daf8dac7bcd4da48b649214d92132209",
-   "krUrl": "053f72b7a6949c09c835366ff557c701609f81f9f46b0f01aa1b2523eb70e7f5"
+   "cnUrl": "d199a1bb0edfdaf4b353a013b3fa9032fad68c944a690854ab93a94bc04dd68d",
+   "jpUrl": "6fa693a5cf82987d681e33ba16d7b201836d9d7727fe4304ac53390450dcd436",
+   "enUrl": "a88ba678d77f38c37e8547decd50747373bdc7f81244605cbb6dbb0be2ffee4b",
+   "krUrl": "d4943f31c8ff74614c497652c6fbede0327247b65021bf8e0e311996d892d000"
   },
   {
    "id": 32,
    "title": "Added to Team With Boothill",
    "text": "I've worked with the IPC before. If you need my help, just let me know.",
    "unlockRequirement": "",
-   "cnUrl": "4dcbf8af519217532a49398c3f0255770b507bc85bf3a1224c8383d0406b74be",
-   "jpUrl": "5099c2c8de53dbd6619c23a0fadf61b0c5334123f6515e1b764d7e99263b852d",
-   "enUrl": "6507bc10613293c9befb14585c13256c569e40b3125fe4df7fb06d5fd4dbb41b",
-   "krUrl": "f8400bf98df553bccd98c7bc2ca9bdb92565c688fa3c60a02b222b6803ed6499"
+   "cnUrl": "089d1b135ec71063e1ebd3a179aac46de7bff40cf8b7d893956ec19d9d729bcb",
+   "jpUrl": "41aa9ca379a0073e717ae9538d45fdecd93790226d2c64611a40b06e8ec1b167",
+   "enUrl": "54e45697d250310ae48d6104b1ed85372e4c765ce9a66b1aeecae6886d96d4e2",
+   "krUrl": "c24d332a15601ca0783efc16f0a6c75582cd2bc00f7631af38d0917162003419"
   },
   {
    "id": 51,
    "title": "Battle Begins: Weakness Break",
    "text": "Destiny's course is becoming apparent.",
    "unlockRequirement": "",
-   "cnUrl": "bb7c9aa0a03f19e079dfe7f33c275ae33900ce9da697b469a9084bf0ee8cb434",
-   "jpUrl": "89ba846b7cae0cae4fa388112d7c62091b61ad6ccb1eaf6a962904bf04e203dc",
-   "enUrl": "85a0c5eacccbddc14bef984ae3815e281928a1ca99dd4e5f3ad3ef7c92c998f3",
-   "krUrl": "534f35f437228fd96f9b35392e4a96169e10ab210a42413afa67a0c63fc096ef"
+   "cnUrl": "b5d70b0544eec9b93b0a1c3190a2e42a66a4469c0c5abe4ccb0d5d666df55c26",
+   "jpUrl": "59c503489e9a4d488577ecf1bfbad382a21744fe339c4a3fa2c2cd8e7e7a6561",
+   "enUrl": "523b00bd8bb05796c833889161d753f39cf72c0aead00c99c26900880249bb2c",
+   "krUrl": "6d47254759a56ecc497ef383270b33b22ece22ce4c1b4f86125b5103808f64e6"
   },
   {
    "id": 52,
    "title": "Battle Begins: Danger Alert",
    "text": "Such an elusive foretelling...",
    "unlockRequirement": "",
-   "cnUrl": "e20ddf28d9c216930453fb75fcd6a95d9cb7f7a0ad7522d096b4d3918b6dff50",
-   "jpUrl": "ab185f067956b2fddf41b2f785579e49cccd6e041a1123fd29a0b6a2e72dd16f",
-   "enUrl": "c612f658a76f5f3b33aa9b57ccf7d8b648c4bbea8159b819818d57b08adafb68",
-   "krUrl": "063fd1d3bf902c42755507c9d421785f7c413cf39b82e55e79728ee48fc9f172"
+   "cnUrl": "1b9022eeca45173a2e3781a0b669a2287e5f0d31e056cecb8505172c4fc67d1c",
+   "jpUrl": "134ef7ba68e4450309d2c51de3d231e1b67c33b767c5ffd3ac585c0fd55ca7e8",
+   "enUrl": "69060e5dcdf85ebaff0b634f20a9914b986b54a11dffa3fe9a3cd606fef399d5",
+   "krUrl": "7cab805a5f5f9fd243b61dd045902b229998363ea7631afa36bc615b3bd79634"
   },
   {
    "id": 53,
    "title": "Turn Begins 1",
    "text": "The threads of destiny aren't chosen.",
    "unlockRequirement": "",
-   "cnUrl": "f02822d898bc6d24f30bc191c1526525d4c167358a4404e8b5000d85d3fb52a4",
-   "jpUrl": "04a10382cd73f4e91dc9df7baf8aa91f05d168a9d26bdf60d8762666e1226c65",
-   "enUrl": "e61303728a3f5a452c2b33aa61d7f4906d402cfd394046a38fb83c4c0b12e87e",
-   "krUrl": "d8d1614b71a043fd6d5cb10fffce2437e16630b916248c5a9bf9012b5d58d923"
+   "cnUrl": "0955b0bb7305f05b8e1956b3691056c99b7508b28b3beac85d330d5a22edfb7e",
+   "jpUrl": "ab27a5cc17440ea44d6d18988ecaa020950f3a2cab8f0f9597e636137adef06c",
+   "enUrl": "bc0ad1068956ebdc2c250f1bfff52414cad5f46ca55a35b37c1d9ef2293bc370",
+   "krUrl": "831e926443e027b60e729ae027f8e7dc608237afe3bcc9292eff8adbb998d1b5"
   },
   {
    "id": 54,
    "title": "Turn Begins 2",
    "text": "What would you like to know this time?",
    "unlockRequirement": "",
-   "cnUrl": "21b10d2b4fdcf52b89fd2c0b1162a7df8a0f191b95fcf0835bdc6e3981273d84",
-   "jpUrl": "0793225dc863dc8d8b6bdb497a5f015160b951633cc82b41548e1249a3f41134",
-   "enUrl": "faf25b1382d9f7995305d4e6b891ff559b659a24c77da37cf4868e0f3c09576e",
-   "krUrl": "84ecdc77305f45d1c00beee948cb7ee43855d3956aa83853b8c575d6635c283e"
+   "cnUrl": "2b2343f029ef254b58148bcc73977e68a937578cfdf2201141625073a9773be6",
+   "jpUrl": "1c68349eff0b23078471a3e3a79cc5c89c0672741216f3f5eb51836c7ca9268a",
+   "enUrl": "962e801458140fb1f4306d74fa08c4275376603f204dfe1852c8a8af30d0a280",
+   "krUrl": "7837f0ba199cedfdf2f01b1af01f6481c9f07089f0ffc38f6c763d7d4bba100b"
   },
   {
    "id": 55,
    "title": "Turn Idling",
    "text": "Continue, or remain in the dark...",
    "unlockRequirement": "",
-   "cnUrl": "326470225c5096b32e2a1b51a374d84044ef1ddb8de82ae641fa5d2d434c8346",
-   "jpUrl": "841a2d9c688aa7d9d89a97179ac25179d4fda405a6934e014f67cd58a40c0289",
-   "enUrl": "3028a9e6e9c02df62c8e12fbdd36118fccdb6be2ea1bd87753eb4535b46ea72e",
-   "krUrl": "c782e37a0ad608aec2268eb2bb0f4a68a749142c469ad480abe2113fc6ca3b1f"
+   "cnUrl": "874a6b70f7e3eb82e44a0df770b820c1740d6c50f3f445e10ea7944f1307711f",
+   "jpUrl": "d26e2c5826a67009e635f55a4563528e192ce920e380b2b019afb89b029e010b",
+   "enUrl": "7d5187875fe59e7154f3799de30e6900cdab2507fb0b7059b60054d9815b4272",
+   "krUrl": "bf8f7ad8b75e2178949df4fd35f4c6476b8b9f5c5ce401f6c6044e44fd3136a2"
   },
   {
    "id": 56,
    "title": "Basic ATK",
    "text": "Here, all yours.",
    "unlockRequirement": "",
-   "cnUrl": "449bac6f97234daf1366a83ab467c153b33c281106fa56e5e756c1d1529ed846",
-   "jpUrl": "91dbc6e6cf8d93cbe039dc205851c60002611657e198fdc02f4b6cfb865edbfc",
-   "enUrl": "c1c0c94a4ecb97084335fc2e0b8289ba571ad95a8bc11683d70d45a55a24dacb",
-   "krUrl": "cb7ca45e2f1e37b87e139e05e00ad6f8ecf0cd73fdf927663402a994b40a8b44"
+   "cnUrl": "efa2bcec8f27dedf456e366037d867f3b74ff0e53a5a6c64b86e8cd5726f6bd6",
+   "jpUrl": "750a6890c908771c65aa9b71ccd419ee8e88a6e97469831949e0bcc80c67220f",
+   "enUrl": "7b7286d032441b1b04c8dc48ef2a78df4aea02e303a3b3a2d24cfde714a02efb",
+   "krUrl": "ea4dd3f63b68847dbf3e698397cae6d4e6a29270e86601b5a44ba3623c2ac19c"
   },
   {
    "id": 57,
    "title": "Skill 1",
    "text": "Again, the ill tidings manifest.",
    "unlockRequirement": "",
-   "cnUrl": "c5171cbc723f4e8fedd2d209b2ca13876f072dc55d95f5343ad654fb66aff473",
-   "jpUrl": "e82dc0d0984085905a294a8a2f2f27255d4bba7096b3c7e70552b5690eabd5d3",
-   "enUrl": "68246818eb729bb1925615d2d8e4280269f4ac14b679a013e7f0dde9ead0026d",
-   "krUrl": "fdcda4e9845a552ea6f8337862adef4c75e4390933e2b803f216643fd5a129e4"
+   "cnUrl": "a4de374162f954878e04d93807f3b9b64aa62557503f0d920d9ff69e683b6e2d",
+   "jpUrl": "349818edf4d07efb0ef7fd83ed4b7b9dea89eab740c9a7854d5ee3caf07f6cf4",
+   "enUrl": "17dfddfcc109e7ed684cfbeb246897be74d103c93a9c1b64e03c905900886c09",
+   "krUrl": "656a0e0d117a11274a3ca5b1153bb63d19ba50cb66d3dc50e93a4560f546dfeb"
   },
   {
    "id": 58,
    "title": "Skill 2",
    "text": "The seal of ill fate descends!",
    "unlockRequirement": "",
-   "cnUrl": "ffe3248e5de7d6dd6b3631e92ea04c5c8cb3a11800077a90520eedf649ded2f4",
-   "jpUrl": "284516ac98d4ece8ae356d24deee81bccb756442239478844b2d184f12b2be5d",
-   "enUrl": "2d10cbe8e5c883241d22cb2b6b0d49370753fd346788c88e88241f9553f0809c",
-   "krUrl": "f08b792c530c3e875023b6a0caf07f38dfa9222c0acd46fcd610f96a2c47e259"
+   "cnUrl": "3b79c710ae5a8db7da6847b41e3517766ffe0a1ea31783bb415f6b8417616684",
+   "jpUrl": "42832c99433ebd83b3eced66aaf1cff48760c6fc2fafb2021df066012332b181",
+   "enUrl": "553a9715ae4e4d4dfdf72773e8e3bfe72c2200ee4e67c25730fa433836cbd451",
+   "krUrl": "6a917334f90c2b95acabcbdd3ce0e1196732240ad1463d5eb0d7413fca89d7ca"
   },
   {
    "id": 59,
    "title": "Hit by Light Attack",
    "text": "Mind your manners.",
    "unlockRequirement": "",
-   "cnUrl": "5b41d260009a4a7a48481c8775db0a78d785edbbb148baf94bd38a93a508e07d",
-   "jpUrl": "14815914073294c8d770547b433a08c4384c203ea06d2ec44771dd4bbe532d24",
-   "enUrl": "12a3f662a6ecd2dd877852a3778703b4682c9dcf08f6e284efa3fb3d44aa246c",
-   "krUrl": "0faecdccef0dc4ab586c32fb6586740f8865d20ec7f887ea9a3fcbe5584a5700"
+   "cnUrl": "963f51ef76922c948b836f1464aa90cb54b087c7fff25cac0f94b8dbb9f806f5",
+   "jpUrl": "9962236c80630fbf4e96f03c73aec1db1840f95c5f76251c1c7aabbc84664177",
+   "enUrl": "566945d5be8a37d7770ab4b173336a682f07fb1f808428361504e71506dae333",
+   "krUrl": "c0bf141103536c4e3fd107276d4fa0bbffd90765213987caf72865da3bbe20a4"
   },
   {
    "id": 60,
    "title": "Hit by Heavy Attack",
    "text": "Retribution will find you!",
    "unlockRequirement": "",
-   "cnUrl": "efa375005a21d39d31c37e4c8d9108a7b7cfad752a16c65dba9d1d9634bc4b44",
-   "jpUrl": "8a35e7d51b95da4a117ce9be640876f7f076927aa86beb1907450ecb352fa227",
-   "enUrl": "c579566658c22ac2b6ad31320a67698df3b640a5d2523033d624f2474a7f11c6",
-   "krUrl": "803ea6886a516e5494f40cdf9bb4809f22b0ad52016a7da6497f7af1de4bb782"
+   "cnUrl": "427a9220979b3a16636d3ffeb7b23c866ee20fc682df066696d1ebd563647682",
+   "jpUrl": "d5ec9e5c8d30be8b567d23afa58ee743d44d9e0ae6c51dc8949ca0da26e2a90a",
+   "enUrl": "1a1cf59a93ef36168f923d1b76d1a7db9f4d172574f4d81eef374e742f8eea04",
+   "krUrl": "6311c782f13fb67a014a080ba65876bcbb0acdc6df6f50cb1a9cc5f049b507f3"
   },
   {
    "id": 61,
    "title": "Ultimate: Activate",
    "text": "Memories are ever-changing.",
    "unlockRequirement": "",
-   "cnUrl": "c6634d1ecdb484522cf6017c5eabd89c5610b2926af1220e0a253b6a3c177594",
-   "jpUrl": "320fc595b080638d1d76b8c3663dbaeb026540f68855d4da5952e35610d9ac87",
-   "enUrl": "62007ee62ba6ea54095291ab62ca08af2c2144e2d3932276db7d533d1b6af9df",
-   "krUrl": "cbc1eb658e3adf7796df1d2903cdd5e56f391577676114b532276291d85a7f11"
+   "cnUrl": "4bc7e12b1addc231c2e7053cff55e8ec2e1783d67742d1a2e3d371cda13c0f87",
+   "jpUrl": "e7b20b919c905129232be968d6f5389252005c03d49321861f64bfe3c2956050",
+   "enUrl": "c2368014e6cfb5d9de9751adaebc402310ec27172f3f2cd1965c6497a70a1356",
+   "krUrl": "18d3824fb59954c726bd5e8871a28e8c71a796c444463e9185718880b4e95e31"
   },
   {
    "id": 62,
    "title": "Ultimate: Unleash",
    "text": "Beneath the silent waters lies an endless abyss.",
    "unlockRequirement": "",
-   "cnUrl": "d369a48013166cf45dd31afa0551a7781b27d29dc7a289287118b69c72e925d4",
-   "jpUrl": "0a841ed3205a35e2695a1eb1d0645f8476cbbaf938bf4457640a4675ae51fc40",
-   "enUrl": "028ee3363139bf4b6df537eca3c40b44a95307ac7118be59799ea6a214173efc",
-   "krUrl": "f3704412182c078a70ca634ca38da19dddae287777d912d4ab9c06f1dfe9ab0f"
+   "cnUrl": "47a63241492ef19fa94adf1d4ac3252bf4435815e3e75af138906a5761b4706e",
+   "jpUrl": "b83fb16fd6445bfc2746abdff1870bea157ad2729d092d603d20e304acd7bd24",
+   "enUrl": "4df65c6538d90e280e407d49e8d2c75d7b54831038f1069d612ba338edc6f605",
+   "krUrl": "7974846e7d64f0629d92eca8f11413ddd20cb8010012bd38d1124b4ed275463c"
   },
   {
    "id": 63,
    "title": "Downed",
    "text": "Time's passage... is unkind...",
    "unlockRequirement": "",
-   "cnUrl": "bb427175e99b7e21d0267bc0c7608164d515a1cc0b1232e87ef5f3f9b168081d",
-   "jpUrl": "8cec91d2ba81ec99796fc858dc9c8868b94e5989e34abf7ecf5ab56dc6a38224",
-   "enUrl": "ff8714228024c73553e789b7f86fad9743534fec0c7155d7733162e8583e4b35",
-   "krUrl": "80456a009d7ba3be8e9f7dabfbc66fa91ae23046540eb925d48d76a74bee3f95"
+   "cnUrl": "b62a8e7291e0dfa0281a8533defc0e2a9755c124db9d092f4971a2d824a149de",
+   "jpUrl": "49ce0c9214fbc3a74aaa25e016d83be56f523ad132f4ff7627e91f522fc78d5c",
+   "enUrl": "b1485f93dfdff7c9311439ebcb9ee61879d1a85cee8ec4876f853c1a54098cfc",
+   "krUrl": "35ec3cc1845dac4b2c6909d0ed7d77606f46811b3a44232c31f11075db75495f"
   },
   {
    "id": 64,
    "title": "Return to Battle",
    "text": "Only memories remain eternal.",
    "unlockRequirement": "",
-   "cnUrl": "9e903b570fe612b7a149cd83c786681d3cf00436851694f0178fefdbce73156f",
-   "jpUrl": "e75255b17f8d0701e050b2e33817e7c3069effde11e155853f2b3b2a24dba1e5",
-   "enUrl": "49a0eb1f621774a59e9d28f3149b226ea67a06560eb7b56148172cf6c2f46183",
-   "krUrl": "ddc2611c995d2ba5bd525e1c57102f020e6dfa6d2a94ea7c314ac9533dcb4031"
+   "cnUrl": "99e57f91b9539e6f2ec84899fcb11ed0236859fc6510114d7ec6450583f043fd",
+   "jpUrl": "fa64b3166c4c7988f5b8e554fbe5a894eec7823b46bff131302f40e1f102e00e",
+   "enUrl": "9d6eeaff492954090f6b9d78ad40fc9abf33b47e0d2919c2d091838b0da49dd2",
+   "krUrl": "83e82dde900ee9b1795c4ace004661527d329e28f8814746c7998145a40096b8"
   },
   {
    "id": 65,
    "title": "Health Recovery",
    "text": "Destiny's hand has truly blessed me.",
    "unlockRequirement": "",
-   "cnUrl": "725021ac110c1d89848ddcca7d965a477e5e684850c32439bc4144437d6e3615",
-   "jpUrl": "0721fcc10f517840e5f6aab4b66ebc77947933ae656668b9521700a186c2ebb0",
-   "enUrl": "59544a1bc13e2f5ec111bab1da3de0f2bdae71a23b359aae1b3e3c55b101ef06",
-   "krUrl": "a918282b4d4492c6b9da5447ae0e036dad819f4ae6ca2caeddd5f8a161f31011"
+   "cnUrl": "b83d5e7565c1c1bb6daf16d559bb3a79c31c0f7f283290ae26c8b312279d77b1",
+   "jpUrl": "a480e180770aec6695bc419e0e23bd4db0e1f4af907005b0d199f242720952fd",
+   "enUrl": "186d335294e6f65e3e62958ccbd0dd544e4eded8a33bddee28d993ddf27e73bd",
+   "krUrl": "a08e90f5b1827e733da0febd3e238d6192d23aaef53e42c1c554f3b413ee133c"
   },
   {
    "id": 66,
    "title": "Technique",
    "text": "Make a wish.",
    "unlockRequirement": "",
-   "cnUrl": "c35cb2598a5954715871265fbd540304c33ff599e24d4214a1122f716589b521",
-   "jpUrl": "270df038e7562df7400cd4be6b4f783832de19fb253e6ffed564cbb7b085f837",
-   "enUrl": "4aeedf73db7611b4d53c4d64dfaaebd49dc089df46f4d709eac2744fc1123ca7",
-   "krUrl": "e7dfc33e0e0863b3247654284970cdec0016c6c1b46c23ddb004b7a9375783cb"
+   "cnUrl": "d7f51ca8fc569f1c52c8ffdb6e0dbf2a73dd544b4b390d7d33372a71aaa9174a",
+   "jpUrl": "b56260b5fe53ff15155e39fc83416ae7af834a66af2cc23ce430ee6aebccee0a",
+   "enUrl": "225e1c1dc7cf75d5de86ac0622d9181315ce20f990fa6cbfb28601c0de2abef4",
+   "krUrl": "fa2e67a7af5242ace82af904b3fab7788ba38f037ba55cc4e7ac76f3118ecf6c"
   },
   {
    "id": 67,
    "title": "Battle Won",
    "text": "Another precious memory to hold onto.",
    "unlockRequirement": "",
-   "cnUrl": "12e0683ce4a6d86de6d5c7af899d790ec7188ae510f3b327ceb16cc49d05a547",
-   "jpUrl": "4641e18158b2d36c1c24f486842b94e0f9c93ac0f1f24cbd8999853feb7fbbb8",
-   "enUrl": "a45d29233d113e412c381cb980440296bcbdb1bc2181c7cbe035466873f42d92",
-   "krUrl": "009bf05a58d37e7f6f55b1629243825a21665f61372a9fea68c245bc2b64c4f3"
+   "cnUrl": "40b68d52a164d8018010759314c88e9e07db51b6b03b2b75e04227d137b4561b",
+   "jpUrl": "acb9c17a3d9747d344dd79e938ce9b731b8e59e6c314ecdfbc8ac5800c667024",
+   "enUrl": "cc39de4ae757799fca587114b51a5d76046d9ada4681070d544b01fc4ad325c1",
+   "krUrl": "8482724d56af98cc432cd3e2d229b576616b24163a5f0fe4d2e50171e3fb9b64"
   },
   {
    "id": 68,
    "title": "Treasure Opening 1",
    "text": "A turn of fate.",
    "unlockRequirement": "",
-   "cnUrl": "a6112d18f0c8ef0a6f81d0ef4ceed8153361fa1e6fd81af9aa156a28f039f37f",
-   "jpUrl": "6bd924c28be7b62173f2d16a896d2e63c76f4a8f989e49080a0e96a95277f7fc",
-   "enUrl": "1161384e99f9c3052356d08ac21458af982d09a18a697e5222641aa3da20329d",
-   "krUrl": "76979cd5f82754d98e7493df925b46ba06399a2a7da60f27c6a4b2f3a71e61d9"
+   "cnUrl": "d91f34ceb2bf822aefb710cb21d930e02cb932aff7127ec02b693fed174dd6d5",
+   "jpUrl": "04ae179fbcb00da9bf26efc7d521aa688dcb9f58b4fee2804a5a28066a2eb0ab",
+   "enUrl": "bb7c5c323952e7bb422ceb138dce95554274c1008ea7a4cd77ae1877211404ca",
+   "krUrl": "210952ddb091d69bdbd247ae0eed9e63b3c91c44191ea4eed9915ad91fd89a03"
   },
   {
    "id": 69,
    "title": "Treasure Opening 2",
    "text": "A sincere heart prevails.",
    "unlockRequirement": "",
-   "cnUrl": "72da38c247953d3e50b170d8cc9d4db004d7ccbf68ca56d6020e5638eeb76cf1",
-   "jpUrl": "b34d8c7181688c4130a2664b221eb0f846f143c26d7af5e19a462b2cd1af4d4b",
-   "enUrl": "39a96968172ef254cb82fc2eef1667c040f5370daf304397e88998670718c405",
-   "krUrl": "262c92246adff4d5eaec9540ca6bb2ed2597641f6658facb898e04dcc3710405"
+   "cnUrl": "e124e46c40ddc4c5ce84beda3a6b4a57d540804687ce0f65c0a2a3a2287dee6f",
+   "jpUrl": "8dcd25f350b28dcfd798236319328c624a031aaaff7958ed2578ead49d2d0ead",
+   "enUrl": "2d16149c5601fb1b6eeb84f90f888b46770ef5f50e693a7e48f1f2dc68b82e4a",
+   "krUrl": "5c1b8cd94148defd938157036acc7b0be130ed76f3215fbd71fbf67b878e317e"
   },
   {
    "id": 70,
    "title": "Precious Treasure Opening",
    "text": "Destiny gifts unexpected joys.",
    "unlockRequirement": "",
-   "cnUrl": "6b64fbefc440df19091eea7ad1de2abad9b89fa9278bff179d26831d6e5ecd05",
-   "jpUrl": "03683d81673fc85c808e79ac456ae4962d53f57f304cabf4485c35f5d9867e30",
-   "enUrl": "1662b15e7fd6e09a3d8ef758feca7506c2515d41bb20406df8cda841dcf4502e",
-   "krUrl": "f10be36f03af213adc2a45601dbbcea74c55a67df7e6b3692022d210e0c75586"
+   "cnUrl": "795d47f2f3e437b85433c7639b468e97788fa05cd40e98631f4fe4b88550634f",
+   "jpUrl": "b56aca22fe7a3bf48c016fe5ac230df4ce30e01793cd2775cc68342afa8bca03",
+   "enUrl": "c2639ff7cdaae2925ebfc8ae023a61261595b4b94ad94671a690d795dd108dd4",
+   "krUrl": "b634573d3fe788aff17f275efe1c7d059a47a9f1b5a5714ba1b014897113400d"
   },
   {
    "id": 71,
    "title": "Successful Puzzle-Solving 1",
    "text": "Exceptionally deciphered.",
    "unlockRequirement": "",
-   "cnUrl": "30d954ac8ee3b362c4ae6a7031b933d229c3417f793d7e48ad020a830f2162fb",
-   "jpUrl": "2afa32b153dddd6ed6e2f84aa51245015968f9eab53f0fe8c523a4f387fa7fd9",
-   "enUrl": "06d66a094ca11ef758db817621db0cc40022cf0a236a612347f03cda70fff5d6",
-   "krUrl": "c95fd38b80e84ca9e2fb9d9cc3143a97a1ccf27c9d2174ec8c34f5a8426389b8"
+   "cnUrl": "ff135ef749936f8a6bb5c13ab915398b374ae547c3c62fc5bf7e92ff8940d3ab",
+   "jpUrl": "9365a09cdcb7be7b613a4c2d3462112aaa67d73538d5f10591cbeb07c17313c2",
+   "enUrl": "285329107d243e55642957db4a50e296f99b34c4943c6c316ba4c688a18d9675",
+   "krUrl": "3a51e83bb62e89ef5f965f6121b5f9edd159683116e1f6a48e3f8f0f04bcb5b4"
   },
   {
    "id": 72,
    "title": "Successful Puzzle-Solving 2",
    "text": "The power of wisdom and memory...",
    "unlockRequirement": "",
-   "cnUrl": "a577e59a40985c0c041af0a4789f2f229c611e49b71db4948ba26b53796316fb",
-   "jpUrl": "1b8b6f5124ba65972b41eeebe38735344f0b2f1fd002f06adf9234588c8c6a7b",
-   "enUrl": "1df6eb7405a94bfb72ca74ad298c07098acdd7fa856c63f0d65c8b93173c2558",
-   "krUrl": "615e55f8b8001d458dc792f4072dc09efc7d955ab4d6e51b3635e248e983e839"
+   "cnUrl": "a90e43acf5ebc9a331686100f0ec388540522d07cbc2246c66333aab83c2a022",
+   "jpUrl": "98172af9d0a444acc7d15270554c4631b6190cc763357030f9a401bf4837e18d",
+   "enUrl": "de4380aa657886728e8758d59bca37b9e3b5e0f607afeb124afcbd31c9a5e012",
+   "krUrl": "b738c43f0596bfb746d3a9cedf24cd89acaabf75fd01134b55455d6fbd0cc73e"
   },
   {
    "id": 73,
    "title": "Enemy Target Found",
    "text": "A foreboding sign...",
    "unlockRequirement": "",
-   "cnUrl": "f78ab2dbb31b9ecb27191ab6e32749044cb9ed8b50f58c0fbead1acd4c099405",
-   "jpUrl": "5434d051267028959e867ca822703ea2cc2075a53f882be5f03b3d3c1e194354",
-   "enUrl": "c883a475db2fc7323d4cc5da4d6a4de26d09000ac3b980f3607118ae570fdd61",
-   "krUrl": "d88ed7cc889cf1f1dd679d5e6bf1dd165864b0a2b93a7938240d268fc7640bc1"
+   "cnUrl": "70f59d1a673f131d72c20ef4b851e32891e54e8fe11bf5be72db0b54fae1676d",
+   "jpUrl": "79569051303063814874e8104f3a6b7be8de4250a816ac271034844bf912b3ce",
+   "enUrl": "a60bc957b9a644da65444d3ddd9b6aea4ac61fba236e2cf42549c05430e7b116",
+   "krUrl": "ce1deafaba51bf314136c5ecd0eeb8431220d517a6b13c4a9961a667eba3313a"
   },
   {
    "id": 74,
    "title": "Returning to Town",
    "text": "This place holds such fond memories... Care to reminisce?",
    "unlockRequirement": "",
-   "cnUrl": "b2468d2dafc9c447c5142da471f9c3ea101589986bd9b4666717d0deebc97a01",
-   "jpUrl": "baf5b9c831e86d33d89ca373d14a855374ee9baa70dc57fd2528d721155e55ac",
-   "enUrl": "378ba5f89455d1fd15e0a0fcb2fc68d1273e2aaa389e57ec518580a3874aa85f",
-   "krUrl": "3ca0600c88d5eb6cf29e237b8b88ad2c2e5478bed6b3e6580bad42e36d2ecf8d"
+   "cnUrl": "f57334c30ba090cb0c3a6a41672b07c7889adfc795412b0a1edb6d662427699c",
+   "jpUrl": "033c634e59d66c1393bac75a146990b22d08de9afa7c7d90ad3970287fb2978a",
+   "enUrl": "81a89d4bdbbd6709b8b122cf09b0df5d9737221694e8a5031c6343663732bc2e",
+   "krUrl": "464b997aef05b7a58edf85d0f64c68fd5ed96b016ce29252922d2973a69d9098"
   }
  ],
  "storyItems": [
@@ -2961,19 +2965,19 @@
  "name": "Black Swan",
  "rarity": 5,
  "descHash": "A Memokeeper of the Garden of Recollection. An indolent and mysterious soothsayer. \"Remembrance\" of men are hers to heed, threads of fate are hers to tug.",
- "artPath": "870d3284ed48895f121c22c356f4292a94c0e2fdd368e691bf3a595ba7f0634c",
- "miniIconPath": "741cd71f3a6a5c9ad08beec9f832c75eaea8a07246cafcd530c806b8d2dc00a5",
+ "artPath": "866e935e4f928cfe81f2995b06c94bfcebe99f05b8ee21e6e7efb23a3909682c",
+ "miniIconPath": "4c5e9066a7164b3169ec32e09d7f7c06340746e32e6010605daacbfb3e500c57",
  "damageType": {
   "id": 16,
-  "iconPath": "2f3d2fba0ee9442f1c51cf42a91af6f9ece3f19168237fd3963d352e508791c7",
+  "iconPath": "c85f9dc90ad2e9531c6a3badb0a7ec08397ef7402b5e816f25d5a129e83c858a",
   "color": "#00FF9C",
   "name": "Wind",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "96c3b8dd457b98955d440531986a23d509f705c13d7aa794d1e97bcfd03d5701",
-  "altIconPath": "b55d340138ed77756cd939d0d9ee2103a5398f999202c1ed19d092ac87333155",
+  "iconPath": "2e8dee1b2516e0376a0ff1ec3cf5cf7d2d37bd482cf5efb5cf79367f9d2be218",
+  "altIconPath": "61e195ac81b36d68bb63480397b0f78505a2cd8c8970b059540187a975563a72",
   "color": "#FFFFFF",
   "name": "Nihility",
   "rarity": 0

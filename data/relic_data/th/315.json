@@ -1,0 +1,1564 @@
+{
+ "name": "Duran, Dynasty of Running Wolves",
+ "iconPath": "faf21a3b0e18bd45818a8256a35ee4b163722c7b78303b97d4bbee4bd5b13f00",
+ "artPath": "ace79ed8b2a8252eb779024dbf4aa8d61e58f286aa92675352bad973c5816df9",
+ "rarity": 5,
+ "relicType": 0,
+ "embeddedBaseTypes": {
+  "0": {
+   "id": 0,
+   "iconPath": "5d2ab974d1ee331db8c68ff5876aafe98296d6b753c281baf277ae25a1fcf3f6",
+   "color": "#FFFFFF",
+   "name": "",
+   "rarity": 0
+  },
+  "1": {
+   "id": 1,
+   "iconPath": "f10eb995d0a12b6cd4c8e7b63e95efd05037dc151928fe8698c8f52ea0331483",
+   "color": "#FFFFFF",
+   "name": "ศีรษะ",
+   "rarity": 0
+  },
+  "2": {
+   "id": 2,
+   "iconPath": "0c540ef3cca7426d82cd0aae4a8a28ea761e0c3287f43bd1a4df4cf7a57d45f9",
+   "color": "#FFFFFF",
+   "name": "มือ",
+   "rarity": 0
+  },
+  "3": {
+   "id": 3,
+   "iconPath": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
+   "color": "#FFFFFF",
+   "name": "ลำตัว",
+   "rarity": 0
+  },
+  "4": {
+   "id": 4,
+   "iconPath": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
+   "color": "#FFFFFF",
+   "name": "เท้า",
+   "rarity": 0
+  },
+  "5": {
+   "id": 5,
+   "iconPath": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
+   "color": "#FFFFFF",
+   "name": "Planar Sphere",
+   "rarity": 0
+  },
+  "6": {
+   "id": 6,
+   "iconPath": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
+   "color": "#FFFFFF",
+   "name": "Link Rope",
+   "rarity": 0
+  }
+ },
+ "skills": [
+  {
+   "useNum": 2,
+   "desc": "เมื่อตัวละครฝ่ายเรา ปล่อยการโจมตีต่อเนื่อง ผู้สวมใส่จะได้รับ \"คุณความดี\" หนึ่งชั้น และจะซ้อนทับได้มากสุด <nobr>#1[i]</nobr> ชั้น โดย \"คุณความดี\" แต่ละชั้น จะทำให้การโจมตีต่อเนื่องของผู้สวมใส่ สร้าง DMG เพิ่มขึ้น <nobr>#2[i]%</nobr> เมื่อซ้อนทับถึง <nobr>#1[i]</nobr> ชั้นแล้ว จะทำให้ DMG คริติคอล ของผู้สวมใส่เพิ่มขึ้นอีก <nobr>#3[i]%</nobr>",
+   "params": [
+    5,
+    0.05,
+    0.25
+   ]
+  }
+ ],
+ "pieces": {
+  "5": {
+   "name": "Duran's Tent of Golden Sky",
+   "type": 0,
+   "maxRarity": 5,
+   "iconPath": "cecd3aa305ab1f6ebb7daaea1ecdc38a03ef33573bb1de47a1bf621c54e74165",
+   "baseTypeText": "Planar Sphere",
+   "loreTitle": "Duran's Tent of Golden Sky",
+   "miniLore": "สิ่งที่อยู่ในมิติระนาบก็คือ เต็นท์ท้องฟ้าประกายทองของ Borisin แห่งแดนเขียวขจี ซึ่งตรงกันข้ามกับชื่อเสียงอันแสนป่าเถื่อนที่ Borisin ทิ้งไว้ในกาแล็กซี พวกเขามีเทคโนโลยีชีวภาพที่น่าทึ่ง เหล่าลูกหลานหมาป่าได้รวมตัวกันที่ข้างๆ Duran เจ้าแห่งรังผู้ยิ่งใหญ่ และมองว่าดวงดาวบนท้องฟ้า เป็นเหมือนทุ่งเลี้ยงสัตว์ ที่พวกเขาควบม้าวิ่งอยู่ท่ามกลางพวกมัน",
+   "lore": "เพลงร้องนำโบราณของมนุษย์จิ้งจอกและ Borisin ทุกสิ่งล้วนชวนให้นึกถึงดินแดนอันอุดมสมบูรณ์ และสภาพอากาศที่เหมาะแก่การอยู่อาศัยของ \"ดาวแห่งแดนเขียวขจี\" แต่หากสังเกตดูอย่างละเอียดแล้ว คนที่ให้ความสนใจก็จะพบว่า นี่เป็นเพียงบทเกริ่นนำของหัวข้อตลอดกาลอย่าง \"สงคราม\" ก็เท่านั้น<br /><br />ด้วยพรสวรรค์ในด้านการเกษตรและการค้า จึงทำให้เผ่าพันธุ์จิ้งจอก ได้สร้างเมืองที่เจริญรุ่งเรืองขึ้นมาที่ริมฝั่งแม่น้ำ ขณะเดียวกัน ลูกหลานก็เดินทางไปพร้อมกับฝูงของมัน ภายใต้ท้องฟ้าที่เต็มไปด้วยแสงขั้วโลกอันยิ่งใหญ่ และทุ่งหญ้าอันเขียวชอุ่ม จนได้รวมตัวกันเป็นเผ่าพันธุ์ที่กระจัดกระจายไปทั่วทุกที่ พ่อค้าเยาะเย้ยคนเลี้ยงสัตว์ว่าเป็นพวกป่าเถื่อน ส่วนคนเลี้ยงสัตว์ก็ดูแคลนพ่อค้าว่าเป็นคนเจ้าเล่ห์ แต่พวกเขาต่างต้องเผชิญกับ การทรมานอันแสนโหดร้ายของธรรมชาติอย่าง... \"จิ้งจอกคิมหันต์\" และ \"หมาป่าเหมันต์\"<br /><br />ในช่วงฤดูร้อน เมื่อเทพจิ้งจอกประทานพรให้เก็บเกี่ยวพืชผลได้อุดมสมบูรณ์ ทั้งสองฝ่ายก็จะพักผ่อนและพักรบ ต่างฝ่ายต่างพึงพอใจกันทั้งคู่ แต่เมื่อเทพหมาป่าปล่อยน้ำค้างแข็งสีขาวลงมา หิมะก็จะแผ่กระจายออกมาจากขั้วโลก และความหิวโหยก็ได้ผลักดันทั้งสองฝ่าย ไปสู่ความขัดแย้งที่ไม่สิ้นสุด<br /><br />บทเพลงได้กล่าวว่า หมาป่าเหมันต์ที่ไม่มีที่สิ้นสุดจะไม่หายไป แม้ว่าดวงอาทิตย์แห่งแดนเขียวขจีจะโคจรไปแล้ว <nobr>33</nobr> ครั้งก็ตาม ความยากจนและความหิวโหยทำให้ผู้คนเดือดร้อน จนจำเป็นต้องกินแม้กระทั่งสัตว์ที่บูชาบนเสาโทเทมเพื่อความอยู่รอด หลังจากมองเห็นจุดจบที่มีกระดูกสีขาวโพลนอยู่ทั่วทุกที่ เป็นการล่วงหน้าแล้ว ผู้ช่วยให้รอดก็ปีนขึ้นไปบนภูเขาที่สูงที่สุดในโลกมนุษย์ ในเทพนิยายของมนุษย์จิ้งจอก ผู้คนเรียกเขาว่า \"Tushan\" แต่ในบทเพลงของ Borisin ผู้คนเรียกเขาว่า \"Duran\" แต่ไม่ว่าผู้ช่วยให้รอดคนนี้จะชื่ออะไร เขาก็อธิษฐานต่อเจ้าแห่งอายุวัฒนะ ให้ช่วยมอบเสบียงเพื่อที่ทุกคนจะได้มีชีวิตอยู่ต่อไป จากนั้นยอดเขาก็แตกออก และ \"น้ำพุสีแดง\" ที่หอมหวานราวกับการตื่นรู้ก็ได้พวยพุ่งออกมา<br /><br />บรรดาผู้ที่ดื่มน้ำพุสีแดงเข้าไป ล้วนได้รับพลัง ความคล่องแคล่ว และความแข็งแกร่ง เลือดของพวกเขาปั่นป่วนไปด้วยความดุร้ายของสัตว์ป่า และรูปลักษณ์ก็กลายเป็นสัตว์ป่ามากขึ้นอย่างเห็นได้ชัด... โลกนี้จึงเปลี่ยนไป และไม่สามารถกลับไปเป็นเหมือนเดิมได้อีก<br /><br />การใช้น้ำพุสีแดงเป็นสื่อกลาง เพื่อสร้างของใช้ทุกสิ่งที่เหล่ามนุษย์หมาป่าเกิดใหม่ต้องการ พืชที่ปลูกในท้องทุ่งไม่ใช่ข้าวสาลีอีกต่อไป แต่เป็น Viscorpus สิ่งที่ปกคลุมร่างกายก็ไม่ใช่ผ้ากระสอบอีกต่อไป แต่เป็นรกแทน แม้แต่ดินแดนหิมะที่หนาวเย็น ซึ่งครั้งหนึ่งเคยสร้างความหวาดกลัวให้กับอารยธรรมแห่งแดนเขียวขจี ก็ไม่น่ากลัวอีกต่อไป เหล่ามนุษย์หมาป่าได้ปลูกเยื่อหุ้มชีวภาพบริเวณขั้วโลก เพื่อประดิษฐ์เป็นเต็นท์ทรงโดมอันอบอุ่น และขจัดความยากลำบากในช่วงหมาป่าเหมันต์<br /><br />จากนั้นสิ่งต่างๆ ในแดนเขียวขจีก็ได้เปลี่ยนแปลงไป เช่นเดียวกับที่เผ่าพันธุ์อายุสั้นที่ได้เปลี่ยนเป็นเผ่าพันธุ์อายุยืนยาว... อีกทั้งจำนวนประชากรที่เพิ่มขึ้น ระบบนิเวศล่มสลาย และเกิดสงครามภายใน... ไม่ว่าเหล่ามนุษย์หมาป่าจะอธิษฐานต่อเจ้าแห่งอายุวัฒนะอย่างไร ก็ไม่ได้การตอบรับอีก จากนั้นพวกเขาก็เข้าใจว่า ทุกสิ่งที่เจ้าแห่งอายุวัฒนะสามารถให้ได้ ก็ได้มอบให้ไปหมดแล้ว และหากผู้คนปรารถนาจะมีชีวิตที่ดีขึ้น พวกเขาจะต้องดิ้นรนด้วยตัวเอง<br /><br />เมื่อรวมตัวกันรอบด้านเจ้าแห่งรังผู้ยิ่งใหญ่ เหล่ามนุษย์หมาป่าก็มองขึ้นไปบนฟ้า ที่ซึ่งเจ้าแห่งอายุวัฒนะอยู่ ดวงดาวส่องสว่างราวกับทุ่งหญ้าที่รอการสำรวจ พวกเขาจะนำอารยธรรมของดวงดาวเหล่านี้มาสู่ \"หมาป่าเหมันต์\"<br /><br />กาลเวลาผ่านไปเนิ่นนาน ต่อมาชาว Xianzhou ได้เรียกพวกเขาว่า \"Borisin\" ซึ่งในภาษาของแดนเขียวขจีนั้นแปลว่า \"หมาป่า\"",
+   "rarityData": {
+    "2": {
+     "rarity": 2,
+     "maxLevel": 6,
+     "mainAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.009677,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.009677,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.012096001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#FFFFFF;\">กายภาพ</span>",
+       "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
+       "isPercent": true,
+       "baseValue": 0.024883,
+       "levelAdd": 0.008709,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#F84F36;\">ไฟ</span>",
+       "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
+       "isPercent": true,
+       "baseValue": 0.024883,
+       "levelAdd": 0.008709,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#47C7FD;\">น้ำแข็ง</span>",
+       "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
+       "isPercent": true,
+       "baseValue": 0.024883,
+       "levelAdd": 0.008709,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#c75de2;\">สายฟ้า</span>",
+       "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a",
+       "isPercent": true,
+       "baseValue": 0.024883,
+       "levelAdd": 0.008709,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#00FF9C;\">ลม</span>",
+       "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
+       "isPercent": true,
+       "baseValue": 0.024883,
+       "levelAdd": 0.008709,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#7788ff;\">ควอนตัม</span>",
+       "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
+       "isPercent": true,
+       "baseValue": 0.024883,
+       "levelAdd": 0.008709,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#F4D258;\">จินตภาพ</span>",
+       "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
+       "isPercent": true,
+       "baseValue": 0.024883,
+       "levelAdd": 0.008709,
+       "stepValue": 0,
+       "maxStep": 0
+      }
+     ],
+     "subAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": false,
+       "baseValue": 13.548016,
+       "levelAdd": 13.548016,
+       "stepValue": 1.693502,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": false,
+       "baseValue": 6.774008,
+       "levelAdd": 6.774008,
+       "stepValue": 0.846751,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": false,
+       "baseValue": 6.774008,
+       "levelAdd": 6.774008,
+       "stepValue": 0.846751,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.013824001,
+       "levelAdd": 0.013824001,
+       "stepValue": 0.0017280006,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.013824001,
+       "levelAdd": 0.013824001,
+       "stepValue": 0.0017280006,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.017280001,
+       "levelAdd": 0.017280001,
+       "stepValue": 0.0021600004,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ความเร็ว",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
+       "isPercent": false,
+       "baseValue": 1,
+       "levelAdd": 1,
+       "stepValue": 0.1,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราคริติคอล",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
+       "isPercent": true,
+       "baseValue": 0.010368001,
+       "levelAdd": 0.010368001,
+       "stepValue": 0.0012960008,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DMG คริติคอล",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราสร้างสถานะ",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
+       "isPercent": true,
+       "baseValue": 0.013824001,
+       "levelAdd": 0.013824001,
+       "stepValue": 0.0017280006,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ต้านทานสถานะ",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
+       "isPercent": true,
+       "baseValue": 0.013824001,
+       "levelAdd": 0.013824001,
+       "stepValue": 0.0017280006,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      }
+     ]
+    },
+    "3": {
+     "rarity": 3,
+     "maxLevel": 9,
+     "mainAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.014515,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.014515,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.05184,
+       "levelAdd": 0.018144,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#FFFFFF;\">กายภาพ</span>",
+       "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
+       "isPercent": true,
+       "baseValue": 0.037325,
+       "levelAdd": 0.013064001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#F84F36;\">ไฟ</span>",
+       "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
+       "isPercent": true,
+       "baseValue": 0.037325,
+       "levelAdd": 0.013064001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#47C7FD;\">น้ำแข็ง</span>",
+       "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
+       "isPercent": true,
+       "baseValue": 0.037325,
+       "levelAdd": 0.013064001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#c75de2;\">สายฟ้า</span>",
+       "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a",
+       "isPercent": true,
+       "baseValue": 0.037325,
+       "levelAdd": 0.013064001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#00FF9C;\">ลม</span>",
+       "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
+       "isPercent": true,
+       "baseValue": 0.037325,
+       "levelAdd": 0.013064001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#7788ff;\">ควอนตัม</span>",
+       "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
+       "isPercent": true,
+       "baseValue": 0.037325,
+       "levelAdd": 0.013064001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#F4D258;\">จินตภาพ</span>",
+       "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
+       "isPercent": true,
+       "baseValue": 0.037325,
+       "levelAdd": 0.013064001,
+       "stepValue": 0,
+       "maxStep": 0
+      }
+     ],
+     "subAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": false,
+       "baseValue": 20.322023,
+       "levelAdd": 20.322023,
+       "stepValue": 2.540253,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": false,
+       "baseValue": 10.161012,
+       "levelAdd": 10.161012,
+       "stepValue": 1.270126,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": false,
+       "baseValue": 10.161012,
+       "levelAdd": 10.161012,
+       "stepValue": 1.270126,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.02592,
+       "levelAdd": 0.02592,
+       "stepValue": 0.0032400002,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ความเร็ว",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
+       "isPercent": false,
+       "baseValue": 1.2,
+       "levelAdd": 1.2,
+       "stepValue": 0.1,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราคริติคอล",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
+       "isPercent": true,
+       "baseValue": 0.015552,
+       "levelAdd": 0.015552,
+       "stepValue": 0.0019440008,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DMG คริติคอล",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
+       "isPercent": true,
+       "baseValue": 0.031104,
+       "levelAdd": 0.031104,
+       "stepValue": 0.003888001,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราสร้างสถานะ",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ต้านทานสถานะ",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.031104,
+       "levelAdd": 0.031104,
+       "stepValue": 0.003888001,
+       "maxStep": 2
+      }
+     ]
+    },
+    "4": {
+     "rarity": 4,
+     "maxLevel": 12,
+     "mainAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.055296,
+       "levelAdd": 0.019354,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.055296,
+       "levelAdd": 0.019354,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.06912,
+       "levelAdd": 0.024192,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#FFFFFF;\">กายภาพ</span>",
+       "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
+       "isPercent": true,
+       "baseValue": 0.049766,
+       "levelAdd": 0.017418,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#F84F36;\">ไฟ</span>",
+       "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
+       "isPercent": true,
+       "baseValue": 0.049766,
+       "levelAdd": 0.017418,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#47C7FD;\">น้ำแข็ง</span>",
+       "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
+       "isPercent": true,
+       "baseValue": 0.049766,
+       "levelAdd": 0.017418,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#c75de2;\">สายฟ้า</span>",
+       "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a",
+       "isPercent": true,
+       "baseValue": 0.049766,
+       "levelAdd": 0.017418,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#00FF9C;\">ลม</span>",
+       "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
+       "isPercent": true,
+       "baseValue": 0.049766,
+       "levelAdd": 0.017418,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#7788ff;\">ควอนตัม</span>",
+       "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
+       "isPercent": true,
+       "baseValue": 0.049766,
+       "levelAdd": 0.017418,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#F4D258;\">จินตภาพ</span>",
+       "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
+       "isPercent": true,
+       "baseValue": 0.049766,
+       "levelAdd": 0.017418,
+       "stepValue": 0,
+       "maxStep": 0
+      }
+     ],
+     "subAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": false,
+       "baseValue": 27.096031,
+       "levelAdd": 27.096031,
+       "stepValue": 3.387004,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": false,
+       "baseValue": 13.548016,
+       "levelAdd": 13.548016,
+       "stepValue": 1.693502,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": false,
+       "baseValue": 13.548016,
+       "levelAdd": 13.548016,
+       "stepValue": 1.693502,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.027648,
+       "stepValue": 0.0034560005,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.027648,
+       "stepValue": 0.0034560005,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ความเร็ว",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
+       "isPercent": false,
+       "baseValue": 1.6,
+       "levelAdd": 1.6,
+       "stepValue": 0.2,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราคริติคอล",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DMG คริติคอล",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.041472,
+       "stepValue": 0.0051840004,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราสร้างสถานะ",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.027648,
+       "stepValue": 0.0034560005,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ต้านทานสถานะ",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.027648,
+       "stepValue": 0.0034560005,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.041472,
+       "stepValue": 0.0051840004,
+       "maxStep": 2
+      }
+     ]
+    },
+    "5": {
+     "rarity": 5,
+     "maxLevel": 15,
+     "mainAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.06912,
+       "levelAdd": 0.024192,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.06912,
+       "levelAdd": 0.024192,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.0864,
+       "levelAdd": 0.030240001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#FFFFFF;\">กายภาพ</span>",
+       "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
+       "isPercent": true,
+       "baseValue": 0.062208,
+       "levelAdd": 0.021773001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#F84F36;\">ไฟ</span>",
+       "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
+       "isPercent": true,
+       "baseValue": 0.062208,
+       "levelAdd": 0.021773001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#47C7FD;\">น้ำแข็ง</span>",
+       "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
+       "isPercent": true,
+       "baseValue": 0.062208,
+       "levelAdd": 0.021773001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#c75de2;\">สายฟ้า</span>",
+       "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a",
+       "isPercent": true,
+       "baseValue": 0.062208,
+       "levelAdd": 0.021773001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#00FF9C;\">ลม</span>",
+       "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
+       "isPercent": true,
+       "baseValue": 0.062208,
+       "levelAdd": 0.021773001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#7788ff;\">ควอนตัม</span>",
+       "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
+       "isPercent": true,
+       "baseValue": 0.062208,
+       "levelAdd": 0.021773001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "เพิ่ม DMG <span style=\"color:#F4D258;\">จินตภาพ</span>",
+       "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
+       "isPercent": true,
+       "baseValue": 0.062208,
+       "levelAdd": 0.021773001,
+       "stepValue": 0,
+       "maxStep": 0
+      }
+     ],
+     "subAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": false,
+       "baseValue": 33.87004,
+       "levelAdd": 33.87004,
+       "stepValue": 4.233755,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": false,
+       "baseValue": 16.935019,
+       "levelAdd": 16.935019,
+       "stepValue": 2.116877,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": false,
+       "baseValue": 16.935019,
+       "levelAdd": 16.935019,
+       "stepValue": 2.116877,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.0432,
+       "levelAdd": 0.0432,
+       "stepValue": 0.0054,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ความเร็ว",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
+       "isPercent": false,
+       "baseValue": 2,
+       "levelAdd": 2,
+       "stepValue": 0.3,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราคริติคอล",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
+       "isPercent": true,
+       "baseValue": 0.02592,
+       "levelAdd": 0.02592,
+       "stepValue": 0.0032400002,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DMG คริติคอล",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
+       "isPercent": true,
+       "baseValue": 0.05184,
+       "levelAdd": 0.05184,
+       "stepValue": 0.0064800004,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราสร้างสถานะ",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ต้านทานสถานะ",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.05184,
+       "levelAdd": 0.05184,
+       "stepValue": 0.0064800004,
+       "maxStep": 2
+      }
+     ]
+    }
+   }
+  },
+  "6": {
+   "name": "Duran's Mechabeast Bridle",
+   "type": 0,
+   "maxRarity": 5,
+   "iconPath": "00c2493e3f47af9223b0f4dee6e40749199ac317e4e719fe93b8cee7aee7bb6d",
+   "baseTypeText": "Link Rope",
+   "loreTitle": "Duran's Mechabeast Bridle",
+   "miniLore": "เหล่านี้คือเชือกบังเหียน โซ่ตรวน และแส้หนัง หลักการแรกที่สอนให้แก่ชายหนุ่ม Borisin ที่สูงกว่าขาของอสูรสงครามก็คือ: กุมบังเหียนในมือไว้ให้แน่นอยู่เสมอ ไม่เช่นนั้นตัวเองจะกลายเป็นสัตว์ที่ถูกกดขี่เป็นทาส หรือแม้กระทั่งเป็นอาหารสัตว์",
+   "lore": "ในภาษาของ Borisin เชือกบังเหียนมีชื่อเรียกอีกอย่างว่า \"assa-chita\" ซึ่งแปลว่า \"หนังสือที่มีชีวิต\"<br /><br />เมื่อดวงจันทร์สองดวงส่องแสงพร้อมกัน และท้องฟ้ายามค่ำคืนสว่างไสว แม่มดนักล่าก็จะมอบเชือกบังเหียนเป็นของขวัญให้กับทายาทของ Duran เพื่อเป็นสัญลักษณ์ว่าพวกเขาได้เข้าสู่วัยผู้ใหญ่แล้ว ซึ่งบังเหียนที่ว่างเปล่านี้ จะเป็นบันทึกการต่อสู้ตลอดช่วงชีวิตของพวกเขา<br /><br />หลังจากพิธีเข้าสู่วัยผู้ใหญ่สิ้นสุดลง Borisin จะต้องไปที่ฟาร์มอาวุธเพื่อเลือกและฝึกพาหนะออกศึกจากพวก \"อสูรจักรกล\" ที่ได้รับการคัดเลือก และเพาะพันธุ์ด้วยเวทมนตร์ทางพันธุกรรม อสูรจักรกลใช้มนุษย์ที่ถูกพิชิตมาเป็นอาหาร ด้วยความเฉียบแหลมและความโหดร้ายอันน่าทึ่ง เมื่อเทียบกับเจ้านายในอนาคต เหล่าอสูรจักรกลก็เป็นเพียงลูกแกะเท่านั้น แสงจันทร์ได้กระตุ้นเลือดที่พลุ่งพล่านในร่างกาย เหล่า Borisin วัยหนุ่มสาวได้ไล่ล่าและต่อสู้กับอสูรจักรกล บางคนตายจากไปเพราะจูบของอสูร และนั่นคือจุดจบของชีวิตผู้อ่อนแอ บางคนเข่นฆ่าเพื่อนร่วมเผ่าพันธุ์ ซึ่งนั่นเป็นวิธีแบ่งแยกของอสูรร้าย... ชายหนุ่ม Borisin ทำให้ม้าศึกตัวโปรดของเขาล้มลงกับพื้น โดยผูกเชือกบังเหียนที่มีหนามประสาทไว้ที่รอบคอม้า... เหล่าสัตว์ต่างพากันประหลาดใจกับสัมผัสทางจิตของเจ้านายในอนาคต ราวกับสัตว์แสนเชื่องที่ถูกเฆี่ยนตีหลายร้อยครั้ง เมื่อมันเต็มใจที่จะแบกเจ้านายไว้บนหลัง Borisin \"sorya\" ที่เหมาะสม จึงได้ถือกำเนิดขึ้น (นักรบ, ผู้ขี่ม้า)<br /><br />จากนั้นเป็นต้นมา เชือกบังเหียนของ Borisin ก็กลายเป็นเหมือนกับผู้บันทึกประสบการณ์การต่อสู้ เชือกบังเหียนค่อยๆ เต็มไปด้วยรอยขีดข่วน เงื่อน และของตกแต่ง<br /><br />sorya ที่ได้รับการฝึกฝนมาเป็นอย่างดี จะสวมชุดเกราะคล้ายแมงกะพรุน ขึ้นไปยังเรืออสูรที่สามารถข้ามผ่านดวงดาว และออกเดินทางไปยังโลกต่างๆ ได้ภายใต้การนำของ \"yonda\" (ผู้นำกองทัพ) โดยสาบานว่าจะเปลี่ยนดวงดาวให้กลายเป็นทุ่งหญ้าสำหรับสัตว์ในนามของ Duran และเจ้าแห่งอายุวัฒนะ รอยขีดข่วนตื้นๆ บนเชือกบังเหียน แสดงถึงจำนวนศัตรูที่สามารถสังหารได้ เงื่อนแสดงถึงการต่อสู้ครั้งใหญ่ที่ผ่านมา ส่วนของตกแต่งที่แขวนอยู่บนเชือก คือสมบัติที่ได้มาจากการปล้น อย่างเช่น เขี้ยวของมนุษย์ แกนกลางของจักรกล พวกมันคือความโกรธแค้นและการคร่ำครวญของผู้ที่ยอมจำนน และก็เป็นเหรียญรางวัลที่แสดงถึงความแข็งแกร่งของ Borisin ด้วย<br /><br />เมื่อม้าศึกที่อยู่ใต้การควบคุมตายในสนามรบ หรือเมื่อ Borisin ต้องการลงโทษ เชือกบังเหียนของพวกมันก็จะถูกย้ายไปยังสิ่งมีชีวิตอื่น<br /><br />โดยทั่วไปแล้ว เป้าหมายประเภทนี้มักจะเป็นมนุษย์จิ้งจอก... ทาสที่ถูกขับออกจากกลุ่ม เนื่องจากแผนการคัดเลือกเพื่อเพาะพันธุ์ พวกเขาอ่อนแอ มีไหวพริบ ซึ่งเหมาะกับการใช้แรงงานและการคำนวณเท่านั้น แต่เมื่อมนุษย์จิ้งจอกที่เก่งเรื่องการต่อสู้ปรากฏตัวขึ้น หัวหน้าของผู้นำหมาป่า ก็เลือกที่จะผูกเชือกไว้ที่ตัวพวกเขาเป็นอันดับต้นๆ และบังคับให้พวกเขาเป็นแนวหน้าการโจมตีในฐานะทาสสงคราม<br /><br />หากทาสถูกเข่นฆ่า และอาวุธได้รับความเสียหาย หนามที่ติดอยู่กับปลายเชือกบังเหียนสามารถใช้เป็นแส้ได้เช่นกัน หากแส้หัก ลูกสมุนแตกกระเซ็น และถูกฝังอยู่ในสนามรบ เช่นนั้นแล้วเชือกบังเหียนนี้ ก็จะเป็นการจารึกและเป็นอนุสรณ์ที่หลงเหลืออยู่สำหรับ Borisin...<br /><br />ดังคำกล่าวที่ว่า \"ในป่านั้น สถานะของนักล่าและเหยื่อ มักจะสับเปลี่ยนกันอยู่เสมอ\" หลังจากการต่อสู้กับชาว Xianzhou ในป่าอันมืดมิดของจักรวาลเป็นเวลาหลายพันปี แส้ของเผ่าพันธุ์หมาป่าได้ถูกทำลายไปนับไม่ถ้วน ในท้ายที่สุด สายสัมพันธ์ที่เชื่อมโยงกลุ่มนักล่าทั้งหลาย ก็ถูกตัดขาดด้วยลูกศรอันแหลมคมของ \"ล่าสังหาร\" Borisin ตกอยู่ภายใต้ห้วงแห่งสงครามภายในและความเสื่อมโทรม ไม่ได้ภาคภูมิใจเหมือนแต่ก่อนอีกต่อไป",
+   "rarityData": {
+    "2": {
+     "rarity": 2,
+     "maxLevel": 6,
+     "mainAffixes": [
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.014515,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "อัตราการฟื้นฟูพลังงาน",
+       "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc",
+       "isPercent": true,
+       "baseValue": 0.012442,
+       "levelAdd": 0.0043550003,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.009677,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.009677,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.012096001,
+       "stepValue": 0,
+       "maxStep": 0
+      }
+     ],
+     "subAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": false,
+       "baseValue": 13.548016,
+       "levelAdd": 13.548016,
+       "stepValue": 1.693502,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": false,
+       "baseValue": 6.774008,
+       "levelAdd": 6.774008,
+       "stepValue": 0.846751,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": false,
+       "baseValue": 6.774008,
+       "levelAdd": 6.774008,
+       "stepValue": 0.846751,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.013824001,
+       "levelAdd": 0.013824001,
+       "stepValue": 0.0017280006,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.013824001,
+       "levelAdd": 0.013824001,
+       "stepValue": 0.0017280006,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.017280001,
+       "levelAdd": 0.017280001,
+       "stepValue": 0.0021600004,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ความเร็ว",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
+       "isPercent": false,
+       "baseValue": 1,
+       "levelAdd": 1,
+       "stepValue": 0.1,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราคริติคอล",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
+       "isPercent": true,
+       "baseValue": 0.010368001,
+       "levelAdd": 0.010368001,
+       "stepValue": 0.0012960008,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DMG คริติคอล",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราสร้างสถานะ",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
+       "isPercent": true,
+       "baseValue": 0.013824001,
+       "levelAdd": 0.013824001,
+       "stepValue": 0.0017280006,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ต้านทานสถานะ",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
+       "isPercent": true,
+       "baseValue": 0.013824001,
+       "levelAdd": 0.013824001,
+       "stepValue": 0.0017280006,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      }
+     ]
+    },
+    "3": {
+     "rarity": 3,
+     "maxLevel": 9,
+     "mainAffixes": [
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.062208,
+       "levelAdd": 0.021773001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "อัตราการฟื้นฟูพลังงาน",
+       "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc",
+       "isPercent": true,
+       "baseValue": 0.018662,
+       "levelAdd": 0.0065320004,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.014515,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.014515,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.05184,
+       "levelAdd": 0.018144,
+       "stepValue": 0,
+       "maxStep": 0
+      }
+     ],
+     "subAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": false,
+       "baseValue": 20.322023,
+       "levelAdd": 20.322023,
+       "stepValue": 2.540253,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": false,
+       "baseValue": 10.161012,
+       "levelAdd": 10.161012,
+       "stepValue": 1.270126,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": false,
+       "baseValue": 10.161012,
+       "levelAdd": 10.161012,
+       "stepValue": 1.270126,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.02592,
+       "levelAdd": 0.02592,
+       "stepValue": 0.0032400002,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ความเร็ว",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
+       "isPercent": false,
+       "baseValue": 1.2,
+       "levelAdd": 1.2,
+       "stepValue": 0.1,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราคริติคอล",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
+       "isPercent": true,
+       "baseValue": 0.015552,
+       "levelAdd": 0.015552,
+       "stepValue": 0.0019440008,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DMG คริติคอล",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
+       "isPercent": true,
+       "baseValue": 0.031104,
+       "levelAdd": 0.031104,
+       "stepValue": 0.003888001,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราสร้างสถานะ",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ต้านทานสถานะ",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.031104,
+       "levelAdd": 0.031104,
+       "stepValue": 0.003888001,
+       "maxStep": 2
+      }
+     ]
+    },
+    "4": {
+     "rarity": 4,
+     "maxLevel": 12,
+     "mainAffixes": [
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.082944,
+       "levelAdd": 0.029029999,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "อัตราการฟื้นฟูพลังงาน",
+       "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc",
+       "isPercent": true,
+       "baseValue": 0.024883,
+       "levelAdd": 0.008709,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.055296,
+       "levelAdd": 0.019354,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.055296,
+       "levelAdd": 0.019354,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.06912,
+       "levelAdd": 0.024192,
+       "stepValue": 0,
+       "maxStep": 0
+      }
+     ],
+     "subAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": false,
+       "baseValue": 27.096031,
+       "levelAdd": 27.096031,
+       "stepValue": 3.387004,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": false,
+       "baseValue": 13.548016,
+       "levelAdd": 13.548016,
+       "stepValue": 1.693502,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": false,
+       "baseValue": 13.548016,
+       "levelAdd": 13.548016,
+       "stepValue": 1.693502,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.027648,
+       "stepValue": 0.0034560005,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.027648,
+       "stepValue": 0.0034560005,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ความเร็ว",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
+       "isPercent": false,
+       "baseValue": 1.6,
+       "levelAdd": 1.6,
+       "stepValue": 0.2,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราคริติคอล",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
+       "isPercent": true,
+       "baseValue": 0.020736001,
+       "levelAdd": 0.020736001,
+       "stepValue": 0.0025920009,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DMG คริติคอล",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.041472,
+       "stepValue": 0.0051840004,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราสร้างสถานะ",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.027648,
+       "stepValue": 0.0034560005,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ต้านทานสถานะ",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
+       "isPercent": true,
+       "baseValue": 0.027648,
+       "levelAdd": 0.027648,
+       "stepValue": 0.0034560005,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.041472,
+       "levelAdd": 0.041472,
+       "stepValue": 0.0051840004,
+       "maxStep": 2
+      }
+     ]
+    },
+    "5": {
+     "rarity": 5,
+     "maxLevel": 15,
+     "mainAffixes": [
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.10368,
+       "levelAdd": 0.036288,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "อัตราการฟื้นฟูพลังงาน",
+       "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc",
+       "isPercent": true,
+       "baseValue": 0.031104,
+       "levelAdd": 0.010886001,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.06912,
+       "levelAdd": 0.024192,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.06912,
+       "levelAdd": 0.024192,
+       "stepValue": 0,
+       "maxStep": 0
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.0864,
+       "levelAdd": 0.030240001,
+       "stepValue": 0,
+       "maxStep": 0
+      }
+     ],
+     "subAffixes": [
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": false,
+       "baseValue": 33.87004,
+       "levelAdd": 33.87004,
+       "stepValue": 4.233755,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": false,
+       "baseValue": 16.935019,
+       "levelAdd": 16.935019,
+       "stepValue": 2.116877,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": false,
+       "baseValue": 16.935019,
+       "levelAdd": 16.935019,
+       "stepValue": 2.116877,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "HP",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ATK",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DEF",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
+       "isPercent": true,
+       "baseValue": 0.0432,
+       "levelAdd": 0.0432,
+       "stepValue": 0.0054,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ความเร็ว",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
+       "isPercent": false,
+       "baseValue": 2,
+       "levelAdd": 2,
+       "stepValue": 0.3,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราคริติคอล",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
+       "isPercent": true,
+       "baseValue": 0.02592,
+       "levelAdd": 0.02592,
+       "stepValue": 0.0032400002,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "DMG คริติคอล",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
+       "isPercent": true,
+       "baseValue": 0.05184,
+       "levelAdd": 0.05184,
+       "stepValue": 0.0064800004,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "อัตราสร้างสถานะ",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "ต้านทานสถานะ",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
+       "isPercent": true,
+       "baseValue": 0.034560002,
+       "levelAdd": 0.034560002,
+       "stepValue": 0.0043200003,
+       "maxStep": 2
+      },
+      {
+       "propertyName": "เอฟเฟกต์ทำลายล้าง",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+       "isPercent": true,
+       "baseValue": 0.05184,
+       "levelAdd": 0.05184,
+       "stepValue": 0.0064800004,
+       "maxStep": 2
+      }
+     ]
+    }
+   }
+  }
+ },
+ "pageId": "315"
+}

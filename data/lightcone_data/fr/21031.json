@@ -2,16 +2,17 @@
  "name": "Retour aux ténèbres",
  "rarity": 4,
  "descHash": "Bien que sa sœur fût près d'elle, elle n'entendait rien.<br />La seule chose perceptible était la voix au fond de son cœur, qui ne faisait que s'amplifier de minute en minute.<br /><br />« Le corps de grande sœur est froid. »<br />« Le corps de grande sœur ne bouge pas. »<br /><br />Un déferlement violent de fureur la submergeait irrémédiablement, au point qu'elle n'eut même pas le temps de faire le vide dans son esprit, ou de se rappeler ce fait crucial, mais qu'elle avait néanmoins négligé...<br /><br />« Le corps de grande sœur est froid depuis très longtemps. »",
- "iconPath": "76ab003a9c92bc992e29233781457d8d6e88ce017549ec6c2de336678fa6343b",
- "artPath": "f42641ebde76701b92930a2d18a1fbb1a7707c1ced786f88168fd9d9b5f386ab",
+ "iconPath": "ed9666839afe1ae3154eea29f00793b3df2ccfcb61d81e2892979207b212ab80",
+ "artPath": "6d9eef0317d20851be74973ee82ccf673a51275e5a48a6929ce2a55798eb19c9",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRtQBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSBwAAAABD9D/iAioadsIglD+SG86eb2HQET/g7y0mJUQVlA4IJIBAACQCACdASoUABwAPm0sk0akIqGhMBgIAIANiUATplxv7SF80iLkreL6Yqzs6gH6sdZkMpnv5mZJHruPfnauga9RNUMUIu3Ar+N2Q9nAAAD+/GgIB3M1NUENJ/2VXPpYtsOS+MYeq75jbPNcD+u1xTaRtQtAqRrI5zFAlu4aFfMOF4VnEvXfRyouPx7pl//7YlxSjdP0P1ZJ7jRPnUKtq4KPIOrv5+Nj1gGHkG6HzQr1SX8ixIu10szoAsQvq/jCl1H1tPPe8O9a5OqWLsjsNrMbxmdT7mVc43JAs1BKm/HllZNvg69hT724yJ3+/GeFB38nN8UaG+WiXRKjMRaPt3NVVynzUAFB92oIgs5aSM9Med/Fr/ffA5X1csujqTphxC3GqWmDPl8X5intcctlhchqIBjOo3E5kD0j9gQ1Toe1/eV5v+ZLFAGCMch+rYe4hjjWYazJhcW9lBCeX/DG76gO1F+9J5lJG0Ks1HBw/25ADn605nTYRSNCO/hVHHDbIZocK3633SDcordBz/ckRj1tAAA=",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "a91a8fb7b8b52374bcea04ed46eae119659f95eaa4bf50500016ccfa2dea0b21",
+ "mediumIconPath": "a843a94b2af109a656d3e88304e3b31fa18dda61baad50309359efb29130c1e0",
  "baseType": {
   "id": 0,
-  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
+  "iconPath": "d5302975290739e51dc53d919353f47705d836fa6db628c190b1faaf195f7319",
   "color": "#FFFFFF",
   "name": "La Chasse",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549504": {
    "id": 549504,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "71d58f084522c87e93327e3e7fc1db8fb4abb65e9989b163d4a348c9a3761329",
+   "iconPath": "6c179a11ddab366162a8539ea956319bacacb460c375d4b3d7f4ab3637918e75",
    "name": "Jeune pousse immortelle",
    "desc": "Jeune pousse ayant bourgeonné à partir d'une ancienne construction divine. Matériau commun utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Il y a de très nombreuses années, le désir orgueilleux et démesuré d'un souverain pour l'immortalité a mené la flotte de Xianzhou à lever les voiles en direction de la mer cosmique pour y rechercher des remèdes divins.<br /><br />« Nous voulons vivre jusqu'à des temps sans fin et maintenir notre empire pour l'éternité. Malheureusement, la vie humaine prend toujours fin, et les capacités humaines ont leurs limites. Par conséquent, nous avons envoyé neuf Navium Astriger pour naviguer au-delà du ciel, à la recherche des recettes divines de l'immortalité. »",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549504",
    "comeFrom": [
     "Abominations de l'Abondance",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 633445,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fc1f8e93b552510a719e96df3c4e48ace4f905d262668303315d785b951a7c04",
+   "iconPath": "d1124c0146a84ca0b7fea540fdaf95e66dc3e8f128ec5a9f9250b388c8183db8",
    "name": "Aérofleur immortelle",
    "desc": "Nouvelle fleur ayant éclos à partir d'une ancienne construction divine. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Après d'innombrables tentatives, la flotte à la recherche du remède de l'immortalité était capable de contempler le visage de l'être divin. La divinité envoya ses bénédictions sous une forme matérielle, et l'Arbre d'ambroisie étendit ses feuilles.<br /><br />« De nouveaux bourgeons descendirent sur la lune, où des fleurs divines se mirent à pousser entre les nuages. Le temps de la floraison, le vieux bois retrouva sa jeunesse. »",
@@ -72,6 +74,7 @@
    "comeFrom": [
     "Abominations de l'Abondance au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -80,7 +83,7 @@
    "id": 635674,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "bbfb88036f821da503753ae4189da74a1586b0b7ee8ec0f234bbf9fb53474d01",
+   "iconPath": "11a70d892dc3b897bc3d714367c18fe413d9538c809eb21c211f322eed806403",
    "name": "Flèche du chasseur de bêtes",
    "desc": "Pointe de flèche forgée à partir de givracier par les artisans de Xianzhou. Permet d'améliorer légèrement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Cadeau que les parents offrent à leurs enfants lorsque ces derniers tuent leur première proie, lors de la cérémonie de passage à la majorité. Il symbolise les succès à venir, aussi sûrs que la flèche qui file en direction de sa cible.<br /><br />« Puissent la flèche à ta taille et l'épée dans ton fourreau t'être fidèles et toujours trouver leur cible. »",
@@ -89,7 +92,7 @@
    "rewardPath": "/material/635674",
    "comeFrom": [
     "Calice des Plaines des neiges périphériques",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -97,7 +100,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -115,7 +118,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -126,14 +129,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -151,7 +154,7 @@
    "id": 717386,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5708b196a8af89740ced588d98dc414c791d209879957fb0bc8644cc2dc84adb",
+   "iconPath": "fd7a32682f691044c47ac3a898e66880b2f442ae41c7264f87c4101558550161",
    "name": "Branche-lumière immortelle",
    "desc": "Branche à feuilles caduques provenant d'une ancienne construction divine. Matériau avancé utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Après les Trois Souffrances, Xianzhou a été en proie à la dévastation. Les Homo celestinae se sont retrouvés au rang de démons, et les catastrophes se sont enchaînées sans discontinuer.<br /><br />« En vertu du décret de la Commission des dix seigneurs, quiconque sur le point d'être frappé par le mara sera saisi par les juges infernaux et envoyé à la Prison des enchaînés. »",
@@ -161,6 +164,7 @@
    "comeFrom": [
     "Abominations de l'Abondance au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -169,7 +173,7 @@
    "id": 836260,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "567e2625dad62dc022ca7b71109c76754e7fc5cc2ac9daa5debb5c65282743ab",
+   "iconPath": "cf5a458a6f5b56925e970a2f6e10ac8fc3034f2b045e7d87e13c0a49e4c8fba8",
    "name": "Flèche du chasseur d'étoiles",
    "desc": "Fragment de la Flèche de lumière briseuse de ciel tirée par le Seigneur archer de la Destinée. Permet d'améliorer considérablement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Les ruines d'une construction divine que les humains ordinaires ont rarement la chance de contempler. Quelle est donc la force capable de faire exploser des étoiles à des années-lumière ? L'humanité ne peut qu'imaginer la puissance de la Flèche de lumière d'après les cendres qu'elle a laissées dans son sillage.<br />Seul le Maître de la fournaise, chef des artisans de Xianzhou, peut forger à nouveau ces éclats pour ceux qui en sont dignes.<br /><br />« La mort d'une étoile brillera de mille feux pour les siècles à venir. »",
@@ -186,7 +190,7 @@
    "id": 920201,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "fdcef4e7b19d0d08fb9ea878b30e08be44286d0a6273f29c89a77c6e17ad9572",
+   "iconPath": "cde54d9ea3870506cfb7367e25d2eada09bfe948b459125b5e916d55fa6d4133",
    "name": "Flèche du tueur de démons",
    "desc": "Pointe de flèche forgée à partir d'essence de stellaris par les artisans de Xianzhou. Permet d'améliorer modérément les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Une flèche plus fine qu'un doigt. Elle peut être utilisée à l'aide d'une arbalète électromagnétique ou d'un arc thermique. Sa puissance est telle qu'elle peut pénétrer les carapaces robustes des abominations en un seul coup.<br /><br />« Le banni céleste arrive de loin, après avoir parcouru de grandes distances entre les océans d'étoiles. Similaires à l'averse, les flèches s'abattent sur un casque reflétant l'éclat de la lune. »",
@@ -196,7 +200,7 @@
    "comeFrom": [
     "Calice des Plaines des neiges périphériques",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

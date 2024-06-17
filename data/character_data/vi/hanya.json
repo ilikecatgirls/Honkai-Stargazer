@@ -1,19 +1,20 @@
 {
  "spRequirement": 140,
- "iconPath": "b04234e91a4c2727c38da1d1117f838a3b3d2d805f268c8ef30ee3d55f209dee",
- "bgPath": "5b8c0b1f01f3a1d5f21d935bac5eff7faa836300d3b51619e01836bf2efce300",
- "figPath": "48de6a5940f1bc2c27ab4f32483f0b460c8c1a238fe30118b6c3d2bd142d58b6",
- "fgPath": "aa38bcc6a8172825475bf8cda08f53ff1b8838395daab996dfd9d0dfccb67b53",
- "splashIconPath": "c1ca41aeccea99e7840f768fe9999bf816194185def767f83007af0e60d3e0e5",
+ "iconPath": "c6ce4dfccdbd48d2a7f7f351d1e3a77ee959b49b9e81eda3df08ff4d453c6165",
+ "bgPath": "5f2cb233f6c76a5436152079cf5610e1e0af78ff4c506e71f1f9b9473ded03f3",
+ "figPath": "ef80c0bd48aa2462fee80fa1529ccd819806c19ed77a3726db9f7483a3a8a1db",
+ "fgPath": "c2d95208a5ac5ffd03ff1bc8863ab2b6c7cb3c4affcf595b48162c9ff315ed13",
+ "splashIconPath": "5d0ac67224d5334c0ba63da241c9bfc5d86cd7d21e383b2b35bf47e3021a315f",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRngCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAcBAAABkKttmyFm7+zEtm2fg5PSSWU7+W37AFzZ7myrYmXb8c68xeIYImIC4FrCvacE4AlPTxcCgYAfUD4f0gnR3ekXP1wv3sh1IRA2AoFLV5P888FkOzxs4NP3zNRqlpzhSUAAMNBIaq21UpoTqyIgIET9Pc5YrIoD8PBAEWlq51leDgGMbZzRbsk1qLo1Re1WjU+M9yR3nflKUpvKnDE1/77YGBeNygmlfk/SVnP88UgqJEq1ev7r78DWR/O3/OSn17vbAmDgKMmXffX+i15OmorjB7IB+K78THL8BqlobYLVt/szqb7+59mxObtSAUBIILi8OT4wrzoIAASswoCjhzQMOEspYEgBKwBWUDggSgEAAHAHAJ0BKhQAFAA+bTCSRyQioaEoCqiADYlsALEfNED26WsAbybz4X6AfAmV4Hs1RQAxWl0l0S5XlJE4cSykUVhnoTggAP7r/mpY04Aw6ZT2355PUxQMBeWfdAk0/QgfqqPq3PQ4/90ipHHzIv683mPpBeIMY0U4WH8i2AdNfPBt91TrsGlY7WLpmaMtTdEBlbM+e6Z+b6w9lAxE30su8snIhvN826tGujDnU9+oiZfcuex/3dVx1BAylXGTurwzyBAzW5eku3D/ka5sri54WXh3w72exdjOqCrvaVMnkI5F9cTdXTUNhpGcDZA287XGhWNXQd+ssPTvandjKdxOced68ka4fV37HOlw9GN8xFUtnrxrH6E5ZbK1q3kmclnxqbxRlSpPfvQbkGwJLDys5zSivGDg7HfGiIsrWenQigMdqKBjFYVWV4AAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 4,
-  "iconPath": "55d5339b99655abd5d47c976596bebf22e6e522614fef628f7c875606f3e1abd",
+  "iconPath": "d6c1c12a1f62066392fe6f146eae9d08e62f5c4f46bb43d21b63469820f5c281",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Điểm Tín Dụng",
    "desc": "Tiền mà Công ty Hành Tinh Hòa Bình (IPC) dùng để giao dịch với khách, nay đã trở thành đồng tiền chính khi đi lại trong vũ trụ.",
    "lore": "\"Người ta bôn ba, tranh đấu, mua bán, cũng chỉ vì những con số xuất hiện trên thiết bị đầu cuối. Nhưng thứ quý giá thật sự, thì con số của công ty lại không thể mua được.\"",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Dấu Chân Vận Mệnh",
    "desc": "Nguyên liệu cấp cao dùng để tăng cấp Vết Tích",
    "lore": "Những thất bại liên tiếp đã giúp bạn giành được chiến thắng, từng bước tiến về phía trước đã đưa bạn đến bước ngoặt của vận mệnh.",
@@ -61,7 +62,7 @@
    "id": 186254,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "9794d4b9cee70ded671331e6e9eec06326dcb9428d59540d9960f2a0bbea00e1",
+   "iconPath": "cf2788ec5bdb2c1137c8bdf583b557edd00667b1f629205eccb2a92e506b62a8",
    "name": "Oán Hận Vô Hạn",
    "desc": "Nguyên liệu cấp cao dùng để tăng cấp Vết Tích.",
    "lore": "Dù cho có đánh cắp bao nhiêu cơ thể, nó vẫn không thể được như ý nguyện. Cũng như những người đi cầu tiên dược vậy, nó khao khát một thân xác bất diệt, thứ sẽ giúp nó thoát khỏi nỗi sợ hủy diệt. Nhưng nó biết đây sẽ mãi là giấc mơ không thể thành hiện thực.<br /><br />\"Tôi đã từng nhìn thấy vô số thế giới bị ngọn lửa của vị thần tì vết nuốt chửng, tôi đã từng là một trong những đám lửa này. Tôi nhảy múa theo ngón tay của ngài, nhưng vẫn nhận biết sâu sắc rằng nếu nhiên liệu bị đốt sạch, thì ngọn lửa cũng sẽ lụi tàn...\"",
@@ -76,7 +77,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Hướng Dẫn Dạo Chơi",
    "desc": "Nguyên liệu EXP nhân vật, có thể nhận <nobr>20000</nobr> điểm EXP nhân vật.",
    "lore": "Tập sách thám hiểm cần thiết cho việc đi qua các thế giới. Nhấn nút đọc và giọng nói từ tính sẽ nói bằng ngôn ngữ bạn có thể hiểu được, để giảng cho bạn nghe những trải nghiệm huyền thoại của các nhà thám hiểm nổi tiếng ở các thế giới khác nhau, cũng như trí tuệ quý giá mà họ có được trên các hành tinh khác nhau.<br /><br />\"Bộ sách mới \"Hướng Dẫn Ẩm Thực Hành Tinh\" của Hướng Dẫn Dạo Chơi sắp được bán, mong mọi người ủng hộ.\"<br />\"Nộp bản thảo vui lòng kết nối với nhân viên <nobr>230</nobr> Máy Phát Liên Kết Trực Giác Hội Trí Thức, thù lao sẽ được trả bằng bất kỳ hình thức nào mà bạn có thể chấp nhận.\"",
@@ -94,7 +95,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Nhật Ký Thám Hiểm",
    "desc": "Nguyên liệu EXP nhân vật, có thể nhận <nobr>5000</nobr> điểm EXP nhân vật.",
    "lore": "Một ghi chú thám hiểm mang tính giáo dục, được đóng gọn gàng. Những câu chuyện minh họa từ đầu đến cuối về hành động thám hiểm, có thông tin giá trị và mẹo sinh tồn.<br /><br />\"Tại sao không kỹ thuật hóa đưa nó vào thẻ quang? Tiện mang theo hơn nhiều.\"<br />\"Đối mặt trước cơn bão hằng tinh và sự phun trào neutron, công nghệ cao mong manh hơn bạn tưởng. Huống chi người làm ra quyển sách này chắc hẳn đã hy vọng mọi người sẽ đọc nó với cách đơn giản nhất. \"",
@@ -113,7 +114,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Kiến Thức Du Hành",
    "desc": "Nguyên liệu EXP nhân vật, có thể nhận <nobr>1000</nobr> điểm EXP nhân vật.",
    "lore": "Nhật ký ghi lại mọi thứ trên đường đi, chữ viết đã bị mờ, nội dung thích gì viết đó, không giúp ích gì nhiều cho bạn.<br /><br />\"Xem xong rồi thì dọn dẹp đống giấy lộn này đi, Dan Heng?\"",
@@ -131,7 +132,7 @@
    "id": 549503,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "54d4c5dedbef6b70f526e88708669e94b6a214431c0c9ca55edf9b28b3413fcb",
+   "iconPath": "5e2438c9abc4e21c52edcc5bb581746c26d2327b4a4f5d92cd3133180be28bde",
    "name": "Linh Kiện Cơ Khí Nhân Tạo",
    "desc": "Phụ kiện của máy móc Xianzhou. Nguyên liệu đơn giản dùng trong cường hóa.",
    "lore": "Nền tảng của nghệ thuật cơ khí Xianzhou. Là đơn vị nhỏ nhất trong các linh kiện máy móc, phá vỡ nó sẽ giống như phá hủy cấu trúc tế bào của một sinh vật.<br /><br />\"Hội Trí Thức treo thưởng hai triệu điểm tín dụng cho công nghệ nào có thể tháo rời hoàn hảo các chi tiết cơ khí này.\"<br />\"Nếu bạn biết Screwllum, thì hai triệu này xem như tặng không cho bạn rồi...\"",
@@ -140,6 +141,7 @@
    "rewardPath": "/material/549503",
    "comeFrom": [
     "Cơ Giáp Nhập Ma",
+    "Rớt từ kẻ địch trong Vũ Trụ Sai Phân",
     "Kẻ địch trong Vũ Trụ Mô Phỏng",
     "Thưởng Ủy Thác",
     "Đổi Tro Tàn",
@@ -151,7 +153,7 @@
    "id": 633444,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "7b31224c48190eebf224b39e2a9df9477f9c67018bc63cb1b20569e6186041c3",
+   "iconPath": "5f91efc0ee18af4671cb38cea4ff3fb506947cf2406fef284133a5711b2e9397",
    "name": "Bánh Xe Nhân Tạo",
    "desc": "Phụ kiện của máy móc Xianzhou. Nguyên liệu thông thường dùng trong cường hóa.",
    "lore": "Các thành phần liên kết trong nghệ thuật cơ khí Xianzhou. Những chiếc răng mỏng và phức tạp của bánh răng có kích thước nhỏ như hạt cải, nhưng lại liên kết với nhau để tạo thành một cơ thể phức tạp, giúp cỗ máy có thể hoạt động linh hoạt như được ban cho sự sống.<br /><br />\"Hình dáng hài hòa, hòa hợp tự nhiên. Chuyển động lặp lại, tuân theo quy luật.\"",
@@ -161,6 +163,7 @@
    "comeFrom": [
     "Cơ Giáp Nhập Ma khi đạt Cân Bằng cấp 2",
     "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
+    "Rớt từ kẻ địch trong Vũ Trụ Sai Phân",
     "Rớt từ kẻ địch trong \"Vũ Trụ Mô Phỏng\"",
     "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
    ]
@@ -169,7 +172,7 @@
    "id": 635670,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "a096383d62b9e5432fbf9a9674cc41041077b151d3473e44509d684eaaccd9bd",
+   "iconPath": "f20b2d461af5d8348103cc846e16f4426441cb47027f294a40f24130640f403f",
    "name": "Giai Điệu Hài Hòa",
    "desc": "Hộp âm nhạc nhỏ không biết do ai làm ra, có thể tăng nhẹ Vết Tích Vận Mệnh của nhân vật <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hòa Hợp</span>.",
    "lore": "Phát ra giai điệu dân gian thoải mái và vui tươi.<br />Mặc dù giai điệu này rất đơn giản nhưng bất kỳ ai có hiểu biết một chút về lý thuyết âm nhạc đều có thể nghe được, người soạn ra nó nhất định là một bậc thầy về nhịp điệu.<br /><br />\"Nắm tay gia đình, chúng ta cùng nhau nhảy múa!\"",
@@ -186,7 +189,7 @@
    "id": 717385,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fcb869b494268ac2b7320d4a3795736698f3a3c5e9bad9c0182c6e11bd343c55",
+   "iconPath": "bec9f9969fb8f8f3b25d35f908959831e8d967d7df19a2aaf48dd68855a8ca75",
    "name": "Trái Tim Nhân Tạo",
    "desc": "Linh kiện của máy móc Xianzhou. Nguyên liệu cao cấp dùng trong cường hóa.",
    "lore": "Cốt lõi của nghệ thuật cơ khí Xianzhou. Quả cầu xoay tròn và rung động như nhịp đập của trái tim, khiến cỗ máy biết suy nghĩ như một sinh vật sống.<br /><br />\"Ngài đừng sợ. Lấy đi trái tim, sẽ khiến anh ấy... à không, cô ấy? À không, khiến nó mất đi linh hồn và trí tuệ, trở lại là một khối kim thạch.\"",
@@ -196,6 +199,7 @@
    "comeFrom": [
     "Cơ Giáp Nhập Ma khi đạt Cân Bằng cấp 4",
     "Máy Ghép Vạn Năng - Ghép Nguyên Liệu",
+    "Rớt từ kẻ địch trong Vũ Trụ Sai Phân",
     "Rớt từ kẻ địch trong \"Vũ Trụ Mô Phỏng\"",
     "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
    ]
@@ -204,7 +208,7 @@
    "id": 836256,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "b423fcc0ae34c8c3b30d0a461af31176b161d5a83f3615756c8f8a91f04ac474",
+   "iconPath": "007ad2366276ce70df0cda130c6cbd33e6a764cf9af6ff302656ff6a6937542f",
    "name": "Chương Nhạc Chòm Sao",
    "desc": "Hộp âm nhạc không biết do ai làm ra, kết cấu vô cùng phức tạp. Có thể tăng cao Vết Tích Vận Mệnh của nhân vật <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hòa Hợp</span>.",
    "lore": "Phát ra bản giao hưởng rúng động cả vũ trụ.<br /><br />Một số nhà thiên văn học tin rằng, các thiên thể hoạt động giống như các cấu trúc cơ học phức tạp, mặt trăng mặt trời và các vì sao sẽ phát ra âm thanh thanh thúy như pha lê khi quay. Đây chính là \"Bản Hòa Nhạc Hành Tinh\".",
@@ -221,7 +225,7 @@
    "id": 866634,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "596fbaf0ec664666606ba684cdb5e8f5ea877d04fab4177151231822416efbed",
+   "iconPath": "33f818868d0d49966e7087b30885cc936f37032ae7987db99a2abfe8da26cdc3",
    "name": "Thông Lệnh Cõi Âm",
    "desc": "Vũ khí của Kim Nhân Câu Hồn Sứ, nguyên liệu tăng bậc của nhân vật thuộc tính vật lý.",
    "lore": "Đây vừa là vũ khí mà sứ giả Sở Thập Vương dùng để khuất phục nhập ma, trấn áp tà vật, vừa là lệnh bài xuất trình trong lúc làm việc. Hễ đi đến đâu, dù có là người quyền uy nhất trên dương gian đều không được hỏi đến.<br /><br />\"Sứ giả cõi âm, khâm sai âm thế, nhận lệnh bắt giữ, không thể kháng cự.\"",
@@ -238,7 +242,7 @@
    "id": 920197,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "b5aa737b728156387ef4ddce10e0a541deb24993d58c4f2eca0aac0ed4301ea8",
+   "iconPath": "4cf16c3f1c7f10bd8fb063a7ee792484a4d9d3afcc77cd9eea7b975b6afe40e2",
    "name": "Ca Tụng Gia Tộc",
    "desc": "Hộp âm nhạc không biết do ai làm ra, có thể tăng tương đối Vết Tích Vận Mệnh của nhân vật <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hòa Hợp</span>.",
    "lore": "Phát bài ca tụng do dàn nhạc nhỏ hợp xướng.<br />Về phần người được khen ngợi trong lời hát là thần thánh phương nào? Hiện giờ không thể kiểm chứng được.<br /><br />\"Nếu tôi nghèo túng, thần đang thử thách tôi! Nếu tôi giàu có, thần đang ban ân cho tôi!\"",
@@ -440,8 +444,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "05a19e8d2f0c892332b7a5b1cacc7196d894f618e70b79215e1df9736ea3a44c",
-   "artPath": "89f72a7473270ff439e41451ba2d6644ed9c977cac0b61affdbcfc199673c9ce",
+   "iconPath": "105d22fbec792a5038dded4ce6b10756d676f65f7f7c901c874cf0124ae285c8",
+   "artPath": "ad8a4b57881cd72b486e05b3fefdfa2089203e8e67e7dfe0719856f897247d3a",
    "name": "Nhất Tâm",
    "descHash": "Khi đồng đội đang có hiệu ứng Tuyệt Kỹ tiêu diệt kẻ địch, Hanya sẽ Ưu Tiên Hành Động <nobr>#1[i]%</nobr>, hiệu ứng này mỗi hiệp chỉ có thể kích hoạt <nobr>#2[i]</nobr> lần.",
    "params": [
@@ -451,8 +455,8 @@
   },
   {
    "id": 2,
-   "iconPath": "35730bca60ce2b2e7b865b8d7c407f72e056f2600cd75d4dddbe2af00014a369",
-   "artPath": "cba36a80d2a62f035ce8e5c2f130e1dae4d94333885abd19dbfea8d72e7a7efb",
+   "iconPath": "bf6d84b38e5be3eabaff3c61efded5a61660a3973446c2d0519117a4dbc7fe78",
+   "artPath": "8c787483a2924891a170854ff8010482284dfa1a41592a2eddf9fe9d8dfbb9ec",
    "name": "Nhị Quan",
    "descHash": "Sau khi thi triển Chiến Kỹ, Tốc Độ tăng <nobr>#1[i]%</nobr>, duy trì <nobr>#2[i]</nobr> hiệp.",
    "params": [
@@ -462,16 +466,16 @@
   },
   {
    "id": 3,
-   "iconPath": "83a04c881188e877db3ae1168ffcca8b7c10bf201def8e518213e1878b1ce8d7",
-   "artPath": "0eb525c9771e696ed40451492b919e50816f82ec73304bfc09ad666cdae4cbe4",
+   "iconPath": "6231aad53dc279755b4214a7ab7807637153482945f42dbeb6195f582e415423",
+   "artPath": "a7a120ae0dd34ac3784675367b66484608f74bbb48f080401a69464d6785a64c",
    "name": "Tam Trần",
    "descHash": "Cấp Chiến Kỹ +2, tối đa không quá cấp <nobr>15</nobr>; Cấp Tấn Công Thường +1, tối đa không quá cấp <nobr>10</nobr>.",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "d39c0ed3bbf96ce52b4822541b68906a571b23396e56b293d4e35c21716c3fa5",
-   "artPath": "99eef445271a6dd517d0a7f8a5b3951a4f29213df2e1cf245177e9134598c3f2",
+   "iconPath": "291f5df9c6d64d515ccb61e54e606dfa15645fea95ec0b526d0c2980bd368717",
+   "artPath": "2a42dd4e6918f59d3b614cb2620e0db89dd38e896271aa82789535294fba737b",
    "name": "Tứ Đế",
    "descHash": "Thời gian duy trì của Tuyệt Kỹ tăng thêm <nobr>#1[i]</nobr> hiệp.",
    "params": [
@@ -480,16 +484,16 @@
   },
   {
    "id": 5,
-   "iconPath": "5b5c3af1f9f0993d33cc341e53fb8e9718d6dc94508995aad5a82a94f6841b20",
-   "artPath": "53e607a02823d398e3853c63fc23a9a1a23c4eedbc17da47f3415c2eadd539b7",
+   "iconPath": "459f062046d7b1e5a596e0188ea5bd9f9c641f5998ca013faaf2673d296a4f80",
+   "artPath": "fe59a78027d98f49b95e7c5e43bbc4f0add03571551e859fc15cf30f499690b5",
    "name": "Ngũ Âm",
    "descHash": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp <nobr>15</nobr>; Cấp Thiên Phú +2, tối đa không quá cấp <nobr>15</nobr>.",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "66ee74a56b94a0ae8487b1ca7bed78eebce5e03376220eb78820829a3b45bdbf",
-   "artPath": "f1da4c8adb20e993717ee70dfa0228763ba727896e52caee1d5e1f10c663ed43",
+   "iconPath": "a394df49fcd91080ae2bed0868d1e5e3124e804e6c13e715973fc171bae711bc",
+   "artPath": "f679bad61ea1f100c448b420bfbfb23cd92b118a2a17866b112162b0ca621d95",
    "name": "Lục Chính",
    "descHash": "Hiệu ứng tăng sát thương của Thiên Phú tăng thêm <nobr>#1[i]%</nobr>.",
    "params": [
@@ -523,7 +527,7 @@
    "energy": "20",
    "id": 581588,
    "name": "Thiên Bút Tiên Tri",
-   "iconPath": "2f48077a892ed60f81dbc0890e1eaf5d49eccec5e634be3dc5011ceb292d936a",
+   "iconPath": "e574a2a43c536c843327618ca521933407c58441e740201fae347804549a4f4f",
    "typeDescHash": "Tấn Công Thường",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +688,7 @@
    "energy": "30",
    "id": 297061,
    "name": "Sinh Diệt Trói Buộc",
-   "iconPath": "83a04c881188e877db3ae1168ffcca8b7c10bf201def8e518213e1878b1ce8d7",
+   "iconPath": "6231aad53dc279755b4214a7ab7807637153482945f42dbeb6195f582e415423",
    "typeDescHash": "Chiến Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -970,7 +974,7 @@
    "energy": "5",
    "id": 381002,
    "name": "Sắc Lệnh Thập Vương, Đồng Loạt Thi Hành",
-   "iconPath": "0526505dc792aa15996d8e85d2904a5dea879fd93df9483b727dc83f2d3d78e4",
+   "iconPath": "b0ab578bfca4e70cfe27f7e5ddf01cc17ccacf6454a34aaad47818ebd8bc7738",
    "typeDescHash": "Tuyệt Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1271,7 +1275,7 @@
    "energy": "0",
    "id": 866115,
    "name": "Trừng Trị Kẻ Ác",
-   "iconPath": "7fca34e644a7068e1834a977f25db445fba5cddf9b678cb6105a5055081c7535",
+   "iconPath": "c20d7c800834d51a1f8843c25e0e7445c749addac4facc69e8036e28adfff8a0",
    "typeDescHash": "Thiên Phú",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1557,7 +1561,7 @@
    "energy": "0",
    "id": 665529,
    "name": "Tấn Công",
-   "iconPath": "2f48077a892ed60f81dbc0890e1eaf5d49eccec5e634be3dc5011ceb292d936a",
+   "iconPath": "e574a2a43c536c843327618ca521933407c58441e740201fae347804549a4f4f",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1579,7 +1583,7 @@
    "energy": "0",
    "id": 782174,
    "name": "Cõi Âm Phán Xét",
-   "iconPath": "6a5b3305b1cafd23abec715d2a563cf3b63bc69aac1773fd0fd79caaf662a156",
+   "iconPath": "c31ef9b3dfaa99acb52c79a66797182627e99ca13f7a7afd63625ff986d6a53f",
    "typeDescHash": "Bí Kỹ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1615,7 +1619,7 @@
         "name": "Cường Hóa Tấn Công",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "Tấn Công",
@@ -1644,7 +1648,7 @@
       "name": "Cường Hóa Tốc Độ",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
       "statusList": [
        {
         "key": "Tốc Độ",
@@ -1674,7 +1678,7 @@
     "ultimateCost": 0,
     "id": 21247,
     "name": "Lục Sự",
-    "iconPath": "6d0c6f72b3ac9509041574cfee19dae1860a098a995c931cc1e0d3c1489431cc",
+    "iconPath": "a6282f7d75b59ecda47411a566efc7f84b34f9eeec9a3d868c07931c7f37d4bb",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1724,7 +1728,7 @@
         "name": "Cường Hóa Tốc Độ",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+        "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
         "statusList": [
          {
           "key": "Tốc Độ",
@@ -1754,7 +1758,7 @@
       "name": "Cường Hóa Tấn Công",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "Tấn Công",
@@ -1783,7 +1787,7 @@
     "ultimateCost": 0,
     "id": 21248,
     "name": "Cõi Âm",
-    "iconPath": "fbce9984a8c994c9666409b67e893076e326b12766b0df18f0f9e74b0da558aa",
+    "iconPath": "00c58650df12bf2850535c6f3fa09f3edc1aa6996a0891e0b9b6325ed99eddc4",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1837,7 +1841,7 @@
         "name": "Cường Hóa Tốc Độ",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+        "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
         "statusList": [
          {
           "key": "Tốc Độ",
@@ -1871,7 +1875,7 @@
         "name": "Cường Hóa Tấn Công",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "Tấn Công",
@@ -1900,7 +1904,7 @@
       "name": "Cường Hóa HP",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -1929,7 +1933,7 @@
     "ultimateCost": 0,
     "id": 21249,
     "name": "Hoàn Dương",
-    "iconPath": "d8ce53d19b42068ed892932dd3cd49bd898439722b1b7dc477eebf1938496648",
+    "iconPath": "fc95151aff2f1a3cb091ccf202845b0ed242d558cd9ae0887bad39c9138ea026",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -1977,7 +1981,7 @@
       "name": "Cường Hóa HP",
       "levelReq": 0,
       "promotionReq": 3,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -2010,7 +2014,7 @@
       "name": "Cường Hóa Tấn Công",
       "levelReq": 0,
       "promotionReq": 5,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "Tấn Công",
@@ -2039,7 +2043,7 @@
     "name": "Cường Hóa Tấn Công",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "Tấn Công",
@@ -2065,27 +2069,27 @@
   "props": [
    {
     "relicTypeHash": "Thân",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "Tấn Công",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "Chân",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "Tốc Độ",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Quả Cầu Vị Diện",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "HP",
-    "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf"
+    "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61"
    },
    {
     "relicTypeHash": "Dây Liên Kết",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "Hiệu Suất Hồi Năng Lượng",
-    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+    "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc"
    }
   ]
  },
@@ -2095,480 +2099,480 @@
    "title": "Lần Đầu Gặp Mặt",
    "text": "Tôi chính là \"Hanya\", sứ thần Thập Vương, là phán quan phụ trách vị trí cuối cùng trong bốn vị trí bắt, nhốt, phạt, hỏi cung, được Thập Vương đánh giá cao và có khả năng điều khiển thiên bút, ghi tội và đưa ra hình phạt.",
    "unlockRequirement": "",
-   "cnUrl": "a4f023ec5ecbd14bd0a680b77ad27e07c28837ffe1c51cebc2886e55b09d2c44",
-   "jpUrl": "8b0fca7d7e2bd207a8b02876da984883f08302e2dd75749e2d0a8418ca65c447",
-   "enUrl": "8fd551fee8b170ce86d658e491d527bd13fbbd54085423a1d378ba412320d019",
-   "krUrl": "c31c434f64b251e9ec691befc3b867266c963cf5d6485ed8bc9e999a135e88c6"
+   "cnUrl": "66ef4f5c2448c9be971522c6a41814568a9f80e4e2ca8db633114f52e36f7ea4",
+   "jpUrl": "4687ab0e81f27facb2a5cf1c3ff36a38319d51cacaa474e76b68164820dcac26",
+   "enUrl": "2604cad7de0ce2ac7c99b704a5694942454efbf56d8400f11c3a5fe573a423b6",
+   "krUrl": "4de0e03c75eca209c464c392658dfc18b4d7e2e9fb405d8045301a5f6064494a"
   },
   {
    "id": 2,
    "title": "Thăm Hỏi",
    "text": "Đã lâu không gặp. Gần đây vẫn ổn chứ? Gần đây tôi không được khỏe lắm, nhưng tôi lúc nào cũng không được khỏe nên không sao cả.",
    "unlockRequirement": "",
-   "cnUrl": "c6b68776b941083b9001aabfeef4dc10966fc22a3edd3cfaaab31fecd96702b0",
-   "jpUrl": "eed1f0fea839cf5f0eaafb34f61ad5988848f5f85a55990bd10cd44fd1270d51",
-   "enUrl": "257c4b17c34ac17ae5bf0f1493fc8529777784f745aeda5a9be99fcac89cfb32",
-   "krUrl": "69717e58f3cfa1911510fc0cbab74f1d211d62714fd76f82899413b36ceea1f3"
+   "cnUrl": "a6cd00bc013451cd5f0cab724bcc41aa51cac6ea138c1bf03cd7a99705d5df23",
+   "jpUrl": "54c9e46cc216eef9488015387a5ee88047eba163eac510b7e94aaeb74ee9f4a3",
+   "enUrl": "03dfd8d76b437d99ee26c380d201a56640348e810afd1103c528e4129b58d78d",
+   "krUrl": "447ecdaaa2efd3c71b4162b0c45a598deafbb0d960f2772d6c08208f4f331c13"
   },
   {
    "id": 3,
    "title": "Tạm Biệt",
    "text": "Hẹn gặp lại... à không, đừng gặp lại nữa thì tốt hơn, gặp tôi đều không có chuyện gì tốt đẹp.",
    "unlockRequirement": "",
-   "cnUrl": "ccda6fbd1faafc0ed3100d16fd277a51c662c9844011b1ac754a0453e841b586",
-   "jpUrl": "505e91da8d805953c5a14bf7bf1d300af2d04ddb7a4f476eab675b61fd0a6b07",
-   "enUrl": "2f8137371f1d856317b12f63a44ef32d4dcafd0288981ed80e9520ba3f135776",
-   "krUrl": "89bab57c755207a5dcbcddba391adb6c3eecbdf14a843e12ed446006bc966b85"
+   "cnUrl": "6d3bc94dd17c3efe642bac27fa1c2db6b468a0f81c84bb00891c62f3385f6864",
+   "jpUrl": "29f4966cf02f2f5cbe37e3aee7e13da73bcc9da696726e1567cb6a342977095f",
+   "enUrl": "565df525bfa75b341f9b795afb83f953413b84686abedcb466e6f4619740cddb",
+   "krUrl": "a985aa75d94e15ce790bb00ae3c716e81e1809a4c63024685404cf88fb6217bd"
   },
   {
    "id": 4,
    "title": "Về Bản Thân-Chị Em",
    "text": "Hanya và Xueyi là biệt hiệu của chúng tôi với thân phận là sứ giả của Thập Vương, tên trước đây... đã là chuyện của trước đây rồi. Nhưng từ đầu chí cuối tôi chỉ có một mình chị gái là người nhà, tôi sẽ không để chị ấy rời xa mình lần thứ hai.",
    "unlockRequirement": "",
-   "cnUrl": "0aaaf4c5f89fd299e5fd701e62dfc46cc1958dea1807151529799efda57b09cd",
-   "jpUrl": "e03bbdf5d92825e9547b448cc4625560683ee6e12a5afe5e9bc1967df726d3d2",
-   "enUrl": "524861d36339046e43a2f959ebdf9d85fc72236cd3d1c00428f99c09576130d7",
-   "krUrl": "668a1a83154b22a65d8abbdd20f30fc557359482e3b695b22e81a065f9a43758"
+   "cnUrl": "c81391e317fb27e62d4a2003755987b0680e32ee17c8f727b6b2c52ee4236561",
+   "jpUrl": "a04b0e47e44118bb1db3a5cfdae8129b640eb588d652de5b6dbaa7440d7b05b4",
+   "enUrl": "ae78ed68c50366d59ce86576d6fc7a9c5585025f1cf385b24ea77413977be92a",
+   "krUrl": "dc6f378d9391621736453993315acbfc844da293ef66435f3c9073e388897aab"
   },
   {
    "id": 5,
    "title": "Tán Gẫu - Công Việc",
    "text": "Dùng bói mộng để đoán biết tội nghiệt của Xác Nhập Ma, giống như chạm vào gai góc, chạm nhiều rồi sẽ không cảm thấy đau nữa. Cũng có lẽ... vì sợ đau nên đã làm cho bản thân tê liệt trước rồi...",
    "unlockRequirement": "",
-   "cnUrl": "03fba140308a7e8553bc8a4101ec53918ce8154a1e96581e3d2fc7516c05b599",
-   "jpUrl": "2ec7d119775fdad8d70df75b454f26ea57cf90d9511650bf9b48876c7be14a39",
-   "enUrl": "227501d8341859dc973f4b81dd88a4bd21a39b134909182a0b505eb70fb733fb",
-   "krUrl": "2107d6ea5dd8df47c63503ea3deb9d950b5075cf03db40b4c443a34f2ffcc406"
+   "cnUrl": "b340bac894ef723a4de4e2e6f3e125f83fbfc4aacf9830a1f44696c1caf493ed",
+   "jpUrl": "affcefdce8f81bab40d6314b97e3ae11c223ddf446d4c0e85cea0e0fdbfa390e",
+   "enUrl": "ef6ffdff77e320c7917ed57e1e87308c198ea180836cd4aef1a2cd66adc8fbdd",
+   "krUrl": "8a147503634820409e802f62aaae65163d0d7dd18920d0d5d869e4ea960d7043"
   },
   {
    "id": 6,
    "title": "Tán Gẫu - Sở Thập Vương",
    "text": "Không ai biết được cách tuyển chọn nhân tài của Sở Thập Vương, rất nhiều người không nhớ được mình đã vào bằng cách nào, thậm chí còn không nhớ mình đã từng làm gì. Nhưng vì người đời đã không còn gặp họ nữa, nên chuyện này cũng không hẳn là chuyện gì tồi tệ.",
    "unlockRequirement": "",
-   "cnUrl": "e00d0133e6fd1d65c6ec9567a8c57a271661d3bafd6c95646da1ec3fd15b253d",
-   "jpUrl": "4de82ce0b0e12cd111307fddb664dd99efa21c0abfc56bb5de9689e7f8e122ea",
-   "enUrl": "1e44ea48002245a640df7ef29b7ae6b34ebf8ec522544da13c1fcb381bbda9b7",
-   "krUrl": "58e173070f933c18da150888f5b40331ead0acbd10eb16557bdeb1276528439f"
+   "cnUrl": "7093fb4dffeaac591caf3cacdd5f00b9883e98f52d4f07fd744fe39316215fea",
+   "jpUrl": "bf85c18891e7e3843dd79840210f2b9ffd91c2940499f571639e65bafad56551",
+   "enUrl": "4a11618836f9ea2498e293f6684420cf538a12c36e9ee08509ad31494191a3c7",
+   "krUrl": "16a4fd1d9348e0d3c4dc74338e0a39a4cb944688539561dc5e44798e7a32dee2"
   },
   {
    "id": 7,
    "title": "Sở Thích",
    "text": "Thỉnh thoảng tôi sẽ ghi vào sổ tay những chuyện đã nghe và thấy hàng ngày... Như vậy khi gặp được chị sẽ có thể kể cho chị nghe.",
    "unlockRequirement": "",
-   "cnUrl": "e005ba6d9aa709ccb5b541f18b39dee5a7538568ef79ccfa9d567d0252d3a0e5",
-   "jpUrl": "f68757fcbbc924f3ecc0fdbf5602deea2d49af63ba371a66b1d78f1dad3422b3",
-   "enUrl": "2c80cbe662984f7ff81a72f50f1290f2636757a13db1f9ffe268fe414ed23bf3",
-   "krUrl": "e7473d885c7550df1af8c30da62a3cb548ad6a1c3faac61eb1429cbf2d173c81"
+   "cnUrl": "5fba5a084a35ba91e97de14fb12172160453df248d7877fa941f059e7736ffac",
+   "jpUrl": "0b7066de12875ef70d30e7342a620874ce7d377e040e933945590f6627ce78a0",
+   "enUrl": "18522c06d59f61451144a21013ee944b41283bc06defb3f98c5e2e2712821015",
+   "krUrl": "252c238a66355610269f288488ad1eda3b3fd1b252988b9b7697286b7e078bf5"
   },
   {
    "id": 8,
    "title": "Phiền Não",
    "text": "Chị và Sở Thập Vương đã thỏa thuận, mỗi khi bắt được một kẻ xấu sẽ được hoàn dương nửa ngày, đó là thời gian đẹp đẽ nhất trên thế giới này. Nhưng thời gian đẹp đẽ thì luôn ngắn ngủi như vậy, ngắn ngủi cứ như nước qua kẽ tay, càng nắm chặt thì nước càng chảy nhanh...",
    "unlockRequirement": "",
-   "cnUrl": "3546ae39f720d82d65ebff8b003cbdc547e42e95b4b51bae920233ac38c4818a",
-   "jpUrl": "046fbe8be1ab2f74c05c88cbd551edaa1ee256e26a1d2547795e03a4a7c646f0",
-   "enUrl": "8e6fcd5d8d354fcfe7f2ae7298c3ed62d39599d15c966740876b4fff71537705",
-   "krUrl": "f951d2928fc829796daaa14203ac350fea92f0cf4ee4b556d61ead3152ccd44a"
+   "cnUrl": "6da356e86535f9b9b8287e3f75530135f85c6d394e1e863e18fbcd2f5a3580b9",
+   "jpUrl": "30d920e0d899267a72d308e5b194183984f6a28e4f40ad64ad1b74874397bca9",
+   "enUrl": "deed268412402feb72bce45ccf495768056d3f8ae8086a5bd8e4724a03df21a7",
+   "krUrl": "8d113a0001b71544f3da7c589b40835e4ecb68b70ee97fa8cb27069590a83b9d"
   },
   {
    "id": 9,
    "title": "Chia Sẻ",
    "text": "Làm Phán Quan càng lâu, thì càng hiểu được một sự thật... Mọi người trên thế gian này, không một ai là không mang tội lỗi.",
    "unlockRequirement": "",
-   "cnUrl": "30f6ef953d9e12c2e1503a4ee7e5429f8f4b472cc42cb492d61480f72f8a23f1",
-   "jpUrl": "add96ed83a5f732d715cdec17be69cdb064dc41b0e33196c9c8286843bef2968",
-   "enUrl": "9ef8a7c4d583f9a112a164c5426843e0db02c8a9c84e53010be4a4991c757ede",
-   "krUrl": "7af83bfaf5171202a385a0d71ccb5df7a10ee2c037fc70dfadf6b1c74094fd9e"
+   "cnUrl": "901a888e03df46b2de1cb95ff1a47ecfd1f65d873c80f94f5629148dee133fcd",
+   "jpUrl": "e77bd154eb258117103b7115fdfe769887e6da8eab3d0cfefae11daf7df55888",
+   "enUrl": "7c9344029ee9eef92ab9d4945e2a1172d5ef78f0df3b33f662089cecc9653043",
+   "krUrl": "e2458a1c98dc446edba652af605f4d6ee69d26a5647399b3487bf382e928e933"
   },
   {
    "id": 10,
    "title": "Hiểu Biết",
    "text": "Bạn đã bao giờ quan sát bầu trời ở Động Tiên thay đổi như thế nào chưa? Dù biết đó là cảnh quan giả, nhưng mỗi khi bước ra khỏi Điện Nhân Quả sau bao ngày bói mộng, ngắm nhìn ngôi sao nhấp nháy đó, tôi vẫn thấy lòng bình yên hơn rất nhiều.",
    "unlockRequirement": "",
-   "cnUrl": "7b8354095ed3b0a36fd78222d044e5f9731e34ea4245930fc81484e8912169f0",
-   "jpUrl": "b07d3c9866cb596cc3c7f9a9c2f4dd5e81ce951cca39457b462e3051ea2bf2a7",
-   "enUrl": "463950bde90bf0bb7c69daab752aa32c532e11aa289aee42dd235782ffa762c6",
-   "krUrl": "6aa2f658f057cc0cf9dcb46917fef54bc3b2bf881a2295d3dea3cc2100d7fc0e"
+   "cnUrl": "853744b26436b4f1cff67de02fa35223f5b7ce5f79d83c995d7b47550fe48fbb",
+   "jpUrl": "46706a6c032457c28b9b766e0548c4d555c940e210b59760dc09b2a1cc7d6427",
+   "enUrl": "7ab8bf470e0ba483f059402255761e05a2059f7a62eb4d86717cffadc9e125d5",
+   "krUrl": "1204fb241889b4aa935ad5818276408f862f11434d46a768612ed5ae50f07369"
   },
   {
    "id": 11,
    "title": "Về Xueyi",
    "text": "Bạn đã từng đến Nhà Giam Xiềng Xích chưa? Mọi nơi đều tối đen như mực, chỉ có chiếc đèn treo cạnh Sứ Giả Linh Hồn mang lại ánh sáng hiếm hoi. Đối với tôi, thế giới này là Nhà Giam Xiềng Xích, và chị gái tôi là ánh sáng.",
    "unlockRequirement": "",
-   "cnUrl": "65d0e7aae7015a1b27e4b9f92d8406923fbc5cc66cd62877e5d64100a10dde30",
-   "jpUrl": "8701d3178e78752b3c20231a7fc5ab9755fb242aee5cc80e910e4247c5a55de6",
-   "enUrl": "035ec6ae94c79dfa0dc89e63d9b3a13d7282c30e860a58bcd8aabcad8e52d230",
-   "krUrl": "d8de7b02a7e5f17f4375ef54cc7e226d49e30534d41d94b054a5791d16f2cd96"
+   "cnUrl": "ac6e35a105042edb0826409387bb7e03ef37713f9e46244133f99179af373ad3",
+   "jpUrl": "efe7b105a451948564896f8a8a0058ab1712866086ffba6e5e446d17f8e619fb",
+   "enUrl": "b6178b99f3218be0dbc474990e54577fc00b1334ad9015f952db12fc18b49245",
+   "krUrl": "44227b3b708ca2a6af24c22d1e9829d4463f3d042baccee0069d9b81be9d44e3"
   },
   {
    "id": 12,
    "title": "Về Huohuo",
    "text": "Phán Quan của Sở Thập Vương toàn là những người phải chịu nỗi đau này hoặc nỗi đau khác, đứa trẻ này cũng không ngoại lệ. Tuy cô bé khá nhút nhát nhưng vẫn có một số năng lực thực sự. Đừng coi thường con bé, nếu không sẽ bị thiệt thòi.",
    "unlockRequirement": "",
-   "cnUrl": "5af41ec30023d6ad5c82d8be0cd7e8740a2ee8103cc8d2a736fd925aa01af2fd",
-   "jpUrl": "413c58751b328cb8e12674d85a3d330dfb22343f0eac4e0f7a03d8e61c03d94f",
-   "enUrl": "ca3136d152f18b1ba7bb2a30e6708d9899e40cfeb654c5f3cf61fb0f30db33c3",
-   "krUrl": "a11123bdd614754a861bf007d8f9bb1fe2dd050f1c9300d8745c0128ab92c0b1"
+   "cnUrl": "9e41e83d059dc72bf3e124715c33095cd4d6d572db605eefc9b0c32725ec0fcb",
+   "jpUrl": "5ed6406250879865cfc4decac9a5e8aa363c28adfdc275e890dcd88f95158d8a",
+   "enUrl": "b2493f2e0cfb40851c9983eb80dc82d3385f5dcc06438268cc054a73bc61e389",
+   "krUrl": "3ad2383914e43bcdc7ca06dd2b162891fbe28f76f0ada676666a862d06e69b35"
   },
   {
    "id": 13,
    "title": "Về Jing Yuan",
    "text": "Tướng quân thật sự đã trải qua quá nhiều chuyện, chỉ lấy một chuyện trong đó nói ra thôi, cũng đủ làm suy sụp tinh thần của một người Xianzhou bình thường... Nhưng tình trạng của ngài ấy có vẻ vẫn ổn, chắc ngài ấy có phương pháp của riêng mình.",
    "unlockRequirement": "",
-   "cnUrl": "1fd476aa67c73f1efcbd135f110a4ef33ec4a08ea33114d8d1578cb82c7927df",
-   "jpUrl": "143b995d6f9de9730720635ccb49be6e2f76f9b420466230b4f14e55a3dea84c",
-   "enUrl": "49519756ee931e535d58219578db8e70a32eabc8f558c95d7705feb8caf30d8d",
-   "krUrl": "ef7566a46b6f67634b7e82e8679446d453d3bd08355913ce85e95277540d2adf"
+   "cnUrl": "ca25211d7255b1df177af42b5d8095f47c284328aec7541ac865ca1fd6891b92",
+   "jpUrl": "966a11a7fc9e43fa561355549854eda3f3d9ff2ea1a7b4e3da226945ca34529a",
+   "enUrl": "7e1a775b77207c80d3a008c4d1cd3d3dc68ac12ed3371e254aba78c216c2658c",
+   "krUrl": "70dc2d3ed59b124acf8932d52d7cda6c168f3c800276bc628731122fb1a5949a"
   },
   {
    "id": 14,
    "title": "Về Blade",
    "text": "Người này cứ như thể đang dùng chính trí nhớ của để sao chép \"Luật Xianzhou\" vậy đó, hiếm có Tộc Trường Sinh nào gánh nhiều tội lỗi như vậy mà vẫn giữ được tỉnh táo... Chờ sau khi chị gái bắt được hắn, tôi nhất định sẽ phân tích kỹ càng tội lỗi của hắn.",
    "unlockRequirement": "",
-   "cnUrl": "b7fbcb0659c001f8221259e1d27ea1ec8a67fc10a89d8bdeeecfcb0a8f28b1e6",
-   "jpUrl": "f1c0946963774612c437a228d90bc2ccaf76d35551527a27466e89c8f98aa4d5",
-   "enUrl": "bc9126a4234bd399c2e4dfd0bb5f332b78eef363be4d99418f675a285b13858c",
-   "krUrl": "f1b90b011fa9132a4624db4a2c32e5b6f5752068b440f564d166e0e421c7de98"
+   "cnUrl": "8c955a99c98190f1723dbf6ed8c6aa99b48dd4a83db0edf0e67c1e127f36bc68",
+   "jpUrl": "77f2392fc1be16c547d6687f05a1c04b9b656f29e983fdcc79aa97b86cfb9184",
+   "enUrl": "335af0b346eb2f39d9b26dc86c69d0ebc5dc377d472cd28a74a8e78de8bad108",
+   "krUrl": "f42361dfda16339d7efb4eb306bf0fdf60106c455d12630229c60b06acfd0d38"
   },
   {
    "id": 15,
    "title": "Về Bailu",
    "text": "Thân xác của Vidyadhara luân hồi, họ có thể chuyển ký ức cũng như tội lỗi về Cổ Hải trước khi rời đi, thực sự đáng ngưỡng mộ, nhưng Long Nữ dường như khác với những Vidyadhara khác... cô mang trên mình gánh nặng được truyền lại từ rất lâu, nặng đến mức chỉ cần nhìn thôi cũng thấy khó thở.",
    "unlockRequirement": "",
-   "cnUrl": "847d292d35bfc6873ff56dc3bbf2ef8f9a8ba497105194208c47506be32c1134",
-   "jpUrl": "49e803df8ea006397d0b93f8cf0e79610adfc12072544ecd50590cb60505a808",
-   "enUrl": "2d60829eeb09ed9927e6141023846abb5919dfaa535f03159d57dc7bd1d65110",
-   "krUrl": "08b45a74a0beb729854c7b56c2b328c6c60a8a1e0797af699a114e95c1f117c8"
+   "cnUrl": "72f6bc8dbc9a7c6a59b7cab22a9b2a68bdae5b1596a7e3b1c1b014e0ac5b0267",
+   "jpUrl": "8b9154090f86036c61d697e87afcb9b66c9c9c263993d3a3aed51e46ccff550c",
+   "enUrl": "b3215432c95f63f19406cb27dc0223f801e852318299a0e04047e15b4933a79d",
+   "krUrl": "c834b59d7ae47fabe6c5bbfdecacc5ee153ca03250e229c6932af1c0462e4e0a"
   },
   {
    "id": 16,
    "title": "Về Yukong",
    "text": "Tuổi thọ của Người Hồ Ly chỉ hơn ba trăm năm, nhưng còn hơn người Xianzhou gần nghìn tuổi mà sống vô vị... quên đi nhận thức về cái chết, cuộc sống cũng trở nên vô nghĩa. Đây là tai họa mà Thọ Ôn Họa Tổ mang đến cho cuộc sống.",
    "unlockRequirement": "",
-   "cnUrl": "86cd04230a2b3a716db727c7be6a4c1c13864df9238aa3279d2c54e81a8ca46b",
-   "jpUrl": "727bcf97fb576f34e21f7c6381a0d49e51cf274c3ccda5911e6a49da21414df4",
-   "enUrl": "74035fe18a57d390e856ff6b9666fac8e38e4106092055324e2df58defeb90cd",
-   "krUrl": "10588b45a6f3026a7fc5eb615be209e084836b730142a680b62c68494960736f"
+   "cnUrl": "cfd2a83cfed4e90709c98cc13023b6613773f4c5053d32513374547241ce415b",
+   "jpUrl": "e47b5a522d321716a0f54b97f6b1240a6fb776980f33d93f1e31fe25505515b1",
+   "enUrl": "726e55a78ec46314a79456b3e963d0bbda267225dbd73a8481e5a5edec4f6a57",
+   "krUrl": "9ca95367010532bedae270a4cdda23c2ca7ba7dcc3141ba56a08530d8b87613a"
   },
   {
    "id": 17,
    "title": "Về Luocha",
    "text": "Khiêng quan tài phải chăng là để luôn nhắc nhở mình đang bị cái chết truy đuổi? Điều này hẳn cũng giống như Phán Quan Sở Thập Vương, chúng tôi đi đến cái chết để giành lại tôn nghiêm của sự sống cho người Xianzhou.",
    "unlockRequirement": "",
-   "cnUrl": "d6c9bf55d2002f46bb316683ad8f92433047c1e9952c7cb46748b132ef1c0cef",
-   "jpUrl": "317cdb9b25a4fcece18b2e04e8e58cf25b22f33bdb5b3f4f18496097f994de77",
-   "enUrl": "94c698390edce652fbfc87b1edb1ebad5382e31aa0d1703005dbc2e02c0a59d4",
-   "krUrl": "0946413438c37770a26662dd0931d8576900e354c549e6a266e40636b9d826e6"
+   "cnUrl": "951d039ec7d18e00df1efe907e9bc1a3d7ed675c6470657b77d10cba96844218",
+   "jpUrl": "17a79db75311a8a0011b514e2a90118e8c96f40e793f5699e8e64d1bb3ae1f7b",
+   "enUrl": "877071f6a94c18940d47cabddcc2a8d217e5ea82158ed1c5c01c0d4d18a79c09",
+   "krUrl": "4e12475c3083932b18b4ce02497d2c9fd8c9e0ee8e77f0ab42507c85bf8a450c"
   },
   {
    "id": 18,
    "title": "Về Lão Đuôi",
    "text": "Phương pháp phong ấn Tuế Dương trong cơ thể Huohuo, tuy hiếm thấy ở Luofu nhưng ở Xianzhou khác lại có rất nhiều... Chi tiết hơn thì tôi không tiện nói.",
    "unlockRequirement": "",
-   "cnUrl": "10064f2b569e805e5fe162d56e5164314e8022176c582305a09d79e412f771cc",
-   "jpUrl": "89fce2ed1a0250fd69dee4aa4069424461106c0b53832423385249064f2b3a76",
-   "enUrl": "92fb8ceb73f8d04098790d5534f3f690e9c75cfd667fcbd4b51f903d7b73363f",
-   "krUrl": "101ebcacb01d6c189db5d8aea4475ba583c27c24fb0531a7d82fea87d4828475"
+   "cnUrl": "8ce8e5d62902f32afd88d570764fff2dcd1f2f74c37fd86176b6cbb76605ddc3",
+   "jpUrl": "4304848c877031989b1045407649f896d747ce1c29bacd9b5e57745c701c62a1",
+   "enUrl": "564976b4f4475050e7b369858230cd2781533f5df99d66e5946deeb3de3aa8df",
+   "krUrl": "c283b0f89c3da584803ed26971c3966c2cbda4909a0f6f05b83b49b5858dd078"
   },
   {
    "id": 19,
    "title": "Kích hoạt Tinh Hồn",
    "text": "Trong giấc mơ u ám, một ngôi sao đã chiếu sáng tôi.",
    "unlockRequirement": "",
-   "cnUrl": "91de9e79b11d4b9262be2f3bc71f487aabf8a91ae76e2c5b6248b14c502a92be",
-   "jpUrl": "8f7b6bcc48349f0c3d053b9fd4e90f9a4c9c8bfb34e17e50020cb0cb03ace42a",
-   "enUrl": "3c9700507a864e538214020a29231c81beea8570f605eea936ef782d6a9d2ee5",
-   "krUrl": "927b59dd4b30b1bc612b8ffacd6a6d5ec2f0c7f92a2982db1df635bff7addca5"
+   "cnUrl": "c1da00e8bca15607e887a51c264803c5466b0a3c46d9f2c3a576087735012279",
+   "jpUrl": "cd2db82512e749f15d56278c11ce7d3dbe4b51a4b6150e8923347b6393084a49",
+   "enUrl": "4d0e4830fbbdb5d5a8843880ac1f9437bee14b2963e4838ace054be6364db6a5",
+   "krUrl": "fbdaf2398957c0d9e993da86ef71f539bf11a45492485bac089655fcbda4a6a6"
   },
   {
    "id": 20,
    "title": "Nâng Bậc Nhân Vật",
    "text": "Mặc dù tận tâm với chuyện công vụ là điều đương nhiên, nhưng mệt mỏi thì vẫn là mệt mỏi...",
    "unlockRequirement": "",
-   "cnUrl": "76adfba8dc86b45e910a01b4a1f79537490248e0efa28a89d707e1204f2cf182",
-   "jpUrl": "722b31425d69329bf57a4f3ed1e35d706c88f2006eeaf42ffca68a400355bf0b",
-   "enUrl": "1487bd29a0826dc18f2cd073d29ea90f002a32e4b2af57d3104e74d87c05d186",
-   "krUrl": "d65dcebad92a8d30c61d656ddc2e7d4143467d643cd430e0fc1a3d8e51a09333"
+   "cnUrl": "6c5128553538bf040d4e4d76bf0cd9b5f512997bafd272b6f078b10168c6de52",
+   "jpUrl": "37f64bdc5d1e99096ee115651a11c23b157db573cfe4ed23ab18ea310defe55a",
+   "enUrl": "b5fee372a20046336f16a77490da47b7fb36beb06ba381b14e88268854714d8b",
+   "krUrl": "2b59ecb9b8562f5fb778d025e17275c38fa8c5ba29e0667e4780ed7bdd3d1617"
   },
   {
    "id": 21,
    "title": "Nhân Vật Đầy Cấp",
    "text": "Đợi đã... Hanya không thể tiếp nhận quá nhiều thông tin như vậy...",
    "unlockRequirement": "",
-   "cnUrl": "d409361e6960f0abd3375fe72b9f269efffd153fb650c7ed4ef11ddf5383600a",
-   "jpUrl": "06627924750ece5b597e0962a142948290d5a18e83858b14b9712b26d9d5f715",
-   "enUrl": "434d0a3bb09a7357ee973a9ffa6f607cd2eafa494c8941daf272901b601ea7bb",
-   "krUrl": "b8e97b9db557886e90662ac0083b1d10bf7ee5b33ff32d87e076c2efacf70074"
+   "cnUrl": "a0c770a4cb7a154d261b0d27ec0fba7d47089ad23cb6bae4078f4345f9a7c6b8",
+   "jpUrl": "0a27190aad5689da459faff9f1b29997ee7b0292aefbb7691407465a41fc6b87",
+   "enUrl": "f990feccb4ef08b6e390ae35ec741fd76bbe5eb32c0f10c708eeb677bbe5c597",
+   "krUrl": "9830165bb9a10909f0ec3f7b845f0243c531b5140e4fc74c550d436ce6e1efd6"
   },
   {
    "id": 22,
    "title": "Kích Hoạt Vết Tích",
    "text": "Mỗi lần Phán Quan đặt một nét bút đều liên quan đến hàng ngàn nghiệp báo, phải thận trọng...",
    "unlockRequirement": "",
-   "cnUrl": "43be58a9ce0d01f2dec8ab80ed312199d36ad8e6e4672578ef9b053c13b9f96f",
-   "jpUrl": "7b2681fa4e1c9965e3903f7f725fb0b23ec48819176b4c790a19f0db2b5d6947",
-   "enUrl": "efaf2dd573a76128e10ece0be86635b0053be1e99507ba2c45038832514aed58",
-   "krUrl": "9648e2c644d23603d439d8f11bbcc7ee2137842d1f0885de356783884a56f415"
+   "cnUrl": "45d7d50ef68ac505fd94a4fe0a9b7ed59b79af9b8f0109b55da4a7bd8639187c",
+   "jpUrl": "5450bca4c69ea6e2d6ca2fd13730f0e7d8a443b616f73ddfb0c86bb33956b351",
+   "enUrl": "4bae8eacb1d1d8e021d2515939d285028d738d8a010ac064c06ea4b057b9b098",
+   "krUrl": "6a9be70f0df117f92ebdb17ec65a3db317a1de7d4f5e3d9d1ba0c649c9e31557"
   },
   {
    "id": 23,
    "title": "Điều Chỉnh Đội-Xueyi",
    "text": "Chị ơi, sau khi phán tội, đi cùng em chút nhé?",
    "unlockRequirement": "",
-   "cnUrl": "4d2b7d859473be0643f5f4e461139bffe71cb91a4b2f79d12400f45f99055d5d",
-   "jpUrl": "d126d457f8ba573ae916da7d8513fbfa74456307f1ef834cfc40ce508c07462d",
-   "enUrl": "dee5ae19bbdcfacde415b9841fb98bfb934d0c698cd497e3c8dd720fbdd7d2fe",
-   "krUrl": "9e5ec6fafd403078ec14f585814259f922444d0c98d8b6640cce7e2860aad3fa"
+   "cnUrl": "9faad57f8826ca4f3b07af14dd8ded9ccbd9b8341a355928f3c079b0498ef23a",
+   "jpUrl": "5cb2931e1ddcc7005bfc67e0b6a27ce616f0678f2068bd560a0134628c2898b9",
+   "enUrl": "301a9b83f1e004e3333fb762280c743419d7e09b724e7d080889a1adadc400f2",
+   "krUrl": "02bcd026203bfbb659c65de34b336cd6a47f0e64765203142fccb8cd8cb4c6d7"
   },
   {
    "id": 24,
    "title": "Điều Chỉnh Đội-Bailu",
    "text": "Là Long Nữ à... Nếu có thuốc tăng lực nào thì chuẩn bị cho tôi một ít nhé, cảm ơn rất nhiều...",
    "unlockRequirement": "",
-   "cnUrl": "060649547296c6415eab81d832890d1af40ddb46f9ca98646cdc23003e8f8676",
-   "jpUrl": "b9979d7ffeadad97d434e6c5e2989ad1317a31963020003e0df8af12725ea6f8",
-   "enUrl": "fdef035027e3800e23c45d5bb4ebd3b66104bfa8c3631e26f92b0871b7ebb662",
-   "krUrl": "e96f86069881457432296c194a20afefbfd1e193911157674251b5404e508666"
+   "cnUrl": "c0f304572f1b9034ed5b79921584b6b9b20ebae37cc632f7df53a2776c9c53f2",
+   "jpUrl": "51db01217efe5712873289a371969475ddcfd3d8a337e5abb8d2d539ea152c11",
+   "enUrl": "ff7705932c278a03e97427ff545cc01a906362400cb4227425e2506cd2b63450",
+   "krUrl": "daeb307afed510e7b4d3d866a92f688b92bf6e113baba2b444e84053b8d29058"
   },
   {
    "id": 25,
    "title": "Điều Chỉnh Đội-Huohuo",
    "text": "Huohuo cũng ở đây à... Gần đây công việc thế nào, thuận lợi không... Cái đuôi thế nào, có yên không... Vận may thế nào, có khá hơn không...",
    "unlockRequirement": "",
-   "cnUrl": "a86b4632f19f429e167b4722eb0d87dea1fad1a374c2c48443b9461205e34d48",
-   "jpUrl": "81fe62b67342843df1e80782491f3f107aa43c082626ff3b54a8800cb3e32487",
-   "enUrl": "b07e6df9da30ca211bf12c816af7b1b5d4b482e4fe05ebba80842829579f2584",
-   "krUrl": "be6aaa6df7ef636caa3039611df1b3063958435111304c4638d4417d0c5bcee0"
+   "cnUrl": "97e8a868b78475c3821dddd972aa353900edce5b435f483adf824c5d0d5d84be",
+   "jpUrl": "671e415946f9e3843700aa6712dc7c2f691c8619a2c03b85d6a29e1e11ee7935",
+   "enUrl": "97ecd8fafb6ec6ecec831488fc3ef31ec429c7d491763c02c7764a335bd1f001",
+   "krUrl": "2c3b36a7af76eaf6e1217047a45c58b6885789ddc2cea9f8336b8825a07efde5"
   },
   {
    "id": 51,
    "title": "Chiến Đấu Bắt Đầu-Phá Vỡ Điểm Yếu",
    "text": "Hãy khoanh tay chịu trói đi.",
    "unlockRequirement": "",
-   "cnUrl": "19b505c58fefa040a0453ad9405943525ff2322cc0875265472f238a0da0c8a5",
-   "jpUrl": "40e6bfb0d90b3892ae8468a6c5c94f741f7655cd2e8d437481f59812093adc0b",
-   "enUrl": "cccf08ea0e8d6cd465da839f909c78816d8c6f9393de228512e3751e7ef0c2f5",
-   "krUrl": "5a3ef7399bafe0e4eb2c677cc1b1557da32a9f2355eff81db2251ba0b536f6c8"
+   "cnUrl": "4933ed90ce29ef75301e7afca8d081cd5335487205e0b13bc490129ccf80c8a5",
+   "jpUrl": "d4a959e4da4806a18c9f9700de8ce94441af2a2a636575a6e324dc511d8f1032",
+   "enUrl": "92ff8c01a2190e5a7ff96c9f089cbcf29d82a776aa676923ba80372d6940c8e1",
+   "krUrl": "c0e1d677046ce10ca4f6639d90f7f3911bb582c14e8b8284467ede4700631165"
   },
   {
    "id": 52,
    "title": "Chiến Đấu Bắt Đầu-Cảnh Báo Nguy Hiểm",
    "text": "Mùi của tội ác nồng quá đấy...",
    "unlockRequirement": "",
-   "cnUrl": "6fbed897861ec3a69ea27744ca01d014db81120021d3c8d2f7f25084d46589c9",
-   "jpUrl": "1638a783d10506bbcfcc5a7d8101c4fe69d3b0c03be0e3ce2d54e11e664983ba",
-   "enUrl": "62b65691d9b403679c0fb00ee3780ba5477bad773fa37b1b45b8da61041dabc9",
-   "krUrl": "fc5643893a452d010279650f69309765e9d5c18166fd42ead6a50501641f6c2b"
+   "cnUrl": "789aea701439f525650df5c4c983aa9ad401b49d4508011e41cace38625ee5d8",
+   "jpUrl": "7ddf355001f378aa76b07870769bf8b69d7910cafb7967f100a9ee1c501d9e11",
+   "enUrl": "0d4838e7f86af34dc8971e85c369963861f05cce02dc6e742f7c763f5445f864",
+   "krUrl": "bab180ef53bc9da14b5416f8c30cceadd2bccc6d804faa8beadbd6e9165896a1"
   },
   {
    "id": 53,
    "title": "Bắt Đầu Hiệp 1",
    "text": "Chưa ý thức được tính nghiêm trọng của sự tình sao...",
    "unlockRequirement": "",
-   "cnUrl": "f3c66d31e59b16ed1de82727c4da00676ee8dba23006e915f4b224ef9daa7ab9",
-   "jpUrl": "f1efd5d580faa3afff21bc7d4ae8eef97c06dc01b868cff0227783cb19fc6b13",
-   "enUrl": "42b768eceb817bdf3b34c4d41c49075a8537762e16951f78a2a7908fb37912ad",
-   "krUrl": "7144fc86c8f1ad6c792fb1b11e71f6517f213f96dc5535c54b557bd24d04137d"
+   "cnUrl": "ee50dd7f9575e4b4d6e68311a6a66f7f55afae7759a8f55ffd9bf1e6a8040060",
+   "jpUrl": "41ace4cd425eb40674b44f2a4cb09c703892332432241adf5d59d49afe1dab47",
+   "enUrl": "3b78806c96230a66ebc42d24f8a2b6f98e9be2f06c685b62928efb3862c5449e",
+   "krUrl": "df220e93111ac1906be53aa5856efc3828906c8066efb2cfd9479b405f6631e7"
   },
   {
    "id": 54,
    "title": "Bắt Đầu Hiệp 2",
    "text": "Còn muốn chống cự? Những tội nghiệt này đều rành rành ra đấy.",
    "unlockRequirement": "",
-   "cnUrl": "9d8bd1c687c26cb66f6d32650e3525e430c8f106af249cdfba0f0db5fd353d05",
-   "jpUrl": "b1cde73669dc129953321509abb548103962e0b8a1451849b777082d2f11e722",
-   "enUrl": "0ac774ff558c176c3900c6d4a2c1245e4c0045ad30b293116ca0e42d1363716e",
-   "krUrl": "6f7f5a2c0048d5c023d4fb1654648b76e864e5726fd5afe1985d43c974e492a9"
+   "cnUrl": "e6fe0cd5d699614d92e21985570033bdfdde76995a093c11410f95f2d818216d",
+   "jpUrl": "dcb0437a2e0ba0f645e6a87e3cf8c9113145691ba7ea2f521d2402306b3aeb29",
+   "enUrl": "5dc5203e125233474cdccc9d5d4bff0d8b5531991d5b73433b7f53f8399cf9c5",
+   "krUrl": "c63f8d17556bdbce98d9a8e8e49a2356a6fb1f10e167c22f405061161f87d90e"
   },
   {
    "id": 55,
    "title": "Chờ Lượt",
    "text": "A, có thể đứng ở đây một lúc và không phải làm gì cả thật là tốt quá, cứ nghĩ đến việc phải quay lại Điện Nhân Quả xem các hồ sơ tội nghiệt chất cao như núi, là tôi thật muốn thời khắc này được kéo dài mãi mãi...",
    "unlockRequirement": "",
-   "cnUrl": "9c76f5fd98e53372926a0fff639410a58f6252b1f1a02bae8852351afead4bf5",
-   "jpUrl": "dcd88a227cb3f55dd12645003084e47d6d14e4d296106df1db7d516b1ebcdb3b",
-   "enUrl": "ebce2fa13b29d0a4111bd8c8aa3a04ae7a945ec51830197fefd1ca608ef194da",
-   "krUrl": "daa2c07939c3be7a861e828f3b4059dae3fb98f4cc30b98536e4e9acf1cc1d86"
+   "cnUrl": "931e2ebc9073615e9437ad4e8fbd35a8d6a7d34a49920762dc4e910f4eced5e1",
+   "jpUrl": "1dc0ef86d510737a10bd2574ae339e7534500951bf5c19d496e3494555daa0d9",
+   "enUrl": "c23ea50f83a8038fa8f398bb5c682ad6655a0c8d7bdcddbcee0b3e2ad0ea21f7",
+   "krUrl": "cf5a6e11776eeee54e4dc4a7e495bd16dbdd52e1190674e746cecbed4e929b9f"
   },
   {
    "id": 56,
    "title": "Chiến Kỹ 1",
    "text": "Tôi sẽ thay mặt Thập Vương phán xét.",
    "unlockRequirement": "",
-   "cnUrl": "76588a9bde407615aea199131247088b476796a4133cd4c587f9b4839afbf558",
-   "jpUrl": "910651d0dc2d43a5a987888fad0d32f7691779b7d9642368a18c67e043884e6f",
-   "enUrl": "61d98b51e1f3299da361aa53ad8e0358e255a0de4ace688c1eda0a627ef1bd76",
-   "krUrl": "111c326ff05cdac1483df103e23ea97ecb8a0185655e13796918e9b5b444d102"
+   "cnUrl": "9359329fe2e7c90d79aa49ed87886a3bd428494af308496f08e68903ccd6baeb",
+   "jpUrl": "fb40f2bd7620a0ed71ca600d523673e07232c40ed60e651513044f2af657dad6",
+   "enUrl": "b28a2afbad3c80a6e2f3413cdd786469b856e05cc7ac89ddbaff7d0488a001fd",
+   "krUrl": "91ae38b70af1b04489bf2044f1cea918ef5f5d02f1cecca31b93bc99e0ad659c"
   },
   {
    "id": 57,
    "title": "Chiến Kỹ 2",
    "text": "Hãy ngẫm nghĩ về tội của ngươi đi.",
    "unlockRequirement": "",
-   "cnUrl": "364f47369867d611068766bcdb6c7b997beea584ab028fcc10263c80ce5a24b9",
-   "jpUrl": "f24dddee2eff240dcc383452dd3d642b34e4d27fe6e64f7435228589d6c01a0d",
-   "enUrl": "977e59172fca581aa23d2fd14836123fa61863ae0272dae5b772198e00f51a2b",
-   "krUrl": "4d65a466bda7ce452a1eeceba31820b305208744feffcecf484b1d62a864b061"
+   "cnUrl": "f61b50c06be9e42b62980e40fab05bfbf672be2c06893aba09429d413af9838b",
+   "jpUrl": "0e9a23ba44256179406eb9dfc76c7a07c7f2e808a70a6fd52735503f83ff0805",
+   "enUrl": "d9655d678f4104e2d49d60e355399a98eac52715b7bbb6af6b11fa3b5aaf6850",
+   "krUrl": "fa49c2a36c7f35d5491fa929938b7ea32669116c7147e91001c1e8180adf7a01"
   },
   {
    "id": 58,
    "title": "Bị Tấn Công Nhẹ",
    "text": "Ngươi có biết tội không?",
    "unlockRequirement": "",
-   "cnUrl": "2984358d8c704ee2865e37cb128d8a94518e3f76911520dbbfefe008d6809498",
-   "jpUrl": "14fb29940136ba0f6fb8b001fbfd0b6f9cfbd89ffdb234ee2c0b02b77ca6b30f",
-   "enUrl": "21761311fdf3fe5728730b6d01f406b6966267bdf813c96d568c70a677b24d3d",
-   "krUrl": "e237ed7f980710d71e80f6aae17496076e8656457ccbceb1fa8a629cfde6dcb9"
+   "cnUrl": "ffbe20519e3d5dc246954cdccd8bb7e9573e91f16454b5a72b614a7664c5617a",
+   "jpUrl": "788d45d60e06986ffc5f5666bb4ec9c0e6ca0e2ca672120fb4942331425c1fb1",
+   "enUrl": "1a6b76afe50bedcf623d902c40ab1ca49e766dc160ef3680ea0514c23b45994a",
+   "krUrl": "0026e2db99283a805f1d1feb928b9d8fb8cc5bc0c66c1044e902ebf782803882"
   },
   {
    "id": 59,
    "title": "Bị Tấn Công Nặng",
    "text": "Tội tăng thêm một bậc...",
    "unlockRequirement": "",
-   "cnUrl": "df79af88e80bbd3ce8e02e5cbf8711d7ad85c4552a5185d4eff3e6aea219f86c",
-   "jpUrl": "582671568500323d3179a129a3f891a9694c55b49767266d9e620342f3010063",
-   "enUrl": "0df740f69e2eee3fe37f188465e2f529b178799f5ae66d344c7ec53274bb472a",
-   "krUrl": "f4646d78d61501beea8ec803081d6df7571aefef0bc6f87959e2ffc0dbdb4ee0"
+   "cnUrl": "52b2f5b4dd65066e882e67eea5818a981d42998ec6ead625b7339074ad201170",
+   "jpUrl": "d31414abaab2e0ce86cb6ea9a9316f8ac1b3e28555183e6c9dc9d5083ac32cbb",
+   "enUrl": "a8350871556c576b28938b14938ec9d12385e7e9918e372ba9ba678c70dbd485",
+   "krUrl": "6c299d7406ce9e61dd43d008c9cd53b124a1a16d3ab68f973e1a578d9a4a9253"
   },
   {
    "id": 60,
    "title": "Tuyệt Kỹ - Kích Hoạt",
    "text": "Nhân danh ý chỉ của Sở Thập Vương...",
    "unlockRequirement": "",
-   "cnUrl": "4c9bd22b1fc5efa98de94c54773ecd9c5dfb459cb586967fdf50723c4da09fce",
-   "jpUrl": "419bf282848daee6d7216b6d245af5dc8d2687508ac7988ecba8a75789f1a876",
-   "enUrl": "585a3bb8e897ac9e4b2929aeef06630b7d6ba32b16f66907afe81ed41002bd26",
-   "krUrl": "ec76b45decc6e5621394d19d83cc589ddebf9058d408d3b20c24fc8faf7320b6"
+   "cnUrl": "ccc59f2f649a2ca82d7d05304cbdfc6528568fc7304b558f9d20447a6626c21d",
+   "jpUrl": "52e1f3ecf91a9acad08eca523a02cdbb09c9b1ba20ebdf86de81171937dbe907",
+   "enUrl": "bfff51eed3248269a262ddcb92718b320a54f54de7426c47c3090d272e32ba10",
+   "krUrl": "f5e348e67412e7255f0cf3cde3985e4f76e24032c99061d3581fb77c74fb7d18"
   },
   {
    "id": 61,
    "title": "Tuyệt Kỹ - Thi Triển",
    "text": "Sắc lệnh Thập Vương, ban hành tại đây.",
    "unlockRequirement": "",
-   "cnUrl": "7f2531b3efcd663870adf716e5dfb6819d661f4e1bf7e2cd517417b731848e70",
-   "jpUrl": "0b9d3728d8340682b9dc5e55d9f4918aaf0cfe9fe223e237150e367b9041e896",
-   "enUrl": "a80cd93b6b24050fbcf3c145327ba7c99a49202c4031d5bf182eeb0227b323bd",
-   "krUrl": "70f03e07ca166047595df270ec42260c999a15c0d11ac45f9449d84015a9f0bc"
+   "cnUrl": "491b487cb4bbb0edc293583227270a913e9409bea9b90b020ded80cea3f0983e",
+   "jpUrl": "8b56dc3dbfc1a8680a5106a32c72ac285d405c631a31f602a09e24c246540134",
+   "enUrl": "e47d6df1183d9f15ea494d2caabbd03801c5d49c35fbf5554a3ac4c32863e960",
+   "krUrl": "05efd6cdeef0fe9aece5735266087e3f13c0a0d75159d27eca0a484eff1bad08"
   },
   {
    "id": 62,
    "title": "Không Thể Chiến Đấu",
    "text": "Chị ơi, em...",
    "unlockRequirement": "",
-   "cnUrl": "ca8bbf82b4c21a6ee3317bb61e7558cbcd6e7d14ec8106904bad1bcf2cf040aa",
-   "jpUrl": "1fff804a86f8f6962ee046b2636bef0943a8052d7eff4914267be54ca0e55a32",
-   "enUrl": "9afc030de427d7943ee53f639cc1367ef41ea2780e97b3e5b1461a1071b25f63",
-   "krUrl": "fb70885021453128da33fff952baf933ab771648cead934bb5b26d7ae116f213"
+   "cnUrl": "cd30c184a68263bd44d6162fb8292e50e98b9f62985c7cdac26045cb3da58634",
+   "jpUrl": "b1ca1bd6511da31d91b12fa75e432e78656109f23047ed13af642d69b2685734",
+   "enUrl": "1e1228f6be02e0aece0a5b0661c9ad50f90df4e5c084bdab06e0356424682fb0",
+   "krUrl": "5a944d6432bf49318936631f83fa40b1d807e51f0a7ccc70ac570096ea80ed88"
   },
   {
    "id": 63,
    "title": "Trở Lại Chiến Đấu",
    "text": "Còn việc chưa làm xong... lại hoàn dương rồi.",
    "unlockRequirement": "",
-   "cnUrl": "09b5446fcfd0945cb67051816b0c2b85f9e0337cc7225bcdf5bcc8b582ae2a93",
-   "jpUrl": "d45a92b1062075455f3a134c43cf93cb0bdbe66e2b214f937a59753b72ffc016",
-   "enUrl": "a765d120369848ca27737976918f4c136587bb34115875fc22ee07df56e487e1",
-   "krUrl": "297da9438b9af6054f9a594949493cf7330779c0d47d5f58d9333b57d43b71be"
+   "cnUrl": "af48c17a1b4129e98f87beaf4a2d82451236a34078b034d7db63a524d4fb1c42",
+   "jpUrl": "0bf589d3ad68a558240756935ac3c23812e7bbfd52ed8b66910fd7b53c89fc0b",
+   "enUrl": "5ae743f8c01784256248a3238f5f323e17718ba456587b3b766e46c549faab44",
+   "krUrl": "538c907a99262aa2f4e5f8904ce2b06d65e1b87424489065019bae10504a6c2f"
   },
   {
    "id": 64,
    "title": "Hồi Phục HP",
    "text": "Tôi sẽ ghi nhớ ý tốt này.",
    "unlockRequirement": "",
-   "cnUrl": "7ffad8f8b6019742528d1e59c8b63556f33bb7a63018645ce87aefbd005bf4db",
-   "jpUrl": "daaea510b970f0679528304ba91e0c36273f4d3905f1f629125fe5e133f77f2e",
-   "enUrl": "21371cc970b306651202fbc9320717c39f695c56d346038d76080f178a2bab71",
-   "krUrl": "849b4fe602e18e4c6026cfd6fa6c40d5de60febdf7e62953906e7f6af9698315"
+   "cnUrl": "2309009158abea83bb7ce7cf7fd9bc0a76ef3c9aa60de1b55a15f40d21f6b1cc",
+   "jpUrl": "c41b25aafaa44ca0b930444f11f9840406d89d32d6491b0dc809a3bbc84e6a24",
+   "enUrl": "5ba4504e2681f69d8def1f9eeab82474644b2318e4a6f106539a619bfd373607",
+   "krUrl": "3c53efff9c2e514f6aa2dac29944f3172f0231e09dac327b869a4b7b7d1d97a1"
   },
   {
    "id": 65,
    "title": "Bí Kỹ",
    "text": "Yêu tà tránh xa.",
    "unlockRequirement": "",
-   "cnUrl": "8df5144be783f097ca21763b06c1a91565d6fc2d747458bc32e6298e13094101",
-   "jpUrl": "0e9d3e803ec9b8c390a4eb1d078f24afe997ed6cb8b6ea43a4151e16d877e5d6",
-   "enUrl": "bf505986c13f10cc3f87e1a8714a12a194e0b7b1d4926103bb503dbc1c163474",
-   "krUrl": "7d02d1177a4d07f5ca66f0d4d7dc4c48a6da9f0fdcd1cc8c0e4b88881cd69a22"
+   "cnUrl": "9b611666faead5091da42aced111d0694933dc43206089e2f718fce97cd5d82a",
+   "jpUrl": "093fccf6a0ae0fa60b2e00bf94c3b5ccd6fca34d3c968751563e348ab0ec0076",
+   "enUrl": "031460e239eddae17fe40071b9a56bdfe7b542c3bbb1efc3214e47e02d014591",
+   "krUrl": "6463cf9bb1ddf8dee8757f2124d3c2eefecf19dec4b03f05f527c96b3790da7b"
   },
   {
    "id": 66,
    "title": "Chiến Thắng",
    "text": "Thập Vương bảo hộ, bách chiến bách thắng.",
    "unlockRequirement": "",
-   "cnUrl": "7836b1e659e43f38d4ebebfeff108c500b76e42353fe322986f64c8fc337537f",
-   "jpUrl": "a813fa5b87196fbb2e34a34743091dc8b4df63430d7261525d6f94597dea7868",
-   "enUrl": "f4fe89bacd4db5e81b42ff53dc8f6c920405d111e49f10b20f9b4ab1a82be0ee",
-   "krUrl": "66419cf935683de3ea5a79e48584facc5820908cbcc6a373a487c184f6d92a54"
+   "cnUrl": "7895afbd65e55c0dec3bff19b16b3282cc2c358da54a628f89f5ba1b0e2b7478",
+   "jpUrl": "2b893e09d82f1c15ffd3bde912cfa0a3fad6f2a5b5edde81ee288968a6c2a71f",
+   "enUrl": "fcdec8ea8536c239d1d0aac0e6056ff3310f833cc75ece9c7bc9c07298fe5f14",
+   "krUrl": "fdd9643a30a8376b6ecd6131e67c59a6432199c61a9346f314ac7ed2fdd475b4"
   },
   {
    "id": 67,
    "title": "Mở Chiến Lợi Phẩm 1",
    "text": "Tôi không có hứng thú.",
    "unlockRequirement": "",
-   "cnUrl": "494b89be51d41ee53d4b7d545e8297115d8d7f17dfd3f84071b691df1126a8d2",
-   "jpUrl": "d3b0dc2486bebaee46c2d67be9bf88620e7046365e1aa97406633edef2b9b856",
-   "enUrl": "2c18e942adda10f357f730e7a7600401a27932e79f60d245b49dbbf0cd16f857",
-   "krUrl": "8320d900090d90d37df23bbaa970cffc4879d351ea5961571e9e74e4eddc1d87"
+   "cnUrl": "f3a840d71398bf7bcad37eb2b60e5a4faf61efc5266bc89456a52ef6e09b22c3",
+   "jpUrl": "278d03d38f00646b619162ebe49fc3c9cf1e633023749c7523d3134562e01fb7",
+   "enUrl": "509436e16a790ae2477829dcd7a00e04b08559953fe63f894895d9ef8a09705f",
+   "krUrl": "d69a3b9eb27f2e5fb179ffca0aa02e4bba96a53a8d5ab072e7638c384b130cfa"
   },
   {
    "id": 68,
    "title": "Mở Chiến Lợi Phẩm 2",
    "text": "Mau thu dọn thôi.",
    "unlockRequirement": "",
-   "cnUrl": "c48b00a2e42e54dafa2b036838a7a1a6b0f4e169a0d83d6e0ef36716fd1fd714",
-   "jpUrl": "13fe9168282a53aa142538143cfce4f7e21b1d76c332f3394273e65de5ff7c4e",
-   "enUrl": "8739dd11663ba702f0b4e4d8d32744ea13f385c44c15cd71f219b5f5c3e8145f",
-   "krUrl": "1a7a98669d4f11040d045bea01f275476b11bc873b43d90b21a1bc51cd9522f5"
+   "cnUrl": "ca02f7f43387d347a8fab6216eb29f510418471975dcec65f636e541663718d2",
+   "jpUrl": "69e338bc2c0c4d9ea77aab86cfaf78f4e19dde39590b458e5927fe88701a9bbd",
+   "enUrl": "ce7378ed495cf582f26c582f44eb457225b0aec549bb72a1986d99a440de57fa",
+   "krUrl": "2c36889ce004f2b669ad78f2e31df0c5340024ca93eadcc15807375598c9802c"
   },
   {
    "id": 69,
    "title": "Mở Chiến Lợi Phẩm Quý",
    "text": "Chắc chị sẽ thích lắm.",
    "unlockRequirement": "",
-   "cnUrl": "10a259634432d4032f0cffce09f7d6dcc35c1d2df04b70403a904c4e66717ffc",
-   "jpUrl": "a615ad1cbe2e6470754178c332d36cb416721f8842ed19c09a8b3b7a00f958a2",
-   "enUrl": "d041e284f4baa476a3cbfda75c1af9095833277203ad5d51eb1d92761895b6f9",
-   "krUrl": "a30fafc769d369ce714f92ffe1cdac323350517c8bdc6a275ca42475fcc56a77"
+   "cnUrl": "287c2247c29738df45710c22b3bd1ca40bc74d6dd2371f0348f7cb20490f4849",
+   "jpUrl": "ca549aff4381352c61358dd48c40ccf531ec29b5bcde2fbc249dfa3bd975b5cf",
+   "enUrl": "8cb271f8030fe203cf6ebf1ed5b117ec7127fcf5e19195073b458ab0f9e432a5",
+   "krUrl": "119ec8018c108ec470f4c05101830706cc1a0204255c71055e5d08e2c7741fe0"
   },
   {
    "id": 70,
    "title": "Giải Đố Thành Công 1",
    "text": "Xong rồi, đi tiếp thôi.",
    "unlockRequirement": "",
-   "cnUrl": "81769e87308cf563582dcbdbca0e0eacbbc2b53c90b3f7d293827271372b15c7",
-   "jpUrl": "e7cd347be0f4cddff03749ec5b0a088a38f09141c8a89c30964bb780beb43451",
-   "enUrl": "11bdba9ba39053e30218f3fdfb49e0e114816d05c69e2fd17637f4c80ec1ff8a",
-   "krUrl": "29beba9b3ce4839191b4e5d84318d78e196bc59558839b703d46fd10432e9b4d"
+   "cnUrl": "7f88a64986f5ecb09ebce06c19e9da06fdf82cbaa21a26cf8b3a9a54c6abc580",
+   "jpUrl": "dddeec043f682872c7c57eb7586d49506396036d6d3fa0f62e32d89a1a38384b",
+   "enUrl": "26d65024be052889daa9496f19dc9f22c75e4244020f4bc489cff9a741917b9c",
+   "krUrl": "6fdfd9f4e85ae8d8582c0d7d8fb6ad03a3aac2cf7faa7ca559edf42a8c3d2597"
   },
   {
    "id": 71,
    "title": "Giải Đố Thành Công 2",
    "text": "Không cần phải ở lại đây nữa, điểm tiếp theo.",
    "unlockRequirement": "",
-   "cnUrl": "8e908ddda3a212407c716a9cdf702d6fa13562a4c226b45b5abba8d46fe077a7",
-   "jpUrl": "42a035e255a4da1eaa50a8776e0ed724178f7d26f58db923295e0f9736885ab3",
-   "enUrl": "d4370091bca58575996d3919a5894f15f67db7a089e1cebd8799b3b1044a9800",
-   "krUrl": "1fb8a907572b6c4de4becec7e1f14ba8887246b61bc91e40781247cd12acf6c6"
+   "cnUrl": "87c22568c7ca8ec01df7fab990d882c4f7eb6ec816bb29de21f952a4d171dc87",
+   "jpUrl": "79328c95f2da0e836f0af29b989561f43eaf8add91665bf92b368cfed0ee15b9",
+   "enUrl": "9f0862aa10e8c4f34972029bdd662115041243fc56e9abef60857856d31fbf36",
+   "krUrl": "38eca7b1b83c8c0b08ee70239b69f59177f8789ac6e7fcea118a5bedc613a963"
   },
   {
    "id": 72,
    "title": "Phát Hiện Kẻ Địch",
    "text": "Nghiệp chướng sâu nặng như vậy, không thể tha thứ.",
    "unlockRequirement": "",
-   "cnUrl": "4f64c3ad2c65fa7c2a333a483647e7d12c6e368db9246d4cfe70b49bb1f7bd66",
-   "jpUrl": "fad7ae54d46d22df1730f06bfd3b728b0364fabd67495e06360cf0cace2cf1d2",
-   "enUrl": "bc6ff6fe52b7aa5b993904b2142482d63e60c7709b27562831475f0d403a4de2",
-   "krUrl": "a2f585e5284a780631296ed2a6bf7278480a39425c020b53e34f02a33f620b76"
+   "cnUrl": "9046caa7326598978cf288c07dfbf6a9ab33e86eac153f0a8b1085e46baf0d80",
+   "jpUrl": "4a5459acc9d410838001faaa85092bb537eae6eef1624af7a02bb7583f20eab3",
+   "enUrl": "e98dcec47a73c48cb20b9045976e734c49463906c45d9cfc6614be57c3c4d85f",
+   "krUrl": "621b972864754c2f0c5ee70381d913a87bea1013cc6fc4682e8f55b567cb30ba"
   },
   {
    "id": 73,
    "title": "Về Thành",
    "text": "Không phải chứ, không phải chứ, lại phải quay về Điện Nhân Quả rồi sao? Không được, tôi không muốn, trừ phi... có chị ở đó.",
    "unlockRequirement": "",
-   "cnUrl": "ec41b6e95c403047dd31d1f533f6d2079d43a9da3c1bc09b1fd14fd806207d20",
-   "jpUrl": "3ebbcd56fec4c84a25c2a857b3723096302c355be0d130f9293d895d8fb3db05",
-   "enUrl": "f0c8ed4e187aba2103867e306cb3d22acdb096f4dcebea08647205eb5ffe9263",
-   "krUrl": "3cb5bc7b28c2f798560250ac5229903bd2adcad01e241beb929e2f3b24c6b2ca"
+   "cnUrl": "e2112db4c2af23146ac719bf6ccc9b49edc92193b52defdc5592fca63ec6dff1",
+   "jpUrl": "470ad805d1d72d82e372c5c9b575c503e07489ac5b07c5b1a1569995eddedc7b",
+   "enUrl": "6d6a13f1bf7edd1d7292cfa3343c866c4d40b7e4ccdcd88cd9d457b220e6826e",
+   "krUrl": "bc5a40592089b25c828556f2e63e7bc5f736d3a90f4cde7d54d2481ccbad2c77"
   }
  ],
  "storyItems": [
@@ -2698,19 +2702,19 @@
  "name": "Hanya",
  "rarity": 4,
  "descHash": "Một trong những Phán Quan của Sở Thập Vương Xianzhou Luofu. Nhận lệnh Thập Vương, chấp chưởng Thiên Bút Tiên Tri, đọc danh sách tội nghiệt và truyền đạt kết quả phán tội.",
- "artPath": "f3b440b4bc7cd44dfd1215d8b9123d6bee5b783194d3a27a570d1f46dd1da6a9",
- "miniIconPath": "fda2b3da3f062c6e59e53bddc8cfeef1e1960b173534ae9e1f753eeba64d0c98",
+ "artPath": "e55e8e02282133df13327b418a4b4db9336ee844079f88816fe3d50f489d5213",
+ "miniIconPath": "065f6379f5caf63133573c15ece1e6e9a1fba22c1d474a40586c9ca971f6fa67",
  "damageType": {
   "id": 1,
-  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "iconPath": "e21edc60ff709336831c1f18a58ad77fbe2cd85ceb630f7e87463545a4057bbc",
   "color": "#FFFFFF",
   "name": "Vật Lý",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
-  "altIconPath": "691e6c36e7f71344352e4ed80941938d7dc5722b23cef7a18f7fa8722d8c0523",
+  "iconPath": "c0712011803bdb1229240f7c73e2b79b3a8d2c906cccf9c3f339366c0154827a",
+  "altIconPath": "39ee1c5a1d79036797346d3a863a964d63038749cc9944d66ca80ed22dca6029",
   "color": "#FFFFFF",
   "name": "Hòa Hợp",
   "rarity": 0

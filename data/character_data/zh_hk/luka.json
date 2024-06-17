@@ -1,19 +1,20 @@
 {
  "spRequirement": 130,
- "iconPath": "964fad345ab51a77077bce75f248ebb94290df59eece5f4b2d109e6a50eae854",
- "bgPath": "87f77b9da1f2167e89d13ddcde7d908d274f465c5fca0c5634e8d63db792eb52",
- "figPath": "768d41deed5fddb203b19ae6f4596d9e5b4c8172f2c3dbac4552c76671609d94",
- "fgPath": "713da05189557f9a27e96f82704ccfb1e263f7a9b313a9504d500e431fd02159",
- "splashIconPath": "5ded512bc76c708e9a0e96cb9fd8a1e987436fa941a5ec5273270551e2b33fda",
+ "iconPath": "c1f6c8c87a357e9e3245b6732775b68d5496251c5ee87adf2ed02a1bfbe57b30",
+ "bgPath": "d15d941e04771ffff280ef1da3b48e3e9f2933e9db9a0c337e1f3c2217775771",
+ "figPath": "7b65acb80bb650d5052bf982dc86df9284097b4de8328a01f2f57e5c67bf38e6",
+ "fgPath": "62e9225e9daee67e1539293c6a1c3e3c69cc04d60c6022292b3846a3e130f59f",
+ "splashIconPath": "671c5e93c8dc2575c1be786ab04ec41d883d5928ce20dd1c5f5d5cfe8102b775",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRqICAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAoBAAABkGvbtmlLc+/z/CJmts3YjF5kW/ErI7VtpxW7KrLrA2xb56w1C+feb4iICUDAxi6DoCPindTjWghrbACDsqU3vpMH4QCOn0X1SYrrcRh17YD5D2hqu08Rftne8X5NDHzjO+3uq/R+81zCF/Yi7L+I9S/kBVX5tv8VL2fAARwsenjoN1WFj74ID0bDIhTLdq6iqlJIdXkJMCi+8IDqK6rq8WRUCJZ9eh3A1+Ugwq9TgxaXWzD5UyUodbk38fRvavC/OT5/ip6PiIqquJSyEdLzVMWjCt1fJKeR9eoXSZcU0iOf3V8NID1v8PZPflpX29BS27+QDgAGgC3rT0FgA8BYCwDWWsc6IQYAAFZQOCByAQAAUAgAnQEqFAAUAD5tMJFGpCKhoSgNUIANiWYAnTLiGD2Shk9s14mfUA3kbeMfIrTwIYr409QDbZg4cEmVSl4TShVFdtcNafmRed0YAP72yiD0Riejs4G+fd9Q867AJEOf5FQq3q8O2D5VKHMqjmvRH9G03antV83xJO9EAVUPUy105Tv9VqWSIm6zDP8/i6pmT9kPJ8syJ+r6y5lmKW0MP3bMh1S4A+5cdLytp/0Kh0CwGdg1uThwB9MIRQuZ++bQen2V/cOkj+7Xck0d2fucvpB6QFGEkIMW7wehnbeEC1f+0NPztp+1S8hNy7WP8NdMbyMhLPu+Ikwfud8wUwV8sezEHAU3UEhGKhBfanE3PcE/bRv7HURxYu9d7OTP7N1bvuODUZwRKRq1RRtu+csC4v+k3KVH0HIM9+3gGGNxgRJPv2WRoff9NRbu5j+c/q9BJSS+9AsenXd/1f2c8m5tC8Xw7g5MUZ8GZ/x7ffJaAAAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 5,
-  "iconPath": "4b4b5f13f6588e7fb1c030c28f9b9b67a7a8c4bab77c05e38d5c9f64eb0d99e7",
+  "iconPath": "28571bec548b7a0a6b24ad8825c718a27732ae7c72c79d9288924e1258360ada",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用點",
    "desc": "星際和平公司與客戶結算時使用的貨幣，如今已成爲太空旅行的硬通貨。",
    "lore": "「人們奔波、爭鬥、貿易，爲的不過是個終端裏顯示的數字。但真正珍貴之物，公司的數字是買不到的。」",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "命運的足跡",
    "desc": "行跡升級的高階素材。",
    "lore": "一次又一次的敗北成就了你的勝利，一步又一步的前進讓你抵達了命運的拐點。",
@@ -61,7 +62,7 @@
    "id": 186254,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "9794d4b9cee70ded671331e6e9eec06326dcb9428d59540d9960f2a0bbea00e1",
+   "iconPath": "cf2788ec5bdb2c1137c8bdf583b557edd00667b1f629205eccb2a92e506b62a8",
    "name": "無窮假身的遺恨",
    "desc": "行跡升級的高階素材。",
    "lore": "無論奪取多少肉身，它都無法如願以償。就像那些尋求仙藥的人一樣，它渴望一具長存的軀殼，不必再畏怖「毀滅」。它知道，這是永難企及的迷夢。<br /><br />「我曾見過無數世界被負創神的烈焰吞噬，我曾是這些烈焰中的一朵。我隨祂的指尖舞蹈，卻深知若柴薪燃盡，火焰也將熄滅…」",
@@ -76,7 +77,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "漫遊指南",
    "desc": "角色的經驗材料，可以獲得<nobr>20000</nobr>點角色經驗。",
    "lore": "跨越諸界必備的冒險叢書。按下閱讀鍵，充滿磁性的聲音將以你能聽懂的語言講述知名冒險家們在不同世界間的傳奇經歷，以及他們在各個星球上獲得的珍貴智慧。<br /><br />「漫遊指南全新書系《星際美食烹飪導覽》開售在即，敬請支持。」<br />「投稿請接入博識學會聯覺信標<nobr>23</nobr>θ聯絡員，稿酬可以以您接受的任何形式支付。」",
@@ -94,7 +95,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "冒險記錄",
    "desc": "角色的經驗材料，可以獲得<nobr>5000</nobr>點角色經驗。",
    "lore": "裝訂嚴整，一看就頗有教育意義的冒險札記。圖文並茂地描述了冒險行動的始末、有價值的信息和生存相關的技巧。<br /><br />「幹嘛不數據化放進光刻片裡？便攜多了。」<br />「面對恆星風暴和中子流噴發時，高科技比你想象的還要脆弱。何況，製作這本書的人一定希望人們用最簡單的方式閱讀它。」",
@@ -113,7 +114,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "旅情見聞",
    "desc": "角色的經驗材料，可以獲得<nobr>1000</nobr>點角色經驗。",
    "lore": "記錄旅途見聞的日誌，字跡漫漶不清，內容隨心所欲，對你並沒有太大的幫助。<br /><br />「看完了就趕緊把這堆廢紙處理掉吧，丹恆？」",
@@ -131,7 +132,7 @@
    "id": 549408,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "28d0ba947e29fa63210d8ae2c432cb80339f98427c8655a9ca050184f69c4819",
+   "iconPath": "66b7af9abc3a5b3a0c397e90ff5b79398ad5f3ed452c3adeb20a467543fd8810",
    "name": "古代零件",
    "desc": "舊世界時代遺留的機器零件。強化所需的簡單材料。",
    "lore": "儘管體積微不足道，卻以如今的人們難以重現的技術鑄造打磨而成。<br /><br />「舊世界的一顆小螺絲都比我們的盔甲結實。」",
@@ -140,6 +141,7 @@
    "rewardPath": "/material/549408",
    "comeFrom": [
     "自動機兵掉落",
+    "「差分宇宙」中敵方掉落",
     "「模擬宇宙」中敵方掉落",
     "委託獎勵",
     "餘燼兌換",
@@ -151,7 +153,7 @@
    "id": 633349,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "7089e982e18575f3824ab28ae0e91f40c8214edf6253a7162142bdc7fc0acdbe",
+   "iconPath": "eee031381b2ae54c8df870a7c9f5089dfb9b6fa995a2c2ff29efb09bbffa02ef",
    "name": "古代轉軸",
    "desc": "舊世界時代遺留的機器傳動軸。強化所需的普通材料。",
    "lore": "精密結合的機件一旦拆開就再也無法復原，即便貝洛伯格技術部的維修老手也不敢輕易動它。<br /><br />「笨蛋，這東西交給藍甲人才值幾個罐頭？拿去給史瓦羅大佬，保你喫穿不愁。」",
@@ -161,6 +163,7 @@
    "comeFrom": [
     "突破至均衡等級2後，自動機兵掉落",
     "「萬能合成機」- 材料合成",
+    "「差分宇宙」中敵方掉落",
     "「模擬宇宙」中敵方掉落",
     "「萬能合成機」- 材料置換"
    ]
@@ -169,7 +172,7 @@
    "id": 635669,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "271b1f9a291c44b698190683f224996bae3b49e8e596c227b819b72c3a2b82dd",
+   "iconPath": "825865adfbcce2087595f3e3f5f83074ff634bac538fef3447ca92d001377dd8",
    "name": "黯淡黑曜",
    "desc": "一片自虛空中捕獲的黑質。可小幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虛無</span>角色的命途行跡。",
    "lore": "任何手段都無法驗明它的本體。<br />輕輕觸碰，從碎片中傳來不明的囈語。<br /><br />「████ ██ █ █」",
@@ -186,7 +189,7 @@
    "id": 717290,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "4ef8700321d72ae07d3b931df6b9f6567d87f4035e2afed42d53e7c53aa09ceb",
+   "iconPath": "e57cd777cd6ae2ec9c4d8aa0fa1e9a18f5114a2b78d59db8bcc9231d470f77fc",
    "name": "古代引擎",
    "desc": "舊世界時代遺留的機器引擎。強化所需的高級材料。",
    "lore": "以地髓爲能源注入動力，運轉時噴燃的並非火星，而是遊走的極光。<br /><br />「只有大守護者直屬的技術部有權調閱舊世界的資料，我嘛，被開除後就進不去啦。」",
@@ -196,6 +199,7 @@
    "comeFrom": [
     "突破至均衡等級4後，自動機兵掉落",
     "「萬能合成機」- 材料合成",
+    "「差分宇宙」中敵方掉落",
     "「模擬宇宙」中敵方掉落",
     "「萬能合成機」- 材料置換"
    ]
@@ -204,7 +208,7 @@
    "id": 836255,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "34d88252515cd13ab58b6f5aae7329794a4a330a0147e1c5f755c8a2f4444bff",
+   "iconPath": "a006d01f6dff4b81ed47879eec1b9c3513644d0677c4815bc3c8530882c4be21",
    "name": "沉淪黑曜",
    "desc": "一整塊自虛空中捕獲的黑質。可大幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虛無</span>角色的命途行跡。",
    "lore": "意志薄弱之人只是向其棱面送去一瞥，便會在混沌中永世沉淪。<br /><br />「         」",
@@ -221,7 +225,7 @@
    "id": 866633,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "8e0cd81aa41c7849a5da687f6b40c0b3ccec417ef1924c802b70c03021e69317",
+   "iconPath": "7e62afd36b2314862d8208b2b8eb130f8535f7edeafba247854fd020f67d9260",
    "name": "鐵狼碎齒",
    "desc": "自動機兵遺留的零碎鋸齒，物理屬性角色的晉升素材。",
    "lore": "據說築城者曾經的冶金技術能打造出切開磐巖的鏈鋸。這樣巧妙的工藝如今已無法復現。<br /><br />「史瓦羅大佬說那刃片薄得能切進分子間的空隙…分子是什麼玩意兒？」",
@@ -237,7 +241,7 @@
    "id": 920196,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "1a896480b5f6ee84644db112069845e85930f6dbc0f428a3f8a6de2b187702af",
+   "iconPath": "eec42c153a07330e42c7c9d85fb5fd5e1dc72c10e1912f3f825bc4f853ae4bd1",
    "name": "虛空黑曜",
    "desc": "一塊自虛空中捕獲的黑質。可中幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虛無</span>角色的命途行跡。",
    "lore": "漆黑的棱面上甚至反射不出任何倒影。它不僅吸收着光，似乎還奪走了持有者的情緒起伏，只留下淡淡的空洞感。<br /><br />「……」",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "d129714f833ca5ce9012c610c8314e2e6c8da9c4a589dd9684c380c210533799",
-   "artPath": "5a5381f1c7107078f44b65f56a73bfc69289ae3fb6fb53759971aedf257ac892",
+   "iconPath": "ddd675fcb37b558b6ea46adf27c29916cc8ae3686ca789d58f45f61b332c731d",
+   "artPath": "e35ecada73c52085400d910a060f99b9582d2c5642c3f8b9441043b5b9d1b837",
    "name": "爭鬥不休",
    "descHash": "當盧卡行動時，若指定的敵方目標處於裂傷狀態，盧卡造成的傷害提高<nobr>#1[i]%</nobr>，持續<nobr>#2[i]</nobr>回合。",
    "params": [
@@ -450,8 +454,8 @@
   },
   {
    "id": 2,
-   "iconPath": "bea9b45c339c3568e02af2fc2b201fcaf2653ca4ed50ab57a33a9b0a59a306c7",
-   "artPath": "17fa85cb27d8b83e1d231443f9c6a09884c8db2c1f34b86d782288139fc19e2b",
+   "iconPath": "afb13b2c9acd1eef81631f6a392158182aa5b087f3b995ce4e9391baa3ed73ae",
+   "artPath": "8630fa45cf327d1b6a14c1e9a5219bfca44724f40004d2770614bac1bfe8e549",
    "name": "敵弱，我強",
    "descHash": "若戰技擊中的敵方目標弱點爲物理屬性，獲得<nobr>#1[i]</nobr>層【鬥志】。",
    "params": [
@@ -460,16 +464,16 @@
   },
   {
    "id": 3,
-   "iconPath": "943e448f5c7bfdc953f5a349d3bb213954f900f6eb0939ef9032ed680d05b347",
-   "artPath": "67541b99e67b7f1ae279d828d3db6bb645b6e4458e247a9992e7ab63c2453125",
+   "iconPath": "efc4cb842aa00c49fbfdd5bb1a7f0eb5f8544b0c77241e7accce79cd9ecfc4ea",
+   "artPath": "1b4af2046cc20d73c5b27dad778f9dcd71a94b0e620cee0bf5b2ce373e92cb09",
    "name": "爲擂臺而生",
    "descHash": "戰技等級+2，最多不超過<nobr>15</nobr>級；天賦等級+2，最多不超過<nobr>15</nobr>級。",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "337d04f6d5f91d453686267f76bba5b2b6bef63fa0c7b04ddde5bb36ba62df0c",
-   "artPath": "2a59bdd9eb75e763d622b8637fe181500a11bc1186171649ca0274c736d9fbf4",
+   "iconPath": "8fe9b7805fbef2acfef1e2426c15af3cfa955a2277cb80661ae11e8531338bb9",
+   "artPath": "d51ea6a26fcf82fdf6a8312dc7d2d33f7b547363a61c7cf9cc210819295fd0ac",
    "name": "百折不回",
    "descHash": "每獲得1層【鬥志】，攻擊力提高<nobr>#1[i]%</nobr>，該效果最多疊加<nobr>#2[i]</nobr>層。",
    "params": [
@@ -479,16 +483,16 @@
   },
   {
    "id": 5,
-   "iconPath": "ecd59784f63f35479c57051794a41078a23fba9f6e3d196abd5fa59483d8a112",
-   "artPath": "28556fabc7726ab02aec538f56d529070c13a531f0faf5e9c47b3edff197b35f",
+   "iconPath": "fec81f5efca5f99d7f3d689b531077ca70cfad6a6102208106da66935e7d8e8a",
+   "artPath": "653594f6328bdec7e3f3b93103bfe66e0dcce5f6eda430284ba699663187da54",
    "name": "地火之魂",
    "descHash": "終結技等級+2，最多不超過<nobr>15</nobr>級；普攻等級+1，最多不超過<nobr>10</nobr>級。",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "de577a8ffc78aeb66c1b0f70b8c8faa6a320c48369a062bb47ab3ad124581b63",
-   "artPath": "33d4cac26a8b9c9b093d48e853ec3db49455b333fc5d4f0717110484516f2876",
+   "iconPath": "e7c17721cb25772200b9646c4e78f675e13a405a01645750dffbdeb579833a7f",
+   "artPath": "a0c744e5f4b4dd310c9eb8e093f600ff2cbf57b555034d68ab62fbba7880480b",
    "name": "冠軍應得的喝彩",
    "descHash": "施放強化普攻的【碎天拳】擊中陷入裂傷狀態下的敵方目標後，本次強化普攻使用的【直衝拳】每施放過1段攻擊，則額外使其當前承受的裂傷狀態立即產生1次相當於原傷害<nobr>#1[i]%</nobr>的傷害。",
    "params": [
@@ -523,7 +527,7 @@
    "energy": "20",
    "id": 635769,
    "name": "直衝拳",
-   "iconPath": "b2fa62b7652bc8c0da6ccde90c657240e8ff763e91aac92794ef7cc65e755a57",
+   "iconPath": "34120f019398814e96e0f7c15fd14d1a4dfc12df5279c0a8e79610f252282878",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +688,7 @@
    "energy": "30",
    "id": 920296,
    "name": "裂傷拳",
-   "iconPath": "943e448f5c7bfdc953f5a349d3bb213954f900f6eb0939ef9032ed680d05b347",
+   "iconPath": "efc4cb842aa00c49fbfdd5bb1a7f0eb5f8544b0c77241e7accce79cd9ecfc4ea",
    "typeDescHash": "戰技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1015,7 +1019,7 @@
    "energy": "5",
    "id": 836355,
    "name": "制勝一擊",
-   "iconPath": "8e630267b81d2bbcc23cbee4ef4eccdc4a599e3f8ffd6f0b87bfc5dcff24b318",
+   "iconPath": "f1abd6a382d822f4ceef0007cce6c3d4cce10165ee8e59d116bc89b3297379e9",
    "typeDescHash": "終結技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1346,7 +1350,7 @@
    "energy": "0",
    "id": 351242,
    "name": "火花四濺",
-   "iconPath": "6c25fad4b9e9db4c5f7c7d676daacf197b067ee870e32bd23fafd0d10d5ad710",
+   "iconPath": "cedfc5df05cfc99178ebacbdf21f054183226a11054bb137b8baebb44c9d88f9",
    "typeDescHash": "天賦",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1632,7 +1636,7 @@
    "energy": "0",
    "id": 551828,
    "name": "攻擊",
-   "iconPath": "b2fa62b7652bc8c0da6ccde90c657240e8ff763e91aac92794ef7cc65e755a57",
+   "iconPath": "34120f019398814e96e0f7c15fd14d1a4dfc12df5279c0a8e79610f252282878",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1654,7 +1658,7 @@
    "energy": "0",
    "id": 435183,
    "name": "搶先者",
-   "iconPath": "41efbfac7129ff5f6e208889ceb6e5b0f08a8af54ae28e7ec298969124569fca",
+   "iconPath": "2d7d72d62c9174715872332315c78b5afb9d3065d7536b1e20d6c31e13c65ecf",
    "typeDescHash": "祕技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1679,7 +1683,7 @@
    "energy": "20",
    "id": 489350,
    "name": "直衝碎天拳",
-   "iconPath": "92865a0585fc28eef58225feec3cbfbb2320e0373c6a23f8a838c554f204ea68",
+   "iconPath": "16226d711f51e81077f4b8fd5c7f54524bc04208ff3433b5fbc4ed257e18f69d",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1868,7 +1872,7 @@
           "name": "防禦強化",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+          "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
           "statusList": [
            {
             "key": "防禦力",
@@ -1897,7 +1901,7 @@
         "name": "攻擊強化",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻擊力",
@@ -1926,7 +1930,7 @@
       "name": "效果命中強化",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+      "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
       "statusList": [
        {
         "key": "效果命中",
@@ -1955,7 +1959,7 @@
     "ultimateCost": 0,
     "id": 276014,
     "name": "動能過載",
-    "iconPath": "d0d9aa25dd6a44363cb9ab87fa73f4f669a986a4db29b5c4d3fa321d4be4e8d3",
+    "iconPath": "b9b45ec3db05a1364964e522f7e9e69c7885da9ca4b459dc04d27fa81f185e51",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2009,7 +2013,7 @@
           "name": "攻擊強化",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+          "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
           "statusList": [
            {
             "key": "攻擊力",
@@ -2038,7 +2042,7 @@
         "name": "效果命中強化",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+        "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
         "statusList": [
          {
           "key": "效果命中",
@@ -2067,7 +2071,7 @@
       "name": "攻擊強化",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "攻擊力",
@@ -2096,7 +2100,7 @@
     "ultimateCost": 0,
     "id": 276015,
     "name": "循環制動",
-    "iconPath": "6287e17dc73cdebe33f60a6c2b676f43b45e61b3b18f45536321973a99b791ad",
+    "iconPath": "3579774d71fefa4073ea71974bdd6fd14ef8dc6d8a8b4ef6965510633867a37d",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2144,7 +2148,7 @@
       "name": "防禦強化",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+      "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
       "statusList": [
        {
         "key": "防禦力",
@@ -2177,7 +2181,7 @@
       "name": "效果命中強化",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+      "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
       "statusList": [
        {
         "key": "效果命中",
@@ -2206,7 +2210,7 @@
     "ultimateCost": 0,
     "id": 276016,
     "name": "粉碎鬥志",
-    "iconPath": "e656c2b4821f462502ab7e37ad29c7ec2f0644f271190c4614daf8815e774628",
+    "iconPath": "6294b7944a74e67777381327856fdded5b73e6fbf7a6019ee3c497f98e857095",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2254,7 +2258,7 @@
       "name": "攻擊強化",
       "levelReq": 80,
       "promotionReq": 0,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "攻擊力",
@@ -2283,7 +2287,7 @@
     "name": "攻擊強化",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "攻擊力",
@@ -2309,27 +2313,27 @@
   "props": [
    {
     "relicTypeHash": "軀幹",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "攻擊力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "腳部",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "速度",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "位面球",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "物理屬性傷害提高",
-    "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176"
+    "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69"
    },
    {
     "relicTypeHash": "連結繩",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "攻擊力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2339,480 +2343,480 @@
    "title": "初次見面",
    "text": "喲，你好！我叫盧卡，是「地火」的成員。打擊惡棍，守護鎮民——這就是我每天的工作。",
    "unlockRequirement": "",
-   "cnUrl": "760669d134f302f91a4c95942aac6d8c43068557040247d3facc491a27b8badf",
-   "jpUrl": "f501079f72f5b1c47e5d3168a0c0f1e68d01715df9ecb28e34ca8ba31433b46b",
-   "enUrl": "41049c0424c64294bc01f1694670e35c2d32b5d0da4af1ee3b70bf2564e4cea4",
-   "krUrl": "02f0235f11f2efbeaae79459970ce72755b5df6f8e62748d2e14d6636c4ecf32"
+   "cnUrl": "810fab00dbeccd681a244635ffbf9edea361566d4cbcc526faf164f2d98c7292",
+   "jpUrl": "0e11a61e51bbb1258ce18d1a0949edcda906b98c9d60664573cbaeadeb3fe1fa",
+   "enUrl": "b11d2ff514df4889b52ce951f432c5f2613833d4a62b8a633bbddf574249af70",
+   "krUrl": "969d41af5e8d76d1bb48ed9cc9c0fa6612ff8d4d9b34802894576b2c20c81df8"
   },
   {
    "id": 2,
    "title": "問候",
    "text": "比賽要開始了？好！我先熱熱身。",
    "unlockRequirement": "",
-   "cnUrl": "8cc7a09bdf298765c7a10f4cab4ab7e83ecc650c6eb1ebb658c7075407bcaebb",
-   "jpUrl": "311f9887872a18df5431b3a4f6610aa4ec838f9be5a8d473f68035e48b7144b2",
-   "enUrl": "e57099ac70afc276120cc517d18a529c1040ed1b8c1a5534b04f0ef4afed4770",
-   "krUrl": "89f9a0b20cf231c2f00e9ffd3bce7f4dcff7905f7441ebc93fcea8b915c55b4c"
+   "cnUrl": "8d32190030c5837da90c31c315fd53945575a619ffdb711bf66ecd431fa48b8a",
+   "jpUrl": "96bd2cea58e4d4f82a00e962fc2d9520a1051e4bf13c416c61a19cdccd63d74d",
+   "enUrl": "d13dc3ac34e904ad5aa95f8b9de725e319f23d8a73c3adcc52ce907854fee314",
+   "krUrl": "c24b60223d15c48a43b916db38804dface11ef575f41ebcfa6fdc042280b1770"
   },
   {
    "id": 3,
    "title": "道別",
    "text": "想歇一會兒？去吧！偷偷告訴你，冠軍的祕訣就是趁着別人休息的時候刻苦訓練。",
    "unlockRequirement": "",
-   "cnUrl": "f9a265278e7d5f4a907c75178acf5e9893b395429da3924adc292b2c3adb5034",
-   "jpUrl": "5b31df8bc740e73a076706a3b3113640a258da12eb804b7331a4533faaa57300",
-   "enUrl": "f0cce7c45ce9b5322ea7864dce5a24e52e11e060941cc029f70cc4709c40fc8e",
-   "krUrl": "c0d5c6d238738f7228298bf92a3dc42811c2750c0ed5a98db7eb1aa6ca0e2fc9"
+   "cnUrl": "b32fc5e74869e7b73ca53b7b55376911991a7e54c021be038697556e771a9eb1",
+   "jpUrl": "5f2158ee78eb24185e226bbaf33afe550ad672e8e60bce1e728d73009ec4def8",
+   "enUrl": "deae5625eb18e9487571c3420c10a4a655092756598553c5fb7e36f0e9d89b81",
+   "krUrl": "676a3ae078a713c73bde5d3327767c38a36f37c3470826e485781ec1ee523716"
   },
   {
    "id": 4,
    "title": "關於自己",
    "text": "搏擊不是因爲我喜歡暴力，拿冠軍也不是爲了和誰炫耀…我只是覺得這地下的惡棍太多，得給孩子們立個好榜樣。",
    "unlockRequirement": "",
-   "cnUrl": "f07f39ecadc3f73824956b6e749bf0b83e2f0cdb143b8e394750702b891e1296",
-   "jpUrl": "d2912ec2c5f6b9782ef82e087a153dcf458ace5d07ec79c4c70b12db75054109",
-   "enUrl": "ff5a80c67b9c1b05f599be3de144d228e7109db117376533b03e11b58cdcd2f6",
-   "krUrl": "c9e701ea3517d733ede7b57e7b1d72e46de9df4fc97c0f17153b9b39bf9da835"
+   "cnUrl": "460b597b9e091b1c26d427722d2722c36d30714e08e4c76e74cdaf358aff592c",
+   "jpUrl": "d0f9b989cd6de7facb08fa098879a14ad72947da79d8c7727483c835712b2226",
+   "enUrl": "dd5867cf761c184ccbea042fdeab7ef00cf3aa7649b4b336af11c25d6ee93fe8",
+   "krUrl": "9f5e995ad03d69d07ac1ce83fbca36dfca9c77dd98d535a589e7246edfb7613d"
   },
   {
    "id": 5,
    "title": "閒談•義手",
    "text": "師傅說過：不要太惦記自己失去了什麼；多想想自己得到了些什麼。每次看到這隻義手，我總能回憶起這句話。",
    "unlockRequirement": "",
-   "cnUrl": "8f1540f9104672cbce7922164ecc43765449d6a64325285edfeb4d4d92680c0a",
-   "jpUrl": "c6c93414757988f19e95bc71b0b9a2b200af0fb52004e2b9b1d980b49a910b7b",
-   "enUrl": "af970afe1286ff2f7b44f9dd7b7bc9f78cf27f3565fa04406f077af3037d6816",
-   "krUrl": "6a482b6f1c0a1916f9c04267285dac64c7c96d3f53cc501a7bbc512a39043530"
+   "cnUrl": "6d41fb998792b4ae53a568711d931168add6da891f0aa68990102c20d21f1d38",
+   "jpUrl": "33396a899b1556190db023d46d966dd00e07d7f39a1e0b32b647326ce5d42de0",
+   "enUrl": "8d48e0d1b9d4c812cf04469bb1bf2326cfb8b76b0c9bb53497711fc01286f9fe",
+   "krUrl": "58cd3bf04a0bcbda5e62ba0f2fced6d6775ac5e818b7cc2dbbfc045213562d56"
   },
   {
    "id": 6,
    "title": "閒談•上層區",
    "text": "上層？沒什麼興趣。當然，除非那裡有值得我挑戰的高手…或者需要被制裁的混球。",
    "unlockRequirement": "",
-   "cnUrl": "56ef88030512e4cb9d00deb9177a4437941a65c8eba805b00306a056c8f646f3",
-   "jpUrl": "5288b1acbb882420424036ebdd313596525360390b0db202fb87307946ff5e9e",
-   "enUrl": "d6a477a70e4a4342b5294b6342d02b17635c155588fc6f7b8c8b80fbd317b8c0",
-   "krUrl": "99fc8f841dda221072b56eadbe5cc6723ee91dcaf4d51a7b7717d2c221599b57"
+   "cnUrl": "7496febb44b83f8b7ebbe6d8f82b7bbd5b14984337a4271242fdef231bb177c0",
+   "jpUrl": "17805f63bc2278d70dc39a7fa8ca346ee3b83298df272a9e506c412890a3b998",
+   "enUrl": "d6204a79510f23feeff9478d6b986993415729d5b42b4824db899395fe5d7e58",
+   "krUrl": "fcf373105aa235dd7caa98e49623eae0c9f87c17927d20cd7435160620dcac4a"
   },
   {
    "id": 7,
    "title": "愛好",
    "text": "搏擊俱樂部流行一句話：「誰把你揍得最慘，就和誰做朋友」——喔，怪不得大家都想和我做朋友！",
    "unlockRequirement": "",
-   "cnUrl": "48e813719c91adb730560b0f50be3aac53e33f897d0eb80e1998e82755f43645",
-   "jpUrl": "f8a7341358660d680ece28954ae696dc6362bf11956fd4351434f8cb8984901a",
-   "enUrl": "63b188bf52bdfff0b1bb4bdd548bd2fd03cd86a7a51cab5ee7b469db19f96341",
-   "krUrl": "60f685d9a6d78eeb4ebe73a7774e771f7d6bacb4be1d6b3c73865e2ef2a1820d"
+   "cnUrl": "0bb0cf9f85f262aa7a9aa77adf683b74d3d4319591b017eeedb421b9f30bc251",
+   "jpUrl": "eeb06d124eaedf0198eea9992ea285e6d61b7feb0f155f8281fbf31a484416b7",
+   "enUrl": "5be4159e23bc68d22198e5132198c5570e64b6f2b2667866d78f1aafc62a91d2",
+   "krUrl": "c5805fd1d175040d9e8bc11fdd0a9137ca07a57f1ce43f33b67069b546ac5537"
   },
   {
    "id": 8,
    "title": "煩惱",
    "text": "蔬菜…蘑菇…可惡，憑什麼滅絕的不是這些玩意啊？",
    "unlockRequirement": "",
-   "cnUrl": "ba905ae022134b236c045a1ae4dbef269014f48cdff04810822dca7c203db62b",
-   "jpUrl": "083c4f0f04eaa44a7d6c995602feefbbe0b8612be167299286e87f46d29ca614",
-   "enUrl": "eb22139a7452519f238b9c2d7668784aebd0c3415583c33fd61d5948af2b7c78",
-   "krUrl": "ffc959c94d86675a2dfbc6f381b86c1f4cd6ddc7d2c758b692a3668a6d008831"
+   "cnUrl": "cd5109a04879762de10b3c15e6aecdc2960821b3d8498d8312d8b65081c1309f",
+   "jpUrl": "a5a381d8a7dcf77cf578b975625868c3a781df7b63453dbb657ef22da489908d",
+   "enUrl": "99ba99a12763c4d430e1eb593ccabab413dac651070652ae7315a16edfb28dc3",
+   "krUrl": "0beccc5f8ba3873d765f3f89f2c4d6b1be2ae250331126c08c2b814daaee19fe"
   },
   {
    "id": 9,
    "title": "分享",
    "text": "聽說了嗎？下層區的三大特產：地髓，沒良心的礦頭，還有盧卡沙包大的拳頭！",
    "unlockRequirement": "",
-   "cnUrl": "30ccd8ec4e0377edeac254bc04b946f1c311f977699e4e81d74a6fc603b24f65",
-   "jpUrl": "ffa0d98223a840a76975fc1e46c831b86e58e8de9be404bae9a65c5b62fe84a6",
-   "enUrl": "7f4d30a7935a271036868ade3851c4f1badd2745f27e2b6967a3a3f2d5f31fee",
-   "krUrl": "f8549ce9da3b966725a9e81cd0985fe43d92d181c8c58f3e7a4cebb2c01200ee"
+   "cnUrl": "b7400bc63bc511019426bde3ed2452bdb89928141e98f5aaa667b863102f8402",
+   "jpUrl": "1b36ab3796b0aa1e56d4be76e35395d29d771b722ec07c846e41ab1b4dc8a797",
+   "enUrl": "974f9f517c1818f220fc7564df42d6f4a9af030c98328371b8a7798b3afdaab2",
+   "krUrl": "a2f6f700679f671e6932f8985b6f3817300e9a76c8392cb8666ac2f788c7c3cb"
   },
   {
    "id": 10,
    "title": "見聞",
    "text": "有時候我也會覺得不可思議，居然會有人甘願打一輩子的鐵，敲一輩子的礦…我懂，不是每個人都有資格談夢想。但要是沒有它…我恐怕撐不到今天。",
    "unlockRequirement": "",
-   "cnUrl": "a01236044de8a30bb443765a0bd7976eeea83af8a8036408bb04b70669e70fa0",
-   "jpUrl": "4b4012c4adaaa3f9ee893a33c32a8a719cba3174f353e0429007bed640971234",
-   "enUrl": "202e969d42bd5a6b712eb290a66ad91dad300d659a2f7651a3fadc53916fd838",
-   "krUrl": "d72079f1b1f6e081821a73d30528b91897f959213e1d54bbf1f6ac4310e1efe6"
+   "cnUrl": "d77be3eab0b2c3f81effce6c12ef39a409696908e2d21f64c58fd0ad1b4478a5",
+   "jpUrl": "1b4caa00b88c057e5340635acf61c7d8c97dbad212095577ca52e99879e38f5e",
+   "enUrl": "ec1415401306ebd99872353f79fd08d3cf8842e9fa0a4d2dc24f65f26cfc2e60",
+   "krUrl": "4c2b8dd45c10c548cac43cf0fbe7b0fad6680eac03a7c02c1d421ef65565996d"
   },
   {
    "id": 11,
    "title": "關于娜塔莎",
    "text": "要是沒有什麼嚴重的傷病，我儘量不去打擾娜塔莎大姐頭。需要她幫助的人太多，我不想因爲自己的馬虎大意拖累他們。",
    "unlockRequirement": "",
-   "cnUrl": "64875f23605fc1dfc92a21e67c3892b655da28dcf18ba9a069e885073d27b121",
-   "jpUrl": "c461bc375a145dbbccff943fb90f464c565062348b695be93ef8ffdae82e9f24",
-   "enUrl": "f749b5a2e3511eb0a85e46243ce9f310b0cd93d996961a108c522e6433909d21",
-   "krUrl": "7cd202d827cb62ac275572c0afb04b5e55a273ffbf4b8b031ab023e37e5d944c"
+   "cnUrl": "2d144fc7bb6030c5f28d45aded45fc077be38ebe831f325997e2a6ff99d8c059",
+   "jpUrl": "ef2281087c37eef90e278c1a923360ff190abedbf3a8fba9f2cea00cac958b23",
+   "enUrl": "e9672be5d8e4181f709a6de80690c258cb99621a0477687d99c63ea81a2d49a7",
+   "krUrl": "f4e72c974015d4522613ab4165d97dabae8020d4ce07f44e07cf12e97a33b847"
   },
   {
    "id": 12,
    "title": "關於希兒",
    "text": "希兒啊…該怎麼慫恿她參加擂臺賽呢？以她的實力，拿個冠軍肯定輕輕鬆鬆——除非遇上我，哈！",
    "unlockRequirement": "",
-   "cnUrl": "7c4f1010d5b727dec75a4247a079ac27edc4e156fa7a606d7a9869b2137584c7",
-   "jpUrl": "e0b52ce04aa07e9c517dd0ab432de876837ca002e45aa3438a3456b8b097ab49",
-   "enUrl": "384c8ab887d47fc1c1be3645c48478fbe96f9188b6febdce34a4e5a447ad5cb9",
-   "krUrl": "8fdf9ef0606038e127fa7944fffacfd7fa8966f89c248f9675f50455fc849fcf"
+   "cnUrl": "f1730d841b9946ff96838a0477ef45d4eb6a1cd8a7f79f21d6a825b46d8768a3",
+   "jpUrl": "7e05cb18b3b1bd370f087b706e3e2d4aa305087a04925254f41e41bc51566e44",
+   "enUrl": "a0eea0be55d419bac61fe3150fabf56030b01bf43143f91aefe75998f9ecac03",
+   "krUrl": "fca83d120930c6e391c61f06eda051a0d85f19e1514072e22270303899160f87"
   },
   {
    "id": 13,
    "title": "關於史瓦羅",
    "text": "得找機會和那個大鐵疙瘩比劃比劃…掰手腕。幹嘛？我又不傻，肌肉再結實也扛不住大炮啊？",
    "unlockRequirement": "",
-   "cnUrl": "af8476e43efb6b63539d09474a71aa4bc2100aa858bec5c9c5776b134c1f32a8",
-   "jpUrl": "863f587682163db44999469619536434b7e1a5162b5e3d3ba3bdfbe67ede3677",
-   "enUrl": "50c58d365d4bf23664b01cc2523a126b0a184bbf97a7bf70c0a3eedc4d2e1fe8",
-   "krUrl": "aa15512330759bffd99e1e7d4553f779bc8764dbcef00f2db13314eaf24bec16"
+   "cnUrl": "9af08cf13123c61a61729ba8b52d7ea8dabb7ccb23be2566cbda801acac2b0b5",
+   "jpUrl": "58c9322fd3c2916475f7f119e1360a8585a1fcce8bd794022edb8b1281896a7c",
+   "enUrl": "a45ffcf545cde70979a5caa34db5d2d9ca1dc16c0b2b07aceabee83a2093cb37",
+   "krUrl": "376ea46ef6bf86eb807f689333e8b22af0245470474043150a104cbc82fad52f"
   },
   {
    "id": 14,
    "title": "關於桑博",
    "text": "我不需要什麼經紀人，再說了…會給自己取「深藍帥哥」這種外號的傢伙，我壓根信不過。",
    "unlockRequirement": "",
-   "cnUrl": "a18a1cf867603dbccd4918515324f0bf8ff3ec2a79279c786185a3eb63cea04c",
-   "jpUrl": "7c2e45381ff034f92a8d28ded12c7c1fc67555599696f67c3faf71413660a3ce",
-   "enUrl": "d381099522bb19a0dd66425da24692a4926f8066a29e187409d5f57202dbcfc9",
-   "krUrl": "3e18f314e93780f03d4f218b5057be3e3637a72a89ad04c007d6dfc62353d988"
+   "cnUrl": "02180978f86feca36c7ad00a83cdb4022b165422438d98f25060a31184a84ed5",
+   "jpUrl": "aee489e6cab594bb108573b72def610e79defe56b65923436984d8d097747025",
+   "enUrl": "f46df722d06f978ba7f03abed4d52d136fe70756998012825272189c6fb50bb3",
+   "krUrl": "17fa9a3241151052be49947d0302cd74227a2c7ad8e37c328f32acefb43e3db3"
   },
   {
    "id": 15,
    "title": "關於虎克",
    "text": "大家都說虎克淘氣過頭了，但我反而覺得她是個能幹的好孩子。呃…證據嘛，沒有——純憑感覺，畢竟我也是鼴鼠黨榮譽隊員啊！",
    "unlockRequirement": "",
-   "cnUrl": "47bc705024f433971f9149b1b6711707d7c66e496d522e961fcdd653a21b59e5",
-   "jpUrl": "91a67222e0697840583d00546820bb1a35f0a16fb4b6c46eefd7d1134876d0b7",
-   "enUrl": "c99cd3b2bb0cd63cefb7a5e24a721af514e89d1f02a36f68ff26c13a7b303f26",
-   "krUrl": "8ab52832e04ed6e836b3f4ec89ddf086bb98b53d5aa6d8e0d8bf0f409aac13b0"
+   "cnUrl": "cd86beb98c7295e16873ea62a9affe4a6e27eef4a16543553e578011ee2b26cb",
+   "jpUrl": "8a2e5ec1ecebf475d136f12740e4ee4e3b3d130740d718b4333a50e664a66390",
+   "enUrl": "f0c001468f84098ac062ee8e7cf9ecd66237f4c3ed0989e3fa72142fb1acb5ac",
+   "krUrl": "70a1bfc6c2618f722b4f7b35e72b26959b59547191d93b26f494e2ed4ead7ce9"
   },
   {
    "id": 16,
    "title": "關於奧列格",
    "text": "…啊，沒什麼。我只是在想，自己還得修煉多久才能打贏奧列格師傅。在他徹底變成沒用的老頭之前，我一定要完成這個目標。",
    "unlockRequirement": "",
-   "cnUrl": "7e383a64eea7dcf604fa02284e6ce8bd9273760e993f5753545e8b906c99e59c",
-   "jpUrl": "5442ffd388ced77940c81e0efa9f826d0a854581c01a2b6a012bc93e77ac8aaf",
-   "enUrl": "37ecf44bbe30f2bf3ea8c4341d7f3c116d47020cdeec3d399acb7083fff24ef8",
-   "krUrl": "39c7b53324152c8412f9f7e0610116f5063f8287235ad1696f28f2588efd493f"
+   "cnUrl": "6063c6443046f27de9283f3ce1421f3c3b5490da55d8a538f5687fae5c8e0ace",
+   "jpUrl": "3510fb185e674c9ffb4f564a6e7aed96bc6d0ccb06dc40313ee9a71a6fceb475",
+   "enUrl": "2956ba3fa514df27a250003b30d1058347c819548cc0b01bd8cfd520f85b5bcd",
+   "krUrl": "e011f35f99b1b2756dee610898207e11b2a1b1dbcf8c2158bbaf69e6552bba44"
   },
   {
    "id": 17,
    "title": "星魂激活",
    "text": "這種感覺…沸騰起來了！",
    "unlockRequirement": "",
-   "cnUrl": "dcdb7795234782bc849e7fa7cff70d8d40608912cb02c721db77c01ed5c65d5c",
-   "jpUrl": "d2f86946a1aa8721a5e15c6ddb092c00716d9793238c37a5c31c48e856c58cd2",
-   "enUrl": "32029001bd515c4da1b30cb342e939af131ea37ac81e431c75ef87ebc09eef0f",
-   "krUrl": "d1cfb608b9125b1b6684a6efe78388718e953b7320c2cbd8d8bd9358b3b9938f"
+   "cnUrl": "8677f5e9494e1aecb5bd72fa7f5d6b6931754c5e1d4b612729acf89c6a10b433",
+   "jpUrl": "aca2027e811140392b2c50d901464f16a2da157b2c1b8ea42100a0b9436a97ba",
+   "enUrl": "bfdc027b3094926e65da9d9dea1b06302dd82d0d1646b03f5a66bf589e411215",
+   "krUrl": "c19f7c99f81a1a22cb6748ba2bc331d72ac76f9dad2a908d72aca08074622420"
   },
   {
    "id": 18,
    "title": "角色晉階",
    "text": "每日一練？不夠，加練！",
    "unlockRequirement": "",
-   "cnUrl": "db584f7a978015e5b1185804ddfad3d048147fe35e8ae968a30236e7d1c6a2c4",
-   "jpUrl": "4bf5d054cc01a4b55f873b19d90e72c54dbc0cebd5cdc36e9f0e5e38817d12f5",
-   "enUrl": "aeb3cdd7bcc3eec372a0db90a2d9288a5307f0c4a830c46723c958615d0adc31",
-   "krUrl": "188a485fb8da218f0319e31edf84da68c73ca83268fa0ad482d0fd81a69e662f"
+   "cnUrl": "eb02764ea4a7f1cf6e365404a6e94e4b93e1880f58ff8502a9b1d0053935192e",
+   "jpUrl": "7e4973213d13f6cac7f802fc854c579f8fcfcc72bfd385fdcd2b5643d4e8efe0",
+   "enUrl": "78732c07bd9b1487b8d54e799b6ac3628a00a5d165067f5a5af6aba8ded74b6d",
+   "krUrl": "c2427da733f7999d30a4ae4f3740a3341159c06fbfb48a758c21ee1895c35acf"
   },
   {
    "id": 19,
    "title": "角色滿級",
    "text": "這就是我的極限？哈，怎麼可能！",
    "unlockRequirement": "",
-   "cnUrl": "d29076c1a8862e9168d5335b7929f3e686149982b066c2f34b9fd091901722eb",
-   "jpUrl": "5a2d3619a5ef2652a3f3cbcf030680c56de9af8699b4ef9537cf97291c6fb55c",
-   "enUrl": "07e85ab5c6c3e5d82e2f8d7d1aec28be079fbae82c50838ebbfda732c6a27cd9",
-   "krUrl": "a106ef3dcda2e0cea631059129384cc15736844f0e529b23568370d12bf37637"
+   "cnUrl": "3e3b0beed38134e9bf4d60f480a7eeb2080480103e917370ad8b9dc3b3b57285",
+   "jpUrl": "50a895e4e0d2cbc4ca9f9f32ecc95b658df555780db562ad67f1bf7bf6f8e911",
+   "enUrl": "2d35956f1ecc7eb9e2c314e50da7ffacfb2f44e939294acaccf4c2dc281494e2",
+   "krUrl": "fd06894a989f766bec3cfcafec767a729af86728a0902b14db5860b29fe09a55"
   },
   {
    "id": 20,
    "title": "行跡激活",
    "text": "實用的技術，不錯！",
    "unlockRequirement": "",
-   "cnUrl": "44867dd2e36a255b38daf19ea42244be584c6ab66f067253a397857fac98c23d",
-   "jpUrl": "32c6c4db6b8f4fc2d8d1e94a153650706e45620387f498f1df63a3dccdc81d93",
-   "enUrl": "a2abcf570d2d2973f314d686846d7c7ee1f8fca2f5b7b9ee64b5beb81998c2f5",
-   "krUrl": "7f90a8a4ba4c9b46ddd1adbcedb83f8ce286decc0e082c1c8c3ef29333103f83"
+   "cnUrl": "dbd10e7bcb66f54d983b8ca1a2a7df43e6decce153de71667221106b6d1ca506",
+   "jpUrl": "b0bef28c0d832080b3da61d9af71c6655b044ea40590052e1fc5fa422b318e04",
+   "enUrl": "7412ee35cefb03e2638add3c3885e42a28bed68ce720b3210726eb5a0bf0797a",
+   "krUrl": "29ec0a70b88060732bd20eeeb8895a43974b327aa10ef338f035dd54ca4860d3"
   },
   {
    "id": 21,
    "title": "隊伍編成•希兒",
    "text": "希兒！咱倆合作，沒有打不贏的架。",
    "unlockRequirement": "",
-   "cnUrl": "de891fb84cd4c36ef7e0a6ea7d03e2a279492c9e2cb95fc0e1820edfa7a530a3",
-   "jpUrl": "0f0055cd1fd1085eba8e43cb8f2ed6547dae6c33ad2a596c9062b2f65c397465",
-   "enUrl": "cde55dc30e4f99b0c21398c047406ff24dfc9a9e540f375af2bddcaf4c6fcfc7",
-   "krUrl": "ba4b8cee172c26f7de74c58ca1c23cd17da539b85c47ab90835c9a41af6024d2"
+   "cnUrl": "572bb92c6dde7503dc11f21800c77b07284ab47f5e2eddf59ed341fb4399e887",
+   "jpUrl": "cca129cfdca92e87d812a6ee7d22e57db2219e05994e24b0ac2dba4a5eab0c65",
+   "enUrl": "308e33a28e4968015eec71c5fdb0e43b537e2b76a66b8505a7071d3a0cf2459c",
+   "krUrl": "757638ac1b066c7d64e3d8acf474441bac841394688a5d620fa0b4264c3fc3d8"
   },
   {
    "id": 22,
    "title": "隊伍編成•娜塔莎",
    "text": "別擔心，醫生！我不會在擂臺上倒下。",
    "unlockRequirement": "",
-   "cnUrl": "168d8dd05e61bc7dc4c9751da327a62379d5688b16a0f884b1ba898f017246fa",
-   "jpUrl": "adada2c2f40b1989e8f60c33655e32d7c6774d7f5174c0a9d1934c0e17a83c81",
-   "enUrl": "1f3f83f7d1cad3578f62b631a87d31efa30840dbd66e7e7c722e03fc30f97c96",
-   "krUrl": "44d140abc72460d19e67dc454737964d7743036e6c8b296b45e9bbbe6ebea8de"
+   "cnUrl": "3b0b0697b35813621932706550394acc8be7758cabaf78242de0c857c77b0685",
+   "jpUrl": "6279d3c880efc09cc65d06a024eb2b92912ff7354aa393a2d57e994bfbb77222",
+   "enUrl": "9175b975701d9f0b8552fe53cc4ff6dacd5f1f871a2750136ac3852f8c44b6d1",
+   "krUrl": "c0cc79e7cdffe13f6dd9c760c3ca0c44c3977840d5f69571c21c96d762b094fa"
   },
   {
    "id": 23,
    "title": "隊伍編成•虎克",
    "text": "虎克，不多喫點肉，當心長不高喔！",
    "unlockRequirement": "",
-   "cnUrl": "918c0db8c18cb2553874f188e43203d0325f6887e1b2d95012972b67e758b6e5",
-   "jpUrl": "acb6c281a9f22d47dd5d0e78eab69bd8e452808c6745d22100feec2f9f8f2a7a",
-   "enUrl": "5e59db4af81aa89e4aa762c884f1089bd3a15a3a40a6bee2a70ea0948536a8e3",
-   "krUrl": "f747157f968326caa383e40cfc77226f1b6bf50b54ae9ebe23f25a7f8279469c"
+   "cnUrl": "82c16285347afa1c2c49c9212430c7f2d08431a3271d00c491fb830fca26c840",
+   "jpUrl": "748078042fb675c19ea9dc9bbcd5eb39f3f9719361a50d44cabda689e5f1ce6c",
+   "enUrl": "ec6ac2c28b415484673f1ec022159587c43facbb0da4db0029a7cd57af0c58e4",
+   "krUrl": "9f38124ed1ac5edac26aa16182370c045cbe8c065757ee9137be571352a827d7"
   },
   {
    "id": 24,
    "title": "隊伍編成•克拉拉",
    "text": "讓史瓦羅先生也教我幾招吧，克拉拉？",
    "unlockRequirement": "",
-   "cnUrl": "90de1bf58b324e0fae33f102f56844fb9529cd71b7a86f8ae649a8aae73b3210",
-   "jpUrl": "930071900f842463a17262c593a4842aa625b30af0652342da70fe585f03af94",
-   "enUrl": "50253d0e87d1d5094763fa59060e19b0a08f2312eab0b7e84ed2942e06675667",
-   "krUrl": "ed4eb0b01db1b13eb2be073cc64bd424a89d849fd58877f0483b392614291e81"
+   "cnUrl": "8b33a121cd23ec08ad4393d5cc29e7ffa3a862f44cf3e2491fa2e47b1ed91bb3",
+   "jpUrl": "9d88dfe801372fff3935e6f6449b866925a48d0c6907e6665657b24e26f9210b",
+   "enUrl": "65952b96f04a6d7f4ee68d66b7f0a9064d6eaeb63ce05813e575bd6c06e3f5a0",
+   "krUrl": "6e408143a31fb206ef6e861bfba419b2f73146cfa2934a9e7e17851a76855a5e"
   },
   {
    "id": 51,
    "title": "戰鬥開始•弱點擊破",
    "text": "怎樣？要認輸嗎？！",
    "unlockRequirement": "",
-   "cnUrl": "9ffd3d5df5521251dc0c29ce9a3192100a839ed9ae0f7b2ce8a8dd05d14bb8dd",
-   "jpUrl": "8a844c26631aa17eecd297b1cd7fa9ef6ba02e3ecf63f7321b36887c95a94107",
-   "enUrl": "d7679e9fdb8b03c32da81d4b6cfa2ee386e55df4a71e400e1cd89ae8e94dd6bb",
-   "krUrl": "d13dd284150e51e1e935ca10bf9bc2617ceb450689ac0962190eb95689fecc29"
+   "cnUrl": "475028575c549c4d6ec3bad55a8dd472fac783e2b4a490a196184fb355b6a894",
+   "jpUrl": "896371373ed0c4d5ed8a819541192321ab9531ad51c5381e23c380785c67de1e",
+   "enUrl": "cd28fc55f87b2bec96464feee2958efab3762e62e545c060d73857771c50d0a4",
+   "krUrl": "9b49f7ee7be95398d6603ced6c6f082374c7c758579f260408d1f76a62585826"
   },
   {
    "id": 52,
    "title": "戰鬥開始•危險預警",
    "text": "現在才開始！",
    "unlockRequirement": "",
-   "cnUrl": "596685e14cb80f3a23f3791034fd02b5467b58282d4f1a76cf21ff903da1e84d",
-   "jpUrl": "c74e91d52e8b3cc4dfe64e9543d34d651f8d908dedb4bd227291c6203d0f60ad",
-   "enUrl": "d4aff2b71b6380390e9f77b7815f28d608d833f6444d66b88d5047b207db4bb5",
-   "krUrl": "576f939871002f9167922f72ceb7ded9171360a40c878a72fb4ad7cb99bcd465"
+   "cnUrl": "bbfc7364d34a3e95f9a8219564e6d6e9660c80865659e46323b7fa142089309c",
+   "jpUrl": "3db4fe2e58f44956b37a03be8bf066c6775f55ef472a058479f7ab5550108c4a",
+   "enUrl": "802b8873209b7a101edc8243e8093f9b083ba683a187b29d4122ff73b93c33a8",
+   "krUrl": "602917d8993af716baa497af71f0d5094de66c08ef064361eaa849553ba757ea"
   },
   {
    "id": 53,
    "title": "回合開始•一",
    "text": "對付你，一拳就夠了！",
    "unlockRequirement": "",
-   "cnUrl": "6525d09663027b22f7c92e027963c18611501b1d06e3a6143804a89b1287938c",
-   "jpUrl": "330faad1a0dc4327123391d1265f2b5b7952dca087518dd2be8fe41f059cec1f",
-   "enUrl": "920f665ecef0796cc7e2a3fed21d72b640030d3261e1bfd08bdb70ee87a2937f",
-   "krUrl": "395ba80ff72468393e6e3312b05fb58b37de3565de84477f31b21eb27e645f38"
+   "cnUrl": "f851243a4590dc97aa127ac14baa2862642c28faef6cb20f7a649bda4a08ae33",
+   "jpUrl": "d91c452ad847c9f765b2b6c8ccbb875a85b37b90f29d130218c0545167942116",
+   "enUrl": "8d28f9ef66950e0e28a7c05ea1fbc14ce2e575c8f64027a7c98efa754cfbc45a",
+   "krUrl": "bcd3ac44ac1ffab2e649cfbf2661ffdbf121f347532896b4d99506c4ce970930"
   },
   {
    "id": 54,
    "title": "回合開始•二",
    "text": "哈，不過是條雜魚！",
    "unlockRequirement": "",
-   "cnUrl": "20704e33ed87fc29009f64095982fbdb4816d07b3edbb2a41c773e47c73e917f",
-   "jpUrl": "843ce4d690d8b83712373184f6f4eeb6de6888525a1107bb71177127fc9cd4a6",
-   "enUrl": "bb567dd8d0873c260635182cd0750a87d69596ebee3b3ae180d8490e6074aab3",
-   "krUrl": "7431c7b371912b476471da05e98f60fc27bed5f1b72c079b350a3203096db40d"
+   "cnUrl": "b574267ffbcfa56fbe6676e22f8431dbc57e8aef90b67edf74b01c2557ab00b9",
+   "jpUrl": "599c11d10680e8b1c80456ccae322819a7e8071ba29f2de4277a6e91ddd98b2e",
+   "enUrl": "59e191931f2759131fe7bb6c4c8aac19e12784ff67432bb25b626e3781f24e9a",
+   "krUrl": "83f2d146acac560d99ec128333243860b9a2104b05423639262df1857fe2bc56"
   },
   {
    "id": 55,
    "title": "回合待機",
    "text": "再不出拳就晚了，夥計。",
    "unlockRequirement": "",
-   "cnUrl": "d2da70944a44a118e7c26de3fa77937de126f33f1fd4817e56f3ff5085229f6b",
-   "jpUrl": "f471d7a17046fb2083988e3b04294fe9b1f5438691d04de3ca690792c2343067",
-   "enUrl": "d204fa4a03bd9cea06967eb2ff492cc9d41d072466829363df91b30201a1e33d",
-   "krUrl": "f03121184503a129ea92b4d97d36be9259eb698ce34535992c50c5a199f031e4"
+   "cnUrl": "62624950df93abb791a1827522fbf14fd66339f98444a62a0745ec7a41c2e121",
+   "jpUrl": "c32210e285db0ea9329e7fbad0b8fc867425b535e6f4076e49d8c1a6ac059e59",
+   "enUrl": "b054402a64f4ada0fb4c8fb933a74c58db8ad597e5bad98dd94b2704b7376044",
+   "krUrl": "7268a58a66eecfe5aa62d1c1ce6d4a95b887373551795ac836a431aa54bcf0d1"
   },
   {
    "id": 56,
    "title": "強化普攻",
    "text": "這一拳——送你回家！",
    "unlockRequirement": "",
-   "cnUrl": "2b9e7e0bbc95e0c21c5a244692a1513599a603e55084917ed56c71b6d6e258c1",
-   "jpUrl": "da43ab9fcf7bafec864901c582d4f4f76b794551fcc090125724fb5c0fc27dc3",
-   "enUrl": "a9ecea4da28658db2c65409f2880461f8412319c3c6f07f83a2bf81f3ae63b31",
-   "krUrl": "e506a2ecce4399e84683ad17dc34168601cab663f9f5d3eb541d6ca9dcf8356d"
+   "cnUrl": "1e07780c32bbf4ad89a94ec434b34095c2d5bdb3638e921e64501ceb79becabb",
+   "jpUrl": "393be5013b4759bff973ea3c31892b727e8b5d2c244dd6776b8a5fa4d4ec2a2c",
+   "enUrl": "d68f19a15942c933ac4bfe3cc8c26ea816e36e0e26ddaacbe67c26c0b0f8c2c1",
+   "krUrl": "3bb7af6976769cf643d69db1add377ec849b66ff024287da739b174511a66bef"
   },
   {
    "id": 57,
    "title": "戰技•一",
    "text": "很囂張嘛！",
    "unlockRequirement": "",
-   "cnUrl": "88241359dc8173798e3fce9c49b9fcbc2d1e72c9d1da1c856fcf837f4bbdd5b8",
-   "jpUrl": "9d438bfa2cb6de1febd8a07e10697b6be8b7b9f68ffb344188e7fca1d1e03416",
-   "enUrl": "c4f8d114215fdca6de38ea55071c8f75a4413299f0f574bf30f3f58f3dee5315",
-   "krUrl": "7451b511e02d0e44cdbc6f7a8b290551d5b948f5d62fea827907b1cfb148fdd7"
+   "cnUrl": "53eeee6c76f6c91a82bd67b403e41f486b04be697cce76c2d26daff63866f79d",
+   "jpUrl": "f8c23f52da9e6fe42cd90ee6347992de631e9b8539731813cff7921a1c0e0738",
+   "enUrl": "d1211620de04045ab87d5511e8007e44c66958e5577576aeb18f8259ed27461f",
+   "krUrl": "cb94bf0c556195a459472fe4527528e4582ebb7ea7140b8a05107053e3d562ad"
   },
   {
    "id": 58,
    "title": "戰技•二",
    "text": "別走神了！",
    "unlockRequirement": "",
-   "cnUrl": "561be153a4812cab70e8a331dc8a704dcef80eae6a78c82a6e06fe0941511f80",
-   "jpUrl": "4448cb1b1bbba2be0086c75f521a71ffdce607b9a2f9696a1b03579bc8975b47",
-   "enUrl": "e16ecb745fff2b2cfe28772cdedeb1eed706533e0f6bf563ce200e92824a7977",
-   "krUrl": "eba946e48525e33956600457a63194fc0a56cc1f22460b462e55b69ea88543b0"
+   "cnUrl": "d3723c7c89da7f4f0da1882ef35e2130089f05c4aa1e352286fc474e67f6b12d",
+   "jpUrl": "a66786dd7d0d16209c5acadb4e9a447876013a92bd9517fc98bf36a88fab4e99",
+   "enUrl": "99c731b534deb8b96eb9c3dad01e5123ab378eea7736f3bd751ef302720a4906",
+   "krUrl": "6ef9207f16e20da4c0ccac118aa7341dc177ebeb417b1b2ad261458df17053f9"
   },
   {
    "id": 59,
    "title": "輕受擊",
    "text": "…小意思！",
    "unlockRequirement": "",
-   "cnUrl": "b061fa59eb5e81fbb5cbf2400a7f356286ebfdc8626aac64d17549c55c89ad50",
-   "jpUrl": "c72def54f1a86001959786a741712512983818d51596736a64b48f0adc519a6f",
-   "enUrl": "3bad140ee16af97d7ceaa2e2f18d0d17ab71de36b9d2eb8bfc47ab30ecba42f5",
-   "krUrl": "b469ac1ba7d57d6812cd9fbba16f204aba44dac633de0466d43ee53bb06aeb19"
+   "cnUrl": "5ff258bf7f136629630de6087e36aeba9fe314d1bd3d65818cd74b8f787e8c00",
+   "jpUrl": "de519f2e5ba278b001b8e91586792406ec83946872fe3daa92d1b81e2df584d7",
+   "enUrl": "618e638e94270b55b4ba0fb0c168ed93a9de0b9817a4ab8d2490a1342ed01980",
+   "krUrl": "06cc76352be583250d0a2430db715a1d8fcdbc429097ccec1cbdb036b9293f98"
   },
   {
    "id": 60,
    "title": "重受擊",
    "text": "…有點意思！",
    "unlockRequirement": "",
-   "cnUrl": "dc1259afaff781301a179e2a5d1151a56d982802acd6af876683d8b54dff3936",
-   "jpUrl": "c20f7ad83f7445f3f8daff87e23c7490a33e22a6bdc47bba8908aaa410b1c916",
-   "enUrl": "b56f97d8c9d1c8397a61674a18a975a7137fc71f227033fff1fdd1cd6e516572",
-   "krUrl": "f3d1ed9a3b2eeef8f0e6b756b867894eae13d716d1a02f58aef987784b7d89cd"
+   "cnUrl": "bc03c8abf9a4cfea1dce8437b0f534532e4981868cdf34ba00767562a5d5bbc8",
+   "jpUrl": "7a872294dd55298af83a01430246a97a2fb9e7a78a872c1d374b26f47f0c0207",
+   "enUrl": "2d6b1f0d6f7de025335cf79e5914a41f96f6c8a6fa6cf79ef67a2d9f90a1eb0e",
+   "krUrl": "c85568b60c6b73d4bce553c849ac64479f127e7f76eeacbb39e9a4e1b4e60fff"
   },
   {
    "id": 61,
    "title": "終結技•激活",
    "text": "歡呼聲在哪兒？",
    "unlockRequirement": "",
-   "cnUrl": "c0b28d8b25d4351d93f1aa24aa3ac45b8c56bdacbd4c6dde3181ae08326e0942",
-   "jpUrl": "5c28e29629631ca2ecdff6407c59d041edde133dd32973fd8c6588a0b8f2d8b1",
-   "enUrl": "84f4e17c077e81056eff7936e541e525bce2ffe66a7906df00852ae416998684",
-   "krUrl": "1a5262c511450ae6b578c6767123c0af49cb90f9e5b98820ca6a5a2438499537"
+   "cnUrl": "edcb6086a03c44348df2a6403180e7ca6973de0405feccd656dc09a604292ec2",
+   "jpUrl": "b24a9f35405bc2ee6dcf8e8cf9cc746702fc31e8a81c1d5846803cee71e7f331",
+   "enUrl": "2bbf84f57ad960f87f00bc2ada0ee6eb069a4b7a8060f1f12399e83534308d5d",
+   "krUrl": "7e2cf329aec314e68a63ba14cfd680b6aedbf06a7519a0851538ec462fef4348"
   },
   {
    "id": 62,
    "title": "終結技•施放",
    "text": "值得我認真起來的對手…見識下火花四濺吧！",
    "unlockRequirement": "",
-   "cnUrl": "a67067000724da17baf2b78657688e5e5b20c2f440b6c73221e9048b93b45da6",
-   "jpUrl": "58c093902f9d6e20fbf259b41d22a5c80ebfc5202c4ea117daee0f7c7db6ad95",
-   "enUrl": "731083cd943f1f944df585952b6625a8b96584172fefa96f97c1970362634815",
-   "krUrl": "a5a3331bfc9644e96df6bab09a9e7d278a41e026e930d028d58c96d0873ac4f9"
+   "cnUrl": "57f11347b4f75b50f907a49c57ec9628037a257b91ea68fd017588bb8aeea05c",
+   "jpUrl": "0b6e7c7a18adc2d302de6553b1f3b7ef70bfa66ac3b07c57c46e0c821425eccf",
+   "enUrl": "317926e2ba5361653d66796a3b8175e3446b05ab79f51f2c04e4b80f4b87c2e6",
+   "krUrl": "5a2f6b140bebbd127d7b05c9e5a4b554b946803f547ff95d1a6d8bfab5bdde72"
   },
   {
    "id": 63,
    "title": "無法戰鬥",
    "text": "不能這麼狼狽……",
    "unlockRequirement": "",
-   "cnUrl": "a79a1a2eca9dc7ac421f89e3ac716d17eac8dfe9954defbc883708952ccd0acf",
-   "jpUrl": "606289b6fd2104509cd4b8a380353d9b0fbedf2d16fddb0bb4670d5abe21c352",
-   "enUrl": "82cda434608cc284e197ae6eff0465ad0c317251cd6d1793d599d32aaa0a7572",
-   "krUrl": "0594e24cf1b47f5cc0ab0eb4440d285880ed86c5c5e2dae8aacd3e5d2b536459"
+   "cnUrl": "522b734c48dab11242bf99410747255ea6b3fab212b69b6da89821c1c00078ee",
+   "jpUrl": "770387d9421f2718070ea4ed42d245cb9aa5feef6c2106a699b66cb51ab48963",
+   "enUrl": "9f2db8bd1e20426ce3f0fc11243cbb7b7c3f0798b7e7e42f34951ea7d442a1d6",
+   "krUrl": "c3e0f68b917921edfb5c6c15d862577cea65625539868258a127646d70aedf80"
   },
   {
    "id": 64,
    "title": "重回戰鬥",
    "text": "盧卡返場！",
    "unlockRequirement": "",
-   "cnUrl": "4d71d4b06bbb199151aea99cc012bdf132054655e9dbae1e8ac18a28c96130bf",
-   "jpUrl": "72391bfc21d2214529be1bf28d5a977f03dd052c403654be8b08627c5d5286f0",
-   "enUrl": "7199cfef79a4443adc87b79e88967cb070c3c9335fadb7c06ec30d16cfea3da3",
-   "krUrl": "473079ed8cbaf0c0305f1b121dd41c4717154f95753ce31179f04b5479192b8b"
+   "cnUrl": "ef572e37bdca431dfa4bf61832d6bfb3894d7e2650c615fbe6e6c689a0811b8a",
+   "jpUrl": "1152483b7ef45261ecd14d6f64f51ec1940c978c958ae032058e86020c0f9c69",
+   "enUrl": "80f67733f1e1d14d2aa3f481f5dfad300bec21b22c97f95cbd658ed68040b70e",
+   "krUrl": "a42a525e2f8a30886145a28544732a7c7b83aeeca6357aaaa11e3289730d6e40"
   },
   {
    "id": 65,
    "title": "回復生命",
    "text": "背後就交給你了！",
    "unlockRequirement": "",
-   "cnUrl": "8c61f62c1eecd954c8d32372d5c13cc1ba480f4b236244b6e25de33cab756e74",
-   "jpUrl": "e620845eacb2523e9c09d3cff3fe52cf12dfdb64c8794a478a5eced08769e2d9",
-   "enUrl": "93cd3ea7a4cceff1128d252e9203e03e7356b2d9b61b3afc20121c9c33336a1b",
-   "krUrl": "c4bcff6a32f8ef491cb20acd68034d3431572de180521a387544011982d5b5ec"
+   "cnUrl": "a789ac99ca8443dd24911a8d5140e86683cf2e6b7c1561e3318e69cac0e7bf91",
+   "jpUrl": "d94f3e86f4cbb1533f96d89bd8c960ea74b3b046f421da1967ed1ace4885773c",
+   "enUrl": "ad701e9a99192af5b79a8cea78dbdd4f1edbf810f7c7bd9a77d89745438240b3",
+   "krUrl": "9d0014abcd9cc4a5a9c84e529878f9490653d813e3c54dee5d42bd7ad3519854"
   },
   {
    "id": 66,
    "title": "祕技",
    "text": "先發制人！",
    "unlockRequirement": "",
-   "cnUrl": "2bda296de17bbd6dc645a23ff86fdfeae67345529090bff03fe589e48e025b0a",
-   "jpUrl": "4db4434fbcf1a4fff6d02042bb5ed39938c3c6ffd39b74dfcd778a1b4616e259",
-   "enUrl": "21eca8169d6c4c3fd8ff90533f372eec7a17274d0005db487937db8419d45fa8",
-   "krUrl": "ebce73eeab6885a5d73281fc59a651d5d98b93ddbcee09c3caa3d278e3a91886"
+   "cnUrl": "7c03037685f52d1ba74c7fda252464ebeb67ce5f34a97f914b2ffc4254e6ae67",
+   "jpUrl": "df6b346146b126ced0e49a7e7f2c9e285d09e0471bb33b5fa64af4b1de75d060",
+   "enUrl": "75aa5ea20301a07c74b31a5493b5d926f210b9b07025227c156b387b2c7710ba",
+   "krUrl": "403b5cc6847cb089706ac760670dbd9b66788fad2d80adf3dde1134c29de0cde"
   },
   {
    "id": 67,
    "title": "戰鬥勝利",
    "text": "知道冠軍的含金量了嗎？",
    "unlockRequirement": "",
-   "cnUrl": "a3d84a508d4379b9ef38e11664f67fe2700a2e09096045e727edd1b30623fc67",
-   "jpUrl": "d785b056db049a87e8cdf96829f3a6757ef0f86e6088dd423b1f246dd1d2d173",
-   "enUrl": "79a6d9db3136436bae8611e9bd5c7d1aeb0a3ffab36bcedace41ccb0a9adf367",
-   "krUrl": "c343ea120c35947dfd02532f1fbe9ae3917b443cbf5cbb7f39e82010330c48c1"
+   "cnUrl": "80ab3864706dadbe84e8ab533509dc2947ef9b825afc9bf66040f3a9a88186bf",
+   "jpUrl": "61f7c29d3dfb415db430d2314a938672a9bcdc0390e1807e7f8a07bfd69233a9",
+   "enUrl": "dc81de5af286b075d2c64ea4530a886aaaa9efcbf26b074782a9c9eec651234e",
+   "krUrl": "b9e50785c0bb7dc23593f46af35e14580ffa7a3b36705a75465553b4971290b8"
   },
   {
    "id": 68,
    "title": "開啓戰利品•一",
    "text": "嚯，還有意外驚喜？",
    "unlockRequirement": "",
-   "cnUrl": "c6ebd988e5b502789cf0f4f8d608d5b339b96ae2eadcf0fe4c2a17d43e00d9f5",
-   "jpUrl": "bbab737fa8015bf7808aa265a1aed6a0c0140a8c22f758396e6fadf13318453e",
-   "enUrl": "189f4cd0b3e3a810427c2f082acac4c827d8712589f363a58712aee110fec7f1",
-   "krUrl": "cacc3d78ba5e7e46e280f66e857858a3b6e0d86e39822564f8405ff522eb5afd"
+   "cnUrl": "f2525953a5ab6e18e307c49ae512af66abee75afd3e6bd8e09811af72d460ce6",
+   "jpUrl": "c7a79490b61212b576711672458f89c4ad14183802d1ae4d8fedfabbd0100356",
+   "enUrl": "87aa95316245857a9f0204f8f0ec7cc938efb3a96a681ab76102baa955453af6",
+   "krUrl": "f55f8cefdb4bf7feb8c4ec87955f9ce954ebe3d5d08ad743f7d7a405cf90142f"
   },
   {
    "id": 72,
    "title": "開啓戰利品•二",
    "text": "啊？就只有這點嗎？",
    "unlockRequirement": "",
-   "cnUrl": "5670489f193b6ac9a06dad04e874ba8a31b98ec51bf23f1ef3e0c1c0abace672",
-   "jpUrl": "6cf43cf71868660a2cf7b33667d658f0ace8bd88567b44afe8d1fdca5485ebe6",
-   "enUrl": "c0bbb8e96ec02df03ab3c2454b17188f47cb6f685dc0c1f579c5b68d38f0b736",
-   "krUrl": "a2f8dd700dfdaa9374e455b5216e0f0de872eaad63ba6bba3986146d0a05825c"
+   "cnUrl": "57e12a5e67e38db0ad945f50ce758c39e722298a577b4ac2e048515f7a450008",
+   "jpUrl": "82d32e2a639932e0b45a6c5a3faff7b4032fe72dd07a399e6c4cdd90749b5ca1",
+   "enUrl": "ff4a07d4e697bc30fb93ec22a74d54d7a71d40f6c3fbfd25bd20c3396d77c44f",
+   "krUrl": "2c9ec48a519abecd5a797e36734ed4a43ae1835a842c8fbc2eb223fb6c568975"
   },
   {
    "id": 73,
    "title": "開啓貴重戰利品",
    "text": "這次賺大了！",
    "unlockRequirement": "",
-   "cnUrl": "6cfd2f63298a80ed7d66500f3a6dcfdf5b9a9461747a9ce7da9cc02310f7fec9",
-   "jpUrl": "86d8b1ab23e608c4e0978aa0a039d3e219439fd2eec54254319308f93ff59a85",
-   "enUrl": "b073ea76cf1a8e15d55f4f9d4660675d8b7592cb13135d63eaae45045410bba6",
-   "krUrl": "11ae729292ee45b9838b8f0de46ef23c6d0706d6f1471fb5e08a9e72af9add1f"
+   "cnUrl": "a7e4b0631b35591d4630a1dd82f1711f97caa2e91080b444bac9ed7a83e97a2c",
+   "jpUrl": "b82ad450525030a48765133f5fe2de4228b02deebf2fd843fec6ac2b8e4d641a",
+   "enUrl": "d07e366e28ff8052d9c5ee0b7b55f76baa3e484fc724ea947e891dc6110d4a58",
+   "krUrl": "b991b034bd19edea18dc6a96aa329a9e0dc7c96fa687fd2596c0f6a2247a0f88"
   },
   {
    "id": 69,
    "title": "解謎成功•一",
    "text": "四肢發達，頭腦也不簡單。",
    "unlockRequirement": "",
-   "cnUrl": "59b19d41a73d24569dcfacd7840d58cf32a6f75a81d902e83be92182ab9f0289",
-   "jpUrl": "d502d1522cc112b9c070a490514f0c9a50628bc88cf42a0e9c4a2b63e351b842",
-   "enUrl": "f97fb86198f8dc53f1934457aa6ee14eeed4448b1e4cfb36b7386b3cbcd92f28",
-   "krUrl": "496ec06efd73d61169c106ea5f83b23ad12d81dc2662ba66c15aced27cd95a88"
+   "cnUrl": "ba860ccd87f8b6a50a63b0bbb02e023e002de7659c33aff329202ad59dce276d",
+   "jpUrl": "b3698cb78d1a5b91482aa70ba155f7004a98913d6c3c1b9addbcc67e2333ad43",
+   "enUrl": "1a0dfeea57b00b06a7099802f57b7c097c120bcc0a342150d7d04ac531edd956",
+   "krUrl": "a051bbded7c76b4b9583b4f04077dc560113d9b1b1eb25e21d1047242cc4a724"
   },
   {
    "id": 74,
    "title": "解謎成功•二",
    "text": "嗯，還不賴！",
    "unlockRequirement": "",
-   "cnUrl": "f3f58305c572c1064fc0123f405f9f195633e8143342d1708e92aa406b058904",
-   "jpUrl": "6d8524762c7cdb0afea16ff721acb44a45ff25b11566e9353833d087b68a7ff2",
-   "enUrl": "9ba80b8296f7547634aaa02e74eb8f3f5a8bbea3bcfc57d02bebf4809c174b3a",
-   "krUrl": "a18cd18eb7a66b87aca9b5e4a1fa77cfe07f574e662483c54888d445c224ca42"
+   "cnUrl": "9afa01bf7a3f6623d9b558d777e6e2774cf28dca32afc2054089fd5d92ecea1a",
+   "jpUrl": "2ef75cec247a34b11d01b45380f93c8b943f353d88d448d449c2077318e70aa8",
+   "enUrl": "c5605f2a2f2d463be30b9479bda3c9ce6ab7f186dc2093a4f947b0cf96d81171",
+   "krUrl": "3d56d1e98b32e7d5f85746bc215ce41c1a4606fca73efac99642fe20e2a51ea3"
   },
   {
    "id": 70,
    "title": "發現敵方目標",
    "text": "哈，開胃菜來了！",
    "unlockRequirement": "",
-   "cnUrl": "1b17ec32add70ee1865765a5ad6c080c8513ce68b9620e6136d2e8af54dd361f",
-   "jpUrl": "8572fe13f63d605d339267a8286d316a6862e697d1ae4caf533d8698d0185786",
-   "enUrl": "3025046a7c5ba4fc7a278734b3532212a4608493098c5a1a3ef711b1fde8cac8",
-   "krUrl": "71aa8b3823ce5351e5b214a94ec937857dd451bf8d6e0495e604871424ef34c8"
+   "cnUrl": "ed3334161dc35b02c61cfed62f826a0c3453ec3dbf30c2baf4bae02d05ef5723",
+   "jpUrl": "6dc99289102b3320731eb626059d5ca70417ece9c4324a058b7a7d491931fc1c",
+   "enUrl": "b0459d3594bc510febee532921ed263dd52699e7e20465efab4da8e8a16e8f1a",
+   "krUrl": "08502de853a0613a0a93380f1d47ee66564d9c2128f03e29258aec673be0cdd6"
   },
   {
    "id": 71,
    "title": "返回城鎮",
    "text": "想找地方躺一會兒，放鬆一下。",
    "unlockRequirement": "",
-   "cnUrl": "13d08e7f6d5c0421045acab48c73ce82877add016158cf7f91379aebc5aac3ad",
-   "jpUrl": "c813fcd61f87fe9ef113e4e0a361d0a4f7e565739a6a3a5f8df667590cee0dd1",
-   "enUrl": "07ec2d529273f403e1447054d202353591405f875f3f2230fe8cf3104300e328",
-   "krUrl": "55cda9f4c8f6c33cc3ac69cd50eedcd8c1ab94bfab51e7efd3bcd533d4f3bdc6"
+   "cnUrl": "c508b290b774bb2bb03997c1cd8d4e005aaf24809cc08d9bb6c4a3b562e9f4e1",
+   "jpUrl": "bc38fa22a656754719b9c11e62a4439cc52cfa21954a40915a596b799d973778",
+   "enUrl": "1fdd1f88caad1da82852ad65ce0fcc7b96e0a8056e4d84a4a113e43b775cdc8d",
+   "krUrl": "a451e9bde166ba5d84d45184ef77f2879418163591e4c8e9fad211e38154358a"
   }
  ],
  "storyItems": [
@@ -2942,19 +2946,19 @@
  "name": "盧卡",
  "rarity": 4,
  "descHash": "貝洛伯格下層區的冠軍拳手，「地火」的得力幹將之一。 搏擊俱樂部的蟬聯冠軍，以自身的熱情激勵着下層區有夢想的孩子們。",
- "artPath": "22fe1d85da647081a7020c5d3f6cdec5f585da751d5ac221e421de98693859d1",
- "miniIconPath": "61b8b675bd32da196574175aa1f21165e79196dd77afb6436717fb4089383b2b",
+ "artPath": "75fc42c99e7464d6eb4adcde6972014357a28249e0cdc0f3911b804809d79584",
+ "miniIconPath": "3a237062cc9b86bcb03f5930622f294bea42773256697bca7265d1a63e920a43",
  "damageType": {
   "id": 1,
-  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "iconPath": "e21edc60ff709336831c1f18a58ad77fbe2cd85ceb630f7e87463545a4057bbc",
   "color": "#FFFFFF",
   "name": "物理",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "96c3b8dd457b98955d440531986a23d509f705c13d7aa794d1e97bcfd03d5701",
-  "altIconPath": "b55d340138ed77756cd939d0d9ee2103a5398f999202c1ed19d092ac87333155",
+  "iconPath": "2e8dee1b2516e0376a0ff1ec3cf5cf7d2d37bd482cf5efb5cf79367f9d2be218",
+  "altIconPath": "61e195ac81b36d68bb63480397b0f78505a2cd8c8970b059540187a975563a72",
   "color": "#FFFFFF",
   "name": "虛無",
   "rarity": 0

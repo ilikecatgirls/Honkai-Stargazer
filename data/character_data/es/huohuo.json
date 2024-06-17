@@ -1,19 +1,20 @@
 {
  "spRequirement": 140,
- "iconPath": "83c240648aaaea3962c2617d6fa0b0d11c7666484cfd54d741f52a76b17f9502",
- "bgPath": "d4b5845e5644a201b27b16fb99fab428d96dbac962ebfb5d7f51d8b4316e60bc",
- "figPath": "9fba5ffc6f98a5945fc313a346149e3fbb30f4cee07aa62958f4bcb07fe9be6e",
- "fgPath": "4b1cfbc5b305d164e938b9c2c815bbfcf0485111f11f2c1ddb0b1c4ec0f20b21",
- "splashIconPath": "3141145ff01b64a112779ff4ce22ff319f8669842632a304f1887baa51b45661",
+ "iconPath": "a2a8c369c1a84fa361cc1775271007672546e9657aeb16068d210e6d044ae758",
+ "bgPath": "5547516e84231cd57958dd5ca51e8fe60d05c4146ae568bd166053a693481a43",
+ "figPath": "7f6a5e26afb880dbf2317c05a228ce865c44f768f7f5047842145974ccc90937",
+ "fgPath": "7a5f42e0add0a6cfcbf841808df509b8cd3c0a20d63ff30d2a827602552576e6",
+ "splashIconPath": "7a2ae049496fc866c9b267b8d12c6c1f856928571ffc9ecff27b383aed084528",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRrQCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSB8BAAABkLtt2/G38q/3i23byWzbSW3bmN1OnLPV7abJtm23kyZb3/s8ww8RMQF4GnAAg7+GxhQINhBCkOMliG59vjmZnMikDLKLMeAQ+kxVNxAwZmQvyQMB4FBxXd3/1i2JKqe+P3Wog4GTakWsXh+/vy4qZncTDpGjOy+oK2J1z85daxrWVmIINpO+qRXPy4+XHl4xNAio+KSueNU3++4+KgIq3ourXvTbB7UnaguC0jvvfVHrRVStrGutTx4Vs+yaik8rsngszGL2n7/qQ/SvbIGQurt/VPz8L69PV8OguD6sWNVnm9Id9qr97/7/Z0XV6vEFcWDovPVNPe23d/owCALxLJt64OXgW/3V2pxNoAEwAOFkjJuWCgafJhACAAINngBWUDggbgEAALAHAJ0BKhQAFAA+bTKVR6QioiEoCACADYlsAJ0y4393NbkUYDbjXaN5AHWYF6slpfslqHIWzFAcoiMLSkqY1S4KB6VeIgAA/nGxyh/n9I1PQXkFArAalJ7w4qGdGIMPttwkzjMca2tpcZ9VPP52ZIKx+v5LLx9EdP7AkTP5LuNiDPz8DGjb7IAOddbir1wZbUf5usf4Lc4UCvwdGdIquqqzRra4zu5CW6/gRqfykrcNwBSNoX2pN8AIYzhbLJBcVQMIVkXEqPU0KdLhtGd0qiwe9y0gOJqEIOr2V/iTh2n7geAIHEn6npFeJWDG+GyZjYGMxdWC0QN8alJvZm2E6fEk/T/nSzLtKWP/ASvbmj+Cf5/9JOGSFJZqL/sQJMlrbC+vnRjLD32c/vwkPAtpMsPmnuUZH7/zoDM26SYYB/5wORXSuIgB4WT+2uVD5LAJJqlnoVA++zbpZ6kr76MxZe0lHVMqBzHhY8AShAAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 7,
-  "iconPath": "232bc80b207d7be892c4e0c41ea43b44080e51373e3c4f6f0f2f9e0eb4e03194",
+  "iconPath": "f54e3ffa38baa511bc4cc66b3da1288637334270877ebd5c2dafb56090c5ff0c",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédito",
    "desc": "Divisa que utiliza la Corporación para la Paz Interastral para sus cuentas con los clientes y que se acepta en todas partes como moneda de los viajes espaciales.",
    "lore": "\"La gente corre, se pelea y comercia por algo que no son más que números en una terminal, pero lo que es verdaderamente valioso no se puede comprar\".",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Huellas del destino",
    "desc": "Material avanzado de mejora para los Rastros.",
    "lore": "Un fracaso tras otro garantiza la victoria final. Un paso tras otro acaba llevándote al punto de inflexión de tu destino.",
@@ -61,7 +62,7 @@
    "id": 186254,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "9794d4b9cee70ded671331e6e9eec06326dcb9428d59540d9960f2a0bbea00e1",
+   "iconPath": "cf2788ec5bdb2c1137c8bdf583b557edd00667b1f629205eccb2a92e506b62a8",
    "name": "Arrepentimiento del eterno vehículo del alma",
    "desc": "Material avanzado de mejora para los Rastros.",
    "lore": "No importa cuántos cuerpos capture, sigue sin conseguir lo que quiere. Al igual que quienes buscar el elixir de la inmortalidad, ansía un cuerpo que pueda vivir para siempre y que no necesite temer a la destrucción, pero es consciente de que esto no es más que un sueño inalcanzable.<br /><br />\"He visto muchos mundos devorados por las llamas del Imperfecto; yo antes era una de esas llamas. Danzaba a una señal de su dedo, pero en el fondo sabía que el fuego termina extinguiéndose cuando se acaba la madera...\".",
@@ -76,7 +77,7 @@
    "id": 267806,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "b58782779268cffe0f8c8873690ce14c5a236ad8d2986a9d8171dc8ac6d49cdb",
+   "iconPath": "17c4281a58775f0d316035a01c93a944f5bb097ffb24955f620adcc19dc03169",
    "name": "Vestigios elevados",
    "desc": "Restos de La Elevada. Material de ascensión para los personajes de tipo Viento.",
    "lore": "Originalmente, La Elevada quería dejar al mundo un legado de bondad, pero cuando los dones de la Abundancia se desvanecieron, la comprensión llegó junto con la liberación: nunca había sido más que un cuerpo mortal, de carne y hueso. Su capacidad para desplazarse por los cielos solo era una ilusión, y lo único que quedaba de su existencia era polvo y suciedad.<br /><br />\"Yo te maldigo, Señor Arquero del Destino...\".",
@@ -92,7 +93,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Guía del espíritu viajero",
    "desc": "Material de experiencia para personajes. Otorga <nobr>20</nobr> <nobr>000</nobr> pts. de EXP.",
    "lore": "Lectura indispensable para la exploración. Pulsa el botón Leer y una voz atractiva empezará a hablar en un idioma que entiendes y te contará las vivencias legendarias de aventureros famosos de distintos mundos, así como los valiosos conocimientos que adquirieron.<br /><br />\"El nuevo volumen de la serie Guía del espíritu viajero, titulado «Manual de gastronomía intergaláctica», saldrá a la venta muy pronto\".<br />\"Para enviar un artículo, conéctese a la baliza sinestésica ERD<nobr>-23</nobr>θ y contacte con un representante de la Sociedad del Conocimiento. Puede elegir la forma de pago más conveniente para usted\".",
@@ -110,7 +111,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Registro de aventuras",
    "desc": "Material de experiencia para personajes. Otorga <nobr>5000</nobr> pts. de EXP.",
    "lore": "Colección de notas instructivas muy bien ordenadas. Contiene numerosas ilustraciones y textos que describen aventuras de principio a fin, así como información valiosa y técnicas de supervivencia.<br /><br />\"¿Por qué no lo digitalizan y lo guardan en un disco fotolítico? Sería mucho más práctico\".<br />\"La tecnología avanzada es mucho más frágil de lo que crees cuando tienes que enfrentarte a tormentas estelares o erupciones de neutrones. Además, seguro que quien escribió este libro quería que la gente lo leyera de la forma más sencilla posible\".",
@@ -129,7 +130,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Noticias del viaje",
    "desc": "Material de experiencia para personajes. Otorga <nobr>1000</nobr> pts. de EXP.",
    "lore": "Diario de viaje con una caligrafía ilegible y un contenido completamente aleatorio, por lo que no te sirve de mucho.<br /><br />\"Dan Heng, acaba ya de leerlo y luego tíralo\".",
@@ -147,7 +148,7 @@
    "id": 549504,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "71d58f084522c87e93327e3e7fc1db8fb4abb65e9989b163d4a348c9a3761329",
+   "iconPath": "6c179a11ddab366162a8539ea956319bacacb460c375d4b3d7f4ab3637918e75",
    "name": "Brote verde inmortal",
    "desc": "Nuevo brote de una antigua criatura divina. Material simple que se usa en la potenciación.",
    "lore": "El origen de la vida infinita de las razas de larga vida de Xianzhou y un remanente de la influencia del Eón de la Abundancia. Hace muchos años, el deseo de obtener la inmortalidad de un emperador causó que la flota Xianzhou se echara al mar estelar para intentar encontrar esa vida inacabable.<br /><br />\"Deseamos vivir para siempre y mantener el imperio toda la eternidad. Por desgracia, la vida humana tiene un fin y nuestra capacidad es limitada. Por eso enviamos nueve naves astriger más allá del cielo, para que busquen la receta divina de la inmortalidad\".",
@@ -156,6 +157,7 @@
    "rewardPath": "/material/549504",
    "comeFrom": [
     "De abominaciones de la Abundancia",
+    "De enemigos en el Universo Diferenciado",
     "De enemigos en el Universo Simulado",
     "Recompensa de encargo",
     "Canjeo de Ascuas",
@@ -167,7 +169,7 @@
    "id": 633445,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fc1f8e93b552510a719e96df3c4e48ace4f905d262668303315d785b951a7c04",
+   "iconPath": "d1124c0146a84ca0b7fea540fdaf95e66dc3e8f128ec5a9f9250b388c8183db8",
    "name": "Flor etérea inmortal",
    "desc": "Capullo que brota de una antigua criatura divina. Material corriente que se usa en la potenciación.",
    "lore": "El origen de la vida infinita de las razas de larga vida de Xianzhou y un remanente de la influencia del Eón de la Abundancia. Tras incontables dificultades, la flota que buscaba el elixir de la inmortalidad contempló el rostro del ser celestial. El ente divino otorgó su bendición en forma material y del Árbol de la Ambrosía brotaron nuevas hojas.<br /><br />\" Los brotes nuevos descienden hasta la luna, las flores divinas florecen junto a las nubes. En lo que tardan en desprender su fragancia, la madera vieja vuelve a verdear\".",
@@ -177,6 +179,7 @@
    "comeFrom": [
     "De abominaciones de la Abundancia (nivel de Equilibrio 2 o superior)",
     "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "De enemigos en el Universo Diferenciado",
     "De enemigos en el Universo Simulado",
     "Máquina sintetizadora multiusos - Intercambio de material"
    ]
@@ -185,7 +188,7 @@
    "id": 635671,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e1b0a1a8ab4a806daac48e2e5de6c69a9a1aad87f950c5a4c92c9513dd9d6b9",
+   "iconPath": "9c646329c4d4e9b8cb867e7864ce74f4ca6d18e611b748c516c1a5f3334d04b6",
    "name": "Semilla de la abundancia",
    "desc": "Semilla de bendición plantada por la Abundancia. Sirve para mejorar ligeramente los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abundancia</span>.",
    "lore": "Quienes la tocan ven cómo sus heridas y enfermedades van curándose lentamente.<br />Quienes rezan y piden, desesperados, la bendición de la vida, siempre recibirán respuesta a sus plegarias.<br /><br />\"Se te otorgará lo que pides\".",
@@ -202,7 +205,7 @@
    "id": 717386,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5708b196a8af89740ced588d98dc414c791d209879957fb0bc8644cc2dc84adb",
+   "iconPath": "fd7a32682f691044c47ac3a898e66880b2f442ae41c7264f87c4101558550161",
    "name": "Rama gloriosa inmortal",
    "desc": "Rama caducifolia de una antigua criatura divina. Material avanzado que se usa en la potenciación.",
    "lore": "El origen de la vida infinita de las razas de larga vida de Xianzhou y un remanente de la influencia del Eón de la Abundancia. Tras las tres desgracias, Xianzhou quedó devastado. Los homo celestinae se convirtieron en demonios y las catástrofes se sucedieron sin descanso.<br /><br />\"Por orden de la Comisión de los Diez Líderes, todo aquel que parezca estar a punto de ser poseído por Mara será arrestado y encerrado en prisión\".",
@@ -212,6 +215,7 @@
    "comeFrom": [
     "De abominaciones de la Abundancia (nivel de Equilibrio 4 o superior)",
     "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "De enemigos en el Universo Diferenciado",
     "De enemigos en el Universo Simulado",
     "Máquina sintetizadora multiusos - Intercambio de material"
    ]
@@ -220,7 +224,7 @@
    "id": 836257,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "e08699257c4a96a135b4467fd8eba3917d5734b2c943ac631d2a39ae3c4ccb37",
+   "iconPath": "969a6d57c217f2b43cb2d1be96d5fa06a30b8ca9834ec984f0649d019d666b13",
    "name": "Flor de la eternidad",
    "desc": "Hermosa flor del brote de la vida. Sirve para mejorar en gran medida los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abundancia</span>.",
    "lore": "El pistilo de la flor contiene una cantidad concentrada del poder de la Abundancia, por lo que nunca se marchitará. Sigue creciendo incluso en medio del fuego, el hielo o cualquier otra condición adversa.<br />Algún día, sus hojas se alimentarán de los nutrientes de las estrellas y enraizará en la carne del mundo. Así será inmortal e indestructible, y sus frutos serán la respuesta a las promesas de la inmortalidad.<br /><br />\"La canoa gigante, más magnífica que una montaña, flota en el vacío. En ella hay un árbol inmortal, y quien come de él obtiene la vida eterna\".",
@@ -237,7 +241,7 @@
    "id": 920198,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "365bf3a80928eea605cbefd72636c62eb0c1887b4652520c3e9c3f99a55f0cb9",
+   "iconPath": "e53b293c86a90843e4eac0cd4649e1b7f94b3aa93adec45d9fcadf0a4532d8af",
    "name": "Brote de la vida",
    "desc": "Brote de la semilla de la abundancia. Sirve para mejorar moderadamente los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abundancia</span>.",
    "lore": "Irradia calidez y los alrededores del lugar donde están sus raíces son un hervidero de vida. Los páramos yermos se convierten en praderas de verde hierba, las plantas secas renacen y florecen y del suelo brotan manantiales que humedecen la tierra.<br />Al acercarte, tus músculos y tendones comienzan a retorcerse y a crecer, y una picazón insoportable se extiende por tu cuerpo.<br /><br />\"La vida no fracasa nunca cuando el alma abunda\".",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "2d8893278e393b9ac257c0f3772c654e9008c20f536cf391c1ae3f45f857c7cb",
-   "artPath": "00f304d39f355367706448db9d536eb7d05b415d6ab9ad5eca3f537ef848a56b",
+   "iconPath": "de0e809d5d31976cb1d69bb207f82016402f82a1ffd0fb04ff95e5e37181aa2c",
+   "artPath": "bb15a951204a2b217ef19eb2565eadfbb35e8b028e519b4ca4d5cea0b9adec95",
    "name": "Poseída por un heliobus",
    "descHash": "La duración del efecto de Vida sacrificada que genera el talento aumenta en <nobr>#2[i]</nobr> turno. Además, cuando Huohuo tiene Vida sacrificada, la VEL de todos los aliados aumenta en un <nobr>#1[i]%</nobr>.",
    "params": [
@@ -450,8 +454,8 @@
   },
   {
    "id": 2,
-   "iconPath": "11e4110de2d8b3eadd04cb70332bda9df5af3bfbc2db1c21dc166f1d885578f2",
-   "artPath": "c9155db948dbb10d3fd7cef63a7ecf270aaeb9dd839c6207585535762aecafa5",
+   "iconPath": "8732c1127d30cb741d8865b79d755246b07aa917ff6ce59b8af93fd4e4c9d1ca",
+   "artPath": "f778f011f534359046ba206a8fe86fa194934776dcba9884622d9c80c52c280a",
    "name": "Talismanes de jueces y espíritu en la cola",
    "descHash": "Cuando Huohuo tiene Vida sacrificada, si un aliado recibe un golpe letal no cae derrotado, sino que regenera una cantidad de PV equivalente al <nobr>#1[i]%</nobr> de sus PV máx. y la duración de Vida sacrificada se reduce en 1 turno. Este efecto se puede activar <nobr>#2[i]</nobr> veces en cada batalla.",
    "params": [
@@ -461,16 +465,16 @@
   },
   {
    "id": 3,
-   "iconPath": "21934bdca1e5ae8c14e05625dc0c063a0fc0719b9890e2500af9d5ff9159528b",
-   "artPath": "6d512107365788b72c2fead4f9fc61bc1a957a2d8310266777db4969e5821327",
+   "iconPath": "3ce35753d49fe9198b74f964878725b35b837e8c8a72846b9f7588e575061478",
+   "artPath": "035fbd7b261034a6b3514d66ec625fa3bf6efb0ec02e699c54e233fc265c560d",
    "name": "Cuerpo del mal, polillas a la luz",
    "descHash": "Niv. de habilidad definitiva +2 (máximo: nivel <nobr>15</nobr>). Niv. de talento +2 (máximo: nivel <nobr>15</nobr>).",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "85915d960c09267fc364f8e3b8c713bdd10fa4bb53e5b8169e24eff30dd2c7b8",
-   "artPath": "a389c4103a1594a9d58b88f68f2ea3caf54a0d6525d4296dbee27f3aa105748b",
+   "iconPath": "702fbfdc3c61989d3baa1753824934aca358fe3eaa9d0b52cf5291a677fdab42",
+   "artPath": "c807c056e3efc3d8a8c8a23059bcd235c2652f68c028a7bb8797933fc9b67593",
    "name": "Siempre juntos y en conflicto",
    "descHash": "Al curar a un aliado mediante su habilidad básica o el efecto de su talento, la curación realizada de Huohuo aumenta proporcionalmente cuantos menos PV tenga el aliado, hasta un aumento máximo del <nobr>#1[i]%</nobr>.",
    "params": [
@@ -479,16 +483,16 @@
   },
   {
    "id": 5,
-   "iconPath": "d96d71767fdf1c66fd3dd811e069b80a3ac3c6ee304eeadee143e077b4db584e",
-   "artPath": "f780a89f0a91b50c8a510e629e24babb14951ae1c7291b89ad67c1046ed5d845",
+   "iconPath": "4381728a35915b7340a1003f2f8cdaedd6ff0da8ce452aae5d70ea4baa819e20",
+   "artPath": "8ac810d67b90298bf1cae5e7611eec0d8e00fb161702cd98cbdc67a177196f5e",
    "name": "Somete todo mal, por decreto de los Diez Líderes",
    "descHash": "Niv. de habilidad básica +2 (máximo: nivel <nobr>15</nobr>). Niv. de ATQ básico +1 (máximo: nivel <nobr>10</nobr>).",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "3d8cf3db9730f07552ae1555afcf5c0c04e0ffd3f429579f0def5c145906a532",
-   "artPath": "5150e2b82127a1708c0979e4da078d71aaa55d18f0f80a77f83e246a6c5fb076",
+   "iconPath": "b9907fd6187463c512c7024f38cb2de82b621472720c3417a8c3f26c3286726b",
+   "artPath": "1050a7ce11089714953e8c8d25f0e2c2a9822ad80102d2d7b381462d7345d453",
    "name": "Objetivo compartido, destino simbiótico",
    "descHash": "Al curar a un aliado, el daño infligido por el aliado aumenta en un <nobr>#1[i]%</nobr> durante <nobr>#2[i]</nobr> turnos.",
    "params": [
@@ -523,7 +527,7 @@
    "energy": "20",
    "id": 256586,
    "name": "Estandarte: Llamatormentas",
-   "iconPath": "09c43d733fe5638f498db07e7e77b99ebd4ebd637c50b088e2de80676b91e0de",
+   "iconPath": "022d1130032ddaf722bed485c6f39883d83da40a0eaac99c3502182a474551f7",
    "typeDescHash": "ATQ básico",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +688,7 @@
    "energy": "30",
    "id": 340527,
    "name": "Talismán: Protección",
-   "iconPath": "d96d71767fdf1c66fd3dd811e069b80a3ac3c6ee304eeadee143e077b4db584e",
+   "iconPath": "4381728a35915b7340a1003f2f8cdaedd6ff0da8ce452aae5d70ea4baa819e20",
    "typeDescHash": "Habilidad básica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1019,7 +1023,7 @@
    "energy": "5",
    "id": 457172,
    "name": "Cola: Dominación espiritual",
-   "iconPath": "dd86b299fa5ca0bf2ee56496b2e2cafbd4bed6a6956961f8b5eaf04fe3878a95",
+   "iconPath": "a8027d79fb38934a7c5eba640ef9f2edd25029006675498611a9a7bad2d882f8",
    "typeDescHash": "Habilidad definitiva",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1324,7 +1328,7 @@
    "energy": "0",
    "id": 541113,
    "name": "Posesión: Conexión metafísica",
-   "iconPath": "a71d532eb7f2fefced3559fa428e5b4d2b307354d599a1cc3b757c6c520a00fe",
+   "iconPath": "7b1a2185be26fb429a3d6e65893c9c52c2083cdad87d926fa94d466024d1703d",
    "typeDescHash": "Talento",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1689,7 +1693,7 @@
    "energy": "0",
    "id": 741699,
    "name": "Ataque",
-   "iconPath": "09c43d733fe5638f498db07e7e77b99ebd4ebd637c50b088e2de80676b91e0de",
+   "iconPath": "022d1130032ddaf722bed485c6f39883d83da40a0eaac99c3502182a474551f7",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1711,7 +1715,7 @@
    "energy": "0",
    "id": 825640,
    "name": "Demonio: Destitución del mal",
-   "iconPath": "331ba2e6329c626c11968cd6e444c8766c699d59b388e8df7d0aba35591a621d",
+   "iconPath": "b0c7cf46abe835fa0d7af964826a4afacf1c64efb1f37e55d742a49de9136dc5",
    "typeDescHash": "Técnica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1757,7 +1761,7 @@
           "name": "Bonificación de VEL",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+          "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
           "statusList": [
            {
             "key": "VEL",
@@ -1787,7 +1791,7 @@
         "name": "Bonificación de PV",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
         "statusList": [
          {
           "key": "PV",
@@ -1816,7 +1820,7 @@
       "name": "Bonificación de RES a efecto",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+      "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
       "statusList": [
        {
         "key": "RES a efecto",
@@ -1845,7 +1849,7 @@
     "ultimateCost": 0,
     "id": 696245,
     "name": "Miedo a actuar",
-    "iconPath": "1199316f711dc61e7ddacf6ca4ba33a86ec5773829f9b8c3c2e4c837a3c570fb",
+    "iconPath": "e2e88b31d3a37c18e819b2a3a54704e0800d715b7f18dd6a0f3a022379ba6dcb",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1899,7 +1903,7 @@
           "name": "Bonificación de PV",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+          "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
           "statusList": [
            {
             "key": "PV",
@@ -1928,7 +1932,7 @@
         "name": "Bonificación de RES a efecto",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+        "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
         "statusList": [
          {
           "key": "RES a efecto",
@@ -1957,7 +1961,7 @@
       "name": "Bonificación de PV",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "PV",
@@ -1986,7 +1990,7 @@
     "ultimateCost": 0,
     "id": 696246,
     "name": "Maldición",
-    "iconPath": "a7c8ab66c49ae7893379f92b6575faed6d6ddb2437cb765f8fbad5d59b2800f3",
+    "iconPath": "b94b7428feae5dec932b11e6109f0c1bd920128a7e82af6da40a10da8689f487",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2034,7 +2038,7 @@
       "name": "Bonificación de VEL",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
       "statusList": [
        {
         "key": "VEL",
@@ -2068,7 +2072,7 @@
       "name": "Bonificación de RES a efecto",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+      "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
       "statusList": [
        {
         "key": "RES a efecto",
@@ -2097,7 +2101,7 @@
     "ultimateCost": 0,
     "id": 696247,
     "name": "Reacción al terror",
-    "iconPath": "22d9c38da24412ea7c2ce08dbbfa4c0d7dccdb0528a650307a1b41c5ba9825ff",
+    "iconPath": "183473c2d24d693108c55ca032057821fbe9812be3a2b91d7db479e7f1f7629c",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2140,7 +2144,7 @@
     "name": "Bonificación de PV",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+    "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
     "statusList": [
      {
       "key": "PV",
@@ -2169,7 +2173,7 @@
     "name": "Bonificación de PV",
     "levelReq": 80,
     "promotionReq": 0,
-    "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+    "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
     "statusList": [
      {
       "key": "PV",
@@ -2199,27 +2203,27 @@
   "props": [
    {
     "relicTypeHash": "Torso",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "Bonif. curación realizada",
-    "propertyIconPath": "57726150eaa27c675743fe08b88bd04575a0e76b5014dcfbc073c105aa1c7e44"
+    "propertyIconPath": "149abd902573860d5d76b5f79ad182f95a92f1f0533fc48d870a54028b25ec8b"
    },
    {
     "relicTypeHash": "Piernas",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "VEL",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Esfera de plano",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "PV",
-    "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf"
+    "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61"
    },
    {
     "relicTypeHash": "Cuerda de unión",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "Recuperación de energía",
-    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+    "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc"
    }
   ]
  },
@@ -2229,540 +2233,540 @@
    "title": "Primer encuentro",
    "text": "Huohuo: Ho-hola, soy Huohuo, la recién nombrada jueza de la Comisión de los Diez Líderes. Eh... qué más debo mencionar...<br />Cola: Ejem... Eh, ¿hola? No te olvides de presentar al heliobus más famoso de todos.<br />Huohuo: Ah, sí... ¡Cola! ¡Este es Cola!",
    "unlockRequirement": "",
-   "cnUrl": "662adfde6b3165d3846133f13cd16f61aa4205f4536a20a059381cecf17858b1",
-   "jpUrl": "98508694a603aa09059dd739bec953d3f27839b57eea91d9f55fab8b9d05cfa8",
-   "enUrl": "bc5ae3568bfd9912e3bc25842c3f029bdef8ea33a3070c2624103eb2ed010e24",
-   "krUrl": "b6dbdb0a96032a7c709ce98b544e65361626c4169dd9b5d4b549a38fb312f55a"
+   "cnUrl": "9b5a6c49d7063f40f779ca4957bbac75e8f88963215e09c301bfc026fc7ef7cc",
+   "jpUrl": "9951d60004eca30a7efec028baeb3f352916dd7114126c03a2fa369b32518f72",
+   "enUrl": "7b32a113f3899efd9cdbbf3eb674039d391137fa7c8e99bace7fe38aabf71ee6",
+   "krUrl": "69a198f3f073d8e51081af2b5067c169d59cfa46ded6c9656deeed015a3bb357"
   },
   {
    "id": 2,
    "title": "Saludo",
    "text": "Huohuo: ¡Ho-hola! Eh, quiero decir... Bueno, yo... Supongo que me iré ahora. A-adiós...<br />Cola: ¡Se suponía que tenías que decir hola, no adiós!",
    "unlockRequirement": "",
-   "cnUrl": "29f4faf9eb0520e3916f0bb63e8bffcce96309605fcaf44f7a4812e47ca02c03",
-   "jpUrl": "2f236453c3310ea3f98be515cfac79cfc9646426a879ae3bf13444b078ffa3d3",
-   "enUrl": "759d311dfa5f198213c13ea7f5bdb72b551b45f996c70a49d6482de3ecd0eb57",
-   "krUrl": "c3d9f63558e36b2160517aa8bb90c72dc273b6acd5e34fe7c8020948c52970e3"
+   "cnUrl": "0c6aa0ba1213b92f3d3283f64ca3a63257f2aeeefee94c2ea0c3c5af0e568549",
+   "jpUrl": "23b53c818e88d0b6d34e02fa3151497ac40205f46cb87a683f3cc09d137299d2",
+   "enUrl": "9a75a8133312d89bfa91ae1a2537b5f1969133d6af1d285495fa8c03efa5304f",
+   "krUrl": "ea70484579d9053dd4628bff4ec0b2e4d680ad757974b0405ef6a1593214ea1b"
   },
   {
    "id": 3,
    "title": "Despedida",
    "text": "Fi-finalmente, hora de ir a casa. Espero que nadie se fije en mí.",
    "unlockRequirement": "",
-   "cnUrl": "1724b5334fb1e8b73fd4743fa795ddd7731070428e2dd8a4424e01a237a3f9f4",
-   "jpUrl": "74d597b5730b6f55e15cd058332d2757ddf5548f419c1d9477294650d0195937",
-   "enUrl": "f5ea72b8734d5e43d02f1a02afb2dadcf5db6b57db8231447d8a5cd999945e8c",
-   "krUrl": "09d93c8e7911e5a8bb91e360244fcb2502e3a4e4dcf3ab6ab01f58f8168cb162"
+   "cnUrl": "77550cfe9e6fa670b1a6dc41ae8580431fb98c50762e7a219b811b641b6a510f",
+   "jpUrl": "9a07f1310bac8a2ba238214f48968d9184942bce4f50434d98c949b0a531168a",
+   "enUrl": "5a53d9a1972f3a06f691a8171c64d10130acb56a01c44d484cecebe36310f88b",
+   "krUrl": "d3117460a27b2906dd368c29cbbcde697705288fb7fde482088a3b77a11d5fdf"
   },
   {
    "id": 4,
    "title": "Acerca de sí misma: trabajo",
    "text": "In-intenté rechazar este trabajo... No me parece justo, ¿pedirle a alguien con fobia a los heliobus que cace otros heliobus con un heliobus? ¡Ay! Me dijeron que era para \"superar mis miedos\"...",
    "unlockRequirement": "",
-   "cnUrl": "53db9e74fdd3d105aed69584bacb38a701e3dc72c2be7d2d752940f9af3b91f4",
-   "jpUrl": "6653fccb599e10c3cb751a6e6197d06775468d13ff19d98cd8e8daa2f65392a4",
-   "enUrl": "aef21ca628b0fff348126206b5d07d6590dd43d752d02501c8cbfc037ccbabc8",
-   "krUrl": "927d79dc0b59f14645c5b601e4155da21a1a1307fd200c4e414ef8676d09b7e5"
+   "cnUrl": "7076e7552d2a4681eeee2ba7f12e39c29ee6f9bdada7aebefc644615c4d20d70",
+   "jpUrl": "4ca9c226ea4c90bb2aad30ec123a7964da587838259713e177e08a579d5422b6",
+   "enUrl": "e87c2d09df442383113905caa94243af5e6f63a092122ea2d0ec1f44b06e06fc",
+   "krUrl": "24213749dbe2ebebf8a30294c1bdee28d80cfd8165b1f58976058be8038edc27"
   },
   {
    "id": 5,
    "title": "Acerca de sí misma: cola",
    "text": "Huohuo: Mi cola fue consumida durante un ataque de heliobus, y el resto de mí escapó por los pelos. Menos mal que la Comisión de los Diez Líderes selló al demonio en mi cola antes de que pudiera rematarme...<br />Cola: No es culpa mía que los raposianos tengan las colas más deliciosas... Sin embargo, ahora que soy una cola, ¡me doy cuenta de que todo tipo de monstruos quieren comerme!",
    "unlockRequirement": "",
-   "cnUrl": "00f9f14d8a701453cd260809a5ee9b236eeac23a4572ef0130281e659d84ab12",
-   "jpUrl": "35da2b90d8eaba858483ca3acf4f80fed61b23211b9c81263048791220a93c8f",
-   "enUrl": "9ab04a7fb931c0d699c943ec25b669a10353164fe282bc00bf8d21010f6538db",
-   "krUrl": "1733458253fae0edb3b3b743d95f09598e0b447b675e1944a28f9c49a32b34a4"
+   "cnUrl": "8b8a8c60ea0619f81d1c694e86574b5d0019cd4a236b8268079dfcb215bbf7bb",
+   "jpUrl": "55ef3ee965f1bcfd6cdf131dffcacdff2eb0988d86e46f007c5370cf3570bbcb",
+   "enUrl": "577f007c291f312c31fe700a81a2759cc6b216ee430df9bb96d67a8ce869d843",
+   "krUrl": "9b5477c30467dc7e38af7789ceb0da7a7b7f499654d0cd3da24d8239d0cadb50"
   },
   {
    "id": 6,
    "title": "Conversación: estandarte",
    "text": "Puedo usar este estandarte para disipar demonios... pero también es muy útil para señalar mi rendición...",
    "unlockRequirement": "",
-   "cnUrl": "958430c3159708e6b7ab8595f90ba76f94d589cc2da3090397c4af2d5010c314",
-   "jpUrl": "ecca8d93b8d8573ebab6d91471de69ff7a13511551ea8ba5c3a90147171ac030",
-   "enUrl": "024bd47a8a90e88bec836b1bbb8c7c13ba6e7762522a5b71be0bc46ff7cca022",
-   "krUrl": "11693c1b8770e25c1a8536a792c1a74c0fdecfa991a704a9f35317bdf178766b"
+   "cnUrl": "ecbe7851a033b7b4f7613af54728eaa0165fb59bbdc4c1b8792ee36bd224fd45",
+   "jpUrl": "a95dbd3323aa4dbbbe94aa9474fb196b8ec9ed6695c6fc8ebade03b47844fde8",
+   "enUrl": "e93d5b5cefc4217b29b6657debe95132885159bfb92fbfab5a900a01d79dde5f",
+   "krUrl": "2e3536babb6d06fea62c5621641f320edd3ac1727e0139c57c0b6ed83aed9358"
   },
   {
    "id": 7,
    "title": "Conversación: muñecos de papel",
    "text": "Huohuo: Hago muñecos de papel siempre que puedo. Con tantos amiguitos alrededor, no hay nada que temer...<br />Cola: ¡No me hagas hablar! Esas cosas me estresan. La mera idea de ver un muñeco de papel sonriente delante de mis narices en mitad de la noche...",
    "unlockRequirement": "",
-   "cnUrl": "06da19d1b5275b6a4847ae6e0f0a0d7274d61de771685220f78ce4d7d3988758",
-   "jpUrl": "afd2ffe2268dc23f8e0998874506d7add38bc444608ccf7aa23877d45b5ba55b",
-   "enUrl": "d004659b9eb354d0079c4531ed439ac69c3dbcc7116958e348c4d32f2e44c169",
-   "krUrl": "c36b10eada9d85ad82a408d923493448194d9e8c97ef1726b4ac44209f0e9698"
+   "cnUrl": "703c3b470545104451b285050cc93b7418eab6131626cd9aca1bde1d8a5da80a",
+   "jpUrl": "a54465d770c55dc5232dafa36099a293913a7c6a64875d0d56296306c5a5258f",
+   "enUrl": "99a8e6e255e6f3b74a134ebd327ef4efb74859920dfc3355a40e25607191cb60",
+   "krUrl": "5eff6707e2e11545b6bb7e7317b3ddee2d41edc15c7e2be90842220556643697"
   },
   {
    "id": 8,
    "title": "Aficiones",
    "text": "Practico mi coraje viendo comedias de terror a altas horas de la noche. Cuando llega una parte de miedo, me río así... ¡Je, je, je, je, je! Así que, sí...",
    "unlockRequirement": "",
-   "cnUrl": "d4eeb14566b61436a7b45f21b7838077ad657371977f49122b0837713718f563",
-   "jpUrl": "7f2a19c76e084fee358c86cf0f7cbbdf92bd1d42f895d31f27363e84476e5b76",
-   "enUrl": "fe323905471b6a4c00cd11434bb8386d92d7908e45586cb1ff11fd93e72b92fe",
-   "krUrl": "a80c25f495be58b66c0dcca8285d960e8c0f0b332edaf5aa578da16c58024b33"
+   "cnUrl": "b4db6ec6d6905c3e11bcdf84e4b241ea738e3a00d8e9a72b8abfe247e54d54db",
+   "jpUrl": "c18baf4f696c24d4097c4722fff1adc09435370b3e60d2a799f42eb79e7fb11d",
+   "enUrl": "530f45c19eea4d288e4d4b725b3d52d93556f16f4069113d7f1d7bc15af62c41",
+   "krUrl": "67b49924307dd58170d3ba2fc5a2827133734a5dcceafe5e40f9bf5114aa50d6"
   },
   {
    "id": 9,
    "title": "Molestias",
    "text": "Huohuo: La dueña de El Espejo de Bronce dijo que tengo un don para atraer el mal. Ten-tengo una vaga idea de por qué...<br />Cola: Al parecer, yo soy esa \"vaga idea\". Sea como sea, tu tendencia a tropezar contigo misma es enteramente tu culpa.",
    "unlockRequirement": "",
-   "cnUrl": "ac9c8351c5abe4f42742164314a4502f98a4b385efd54762d778f642cf3d6051",
-   "jpUrl": "61781fac5c282ae9d67cce0d3314a1969422d1e0a8539d03cfe0336b45a6370e",
-   "enUrl": "00d6e16125cc7d1e7c5ba31a5a65e4b53866d59cc515f5fef7950584629f10d8",
-   "krUrl": "80329ec8f56f8169ef90b1dbc516aa794668b01af0b2ef04e478c833a4b877e3"
+   "cnUrl": "e22a2bef1c6529a8d152c901a41d56d16d0f432d7575b2b032658f9115f70376",
+   "jpUrl": "0af207ad55bc6b370c897486176ba1eb6d6416935df6a22e7ede0639b4d0159f",
+   "enUrl": "548bcd6d94f6f6758b1a4b875d6b8a2aca08a73764242106332d09c58cc00ebd",
+   "krUrl": "51485fefe31fd80a1e3d72881c54ce64934ce07395bff04ac5aba93f54bfd3e8"
   },
   {
    "id": 10,
    "title": "Algo que compartir",
    "text": "¿Cómo me relajo? Me gusta encontrar un lugar en la Dársena de astroesquifes para sentarme y ver los astroesquifes ir y venir... Aunque mis colegas dicen que funciona mejor para el insomnio... De todos modos, deberías probarlo.",
    "unlockRequirement": "",
-   "cnUrl": "aef95771be0476bd668948af7d7c67155268d7b203aa738f1b4dd0849b450b89",
-   "jpUrl": "057acf7df5ab2a2fb989da8281f7ebd07645d30ff028849bcbf8e58571cefaed",
-   "enUrl": "7578a32dcffd8cd1d2568236ae2aa39f7478b4fac3bc2f01de229df9ca61a8e5",
-   "krUrl": "8dc4a421822f8562706874fe70d153fb1d29dc80285fd03ed2f2067a5fa0804d"
+   "cnUrl": "74f120eac66d837af8106f327a2e50f6267535079e211b6cb95aa6ae9c9fbbc8",
+   "jpUrl": "1268226c8a4326b92ea5edba35e86b9093184b86dcb3eabfc774d09f121ac9f2",
+   "enUrl": "e2277470c0ec2e4552acfd89a59d6cb6c0e2dfc5e27842623ab6889e6de1ecdc",
+   "krUrl": "8ed3c0c4635913d0c43a09fa8d8a446fb32cdd0def5c2a8ef99932cc6fd725b0"
   },
   {
    "id": 11,
    "title": "Un dato",
    "text": "Escuché que había muchos heliobus sellados en el Horno de la Creación de la Comisión de Artesanía, pero todos escaparon cuando el horno se rompió... Por eso mi carga de trabajo es la que es...",
    "unlockRequirement": "",
-   "cnUrl": "7f418d78aab58415b6a33df490d48683e76d486a7423459cb8f59c687d507792",
-   "jpUrl": "6a9dee08b1a6eaa1b349b86f36d181d21caad30b9a13d6080c707f55fe7bb97e",
-   "enUrl": "4e218e6cfa970c23ba1f61a28eb726d4df90a98c4bedef5a43c7e343c3a901b7",
-   "krUrl": "97debe46a77b3888a802934def28d96f4a092edc1c4a625d87a6e751a1523818"
+   "cnUrl": "0dbda5ea958e0043b489b50f8fcf5dc575af595e3ca691c3068271f05bf282ee",
+   "jpUrl": "8f2aab15b04d5a7bfa86f3b7f2a4e4cdbf2faff5c81b70ee97cd9a170b310e69",
+   "enUrl": "8df19d60efa1111d73ee326f771f6aead3010da00bb4cf1f909e2b1d9469dd0f",
+   "krUrl": "14dc5fd77d4052bb44e034ee86dee8988659fac35821f29854e839397a82ad8a"
   },
   {
    "id": 12,
    "title": "Acerca de Guinaifen",
    "text": "¿La Pequeña Gui? Tiene mucha energía yang, disipa la mala suerte muy fácilmente. Hasta mi cola se calla cuando ella está cerca. El único inconveniente es que tengo que alzar la voz cerca de ella si quiero que me oigan...",
    "unlockRequirement": "",
-   "cnUrl": "6e577b77dd2327fd7cfaf9002a405c3ad4bd66f694eda3dd6ac41d66267b9449",
-   "jpUrl": "e175a33a71be79066f4c88c5e1871d2686d6283ad00c02fc0034169696d8dda3",
-   "enUrl": "bb50752dc3c885e134991ef02feb7863803d25e1d30d7fc6785cf1378270ad85",
-   "krUrl": "d92230f38d42e0cddbc4d4c050ec296c14916ccb5a464e57137317f6a1bbac4e"
+   "cnUrl": "b4acf91907f29e11231ea3d14b1189fa31d298916f0e4afff4c04152c51a5011",
+   "jpUrl": "25faa9b87c394f05bcf644198063e66006cc5138b53adf01602fc8537aa6dc8b",
+   "enUrl": "fab4a601bbfe0c1878f40824b7f5a6764045aff5850b4777a0ddca1b63b72c02",
+   "krUrl": "029a27bcd8dae482bc9588fd18db05e761d65f3594cdcfa8ec673a6256a82939"
   },
   {
    "id": 13,
    "title": "Acerca de Xueyi",
    "text": "Huohuo: ¿La jueza marioneta? Al principio me asustó mucho... pero cuando Cola la amenazó, ni se inmutó. Xueyi es asombrosa, quiero ser como ella algún día...<br />Cola: Sí, sí, claro. ¡Asombrosa! ¡A ver si sigue con esa sonrisa en la cara cuando queme la Comisión de los Diez Líderes hasta los cimientos!",
    "unlockRequirement": "",
-   "cnUrl": "84aef3029eecc7bdd79cd9b05ceca92538dac18ae7f134f21a4f6386c424b2e7",
-   "jpUrl": "ec70180859ac87e32f00295286026f05a0931f9214a083d5c87ed8a3c1eec5df",
-   "enUrl": "fa52ed6289d672795ae9233b35a78eed3816e68e9b26ceb2fe732eb960a6e8ab",
-   "krUrl": "6562adcb413776beba556516e81507fda4538588695b5d0683a58c8ecb78d013"
+   "cnUrl": "459adbef21b42c7f2cdf1e95cc03cf2a0dd7a90d8a12f88b60cea6fc12d47f32",
+   "jpUrl": "006114c4f4ceb1bce7de987be70a269aaf59a0600e6a49532b468c1d5dccbe29",
+   "enUrl": "3c2e2308dace30c21b027af3c192032935f25487d88b996407335fbf0b7b8202",
+   "krUrl": "aefcf3819de1bdc70067a8499d08d46f086ebf1b2e6342afa37f6de18f16590a"
   },
   {
    "id": 14,
    "title": "Acerca de Hanya",
    "text": "Para diferenciar a las hermanas, la llamo la jueza parlanchina... ¡Ah! Ella no lo sabe, ¿verdad?",
    "unlockRequirement": "",
-   "cnUrl": "2c9498f253d6fac7bcb7fceadc0121096fdf4f9f3850be68ecfc6ac84de73b18",
-   "jpUrl": "a6ca13e2b7c732fe5603d9fdfd630203e613bccfa4c23a57fa2e95ba4ee1bbdf",
-   "enUrl": "e53fa88c5546ced4a3a4b521a3290219460ca74b2cf9504ad8ef88e3c281cd16",
-   "krUrl": "f679a48a28efb9193276edc1941fb72811c0b71f68fa4b95585f4e752d394ca4"
+   "cnUrl": "6e1ecb720c10ff83cd09ba9e9d5c7c5ed054e8ee694c865812eff8b384c17322",
+   "jpUrl": "405efe7b67bb10cdd70f5b3f47e96840b46db71fda24086ad914d774f4fae1c6",
+   "enUrl": "c624bc538991990fe39776b66b8f298dd0f7840b10166b5e53a1e0241747b916",
+   "krUrl": "80136412bd7e4d8af3e097afd4eed60439d5cd6e6ec07a8aeb73b23acc22163f"
   },
   {
    "id": 15,
    "title": "Acerca de Qingque",
    "text": "Parece que Qingque siempre está descansando. Cuando yo me relajo, ella se relaja, y cuando yo me agobio con el trabajo, ¿adivina qué? ¡Ella sigue descansando! Supongo que la Comisión de Adivinación tiene una carga de trabajo bastante ligera...",
    "unlockRequirement": "",
-   "cnUrl": "9f840c5b9c3ea04ac6d379719dd8a521f06b1521680cf3a1790e901b426127e3",
-   "jpUrl": "50c97b43036aa7c544127d60860a15a6996fdc9c6ab8abd675fa01dbecaf8755",
-   "enUrl": "79d8326d0ac840c9e24aed2a5402b52bd32173c00987a23a5e4cc945b897b68a",
-   "krUrl": "9bbdd3d9c596b7f1ed2a94c6108823d5591aad58376febc303a2c128d3ffc820"
+   "cnUrl": "a766f1bea8262078f4873532277e72fa48c0e1ab56dc3b6543e0d5c3b7f76e9e",
+   "jpUrl": "ca50e8a840d02489eb31039d43857055e6cad7f951287bc324533be5f9e75506",
+   "enUrl": "9bcd638d87b9c74c4db2256675d861084464eebb935df4075dd0fe51a5baf711",
+   "krUrl": "5d2aa68206a1f635dab2721f6483a2af2be01e35cad55dd8859dd31b80578928"
   },
   {
    "id": 16,
    "title": "Acerca de Cola",
    "text": "Huohuo: ¿Te-tener más determinación? Normalmente solo quiero huir... Aun así, cada vez que lo intento, el Sr. Cola me lleva directamente de vuelta frente a los enemigos. Ay, ¿por qué no puede dejarme en paz?<br />Cola: ¡Hum! ¡Bien por mí! ¡Si te comen, por fin podré liberarme!",
    "unlockRequirement": "",
-   "cnUrl": "09eae484612d7174006989a2401d76fea75636102d22bb9a8c29051b516d8319",
-   "jpUrl": "b549164d408a30b5eba6da1e345eef6e5dc9d4760f0aaa9cc98568fadd372356",
-   "enUrl": "08c65f89aa054098f41c2c1afa242bdedcb257cd5f6cd2629a6682934720f8fe",
-   "krUrl": "8b2ae672ebb211e8b476f6cc39749c5acefbfcd9d6ca0d159ccdb930bfe1775e"
+   "cnUrl": "b3414442076c4ec8e41d1d102ce7118c46ebcc2565bcbc0b2643c016b441f91b",
+   "jpUrl": "ca9f329558c33c9cd1bf371764e6ecd98e64cabe5d4bdbbfcc58ff6f3568ee5f",
+   "enUrl": "c2a84dab7c130d5509e24d18359c679d1a6d2af1fbcab91df66f6101206f243f",
+   "krUrl": "1850e60c5670950963aa61d00618bbdf16454f9c9de865a158e00353c6f847b6"
   },
   {
    "id": 17,
    "title": "Acerca de Jing Yuan",
    "text": "La gente dice que el retrato del general puede usarse para disipar el mal. Lo intenté, pero... es inútil. M-me refiero al retrato, no al general. No debería haber creído en esas tonterías supersticiosas.",
    "unlockRequirement": "",
-   "cnUrl": "cf6bfd4cbe97f6f13d0682018ed27126ebc9ab7895943e58a928dccfab960071",
-   "jpUrl": "a138b6072efe8312973f5a1f2671e9b06606c26ed1822e392b5a8dd1f8270670",
-   "enUrl": "d2fffbfebf6941dece4f9e1ddf626f2b431dd4c0464ce2ee5d93781bfcea3b73",
-   "krUrl": "3b3490310a8a09e8514d47c7ec5e85f8ea5bb24445f4eb59b13d595543b6decb"
+   "cnUrl": "0d6c32d87248b8ebe1f7bc85d8945a80ed714397ec71ea6f5cc04adb590ebf25",
+   "jpUrl": "cd7df94b890fbf86dd837a5231906633c05717a1d48584b8a8687410fdbb7557",
+   "enUrl": "592a32c9e43e6ee2478252de36a301181fcd390dd0179b5997808e2dc00c562f",
+   "krUrl": "2c7e3726c2372121e5d5757934a0ab954f9979a0849f714af169290651a1e05a"
   },
   {
    "id": 18,
    "title": "Acerca de Bailu",
    "text": "Me pregunto si la Dama Dragón tiene alguna \"píldora de valentía\" a la venta... Si no, \"píldoras para hacerse el muerto\" podrían servir...",
    "unlockRequirement": "",
-   "cnUrl": "cfbaa6b551ff6714e126170fa0d1dcd7bebbecdfc93a86bfb860a52a28c42909",
-   "jpUrl": "e19fd4b381118d741c065ce9587b7b1b964785f21eaabeff73ff595993f52ec3",
-   "enUrl": "5a83864b1742b4fe6049e33d7234adbe224fd71ce95a08f0718429baa56c3e6e",
-   "krUrl": "74a8db90295f0f7cb20572c3c492955e1d1f3dae8d10880bf77c3bf12c4beb74"
+   "cnUrl": "a5b7397a85c6ad2aa6c80dd7e660d803f68cf27d4bdb009e24e9b78452148742",
+   "jpUrl": "ecb758237b092f1af59dce1c70500768f2ea409836a15ab1c4f5b3d7666603f8",
+   "enUrl": "a05fe72c285df3730ad0dc33dcda666e343a3e8c9ef065d243ecf21eb3d5284f",
+   "krUrl": "63bf1e1eac4bd007a0c7aa29a0d52dab5d381701481a50b5153418acc9d64635"
   },
   {
    "id": 19,
    "title": "Acerca de Yukong",
    "text": "¿Cómo es que la señora Yukong tiene un aire de autoridad, pero yo no? Quiero decir, ambas somos raposianas. En realidad... Sé por qué, pero no puedo evitar sentir un poco de envidia.",
    "unlockRequirement": "",
-   "cnUrl": "fb063cd581617c07076a3b752eaff9b4944d798bcbc20e2603b0bce300767847",
-   "jpUrl": "021681eebd64450286877c38ccbcf3b3ae257924666c912d349ce882694c1de9",
-   "enUrl": "b07c7d586f99c6afe60b88e2982107461416392cea70589ab9a20cdbd9caa989",
-   "krUrl": "68cbbcf659560784966d71f6632808f69ec12025fd2d721ebcf73b190e9746c2"
+   "cnUrl": "04579d3aa92aa9da5a25027ece590c6e3556c0cecff8554d0b974ad6021bf25e",
+   "jpUrl": "894daddb0b334abb55c36042d43ad593dc21b0c9c75977193ab16ed4783aaa1d",
+   "enUrl": "838bc9b3f03c332a409d4e30464ce3c5be42f7e284c004bdf141d0475d02b617",
+   "krUrl": "fa26ff02df8d43f298843dc88b5a589f66a9ddd0e8320ead662e9deb16fce0ec"
   },
   {
    "id": 20,
    "title": "Acerca de Sushang",
    "text": "En realidad, nos conocimos hace mucho tiempo. Yo estaba fuera buscando un poco de paz y tranquilidad, cuando de repente ella me arrastró ante la Comisión de Administración del Territorio. Me confundió con una persona desaparecida...",
    "unlockRequirement": "Se desbloquea tras completar la continuación trazacaminos «Sueño raposiano».",
-   "cnUrl": "ae9b72f2b20e1a513fd22e5214f5c98a0f427e1d0dee0d77550f00b90eb5dbd4",
-   "jpUrl": "eca219467622c143ddb66fd2d82c538069daf2b55de4ec8c5f20571ebe9c9798",
-   "enUrl": "137df07c3e94fa2d3324bc1dca9068646642ce8311d53afe1646eac0e9a6e120",
-   "krUrl": "58f60af8364806cf784f2470e5b1c3405528499e300b1373004f375d78c77506"
+   "cnUrl": "7b4e3e71d2f1dc6c17a4dd49623cdf118315cde2b66cc1ed899fc5da2f1258eb",
+   "jpUrl": "687fe48ab14053863b3bdff969cb0f33807e5f47d7285798006020e89ac55a4c",
+   "enUrl": "12419d6c609c044b6304e94c45d3ae005d4404b30fc67dbda1db73960c3849b2",
+   "krUrl": "cffcd4a0c34e2cd3ce3bffaa5023aabcd4bddd189e14181c0ae5d2731723bb6f"
   },
   {
    "id": 21,
    "title": "Activación de Eidolon",
    "text": "Así es la vida de alguien maldito...",
    "unlockRequirement": "",
-   "cnUrl": "86567bcf75512488941408c3ef122f89898c39c214617943553b7c590445b8cd",
-   "jpUrl": "adf44d7e45dd89437fc78f6c6cccd7db4270d7d2461c014efbdfea20e131eaa6",
-   "enUrl": "67e8ab517c1f436327a1dc4c088aab2b9e535a23c71cc03ede613209ee83f7c0",
-   "krUrl": "e6378a4af9c4a86ec031a917815a1b90ce362715ec3d1391a8a553c236f669e0"
+   "cnUrl": "8ea69b5961348ecf9e9a0aff60776e6c1b9b15ffe9cf2116ea887f00a45b4b8d",
+   "jpUrl": "bc691b4cb3f0c68b1436f6dd08d1ecb574f82b0935810b16b71955302622b49d",
+   "enUrl": "29eabf1ab6a99f37ee6b833a51e392077f02bb4467efd450c1adfeb273123562",
+   "krUrl": "13538f57dc6172fd4459a99eb5a550f35a2bb9e3f4c1677523b8d5f8a834b72a"
   },
   {
    "id": 22,
    "title": "Ascensión de personaje",
    "text": "¿Otro ascenso?... ¿Eso es bueno o malo?",
    "unlockRequirement": "",
-   "cnUrl": "2d4eb5225d9379bceab7798f9cfbe7fc0041d9b9a2e27fc01133974ff5ed35ae",
-   "jpUrl": "c6bc5dcd748a846ee42ea8a8da2389e9fe1fec04295fe4b74b1bb7b383a1eabd",
-   "enUrl": "a2f97b93a1913d3687434d4ce9102ae95d9ff317ff9478d86d0eb6a17123b10d",
-   "krUrl": "7c18e5278e269e1a446eb9093bfb936ea78c700f931365dcd564d39a24943c4a"
+   "cnUrl": "8d817eaee08c426f941404f23ea6930d65f8e59b3d0e1cd0d0888725f72eb925",
+   "jpUrl": "4f7b04628e2b6489e3d45a332ce16e40e5735e3d2c7a9b03e05583637fab99e5",
+   "enUrl": "0db7243057d900b28f778cb90b25fc42c97e7afde298166c633e6bf939bded98",
+   "krUrl": "ce9fdcf7b9a493feee4bad6f396a6bed295843b7f3b457592fcfd26ef02dee23"
   },
   {
    "id": 23,
    "title": "Nivel máximo alcanzado",
    "text": "¿Ten-tengo que pasarme toda la vida en la Comisión de los Diez Líderes?",
    "unlockRequirement": "",
-   "cnUrl": "22ce3a8c91f2056f5b6d0749370c15acafd224069b78dcefdfd4f4c3944d727b",
-   "jpUrl": "31f4e6f8133823c8651e197642510f5f39403817b004136508909b0620eadc76",
-   "enUrl": "e0d9d80c260b1fad22a5aa661cffc17ca84bbf6a536478daff82c23d88dbf094",
-   "krUrl": "265d670cd6e930f1682ddfef6fe4d57c7b45fc09c243143007152405ada1a2a4"
+   "cnUrl": "da76dc9885ac4facad0aa903706b329c65f4d7864d1b134f8499995d5bfef1fd",
+   "jpUrl": "e7e069696a474cf4281f339d1ab4ae628b34d13055f703b1e9dca295ccb92bfd",
+   "enUrl": "e291596ffb7a3dbf8225ee6b41e633a6e1d9568aa264cf551eb252dc4f235d03",
+   "krUrl": "c4c10b9fcd23e97ecc8f7fea0ac7c715dec520ea7da22d4932f7333302a19eb3"
   },
   {
    "id": 24,
    "title": "Activación de Rastro",
    "text": "¿Existe realmente un remedio para exorcizar el mal?",
    "unlockRequirement": "",
-   "cnUrl": "5172091e0b1d8a93984c040a1d94f197ef303bd2867c69f10e7edbdf00774c96",
-   "jpUrl": "28e637b0c57e1503d3ddd6216e5e5ffe703ddc49426fd2a6dc394113dc11d38e",
-   "enUrl": "232095e40ebfed54d7156261eb81d0b503788ab129882fab96ecd43c455ab36a",
-   "krUrl": "d93f48cfed8d6271068418205e52dc22032c9182490b230f52935ad637e7848e"
+   "cnUrl": "bf8ec321ae601f2106d625663826ee01187aeb0cdcd3848ae1138935bf26d4b4",
+   "jpUrl": "fc2dc4178b9ed605c4cbe753e2aa1d37febaedfe58d48d9ae6eab435d284dffe",
+   "enUrl": "2cc11b282f0bb0d6b00d94c1cb6850e1b14a7041e8af67724f5cf371d1c14968",
+   "krUrl": "d6ee10da8fb082227e7b1f0f00cc47c90684010baaace594ad3e47312bf4a010"
   },
   {
    "id": 25,
    "title": "Miembro del equipo: Hanya",
    "text": "Hanya, ¿también tuviste una noche difícil? Si hay algo en lo que pueda ayudar, házmelo saber...",
    "unlockRequirement": "",
-   "cnUrl": "eb07c182c77e07646769eee51eb11dbe05908ebeb8b5055eae928c2ffd21d07b",
-   "jpUrl": "2057e288e303e7da6ae904dd103f062e0abed92dcf5fee746ab6b0dab1554463",
-   "enUrl": "a311fe66533dfa3fa6928f4e84d8c6badf55836f4e578ddda6519bb11a5c54d0",
-   "krUrl": "9307f6eeae19a5d7692febea9ba12e380dcc58c66c1201e96e9bc887f921e4c5"
+   "cnUrl": "bb2b58cbf18cb0db14848ce3e33cc81efe844efdd2ddbfd78d910098c6ccd279",
+   "jpUrl": "94ebb847239e545c9a0b04e0918ca64e9d78cc90e791e008d64cd7c3888ecf98",
+   "enUrl": "c8870d7411bfc2d1a72f2f320e8f9ce644dfc2c28b20115a0a4b50a648d1c66b",
+   "krUrl": "d2001bd1ed2825ed1419e427ae3116892b46ce7fc8877a6f8aeb6189340e3791"
   },
   {
    "id": 26,
    "title": "Miembro del equipo: Guinaifen",
    "text": "¡Tú primero, Pequeña Gui! I-iré detrás de ti...",
    "unlockRequirement": "",
-   "cnUrl": "c6d28b6d69342cec67d5d5bc5e2f66298656e10491762a0bb2f65769e473548f",
-   "jpUrl": "1eae0aa86317070f96745e3949caa0c0c9f5da6560ac337da384f7e80940359f",
-   "enUrl": "c5a21bb3c378eb076343b3e47ecb175844963e306a75007f5137f680ba239b18",
-   "krUrl": "c7fd55bcb4d913eb8a8a67ab6650991c6afb3155968765e3c062a0c2c4e2182c"
+   "cnUrl": "a8cba087899dc13fd8a90bbba40aae653200f7f493568e81053a9d05f0030eeb",
+   "jpUrl": "f2b069f9fdc6c22bd0e270826921fe5209a2e15aeef0d55f330a31a80cc90257",
+   "enUrl": "0ce6fb91488207fe4f43198cb382b1e1c89b6a5c7a62579c023bed6528f0bba4",
+   "krUrl": "26088801412ee050496df286cbab7c0e60fb2fb175b8be76eec84b31701054a0"
   },
   {
    "id": 27,
    "title": "Miembro del equipo: Sushang",
    "text": "Sushang, un momento, déjame darte este talismán...",
    "unlockRequirement": "",
-   "cnUrl": "0dce350eaea118e4622280801dcf3319bec1becde20d42f5898152fc6f488827",
-   "jpUrl": "244a625db316efeac8a5ed347129dc8b81e7a61423733e5d7d076a4f584a8b15",
-   "enUrl": "6fdb388c7f243681e48f1c7ccbdfcbdf16dea700704b92a5ec65442145903965",
-   "krUrl": "ad2103681f621df18e17149c7bdf6a1924f4e0a5ef5a5b8152cdd972eb16e619"
+   "cnUrl": "ff6e7d095ace7f9063876a2e9c0e39fce0f188c42c23b2ec8f30b0571f85aed1",
+   "jpUrl": "ca535448133c3b06cf73e53ff8d163639cf979b4eb212d87c1f3db63f056876d",
+   "enUrl": "1a97895c354aebd2efc4dc96807da9e02551a0c6f04d608a11eab79a874e379c",
+   "krUrl": "98bfb2777a859997e747dec878d64f79f41028220c950ee7e0f423a8d7962cae"
   },
   {
    "id": 28,
    "title": "Miembro del equipo: Xueyi",
    "text": "Huohuo: ¡Qué bien! ¡Xueyi también está aquí!<br />Cola: ¿Cómo que bien? ¡No está nada bien!",
    "unlockRequirement": "",
-   "cnUrl": "bb7ae987aa46dd65063eefc3a4138f7893d03a44d9d61f14cceb87ee9e8dfeb2",
-   "jpUrl": "864a050ecddd5bcc24e90d0b021a5b28d2114f23b3e0f108dd952205a8e96235",
-   "enUrl": "00236b249452ac1cad71cfcd7546ea94558e24495de090dba4691fad0d22c67d",
-   "krUrl": "fc8b697096bb2ede2c3367d893fc131b5739341dd4d7db980fd28e37b841753f"
+   "cnUrl": "16b66f79a90b31c901006e7ac19619c5b4d1694a8f3d011368a5a1a5afcd6d7a",
+   "jpUrl": "8d495bb4416d9d36077e76fd77c35cdc29cb5a731b4bd5e0026c2e9649d6fc73",
+   "enUrl": "dfd9a404164aceaf0e04ee0fd5979346ccb98a3efa561cf1f49b7be33737709d",
+   "krUrl": "3a98251e70de6401d930d55bbc6870fdc33a129a15dbe9c6cdf81a608d700b39"
   },
   {
    "id": 51,
    "title": "Comienzo de la batalla: Ruptura de Debilidad",
    "text": "Huohuo: Quizá pueda hacerlo...",
    "unlockRequirement": "",
-   "cnUrl": "6f60b4aea22596cb501abe8ec1c558abd64c420a841b272fd93cef25cb39f0cd",
-   "jpUrl": "1b03651bc4ea6d95cbf467b09230b0019e7e1357edb4b50906b789775f9d0a4c",
-   "enUrl": "50cbe73cec1100d9ba1e8c8056b83c5149537736380cf218c49cbe8f378be220",
-   "krUrl": "305cca705c94214b390ed0063b012a4b57f2b163b59e183645dc02553535372e"
+   "cnUrl": "28781f720b2287bc5c021c73c9aa21596ee92c66c59ad0e0ce73f8193a78d1ec",
+   "jpUrl": "4e809bc881d58e2b612599a24a7ff8035ed85dd2f89e7412696c3a4c93d74572",
+   "enUrl": "d729c4cbe1076e443109cfa737ae19d37a0447b827be975318927fb81b848735",
+   "krUrl": "b4f1341efa68a27ba20690a0ac2e56575c848270e6b170601fe2af378c265fea"
   },
   {
    "id": 52,
    "title": "Comienzo de la batalla: alerta de peligro",
    "text": "Huohuo: Y-yo no creo que pueda hacerlo...<br />Cola: Me tienes aquí, ¿de qué tienes miedo?",
    "unlockRequirement": "",
-   "cnUrl": "258121de1b22fe02c23c5801614b65d20c62adfb12cf7791d1fa9251b044619f",
-   "jpUrl": "839eb3e61ecf86645a9932ea683b7489c27bbe6f8e3f52f929214db89619e740",
-   "enUrl": "72da2cca92fc2a5efbae60944b8c216bbe7cc5d931d85c07c40678e3238ea857",
-   "krUrl": "be60f1447947e4c3c32de030ba42e05c9e6907eb4c4db07e793f57071d96a437"
+   "cnUrl": "1b8a63c25ca8ee9aafd40ebccd509d04761c45e2578201cfe21b144584034d4d",
+   "jpUrl": "364b0bafde8fc52dcc3ad66fedd539080f5a2e2f55142f94d14f27ec3cc672b2",
+   "enUrl": "1b33835ab50df06bfb8087bd1c1d52110b5258de8b76ff229866916512bbd1e4",
+   "krUrl": "fed819016a199df36efc94bcd2819fdc10cb97c46089180a568cb556509bf9f9"
   },
   {
    "id": 53,
    "title": "Comienzo del turno 1",
    "text": "Huohuo: ¿Te-tenemos que luchar?<br />Cola: ¡Por supuesto!",
    "unlockRequirement": "",
-   "cnUrl": "1cd465e9d153a1315b13a60c266a68b893aa28ee57d033fd8df47bdd73b20478",
-   "jpUrl": "f4252f8072cd98cd373cf198e9d4df6502f1ff3047d524cd52a21fc4f1a3b4de",
-   "enUrl": "f5983b7d74f6c8bc99edc46b0cbad109b0bde73111bfc01292e225677a23e4bc",
-   "krUrl": "599196ea88a7a23fc919157b07c088ce3af87554b56ed202c981f0e5e43ccc96"
+   "cnUrl": "afd79b93baf54fb78cdc1743afab238a588b03298011ea098cde3a85d770c784",
+   "jpUrl": "afebf6a373460c42cd6b34f36f8821ccdd6a43d4b5d6b6211287d789e439ce29",
+   "enUrl": "b10a51b8d3b46692f991acde2bd29ffbbd8401b14227bf5073a105ab243ddba8",
+   "krUrl": "151ce749de91ccf0990f59fb42bf8b68fd8544255bf9ae57567cfedbf472f0bb"
   },
   {
    "id": 54,
    "title": "Comienzo del turno 2",
    "text": "Huohuo: Voy a ser un estorbo para todos de nuevo...",
    "unlockRequirement": "",
-   "cnUrl": "fa40cf2e81c6b4c7f3eead28b3af17699279fa7dab919472570aa24ad09e2fad",
-   "jpUrl": "3db4486532a0688a2e5b9f1d1461d5a333d66e5c22e64729ebb8fbf71b2079a2",
-   "enUrl": "c08282ee5ab683cf2684889ca4ea2774c5341d8131241f4f685e4e05f6551124",
-   "krUrl": "e4f79b46c056b6b8526679041e887fa7f008aa77cbbd4cf19f3f2cf07159dba6"
+   "cnUrl": "4096a2e67a3c24e3d5a65254ac96fcbb2dfe59afc2491e92d9fd15a226aa896f",
+   "jpUrl": "73e9a8ecd73816b6fe266e73effa464dd314414f49d38d5d4f8d969ed141a841",
+   "enUrl": "a9044219a2a67ca439fdee9cdf1fd1539ddb801ede6398f2a279bdbfe9cfd877",
+   "krUrl": "17b9f7fc2d78214afde61b7e61903a121b8a1f3d23df62b3a183f0cf68c134c4"
   },
   {
    "id": 55,
    "title": "ATQ básico 1",
    "text": "Cola: Vamos por ellos.<br />Huohuo: ¡Aaaah!",
    "unlockRequirement": "",
-   "cnUrl": "5e730c619576a19244cb3507a0b474fd514748b7a370432b1c0bdf369dc0bb23",
-   "jpUrl": "a7e31e9c8931b5b9bc19aaae2315efd8e24f685ae2f6d09ba4bdfe844431fe76",
-   "enUrl": "d7e2c53c78da7ca8a535d0f0f7628a784e76cbb121812ec1adf219c5b26eba23",
-   "krUrl": "2ca7878315eef76c44868e239a3e4f6a01ba0a4973e707468d41e7979eadb73f"
+   "cnUrl": "77a154e825325e956cd8ca40f806d69121ee5ee732cb8828b52a2803349d30b4",
+   "jpUrl": "1e3e24e50939629c8f352f9ebf7619ecff2105a15045f05f90bf44625d1e3c6c",
+   "enUrl": "b627147b202b27fa8ad37cfaeb6186c29b8d73f9e84fbe2e5cb91fb7679a8e62",
+   "krUrl": "704ba3aedf57fac56a071ad948bdcdc45c0ee6718be6aae4a28ce28a08c56d4d"
   },
   {
    "id": 56,
    "title": "ATQ básico 2",
    "text": "Huohuo: ¡Aaah! ¡Que alguien me ayude!",
    "unlockRequirement": "",
-   "cnUrl": "e76a2d718a772f868a1f87e4a7ed617b576edd93ef6899efa085dd07563aed1c",
-   "jpUrl": "98f26fc40c2e103fa259ce7492d34b37c53a2415a5ee0b7dfff146090a7986b5",
-   "enUrl": "2b0c617bb8676cd95e9b4a428484860391495169e337bbb13c1f30191f62158e",
-   "krUrl": "476dbc401f88454c012ca5e7df6c609ab568ff5b094fa691e179a00a65046574"
+   "cnUrl": "ee593bcf9e4bb17ed24a807f16f2a1337a73963e1634d4fa2235499df8ceeb25",
+   "jpUrl": "16ccc3af080b318325e644a6a6c38903a91020ade31685ca4fcfb60a07c54bb9",
+   "enUrl": "1bac01460d0419630d591ca2cd76d6a52ea5d2438e9e0ba0c585bb9ca717cc6d",
+   "krUrl": "69d5e62b504eec48a3683eca39cbd227c5f646d6d7faa735a3b1a5ff0fe47fac"
   },
   {
    "id": 57,
    "title": "En espera",
    "text": "Cola: ¡Idiota! ¡No puedes fingir tu muerte si te quedas de pie!<br />Huohuo: Shh...",
    "unlockRequirement": "",
-   "cnUrl": "07d9c3e41b63c0cc5d460afbc9770355107b56c359803644d9a5a372f7bb7add",
-   "jpUrl": "60d41a8f52257321638934a09b99636098254f46b99ba349d5211067afbd9ec9",
-   "enUrl": "66efd12678321cad02c8360ac15d6fdfb1e7044d5d63de393226a6c10bc8617e",
-   "krUrl": "1804f3a330eb6eaf5261582fde055b71a678f31e185441743e491a785711457d"
+   "cnUrl": "fc3621bdf61a33314e80b108d926b46b0094223f283fc0c316ec98c3ffad2ad6",
+   "jpUrl": "a2b553289951745b750dfbc9dd1f8a2ad6c455d1601eb1f3a1c0c6b340021dd1",
+   "enUrl": "7288968fde87d1b37e315029fcb0b7cd5b6d25d0d2fa5d3f5b33d2a8096c341b",
+   "krUrl": "e900cc3263b1151b7cf0bf63ee06434b4becb6f8464783876681f5ed6f3eefde"
   },
   {
    "id": 58,
    "title": "Habilidad básica 1",
    "text": "Huohuo: Demonios... váyanse...",
    "unlockRequirement": "",
-   "cnUrl": "04f27674ccf55ff5ffb7a85528a0fbb7cf53e28abcbfa7fc690c9d12d941a90e",
-   "jpUrl": "160efb23907b9af843838e4d14354ddb9c2611e0bbf0452172c942d8428f37d9",
-   "enUrl": "a9c1273c0294c893b24a053b9648e68227a2164a2d5b49c511c7c141122575e9",
-   "krUrl": "e33528048ee9a81b2984e92ec1086000faf598f58df8a829e25a1631f1914892"
+   "cnUrl": "b6807bae9b95bea741470a6c068029ff92dfada5486e968cf7a27f964bf1033a",
+   "jpUrl": "956427120ede9bc386798921481d8da55afbbe69e1aba86948f81d818f80cf32",
+   "enUrl": "3e1faabf5c1bcd39b77faa5b7da47f6de5e9abdc48b03a1962df9d8bff28dda4",
+   "krUrl": "426ff52a99b3616290ebd7cc0aaaaebef91ce5b30db1165488100f30e6f0121c"
   },
   {
    "id": 59,
    "title": "Habilidad básica 2",
    "text": "Huohuo: Dame... fuerzas...",
    "unlockRequirement": "",
-   "cnUrl": "3a520e514315b9d84daf41fec34b91fa61e00d4bca9c2c56648b28d0144b497e",
-   "jpUrl": "c0a6a6d0734cf7a7d9fa3849a4bf08d06b9e023405ede60f35db87d8f573bc54",
-   "enUrl": "b22860e42a7f23752929bb80ef60f80392d45a7e3de8b9492871b1058a871883",
-   "krUrl": "4d99ae930a405fb4749a950292619e57a1f60faad1b76c4f92c57ed73262b773"
+   "cnUrl": "a2d8406dec5ecc78c27e838b9ae0ca52ded93b2ecf91b6e6de5e9518b1dbbb93",
+   "jpUrl": "b5b60940548a2ee1ee4f75eb5bbaa44628d32a2a90e4ed5ed72178a436f3cc1d",
+   "enUrl": "6d330a3cbbfa23f065c5e2d8ec9add1fbd4153a0aecb384dff5125977e5676f2",
+   "krUrl": "a129b11a80db7f57c745e1a367856af63c45b698e24637d2d0f8811ecbb057f4"
   },
   {
    "id": 60,
    "title": "Al recibir un ataque ligero",
    "text": "Huohuo: Ay. Ay...",
    "unlockRequirement": "",
-   "cnUrl": "5fd8a9eebbe97c9ccd16a124c6e227ba53b0f872d82e3901b8bdf01bd56a7236",
-   "jpUrl": "fed877976fc40f604c17dfbec436faf68e40f70abfc24fa0f01140a2e632d408",
-   "enUrl": "f6422328b7a5c6bb21243a9d63737de0d40384fd4949a8c6fb632d2131a076c1",
-   "krUrl": "d4a3696010d78d95b7552b2af13c6346cbe9a98677d4b84f87192c49ee824ac9"
+   "cnUrl": "cad3dbcb15501c13f17739755b4651f5f67ae946fbe0fbd7f073cf8787c88d37",
+   "jpUrl": "7247367b2122edfd53f2192f03ea07327d03507decdfb9ef570594a54981f2ad",
+   "enUrl": "62fbdef6e2f161d540ab3e80cd4ca54d1badf2a7d316d83e2534ba84725c50c6",
+   "krUrl": "6e04035c487da902a7b1916b271dc1f8fcf4a7d30fde545b8d4b352744eade01"
   },
   {
    "id": 61,
    "title": "Al recibir un ataque fuerte 1",
    "text": "Huohuo: ¡Cola, ayuda!",
    "unlockRequirement": "",
-   "cnUrl": "87d7d93999853852217189ce3787b5c72566d80c0f51d75e7fdf62afa9c89840",
-   "jpUrl": "9f12752d9d6da7aa6a938636c884bdb81b06d12cbe0b31eefa6078bc450c8427",
-   "enUrl": "0e22cf424aaf1176948fc86dbe19b89325b5e46051bcfd0038eb8e81075b8f34",
-   "krUrl": "7d424cbc9625eccfd1f29450595f9ce7c6e7248c041b5715e499bab7a3ddda96"
+   "cnUrl": "d9989324d7aa2fb7306b23aeeb10e012b81085de1acdf80e4f0d6529822deba4",
+   "jpUrl": "4011d48eb110189729458454d797457bd742e6223f64babc3c6c3f5f78649f1c",
+   "enUrl": "a08af9720a58b6af2656b15f2abf858bf8aa18449d6f23ef9106525156f5cdea",
+   "krUrl": "874b2d3ff2daba3125f7101a6f4303e972361412c5fbb2bfe460eb2e4b8b72c2"
   },
   {
    "id": 62,
    "title": "Al recibir un ataque fuerte 2",
    "text": "Cola: ¡¿Te atreves a atacarme?!",
    "unlockRequirement": "",
-   "cnUrl": "edb51b3cc705c322fa0afcba6918207e52dca98e96b92d640dffa73fea8045d9",
-   "jpUrl": "a19d81c954b6ca97ab4cce62ecdf391eca10e9ab5deee7186617d260606428fc",
-   "enUrl": "45bdc5e3379f16db5da7d44ed74dcde146f0f8dd9b7515676119c75eaa89c778",
-   "krUrl": "93845f04487bd455fbbc56501701062f43feb58456062fc650978709d008d654"
+   "cnUrl": "5f1887067acb7ec7d2d2be4d2a6959074ba81be1bebfb1e0af92c748093b9dea",
+   "jpUrl": "6bcbe2e88bb6955ea1d91ecf8bc80fbfbbdb9800a1d60e14b5adaf17ad86ca78",
+   "enUrl": "b3c225649b2c819d3a07535e28ce993550edd2229ccea34c299c51daa84d9f5a",
+   "krUrl": "ea08c89c556cb66c62c91ccef9ff5a9185141477f36119f26d83ae7e8d860720"
   },
   {
    "id": 63,
    "title": "Habilidad definitiva: activación",
    "text": "Huohuo: N-no te acerques más...",
    "unlockRequirement": "",
-   "cnUrl": "9007e7cbdec5a8c0b8fd69ee9e9d48620e895321d28e0667284db0ac0dda814c",
-   "jpUrl": "86df2184633ff790b0d18081f526e7e3f294eddb863b810ee668e05c88e5cedb",
-   "enUrl": "86d3b2d67269deb3da16bf394bf067c5b2b6f2b57fcb0f2a677e1101c10e9d04",
-   "krUrl": "9fe21940f56b3a8814582e5d9f7a747c14b8182cf24703b5203471ba7a143b6e"
+   "cnUrl": "732a88ac0ab6253aa28c3d7e46f28b9fed3a3ba2403b9bdf06584f24fcbede7a",
+   "jpUrl": "acd52fc32d207f383a2bcc004a33cf7ac70cd712bfe2970d87cd79207e9ade07",
+   "enUrl": "5082e9a19a30526aa038e755bfc8d2dd79848b30231e368a177e0791a7918cb5",
+   "krUrl": "c9062cd959a9b259348bc26b887103d0eeda2085598b8f8126cc0576cef7a513"
   },
   {
    "id": 64,
    "title": "Habilidad definitiva: lanzamiento",
    "text": "Cola: Quítense del medio, aficionados...<br />¡Monstruos o demonios, los aplastaré a todos!",
    "unlockRequirement": "",
-   "cnUrl": "b4950dcc50730e85ebc4fffb80cf96d0eeb28edfccae3abb822521eaefafa7bf",
-   "jpUrl": "c8149393c6c6d1f74a47f990ed946662e4a40f1b2e7e69a0dec8570ac53d3563",
-   "enUrl": "e0d337632ef80fb72306102d11bd476bd91ad1696e7e99ede028030a3067ebed",
-   "krUrl": "16ada47d4cc61ef03ad891d003eaf0a7a37c9f55ef1d2ed2d7799590d27759c8"
+   "cnUrl": "94289a7263e1f463f526dc11b6c0fdce7a23577c2edac7667daa3e531732299c",
+   "jpUrl": "f74def68d68beda3c616fdf212290e7f3fe5c9edd45fddc18e790842bc808bdc",
+   "enUrl": "94e38d9c180501205349337f0fd4fa00df4fbb4e42b6e876db4adf8c01933fbf",
+   "krUrl": "fc17d4f8fc46635f160a98e8fcfca98a0b8db1c3edc5064b377a9edd5ddc7853"
   },
   {
    "id": 65,
    "title": "Fuera de combate",
    "text": "Huohuo: Me... rindo...",
    "unlockRequirement": "",
-   "cnUrl": "ea97b492788bf38b075327986321809d5ff57758d22b6415a49920639030aeed",
-   "jpUrl": "b112a95c0cf941b0ffadba58a520030be72048d0b9596cb41b53a4c9fb201e38",
-   "enUrl": "4d36d9db92034f379373bf59928e4144e9f5fba5f991e6360d431cb095d6e090",
-   "krUrl": "77b45e2761ac9ae77b3723abbf1fc6555ca3205fbfd12a464525663d229250bd"
+   "cnUrl": "0effef9fefa378bfc28406bdcb8ad34136ec8bb37f553b4d7e4c4b54ac7c0d4b",
+   "jpUrl": "69f51bf9e9029c9bea19ad3ea4df5f1c81a113ab2a299fd29c56d6ef631ce9a8",
+   "enUrl": "6a1f5da4e7b5e0192255f554b5d86f57e2cb16ff8c9b08d5416949cbaf49b9cf",
+   "krUrl": "382ee7538378555bf5f063e5883b7089e03c7dce463d8b5cda53b21813c430fe"
   },
   {
    "id": 66,
    "title": "Retorno a la batalla",
    "text": "Huohuo: ¿Esto aún no se acaba?",
    "unlockRequirement": "",
-   "cnUrl": "406f870c97b928c41af7ee4d5dcfe63f7ad57c1ab0add23d3b2676921c674493",
-   "jpUrl": "487a086e1659361944dbe8720a5ade09834570445aa3b893fa000cceca41ea99",
-   "enUrl": "c00f0a79b8f5bf401aa94731721c7233414b110016a9303805e13b56256493ef",
-   "krUrl": "23f1a1d40b8b822713da5e48f34d3c8c563c8ba1bac0f1ab0f5c4d7270fe2037"
+   "cnUrl": "0e56e2ede65841a5ea6a6dd9f50165be07e6678acbceb5872877da0db514f9ba",
+   "jpUrl": "7d84459d1bbfb0d36719a6fe9943e81ac0e59a38ec5c16270ca397ab3b71f849",
+   "enUrl": "f60afb3fa728946db711769746dd7fcc02ac0211d11bf82f6c450d7b8185d7cb",
+   "krUrl": "a4b95ee2e07e2c4a10a8b9c04acd9d2fadc6972f906255b8d33619f8e8adcb8d"
   },
   {
    "id": 67,
    "title": "Regeneración de PV",
    "text": "Huohuo: ¡Gracias, gracias!",
    "unlockRequirement": "",
-   "cnUrl": "7dfa1958106c66ab0f885504257fba9cc6ec21f5dcbaabd5ea7755a4b5269b9c",
-   "jpUrl": "90ccfbbe14ce9473ba4788b6fed4b06f5405ebfa99dfbf15d3e941dda2b17123",
-   "enUrl": "2ee82c0fdf0511e915dbab4f91b1e8ba3fb051f2f10cc718b7b1aa05712b8abd",
-   "krUrl": "cb670971e73967dd4bd485b8a72d4067a8ee448d4bd42c120e972cc120090ea0"
+   "cnUrl": "ab0462b9fd163b6e67982d212bbd834ec1365f16dc28278224e5fdfc93279843",
+   "jpUrl": "29ebc6e40b3d291913afa89152f07c931d69d8b3ded2fae94015ac89d5214c38",
+   "enUrl": "59dd31c423269807d5c290d9ba92d8288cb74e9260f03f64b75cd58b6aa1038e",
+   "krUrl": "3d5c99aaaeb8267840ad3fb929fe4426474f9567193826e9fa9756ea709bb6ee"
   },
   {
    "id": 68,
    "title": "Técnica",
    "text": "Cola: Huye...<br />Huohuo: Ay...",
    "unlockRequirement": "",
-   "cnUrl": "2eb4f17687d1e6d209e1dcaaef04857f8579680122ae1a06503795d7ecf25da7",
-   "jpUrl": "81a6312e38a25d3dee2cd29511ecac7ecef3f03d0abe4d9f7bc32661be5450a6",
-   "enUrl": "7d8cc9307870b0b04a45a4c14fb7bb9c6af2336740d0c977195ae1db7f1dc10a",
-   "krUrl": "b5e7478900642ac72b57bd9983c7753c09992b6966f6175ddb4f138b8a4e5944"
+   "cnUrl": "83ff31402b2925b823f2a57c2906e6a5c1573ffe2ebf3d00547028d5e0df2993",
+   "jpUrl": "5ee1718ec3e402a2002372a73be9898c8a758326aca76a74915a0dfd2975bee1",
+   "enUrl": "56c10244941ca8d35bc0ac129730eaf401d9cdba85344cc3c5a06170da4b261b",
+   "krUrl": "263186431c3418dd34f43b9b3e05357e1850effe1cde94541e7d28ee5ba4190e"
   },
   {
    "id": 69,
    "title": "Victoria",
    "text": "Huohuo: ¿Gané? ¡¿Gané?!<br />Cola: ¿Ni siquiera un \"gracias\"?",
    "unlockRequirement": "",
-   "cnUrl": "7e3e3b67fe5f9dafeee96c3dc6e7926366565804a74fde649b474a4bf330df5a",
-   "jpUrl": "aaa3d206759fbbbc80b83c0844a80ffdfc7ce78ecf6a1b5513201961deac7065",
-   "enUrl": "671ef499452306bf8e77ce647887c8e1f2c190741eab41bba8b9d12ecac11f5f",
-   "krUrl": "8a752865800a84d12145e8c330db8bb70417a049a9d17e64d7efd417897b9423"
+   "cnUrl": "16d85cf7a86cb3f468f0e625c206702d69199c1c15bbc7e7cad4ee52fcaeea32",
+   "jpUrl": "c73e7e0448ef6b3fd60480cc4d1c794aaaed48bec4362d6f28de093fa61b2924",
+   "enUrl": "3d1b3174587ba41310ca65118749b7feef3aacc8888f518d31190025e36c3d84",
+   "krUrl": "d2ae5ca839fd3e5cbe70244813f23cf84fbcc207110fee516f33b5cbff547363"
   },
   {
    "id": 70,
    "title": "Al abrir un tesoro 1",
    "text": "Huohuo: Vaya... ¿De verdad me lo puedo quedar?",
    "unlockRequirement": "",
-   "cnUrl": "1863894d828fe911697cdb806fbc8c5d7ea7b5a71cb0f5fbba1db52ff86fd8a9",
-   "jpUrl": "4856770b92082c693e078978fd141f7e3676521fe75a9d2a5a5053598dcfce6b",
-   "enUrl": "3105b61802a254b2974eb551436feffa51ea818ccc0b8a0da453108656aaf2dc",
-   "krUrl": "2b020414cc85b80716922ae18caf15099f8ac90559b57ed568f1077134062d3b"
+   "cnUrl": "e7875fe6fa1bfbac776ba674ee5a2a84a5ec39e75fb715770766095ef4693726",
+   "jpUrl": "767f0ad489b7c8ad6b22b998bd3f69a711e6dbb8c6af3edcd264665f6f0bac16",
+   "enUrl": "3b6d51d4d5614bf8e45737b743375782a207e752de681797a51251f0d45c8968",
+   "krUrl": "2416e312aaf628c5f657cf148da892e551a49cffee8469857b017e8df059fe20"
   },
   {
    "id": 71,
    "title": "Al abrir un tesoro 2",
    "text": "Huohuo: No esperaba encontrar esto aquí...",
    "unlockRequirement": "",
-   "cnUrl": "eeeca7482caff68a07709f4d05fa7523445f72f970886b2c278b8a4a25163e79",
-   "jpUrl": "7d4d3f042cc3e1caed601e425e0fedc001719b1acaeff7b5e572b6b6797ff59e",
-   "enUrl": "ae8a41e763ae8327d7c61134e964b7d06552189a7752094d8b3f11961f0526f5",
-   "krUrl": "d8d8eb8b6677f89fc9d8a34b2fa1c3b5c679ac755fb0be035350d9b5efc3b3c5"
+   "cnUrl": "9f2bb81d8ebd3f8853e5e6adeed7492bc1039f253841f0927577c026977c07f8",
+   "jpUrl": "eacc50e91b42ffe42d34608abd3af6b2fa05f58f6af330efb14a9d418ab79348",
+   "enUrl": "068d36fd8796c3cc9314f27290c6a78586d8dd97c34ac36042f80c21ea52fccc",
+   "krUrl": "3382ff92da3a8cc0b4902790e4069de495fc242ebcd88bce2058356c06af398d"
   },
   {
    "id": 72,
    "title": "Al abrir un tesoro valioso",
    "text": "Huohuo: Supongo que debería informar de este hallazgo...<br />Cola: ¡Lo encontraste! ¡Es tuyo!",
    "unlockRequirement": "",
-   "cnUrl": "541ffb23fc0de6155c0dbd1dbdf22f505c69d298fc8d8126b489512895d189a3",
-   "jpUrl": "48240df6f6bdbaca72abd8f04e96f008609ca03f708edae3c290577423327c92",
-   "enUrl": "9aaf59e55763ab4d8e03e25e2ee33e98bcf04b85b5d1588675a77bbe6c8ec164",
-   "krUrl": "d6a4cb20ea91420374df1f14505e843a3f1dce507b3c186f5c44714edd93f36a"
+   "cnUrl": "50cfa4c3267aa6bc493d13af511ab2bccedab178f1225d0538681ed9de7827f0",
+   "jpUrl": "691eafa00d6c54c7b3845f61023370c684c36b15d8077fa429d4e47d4184cf3b",
+   "enUrl": "5d9cb94aa8eab5e75b6c4f49cf8ee1576ef8dff25699c30addef2bc356ebd66b",
+   "krUrl": "49f175f7cab06efc6bc3cebfc216faf6df5262a48b99cab9165eb9f2fdf7c3e2"
   },
   {
    "id": 73,
    "title": "Al resolver un acertijo 1",
    "text": "Huohuo: S-soy bastante buena para estas cosas.",
    "unlockRequirement": "",
-   "cnUrl": "908cad91ce6420891ea464d20bf61c86399250f7ce3b47b6fe5d0fc83bd16181",
-   "jpUrl": "96900eca74551fcf0e29ca10d904dd72e9172253ae074d5887e051cec8f86b64",
-   "enUrl": "2ed2f9edf0c085d029e37e3bb995d4892680cec1f6dca614ea57b2681b5f7422",
-   "krUrl": "f55db5515fb42747631dad911db9b26fca87098d8fa6aa0812eb32c2fe92ab58"
+   "cnUrl": "13b6cbc46a102a069f859c2122832d4ec0ae10d6102dce12b21964a55122a0a3",
+   "jpUrl": "3708e993ebdaf3470ae9c2973d61ce460291852d9f627ae3468edb4bdd14024e",
+   "enUrl": "61474a808a645ec9ceaeabd64a1c4593159c35287586de5984c6de504212ee80",
+   "krUrl": "8481739a0ba20d4a5b01fc215f8d2645d9841d27e091bfec87292dba9e4fcc2b"
   },
   {
    "id": 74,
    "title": "Al resolver un acertijo 2",
    "text": "Huohuo: ¿Eh? Entonces... ¿lo hice?<br />Cola: Siguiente.",
    "unlockRequirement": "",
-   "cnUrl": "f690d70a1bb4637484cf3ce092c12f4a3a53c07f3ec80aa25fa7142526f4a1f4",
-   "jpUrl": "07a71adb5d0f2be7617a7f81f4f7cd21af9e626ebd28f37d5bbf38b72974d540",
-   "enUrl": "9008d959172fea5bf76417501dbc082089fc6eca252ae4075ddc20fac261bfc3",
-   "krUrl": "5dd25e68cb59658b2cfcf411f69695d1be6dbe3e939134698b1fc40457ad901a"
+   "cnUrl": "62eda2497eb3201fdf8168563b67cfeeb8b64cec4c2eb456d91dffdca775d2cb",
+   "jpUrl": "591c6c2b6815e7aca01943839643501f880fb2a920658ea3627f9d25a325f338",
+   "enUrl": "fbd631422744506aa59103b9f62fd24d70ccbd5c0555cd2966e5ac903a80389c",
+   "krUrl": "04c5d198b3410fb6bfc37b9752b81f5909de22de890ec387f613f7c22ef977b1"
   },
   {
    "id": 75,
    "title": "Objetivo enemigo encontrado",
    "text": "Huohuo: No pueden verme, no pueden verme...<br />Cola: ¡Oye, cabeza de chorlito, mira por aquí!",
    "unlockRequirement": "",
-   "cnUrl": "2280893994f006f25b00c86753c49d4a54f9d63225837ed9116cbe2e309cfddc",
-   "jpUrl": "31f484bd35d83204e7a9e8a35fd74552ea0567183fa0a2d716ac8c6c86174916",
-   "enUrl": "7c7575520e1f0155479269927bcead3ed9c8006eef3fe26587101e46dd49b53d",
-   "krUrl": "da42997c836c95387a8ac1d6ba697f7cfcdb5a785063b0165738ddc7221b2dcf"
+   "cnUrl": "e4dbf2e035d549cedef184f040767b426aff7a2c6e899b2c010da4ed70d715fa",
+   "jpUrl": "848470b5929cf2cecd1acdae2c1a77f44a763399e5eca3f9f1083a5cea76ceae",
+   "enUrl": "68464e951f59a8dace60c23bb01ec1509ee6cadb7a2161a3eda82e420e71e880",
+   "krUrl": "841c93dfb13fa7069bfc223dd4b8450f7d18a000a96d42d73ad3d0be1802225d"
   },
   {
    "id": 76,
    "title": "Al regresar a la ciudad",
    "text": "Huohuo: Qué lugar tan tranquilo...<br />Cola: ¡Hum!",
    "unlockRequirement": "",
-   "cnUrl": "bdd4fc09ee3f24d858483571d9302ccd1063779069b2e5e1dd5e913f40b40103",
-   "jpUrl": "115ded42eeb2d2e26e0dfdfa037e791b724bc384d1be462d63e00b02553d056f",
-   "enUrl": "ac89b8178e9f5f9b782acb9f31f696924aed46e06255d77e186b935b3a27d056",
-   "krUrl": "75d9abebdb6fa6cbefd9f86251e5bf53cbfda15e6d6e1aca8032417ee8ff62eb"
+   "cnUrl": "e9dcc372759cb58186a8278e9b87d54c58287458ef153cb3481d48b18975fb38",
+   "jpUrl": "5b88a273213c70737770b1849d7fd5b889fd794e071fa149a4daa3f27d640eb1",
+   "enUrl": "e5401fa9099b108a10cf89ff0f637bfd2691a5ae1028df331ec481a76f844e00",
+   "krUrl": "480500b206b6c3c096c25b8820852bb8d2e2cab1819bd008c1f2096b094342b0"
   }
  ],
  "storyItems": [
@@ -2892,19 +2896,19 @@
  "name": "Huohuo",
  "rarity": 5,
  "descHash": "Jueza en práctica de la Comisión de los Diez Líderes del Luofu de Xianzhou. Es una joven raposiana poseída por un heliobus. Tímida y débil. Le tiene miedo a todo tipo de cosas extrañas, pero es la encargada de someter a los espíritus malignos.",
- "artPath": "910a9e9a808282325ed8dad92e82dc315e40e08174c8d2cc095de37722e3fd13",
- "miniIconPath": "0a86097a9c85901fed42e206aa0ec9f71424c3964b094f026a6988abdacb91b3",
+ "artPath": "9e78db9e1653c34773a4605dd0732cc10b088a150093b5c0ae49e253f25d534c",
+ "miniIconPath": "3eecaab15c32581aacf34622f672d23994209108745a700e1757b9daf6843c16",
  "damageType": {
   "id": 16,
-  "iconPath": "2f3d2fba0ee9442f1c51cf42a91af6f9ece3f19168237fd3963d352e508791c7",
+  "iconPath": "c85f9dc90ad2e9531c6a3badb0a7ec08397ef7402b5e816f25d5a129e83c858a",
   "color": "#00FF9C",
   "name": "Viento",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "81e58cfdc0c8a9a026c2c3111a6bdf663d572fa71524907b004fc5eb7f34fade",
-  "altIconPath": "c825fa86e9a217db6e704916b2d5aeb22c5733b2776a0ea16c558c29e6c5c92c",
+  "iconPath": "099f836bb82a0db5555a593235596f78b0afd634e500ed415da9f15b9b74a6cf",
+  "altIconPath": "4ae54818a3ef9c3327e9f885631cf822027493ad6c541701f20810664969295e",
   "color": "#FFFFFF",
   "name": "Abundancia",
   "rarity": 0

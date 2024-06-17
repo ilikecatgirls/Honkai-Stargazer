@@ -1,19 +1,20 @@
 {
  "spRequirement": 120,
- "iconPath": "68b681db4807d3d66eef6cf4051d291abb9f208f7f4c2d5404ee0ab57cd0d03b",
- "bgPath": "8991cabbe563affb6d44a5ba06e3346e871db91db8cabad6544cacc7d4c36270",
- "figPath": "ca1eea87b05a57c2a9b88164f2477ed76857212a1b0c28e01b9dc58c7d9c6212",
+ "iconPath": "6de875f097a13b3d43b1541ac5fab724fa780582f7eac376988ff1e0bc758b6a",
+ "bgPath": "47d2b0a78ebd34e715aca08c4f9d0db62685589cc0f397117709414cdfb65140",
+ "figPath": "7f088d6c6d922a504ced4e7b219b2f252073c632b84798c562a77646b64fae25",
  "fgPath": "",
- "splashIconPath": "162321fe23f64a4d109111c2133da0654336ac411c37605d6beaecb00b0de8cd",
+ "splashIconPath": "a3fd990a8f0766a913f0d8f72bf03fb29a4694aec1959d7efc7e42cc14365b4b",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRjwCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPcAAAABkGNb27Fn1/O+sVXZRqmOA8AAbDudbSeVUaXmIOzK+W3j1RW+Y4iICQBkCQIAErby3SBgNnYl/4p86weLJ3kzifbh59+oKZrCeTybSF5dk+rH74bGr+11kCBjnKSmG+RvjSqZCFlglf914ylpULnZcgCkHWrGyzoHKtMhYZ6qCYPX21U2MprNabzIthRYNady1s9GYM2czh9xkDBKxQz/MBfAJA1zN4EQyBhR+ZLO730ekJHZ9IqaibdhkAQ8T36TL6j86gcBCRGn3y4NPlGpd0ICIKP8Im1d/68oOveT8LxATVbRJ5JcdIJ4DoAz4mvGmhMBGQAAAFZQOCAeAQAAcAUAnQEqFAAUAD5tMJFGpCMhoSgNUIANiWgAtP0AJpQIhUL4v5z25TQJD5EaMIsUyG0KgAD8GLKZ6hDJ9K1W0rs0r+O8E9J+f+ZRJO2B+mfvcLSbT7FtD5jdALc+n+kfflkEToZbGn7SxXdV6Ij1GVVnD8IC1IH7Cm7ecMFdbl1PrGsFxdI7pxUTVvY2Qjvhkz/l5NsCV/67ue6yvs+ywAG0uw94BBFZfhS0CoehWzZNt1+W0YosUrp9OGmy7PiEeckmCFqiiB83lfNZVoz6wsRPtBAyvcXOphQrtTZ/vj4ytLyKbXX4Fgg9+QFKuluZ6SbAecxRN48BPsxCNJWOyYAfvwpWDmJ79B7ws2ey/c6D57H0/Wd7qdw+w8AAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 1,
-  "iconPath": "db6e0535800ce9a3dd926342c0481644831ce68b6b6add1f64a6a7fd01922095",
+  "iconPath": "9f28432ac8546f6dd782b5076a5d15201c1906c11fdeaabe48bc845302e47cfa",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用点",
    "desc": "星际和平公司与客户结算时使用的货币，如今已成为太空旅行的硬通货。",
    "lore": "「人们奔波、争斗、贸易，为的不过是个终端里显示的数字。但真正珍贵之物，公司的数字是买不到的。」",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "命运的足迹",
    "desc": "行迹升级的高阶素材。",
    "lore": "一次又一次的败北成就了你的胜利，一步又一步的前进让你抵达了命运的拐点。",
@@ -61,7 +62,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "漫游指南",
    "desc": "角色的经验材料，可以获得<nobr>20000</nobr>点角色经验。",
    "lore": "跨越诸界必备的冒险丛书。按下阅读键，充满磁性的声音将以你能听懂的语言讲述知名冒险家们在不同世界间的传奇经历，以及他们在各个星球上获得的珍贵智慧。<br /><br />「漫游指南全新书系《星际美食烹饪导览》开售在即，敬请支持。」<br />「投稿请接入博识学会联觉信标<nobr>23</nobr>θ联络员，稿酬可以以您接受的任何形式支付。」",
@@ -79,7 +80,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "冒险记录",
    "desc": "角色的经验材料，可以获得<nobr>5000</nobr>点角色经验。",
    "lore": "装订严整，一看就颇有教育意义的冒险札记。图文并茂地描述了冒险行动的始末、有价值的信息和生存相关的技巧。<br /><br />「干嘛不数据化放进光刻片里？便携多了。」<br />「面对恒星风暴和中子流喷发时，高科技比你想象的还要脆弱。何况，制作这本书的人一定希望人们用最简单的方式阅读它。」",
@@ -98,7 +99,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "旅情见闻",
    "desc": "角色的经验材料，可以获得<nobr>1000</nobr>点角色经验。",
    "lore": "记录旅途见闻的日志，字迹漫漶不清，内容随心所欲，对你并没有太大的帮助。<br /><br />「看完了就赶紧把这堆废纸处理掉吧，丹恒？」",
@@ -116,7 +117,7 @@
    "id": 549437,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "15365d10ed38771d99d247bc228b03787e29972cc714a655a9b8feef3031505e",
+   "iconPath": "4f72b8f7844978949880397801aefcce237cda7868c4a12e08bfbc01942f4045",
    "name": "掠夺的本能",
    "desc": "微弱的反物质，强化所需的简单材料。",
    "lore": "由虚卒•掠夺者体内逸散出的微弱反物质，如同破坏本能的具现化。<br /><br />「它们都在期许着湮灭之刻，与世界一同炼铸、同化。」",
@@ -125,6 +126,7 @@
    "rewardPath": "/material/549437",
    "comeFrom": [
     "反物质军团掉落",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "委托奖励",
     "余烬兑换",
@@ -136,7 +138,7 @@
    "id": 633378,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "3cd4c92ff44d695595377ffc6c0896d6839775f6014e96daf679b256bc0d19cf",
+   "iconPath": "c280dfdd449649afcb43215a3b8a13ac25ada88cac3c214030421be50e954a8f",
    "name": "篡改的野心",
    "desc": "稀薄的反物质，强化所需的普通材料。",
    "lore": "漂浮在虚卒•篡改者周身的稀薄反物质，正反粒子于此达成了危险的平衡。<br /><br />「它们都在期许着湮灭之刻，与世界一同炼铸、同化。」",
@@ -146,6 +148,7 @@
    "comeFrom": [
     "突破至均衡等级2后，反物质军团掉落",
     "「万能合成机」- 材料合成",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "「万能合成机」- 材料置换"
    ]
@@ -154,7 +157,7 @@
    "id": 635673,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "9fe7d5d3bec56787a53e9acfa89161bc0599ba7b6a3a0d95eb60863ff6dcd006",
+   "iconPath": "c34484b3ccf3e5f1f4113e3c24d465e8d93dd5fcb95446241a8c08d6f65a0d27",
    "name": "破碎残刃",
    "desc": "反物质军团成员遗落的武器碎片。可小幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "此烙印代表其位阶和「毁灭」的功业。<br />这柄武器的主人骑乘红马，点燃城市，使众人反目，令国度如蚁群溃散。<br /><br />「持此印者，受命将和平逐出列国。」",
@@ -171,7 +174,7 @@
    "id": 717319,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "3c858c8ff4df238403e5443f57850367e4164a62efb508ce359db9c5b7474a19",
+   "iconPath": "eebc291ef462012e745328f6c1c3e34e603ab1e7d8cd0d11433221be7824a2de",
    "name": "践踏的意志",
    "desc": "凝缩的反物质，强化所需的高级材料。",
    "lore": "虚卒•践踏者体内高度凝缩的反物质，湮灭之刻正是文明毁灭的号角。<br /><br />「它们都在期许着湮灭之刻，与世界一同炼铸、同化。」",
@@ -181,6 +184,7 @@
    "comeFrom": [
     "突破至均衡等级4后，反物质军团掉落",
     "「万能合成机」- 材料合成",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "「万能合成机」- 材料置换"
    ]
@@ -189,7 +193,7 @@
    "id": 782692,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "d0fe9b49a5b2f2c2ce6cd06e1a93f44291ac41df9a5e9482da67de1dc0ddd417",
+   "iconPath": "fd18a2da0a6b3b15289556f8c6c8ecdb2c1fbb9f82dfb01e1c25fba8fd3acc65",
    "name": "深邃的星外质",
    "desc": "深邃的棱晶，开拓者的晋升素材。",
    "lore": "从至高存在中剥离，倒映着万变幻影。在每一个棱面上，逝去之物和未来之物闪烁着，想要将观测者吞没。<br /><br />「文明就像混沌黑暗的深海之上，那薄薄的一层冰。」",
@@ -205,7 +209,7 @@
    "id": 836259,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "d9e262af4f143c0b58be9d20f5c04e04a252fb8f05eb675c0996f5b1bc8f6ad5",
+   "iconPath": "da98edf78f23a9c80090c50d9633d6cdf6d43fb74d873ffa5f791126205599d4",
    "name": "净世残刃",
    "desc": "反物质军团成员遗落的残损武器。可大幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "这柄武器代表着主人在军团中的位阶和「毁灭」的功业。<br />这柄武器的主人负责在战争尾声时登场，点燃劫火焚烧世界。无论受何方神明眷顾，无论曾拥有何等辉煌的基业，这颗星球终将如同熄灭的炭烬，在星空深处黯淡死去。<br /><br />「持此印者，受命净空世界。」",
@@ -222,7 +226,7 @@
    "id": 920200,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e8f74ef086a603eed69945d0872fbbc9776145890808104be58b4d30dca2d7a",
+   "iconPath": "31324efb8271c657d2271c0c656cf3c265165e1b1de5ab0a1355397703472c11",
    "name": "无生残刃",
    "desc": "反物质军团成员遗落的武器残锷。可中幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "此烙印代表其位阶和「毁灭」的功业。<br />这柄武器的主人憎恨着所有会思考的生灵，他们聆听智慧生物的哀鸣犹如悦耳曲声，他们令数千年的文明高塔于一夕坍塌。<br /><br />「持此印者，受命使呼吸远离众生。」",
@@ -240,7 +244,7 @@
    "id": 985668,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "c92e008415ed578b02aeeebec3e4303f0e6c56d05fab48f2cfd79469b64f222b",
+   "iconPath": "04088e0733990d7a0c884c42641a26089c8376f465104345af368511bbcedbac",
    "name": "毁灭者的末路",
    "desc": "行迹升级的高阶素材。",
    "lore": "古兽的身躯虽已销殒，匣中却还囚禁着尚未死灭的意志。但只要无人打开这个匣子，它的意志就处于存在与不存在的叠加态，驱动着毁灭的引擎运行下去。<br /><br />「末日兽，战争熔炉以古兽残片为基万骸哀怨为引铸炼而成的灾厄——贯彻毁灭的同时亦渴求着自身的消亡。」",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "3fc96d75cbcc70d78fb9cb2f8d9ef972fbe1912e79be09f2bb534c94a9207791",
-   "artPath": "bc8a2d0e8cda054c0bcf1c92080aa64fcdbee7f84cccd62389aeb84770a63d7e",
+   "iconPath": "34c6162c938cabd2b965d246d521ad55c6891da09b1df5e21dd3dd8934e21c8b",
+   "artPath": "b04008fa0071c3ca3bba22474821154ffd7b4bba2332ac8b306cb13c37632de8",
    "name": "坠临万界的星芒",
    "descHash": "施放终结技消灭敌方目标时，开拓者额外恢复<nobr>#1[i]</nobr>点能量，该效果每次攻击只能触发1次。",
    "params": [
@@ -449,8 +453,8 @@
   },
   {
    "id": 2,
-   "iconPath": "7898a0781d73b5c856ab955db7cb722b1ea4c69f56d2999bdc0821c0a5ee1512",
-   "artPath": "1e3f9f9491298ef683dc7a3d7ad7174921e4a6eb9c9b783ab07cab39e0250283",
+   "iconPath": "d807073c55f372cca869c87e39e199977c4ae3905fa78c214ada8eeabd585c44",
+   "artPath": "451d91adcd3647fb5b29dbaaa137f47f0479f893a6498145790d1578a3cc5611",
    "name": "因缘假合的人身",
    "descHash": "施放攻击后，若击中的敌方目标弱点为物理属性，则回复等同于开拓者<nobr>#1[i]%</nobr>攻击力的生命值。",
    "params": [
@@ -459,16 +463,16 @@
   },
   {
    "id": 3,
-   "iconPath": "2aa7c4fa9bbe6c89849c69cca2dc9d83775b6e9a876a8f216e27ee07aeeff29a",
-   "artPath": "571c3a82b0993e09c448b41857ecbdb561de55449828bba85832151027189044",
+   "iconPath": "ad8807e396522058ea6b870e6c4623edb3f4cdecd3d7a78323d40619e246199d",
+   "artPath": "acf47d497d87e07dcb8b4ce796321cbae1513d3134774453c228cadac4a56900",
    "name": "揭示前路的言灵",
    "descHash": "战技等级+2，最多不超过<nobr>15</nobr>级；天赋等级+2，最多不超过<nobr>15</nobr>级。",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "2f3d6426f1384bf7662b3f8f6889b477eb192dbcd2766b65d8062bd29cad8b5a",
-   "artPath": "09938b9ab33ec9c7ab1e28784aa5c35a7b7bdb4cea9de51e33ce8fc4f10fe519",
+   "iconPath": "0c29fdaad62bd3337207c14a213e5cb84b3edfe37a65e3fa2804132017fb2e9d",
+   "artPath": "26f83127dcfd865935db6afe2429bcc2fa4b0c459f31afe492fc1ecf5145afed",
    "name": "凝眸毁灭的瞬间",
    "descHash": "击中处于弱点击破状态的敌方目标时，暴击率提高<nobr>#1[i]%</nobr>。",
    "params": [
@@ -477,16 +481,16 @@
   },
   {
    "id": 5,
-   "iconPath": "43f71f2403401fbf3b24c93683a9a1917b3c01066538731587bee340f032d838",
-   "artPath": "7e4071a56f8084a881036f90101b659b707a01b2f38d5710b1bd4bb7fb4e09a8",
+   "iconPath": "fe2bf47cc492295e1a6e071dfcc97cc957924ce296896c07beb8bfa1c8e71bbf",
+   "artPath": "f180228c949a45cbae6fd5f280029b05a11a7011f04933ed5da12ce7312ca08e",
    "name": "劫余重生的希望",
    "descHash": "终结技等级+2，最多不超过<nobr>15</nobr>级；普攻等级+1，最多不超过<nobr>10</nobr>级。",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "b4d5682e7dc7afef7f1ed585e45344f2199dfd5309fc94cf7cb54af4bbb67e1f",
-   "artPath": "4d1927c5d280e4d96357162e8c99921f4fadcb71442f08416b2ee570cc5423d9",
+   "iconPath": "d01106af7d0f347a88f844c1e655386e5c15217ee1ace07f25388d38c074f523",
+   "artPath": "f6b893540dccfc9a9c6e0a52eb1d38a3562e4847c07fedafdad4c94e0cdcc82d",
    "name": "拓宇行天的意志",
    "descHash": "开拓者消灭敌方目标时，也会触发天赋。",
    "params": [
@@ -522,7 +526,7 @@
    "energy": "20",
    "id": 448710,
    "name": "再见安打",
-   "iconPath": "61c1ae27a8ce05d83080d4e29849eea65de7fbd5558c3a532f884c5376ee111c",
+   "iconPath": "84a3209783693c68248f400baa6630444a3c968429341e28570f575f1287fb07",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -683,7 +687,7 @@
    "energy": "30",
    "id": 532651,
    "name": "安息全垒打",
-   "iconPath": "2aa7c4fa9bbe6c89849c69cca2dc9d83775b6e9a876a8f216e27ee07aeeff29a",
+   "iconPath": "ad8807e396522058ea6b870e6c4623edb3f4cdecd3d7a78323d40619e246199d",
    "typeDescHash": "战技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -954,7 +958,7 @@
    "energy": "5",
    "id": 649296,
    "name": "星尘王牌",
-   "iconPath": "bb47e6a941f49ecb4e3a6a4210c98d6d80e9a209603511ecea7944ca42a93b4c",
+   "iconPath": "406537a81c55a439e43e11e82a07a02911ab56226b0e1115cd1c709e43b1865b",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1255,7 +1259,7 @@
    "energy": "0",
    "id": 963597,
    "name": "牵制盗垒",
-   "iconPath": "0637377383e2723fdb1ecba2c753e79a895d5ca55f6d1b548f8fbaf0532e5385",
+   "iconPath": "f57df5f03b0ad78617b29c4c1c615e4056f820a9bbf45a0c5846772da5af65ee",
    "typeDescHash": "天赋",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1541,7 +1545,7 @@
    "energy": "0",
    "id": 164183,
    "name": "攻击",
-   "iconPath": "61c1ae27a8ce05d83080d4e29849eea65de7fbd5558c3a532f884c5376ee111c",
+   "iconPath": "84a3209783693c68248f400baa6630444a3c968429341e28570f575f1287fb07",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1563,7 +1567,7 @@
    "energy": "0",
    "id": 248124,
    "name": "不灭三振",
-   "iconPath": "bbfede8450b5cbadd731f2d242afd06e02ffe0325a133d58c780223a65c588ca",
+   "iconPath": "9af09e2319af0cc5e0d58f856f0080e7da3f527d73a840bb977eb610f03e3319",
    "typeDescHash": "秘技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1587,7 +1591,7 @@
    "energy": "5",
    "id": 101705,
    "name": "全胜•再见安打",
-   "iconPath": "17e4c34ca6869f6520ef41c4858ebd8112d14fc811b2ba4aabd0587bdd42beb0",
+   "iconPath": "73ad49bcab8ebae4fb8cda0978152885fe59a8008d9b89038deaf532584118fe",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1858,7 +1862,7 @@
    "energy": "5",
    "id": 218350,
    "name": "全胜•安息全垒打",
-   "iconPath": "628584dee2c176cdd4be42d6ed3929405b94453ac407cc890e426960f3b70e35",
+   "iconPath": "4fecfd4a2b6cd5b744422fb117aab9a6a84bbbde5723f4f854058b483162e4a5",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2163,7 +2167,7 @@
           "name": "防御强化",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+          "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
           "statusList": [
            {
             "key": "防御力",
@@ -2192,7 +2196,7 @@
         "name": "攻击强化",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻击力",
@@ -2221,7 +2225,7 @@
       "name": "生命强化",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "生命值",
@@ -2250,7 +2254,7 @@
     "ultimateCost": 0,
     "id": 131377,
     "name": "蓄势",
-    "iconPath": "44259627e5eb5a2bbbddc49de47bf6b7283b9b89aeb6075ddc69b016befa70f2",
+    "iconPath": "c122a7d16fffde455ed814f08fe12de6e7b72e380b65cbc9735a1c4b4c5d34cf",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2304,7 +2308,7 @@
           "name": "攻击强化",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+          "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
           "statusList": [
            {
             "key": "攻击力",
@@ -2333,7 +2337,7 @@
         "name": "生命强化",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
         "statusList": [
          {
           "key": "生命值",
@@ -2362,7 +2366,7 @@
       "name": "攻击强化",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "攻击力",
@@ -2391,7 +2395,7 @@
     "ultimateCost": 0,
     "id": 131378,
     "name": "坚韧",
-    "iconPath": "6f79e004f57d9118656be99cd273cdda1b62b9c0b69ea00854c93751d95294a2",
+    "iconPath": "1630217de56bca279d0ef2b3ab008f05c3ca8ab4114babe4ae36596a8a5573e4",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2444,7 +2448,7 @@
         "name": "生命强化",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
         "statusList": [
          {
           "key": "生命值",
@@ -2477,7 +2481,7 @@
         "name": "攻击强化",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻击力",
@@ -2506,7 +2510,7 @@
       "name": "防御强化",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+      "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
       "statusList": [
        {
         "key": "防御力",
@@ -2535,7 +2539,7 @@
     "ultimateCost": 0,
     "id": 131379,
     "name": "斗志",
-    "iconPath": "7bf55b20c36ef9974f2c0bc5a99c59c45d00aa15f2d92255256c1b69b0619c8d",
+    "iconPath": "03015ba99a6b4d3beeef289eac81759cc8f7bd9a3f063a7c9244f94679360411",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2578,7 +2582,7 @@
     "name": "攻击强化",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "攻击力",
@@ -2604,27 +2608,27 @@
   "props": [
    {
     "relicTypeHash": "躯干",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "暴击率",
-    "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8"
+    "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695"
    },
    {
     "relicTypeHash": "脚部",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "速度",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "位面球",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "物理属性伤害提高",
-    "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176"
+    "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69"
    },
    {
     "relicTypeHash": "连结绳",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "攻击力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2634,780 +2638,800 @@
    "title": "回忆•关于自己",
    "text": "当有机会做出选择的时候，不要让自己后悔……",
    "unlockRequirement": "完成开拓任务「旅途正在继续」后解锁",
-   "cnUrl": "3f988724be5ec44a46283d58c0c923c4dc0b0f7f37e36432cc4ddecdcaf7b850",
-   "jpUrl": "8e94a43d33754300939afe75617e95f3eac1d343b0532f7dd4569bb26d3d68a5",
-   "enUrl": "98a816326150e957b6d75a244c488cc5335515467fdd17cb76cfeae7e98a37cd",
-   "krUrl": "c364fb0367ab12f472fe782cd17402339c928a2857815cd0ef0d3116722cc8c0"
+   "cnUrl": "936e8b83088f01f2fe86cb019029fd0e0acc417804b6d8c214e53cf6ebb78d4c",
+   "jpUrl": "b25c0ead5723ef534c1c71d582c8945f7781d9db869d11d6ad4e439518581095",
+   "enUrl": "6b259fb676a82bc924e540a90d26670d592e158d25f83825c12b6df6740832fc",
+   "krUrl": "c5ce58de321c281b8c881dd9b8e1c739dacb16613e7128e714fd5fc78616cb22"
   },
   {
    "id": 2,
    "title": "回忆•列车",
    "text": "如果没有选择登上列车，我会度过怎样的一生…不，不会有如果。",
    "unlockRequirement": "完成开拓任务「旅途正在继续」后解锁",
-   "cnUrl": "f46a9665f20f244200c42a27f37bf3bbd8fc07e0ebae6917b46f3401353c915a",
-   "jpUrl": "5f0bfbf8e01959bc415f6cfd1ff98314085f2ece86129a02875fe3479f1999a3",
-   "enUrl": "162476181cd13a062126ae9b0e0710e2183b4e9285891779ea62b024a0816acd",
-   "krUrl": "c560902de77c46c248d37b00921e154164e028df5dcb689a7196157d47749a13"
+   "cnUrl": "1b1ff66451fbf36d5d0c49bc0ceec2b5d606478846be3e5379c946699d9e9fc3",
+   "jpUrl": "2bda9bac7494e5c3d691d0df00e5ccd76e3569828a484fccd92e96363330431c",
+   "enUrl": "5a987cc04bf10d2021c0b82118b3cdc8a14025a131b6b01a1a58387e8e71bd06",
+   "krUrl": "6625ba0eb7d670e8dd782f4931d1f9407317856d2f0bcb0885e901eb4a8b3164"
   },
   {
    "id": 3,
    "title": "回忆•帕姆",
    "text": "虽然嘴上说着不高兴，身体的反应还是很真实的。还是多去找找帕姆吧！",
    "unlockRequirement": "完成冒险任务「列车长的馈赠」后解锁",
-   "cnUrl": "d5f0550c74b957eebb7832cc2a33af14e666d5edc245ae5b58e33256a298ed76",
-   "jpUrl": "f74e2325d3aaaf0918a345545b69ec85b6988d23c019197b7100bf9a4707e176",
-   "enUrl": "9b84035ae0b8ff98448766763806418074a5a3a69d53f4396f27c0d357bcdaae",
-   "krUrl": "2f446706afbe66a2e8e4ef0404ef6ed3643f054edfeda254a12ffa95cfafca94"
+   "cnUrl": "5b252aa8ebf673ed469267dcf40f4be0c9db826293a8feb2722100b654dfe125",
+   "jpUrl": "e4c4fedfa7a66ae50d11825ad755908083112fcffbd7cf739cf73eed67d26767",
+   "enUrl": "da459821b2c055643163f12d4c37c5e42241b99754fd663567fc167702626c5b",
+   "krUrl": "cf519dafb333d9298ef60e98a770cd48ed978002079dd94de0f5872432e3a08d"
   },
   {
    "id": 4,
    "title": "回忆•空间站「黑塔」",
    "text": "我的武器也是空间站的奇物之一，虽然不知道它的来历——但被黑塔女士看中，一定有其重要之处。",
    "unlockRequirement": "完成开拓任务「旅途正在继续」后解锁",
-   "cnUrl": "0f63d4fe1c6d641480c63a8a65746cb5cb3e9c1537fcf26bdd6b4a18b9e97da3",
-   "jpUrl": "f0aac5454bb80c72b90a0e1c1c33eca07e82828079c9f9a08db71fcdb8d25cdf",
-   "enUrl": "98e79708ddd03efc2ed86f957001272348214cc3585175955eb9af9b997a31b1",
-   "krUrl": "b5926d410bc856f9b11e054fa33b770faad906a217ae297a8a879d2a615db4b0"
+   "cnUrl": "54d2e473c5057ce12b8c532178035081d2fd9ec98e24dd0a9159e77bcb491fd4",
+   "jpUrl": "c50fb392ee9ea99b1ccf42deb89b8db30054dc94e815fa291bdc17535b65b1c3",
+   "enUrl": "694860058de3e1b29818460c6ad86a9cb17da3fd202d28514f93718c2edcac9f",
+   "krUrl": "fbd19d759c7c003a12f61d893af0d21efe94fc17bbc5b1773dcbbd7b9ef22176"
   },
   {
    "id": 5,
    "title": "回忆•「毁灭」",
    "text": "「毁灭」的意志究竟从何而来，真的是因为体内的星核么……",
    "unlockRequirement": "完成开拓任务「旅途正在继续」后解锁",
-   "cnUrl": "44bcfdf797e5935f9801b1d1884cd1de269eb0fc08e8410bb7687cadb51fc468",
-   "jpUrl": "1c677dc29dce688954071048faaf858e6f2b31741a9816a26dd96c9e8ed398e2",
-   "enUrl": "fae4e56f55b9eb765630b184dcf50956aeb745d5c77bf3194b462caf720c7b20",
-   "krUrl": "47eb2aa57bfc2a6ab55527ddd6ea5fb710cafaa6fd8ac147bcb066ad695e9306"
+   "cnUrl": "815811aa2c9f6494f04a1713c2ea10c5d59633267072ddff943cb5753b297dfe",
+   "jpUrl": "bf10c5e2218044550ba021a8f3abe529ebd8fc541f6caab2a2f4d0d726f370d1",
+   "enUrl": "193cb6792a376c05dd1ab9e9004c8c0c59be06bbaa779418b8bc1d4e5fef40cd",
+   "krUrl": "abc3d0634b1f0c3d53eccdfa634c3f77a2dbae1e1feb1dbfd0e382fd2f8a0b1b"
   },
   {
    "id": 6,
    "title": "回忆•贝洛伯格",
    "text": "贝洛伯格的人们和我一样，也是第一次看到这颗星球上原生的那片天空。",
    "unlockRequirement": "完成开拓任务「静静的星河」后解锁",
-   "cnUrl": "0bddd4e2437336175ca84f504a5d65cad7d7dc0072d6ce7ea9c626d607d15142",
-   "jpUrl": "7d6b96cc6f0b5dd1a0a0287b68e82e3cc9edee8a84973aeb49f98951981a4a10",
-   "enUrl": "4249720a74f563adbae64cbbd0603dac73a599fae70572f208b499e7f3754d27",
-   "krUrl": "45557d1c419dc329b04f2194a1ca28e858f9f4f81b8946754e104231dcfd03c8"
+   "cnUrl": "8b9055d1e5bb2d59e686f4c548e6496d0f3742739417dda2962d2ab801ec850a",
+   "jpUrl": "7aa7752ceceb5aaaae03ab83095a3a5c3ba8132019d7d3cc1758ad872a9b1538",
+   "enUrl": "1e80e06e8715ddd29b6588d81a257113aeab1d6f3f39e203cfdb20d8b07a4cf9",
+   "krUrl": "734de3e055f3d37f693e700c12220a6bb0698fab717331ea4c9517aa109a139f"
   },
   {
    "id": 7,
    "title": "回忆•「存护」",
    "text": "「存护」的种子一直都在贝洛伯格，我只是重新唤起了这座城市生存的意志…即使微弱，它也未到熄灭的时刻。",
    "unlockRequirement": "完成开拓任务「静静的星河」后解锁",
-   "cnUrl": "4c44de6f31977531ab48d834ef601f665305910e6fc417b5fdb9bee4d3a7c9e2",
-   "jpUrl": "ea1e2cd5dc645c25d5c323f75a18f116199248fb99d1b01fedda378ab5105da3",
-   "enUrl": "315a899325df93753a80d563f2c2535e083b8a632172372943598a528a2bac9c",
-   "krUrl": "1c2f884d78daec208a2b73b8ec6a20ef8fae32096cdee6126ac2839dfe00e7e7"
+   "cnUrl": "dd75603aff516a2f9f9bce8438779429613be5e430be00f04a5424331a7ec1e1",
+   "jpUrl": "bc56af5a63a5e4103d33168d296535bb091e5cdf01338b2ae1ed05d4a3ae9273",
+   "enUrl": "447f4bf477fa03b84f41531852447c786d3d81928ea655d3884e313e1d49e3b2",
+   "krUrl": "04341d9f53a34890c10e9153cc0725aeaf38d069566ce4e7024350d14a8b523a"
   },
   {
    "id": 8,
    "title": "「毁灭」星魂激活",
    "text": "选择，并非像看上去那般遥不可及。",
    "unlockRequirement": "",
-   "cnUrl": "06a5b15190e7c50d83c52db79c564731c4177ae1b82b64cd4117e2e856f9d0e3",
-   "jpUrl": "6a47a9ad3c602f5af2049d0782d8fc7ad0d6ba5786a4804f70900b6750042aa5",
-   "enUrl": "97a5e0a5212c87b69be61bdef103640833b54bad2d2191f3c40f2018afb8d809",
-   "krUrl": "235fbf9689cd724211e8bc15e56a71c448012c6e3b668db340d515d66c67d12c"
+   "cnUrl": "36940947e04fe2d3f46d518f04e58a281ce96883a6db5ac8ea4beb99bb845038",
+   "jpUrl": "5f9be3e4c9c9566ed8e3149ab95b435eb84189175c57a2c5a6a1529301854483",
+   "enUrl": "f0c5bce530489da90f419bc9f8997b877c69ea57aa49047a7856bc5377089190",
+   "krUrl": "7b1476aa4b8153ecc6f48866beb64da0db04d817668589702d0c98e21f1d7a60"
   },
   {
    "id": 9,
    "title": "「存护」星魂激活",
    "text": "选择的价值，因坚定的意志而可贵。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "36f745c2c6f8bcead890ba075855f078b20344c6e069db3fc91949b837038814",
-   "jpUrl": "3afd82a1db227d87625a3ac7cf4ce30b8787b58cfe4d1e4f2389277df208e09b",
-   "enUrl": "7ba86c384297c6d29d61d8209a8b6c7476c4ecd628c2d0ee2dedbada2689584a",
-   "krUrl": "063141ef5f9a1d1cdf7693db4bd570ef0003c58c856549cb8ad494fc47d3f8a6"
+   "cnUrl": "931558f0f5f77f5b5f2459cd768c81da3e66cfc56ab95364c7d1f36e13ffb62a",
+   "jpUrl": "096f706c4603a576492f738bb7d44e18f14274694c39f538e3de82e8fb1d8b18",
+   "enUrl": "e13f6592d89a09c540ac4dd329e2533cecef5b504010aa93265a0de1878139e5",
+   "krUrl": "109a08f067e8797782793a8a941b83ce10a6df60611bed02f384d227585a8bbc"
   },
   {
    "id": 10,
    "title": "角色晋阶",
    "text": "还未到止步的时候。",
    "unlockRequirement": "",
-   "cnUrl": "f0bb5186253bb3e0e7f1db10720849d86c65ad8f22a89180abd984c9336c4259",
-   "jpUrl": "5f29af539d5917260ead6a028057bd11b518f6f8d4bbbd94051fa8731830c90f",
-   "enUrl": "e31fdf5c99feba3c979dcf08df0ab0469f375e75f12f0240b28561708b46ce54",
-   "krUrl": "1732f43210f4c0cf35394aab64768a0510e4b0c37f30dafedbc1ae91016a1a51"
+   "cnUrl": "65c6562c27e6a719b7405f754bb14e8e06935dade1baf196b642589e5f87ad97",
+   "jpUrl": "54b714959e178b325013a509512ad31d0fbaf595ab5b8455453486f6b7084e86",
+   "enUrl": "bbbd43d5131a4661a900651ebd45411c09ceb78526a5fc5662fefb095594cf78",
+   "krUrl": "8f0efa64ae15e00e1e967b70dec8091cba105b8a64d48cc09e2e317573b86d4f"
   },
   {
    "id": 11,
    "title": "角色满级",
    "text": "旅程…不会结束。",
    "unlockRequirement": "",
-   "cnUrl": "d678282965f9873f1bdc77b75af1cad67c45f5937f77195df6fc5253f5ebd7fd",
-   "jpUrl": "18192f23c2cbb7c376302c166b7c8f91c86570f47b5506e23b790d511bdeba4a",
-   "enUrl": "1ce4b075851ecbbe3947acb7e4114325b489921d4014222d74b588769f9edb7c",
-   "krUrl": "a80637e897c8cdaa15066b09c0266ed1a62f3970c7654a8e0f97286d1f09df51"
+   "cnUrl": "939949e74302fbf61365daaed94f65e1727f3dcfb9e62de7345a5a781b94cad3",
+   "jpUrl": "7394ea829c394f6d790307c6159280e9801fb15f8c776ab39bbd63899a8b13f2",
+   "enUrl": "5c91efbc0b6c9329d651088b9897a2b48c04c6dedf1010c57d7739347347eb02",
+   "krUrl": "0587b4b88dc262d9fea89d762b2f7ecb83b1bd137b54ae2171e8bbbf83176d2f"
   },
   {
    "id": 12,
    "title": "「毁灭」行迹激活",
    "text": "这就是…我的意志。",
    "unlockRequirement": "",
-   "cnUrl": "f5137c16bdb747cbbcae1662922cb828f65a1b03b4638df3ee1a89ede90e7c8c",
-   "jpUrl": "be671e8f9b268ace77b8edc6d20e7b888752227f4a9f83afaa4c43b7e7aa9dcf",
-   "enUrl": "9c6df3b7d1ffab2480cae7cca039041f43dc961223b9412504c0b0437379fd8a",
-   "krUrl": "03429c94b7980e870ca2e8e085b5ffd21ced022f891da30c7c97a88f2d62cefa"
+   "cnUrl": "3671ea38d58e4c8b38d2779609ab7432f68a254a57e31d7a18290a69276393b5",
+   "jpUrl": "003de2cd113c731e5516e5e3be7f33408e406ffc5a3e31de31b426e2336fed22",
+   "enUrl": "0b011ce406128c7a90fde3814b1a7745b17849beab82d48105e1fd57f8aff33d",
+   "krUrl": "02ea8011720a87e312a3f020c123438a1ca64dd7d895a3c591a90acac31fe778"
   },
   {
    "id": 13,
    "title": "「存护」行迹激活",
    "text": "「存护」…由行动来决定。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "de7370f8b6d86428ef1afab862ade8f09cf1cf89db35bd8783a6a9fc37a01281",
-   "jpUrl": "93414a8acfe2f8b1ae5101b997463d0c6cfc4a19322db848d0cd911ea6cf4480",
-   "enUrl": "5cc5851b40067b538229f76706554a0af9c0e29822a7341a1646e1edd1b0b2a3",
-   "krUrl": "16dca661e310d74a5c54e005f81b79e647b891e2da8ee3c4ce3149aabfd6ca9f"
+   "cnUrl": "1294cc5dc42097bb7f4f5cf608473c2a8784072a5f63126669d9748f1ed87eec",
+   "jpUrl": "1b9b16c681618f605cc3a2a89d2b18734463443b31b305f541395bfa7945c89f",
+   "enUrl": "adc8ecf4416978ef2c8b992364c1a610608c8538934495d428da690368beb1bc",
+   "krUrl": "0b44bd432593f9cc4f48356a7e54637d84c59e5b042b9a9be3cd479e7698d34a"
   },
   {
    "id": 14,
    "title": "队伍编成•三月七",
    "text": "反击就靠你了，三月。我相信你。",
    "unlockRequirement": "",
-   "cnUrl": "7573882d017d6ecde6c3be3284638c11ab983fb4789fdbebf18a31696890f088",
-   "jpUrl": "0c68fe99acc8871512027df58535b68ecb640209511e878b51155c02415207db",
-   "enUrl": "8ca4f46eb92e1160f784ec06c08f5581a3170a522187914c0b4428b34a6a584e",
-   "krUrl": "8cf8a685057b071a382c838d637e89ab6750d00d2a38ade3c87ce03bdb0419bb"
+   "cnUrl": "843e19d0d27e879c3c6a7e085bea1615f870d1e763e22bd1d97d6f172790fc9a",
+   "jpUrl": "66a19d03feb4ed03b5bbabee68e89ba575b7a0cb38dfb966f481c304d0e60e76",
+   "enUrl": "7ffb201ecf8e09650f8e5fe7ea23ed12744cca4a5c38a45918511605612aada2",
+   "krUrl": "84fccd7fd3ed52c7ffc00fc5714f782781bfb6bf14c92b81e28baba5143db4f9"
   },
   {
    "id": 15,
    "title": "队伍编成•丹恒",
    "text": "丹恒，我们速战速决。",
    "unlockRequirement": "",
-   "cnUrl": "6955b9fdc70c57368d21e4e60fb28b13fa59b01dfc9baaf6a4a53f7c63d31aab",
-   "jpUrl": "a3abd2fa264f6bfebf956d62ee11d46c9ef922c80faaccb5a4d2d075507f3b01",
-   "enUrl": "798f569f330e3874004641da0b9fdb7881a2911f49748ae14c00b8e5dd5adb0e",
-   "krUrl": "47ddaacf247a8a855f1ac5cecdc37f5b12a5ebb0a0dbde3cc5a686a0441522a2"
+   "cnUrl": "387caea4ecc87d528659b42abb424bc73175bb5a9802bcec9dd1c8c8ec8dedaf",
+   "jpUrl": "a05654e778bd8ca0c6060003bb9ecbd524eafe2b7cc972ad50d71379e9f016c3",
+   "enUrl": "463c61f0e70ff1a108bc5361227fb3dce684744c316a1ced1907f81e4be42ac3",
+   "krUrl": "13f23ba381786d7965109923e71554e0ff222ffa32433bb33896a96b92889bfd"
   },
   {
    "id": 16,
    "title": "队伍编成•丹恒•饮月",
    "text": "就像平时那样，丹恒，我们速战速决。",
    "unlockRequirement": "",
-   "cnUrl": "539e0ab94eed2f3d449feacb1b5eb88acd161cd9a6cbb601dbdc0f7c5b350d4b",
-   "jpUrl": "7a2ff23732dd99389854af06e17f39271d611c338b89fee1adb03dee60b84263",
-   "enUrl": "429589b17eafa98c062f699dbf8cd02bb26fb042c05910a0cad06dfcbf0cfc5f",
-   "krUrl": "739ac70c3dac04b0bb47e3b666113bf67ffa0acf17ce88a45c02aed9d179f98a"
+   "cnUrl": "879393ae915b3f6dceb61c99b1ef6ead1a9ead7ef5193de3bceb434950740cf7",
+   "jpUrl": "704b65f247c17d4396b4c453b8978a35d319f4ce03c91b8299c7b17d401b5f41",
+   "enUrl": "4c6129eecdad77d1f4b0904bb3e6dd604d22c728132bfc75d62658af5bc33e80",
+   "krUrl": "c06678fcce83b7a6cdc78123dbcef08fd1d54c88a6ae099a0cb90d79e80ec609"
   },
   {
    "id": 17,
    "title": "队伍编成•姬子",
    "text": "这次也拜托姬子小姐收尾了。",
    "unlockRequirement": "",
-   "cnUrl": "8756b8771274de1e4bf9e08c309c69ad7731c93da5a77bc65df1cb5f5a515a40",
-   "jpUrl": "39ba138a46049e7fd4ea68279cd83bda21a950ad97ed5fbfe4d64a3fbadd7774",
-   "enUrl": "4f629a381781babc024377b9acb37f07b5f6f10675ff952f9809d4a9405279d7",
-   "krUrl": "8cf95e7ed73fd183f037b4015a2ce5a258b7f22e566937715c076d506be4ecfc"
+   "cnUrl": "7fa36efa2b1cdd55c90581ff6c5c3321e0394bbc58db6b66b5ee9b8325eaec0a",
+   "jpUrl": "5c6ad1fd5f34d87b58f6b7a86392301fe8a0ac086576eddbee243876ae01fc93",
+   "enUrl": "ddc2c5483882621bff0ac81e6d78cfa15f765da2077166e7817facf1a5986bf7",
+   "krUrl": "14344f96573564b0354cd9f8cd3d2def0dbb94973c4029bbf35805b671da11a3"
   },
   {
    "id": 18,
    "title": "队伍编成•瓦尔特",
    "text": "放心交给我吧，杨叔…咳，瓦尔特先生。",
    "unlockRequirement": "",
-   "cnUrl": "5f9dab4d088d97982a06de2c953beefbdc07ca4dbdd9a706df6c3806e7935d84",
-   "jpUrl": "8d77486160cb1fcdbdad170c4f6383dbebc1f2668ddcfbc17aa782ce9e78c43b",
-   "enUrl": "dad9add2d66b54ef34f6a608ba2b1b4d8e5d837361eb083c33184eb4a47444a0",
-   "krUrl": "f5c2c4796c0ede665c41b1411cecdad9f2250b11a0ad383987463157a26bf656"
+   "cnUrl": "7ea05917331415d29e40090fd82663ac83fc03d4a4a66ae63a887cf8417e898d",
+   "jpUrl": "0662871c883647744ce54cde6023c58a9fa3a104f7a54d98400a64dc03064934",
+   "enUrl": "6b23dd21ffa4ad1f3be2d650f82acd66671d650285341c1effc817f97e2523d6",
+   "krUrl": "7581f0c1e8bd9425776a660fb096ba0846785bb8398fc53d0958ddf11196ca7f"
   },
   {
    "id": 19,
    "title": "「同谐」星魂激活",
    "text": "即便互不相识，我们也会为同一目标，做出同一选择。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "f8c9e7519133eb710dce9a98ae90f28397baee8dc89c5af6850e746b1fc16e59",
-   "jpUrl": "61e064e1c69ccd6a68ed67763046be89652877f6bb834b4c0f9876c126699532",
-   "enUrl": "f2c267b8e0d88ca3adbcbbf2af1c33a7c366b62a32d89076e65ab9d1bf871702",
-   "krUrl": "f9b5fc6ddcc0ce5dcd370fbfa20fe7d53d0c2a5f2c0f83728e446919b9e94882"
+   "cnUrl": "b42888468c18da56dc3c1a9ef5c8c152b5c8196c483242dbaaef1dbeb95db7bf",
+   "jpUrl": "c57b11973e5625e866e9b12aae243a24e6213602447b9ca956f27621e513531b",
+   "enUrl": "d1fc874276ef49e8d4c1f970d1a182a5061be21dd6f5eb09d805940f06b80a6a",
+   "krUrl": "77e50604b8ff7184c5e356167c1364bfb262770f3899940335d354bd8f3944c1"
   },
   {
    "id": 20,
    "title": "「同谐」行迹激活",
    "text": "在岔道之前，珍惜同路的时光。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "a8bd9560e1bb5a2681cf388c79b3d53b0d8f02ed19058e0827b37827fc2568c1",
-   "jpUrl": "03bbcb5c1ce328a64cf4653854f3bd41da95d5bd4c8829094cc6564cc78c9ca1",
-   "enUrl": "a297e4e390b5d2ef27a92584eaacf2c9cf5b06da4cd71c0421fb10c7b6a1e8ea",
-   "krUrl": "abc4259bcd82b03cd7590c731578c904fafbd78a38b874c979cc13947cf333f2"
+   "cnUrl": "e43d5108f1ac178e056c1402ef7834f2011c9c87b4f13c1cca9b11d4a660e719",
+   "jpUrl": "333d03b44fd7b43f2719e5a79eccddddf31b95ccf10edbc2b52cb2fcd4f6ff1a",
+   "enUrl": "114eb70407381fd232dcf312a184398659a27cf3f7a0bae00a729538e0c7bb45",
+   "krUrl": "6cc954b07f1b9dffa5d50cea21468ae6bbe7e62731c287bcf6ce039ea66d8441"
+  },
+  {
+   "id": 21,
+   "title": "回忆•匹诺康尼",
+   "text": "在匹诺康尼，米哈伊尔早就以自己的一生诠释了来自「钟表匠」最宝贵的遗产…只有当人们醒来后，才能将夜晚的梦带入白日。",
+   "unlockRequirement": "完成开拓任务「异乡异客」后解锁",
+   "cnUrl": "41a7c2639639f11bd5c11ef5b2d65582e699f11780d9ea9e70c93d7dceefa3d7",
+   "jpUrl": "c9df28e40da316ec80d466a9c519b0530f43620680e4ab3bb95604ca8d98f408",
+   "enUrl": "7294e5b82c89f2748661342de2fc3a59f6d193c962ead45fa5dd4ad6019b03ab",
+   "krUrl": "9d6bf54d9cb31388859b7f3ddc5a90155551db49910c1a0e673d96839120ada3"
+  },
+  {
+   "id": 22,
+   "title": "回忆•「同谐」",
+   "text": "与很多人之间，并非没有纷争与争执，但在偶然的命运相交之时，我也愿意暂时放下这些，望向我们共同的未来。",
+   "unlockRequirement": "完成开拓任务「异乡异客」后解锁",
+   "cnUrl": "8bfc4086bdce894a2a8991973306a9a025529f84484a91306db39d70273e08b2",
+   "jpUrl": "f3287bdc673099abbe70cdf966b3a9b1a7b0c33baadcdb055aecf07709a6ccaa",
+   "enUrl": "eda3349500825595304fc39b8cd6e7a4d4962c81cec37536d1f11e5368ea739c",
+   "krUrl": "7dea45c8188d0d2ffce50ee23aa13aa520c72fe5c595ca8d1c2a3fa2efe08d6c"
   },
   {
    "id": 101,
    "title": "「毁灭」战斗开始•弱点击破",
    "text": "机不可失。",
    "unlockRequirement": "",
-   "cnUrl": "dc4edd07b47c9af8860e834e7b32a637afeafb1ddfae8dd1d42f836e6d2121a9",
-   "jpUrl": "003816a33ca4f73ee0c104c44bd5b8b5f136f23ffd155cbf4db6a19db6f71b1b",
-   "enUrl": "392885115bc71a23b4e0b2b4e2c54720498129c58362f77c79e791f8387d3225",
-   "krUrl": "232cd546cbd9faa9e019d6e78347a95390723fe013cfc1a0f3e5afe97ace77e1"
+   "cnUrl": "ca0a01251ab49229904fa804fa8681af66923368b723211711da841d06e9acd2",
+   "jpUrl": "78f85492c6d0812e8d2b5863dd815c8ff95518e3b1bb6895d43368bd5cca4da2",
+   "enUrl": "21689df1bfa6584d740aba3bebb5e7974813b26c12b2132b6aa480c3e3fd3c80",
+   "krUrl": "aa5a7dbbc30dc7671b96a844362d0c79d8b6027776758394b2d056b560c4f3b4"
   },
   {
    "id": 102,
    "title": "「毁灭」战斗开始•危险预警",
    "text": "警惕起来。",
    "unlockRequirement": "",
-   "cnUrl": "68c852bcc702b1fd5b21d11faf1eadc014a2f5726035615a3639aea00018cb63",
-   "jpUrl": "c17666f68585199e013de2ffa9bb3f7bd4327d97a64ca1e19f613d27d668378e",
-   "enUrl": "f09207126fd8b9074765d4bc4740d5fb908398fc8b710d31ee5375c855dbb210",
-   "krUrl": "957fb2d2271c52a71b0a2e691e8764cb0b88b6d4b323f621ba939bcb28ce6a45"
+   "cnUrl": "36e739f9413c4fe246bbe59bbfcf5f2d3e971691fe2fae8fa49461dd59ad8f75",
+   "jpUrl": "090d6ea3bad362dcbb6411461f397901495a34f22b7b1dfa84457edc981c93e2",
+   "enUrl": "c7fe1c02c1026b575344a27d91bc670570167be5159331e6b04be55535cdaab9",
+   "krUrl": "f47e2acd6a4f442f5172c59658acb46549681072f680ab273e9c0b26c4a59bfc"
   },
   {
    "id": 103,
    "title": "「毁灭」回合开始•一",
    "text": "要开始了。",
    "unlockRequirement": "",
-   "cnUrl": "8ba6555827e701fa4f047284a9b7b06d2bdf3f4362c35c22efda3c8dcf12bfc9",
-   "jpUrl": "9ce32283c43aa84885f252a07e1033b8299a6c7f19acbd92f5cae6010d2df6c4",
-   "enUrl": "9df7906f09d824c9301737924b7841b2bb8af6a44fd73cb435373b39fdaddffa",
-   "krUrl": "26ec47c46cb4e5432b052bf346ba18f3f4ca4e36771011cd4695a1393a169ea3"
+   "cnUrl": "b4ef5d37a481599e2ac7b4918cb8c7af0ed4e8df1d5f5eb5c2e0f70d749e5bf8",
+   "jpUrl": "a5aa0b99148f8a06c437cce130c299a86a8108696571c84f575b33b7bbc17ad2",
+   "enUrl": "f18282d49d18c9edff79a3b6dd2dcc2a396ae75369cc6f9c04e3b1a5159c65a0",
+   "krUrl": "3be636898caf20a1dcfefbfff46419f90ef2d8c3e67fadb16f5c9f4c89ac78ae"
   },
   {
    "id": 104,
    "title": "「毁灭」回合开始•二",
    "text": "速战速决吧。",
    "unlockRequirement": "",
-   "cnUrl": "89281d7d5bf09319f0ad8cbc1d178eac81a7b31a6d6508cbcbdba357161e53fb",
-   "jpUrl": "d51a2cd15b10be41dbcb8ef23a2f35c54467aafa18dd85545758711c8156f294",
-   "enUrl": "b80bf471659ea8766b1d8752379e60923776914e517cbd3a9862b064612bc1b6",
-   "krUrl": "6e7c5354ec63fec6314b2a985a25addf5bf88f10d24899917cc831e0d3eaaade"
+   "cnUrl": "5eefbed1e3899e2e73a0887f711d4b9e60990ca8c86ef340d06a896fe3b9a9cd",
+   "jpUrl": "7d9f44e63047283bc8a0c53a8b8022a0444d9303e3564044229ec246d0ad6631",
+   "enUrl": "8d1b541f40f61867104424b4a51bf989a6d347e7ec67236392e974a6c705661b",
+   "krUrl": "2f5525d3917c11eb89ffdc7aec15a18834372154c32bfadf9e78384d44374816"
   },
   {
    "id": 105,
    "title": "「毁灭」回合待机",
    "text": "下一个是谁？",
    "unlockRequirement": "",
-   "cnUrl": "ecc044109b04d88b23d4489aff0f2530911ba1e9b549c04447339baeb6b8146d",
-   "jpUrl": "277a3f15502cf15057cb7cdcf1365ad4280bbc1576fd4fc36ce8328b45084265",
-   "enUrl": "f224c8fdd4582fb7e2ab85da043a41f92e031e19360feb6a4c0cd9f469fe2860",
-   "krUrl": "98791e1be0ea01be62bd0218f9d24a9bdd05622bdd94c0dc2d2e2ae901342e88"
+   "cnUrl": "17041a8c86bd1acc4a362bfa74ac3ed759fdb228351acebd128db7a9c6679cdf",
+   "jpUrl": "39277c67d2401acaa0f02b1b4df6137b22e7b6c54f46d6afc764ef89c0418c76",
+   "enUrl": "e4d14901506c0cc18ae63bf6ed138c459c46dda25c47a33ed738a37f51702332",
+   "krUrl": "b4be9153b98605cb7f3a3d3e55a1bb383056f89ede0659b9617a3267e43d1170"
   },
   {
    "id": 106,
    "title": "「毁灭」普攻",
    "text": "轮到你了。",
    "unlockRequirement": "",
-   "cnUrl": "a3c35d54e03369aba4bbadc2fb6edd766120cbd46aa49735edd57243536a3dd8",
-   "jpUrl": "c53be5daa8f676c41437c271988394350caa11727999d690fbe1c2432ff96a07",
-   "enUrl": "b03593b12cbc07fc7a20376f3ea2a74b5fc8f55545a41e761f7de1e9ea161a5d",
-   "krUrl": "48ce95a18668d699145fc32b7777dce65f4ed8b41c74804cb492f8d6ca8446e4"
+   "cnUrl": "6a805993a4f23b6721165f6dfda79f894cff454ccc718e0edbf7d32f34e7c685",
+   "jpUrl": "41cb2fa6b88bd76abf765cea040f1f6582cd0366513c56bd9e4d7257087a4bd4",
+   "enUrl": "deba907f284b12ee8affa689379fcbfb2eff4b3e589819fe3df27a7bfcf8c8cf",
+   "krUrl": "f1302dcb0ef6127b9e07058ad3f0a6b612458037c365379e33a05ba129c42064"
   },
   {
    "id": 107,
    "title": "「毁灭」战技",
    "text": "尝尝这个！",
    "unlockRequirement": "",
-   "cnUrl": "0924eee6695825a3c8be37ded98543cd1a990bc08e51e5da84d551282d2e85cf",
-   "jpUrl": "ff78a1293662e84150e6c54a5904c4f34f22a9e9adbe2239f4372ff7e1356cff",
-   "enUrl": "d1539a505af184ef073beb5463ea0799cb9209cbfb34f31f5af9dd7a6988798c",
-   "krUrl": "ab8a125039218897ae607508e6f0f259378b5cc3198d6adfd3954233b23f8e59"
+   "cnUrl": "7df7a587dcafba6e690ec14d8314bfac28bf3cde1a92bc37eb5fed2aff7b181f",
+   "jpUrl": "d7aa2b411b18cff815dd9d06e7a02090f9b794b382ee872b4cc1e42be9dbec8a",
+   "enUrl": "b869bca7c223d7472b62709aa1d9695f3cfdabe35e39d0b83c484e007bce3c9e",
+   "krUrl": "1df23ab290363166ea66b664da14ca591a6b78427f28b52ed0475e1e48446709"
   },
   {
    "id": 108,
    "title": "「毁灭」轻受击",
    "text": "不痛不痒。",
    "unlockRequirement": "",
-   "cnUrl": "bd7a999586aa4318d3cb350063eae05ecb085e808000fc8614b777a3e8e26f3c",
-   "jpUrl": "e98433edcad311a5166b62d5956b809e4603526df0a62a26578973ea28f86eca",
-   "enUrl": "0ef08e842586adbbfb083718aeb46b1a3c4d5615530a5568f9adc535dfae0c68",
-   "krUrl": "46b30bb5ebf2959b2ca12d3bfcf5f2fcab1fc6fa64bc82263e79ad2adcaaf2b5"
+   "cnUrl": "e19fe7ab8a736b2fc7e446bdbe0ab72678c8c2ab41b200b9eba83cf375b6aa37",
+   "jpUrl": "01746c225666932dd090fcb99e60f2648624ad9749bbe9099dc02f783713a278",
+   "enUrl": "43dd835c6a4af895cc1c233c05f3e8c5d7d4704336ccfc233a5e55a9df3644af",
+   "krUrl": "73f8fac6e7538180a391d4d2beeb56eaf6a7f090fb4013977aed4f22b873da7b"
   },
   {
    "id": 109,
    "title": "「毁灭」重受击",
    "text": "还差得远。",
    "unlockRequirement": "",
-   "cnUrl": "5d5254c207c54ab86b8347d468b6b5a52f032d24574af46871b60f0f9c8f55ff",
-   "jpUrl": "e6c045cb78ca7a9851110b438adc751f0f31ff7b57ed47dd18a0157613a2e7c5",
-   "enUrl": "6a7d016291e3736a6d8f1903fc3333f3ee7721a3d62df2de8b3af969c4f3027b",
-   "krUrl": "03baead619bcaa5477d04343327bb8bf97507d3c6107ad5e93788e157962c42e"
+   "cnUrl": "f060631b7c7b43bc33b7296fd69a7c89572fea62b61514a230af3155c4da2a5c",
+   "jpUrl": "14c6c8c3813046aec9df4be7cbc52e6c2b73f1d18fa1e0ee997b93f83a6630b6",
+   "enUrl": "5bdf48d9c732352414379f65fe4659e6fa2663fcc330e9a16d77cbcf4f72884c",
+   "krUrl": "ccd35153972da8a43a23e8598168dc6e5111be51c0d5ec2c1862dfc6a29fc825"
   },
   {
    "id": 110,
    "title": "「毁灭」终结技•激活",
    "text": "规则，就是用来打破的。",
    "unlockRequirement": "",
-   "cnUrl": "02ff305dfd62914230d4d3ff629805516bea8e97534bb6ebed237a44fd8a241e",
-   "jpUrl": "8f226dec8c425748548c49c3c8e0d83c5c57ab7e64d7b8b2a5f2052686427559",
-   "enUrl": "c994f34f4224d56dd7f0c39f7f1b19bc558e7314cdf883ed38849fee394e40e8",
-   "krUrl": "6682e47da0cf82d8815a5a7f1086f54fff773bf652c50f0963834fc18d4c4fec"
+   "cnUrl": "cba0f4f801d15f6f22a3b6e15d334adbb380406490ce245aa290fc39ef2db94a",
+   "jpUrl": "ddf76ffce533146437d4a783f5002b5ba35a1c2874e01b8de0b5f0309d134a7d",
+   "enUrl": "ad9a527ae6cd8b0e1217c4d2170cfdeeccbef8324fa45162ce04af83902b893a",
+   "krUrl": "bd84744c5770e1c9133c9b397633d610d2e11ca74c57f81e00840057c295f2a6"
   },
   {
    "id": 111,
    "title": "「毁灭」终结技•施放•一",
    "text": "你出局了！",
    "unlockRequirement": "",
-   "cnUrl": "7f200848555358bad429a7780f13cf2bfb9e5d232a4965ba57f82aa2450d84c3",
-   "jpUrl": "9af107a49421a5c87a96ad1b711d1dffe91c1a9b35f3f1217430330717b49eeb",
-   "enUrl": "b40e4d08b942c762f2446e9cb6752fe0ed99859c7b62c8e0a78c9e0a4f03b9f7",
-   "krUrl": "d3bd16d8a03219157021b1b7a7d6fa2231711d5165bd2f254224fabfc74c0d38"
+   "cnUrl": "e1d9a6f586a2da0d2781e22d51fa19e58ae1db716796ca18f5cd3389809c8df0",
+   "jpUrl": "2b5e252aa77b58009c4ac1885b1636ea815adfcee85a9db4ee4ca9028bf44db6",
+   "enUrl": "3464c6aa8c68786c0e13855d56dc7520a7a52908de069d41c2a1f9c92ef7fdaa",
+   "krUrl": "6b6a872bb0f2ffb8886db4d299c7c743055569ecb07cc2e070db17a19232f87a"
   },
   {
    "id": 112,
    "title": "「毁灭」终结技•施放•二",
    "text": "我来送你上路。",
    "unlockRequirement": "",
-   "cnUrl": "b335f0974d46402cbab625039028868127db72d76bfef018347c8671e6f69245",
-   "jpUrl": "ff0310d696dd2d2af6abbed38255f743af12a8583b7f5e38ef54f39e67b60192",
-   "enUrl": "50e5553280b751e832d1a6ac4646702dfc11423d6df8495bd114354cf6424dbe",
-   "krUrl": "e2aca22a0a218d35677974dbe2fd294d7a862e97faa5088d6896a761e82bcebe"
+   "cnUrl": "d337e26d3ab57e78aeb6aca84f093089f0a521d3df1655c6eddbb8b4e1fe313c",
+   "jpUrl": "9a45dac00c2eb846f5a33e0211b318dee5a480bdbaa2bde6f41940612c84341d",
+   "enUrl": "9ba993ac005da0604264ce75272c85ef2494542713d04c2f39db0dce45089dff",
+   "krUrl": "77e61aeb5269b6336293a38342456da1c92d92a6be41f8b009eaf45f7e1169ea"
   },
   {
    "id": 113,
    "title": "「毁灭」终结技•施放•三",
    "text": "致胜一击！",
    "unlockRequirement": "",
-   "cnUrl": "6c54deb473361fe8aaf82c06f3b2e3c38ee2eb90099a7fb12a90f8ad96da971d",
-   "jpUrl": "8000afb76c1e0ca6d95a0ab2297af2bced94610656bd2ecdb529c809734e23c5",
-   "enUrl": "968b1ca323ed85a5f45f464009c580d0d1107236ccd53d5b081086e5be14f251",
-   "krUrl": "a002e548c692d24e5a317f493c001752e4aefdf4b3a8ca57c0827727cb0e7d02"
+   "cnUrl": "4cf98d23cad4a8794ae5478db52c19409c3ebd9c6e8b7ea5b22e25a1c6d35903",
+   "jpUrl": "3921d837164cc83b9e5f3de14e980b540afd3b07032b4e2498e3c8e65cca3f5b",
+   "enUrl": "c32b5ca9e55e1999e989b34ef5b38d5f0222170cdc1606e4cd90d18b99143714",
+   "krUrl": "0ad67700c90d5b61e9263f209b7ba7d39b0b73dec3c2c69037b6fbb081518442"
   },
   {
    "id": 114,
    "title": "「毁灭」无法战斗",
    "text": "是我…输了……",
    "unlockRequirement": "",
-   "cnUrl": "583280b17d62bfd1c51c60f8ec19df77106aad57fa36798b61b82c1342397ffa",
-   "jpUrl": "a4a2c640781bb1331c6ea3439bfd5060de746a4f4b9c6405ecd84eaa60bcd4c8",
-   "enUrl": "5f3797ffe3948fd9c2857901940bc1fdb83f96b9368da56741808e48ec51163e",
-   "krUrl": "0a212ed73ac4c259981593c8a2f9f056ba29261dd1e52f74f6605c5a65a55e0d"
+   "cnUrl": "89dfacfcf9f97841ad4f9dc3dc242dd6f8e3eee7d1d48386306eb427e27eaa31",
+   "jpUrl": "5d1c28f5f509e6a916b72d8e34f39a9ba8e3f85a46362183b0af8c23ae07a7a3",
+   "enUrl": "32b583391bb5798589a080c2ace61156bd69addf34e83eaa0e03205e89e1f94a",
+   "krUrl": "173088f4381ba2915b58750596b86674c85b0765144248ffb7df373f7a5c3d84"
   },
   {
    "id": 115,
    "title": "「毁灭」重回战斗",
    "text": "开始第二轮吧。",
    "unlockRequirement": "",
-   "cnUrl": "8a6f77e2d2d620597281261940eae56639fd20bbff00b8bed5dab9f1623ccd70",
-   "jpUrl": "76ad3d951a07495fa27cb9dad0b2c39f63466058c5fe6e721d6461177e0aa935",
-   "enUrl": "c11607ccca2fbe963838a5ca6ac5043ed494fa392aaba6a708d9e4e6f870474d",
-   "krUrl": "850411202963b7a2ff60273c9e47b551e910fe7275380d33f5495de5ebb72e67"
+   "cnUrl": "9c3f59ab2c37ea7d978b0e3221ae7cd9996e4e1cdb1b11f9e110aa0cecc5c778",
+   "jpUrl": "71a74a76305ea1293dda93e4b2678a6d15040aa8f882535d74160631422a5e3b",
+   "enUrl": "73346cbeda239e1a768762ce5aad5787afa12c57808f60ed2cdbfde339c6588d",
+   "krUrl": "a1a568f8edfd76a28350535292388a741e7db11049b6678cc5787b3f44157ead"
   },
   {
    "id": 116,
    "title": "「毁灭」回复生命",
    "text": "好多了。",
    "unlockRequirement": "",
-   "cnUrl": "dd7c6d00cdb2fc19393b8895b01df97a1314b7168a48ba551748b4ec4fe77b14",
-   "jpUrl": "b14797e5929d52914f5cbf539f4278250c4a628084635c4da5c59919afa296a9",
-   "enUrl": "8948612d835376d400b2aacf0c09d0e0a6d61ec282e1aca70c487f9d3b337d63",
-   "krUrl": "9b3da3e40af88987c48bdc756230e8c7ad565f214e4ce080526297124f04d5a9"
+   "cnUrl": "6c6b106f25c23f03d4a0f88571db958a809852cadea05828ca0991cb9afcbbce",
+   "jpUrl": "0e2a95b412ff91eb5975c2485edabc0a3c56ed32446541dab2e637bc05645ff4",
+   "enUrl": "e916f7b54541da50f05499990346155d455deccf44ba706a9216ebf14985eef5",
+   "krUrl": "3686b510d4cd58f2c34e46a3eb9aebc83352b82f4642b00c42f0216dfae2919b"
   },
   {
    "id": 117,
    "title": "「毁灭」秘技",
    "text": "再坚持一下。",
    "unlockRequirement": "",
-   "cnUrl": "37fc67fb2677cc9cbdf84aed8de71022df949a28d899c3bab18ed03d44205c11",
-   "jpUrl": "deeb8a88e5842faa9318487f065b59b34f5a490ae0e99609e600f0ded38d9314",
-   "enUrl": "e8dceb8c37f2addc80cfcf204a0720984ed502b9baf042f6213cde952e083f23",
-   "krUrl": "ce34d2d8db4232ac689092405dacb7ef05d4801a04902a62aa00fa8223c9f844"
+   "cnUrl": "69df14244f47303c92cf47252ef43b9971b245a3b8f4e95f3094243214b1153f",
+   "jpUrl": "df5df7b844744f98ebf7ac6523e31b5e00b18a763356eb7194646059b7857460",
+   "enUrl": "fb978762198058d7ca8d32a707c3023b8744dfd8728b08050e21d409eea402d4",
+   "krUrl": "320d7c84cdf75c8294aac2ccd2aea7458634ca010e3075b303fedb02af4feb10"
   },
   {
    "id": 118,
    "title": "「存护」战斗开始•弱点击破",
    "text": "进攻的时机来了。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "89cdc394c4a7d725d9e0d0bee64707d40fae380beb7aca49dc4cd6a18907091a",
-   "jpUrl": "9ff55a57856ab641115d4f562714f2df0ecd73a2fec80c88c76b0efbd05c57f2",
-   "enUrl": "4ad70c35585e044e32871520860030a77d6b450619227b2d2c01920d97314af2",
-   "krUrl": "2d38792524ec6ae99be6414981c0d31323074addb35858c23a1fa23b8f0a1e22"
+   "cnUrl": "aa52601f273546fbd3844127e3e4ea30230296ee4d72cf94087903381c365768",
+   "jpUrl": "70a6e7a91e394d6f10d3424e84af241423fbc67ad45d8c037410863aad1c537f",
+   "enUrl": "73e86226407eb430b534039d273fff83014ca540ddacdcbed80cb7dd88909ce2",
+   "krUrl": "9fd7f4cc2b76739305d199143fb61b1162d0a582c8c9ab6742f51e08983ef10d"
   },
   {
    "id": 119,
    "title": "「存护」战斗开始•危险预警",
    "text": "警惕起来。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "0c8ed4ecf60c047b1d659eead1e5f38ce21eed8f0f638ee550b0f44c3f539130",
-   "jpUrl": "dfdc44fc234c2bbd6859a5c79fa88b3b4575ff6217440b0136f685eff7b6f513",
-   "enUrl": "c8dee549abfa994accc77d7ecab190418ded8a2940781182215df77f03844973",
-   "krUrl": "0b102e2c849a35550f2c1b5a81fd2332cb11aa7d04c0bdeeea18edc839a97048"
+   "cnUrl": "c006f570ea8efdb3178ed44e1199c69062ef3a97c3930eb64065dc1ebfe21961",
+   "jpUrl": "fd7852ebbc8999b0c892e76c63e89fc63d033b52abe2d07b892e3f75a1930c19",
+   "enUrl": "368802cf0052952c06b86cc5dfd49233b4f836f2d883fbdb49de781730272954",
+   "krUrl": "a233747069c27d330fb2a5404eaf3a1e5964581f7727185c2b5cf26d7071d6de"
   },
   {
    "id": 120,
    "title": "「存护」回合开始•一",
    "text": "骑枪，备战。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "615b3134b4cd9fff8bbf4f0d237f7c3f82e14beb8282a9acbde1763eb534cf85",
-   "jpUrl": "a9e8ca6afa030e706c36367dff1c7a3fa875cd83c80b93df718a74cbae68635e",
-   "enUrl": "1f41b69e43baa0cf2b64c26d94dd29829067ae545fb9b3acf5f890b40f749366",
-   "krUrl": "c47476330f1fd1fa70e362b65d0cd496ad0ec29d7e0a19e03d0d83fd93dead1b"
+   "cnUrl": "fb26049e55baf75af21ccd38240ee4622691efac82c335465c4083197c4e3041",
+   "jpUrl": "c12a26ce22f18df5c50c5ec6fea6d0d29903e8b44a481bf15cbaf79f0e745fda",
+   "enUrl": "e686e7dc2cefc582720f3e963cd65120075ab4cc6bebf9ff6eb1a1bab9acdd1d",
+   "krUrl": "2ff1cf49ebbcd1c71bcd91585c5ac585b1c8f36eef470c9ea803a6d283558545"
   },
   {
    "id": 121,
    "title": "「存护」回合开始•二",
    "text": "我来守护。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "750e90049f4c7bfd289305b75c45fb269f1fb6c80ab05b729d0466460fc7c0c5",
-   "jpUrl": "39e817ee838b95fb928d043e433b134df8291496eadce703a1516df5ce97767a",
-   "enUrl": "f5359199b6db82efcbc08dc4c40bf910a88f136ad33580495831863c0264f3da",
-   "krUrl": "2a7b384ea6a98e152181a1d7b4dd2b00a34d15d21faae73e8840bb41446e2e3f"
+   "cnUrl": "4f8eb12948e5a94745ad9d7173533126346a6e4acc7abb74cdde82f2418e0013",
+   "jpUrl": "6dc39d0913d1c7ab2c9fe608a52933f8b6e4f543b0dbec549bcef500055b4421",
+   "enUrl": "f8efcc7ff4240db19cda4a7c41351954ff9734e563a5e5dc8a723b7dae850089",
+   "krUrl": "72aeab62cb37e8c767610a293918a1bba20aac39ffdb00b24faec86fd63c3d9f"
   },
   {
    "id": 122,
    "title": "「存护」回合待机",
    "text": "战势拖得太久了。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "88e9e729137bd29526da88ff5c95a628d013c96ef71b32d4003cd8b98b8cd210",
-   "jpUrl": "1ea9e020c4040e4f5307fe7ca891549d2f314375a376b00801dac1b37aa53ed1",
-   "enUrl": "5d0c5e07abfba5181bf6c7a2a13417e9a4b5118529f61d8d1a28938a4073eed4",
-   "krUrl": "8c3c42a5193941aab935071708bfad1b68e35e2b065c5f0e5d45d1a5a7e37aa7"
+   "cnUrl": "4cf4f8e8da81caef7a577a163109f350b727153a956133efef80f467a30d58d5",
+   "jpUrl": "f336d9af40da5cfccee50be3ac1d23e27492dc1cb3cfc01db03a178eb4ed2d80",
+   "enUrl": "bbaaaa442a80f99f2460e0ce5ea697756c6fc4b6dbb215c76acfb391f86431d4",
+   "krUrl": "dc526c0f49115c471b23f43a85f54672ea9ff4c6bc4bfb24bc66b2685401bf7e"
   },
   {
    "id": 123,
    "title": "「存护」普攻",
    "text": "贯穿！",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "49345eb3b98fd1dd26a7dbde336e956a97c6b728354b212007c031922c902618",
-   "jpUrl": "373d3368dcb1cebe01621703e64a825c00df2c652567442cd8da6ec291fe2e0b",
-   "enUrl": "122b6b14ca3f4557fe318c314b53a9870cb9d8776541d508a385f68b27c26766",
-   "krUrl": "0f069c65f720faa0d80c3e9a75797612cde5d2c35567a093b7db0bfba4140af0"
+   "cnUrl": "e55f1f7722d3fcd5a1a4638123a0090c5f912254ab9eef10e9602a8f806f2ae5",
+   "jpUrl": "c10760c5fee6dbd8e8fa2c73157192dcfea6787a802e798534e20a279573eac4",
+   "enUrl": "eead2e33a2f60dcaffeeb45e2bd20addb7d9a14758f44e360da7f4b8f70dc3d8",
+   "krUrl": "01fc00d76b9111bbd7f870d453c24399b94680b33904072acaf7f2610becce29"
   },
   {
    "id": 124,
    "title": "「存护」强化普攻",
    "text": "裂地！",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "77786d9b418c1de2be159bc5239e4a5c06fa55251a3bb235900c1b984ea21cb4",
-   "jpUrl": "5db0638ef9c09799155a9144eedbcaf1382e0e5d1bba15d8733ddc839d4274e5",
-   "enUrl": "118c16e11cbcb66efe72a85bb4fa33cd3c37ad9061c9c18234ca3e22addbb7e6",
-   "krUrl": "8f52a4dbbd6554916c6165ff2efee972138b2bdf8d2203fe10e27009544a08e4"
+   "cnUrl": "f36563dfa9927d64462eafac336bf29e5084c7c00a81402ab33869da479e3a8d",
+   "jpUrl": "779d921518d29f59e7a50a4d9e05fa2160048871e8c623048adc5166898e0d99",
+   "enUrl": "613ab07f12a2cad2b1dea6d5669d6268899983bbd61a329b421d8f97a09c8b82",
+   "krUrl": "8711652f99a49a43a3da2bae6786edfe045f772a88a7bcb4daed6f6bb9c713a0"
   },
   {
    "id": 125,
    "title": "「存护」战技•一",
    "text": "坚不可摧。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "545394e1063b31e2933ef7ed91071921b2bfdde8f27a9a8859b7647dfb12e5b4",
-   "jpUrl": "46011444814e1db3082751447a662553db86f550fdf6c979cbec1946dcb56a83",
-   "enUrl": "2b26fae85b703a3cadeddfe55803c5cd3c2681ac3a5f32a0ffa2998e2776ce69",
-   "krUrl": "2477cfa14ab6ff4e05febf002bbe06c068f691ed109d910e61e0b33b5c4cd9b0"
+   "cnUrl": "b00f47dfe2cacc461b706006fff2dc3fd99cd91036c47dc9811f85e7877d7361",
+   "jpUrl": "33bccf42f40e5217fff46a59c088896d8083b0cd624f9878dc59fd57d6601c30",
+   "enUrl": "d2796fde5e8e97b1bdd49d5b05c7aae97c461963da68f3f807a03ecf1dc1daee",
+   "krUrl": "8faec0093a907a36b352e627ba626f1d2e06e9f57c2362233820106d443a245f"
   },
   {
    "id": 126,
    "title": "「存护」战技•二",
    "text": "以强援弱。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "c2b382dcc3a5fdbd660661543505eeb7f5fd494f6d5efd934c6cd2814af1ea97",
-   "jpUrl": "8dce3e5b77d901568ce36511f870a8fba7068154b1089b6330bcca063019d816",
-   "enUrl": "3ed8c96a70b9c07f2716310dc98cdfd5dab6577442c7d110b0e93e4406a796f3",
-   "krUrl": "c42669b57f7b11262751df3d4e2bf3ba168706329fb30ccb313233b2f878324f"
+   "cnUrl": "7ec08b1b4f0db4f9f5d55794e579849e1b36bd3280d39b20d88e2f61827a9c3e",
+   "jpUrl": "9e40a1a81d68eff6c2a78f0d179be38a4df541ebb59fffed13e6a5925a4f2872",
+   "enUrl": "42d582c2644b2b502745bb29342ac5d077810d8d970c5ef60a93e1f03c1d3c51",
+   "krUrl": "2184522c9950bd3b244592edc8680fa667c1ff0d303f8f929abb7537ca398c4e"
   },
   {
    "id": 127,
    "title": "「存护」轻受击",
    "text": "毫发无伤。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "28b23a3119ba949e9f905582940a7b252c6f94f2ca48690c7f3c5954fa565d95",
-   "jpUrl": "92ce82cbda057b991f954fd435629c4211e6d81e7d2a1d0b9dcbd1d4ebf57553",
-   "enUrl": "27dc0e163383d3335621c32b7e62a2981e8585a861be39aed672e10a36205146",
-   "krUrl": "43ff6a433f5130b43f75f01d3a8756e309bc0327311ab800483b1a65d5bf1eae"
+   "cnUrl": "9985ac2af8bf4e12a1547526c773546628cba64f2ec365468de3775456073bed",
+   "jpUrl": "52a27529dd50cb1028c82f245f3b6a7ba42d23cd30890202d45eb799fb98dee6",
+   "enUrl": "214fc1c35fc1865f1ff9e1bb74b5f50c34cc0966e6ca8f64a8913372d91eca88",
+   "krUrl": "6961c2ef523d374805dbcef4c548baeb40495d185cc5a6ddf01c9c355d53263d"
   },
   {
    "id": 128,
    "title": "「存护」重受击",
    "text": "我…没事。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "27c07347f3095891ab46d335f76e7a1f0ab85e629fdaf5fb742baf6c3885c9e8",
-   "jpUrl": "89630ce4bfd3c46b88c572080c24155502281f7fddc464ec037d2d8b1d6de24c",
-   "enUrl": "fa36c91b100318269cea8da286260261e97b683c3aa2d9e5816166cbc594682f",
-   "krUrl": "c709d7dbb8c0cf71c2558d68044be049d77f28aa87078782666a98c5af5319c8"
+   "cnUrl": "a97ac43b81f36c3beac338c13fbd6c1169ab06ffa33176ca0aff5e440a9f8a06",
+   "jpUrl": "7d77a97eb96294ca9a3ecda08162d4b7c36313ab884fff8d2f2a7bb900fb02fb",
+   "enUrl": "f5cb795a5c359837c8f1ae8aa7a169193a5464294a226e4da459457555e829fe",
+   "krUrl": "64b5d9de6548495c7ec1d45fde69a359b4b91ddd97d70390d59852833e305cf5"
   },
   {
    "id": 129,
    "title": "「存护」终结技•激活",
    "text": "枪尖已经点燃。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "447439d84bfc539372c24b5313e7b0c608f8e2d17cceb8c078905702237a4f7b",
-   "jpUrl": "b547962d042c5204c78f2a4025e355aa633c4a2b61ce0f77a648dfa862f7df38",
-   "enUrl": "ba5a1ecfbbb0327e2902bddfa12f477c7299cdb6b0c679e7673b5e9fa0e548ae",
-   "krUrl": "c18d69c30b34f5c2805ee865f9be8a26159b70946f5bc4bc8a5743472c89f246"
+   "cnUrl": "8f8714f1736638b2a2e17c3651de52aa5ac332d657bbf909e8b7f321482ddb9e",
+   "jpUrl": "00eeae5c9f4dcf8ef79de535bc71d735dd3bb8fd79c84cfc1353fa9366e3f7e8",
+   "enUrl": "020eb5ec933b16f7572ed99b82fb1a6f011a42ed6f3f0e70bcbda5f73ba2a091",
+   "krUrl": "c85decc2a2879b9991a66216b1ea1371d0bdaa932926ba8c655db1037f66de76"
   },
   {
    "id": 130,
    "title": "「存护」终结技•施放",
    "text": "炎枪！冲锋！",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "3077039b83c3349f9be22535b9474043e2e5d7a14f9f4e2ea634272bed50eedb",
-   "jpUrl": "d0d3ea926c2ec2afea7a6c7c4125e6b8019e5cd8a522f92ad9a8bc42a81fa81b",
-   "enUrl": "115b2133dce5169b7cd17963261111690a5790f9d3a6aaf281983a319b3e61d0",
-   "krUrl": "559196087e563a7013d6eb06401cb481b3c6dcb3d6485c6f583f3091ff9d111e"
+   "cnUrl": "a99b473487be7800f41a91e4e6268ec11f0239b3f0168bbdb998fe37e3324441",
+   "jpUrl": "6c24db03ff58c3eea3111a29995fec8d869dd4e42ce4656751a16fd3c48583c9",
+   "enUrl": "d2bfecd95fcac8e5324d2bf49f6b5b1364a874e913a8363c3b4c1deb502987e2",
+   "krUrl": "7bb4b5b88b085963a6ad886c85cab0d6ca9aa32e601a1ce0bb16d57e714c2e8c"
   },
   {
    "id": 131,
    "title": "「存护」无法战斗",
    "text": "我…必须坚持…",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "03fa6d34367e8885b6c1bc713276e933df579fe0dfecef01d27439279839369c",
-   "jpUrl": "200c62aae054604b6fbedb06693cff0a6bdd18ab1d458e3a9a5a5c02a39666da",
-   "enUrl": "e138afde448126747863a4293699db9f694620a730ea7dd56ab2b862798f3f2e",
-   "krUrl": "76f1cff719a150f444e7c23907d683c59d4d9763658f91ed740631aeae3d613b"
+   "cnUrl": "1d9bbcbc6b13473ca8b2eaff73a211a36f3e9cde526ec39363fdf8741d8aaee8",
+   "jpUrl": "34ff08946ff36c8a18ff4fa6f492f3665c871c79717c7cd0ed2e462c704d6ef9",
+   "enUrl": "8c6cf1d86f4956ee072cde19d5f7ef1f5f6a8b07daaac0bc290f02c325c97eed",
+   "krUrl": "590f8004dd95fd1433ad65453021e4c5072299eaf3c516ce8af8361472249bf1"
   },
   {
    "id": 132,
    "title": "「存护」重回战斗",
    "text": "我绝不后退。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "2ca1c66462e1a2534ed5e46f3de7534540c6536ba0eb741fc96449ee749ff379",
-   "jpUrl": "13ff1f7cecd3cb484c003534a06cd4a05441307c72771e003d3b620dd2247595",
-   "enUrl": "f9c375cd0873c914a1e336b352a243095fa6060f97efcc0a2f9e00ee5b7dd021",
-   "krUrl": "50034faed74ffc3af370038e0c6c5611c907d8b3edce70f786e616551718ac25"
+   "cnUrl": "090bb1b39c57d44b1f2334767aadc4ba3b7616a6dcaa722717acd9e90020df61",
+   "jpUrl": "df73d6a4abca213b9bda433a0c287a00efdd8ac9fe894cee70151fa737d7a8af",
+   "enUrl": "dddbdd2b135278cd46f720487ce2c4d34d29911772ea82b4aa8dc1f47e90b719",
+   "krUrl": "f860cdf8f3593a72fb613d275dc8c9aefbed6d395c6cb2ce60c53ba01d458e25"
   },
   {
    "id": 133,
    "title": "「存护」回复生命",
    "text": "配合得不错。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "55cba6d3887ea74a4adac7366a97c52cb3f123263eebaf75a52aa15d7a51ceb1",
-   "jpUrl": "13f9df7b9b75f9da9bb71300307f9a6d633b18f01b4b646007d126e23493c959",
-   "enUrl": "d62f0da5d6686cd862f8c8c10e0ad159e0281a6ab50e21e987d36c36873cc825",
-   "krUrl": "6b85af205727e46af04c3cf05026ec363d0854e948b8772a6cf4ce455bd5b99c"
+   "cnUrl": "d27b6b4f74639463f135457a6980e129f481afb7e9569d2f3998314625a37032",
+   "jpUrl": "07ed42fcfbc533165f1824ebddd1966e3167c4377f53e832d0709db421253509",
+   "enUrl": "5b77df332f252211d25f11f4ec63f1657933b5c065107ac40bffa3a0534f0fa3",
+   "krUrl": "b64f8b0dce39a77e2eedd20426a643bf9e5838c688f31652400a9e317e552778"
   },
   {
    "id": 134,
    "title": "「存护」秘技",
    "text": "存护之志！",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "1e840373c213ba4f5e7c0fadce99cac917947a10c7ee1eb9c0ce153700ee2049",
-   "jpUrl": "58319ae27dc9f85519f5c0b24a1c70b195c831836d189bc73849423306a39732",
-   "enUrl": "29f3ccda3632343b64751320391f3a27a3d13397fa30be9914a27b89a08ab86f",
-   "krUrl": "4a016aac36413d06f706ed4e20cc68391a575173f47487d64637a98d0d6c0dfe"
+   "cnUrl": "b8549dc3b5b8269daa1d9ae6206913d1796a42d246bf3e4e7414e5a5fc0a616e",
+   "jpUrl": "c6b04f51f6627940d4e02c1a9e594dda969daba83e00593b4c145b4fca0d7c5f",
+   "enUrl": "e961faf13e7ee6860a54a0cd7db2446fe745caac21df89ff0486c7ab00ba9ee1",
+   "krUrl": "03ff6ad2a4daf382548f01302c2b58d920f848c8f52df8a404392fb8faf82899"
   },
   {
    "id": 135,
    "title": "「同谐」战斗开始•弱点击破",
    "text": "节奏乱了？",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "4cfc3b625ed5549072aee14a75bb1503ec3b30bd26a1e1ca1ce166c589a2a358",
-   "jpUrl": "75585acb96baea1835f06a73e47b17624452ab53c8803a17c898a690c58ff823",
-   "enUrl": "c66d10277f893d9e1514a822c72eff09ef3c17f1f3dbefe80baa8d767a6ba24a",
-   "krUrl": "ad4562963e3b45ac1d94307f4c78077f00824c1eb13024aea43666d163bbdf7a"
+   "cnUrl": "cd1941242c028b25f521ba89024936828f78d5a78bfc9ef321c5db5e79f73701",
+   "jpUrl": "d997a16fbb459f5a0dcda589902cbe88c1cf87899f4eb70a2f5aa026c1576c5d",
+   "enUrl": "a2c860e1178c8cb31acd2f43274c7cdea14757174ada78be80aefbca87a56c7d",
+   "krUrl": "527602a3598da2f16891ded75bd4eb4507b5cf937ce59462e25df4bba6e3f73a"
   },
   {
    "id": 136,
    "title": "「同谐」战斗开始•危险预警",
    "text": "考验默契的时候。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "1d55c0907f77b9b1dde5fcb420d5f84286f642892fb4ee926ab76fe40cd09cf3",
-   "jpUrl": "a22cc9a41555f5fa8ca170ab6cdb3cefdc8624e12e905c393540a4ef9f208087",
-   "enUrl": "541d99b2d30f948d1fab1e7a9941cd5cdab17b908e2f1194ff53717c692de59d",
-   "krUrl": "731c8b1db1264cdea7049f7bf9f29afbd8b2f234dbbe3e5e81dcdc749478079a"
+   "cnUrl": "1b7975bb4eda6519b46281cc601e5e5024e56384086f8abcafa519571df55f15",
+   "jpUrl": "47a3671ab3e887100d23e57d6485c483a229f05ade6447388a753d03de3a40d1",
+   "enUrl": "ab6712bd2f8a5591cac33fbdf13129d627b08dc9cafc4f5165a1baafaa9b3ff8",
+   "krUrl": "254877f925d152e40fdbe37209c0e0fac4a7ff00fcae931e1adc595babcc3456"
   },
   {
    "id": 137,
    "title": "「同谐」回合开始•一",
    "text": "各就各位。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "9d1012c85ce1716285cd9f82f5928c80269086acb94c257aeddc740cbd0a5a88",
-   "jpUrl": "c39c8e9fe42bb6907790a24130773062230125492ec0f3d897e9eea3d62605d6",
-   "enUrl": "55b0c0241bf0b60f91941cb90d794e30683982100fd64ec087f114be755375a8",
-   "krUrl": "2535c12942f5fd9145c396b36f95e546e7f96c4fb79aeed6a898660e82856a27"
+   "cnUrl": "06eb879b506e859163f65ec1582e90e02b535805e8f827b19f190982410c576c",
+   "jpUrl": "53b1e2985bcbd4a329847267ffa49a8e9bcdf54ea80c2e2f597cf86713d3fb59",
+   "enUrl": "9dd3ce8c8873d5d5d0277c7d9470bdc018c77185938719e6d8c6091db44a2d69",
+   "krUrl": "55759467cd8583d8ddcb7b88a867964e675fe0ae0286cf44a0a5b2e20f5b6cb7"
   },
   {
    "id": 138,
    "title": "「同谐」回合开始•二",
    "text": "保持步调一致。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "34f65cdee16110c79cc1a5efadef2fc0575ca46a373b0709e051107c965a70c8",
-   "jpUrl": "c9e1b673d58379a4407c3ba9a47892c559425eb3ed1dc9b519cf95e3aadd83c6",
-   "enUrl": "172e9c2febebbbfaa6df7928b28408b71d2f03b99a68160e0d5daf38afd71cd1",
-   "krUrl": "f62e781b1ad50eecc8a3c8c899dae6cf33714ea345a0594d4891f5584412550c"
+   "cnUrl": "ab0aa7559651cbb54434891fc68196177f105fbeb4b7feed4d3a4727767711ff",
+   "jpUrl": "bb45d6d0889826435568eb43b45d3669dabe6349728e62e20f79032f7bdab22b",
+   "enUrl": "50bfaf90bd4a74e1ba3cf1a6b45f8cd8d9b7abf929b39521779dc7dcc98fbcbb",
+   "krUrl": "585513274313851877ba42634105a7bb15c4f818a82322a14d7d914b189897bd"
   },
   {
    "id": 139,
    "title": "「同谐」回合待机",
    "text": "小心错过入场的最佳时机。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "5a537dc0f22c49e1605b4d78406431db2fbc6d26ec47f4f8dbea9c2ac93590a8",
-   "jpUrl": "6810eb4b31ed1b5bb588865616da69bb3ee93b6adf6e94df4de72800e598467c",
-   "enUrl": "7ce76c2068336dac4fa33f7bb7d3ea172b1b70429ec2fe26252d9a62b2426426",
-   "krUrl": "8b2369b0923792fa92d575abb87e8a677c1bf489a6b509820a5546fddaba6e83"
+   "cnUrl": "ba0c29c0dd63e190a19cd5a9b674647c7d21e4d519a39ddcd19e290513075cd1",
+   "jpUrl": "68cdaea10b67ad803559924f2da5af4244cdbef400d9f7bfb5e9e1a1d0c6ac6a",
+   "enUrl": "26be69f357cc81d31f8b2650fa69958ae1404157a48686cd9492e3a0553f75d2",
+   "krUrl": "a77619fa692b9568e6d82e2698c87d783ff605d090f2ac96e3a03492b4ceb679"
   },
   {
    "id": 140,
    "title": "「同谐」普攻",
    "text": "到我了。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "3c648d6debe9a2020ab280dd07f71e1fd2b990e82ca83fd2566fbcc8f35020cc",
-   "jpUrl": "8e49711000da164991c65d977923efc74137d8c1e6d406c43cbafb466700bf92",
-   "enUrl": "9b8706702034500803b161392fd668a616822278cbf3a91fbebe056ef8742529",
-   "krUrl": "03bef0ad40ef1ff95cb440cc34a4965b0f2d26204dbda04d8d813d7de960210a"
+   "cnUrl": "46d87cedc5f686e420a13837afde1edc6bf9b58f69768e6fce8e8ad3e4f3ddb8",
+   "jpUrl": "0fcd77264a74cbd0d076b4bafa834e63f4cf4c7acbc992129e172beec47e47ac",
+   "enUrl": "d64f07054feab62b37a0b1e0b7cfd605824111cf402ba7ba3f977d10a1b6940f",
+   "krUrl": "96567dfa6538a6effb9df6f32fc11c6239ed7d0b8e0bab06cb42a3c5a7badec5"
   },
   {
    "id": 141,
    "title": "「同谐」战技•一",
    "text": "即兴表演！",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "d3cc69667ec372b5db170bda88538acf43d7fc016b150c3c171565b79f4beef6",
-   "jpUrl": "52c2c25242b2f4b72ee086acd8784b26cd305e4920ddd7c667834e8919be68d0",
-   "enUrl": "0a82a4368e6ad9c73edc3614a54726fe314531c32dbe08de0da82a2449caf028",
-   "krUrl": "dbfd9fd165a93113c619dea06930f5d2655e325947a3ded6da9a3bb7e8ade9c4"
+   "cnUrl": "a93637e6da64d2fc0395c495571582e35635a02a224ee586df0219817872e35d",
+   "jpUrl": "d7ecfc3eb019b716ab3b7d4db5b033521f6cb76ae90ca32a72081c69f566b20f",
+   "enUrl": "498df650e22057f465f9cc206f1ea624ec9f82a5ce9776188c484b74078d009c",
+   "krUrl": "4277d3880e035d198c8ac0f0138e6fd9f3b42bfcbe1d000d3f4537c2675ea7d9"
   },
   {
    "id": 142,
    "title": "「同谐」战技•二",
    "text": "好梦成真！",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "b9884a2c2daf6e9a154cbeb8eeda2e885a672cea887c96e154e0ef2e4380d2de",
-   "jpUrl": "f82f85e664eccd131e0e62b676c2cfce8b632a1b5314d69da2db90a2a03b63da",
-   "enUrl": "ca4ee82197caee5fa056621ef70c38dd90771196ea74ffb5efe3ea1f59cf9f58",
-   "krUrl": "dfa3d86406b2a73d33cf296e327976523a45a9876efc9819a47f8843523542db"
+   "cnUrl": "6539e224db1ba180a39d88d22b8f1b1bf8e0a4c65062424e66369186eaec0539",
+   "jpUrl": "0d94382ec4e085168fa7d45b18efe29a448abc24cf1c16b81f940e3d3acc4b3a",
+   "enUrl": "7040b837d00a82b96626bd0f3f59d0db9ee90b990fa0958063a8f493845cb455",
+   "krUrl": "b03bf38d3ecdc5ccc7361d9a8a0ee7cb2ba036cd6ee6c2ebbdc1f7af79b584e7"
   },
   {
    "id": 143,
    "title": "「同谐」轻受击",
    "text": "还是老样子……",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "74df9409f268dc903afa4ff8beb7a36a32dee12a83df2d014200e9408e072cca",
-   "jpUrl": "7605ccffc9773b4f58badbed48d4227d6c9aab2ffe0da1bd3bb518e8539235d7",
-   "enUrl": "37a69b3498dcdd81c8887b18f58b59816468d296122d0ae9c973acf3e52a255f",
-   "krUrl": "2467272493c4b5e118cae8fc6f4e6bc1aef4149100f2fb0c38f8f9f88e727181"
+   "cnUrl": "2f9283e30e182b5b18ec51f407bfddb27e85a28309dec2b84fb578020ce627c7",
+   "jpUrl": "465370c6be869ae821ac32b8ac1b5f5aa29392fc4ecbba083695aa4d5c1cb054",
+   "enUrl": "f22388d0796fb3019b2efaf16d305e3fabedf2a32acf0f03938c2a8ee26b8c6b",
+   "krUrl": "19bf06335840c4ea29d1945c8cdd4d5d5b6fbe1954b0cfbcaba98b5b11631b28"
   },
   {
    "id": 144,
    "title": "「同谐」重受击",
    "text": "我马上跟上。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "78c97412f4ae00852fd80bb58e0708d333ee0c9f881a177b9d4e30065fac1c40",
-   "jpUrl": "a623e48c025b01c374de8fd991f1e08a6fe1041685942013ba89c494170d9fb7",
-   "enUrl": "e557e9436bc18bca587f2afe769dd23381f5a0d989a6d97dd329bedba12afce3",
-   "krUrl": "d1a533c1ce58a3ad51577247e9dd1498f1e2f49618d5cc137de63b607314beb5"
+   "cnUrl": "7858ed5ef47a4a0e870064297250ef069c58cbc64e41990253b09871e1c6d0da",
+   "jpUrl": "554a70e2fdfbe3517f86cc7483c19f720edda86168d37623e84b2dfe729624e2",
+   "enUrl": "3662c25ef028fdc416f1a9b937c7565127b8c3b08f8bc6848c2a60dfb39240ed",
+   "krUrl": "a40e102f18d7cb0477a12950564b4545b07a643c8ce734a13f165c9e01f391a2"
   },
   {
    "id": 145,
    "title": "「同谐」终结技•激活",
    "text": "气氛已经烘托到位。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "ff57b8db9aa7b2568236f07cb32ba40a62e53e55e9fff36368eeecd7ca6b15ac",
-   "jpUrl": "f256adc573e8403dae7dd72ad878b2efecec7576cf08d87628bf0d22547b7e6d",
-   "enUrl": "ef62b2b79dc01920151b043fe27cef7d93bc9e6c24da1b28783147d639f533ad",
-   "krUrl": "2b7699070f5c44c01ced19a1e0f1812c5421569dff54ff79bd597891149b48d8"
+   "cnUrl": "216352a91be6a4edf90ea7a5eda8b0b65e05d2d4e0d168608e399b199c6c7e65",
+   "jpUrl": "8429950ba30aa2d0b09e08b597d2dbecc20cf409b752c53fdb913685013b302d",
+   "enUrl": "43fa3f7944d2b497dcd87892c449d6ee89cf048df95dc010924ee5213257014b",
+   "krUrl": "7e9c8f80e720ee4317a17deab4e7635942820e6219a31b040268f7ed8120dfd0"
   },
   {
    "id": 146,
    "title": "「同谐」终结技•施放",
    "text": "合演，开场！",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "63183e607ac90337a9a63234f2c24725e6a3964ce5d9dc72076d73881a5ef5b8",
-   "jpUrl": "a169c54b7a32f79349836be5733b0a8591eaeb27e282851bf1e2d0d617ecfc76",
-   "enUrl": "15011c9e8fc8092319de49ab11496018d78568b6f4c51d1a142412fbf520de06",
-   "krUrl": "db2bdfd99b2d7406dbeb6e8e620f963fc793733ef8f8763031414d2ec09cffb6"
+   "cnUrl": "393a2faea54a3a8ce2116573153d232b27c3f03411e4ad6171679325517bca0d",
+   "jpUrl": "4888953e82a9f437ebe82677d05c3d08e39fd99ddf6a42d737c1e7ea7aefec8e",
+   "enUrl": "ac9d38c7f67574d026651710ca4d4fde14c73d48932572a31914d7e2d5070bcf",
+   "krUrl": "2d7342661d6ed06fd234e78cc3fb561aae18efa05eaeb8596c4a08aec5112c0c"
   },
   {
    "id": 147,
    "title": "「同谐」无法战斗",
    "text": "还没…结束……",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "53f4c8e64c63fda444e349d2f960e28b541ab9fb1b6c4909bc7c380b240a6c4e",
-   "jpUrl": "9bf2358650b165eb6dd7951fca3eb8ff6bac9c88ea3c3197339e771485c5413b",
-   "enUrl": "fc21952af7df7d65ac907986fededaa926a4a6a2f85ca05ebc65be300c753d0c",
-   "krUrl": "66f43d93264431d7051183c6950e394d8d5c46b8f00ffc02de20a044023ad85d"
+   "cnUrl": "f46043df6097b0006a7f2fd2893fa25248bd5897f8d46d758d1419e2db716bef",
+   "jpUrl": "bb5fcf69c75f9c884fa8afd73203685969aa5a909245107b874b94c4410752f5",
+   "enUrl": "47188bb56d340924120a8f40af490281ad0be4e55586dcdacf36639a05a80802",
+   "krUrl": "b87bc4df65b5031905d50368e7b4697ebfbb566615f81052c330be5d7c4117fb"
   },
   {
    "id": 148,
    "title": "「同谐」重回战斗",
    "text": "中场休息结束。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "3ce57a37fa65cbd361b075a94e01f1c09784f9be7e68e64fc28b1e711fb3f2d2",
-   "jpUrl": "b2265422070ad342f8834b2e821095ec398ea562025aa42d93ee92efb12ef340",
-   "enUrl": "eba4fcda2344dfd75a6cd0efe46b2c56c97845d21a5c72d0df934c127d438fbe",
-   "krUrl": "7bc5fdf19ef0a79922bd0689635ec2ca41bed1ae06675d848c3c6627a1a997ee"
+   "cnUrl": "3a8eb9085730ef4e1e3c2fbee5ace78254677653f52b72ba105f3ab5134c736c",
+   "jpUrl": "5b9bf5a10d73592d02578bcdcc0869a1de3368b233962a28227269e6f138d93b",
+   "enUrl": "61d231a9a8d3a3930a1ee59b8805eea55982b25b3788013a82c752a9e11934e7",
+   "krUrl": "29e1bf351911321cc9cfaac936b185770948c488a3c67cb6d3c31d0349f46bab"
   },
   {
    "id": 149,
    "title": "「同谐」回复生命",
    "text": "绝佳配合。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "875a6c1da407dbf3f884c9e05f5dbeb55f9c00266789874fb279d94653f7b43b",
-   "jpUrl": "1ceee27e9d61c29294b3262514033d7bd00810aabdf9c84f6df680297bced32f",
-   "enUrl": "d12aeae37b7684ea5d9f69ed149c94a8c9fc2ae19dabde6cf7d36683cfdd801b",
-   "krUrl": "f5ca58de3fa04a93c4de2f7441f25a129024d9c82c5e2789e6a2235f4d00b3b5"
+   "cnUrl": "c50901533e427560149ec754373e79d8dcf24df3f7002c53058fe59b5e1a4d20",
+   "jpUrl": "9eaab09b7659758d8902d9c320448c300e2ed9e69e17fd6ab249b8f91c8e0067",
+   "enUrl": "23f80a429ddb0fbb31d6c66f240cec5561bc67e0b30154f216bb797ee0aa43de",
+   "krUrl": "a8e7130d250628f4f8ce7661dfc3b1ffd126c7768a3ae9cbee65e30ffce3da40"
   },
   {
    "id": 150,
    "title": "「同谐」秘技",
    "text": "敬请期待。",
    "unlockRequirement": "踏上新命途后解锁",
-   "cnUrl": "b357dba6d66b9828fd10e750fcd989b03de4adcdc54c1e6c492f179c736f0339",
-   "jpUrl": "41ea76595d2b2c0692fd990f53084aa5308479be122eb8e0965a54190d093048",
-   "enUrl": "668d4d40d9faf4283f6377a96dfbab7505b498816cbb69e548aeaa2430af1ed1",
-   "krUrl": "ee65e8a1feb7dd1dc0ff4f685ab80554a04716679d3eca446350565d23fd5b20"
+   "cnUrl": "5a92e0bad09b7d9b2db3d23a929bbe128dd98b95488b87d9936043fd4d469887",
+   "jpUrl": "758a056fa174f7e1fb819ce1eeaee51e1f7c16370ad22efc10d892253ba0e0d6",
+   "enUrl": "21d8d87a588e5c45282e4ef8632a2f9c580ef6c0a4e460a28970a298fe5ae85a",
+   "krUrl": "1aa6cdf2ab492a54c903fbeb953ee0b8c1412d5c89bd52ef093dbb32ad258d0d"
   },
   {
    "id": 995,
    "title": "战斗胜利",
    "text": "以自己的意志，抵达结局吧。",
    "unlockRequirement": "",
-   "cnUrl": "bb644cee116e171163f53abf50ac642eef7808cb6d5a303b12d0ec74ce4036da",
-   "jpUrl": "312f37fd41e97a447d00990ddf4052a8fa8148edd69094b7bb14bfcc31a4b10f",
-   "enUrl": "cac60268a43eafaecf12001e15201af3ec90d6be3d6466ac2d803bc6be47f72e",
-   "krUrl": "32f348dd56140863617edccb6397112aa3d443a67344c2469a69b0821428364f"
+   "cnUrl": "56d1fcec017a13adb57d9f62df0af38885cfac3fd57124da7b374b0aa4cf10e4",
+   "jpUrl": "de7e40ade09d01577431edb2a783a71b52b502d8fd5eec781a42bfba037c32cd",
+   "enUrl": "3854a3f00516873d2841cc7a4605099de370893b9f5e6e7d4ba259fc9a56342f",
+   "krUrl": "f797cbb7d9e175947a4ba42869935eee7da6900ec4ed2808303c6dce7dfda781"
   },
   {
    "id": 996,
    "title": "开启战利品•一",
    "text": "看起来不错。",
    "unlockRequirement": "",
-   "cnUrl": "4e4a4311ade5354e144a2ab962a042459f89a395048db9b9cc3322b9e0169466",
-   "jpUrl": "a38d91b0e13f29797636a1235ec75f44a86b233b75be46f277369df6dca080de",
-   "enUrl": "7c2676c79698748c35c30ee2649e8992f1d37d148e2bf82993b77509b655bbc1",
-   "krUrl": "fb953e09e762615f525018ee0f4b86eef94deb1fd21288f5c39c23ac611283f2"
+   "cnUrl": "3607001dffd7bba742b1d1f37892718687c808a6c75d09dbc385fa89fee7c1dd",
+   "jpUrl": "f42151ad1f271b5b474542ca92455faedce4416fdde904ed7dc589ca63c776bc",
+   "enUrl": "990e188f737f917aec94a00204b3cb1cbff4a943dc44b2ac2ba337fded1a1bee",
+   "krUrl": "9273e431f7d48406f9b8a8a3aed6fdffcbacb3f5d9a2afa6b16b0d579050add3"
   },
   {
    "id": 992,
    "title": "开启战利品•二",
    "text": "这就见底了？",
    "unlockRequirement": "",
-   "cnUrl": "2f48b01113e6f71bc90dfea571b3b5b7d8bf51544b5ac80ad8c9796b895cf6d1",
-   "jpUrl": "d211f679e173cc31a4621b365d56a1d6edce0747c535dd808ac54f680a477d1d",
-   "enUrl": "f03586b6c971891baf84d0dcf47e3c31cd16be3c5175ac5d85d8229a7248bb48",
-   "krUrl": "44bc55b3bec34eb0e88faaeec1c64693c5a8e8694f542b8ffa9092ac76953713"
+   "cnUrl": "4b9fea51d0bbbba87bc2bba687bcb9c1b2fcc300368c5e3a578d2a336543607d",
+   "jpUrl": "dc664e6a6d5bfabc7849fa8ecadcaf275840e7c97392e8d5af5646aee3e3a78a",
+   "enUrl": "bb17ce8ca38510f303f7272e1254d61b894038b1e256c0edecaabb0c73904b6d",
+   "krUrl": "3693c501a726982416f72a9cf26b9b8ea476c62f34b398253ae2ce399e0377ff"
   },
   {
    "id": 993,
    "title": "开启贵重战利品",
    "text": "好，多多益善。",
    "unlockRequirement": "",
-   "cnUrl": "f9fec85ffea8e28e4f210982bfdf53efbb61e28856d87c35c08d92223c5aacf9",
-   "jpUrl": "75a47dd02d6bd6bfa12f1fa68b8d6fbdc00431a82fffb862b0cfeed076854b62",
-   "enUrl": "b8fd7a7e3d5ec37b1630c908e7d63e7ffb00f5ae9c13ec824033c87e895c603c",
-   "krUrl": "6e4a7348578a49cdcd3d7ea2622505cae7e7e0a86cf2f4d6aeb78337ed14939b"
+   "cnUrl": "b04190c54b21cca08110608cf4bdc926a92fdb5ee8b40a589f36c9e866dc0402",
+   "jpUrl": "ecb5a42fd6517281ca09c023cebcf902372cbe38edcd0884e8c4e29ea7c79c24",
+   "enUrl": "e93297d9e8ee802a438e51291867857c8b6f3cfe87a6611a3a3145cbceace39e",
+   "krUrl": "9f74728416b71d2c78eb14691bdcb04d4200d613fd34616d9db480412171c522"
   },
   {
    "id": 997,
    "title": "解谜成功•一",
    "text": "原来是这样么……",
    "unlockRequirement": "",
-   "cnUrl": "ecd2e837fdf7efc708f2ba2c3f8340e756bdf2ab64ef3cac5d808b554da4f2c7",
-   "jpUrl": "b84ffed1431a54c4de95da54c51f0a6c45e343ebcc00b6a93003f1ffea063702",
-   "enUrl": "be8536346ad8d5b6b69253179d44bbdcd2d26e9e709bc352e50b0feaf5d4594f",
-   "krUrl": "8062d65d8e8afd74b89f3cd2522126be71f7fbac564196a17025fbd45f88f425"
+   "cnUrl": "963558176800785dbebce7da3254eb847d99e2a7d3d4df94be7a4438bf639f96",
+   "jpUrl": "3b3549d6eea2c604ac0e942c0d3d55a3277479684661f43f9e851394831c70c8",
+   "enUrl": "ede37e3b34661212349b670e6759067c33666f1914db0e3a6aeaab1389948d26",
+   "krUrl": "7098f1040f6ede0a52b7d5d77a73ebedc6a61aa02a507d2bd4482fd6263cda94"
   },
   {
    "id": 994,
    "title": "解谜成功•二",
    "text": "还难不倒我。",
    "unlockRequirement": "",
-   "cnUrl": "75c51065e81a476f0b145bca4ae1825b3fb7f5223a02a35aff2c356fbedfdd3d",
-   "jpUrl": "b1d97b6f6a44e803e7fc1de7d43418c1a6976a7d4d7495881f6821a4ef970bc0",
-   "enUrl": "a5c0049cdb209c42838388f421e00958751934d285e93c45ef99e4a874602efa",
-   "krUrl": "55c0ff20601cb576150a5e466bc9a449d6ad26d598a43644812d65f266ec87eb"
+   "cnUrl": "fdae170726a70ddfa2fa6903ec9c762e9f46e84a7e1fb16249116203e142d81a",
+   "jpUrl": "226814cfe0306af7cb23718cda022a3fbf911ec5384f61ea9e9a04a5b023dcab",
+   "enUrl": "12e0c0797c9bca06057fd3d96aea6355bb8ab7d9aeffc29c535525e6e402ee41",
+   "krUrl": "6ff20cca76918ba60e89d4954d8479111f0937a85e3c6c0c8c19b1a90405529e"
   },
   {
    "id": 998,
    "title": "发现敌方目标",
    "text": "想想该怎么对付它。",
    "unlockRequirement": "",
-   "cnUrl": "a698c9b4e729241d65973d98ce1bbaf304fef27476fb226d78ffe637fa3b256c",
-   "jpUrl": "a2f09d127f431c0dfb1060a6a131f4384018100654957a188f95e48adf20608b",
-   "enUrl": "bb20b52764884bf6d91f69035423724eb6b23bc3f9d92d2a50c71a2e35451def",
-   "krUrl": "204ef66b2016f30f8f533c3de1d84096f4916e4b52993f2a172d0deb35cd14f9"
+   "cnUrl": "fc0d92b9bd33952382925b5c8c58b24631f135fc3c3139b71a3ffd97221d76bb",
+   "jpUrl": "96a7c302bf1d56f84701417e3221b9d8956b1334a9a0e1dff2a509f3d9639e2e",
+   "enUrl": "cafe900a78088f16cd3f8c8d94e162db64b27a9cbc9015d5e16725f1d6b02ec4",
+   "krUrl": "982a0ab1fb8ce90ef64a55fc4777766dcb32e694aff350d85527f152bcd03dbc"
   },
   {
    "id": 999,
    "title": "返回城镇",
    "text": "时间还早，现在去哪？",
    "unlockRequirement": "",
-   "cnUrl": "31c108df5aa7280c6784b9135b81fb1e20224b21f9ff57453c3a170daa29df29",
-   "jpUrl": "53c90b06fff14bb73c56cee856ae1c5f20aacd136e773720701b3c47dbd6edc6",
-   "enUrl": "a4db02169bc4ad96ff2c518dce8e101514bc7a8dd908252f56b2d1850467c9f7",
-   "krUrl": "e4a9906e19999228c31f85742bb3197e3a94bf34326ea4045e4dfe5b3760af90"
+   "cnUrl": "2ba7311c198f267c92847d97ba9632afd6927e00b3348a3104ae07d59e9a3328",
+   "jpUrl": "4f9874abb833f2d225ff39adb3cf57e3ca35177208a4e88d4ab6923cc01ca771",
+   "enUrl": "89abe8c370b3da04e637f2b1ea531175a9d892cc219e017727e16de24f760ccb",
+   "krUrl": "1e3a43ab423c298828056b8e42096d8a67ac0bf932e79264ed92d12f4ed71565"
   }
  ],
  "storyItems": [
@@ -3425,6 +3449,11 @@
    "title": "你的「故事」•二",
    "text": "你来到了「存护之城」。<br />雪幕之后，风似钢剑，火种留存。<br />远方不会听见，大地同样震颤，只有哭喊的人们迎风而上。<br /><br />外敌、寒潮、裂隙之后，溃烂始于堡垒之中。<br />你施予援手，却遭背弃。<br />有人曾看轻你，误解你，但你仍走到他们身边，寻找他们的路。<br />更多的人挂怀你，担心你，面向他们的苦难，为苦恼之人找到药方。<br />最终他们走到你的身边。<br /><br />冰雪中，你恰如一团火，存护这个世界的灵魂<br />——即使你将日日夜夜焚烧自己。",
    "unlockRequirement": "完成开拓任务「静静的星河」后解锁"
+  },
+  {
+   "title": "你的「故事」•三",
+   "text": "谐乐引你跌入美梦，糖浆与汽水充盈你的喉间。<br />节日盛大，人群喧哗，那些未曾谋面的人们披上伪装于梦中相聚。<br />你们饱览光怪陆离的风景，在晨曦微露之时分别——<br />此刻，至暗的午夜才刚刚开始。<br /><br />时针嘀嗒转动，死亡如影随形。<br />你被当作筹码押上台面，却为自己赢得了揭晓秘密的权利。<br />你带上已死之人的梦，继续着他们未竟的路，面对他们不曾战胜的对手——<br /><br />伪神汇聚众人的渴望而升起，万千人的齐唱淹没了你的存在。<br />行于不同道路的人拉起彼此的双手，<br />你们的旋律互相交织，虽微茫却如同长夜的灯火生生不息。<br />一个又一个人于梦中惊醒，而那微小的歌声最终汇成震耳欲聋的呐喊，冲破梦的帷幕。<br /><br />永恒的美梦消散于一瞬，而你终于明白人们为何而沉睡<br />——为了从梦中醒来的明天。",
+   "unlockRequirement": "完成开拓任务「然后，在第八天…」后解锁"
   }
  ],
  "archive": {
@@ -3527,19 +3556,19 @@
  "name": "开拓者",
  "rarity": 5,
  "descHash": "登上星穹列车的少女/少年。 为了消除星核带来的危机，选择与星穹列车同行。",
- "artPath": "36a53d5049167a2a782c38eaa322be3359b5fa0982a38134842904204f9c9ada",
- "miniIconPath": "617551102827cfcab33ea104b46b82f007257985905116f4faf0131914012c8c",
+ "artPath": "f27bdf5c795d57624e15f9ef1843abe2772333c01ee5c38a500c5236ef66cfc0",
+ "miniIconPath": "5e000bf967b3bac99619bb3c7f478fbcc7c6697229c4ec3bf1a8b0f1f4830192",
  "damageType": {
   "id": 1,
-  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "iconPath": "e21edc60ff709336831c1f18a58ad77fbe2cd85ceb630f7e87463545a4057bbc",
   "color": "#FFFFFF",
   "name": "物理",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "673136d8ba64c836e77a0084380bccea317250a93f866ddfcb0d64682b543970",
-  "altIconPath": "9093f5a5aa958c0fe5a14267d9fe5101a95a033e08898ba40b35994c1a3a8d81",
+  "iconPath": "e2b380aede0faa68b817597cd40abe7dd90c14a08c11f2b65fd7b56d9fa8212d",
+  "altIconPath": "951cb2c1f37a5a634ba690168cca2f5d0f36f2850b2d4b9afef9922106d0075b",
   "color": "#FFFFFF",
   "name": "毁灭",
   "rarity": 0

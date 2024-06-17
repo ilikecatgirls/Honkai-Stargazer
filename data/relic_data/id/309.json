@@ -1,55 +1,55 @@
 {
  "name": "Rutilant Arena",
- "iconPath": "4ecf1e9eb4c9d1e40f582142888f52317ebb12069512df0aaf9700ac92b06011",
- "artPath": "55d4c0bc8ab98ce90fc42ecf39a9ef4cbcaae98197358e64e7852ee8075b1cab",
+ "iconPath": "7af15e1a2612f208d80da3a71eee5441a1f5780f1aeeecfe33178aec9c7a1686",
+ "artPath": "48192cd7c156e360890b85b59db7e2e191c6e236e3b04a652724a80f22db85b4",
  "rarity": 5,
  "relicType": 0,
  "embeddedBaseTypes": {
   "0": {
    "id": 0,
-   "iconPath": "efe0585d79bf54efdafb5ca6ff2a183f61f8ac4ac803e79b25851e340452daa5",
+   "iconPath": "5d2ab974d1ee331db8c68ff5876aafe98296d6b753c281baf277ae25a1fcf3f6",
    "color": "#FFFFFF",
    "name": "",
    "rarity": 0
   },
   "1": {
    "id": 1,
-   "iconPath": "eed633d4e063e41a268cfecfee53412c53c1db009cc8e9b9482be7f00b3bf3a3",
+   "iconPath": "f10eb995d0a12b6cd4c8e7b63e95efd05037dc151928fe8698c8f52ea0331483",
    "color": "#FFFFFF",
    "name": "Kepala",
    "rarity": 0
   },
   "2": {
    "id": 2,
-   "iconPath": "beb19181e1b42ca4a13970f2296be38ee1ed1ee749ef13f213bb60377c497cfd",
+   "iconPath": "0c540ef3cca7426d82cd0aae4a8a28ea761e0c3287f43bd1a4df4cf7a57d45f9",
    "color": "#FFFFFF",
    "name": "Tangan",
    "rarity": 0
   },
   "3": {
    "id": 3,
-   "iconPath": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+   "iconPath": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
    "color": "#FFFFFF",
    "name": "Badan",
    "rarity": 0
   },
   "4": {
    "id": 4,
-   "iconPath": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+   "iconPath": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
    "color": "#FFFFFF",
    "name": "Kaki",
    "rarity": 0
   },
   "5": {
    "id": 5,
-   "iconPath": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+   "iconPath": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
    "color": "#FFFFFF",
    "name": "Planar Sphere",
    "rarity": 0
   },
   "6": {
    "id": 6,
-   "iconPath": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+   "iconPath": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
    "color": "#FFFFFF",
    "name": "Link Rope",
    "rarity": 0
@@ -71,11 +71,11 @@
    "name": "Taikiyan Laser Stadium",
    "type": 0,
    "maxRarity": 5,
-   "iconPath": "7765244d4b58431d654d5ad5fd27aa5042be3d59d251277f746308d086ab548b",
+   "iconPath": "c0f12c306ca188b85ba4b5b851793532a61a9b19997d2dcf309942c98838d954",
    "baseTypeText": "Planar Sphere",
    "loreTitle": "Taikiyan Laser Stadium",
    "miniLore": "Sampul arena dengan standar tertinggi di Planet Taikiyan — Stadion Taikiyan — tercetak di atasnya. Orang-orang berkerumun di dalam dan luar stadion, bendera warna-warni berkibar ... Kompetisi Roboball yang mendebarkan akan dimulai dengan disaksikan oleh semua orang.",
-   "lore": "Planet Taikiyan pernah menjadi planet pelabuhan kapal karam milik IPC. Petugas penilai kerusakan akan dikirim untuk membersihkan reruntuhan kapal tua dan menemukan nilai yang tersisa.<br /><br />Petugas akan menganggap \"penugasan ke Planet Taikiyan\" sebagai pengasingan yang tidak akan pernah bisa kembali. Di planet kecil ini, pegunungan serat karbon dan baja tahan karat menelusuri garis besar kapal raksasa sebelum dinonaktifkan, menimbulkan bayangan kekosongan di atas reruntuhan baja, dan keinginan untuk mengingat kembali semakin kuat. Selama beberapa tahun, para petugas mengambil suku cadang berstandar tinggi di bawah geladak, lalu mengejar dan melarikan diri di saluran kabin yang tenggelam dengan menggunakan perangkat propulsi, dan membentuk seperangkat \"Aturan Bawah Tanah\" yang berada dalam bayang-bayang ... Meskipun begitu, para monster yang terkurung juga gagal mendapatkan apa yang mereka inginkan, dan pada akhirnya tidak ada yang kembali.<br /><br />\"Aturan Bawah Tanah\" para monster yang terkurung tidak pernah lepas dari pengawasan IPC. Video mereka dikirim kembali ke IPC dan dijadikan lelucon oleh para petinggi. Investor \"Departemen Proyek Tradisional\" berpikir secara mendalam dan melihat peluang untuk \"hiburan\".<br /><br />Sesuai rencana, kompetisi \"Roboball Taikiyan\" pertama di galaksi akan diselenggarakan di Planet Taikiyan. Beberapa mesin teraformasi dibawa ke sini untuk melenyapkan pesawat ruang angkasa yang terbengkalai tanpa sisa sedikit pun. Planet kecil yang tidak terkenal mengelilingi olahraga \"Roboball\" dan mengubah penampilannya, dalam sekejap mata berubah menjadi tanah suci tempat kompetisi yang memukau. \"Pada saat itu, tidak ada yang akan peduli dengan rupa asalnya yang sederhana. Yang tersisa hanyalah semangat olahraga yang murni dan perjanjian komersial yang bernilai tinggi.<br /><br />Atlet yang mengenakan armor propulsi, trek balap tiga dimensi, konfrontasi fisik yang seru ... Begitu diumumkan, \"Turnamen Roboball\" langsung menjadi pusat fokus seluruh alam semesta. Sejak saat itu, Planet Taikiyan dipenuhi dengan gemerlap cahaya, dan tidak ada setitik pun kegelapan.<br /><br />Di dalam stadion, baik tim tamu ataupun tim tuan rumah bersaing ketat. Para penonton bersorak dengan sekuat tenaga, meneriakkan nama tim dan nama pemain untuk waktu yang sangat lama. Di luar stadion, Planet Taikiyan juga tidak pernah sepi. Otorisasi siaran, sponsor waralaba dan kontrak iklan saling bersaing di pasar perdagangan. Perkembangan taruhan lotre di bawah tanah juga sangat kuat, dengan dipenuhi kegembiraan dan kesedihan yang ada dalam waktu bersamaan ... Malam yang gelap bagai tinta telah lama berubah menjadi latar belakang, diam-diam memberikan kekuatan dan cahaya bagi arena.<br /><br />Sejak peresmiannya, Stadion Taikiyan telah membanjiri malam yang gelap dengan cahaya terang, dan tidak ada yang pernah ingat di mana bayangan yang memudar disembunyikan.",
+   "lore": "Planet Taikiyan pernah menjadi planet pelabuhan kapal karam milik IPC. Petugas penilai kerusakan akan dikirim untuk membersihkan reruntuhan kapal tua dan menemukan nilai yang tersisa.<br /><br />Petugas akan menganggap \"penugasan ke Planet Taikiyan\" sebagai pengasingan yang tidak akan pernah bisa kembali. Di planet kecil ini, pegunungan serat karbon dan baja tahan karat menelusuri garis besar kapal raksasa sebelum dinonaktifkan, menimbulkan bayangan kekosongan di atas reruntuhan baja, dan keinginan untuk mengingat kembali semakin kuat. Selama beberapa tahun, para petugas mengambil suku cadang berstandar tinggi di bawah geladak, lalu mengejar dan melarikan diri di saluran kabin yang tenggelam dengan menggunakan perangkat propulsi, dan membentuk seperangkat \"Aturan Bawah Tanah\" yang berada dalam bayang-bayang ... Meskipun begitu, para monster yang terkurung juga gagal mendapatkan apa yang mereka inginkan, dan pada akhirnya tidak ada yang kembali.<br /><br />\"Aturan Bawah Tanah\" para monster yang terkurung tidak pernah lepas dari pengawasan IPC. Video mereka dikirim kembali ke IPC dan dijadikan lelucon oleh para petinggi. Investor \"Departemen Proyek Tradisional\" berpikir secara mendalam dan melihat peluang untuk \"hiburan\".<br /><br />Sesuai rencana, kompetisi \"Taikiyan Roboball\" pertama di galaksi akan diselenggarakan di Planet Taikiyan. Beberapa mesin teraformasi dibawa ke sini untuk melenyapkan pesawat ruang angkasa yang terbengkalai tanpa sisa sedikit pun. Planet kecil yang tidak terkenal mengelilingi olahraga \"Roboball\" dan mengubah penampilannya, dalam sekejap mata berubah menjadi tanah suci tempat kompetisi yang memukau. \"Pada saat itu, tidak ada yang akan peduli dengan rupa asalnya yang sederhana. Yang tersisa hanyalah semangat olahraga yang murni dan perjanjian komersial yang bernilai tinggi.\"<br /><br />Atlet yang mengenakan armor propulsi, trek balap tiga dimensi, konfrontasi fisik yang seru ... Begitu diumumkan, \"Turnamen Roboball\" langsung menjadi pusat fokus seluruh alam semesta. Sejak saat itu, Planet Taikiyan dipenuhi dengan gemerlap cahaya, dan tidak ada setitik pun kegelapan.<br /><br />Di dalam stadion, baik tim tamu ataupun tim tuan rumah bersaing ketat. Para penonton bersorak dengan sekuat tenaga, meneriakkan nama tim dan nama pemain untuk waktu yang sangat lama. Di luar stadion, Planet Taikiyan juga tidak pernah sepi. Otorisasi siaran, sponsor waralaba dan kontrak iklan saling bersaing di pasar perdagangan. Perkembangan taruhan lotre di bawah tanah juga sangat kuat, dengan dipenuhi kegembiraan dan kesedihan yang ada dalam waktu bersamaan ... Malam yang gelap bagai tinta telah lama berubah menjadi latar belakang, diam-diam memberikan kekuatan dan cahaya bagi arena.<br /><br />Sejak peresmiannya, Stadion Taikiyan telah membanjiri malam yang gelap dengan cahaya terang, dan tidak ada yang pernah ingat di mana bayangan yang memudar disembunyikan.",
    "rarityData": {
     "2": {
      "rarity": 2,
@@ -83,7 +83,7 @@
      "mainAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.009677,
@@ -92,7 +92,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.009677,
@@ -101,7 +101,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.012096001,
@@ -110,7 +110,7 @@
       },
       {
        "propertyName": "<span style=\"color:#FFFFFF;\">Physical</span> DMG Meningkat",
-       "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+       "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
        "isPercent": true,
        "baseValue": 0.024883,
        "levelAdd": 0.008709,
@@ -119,7 +119,7 @@
       },
       {
        "propertyName": "<span style=\"color:#F84F36;\">Fire</span> DMG Meningkat",
-       "propertyIconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+       "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
        "isPercent": true,
        "baseValue": 0.024883,
        "levelAdd": 0.008709,
@@ -128,7 +128,7 @@
       },
       {
        "propertyName": "<span style=\"color:#47C7FD;\">Ice</span> DMG Meningkat",
-       "propertyIconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b",
+       "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
        "isPercent": true,
        "baseValue": 0.024883,
        "levelAdd": 0.008709,
@@ -137,7 +137,7 @@
       },
       {
        "propertyName": "<span style=\"color:#c75de2;\">Lightning</span> DMG Meningkat",
-       "propertyIconPath": "dbf8a033f78ebfe4765472b27aa0e7d3838d36f8f15868c49a3433ccca9ef1aa",
+       "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a",
        "isPercent": true,
        "baseValue": 0.024883,
        "levelAdd": 0.008709,
@@ -146,7 +146,7 @@
       },
       {
        "propertyName": "<span style=\"color:#00FF9C;\">Wind</span> DMG Meningkat",
-       "propertyIconPath": "6ed4c20b424ce99fc080b98f339acbf6535738e14c8d8e649ec3e1e286b348fa",
+       "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
        "isPercent": true,
        "baseValue": 0.024883,
        "levelAdd": 0.008709,
@@ -155,7 +155,7 @@
       },
       {
        "propertyName": "<span style=\"color:#7788ff;\">Quantum</span> DMG Meningkat",
-       "propertyIconPath": "e7c7e4e052302779e7dab274aa39aedc08e59eed4e5e507174ee47aaef770e2a",
+       "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
        "isPercent": true,
        "baseValue": 0.024883,
        "levelAdd": 0.008709,
@@ -164,7 +164,7 @@
       },
       {
        "propertyName": "<span style=\"color:#F4D258;\">Imaginary</span> DMG Meningkat",
-       "propertyIconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+       "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
        "isPercent": true,
        "baseValue": 0.024883,
        "levelAdd": 0.008709,
@@ -175,7 +175,7 @@
      "subAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": false,
        "baseValue": 13.548016,
        "levelAdd": 13.548016,
@@ -184,7 +184,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": false,
        "baseValue": 6.774008,
        "levelAdd": 6.774008,
@@ -193,7 +193,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": false,
        "baseValue": 6.774008,
        "levelAdd": 6.774008,
@@ -202,7 +202,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.013824001,
        "levelAdd": 0.013824001,
@@ -211,7 +211,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.013824001,
        "levelAdd": 0.013824001,
@@ -220,7 +220,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.017280001,
        "levelAdd": 0.017280001,
@@ -229,7 +229,7 @@
       },
       {
        "propertyName": "SPD",
-       "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
        "isPercent": false,
        "baseValue": 1,
        "levelAdd": 1,
@@ -238,7 +238,7 @@
       },
       {
        "propertyName": "CRIT Rate",
-       "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
        "isPercent": true,
        "baseValue": 0.010368001,
        "levelAdd": 0.010368001,
@@ -247,7 +247,7 @@
       },
       {
        "propertyName": "CRIT DMG",
-       "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -256,7 +256,7 @@
       },
       {
        "propertyName": "Effect Hit Rate",
-       "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
        "isPercent": true,
        "baseValue": 0.013824001,
        "levelAdd": 0.013824001,
@@ -265,7 +265,7 @@
       },
       {
        "propertyName": "Effect RES",
-       "propertyIconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
        "isPercent": true,
        "baseValue": 0.013824001,
        "levelAdd": 0.013824001,
@@ -274,7 +274,7 @@
       },
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -289,7 +289,7 @@
      "mainAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.014515,
@@ -298,7 +298,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.014515,
@@ -307,7 +307,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.05184,
        "levelAdd": 0.018144,
@@ -316,7 +316,7 @@
       },
       {
        "propertyName": "<span style=\"color:#FFFFFF;\">Physical</span> DMG Meningkat",
-       "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+       "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
        "isPercent": true,
        "baseValue": 0.037325,
        "levelAdd": 0.013064001,
@@ -325,7 +325,7 @@
       },
       {
        "propertyName": "<span style=\"color:#F84F36;\">Fire</span> DMG Meningkat",
-       "propertyIconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+       "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
        "isPercent": true,
        "baseValue": 0.037325,
        "levelAdd": 0.013064001,
@@ -334,7 +334,7 @@
       },
       {
        "propertyName": "<span style=\"color:#47C7FD;\">Ice</span> DMG Meningkat",
-       "propertyIconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b",
+       "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
        "isPercent": true,
        "baseValue": 0.037325,
        "levelAdd": 0.013064001,
@@ -343,7 +343,7 @@
       },
       {
        "propertyName": "<span style=\"color:#c75de2;\">Lightning</span> DMG Meningkat",
-       "propertyIconPath": "dbf8a033f78ebfe4765472b27aa0e7d3838d36f8f15868c49a3433ccca9ef1aa",
+       "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a",
        "isPercent": true,
        "baseValue": 0.037325,
        "levelAdd": 0.013064001,
@@ -352,7 +352,7 @@
       },
       {
        "propertyName": "<span style=\"color:#00FF9C;\">Wind</span> DMG Meningkat",
-       "propertyIconPath": "6ed4c20b424ce99fc080b98f339acbf6535738e14c8d8e649ec3e1e286b348fa",
+       "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
        "isPercent": true,
        "baseValue": 0.037325,
        "levelAdd": 0.013064001,
@@ -361,7 +361,7 @@
       },
       {
        "propertyName": "<span style=\"color:#7788ff;\">Quantum</span> DMG Meningkat",
-       "propertyIconPath": "e7c7e4e052302779e7dab274aa39aedc08e59eed4e5e507174ee47aaef770e2a",
+       "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
        "isPercent": true,
        "baseValue": 0.037325,
        "levelAdd": 0.013064001,
@@ -370,7 +370,7 @@
       },
       {
        "propertyName": "<span style=\"color:#F4D258;\">Imaginary</span> DMG Meningkat",
-       "propertyIconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+       "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
        "isPercent": true,
        "baseValue": 0.037325,
        "levelAdd": 0.013064001,
@@ -381,7 +381,7 @@
      "subAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": false,
        "baseValue": 20.322023,
        "levelAdd": 20.322023,
@@ -390,7 +390,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": false,
        "baseValue": 10.161012,
        "levelAdd": 10.161012,
@@ -399,7 +399,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": false,
        "baseValue": 10.161012,
        "levelAdd": 10.161012,
@@ -408,7 +408,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -417,7 +417,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -426,7 +426,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.02592,
        "levelAdd": 0.02592,
@@ -435,7 +435,7 @@
       },
       {
        "propertyName": "SPD",
-       "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
        "isPercent": false,
        "baseValue": 1.2,
        "levelAdd": 1.2,
@@ -444,7 +444,7 @@
       },
       {
        "propertyName": "CRIT Rate",
-       "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
        "isPercent": true,
        "baseValue": 0.015552,
        "levelAdd": 0.015552,
@@ -453,7 +453,7 @@
       },
       {
        "propertyName": "CRIT DMG",
-       "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
        "isPercent": true,
        "baseValue": 0.031104,
        "levelAdd": 0.031104,
@@ -462,7 +462,7 @@
       },
       {
        "propertyName": "Effect Hit Rate",
-       "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -471,7 +471,7 @@
       },
       {
        "propertyName": "Effect RES",
-       "propertyIconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -480,7 +480,7 @@
       },
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.031104,
        "levelAdd": 0.031104,
@@ -495,7 +495,7 @@
      "mainAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.055296,
        "levelAdd": 0.019354,
@@ -504,7 +504,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.055296,
        "levelAdd": 0.019354,
@@ -513,7 +513,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.06912,
        "levelAdd": 0.024192,
@@ -522,7 +522,7 @@
       },
       {
        "propertyName": "<span style=\"color:#FFFFFF;\">Physical</span> DMG Meningkat",
-       "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+       "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
        "isPercent": true,
        "baseValue": 0.049766,
        "levelAdd": 0.017418,
@@ -531,7 +531,7 @@
       },
       {
        "propertyName": "<span style=\"color:#F84F36;\">Fire</span> DMG Meningkat",
-       "propertyIconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+       "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
        "isPercent": true,
        "baseValue": 0.049766,
        "levelAdd": 0.017418,
@@ -540,7 +540,7 @@
       },
       {
        "propertyName": "<span style=\"color:#47C7FD;\">Ice</span> DMG Meningkat",
-       "propertyIconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b",
+       "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
        "isPercent": true,
        "baseValue": 0.049766,
        "levelAdd": 0.017418,
@@ -549,7 +549,7 @@
       },
       {
        "propertyName": "<span style=\"color:#c75de2;\">Lightning</span> DMG Meningkat",
-       "propertyIconPath": "dbf8a033f78ebfe4765472b27aa0e7d3838d36f8f15868c49a3433ccca9ef1aa",
+       "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a",
        "isPercent": true,
        "baseValue": 0.049766,
        "levelAdd": 0.017418,
@@ -558,7 +558,7 @@
       },
       {
        "propertyName": "<span style=\"color:#00FF9C;\">Wind</span> DMG Meningkat",
-       "propertyIconPath": "6ed4c20b424ce99fc080b98f339acbf6535738e14c8d8e649ec3e1e286b348fa",
+       "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
        "isPercent": true,
        "baseValue": 0.049766,
        "levelAdd": 0.017418,
@@ -567,7 +567,7 @@
       },
       {
        "propertyName": "<span style=\"color:#7788ff;\">Quantum</span> DMG Meningkat",
-       "propertyIconPath": "e7c7e4e052302779e7dab274aa39aedc08e59eed4e5e507174ee47aaef770e2a",
+       "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
        "isPercent": true,
        "baseValue": 0.049766,
        "levelAdd": 0.017418,
@@ -576,7 +576,7 @@
       },
       {
        "propertyName": "<span style=\"color:#F4D258;\">Imaginary</span> DMG Meningkat",
-       "propertyIconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+       "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
        "isPercent": true,
        "baseValue": 0.049766,
        "levelAdd": 0.017418,
@@ -587,7 +587,7 @@
      "subAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": false,
        "baseValue": 27.096031,
        "levelAdd": 27.096031,
@@ -596,7 +596,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": false,
        "baseValue": 13.548016,
        "levelAdd": 13.548016,
@@ -605,7 +605,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": false,
        "baseValue": 13.548016,
        "levelAdd": 13.548016,
@@ -614,7 +614,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.027648,
@@ -623,7 +623,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.027648,
@@ -632,7 +632,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -641,7 +641,7 @@
       },
       {
        "propertyName": "SPD",
-       "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
        "isPercent": false,
        "baseValue": 1.6,
        "levelAdd": 1.6,
@@ -650,7 +650,7 @@
       },
       {
        "propertyName": "CRIT Rate",
-       "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -659,7 +659,7 @@
       },
       {
        "propertyName": "CRIT DMG",
-       "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.041472,
@@ -668,7 +668,7 @@
       },
       {
        "propertyName": "Effect Hit Rate",
-       "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.027648,
@@ -677,7 +677,7 @@
       },
       {
        "propertyName": "Effect RES",
-       "propertyIconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.027648,
@@ -686,7 +686,7 @@
       },
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.041472,
@@ -701,7 +701,7 @@
      "mainAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.06912,
        "levelAdd": 0.024192,
@@ -710,7 +710,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.06912,
        "levelAdd": 0.024192,
@@ -719,7 +719,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.0864,
        "levelAdd": 0.030240001,
@@ -728,7 +728,7 @@
       },
       {
        "propertyName": "<span style=\"color:#FFFFFF;\">Physical</span> DMG Meningkat",
-       "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+       "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
        "isPercent": true,
        "baseValue": 0.062208,
        "levelAdd": 0.021773001,
@@ -737,7 +737,7 @@
       },
       {
        "propertyName": "<span style=\"color:#F84F36;\">Fire</span> DMG Meningkat",
-       "propertyIconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+       "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
        "isPercent": true,
        "baseValue": 0.062208,
        "levelAdd": 0.021773001,
@@ -746,7 +746,7 @@
       },
       {
        "propertyName": "<span style=\"color:#47C7FD;\">Ice</span> DMG Meningkat",
-       "propertyIconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b",
+       "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
        "isPercent": true,
        "baseValue": 0.062208,
        "levelAdd": 0.021773001,
@@ -755,7 +755,7 @@
       },
       {
        "propertyName": "<span style=\"color:#c75de2;\">Lightning</span> DMG Meningkat",
-       "propertyIconPath": "dbf8a033f78ebfe4765472b27aa0e7d3838d36f8f15868c49a3433ccca9ef1aa",
+       "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a",
        "isPercent": true,
        "baseValue": 0.062208,
        "levelAdd": 0.021773001,
@@ -764,7 +764,7 @@
       },
       {
        "propertyName": "<span style=\"color:#00FF9C;\">Wind</span> DMG Meningkat",
-       "propertyIconPath": "6ed4c20b424ce99fc080b98f339acbf6535738e14c8d8e649ec3e1e286b348fa",
+       "propertyIconPath": "0522df09a42bd865075d24d65165f83c8a0467c347191ec712971e44d9662f0d",
        "isPercent": true,
        "baseValue": 0.062208,
        "levelAdd": 0.021773001,
@@ -773,7 +773,7 @@
       },
       {
        "propertyName": "<span style=\"color:#7788ff;\">Quantum</span> DMG Meningkat",
-       "propertyIconPath": "e7c7e4e052302779e7dab274aa39aedc08e59eed4e5e507174ee47aaef770e2a",
+       "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
        "isPercent": true,
        "baseValue": 0.062208,
        "levelAdd": 0.021773001,
@@ -782,7 +782,7 @@
       },
       {
        "propertyName": "<span style=\"color:#F4D258;\">Imaginary</span> DMG Meningkat",
-       "propertyIconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+       "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
        "isPercent": true,
        "baseValue": 0.062208,
        "levelAdd": 0.021773001,
@@ -793,7 +793,7 @@
      "subAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": false,
        "baseValue": 33.87004,
        "levelAdd": 33.87004,
@@ -802,7 +802,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": false,
        "baseValue": 16.935019,
        "levelAdd": 16.935019,
@@ -811,7 +811,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": false,
        "baseValue": 16.935019,
        "levelAdd": 16.935019,
@@ -820,7 +820,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -829,7 +829,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -838,7 +838,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.0432,
        "levelAdd": 0.0432,
@@ -847,7 +847,7 @@
       },
       {
        "propertyName": "SPD",
-       "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
        "isPercent": false,
        "baseValue": 2,
        "levelAdd": 2,
@@ -856,7 +856,7 @@
       },
       {
        "propertyName": "CRIT Rate",
-       "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
        "isPercent": true,
        "baseValue": 0.02592,
        "levelAdd": 0.02592,
@@ -865,7 +865,7 @@
       },
       {
        "propertyName": "CRIT DMG",
-       "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
        "isPercent": true,
        "baseValue": 0.05184,
        "levelAdd": 0.05184,
@@ -874,7 +874,7 @@
       },
       {
        "propertyName": "Effect Hit Rate",
-       "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -883,7 +883,7 @@
       },
       {
        "propertyName": "Effect RES",
-       "propertyIconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -892,7 +892,7 @@
       },
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.05184,
        "levelAdd": 0.05184,
@@ -907,11 +907,11 @@
    "name": "Taikiyan's Arclight Race Track",
    "type": 0,
    "maxRarity": 5,
-   "iconPath": "1a15ffd32f338d89d2ccf18b21f1f4fe40a0d8531e5d5a55d3e70d9be752a507",
+   "iconPath": "00ecae15929ef32673a65ee9a20b9cae9aa2856db01c9ce3d52f77ce66761e4b",
    "baseTypeText": "Link Rope",
    "loreTitle": "Taikiyan's Arclight Race Track",
    "miniLore": "Trek standar Stadion Taikiyan biasanya dibuat dari struktur logam yang dilapisi beton halus dan lantai kayu mentah. Agar penonton dapat menonton pertandingan dengan jelas, bahan polikarbonat transparan dalam jumlah besar digunakan dalam pembangunan stadion, sehingga penonton dapat melihat seluruh situasi pertempuran.",
-   "lore": "\"Departemen Proyek Tradisional\" mengundang pakar olahraga dari Interastral Peace Entertainment, meminta mereka menghapus semua elemen barbar \"Aturan Bawah Tanah\" dan mengubahnya menjadi \"kompetisi yang menguntungkan\".<br /><br />Pakar material lebih dulu merancang \"Roboball\" dengan diameter <nobr>35</nobr> cm dan berat <nobr>30</nobr> kg untuk memenuhi permintaan tersebut, dengan campuran serat karbon dan baja tahan karat yang bereaksi terus-menerus terhadap Phase Flame, gerakan tidak teratur yang meningkatkan ketidakpastian permainan. Pakar peralatan olahraga mengikutinya dengan mengembangkan armor propulsi standar Roboball, agar memudahkan organisasi atletik dan medis terkemuka untuk menunjukkan kualitas mereka dengan lebih baik, serta memastikan keberlanjutan pendapatan yang stabil dan persaingan yang aman.<br /><br />Sejauh ini, Asosiasi Roboball Taikiyan resmi didirikan, dan versi awal \"Peraturan Pertandingan Roboball Taikiyan\" dirumuskan. Sistem permainan 2 tim dengan masing-masing 7 pemain juga ditetapkan sejak saat itu.<br /><br />Arsitek trek dari \"Intelligentsia Guild\" mengubah konsep \"lomba\" menjadi trek melingkar tiga dimensi — panjang standar <nobr>2,91</nobr> kilometer, area datar di tengah trek selebar 5 meter, dan area melengkung di kedua sisi selebar 2 sampai <nobr>14</nobr> meter ... Para pemain Roboball akan terbang searah selama beberapa putaran di trek yang luas dan terang, disertai dengan suara siulan dan tabrakan, untuk menyelesaikan seluruh permainan. Berdasarkan pengujian aktual, selama terbang di lintasan dengan kecepatan tinggi, sumber cahaya titik yang terputus akan terhubung ke garis dengan kegigihan visual atlet, dan beberapa lumen yang terlihat redup akan membentuk trek lampu busur eksklusif. Interastral Peace Entertainment mengundang para pengusaha kaya dan menjanjikan eksposur yang pantas didapatkan oleh kompetisi paling terkenal kepada mereka. Segera, klub-klub liga didirikan, para pemain paling berbakat dikumpulkan dan siap berangkat.<br /><br />Interastral Peace Media memiliki hak siar eksklusif untuk acara tersebut dan, dengan bantuan teknologi pengindraan ultra-remot, mereka menyiarkan kompetisi langsung ke penjuru dunia. Pengalaman indrawi para atlet papan atas juga terekam sepanjang acara, memungkinkan penonton yang tinggal di rumah juga dapat merasakan kecepatan, tabrakan, peluit, dan lampu busur kompetisi dari rumah mereka sendiri. Pelabuhan kapal karam tua dipenuhi dengan kapal-kapal wisata dan kerumunan yang ramai berkumpul di jalan-jalan dengan diterangi oleh lampu dan iklan, lalu mereka perlahan menuju ke arah stadion. Mereka memastikan tempat duduk mereka dan melihat sekeliling. Spanduk, bendera dan gelembung biji gandum yang beterbangan memenuhi penglihatan mereka. Trek yang terang berdiri diam di bawah lampu sorot.<br /><br />Di tengah gemuruh penonton, pertandingan pertama dimulai.",
+   "lore": "\"Departemen Proyek Tradisional\" mengundang pakar olahraga dari Interastral Peace Entertainment, meminta mereka menghapus semua elemen barbar \"Aturan Bawah Tanah\" dan mengubahnya menjadi \"kompetisi yang menguntungkan\".<br /><br />Pakar material lebih dulu merancang \"Roboball\" dengan diameter <nobr>35</nobr> cm dan berat <nobr>30</nobr> kg untuk memenuhi permintaan tersebut, dengan campuran serat karbon dan baja tahan karat yang bereaksi terus-menerus terhadap Phase Flame, gerakan tidak teratur yang meningkatkan ketidakpastian permainan. Pakar peralatan olahraga mengikutinya dengan mengembangkan armor propulsi standar Roboball, agar memudahkan organisasi atletik dan medis terkemuka untuk menunjukkan kualitas mereka dengan lebih baik, serta memastikan keberlanjutan pendapatan yang stabil dan persaingan yang aman.<br /><br />Sejauh ini, Asosiasi Taikiyan Roboball resmi didirikan, dan versi awal \"Peraturan Pertandingan Roboball Taikiyan\" dirumuskan. Sistem permainan 2 tim dengan masing-masing 7 pemain juga ditetapkan sejak saat itu.<br /><br />Arsitek trek dari \"Intelligentsia Guild\" mengubah konsep \"lomba\" menjadi trek melingkar tiga dimensi — panjang standar <nobr>2,91</nobr> kilometer, area datar di tengah trek selebar 5 meter, dan area melengkung di kedua sisi selebar 2 sampai <nobr>14</nobr> meter ... Para pemain Roboball akan terbang searah selama beberapa putaran di trek yang luas dan terang, disertai dengan suara siulan dan tabrakan, untuk menyelesaikan seluruh permainan. Berdasarkan pengujian aktual, selama terbang di lintasan dengan kecepatan tinggi, sumber cahaya titik yang terputus akan terhubung ke garis dengan kegigihan visual atlet, dan beberapa lumen yang terlihat redup akan membentuk trek lampu busur eksklusif. Interastral Peace Entertainment mengundang para pengusaha kaya dan menjanjikan eksposur yang pantas didapatkan oleh kompetisi paling terkenal kepada mereka. Segera, klub-klub liga didirikan, para pemain paling berbakat dikumpulkan dan siap berangkat.<br /><br />Interastral Peace Media memiliki hak siar eksklusif untuk acara tersebut dan, dengan bantuan teknologi pengindraan ultra-remot, mereka menyiarkan kompetisi langsung ke penjuru dunia. Pengalaman indrawi para atlet papan atas juga terekam sepanjang acara, memungkinkan penonton yang tinggal di rumah juga dapat merasakan kecepatan, tabrakan, peluit, dan lampu busur kompetisi dari rumah mereka sendiri. Pelabuhan kapal karam tua dipenuhi dengan kapal-kapal wisata dan kerumunan yang ramai berkumpul di jalan-jalan dengan diterangi oleh lampu dan iklan, lalu mereka perlahan menuju ke arah stadion. Mereka memastikan tempat duduk mereka dan melihat sekeliling. Spanduk, bendera dan gelembung biji gandum yang beterbangan memenuhi penglihatan mereka. Trek yang terang berdiri diam di bawah lampu sorot.<br /><br />Di tengah gemuruh penonton, pertandingan pertama dimulai.",
    "rarityData": {
     "2": {
      "rarity": 2,
@@ -919,7 +919,7 @@
      "mainAffixes": [
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.014515,
@@ -928,7 +928,7 @@
       },
       {
        "propertyName": "Energy Regeneration Rate",
-       "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8",
+       "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc",
        "isPercent": true,
        "baseValue": 0.012442,
        "levelAdd": 0.0043550003,
@@ -937,7 +937,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.009677,
@@ -946,7 +946,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.009677,
@@ -955,7 +955,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.012096001,
@@ -966,7 +966,7 @@
      "subAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": false,
        "baseValue": 13.548016,
        "levelAdd": 13.548016,
@@ -975,7 +975,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": false,
        "baseValue": 6.774008,
        "levelAdd": 6.774008,
@@ -984,7 +984,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": false,
        "baseValue": 6.774008,
        "levelAdd": 6.774008,
@@ -993,7 +993,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.013824001,
        "levelAdd": 0.013824001,
@@ -1002,7 +1002,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.013824001,
        "levelAdd": 0.013824001,
@@ -1011,7 +1011,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.017280001,
        "levelAdd": 0.017280001,
@@ -1020,7 +1020,7 @@
       },
       {
        "propertyName": "SPD",
-       "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
        "isPercent": false,
        "baseValue": 1,
        "levelAdd": 1,
@@ -1029,7 +1029,7 @@
       },
       {
        "propertyName": "CRIT Rate",
-       "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
        "isPercent": true,
        "baseValue": 0.010368001,
        "levelAdd": 0.010368001,
@@ -1038,7 +1038,7 @@
       },
       {
        "propertyName": "CRIT DMG",
-       "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -1047,7 +1047,7 @@
       },
       {
        "propertyName": "Effect Hit Rate",
-       "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
        "isPercent": true,
        "baseValue": 0.013824001,
        "levelAdd": 0.013824001,
@@ -1056,7 +1056,7 @@
       },
       {
        "propertyName": "Effect RES",
-       "propertyIconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
        "isPercent": true,
        "baseValue": 0.013824001,
        "levelAdd": 0.013824001,
@@ -1065,7 +1065,7 @@
       },
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -1080,7 +1080,7 @@
      "mainAffixes": [
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.062208,
        "levelAdd": 0.021773001,
@@ -1089,7 +1089,7 @@
       },
       {
        "propertyName": "Energy Regeneration Rate",
-       "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8",
+       "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc",
        "isPercent": true,
        "baseValue": 0.018662,
        "levelAdd": 0.0065320004,
@@ -1098,7 +1098,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.014515,
@@ -1107,7 +1107,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.014515,
@@ -1116,7 +1116,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.05184,
        "levelAdd": 0.018144,
@@ -1127,7 +1127,7 @@
      "subAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": false,
        "baseValue": 20.322023,
        "levelAdd": 20.322023,
@@ -1136,7 +1136,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": false,
        "baseValue": 10.161012,
        "levelAdd": 10.161012,
@@ -1145,7 +1145,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": false,
        "baseValue": 10.161012,
        "levelAdd": 10.161012,
@@ -1154,7 +1154,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -1163,7 +1163,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -1172,7 +1172,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.02592,
        "levelAdd": 0.02592,
@@ -1181,7 +1181,7 @@
       },
       {
        "propertyName": "SPD",
-       "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
        "isPercent": false,
        "baseValue": 1.2,
        "levelAdd": 1.2,
@@ -1190,7 +1190,7 @@
       },
       {
        "propertyName": "CRIT Rate",
-       "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
        "isPercent": true,
        "baseValue": 0.015552,
        "levelAdd": 0.015552,
@@ -1199,7 +1199,7 @@
       },
       {
        "propertyName": "CRIT DMG",
-       "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
        "isPercent": true,
        "baseValue": 0.031104,
        "levelAdd": 0.031104,
@@ -1208,7 +1208,7 @@
       },
       {
        "propertyName": "Effect Hit Rate",
-       "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -1217,7 +1217,7 @@
       },
       {
        "propertyName": "Effect RES",
-       "propertyIconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -1226,7 +1226,7 @@
       },
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.031104,
        "levelAdd": 0.031104,
@@ -1241,7 +1241,7 @@
      "mainAffixes": [
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.082944,
        "levelAdd": 0.029029999,
@@ -1250,7 +1250,7 @@
       },
       {
        "propertyName": "Energy Regeneration Rate",
-       "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8",
+       "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc",
        "isPercent": true,
        "baseValue": 0.024883,
        "levelAdd": 0.008709,
@@ -1259,7 +1259,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.055296,
        "levelAdd": 0.019354,
@@ -1268,7 +1268,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.055296,
        "levelAdd": 0.019354,
@@ -1277,7 +1277,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.06912,
        "levelAdd": 0.024192,
@@ -1288,7 +1288,7 @@
      "subAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": false,
        "baseValue": 27.096031,
        "levelAdd": 27.096031,
@@ -1297,7 +1297,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": false,
        "baseValue": 13.548016,
        "levelAdd": 13.548016,
@@ -1306,7 +1306,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": false,
        "baseValue": 13.548016,
        "levelAdd": 13.548016,
@@ -1315,7 +1315,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.027648,
@@ -1324,7 +1324,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.027648,
@@ -1333,7 +1333,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -1342,7 +1342,7 @@
       },
       {
        "propertyName": "SPD",
-       "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
        "isPercent": false,
        "baseValue": 1.6,
        "levelAdd": 1.6,
@@ -1351,7 +1351,7 @@
       },
       {
        "propertyName": "CRIT Rate",
-       "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
        "isPercent": true,
        "baseValue": 0.020736001,
        "levelAdd": 0.020736001,
@@ -1360,7 +1360,7 @@
       },
       {
        "propertyName": "CRIT DMG",
-       "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.041472,
@@ -1369,7 +1369,7 @@
       },
       {
        "propertyName": "Effect Hit Rate",
-       "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.027648,
@@ -1378,7 +1378,7 @@
       },
       {
        "propertyName": "Effect RES",
-       "propertyIconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
        "isPercent": true,
        "baseValue": 0.027648,
        "levelAdd": 0.027648,
@@ -1387,7 +1387,7 @@
       },
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.041472,
        "levelAdd": 0.041472,
@@ -1402,7 +1402,7 @@
      "mainAffixes": [
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.10368,
        "levelAdd": 0.036288,
@@ -1411,7 +1411,7 @@
       },
       {
        "propertyName": "Energy Regeneration Rate",
-       "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8",
+       "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc",
        "isPercent": true,
        "baseValue": 0.031104,
        "levelAdd": 0.010886001,
@@ -1420,7 +1420,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.06912,
        "levelAdd": 0.024192,
@@ -1429,7 +1429,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.06912,
        "levelAdd": 0.024192,
@@ -1438,7 +1438,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.0864,
        "levelAdd": 0.030240001,
@@ -1449,7 +1449,7 @@
      "subAffixes": [
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": false,
        "baseValue": 33.87004,
        "levelAdd": 33.87004,
@@ -1458,7 +1458,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": false,
        "baseValue": 16.935019,
        "levelAdd": 16.935019,
@@ -1467,7 +1467,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": false,
        "baseValue": 16.935019,
        "levelAdd": 16.935019,
@@ -1476,7 +1476,7 @@
       },
       {
        "propertyName": "HP",
-       "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+       "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -1485,7 +1485,7 @@
       },
       {
        "propertyName": "ATK",
-       "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+       "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -1494,7 +1494,7 @@
       },
       {
        "propertyName": "DEF",
-       "propertyIconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+       "propertyIconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
        "isPercent": true,
        "baseValue": 0.0432,
        "levelAdd": 0.0432,
@@ -1503,7 +1503,7 @@
       },
       {
        "propertyName": "SPD",
-       "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+       "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
        "isPercent": false,
        "baseValue": 2,
        "levelAdd": 2,
@@ -1512,7 +1512,7 @@
       },
       {
        "propertyName": "CRIT Rate",
-       "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+       "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
        "isPercent": true,
        "baseValue": 0.02592,
        "levelAdd": 0.02592,
@@ -1521,7 +1521,7 @@
       },
       {
        "propertyName": "CRIT DMG",
-       "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+       "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
        "isPercent": true,
        "baseValue": 0.05184,
        "levelAdd": 0.05184,
@@ -1530,7 +1530,7 @@
       },
       {
        "propertyName": "Effect Hit Rate",
-       "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+       "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -1539,7 +1539,7 @@
       },
       {
        "propertyName": "Effect RES",
-       "propertyIconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+       "propertyIconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
        "isPercent": true,
        "baseValue": 0.034560002,
        "levelAdd": 0.034560002,
@@ -1548,7 +1548,7 @@
       },
       {
        "propertyName": "Break Effect",
-       "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+       "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
        "isPercent": true,
        "baseValue": 0.05184,
        "levelAdd": 0.05184,

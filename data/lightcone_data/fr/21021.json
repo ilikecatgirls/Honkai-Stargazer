@@ -2,16 +2,17 @@
  "name": "Échange de bons procédés",
  "rarity": 4,
  "descHash": "Après avoir bénéficié d'un massage de la part de la fille-dragon,<br />la Foxienne tendit la main et s'amusa à pincer ses petites joues potelées.<br />La petite fille fronça alors les lèvres, visiblement offensée, ce qui ne suscita qu'un ricanement joyeux de la part de la Foxienne.<br /><br />« Voilà ce que j'appelle un échange de bons procédés. »",
- "iconPath": "53c7d4b53d302bc431a3781283aa4549c539c7b9eac5ecd41120871d507a8b7a",
- "artPath": "960c7994ccc42cb6a3e43032f771ec8c4286a6df5cb6dba149518278a0663d2b",
+ "iconPath": "add824f66091f2af3abbd7f996d59c45a7c579f4c980ace558758a6175bb2399",
+ "artPath": "e4ce566e1994c87843ef783e22c184044f3872030b0b37fafe072d5c15af3020",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRmACAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSEsAAAABD9D/iAi4jWzbafAebjmURkiJlPBDeb1I9pvTRkT/A1qPiFOk3PzoGKEHgTAZcqa4Ci+PQH6X0Z/Qx/R56BOHwHBBzinRpGNIrxoAVlA4IO4BAACwCQCdASoUABwAPm0qkUWkIqGYBABABsS2AE6ZQjgb1XhCXA6lF+ge+H6ANMA6Tj9w3G88AYvpnSekfYD6SAyqG47uJKrKGpNJxLKKaL5hAf+zvZpYgAD+6l9T+ERk0PKre/KH6EJQTzbfw+nhOo38TNicSP9KoxJ/HHXG83kV8p8RPrre8Q90PCeds6OMdxgDL9+AWsra8PfIlLw/cmy/Uw59tH8s/Zswcb3ePjRhHzV2bckYvbInNF+p1I4fpzx7axLt+/eYR0Z9om7m0t2oRzFY72L6uEDb6h8md+JYjMfUgG7UG+rf89L+kKnzwCwIIgiJpRXuDtPQgQBv7hvLyFALSLAMdCIfsy+u7HExS+nnfpmIa2qyW/Pu/+RIVOyXCTv2BpFIZZlehiX5gK/S/BER7MOCMON8Xp++zhRvBiazVb5SMB4AeTUD0yPSuFx2srcyWaBSpW46+pTwNKufzflSI3l+qp8spgJ6xJi7t81I4XH1zz/FZq2QqvPClJ/aHBQiTs0+R8lcwbB/iQkjdQsKgxwDrkJ7CV+5j9J607f1s97vHHqu5bSU6+s156jCnYaNnFvMQbcr9zyFe9RKC99KeSElsm3yubHFQBVB9yyRTL9cl/9zAFCK2MShPkreudF4tcYO+hnH4AAAAA==",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "3b0c0400eeb110f1d1cb0ccdb9b7eae8574ef5ae8ddc3f2214fc3650898fddf6",
+ "mediumIconPath": "7f4257c6e95a0e43db61955beed0bfd544a3c441c1ef485b8a0b2b6a0bca3804",
  "baseType": {
   "id": 0,
-  "iconPath": "81e58cfdc0c8a9a026c2c3111a6bdf663d572fa71524907b004fc5eb7f34fade",
+  "iconPath": "099f836bb82a0db5555a593235596f78b0afd634e500ed415da9f15b9b74a6cf",
   "color": "#FFFFFF",
   "name": "L'Abondance",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549407": {
    "id": 549407,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "d5bfc95d74fab56f9c9be440028051ed2a9e02f4ee968c8d3db170d5b55dd931",
+   "iconPath": "a72fcf2954997ca8c5928ceaf5a1627bb831e3c8632cf048466d7885560c65be",
    "name": "Badge de la crinière d'argent",
    "desc": "Badge porté par les soldats de la Garde de la crinière d'argent. Matériau commun utilisé pour le renforcement.",
    "lore": "Il est criblé d'éraflures dues à l'érosion causée par le vent et la neige.<br /><br />« Dans l'ancien temps, il n'y avait qu'un seul moyen pour les Gardes de la crinière d'argent de partir à la retraite : la mort. »",
@@ -52,9 +53,10 @@
    "comeFrom": [
     "Marcheur de l'ombre de l'Hiver éternel et Marcheur de l'ombre de l'Incinération",
     "Gardes de la crinière d'argent et vagabonds",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -63,7 +65,7 @@
    "id": 633348,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5be2ad896306c15eb63529806cc7e0175b2c2111e3a6f175accb00a85cf9b90e",
+   "iconPath": "ba6bf0222b2d45356ef4505a36cbe77c7a9b780b174dba76a2ee29427b344447",
    "name": "Insigne de la crinière d'argent",
    "desc": "Insigne militaire porté par les capitaines de la Garde de la crinière d'argent. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "Il s'agit peut-être d'une preuve d'héroïsme qui permet de se vanter auprès de sa famille. Ou peut-être qu'il s'agit d'un porte-bonheur qui peut protéger d'une balle.<br /><br />« Les temps ont changé. »",
@@ -74,6 +76,7 @@
     "Marcheur de l'ombre d'Hiver éternel et Marcheur de l'ombre de l'Incinération au niveau d'équilibre 2 ou supérieur",
     "Gardes de la crinière d'argent et vagabonds au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -82,7 +85,7 @@
    "id": 635671,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e1b0a1a8ab4a806daac48e2e5de6c69a9a1aad87f950c5a4c92c9513dd9d6b9",
+   "iconPath": "9c646329c4d4e9b8cb867e7864ce74f4ca6d18e611b748c516c1a5f3334d04b6",
    "name": "Graine d'abondance",
    "desc": "Graine de bénédiction semée par l'Aiôn de l'Abondance. Permet d'améliorer légèrement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abondance</span>.",
    "lore": "Ceux qui la touchent voient lentement disparaître leurs blessures et leurs maux.<br />Ceux qui, frappés de désespoir, appellent de leurs prières les bienfaits de la vie seront toujours entendus.<br /><br />« Tu recevras ce que tu demandes. »",
@@ -91,7 +94,7 @@
    "rewardPath": "/material/635671",
    "comeFrom": [
     "Calice du Col de Backwater",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -99,7 +102,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -117,7 +120,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -128,14 +131,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -153,7 +156,7 @@
    "id": 717289,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e5c567b0d1a069f86d1fa35a17b282346606c69e5f8cab4028224ece84c8ad58",
+   "iconPath": "0f804f4f5903741a391df7dca374c8f9a80e5a258e74bdebf04d9f811b23ba67",
    "name": "Médaille de la crinière d'argent",
    "desc": "Médaille d'honneur portée par les soldats de la Garde de la crinière d'argent ayant servi de façon courageuse et méritante. Matériau avancé utilisé pour le renforcement.",
    "lore": "Une marque d'honneur décernée à ceux qui ont combattu les créatures du Fragmentum, les habitants du Souterrain, et les catastrophes soudaines.<br />Elle est plus souvent placée sur le cercueil qu'épinglée sur la poitrine de son propriétaire.<br /><br />« Rappelle-toi, jeune Gepard. Ceci n'est pas un jouet : c'est le destin et le sang de la famille Landau. »",
@@ -164,6 +167,7 @@
     "Marcheur de l'ombre d'Hiver éternel et Marcheur de l'ombre de l'Incinération au niveau d'équilibre 4 ou supérieur",
     "Gardes de la crinière d'argent et vagabonds au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -172,7 +176,7 @@
    "id": 836257,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "e08699257c4a96a135b4467fd8eba3917d5734b2c943ac631d2a39ae3c4ccb37",
+   "iconPath": "969a6d57c217f2b43cb2d1be96d5fa06a30b8ca9834ec984f0649d019d666b13",
    "name": "Fleur de l'éternité",
    "desc": "Une fleur magnifique issue de la Pousse de la vie. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abondance</span>.",
    "lore": "Les étamines contiennent le pouvoir concentré de la Voie de l'Abondance, assurant la vitalité éternelle de la fleur. Ni le feu, ni la glace, ni aucune agression extérieure ne peuvent entraver la croissance de cette magnifique forme de vie.<br />Avec le temps, ses feuilles se nourriront de lumière d'étoile. Ses racines s'enfonceront dans la chair de chaque être de ce monde, toutes connectées, sans jamais périr. Ses fruits rempliront leur promesse d'immortalité.<br /><br />« Il existe des vaisseaux géants qui éclipsent les montagnes et dérivent dans le vide. L'arbre éternel dont les fruits sont synonymes d'immortalité y pousse. »",
@@ -189,7 +193,7 @@
    "id": 920198,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "365bf3a80928eea605cbefd72636c62eb0c1887b4652520c3e9c3f99a55f0cb9",
+   "iconPath": "e53b293c86a90843e4eac0cd4649e1b7f94b3aa93adec45d9fcadf0a4532d8af",
    "name": "Pousse de la vie",
    "desc": "Une jeune pousse provenant de la Graine d'abondance. Permet d'améliorer modérément les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Abondance</span>.",
    "lore": "Irradiant de chaleur, la vie et la croissance s'épanouissent autour de l'endroit où elle enterre ses racines. Les terres stériles se transforment en champs luxuriants, les plantes fanées rajeunissent et fleurissent, et les sources jaillissent du sol pour humidifier la terre.<br />S'approcher trop près provoque une contraction musculaire et osseuse, qui s'accompagne d'une démangeaison insupportable.<br /><br />« La vie est inépuisable là où l'âme abonde .»",
@@ -199,7 +203,7 @@
    "comeFrom": [
     "Calice du Col de Backwater",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

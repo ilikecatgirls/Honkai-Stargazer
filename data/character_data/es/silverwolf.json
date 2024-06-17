@@ -1,19 +1,20 @@
 {
  "spRequirement": 110,
- "iconPath": "98475d8b2f36be2aa569debc687806de5bbbbb1efe3cf14699924074b4ca2299",
- "bgPath": "9144184ac22a31508f638c4330909cbbfde90e8f3e72e9e648b98dee961fe471",
- "figPath": "a5b9411ae745b6a64d252f845f3671f5933a9d60209a7b5ee9f4330c3185cc01",
- "fgPath": "fa1e47f26ad87e71b0d0d99339868d84b6eec4afe6f058811dc6f1d1ecb5fe1c",
- "splashIconPath": "803f68e09a5c5f60ba8039a38f98af15738db1a6d405e7da55c2bd87f591dc66",
+ "iconPath": "650c1ce6e269c09697d0dbbd976ea12561a41fb12ce7258033154f6f04f36d9b",
+ "bgPath": "56150ab33e8d3115431f95a36e2c3ed1a237d141f90e6f3c53a15267c873965a",
+ "figPath": "ec605b316422a3e880ccec7806a5fca21facbf7012552cbdcf242ca9ffd78da4",
+ "fgPath": "9faf4f0fa77bc2d98b7ba6190ed89ea91dcd00d46da46b524b83146fd77b26f2",
+ "splashIconPath": "0dc0cff975b3c60f9280007635bab0d375489029a3f4cb3ecfce4457c973a517",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRsYCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSCABAAABkHNt2xnI8p9kTqoxqpnKtjpbte3SNteubLPzllva3u1sK9/3PkUyETEBcPUrnT1w9nBvURBgwtXqvEH3j9vD4O7b84G/fyjbFvLvIAzAQqN9t2d0o00R/Y9MBmCVX50PA7IfUYvIf54DDKyuAuC17R9FRDTf+QN+qYBn+iVSKCKKjwsBE96rbnyhEnd+TjQQUXWBpBJX/vvwyrJw7IVWSour5i1uA7L+/qKs+J+8v8dC2gv+XEEJ/7Z4AkbwA4qTQvJcLGACOETbIfxzZbgs1MMEgE1UDs1LOeNkNZw1739TRPPtsfLJl3yc4gsYWKBWtCl98Bp/sro3Gs5V5D/98drF661R3nA1gLoPpCa5BvAwDThNhPTuOL2vJSEdJpxWUDgggAEAAFAIAJ0BKhQAFAA+bTCTRyQioaEoCqiADYlsAJ0y43UHulzfaitgeoDbAeIB6uVkZFeCGDeNDUA6MwZmISdDNBe8nM0fqPbQGy3XcADd6aSz07JlE6YvVWh28Zr3bo26NX5TfuvzqtMwTaH7zbNgw6xBGV0madQH55fkt1PGF0CIp+WnWVEK6tKQOPpfvfCssIyIZAMz5e4F4jxqN/R+yrH+t7dtTF1KkQD9SPRl7u6XG3uByoT9PxqGpXaR9JtTxMPr//0ZvzP/2bk5vDhGF2hJYVr9QyLldAxlJgyTxZ6cu7tQXtvyg/7v9B3+W162mKgvP9SFxPNAQy/eAG71sRQf3hpQqpj48ezL018NeH/LQng/z9Dcp/Z/VDPrLECcXt7a9r3myw5ZEhgNmHwn25o7nePC5fPdk6FQ8wv6BZ9mmpNDPaJ98+niaEZOzgVhGpimIXD01hNCF6zTO6KQyhW/4//TUja8g5hNat9v/2FPhfUWf8/N2Mydbtf+wAAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 5,
-  "iconPath": "4b4b5f13f6588e7fb1c030c28f9b9b67a7a8c4bab77c05e38d5c9f64eb0d99e7",
+  "iconPath": "28571bec548b7a0a6b24ad8825c718a27732ae7c72c79d9288924e1258360ada",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédito",
    "desc": "Divisa que utiliza la Corporación para la Paz Interastral para sus cuentas con los clientes y que se acepta en todas partes como moneda de los viajes espaciales.",
    "lore": "\"La gente corre, se pelea y comercia por algo que no son más que números en una terminal, pero lo que es verdaderamente valioso no se puede comprar\".",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Huellas del destino",
    "desc": "Material avanzado de mejora para los Rastros.",
    "lore": "Un fracaso tras otro garantiza la victoria final. Un paso tras otro acaba llevándote al punto de inflexión de tu destino.",
@@ -61,7 +62,7 @@
    "id": 351746,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "2c6914a16ae349627baca5f84218db8fe270ccf2c80246f9b83acf8e72f7f92a",
+   "iconPath": "f589b65e09c63e81e71472776b47cb0078471f5ee34cda55db189190b5688c64",
    "name": "Hierro forjado del Vacío",
    "desc": "Herradura de un Aplastador del Vacío. Material de ascensión para los personajes de tipo Cuántico.",
    "lore": "Cuando un Aplastador de la Legión Antimateria es derrotado, hay una pequeña probabilidad de obtener esta herradura. Cuando nadie mira, pasa regularmente de existir a no existir.<br /><br />\"¿Que cómo se llama este experimento? Herradura del Aplastador...\".",
@@ -77,7 +78,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Guía del espíritu viajero",
    "desc": "Material de experiencia para personajes. Otorga <nobr>20</nobr> <nobr>000</nobr> pts. de EXP.",
    "lore": "Lectura indispensable para la exploración. Pulsa el botón Leer y una voz atractiva empezará a hablar en un idioma que entiendes y te contará las vivencias legendarias de aventureros famosos de distintos mundos, así como los valiosos conocimientos que adquirieron.<br /><br />\"El nuevo volumen de la serie Guía del espíritu viajero, titulado «Manual de gastronomía intergaláctica», saldrá a la venta muy pronto\".<br />\"Para enviar un artículo, conéctese a la baliza sinestésica ERD<nobr>-23</nobr>θ y contacte con un representante de la Sociedad del Conocimiento. Puede elegir la forma de pago más conveniente para usted\".",
@@ -95,7 +96,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Registro de aventuras",
    "desc": "Material de experiencia para personajes. Otorga <nobr>5000</nobr> pts. de EXP.",
    "lore": "Colección de notas instructivas muy bien ordenadas. Contiene numerosas ilustraciones y textos que describen aventuras de principio a fin, así como información valiosa y técnicas de supervivencia.<br /><br />\"¿Por qué no lo digitalizan y lo guardan en un disco fotolítico? Sería mucho más práctico\".<br />\"La tecnología avanzada es mucho más frágil de lo que crees cuando tienes que enfrentarte a tormentas estelares o erupciones de neutrones. Además, seguro que quien escribió este libro quería que la gente lo leyera de la forma más sencilla posible\".",
@@ -114,7 +115,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Noticias del viaje",
    "desc": "Material de experiencia para personajes. Otorga <nobr>1000</nobr> pts. de EXP.",
    "lore": "Diario de viaje con una caligrafía ilegible y un contenido completamente aleatorio, por lo que no te sirve de mucho.<br /><br />\"Dan Heng, acaba ya de leerlo y luego tíralo\".",
@@ -132,7 +133,7 @@
    "id": 549408,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "28d0ba947e29fa63210d8ae2c432cb80339f98427c8655a9ca050184f69c4819",
+   "iconPath": "66b7af9abc3a5b3a0c397e90ff5b79398ad5f3ed452c3adeb20a467543fd8810",
    "name": "Componente antiguo",
    "desc": "Componente de maquinaria procedente del viejo mundo. Material simple que se usa en la potenciación.",
    "lore": "A pesar de su pequeño tamaño, se fabricó y se pulió de una forma que hoy en día sería difícil de replicar.<br /><br />\"Un tornillito del viejo mundo es más resistente que nuestra armadura\".",
@@ -141,6 +142,7 @@
    "rewardPath": "/material/549408",
    "comeFrom": [
     "De Autómatas",
+    "De enemigos en el Universo Diferenciado",
     "De enemigos en el Universo Simulado",
     "Recompensa de encargo",
     "Canjeo de Ascuas",
@@ -152,7 +154,7 @@
    "id": 633349,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "7089e982e18575f3824ab28ae0e91f40c8214edf6253a7162142bdc7fc0acdbe",
+   "iconPath": "eee031381b2ae54c8df870a7c9f5089dfb9b6fa995a2c2ff29efb09bbffa02ef",
    "name": "Eje antiguo",
    "desc": "Eje de maquinaria procedente del viejo mundo. Material corriente que se usa en la potenciación.",
    "lore": "Una vez desmontados, los componentes de precisión no pueden volver a ensamblarse. Incluso los veteranos de mantenimiento de la División de Tecnología de Belobog se lo pensarían mucho antes de tocarlos.<br /><br />\"Idiota, los azules no te darán más que unas latas de comida por esto. Llévaselo al jefe Svarog y no tendrás que preocuparte por la ropa y la comida durante una buena temporada\".",
@@ -162,6 +164,7 @@
    "comeFrom": [
     "De autómatas (nivel de Equilibrio 2 o superior)",
     "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "De enemigos en el Universo Diferenciado",
     "De enemigos en el Universo Simulado",
     "Máquina sintetizadora multiusos - Intercambio de material"
    ]
@@ -170,7 +173,7 @@
    "id": 635669,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "271b1f9a291c44b698190683f224996bae3b49e8e596c227b819b72c3a2b82dd",
+   "iconPath": "825865adfbcce2087595f3e3f5f83074ff634bac538fef3447ca92d001377dd8",
    "name": "Obsidiana lúgubre",
    "desc": "Fragmento de materia oscura obtenido en el vacío. Sirve para mejorar ligeramente los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihilidad</span>.",
    "lore": "Noúmeno que no se puede verificar de ninguna forma.<br />Al rozarlo emite un murmullo ininteligible.<br /><br />\"████ ██ █ █\".",
@@ -187,7 +190,7 @@
    "id": 717290,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "4ef8700321d72ae07d3b931df6b9f6567d87f4035e2afed42d53e7c53aa09ceb",
+   "iconPath": "e57cd777cd6ae2ec9c4d8aa0fa1e9a18f5114a2b78d59db8bcc9231d470f77fc",
    "name": "Motor antiguo",
    "desc": "Motor de maquinaria procedente del viejo mundo. Material avanzado que se usa en la potenciación.",
    "lore": "Utiliza geomédula como fuente de energía. Al encenderse, en vez de chispas, se producen auroras boreales.<br /><br />\"Solo la División de Tecnología, que depende directamente de la Guardiana, puede acceder a información relacionada con el viejo mundo. Yo perdí mis privilegios cuando me despidieron\".",
@@ -197,6 +200,7 @@
    "comeFrom": [
     "De autómatas (nivel de Equilibrio 4 o superior)",
     "Máquina sintetizadora multiusos - Síntesis de materiales",
+    "De enemigos en el Universo Diferenciado",
     "De enemigos en el Universo Simulado",
     "Máquina sintetizadora multiusos - Intercambio de material"
    ]
@@ -205,7 +209,7 @@
    "id": 836255,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "34d88252515cd13ab58b6f5aae7329794a4a330a0147e1c5f755c8a2f4444bff",
+   "iconPath": "a006d01f6dff4b81ed47879eec1b9c3513644d0677c4815bc3c8530882c4be21",
    "name": "Obsidiana de la obsesión",
    "desc": "Trozo grande de materia oscura obtenido en el vacío. Sirve para mejorar en gran medida los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihilidad</span>.",
    "lore": "A quienes tienen una voluntad débil les bastará una mirada a este prisma para pasar la eternidad en el caos.<br /><br />\"       \".",
@@ -222,7 +226,7 @@
    "id": 920196,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "1a896480b5f6ee84644db112069845e85930f6dbc0f428a3f8a6de2b187702af",
+   "iconPath": "eec42c153a07330e42c7c9d85fb5fd5e1dc72c10e1912f3f825bc4f853ae4bd1",
    "name": "Obsidiana del vacío",
    "desc": "Trozo de materia oscura obtenido en el vacío. Sirve para mejorar moderadamente los Rastros de los personajes de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihilidad</span>.",
    "lore": "Su superficie oscura no refleja absolutamente nada. No solo absorbe la luz, sino que parece apropiarse de las emociones de su portador y dejar solo una sensación de vacío.<br /><br />\"...\".",
@@ -240,7 +244,7 @@
    "id": 985668,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "c92e008415ed578b02aeeebec3e4303f0e6c56d05fab48f2cfd79469b64f222b",
+   "iconPath": "04088e0733990d7a0c884c42641a26089c8376f465104345af368511bbcedbac",
    "name": "Senda final del destructor",
    "desc": "Material avanzado de mejora para los Rastros.",
    "lore": "El corazón del Leviatán ya dejó de latir, pero su voluntad sigue viva, atrapada en una caja. Mientras que nadie la abra, esa voluntad seguirá en un estado simultáneo de existencia y no existencia, permitiendo que el motor de la destrucción continúe funcionando.<br /><br />\"La Bestia del Juicio Final, una maldición forjada en la Fragua Bélica con los restos del Leviatán y los huesos que no dejan de lamentarse. Lo que más ansía es la destrucción del universo y de sí misma\".",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "730e2c012f15c073978f7e09698fe065680a592a9aa4d42f88c340a9de6e4bf2",
-   "artPath": "01c5b22ed6f3c1c67ebdec702b9e5fd1315ea83efaf040b56266e296e12458d9",
+   "iconPath": "096f118572694a44d0dffcabf74880253aab6794938fe169410ed54ccf6ca000",
+   "artPath": "10c4ae88cf62e93ac1103ec0cd59a75247eca0abe7b1a7977d4deb5b53dd1841",
    "name": "Ingeniería social",
    "descHash": "Tras usar su habilidad definitiva para atacar a un enemigo, Silver Wolf recupera <nobr>#1[i]</nobr> pts. de energía por cada estado negativo que tenga el objetivo. Este efecto se puede activar un máximo de <nobr>#2[i]</nobr> veces cada vez que ataque con su habilidad definitiva.",
    "params": [
@@ -450,8 +454,8 @@
   },
   {
    "id": 2,
-   "iconPath": "ca65340ec9a825966b9219a3cecc861e93b3ca98c37e4437bde70f40f41f07bd",
-   "artPath": "55925f69ee3253ff77d6eaca56d206a1efe3633c9e6fb13b3ead57a371c693ab",
+   "iconPath": "832a9ae66d6ebd42d4603cde534eb70ecb2914de0f3de63e1d3a8889bb3aad3f",
+   "artPath": "0e18c893c33d1ec8c67da440765e490f5b42c018dde83a8a7787d727ea5da2f1",
    "name": "Red zombi",
    "descHash": "Cuando el objetivo enemigo entra en combate, su RES a efecto se reduce en un <nobr>#1[i]%</nobr>.",
    "params": [
@@ -460,16 +464,16 @@
   },
   {
    "id": 3,
-   "iconPath": "e31bc2df424cf9db13854bb1dd0e0362e91ab6cc07cb039b10174d6e2421d707",
-   "artPath": "bb85ec0d4f5b9d439cc353011db2261f3134fe4b4089b9e6dfdc1e6997ad940f",
+   "iconPath": "935fa85d91bb4c65d775e2456d52a9d51bdf32c65f9764bad0132d9425c617a5",
+   "artPath": "492b5b73a5dad044c6f9fe43dab4427d6dde9d6eab8dcf901672a7849c7af322",
    "name": "Carga útil",
    "descHash": "Niv. de habilidad básica +2 (máximo: nivel <nobr>15</nobr>). Niv. de talento +2 (máximo: nivel <nobr>15</nobr>).",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "07bc4df9cf61fb7a58be4c3089023ebdded55038f6ee64b89d2eb5c5eba9bf44",
-   "artPath": "e0ec82ced9cb0454ba0ac75656fe885909ff052dda2060e81ecc5fd04947de3d",
+   "iconPath": "c3c229e0ee57faf3f71b210ca02277736c9d4674c89bed1ce17c03a31cad7444",
+   "artPath": "4c5ff68608dc30511694a294c2ebee95842ed7b4ed90e343052726dc4186a8f1",
    "name": "Ataque de rebote",
    "descHash": "Tras usar su habilidad definitiva para atacar a un enemigo, Silver Wolf inflige un <nobr>#1[i]%</nobr> de su ATQ como Daño Cuántico adicional por cada estado negativo que tenga el objetivo. Este efecto se puede activar un máximo de <nobr>#2[i]</nobr> veces cada vez que ataque con su habilidad definitiva.",
    "params": [
@@ -479,16 +483,16 @@
   },
   {
    "id": 5,
-   "iconPath": "eb5be8b60b9fad7477c3472529736f7eca0c7e26b426a6aefe4377e0b56ef3e3",
-   "artPath": "0a74a0050f12407dd6584380597a743624a3d9b07a18103cfd8e10731199011b",
+   "iconPath": "394eb30a400dda1dc0853b27fe83c5cecd79e3f2076f7e63a233c11cc4e1f498",
+   "artPath": "97362103c5f3f0c151792c412bb317b36cfde5ed586e115cc3844ad2502e5769",
    "name": "Fuerza bruta",
    "descHash": "Niv. de habilidad definitiva +2 (máximo: nivel <nobr>15</nobr>). Niv. de ATQ básico +1 (máximo: nivel <nobr>10</nobr>).",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "b347982568e12b7640772f270cdad2cbd1ea9c917f049a5cf416e7fbf7e00ddd",
-   "artPath": "5dd6bba54e167aa1922d1416ebc44f4370b612b1ec5cead1b9ba7f203881f867",
+   "iconPath": "df0ce9f45a1d806e57b18f765db20c8f553fe20acea635a28b24f85921fc056b",
+   "artPath": "8e897eda2504b8d614fd2ba5d470e52a550c1b84eaf5c739c52f5cb1dda9c20b",
    "name": "Red superpuesta",
    "descHash": "Por cada estado negativo que tenga el objetivo enemigo, el daño que inflige Silver Wolf aumenta en un <nobr>#1[i]%</nobr>, hasta un máximo del <nobr>#2[i]%</nobr>.",
    "params": [
@@ -523,7 +527,7 @@
    "energy": "20",
    "id": 953518,
    "name": "Alerta del sistema",
-   "iconPath": "8b862342b614b9bcdc0732c420ec2031deb37f29a53aee96c4a3b10c74a5b004",
+   "iconPath": "8f6fdbd6fb6db9a090ef98174a353f959fdf2d56918c00dc3348bf70f97dfc1b",
    "typeDescHash": "ATQ básico",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +688,7 @@
    "energy": "30",
    "id": 836873,
    "name": "¿Permitir los cambios?",
-   "iconPath": "e31bc2df424cf9db13854bb1dd0e0362e91ab6cc07cb039b10174d6e2421d707",
+   "iconPath": "935fa85d91bb4c65d775e2456d52a9d51bdf32c65f9764bad0132d9425c617a5",
    "typeDescHash": "Habilidad básica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1049,7 +1053,7 @@
    "energy": "5",
    "id": 752932,
    "name": "Cuenta baneada",
-   "iconPath": "03cc95a8841b34247530f564d4d27697db1d026e1f02bae103e1fc983ae645b9",
+   "iconPath": "237db78d5e898d0657ee0b4917be7380640b9611d9dca6fb68e72f2c84d30cc2",
    "typeDescHash": "Habilidad definitiva",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1369,7 +1373,7 @@
    "energy": "0",
    "id": 438631,
    "name": "Esperando a que el programa responda...",
-   "iconPath": "992d8e376a78f474c74c12370eb67d5b19dc62800a994351b6de0d908d8b7726",
+   "iconPath": "131eade09ca6c609e85be8166f9b8844ddcc3061f6f654879c9c1cebaf425612",
    "typeDescHash": "Talento",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1704,7 +1708,7 @@
    "energy": "0",
    "id": 238045,
    "name": "Ataque",
-   "iconPath": "8b862342b614b9bcdc0732c420ec2031deb37f29a53aee96c4a3b10c74a5b004",
+   "iconPath": "8f6fdbd6fb6db9a090ef98174a353f959fdf2d56918c00dc3348bf70f97dfc1b",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1726,7 +1730,7 @@
    "energy": "0",
    "id": 121400,
    "name": "Cierre forzoso del proceso",
-   "iconPath": "b88e7a024a1672b3f31dd6244c7fc68ccf272282e4caaaf6973fce02cbaa070a",
+   "iconPath": "5c319665f2859542707dc1aa73f07b0b8ca69d4d37085af2f96168fd31791f32",
    "typeDescHash": "Técnica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1759,7 +1763,7 @@
       "name": "Bonificación de ATQ",
       "levelReq": 80,
       "promotionReq": 0,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATQ",
@@ -1788,7 +1792,7 @@
     "name": "Bonificación de ATQ",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATQ",
@@ -1832,7 +1836,7 @@
           "name": "Bonificación de daño: Cuántico",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "e7c7e4e052302779e7dab274aa39aedc08e59eed4e5e507174ee47aaef770e2a",
+          "iconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
           "statusList": [
            {
             "key": "Aumento de Daño <span style=\"color:#7788ff;\">Cuántico</span>",
@@ -1861,7 +1865,7 @@
         "name": "Bonificación de ATQ",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATQ",
@@ -1890,7 +1894,7 @@
       "name": "Bonificación de acierto de efecto",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+      "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
       "statusList": [
        {
         "key": "Acierto de efecto",
@@ -1919,7 +1923,7 @@
     "ultimateCost": 0,
     "id": 590723,
     "name": "Generación",
-    "iconPath": "9196f03ce8c4ee5cba533ce7b2e042d890c9df2410228a018f0f1084026d9bd5",
+    "iconPath": "133e3033af09a7a5fce01a1b4cbb4910683193070e19012b736ff3d92b5c216a",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1974,7 +1978,7 @@
           "name": "Bonificación de ATQ",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+          "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
           "statusList": [
            {
             "key": "ATQ",
@@ -2003,7 +2007,7 @@
         "name": "Bonificación de acierto de efecto",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+        "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
         "statusList": [
          {
           "key": "Acierto de efecto",
@@ -2032,7 +2036,7 @@
       "name": "Bonificación de ATQ",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATQ",
@@ -2061,7 +2065,7 @@
     "ultimateCost": 0,
     "id": 590726,
     "name": "Inyección",
-    "iconPath": "e4a405985dfcd09f250fa6ede8c342a75c9076979e4f42d9ad161dd74e13d16b",
+    "iconPath": "636d59983c2e4aaee6d24cd87dca61b071b8a721806ca056994be8b0432d93d7",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2109,7 +2113,7 @@
       "name": "Bonificación de daño: Cuántico",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "e7c7e4e052302779e7dab274aa39aedc08e59eed4e5e507174ee47aaef770e2a",
+      "iconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc",
       "statusList": [
        {
         "key": "Aumento de Daño <span style=\"color:#7788ff;\">Cuántico</span>",
@@ -2142,7 +2146,7 @@
       "name": "Bonificación de acierto de efecto",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f",
+      "iconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc",
       "statusList": [
        {
         "key": "Acierto de efecto",
@@ -2171,7 +2175,7 @@
     "ultimateCost": 0,
     "id": 590725,
     "name": "Nota al margen",
-    "iconPath": "66bb788a52b0f46d8950b51dc2ddcb74008cc7ee455f42ecd1e72b50868605fa",
+    "iconPath": "d0e7503502585d369ff685a960857876520741fbf1bde581ad947f3ac053a066",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2212,27 +2216,27 @@
   "props": [
    {
     "relicTypeHash": "Torso",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "Acierto de efecto",
-    "propertyIconPath": "14a0ed2b3e0b7b7f9f36bb9d022ac332700fc1ff076d3863bf07ba8222fe582f"
+    "propertyIconPath": "55928c2afc9b09338022e999031a2528da10eef55d87f05bd4659d29d746a7bc"
    },
    {
     "relicTypeHash": "Piernas",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "VEL",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Esfera de plano",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "Aumento de Daño Cuántico",
-    "propertyIconPath": "e7c7e4e052302779e7dab274aa39aedc08e59eed4e5e507174ee47aaef770e2a"
+    "propertyIconPath": "9ecfd8a3ea3821f0ef67a549f3e170f4907d285e940f4562b9f64605decf66fc"
    },
    {
     "relicTypeHash": "Cuerda de unión",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "Recuperación de energía",
-    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+    "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc"
    }
   ]
  },
@@ -2242,420 +2246,440 @@
    "title": "Primer encuentro",
    "text": "Oye, Trazacaminos, te ves muy tranquila/o. ¿Ese Estelaron no te afectó en absoluto?",
    "unlockRequirement": "",
-   "cnUrl": "4b66ba93a673e721fa76398eced82f862a261e1d85822fc73b9e8a77b0299b20",
-   "jpUrl": "e82972de2ff3cbcebf9b372def69a4c290d5aea9ef97910c4b6f2580fba2ea56",
-   "enUrl": "cabee1b6ab792ddf6f6322ca67e316d732fd44f3b434bc8ad4c72316a85388a3",
-   "krUrl": "99110503c69193ca72080f6920269f7fb0988a06870a23c74316896551f122ee"
+   "cnUrl": "891d17d8dd522a6105e7ada1259128dbc4af091293db7b13538f65d35b91ba4b",
+   "jpUrl": "7fc07f3ffff448177b1ffcaef2b69ce6cd5760ee44c8f14c649d22e6ac08ad1d",
+   "enUrl": "93666c782bd1c477a4ffb5fdcfee6869c406b5483e031f4cc2492234db560880",
+   "krUrl": "3fb785e51e3f3e747bb441a2078b7c36fd91da869ff664541b8c9247cbb447c8"
   },
   {
    "id": 2,
    "title": "Saludo",
    "text": "¿Hoy también te conectas?",
    "unlockRequirement": "",
-   "cnUrl": "6cf983838de8166fa28c1dafe2deb6373b271505e3bcf76077311878e045be56",
-   "jpUrl": "efb58938e25a67b1845a3b72b04cc6e67b4ba99d571b425dc182da697e926584",
-   "enUrl": "3b67b762e63d8b2ab243429d6a7465c046bd4ab1d62c05728279667e4c9a0afd",
-   "krUrl": "5c041143193dfe10df0ead2fabd1beb26b876aec8f269a8f76df9ea94824468c"
+   "cnUrl": "ed49350f65c55a548c4ead4901fb1fb51af0edde3408f09eb08819ef958aab0d",
+   "jpUrl": "920c66e88fe1f2b480a2e437bb1de9331fb64645cb75fac001effc68c3d3171f",
+   "enUrl": "4039b80fc2646f667065d3b4d56c88a6009aac5e061e8b09d9e9471e795b4ade",
+   "krUrl": "b87f450297c4ec588ca99b6a2318f9e0703c5ed60b0150d967eb9ba9c00073cf"
   },
   {
    "id": 3,
    "title": "Despedida",
    "text": "¿Terminaste todo lo que tenías que hacer? Bien, no querrás meterte en la cama y recordar de repente que te olvidaste de completar tus misiones diarias. ¡Hasta otra!",
    "unlockRequirement": "",
-   "cnUrl": "72af7f5dd8fe09241f3b163c99272059700df123207eab3dd1bbcded4b98bd5c",
-   "jpUrl": "da8c807f54f7c3e946562a637781157f9b0daea53373f79b11344c346e58d490",
-   "enUrl": "058dd594f3339310534a56131a8d5d8fd56fb3233b1657b2159af23aa05d0bec",
-   "krUrl": "c61f2645f64f3c30a000650cafb0169a361ed35bd75448265fd3f899314e4560"
+   "cnUrl": "14d73d25cd1db64d37dadc7999256abd6db13266bb63b21cc2e807b35d226254",
+   "jpUrl": "5f1ca5342dc5d259733da9890dc22b3fbdc6b8261526947cc15ea2a981190af5",
+   "enUrl": "eb1b9cb1ac92d7c685c135c33b62c4b20adc83e6e9d3e73bedf75cf4e84d2e7e",
+   "krUrl": "90f2189706b4640551bf157c1fb17198206976faa7da106ec2af7a7be4835a9b"
   },
   {
    "id": 4,
    "title": "Acerca de sí misma: nombre",
    "text": "Es el mismo que mi apodo en mi cuenta del juego. ¿El tuyo no, Trazacaminos?",
    "unlockRequirement": "",
-   "cnUrl": "c60d386485af06ea84f58b1fded3c0532c30392d75007376c45a8529d4d8297e",
-   "jpUrl": "2903d2b62868cd6812d6ad05c1a87d22002a45b3dd1639253b67693ca447e4c2",
-   "enUrl": "701653286af8365435a7e7f35054583d1b69d6d56c7a7c514fe9d11cd20cbcca",
-   "krUrl": "534fb284f4c5224de6525a59821eb621de6575d7335642398c30098cec5030d9"
+   "cnUrl": "bc6fdf84f18157700ffb9eb6bb661c607530809133ea4111538b9abbcb759642",
+   "jpUrl": "d5712c2dd3df3242d86080b3d43a203c6f6bf11b93a250d013390abb80cedb8c",
+   "enUrl": "0c2f330ed0d74d8e59e1861374ee882dfce546a056c939efa66faf6ee20569e5",
+   "krUrl": "3a842490f428c1e4ab64ad7ce4b673185ded80873806dac8a345f4f2f5fd509d"
   },
   {
    "id": 5,
    "title": "Conversación: universo",
    "text": "Ay, ojalá hubiera más cosas que hacer en este universo. ¿No te aburres de correr por el mapa todos los días?",
    "unlockRequirement": "",
-   "cnUrl": "d63a67b4c03d65ace2a184d2d81f7a5463526136e071bd2be1079feb5c099b57",
-   "jpUrl": "419ad3d49f9533dad2a22560e997bd93180591fd6705bb4f496265a9c877d536",
-   "enUrl": "ca5905d477c5b777607ff4b1e94e4e95f63a73565552b681211608a8d2148100",
-   "krUrl": "27b444b1f2d89a8455af6ed544dc8e0747f5b2cf0b58dfec62b719171c54b4c5"
+   "cnUrl": "778c3f32a8b2c538485613dc9902f82ae9aa820c35964dc165db9f02b6c40eb2",
+   "jpUrl": "d105e56e1c54f6635cf5c479f85f2d89c833bbf34a1f941b65bcd98679105d2c",
+   "enUrl": "bd9bee0e1ab390d5390a1983bf32f7ef9326bd830602c995c3f24a81f622f189",
+   "krUrl": "934955c45524d9f2e87ed019b983332c8969d4ca360324ea83353a43c1141d76"
   },
   {
    "id": 6,
    "title": "Conversación: Prometeo",
    "text": "Prometeo está equipado con cuatro módulos y \"amigo\" es el más parlanchín. \"Los amigos son fruto del destino: ¡brindemos por nuestra amistad!\".",
    "unlockRequirement": "",
-   "cnUrl": "262c620d4e4df33bf0b5f1b52480c761bd37f62ee127c35b02b58170300f44b8",
-   "jpUrl": "2afb74aa5fc3540ac63146e2da99542db2899d9b48a63d21bc0947bf2039ac34",
-   "enUrl": "972a6ca35c7c539a9d34c1b6de48fcc68f3fa1ccb188a5a3a716845d327e5cf3",
-   "krUrl": "33a088cf19c714ce826c6cf6e0cedb40455e8ff33f2fefed285474bb1ae07ac2"
+   "cnUrl": "557fee38c3f305463aa45cf0b24f07e685175a8460e2f9d8310d47866749723b",
+   "jpUrl": "fc68569f300ce1255b09009c3038a2873c6ac556a574778d1aa5cfde426a6ff3",
+   "enUrl": "d89c72849866ae4e761b4d3c972373f5cec0f8a39ae63a43607159e5ae140c40",
+   "krUrl": "2c922ef3814438e127c279429bf960ead086ac37bcfccc3613fb78dfab61b8e4"
   },
   {
    "id": 7,
    "title": "Aficiones",
    "text": "Enterrar la cabeza bajo una almohada para dormir la siesta y pellizcar cosas lindas.",
    "unlockRequirement": "",
-   "cnUrl": "06ad452aff4d6823c77f4f71dd4e9e7812c48de07343e090c76a9ec4c4aa3e49",
-   "jpUrl": "ae63dae9a1b10f809c85fecc8d9ba9dd0bbc87df90d682dba1bfe100043ad5f8",
-   "enUrl": "86542c41a401aef417cd954631e1e0f8fe720bc5b2b0a579734e29c946c86434",
-   "krUrl": "9b3ed4333897f3ce5977569977d7784b813c2a9733d884a8c2e5dbf99ad545cc"
+   "cnUrl": "80b7b9e3130343985f60e65d2e6c8f8ab683e4eac8d30f7de2b9db358ed9c288",
+   "jpUrl": "8a11b50b42ed733814659fc841b13ada99728ee09a16c407f802740d1c3c6957",
+   "enUrl": "d82447afb25d55c8fa16b26fce6cac5b73dec2d91a9ad20a49008b208b890d52",
+   "krUrl": "d43ef6c2cc73d10c714203025f33b6e30e035af0a508b182cb469b59b5f67659"
   },
   {
    "id": 8,
    "title": "Molestias",
    "text": "Nadie debería abrirse una cuenta alternativa, ni siquiera Elio.",
    "unlockRequirement": "",
-   "cnUrl": "ae76f3a837cdd3723c86a815bcc18063924023468a2f4203bf71d05c56daf19c",
-   "jpUrl": "f4eef538f233b635c6e0df314b6876e1512095d666ed0d80bdebd84bef70baca",
-   "enUrl": "096878db8dc944b58545eb5a81657d6cc6960c04da3934c66069251f3d5734d9",
-   "krUrl": "b53682d57f269705cd3bcf60af5019f4913a3917a0ef9aeb48e046ce9455cce0"
+   "cnUrl": "684cdcdcca41110bd45c344e99fc48702464170fea39acc089a9d1c233761fee",
+   "jpUrl": "f052f0707932051e20c4530100161de1b165b94e4ca6e676dec7c3cc093ccdb0",
+   "enUrl": "3b1c46272531be6148d768b4f64dddfc0b8fd8ff7163cef3e462328ce4dbcb38",
+   "krUrl": "c545fb6f8fa9e582fc8d5b1880646aa3f03ec58a924592df00f96f6002dbe93a"
   },
   {
    "id": 9,
    "title": "Algo que compartir",
    "text": "Cuando hackeé la Estación Espacial, se me ocurrió que ya de paso podría hacer unos cambios en el retrato de Tornillum, pero al final volví a dejarlo como estaba.",
    "unlockRequirement": "",
-   "cnUrl": "55efc123b637dd7bd5f8d2b052e1d04c68a2ac9262cb42902ca25bd90664de4e",
-   "jpUrl": "77cf0b750dc79862248acf64fd2387eddfa16cb3707d49aea7b75a1d6aa5ee20",
-   "enUrl": "87c4afe6ed8456673f5fc04d978f1ec141a14a13a44fe219a1cb4c359f260c62",
-   "krUrl": "f70df48dbcaff2b756af24b0408156bd2f634adaf649f3f2b55d94b18b151ee9"
+   "cnUrl": "4b1aa3d51d7429d9fdee590592d282cc8f0e536babb4a3f0f882461bcf430374",
+   "jpUrl": "f9ebfe60ec1c0bd688adfa04944ac94f383d74364dd9732f47b33165654850d7",
+   "enUrl": "32f5e94b13280a8e97786e0d850ef30f26c9f52c5f698562ebec6460e7e5b6f7",
+   "krUrl": "03ab22f45ab7922a54309cd5ff76cba782b5d5f3e85acd2d55eab8c7cf951f67"
   },
   {
    "id": 10,
    "title": "Un dato",
    "text": "Mis juegos preferidos siempre se actualizan el mismo día. ¿Crees que lo hacen a propósito?",
    "unlockRequirement": "",
-   "cnUrl": "328bd8fc749fce50f4a5220a3349ce06b425e05073728c79b56fee2e507e9453",
-   "jpUrl": "b29abf0629742e390eedaeeb69927f816015b21e822e4e2921653df71a1cbabc",
-   "enUrl": "26c19ab8e7263eb8c97efa6c84c9f77fb046039193f1f83558eb949739fd51f4",
-   "krUrl": "316dffb3a8bc0258b218e5ed2a0a000e30be57842c0ec278e1cfaea5758683ac"
+   "cnUrl": "7dbe177c05923dedb5283ada49ceee061c9978fb3de9401f15b36a08d522b5d6",
+   "jpUrl": "943eaa590cbb812377e73dc15cd943b4e3eaadc43151c510af9297d9304405ac",
+   "enUrl": "9c7c30d7b4c037fd62b8b92d18bf03809bc34e1bee39cc69c12a32e9f09cfd77",
+   "krUrl": "2cf0b5b84ed4b0d9257af950219eefb6bce40814c2534fd585fc881ffe4cd335"
   },
   {
    "id": 11,
    "title": "Acerca de Kafka",
    "text": "No tener en cuenta las normas es algo que Kafka y yo tenemos en común.",
    "unlockRequirement": "",
-   "cnUrl": "1a89a0f796ed1547655e990ce156f11f1c41e56d7afeb5d512c6df2330fad527",
-   "jpUrl": "13ea621aad35aae0a8f7e468dca7b3ac7c837a369ddb1873611ec06e53f7251d",
-   "enUrl": "3234c528c1ebe6e486b5b2aafd48cd5735a4a457f6ceee57d5863d924b2a3828",
-   "krUrl": "db6fda0cec348212b23c18ad62b85aab4b746c14689ed3bbb47691f9628abe04"
+   "cnUrl": "cbe1a6d0b1d49a4b57e23973a0c15d561d8f1156a8d9689600ceba2d3b63de9c",
+   "jpUrl": "6abb81a16bb012acb1521f94ac70d9a3f3e415f08b2b3786313197a3de72289a",
+   "enUrl": "ff690ab14e1494ca3dd0bf51530d9f44717176502b05d10a8f8a6880c1c68c77",
+   "krUrl": "f819693bcccb763116c47afb75d30d40debea2445c3dadc972791866e3745d96"
   },
   {
    "id": 12,
    "title": "Acerca de Blade",
    "text": "Dijo que jugaría una partida conmigo cuando se le curara la mano, pero parece que aún no ha mejorado.",
    "unlockRequirement": "",
-   "cnUrl": "d75401496a1fcf39257317e96969a9970db1376b75a546d9dd4aedabce46610b",
-   "jpUrl": "6651ba59f63d645e2dbd45f3bc61469d915fcb2a082cc1a2f9eb62d65324fc43",
-   "enUrl": "2f0293aadba0b788ca9cec13c7bfe553a0ec4308e13e38c28861aa6c04274dfc",
-   "krUrl": "ef0854b1fc10c1d20c70d0ebf95ca6988c3690bcbfaed93a2ea32e4a5bd55f98"
+   "cnUrl": "d9239449405b20da310eac13797181677bb4fd57f62024127df2a3b9d77846fd",
+   "jpUrl": "ed20292aa7035ff8d17b38ec866a740e96f7cff8a4a36fa496e3ef73b779c864",
+   "enUrl": "4ba319c00c677817dc73fd20684fc894de43e84fda61bfc3ebe2b5ec1ea2075a",
+   "krUrl": "cb998ac31ab2b9a46c049d61b6c504cf4de459a51bdc243bfa711d00fec09af8"
   },
   {
    "id": 13,
    "title": "Acerca de Tornillum",
    "text": "Siempre soy yo la que tiene que dar el primer paso... Ese tipo nunca pierde la calma, ¿verdad?",
    "unlockRequirement": "Se desbloquea tras completar la misión de acompañante «Mentalidad de Punklorde».",
-   "cnUrl": "e5936c5cd260b2ea8bc2155628b2a5a094162d83af2dc79799d6b1c825485385",
-   "jpUrl": "e031ddbaea66c493e7bbdbfde55a481edaa122685f45724bb2080fae644e954b",
-   "enUrl": "da567c71172c9e30a3179e2c27f30a03b8caabb0fbd8b6753096fadfd1434b87",
-   "krUrl": "2af583b36e7fb6761b204979c08ee957fe148331492f6a7fba6b70a8471c6bdd"
+   "cnUrl": "18fddc4126388fd81a4c5c05559162cf75dd9af87e7f54487aabc3e734db72fd",
+   "jpUrl": "cac01bc6f007ace72dd535f67ca5da7379d2f0988058f1cdbd3b29344afb85c5",
+   "enUrl": "f66f6b2d4c74b1fd11faa41fe97fa5e063fd3d20e5cc23843b3a89aec49383e9",
+   "krUrl": "815de9ef3e8bdc972fdf314ce9bf8795a794662303bacdcbede35ac2c5c61375"
   },
   {
    "id": 14,
    "title": "Activación de Eidolon",
    "text": "Podría haberlo hecho usando comandos de consola.",
    "unlockRequirement": "",
-   "cnUrl": "2289fdbb0139117121652427b5fee197692118d251cb254b9d3f480786de2df8",
-   "jpUrl": "0530b2e4e773fa38795cdd10807bd6b5edd36a14564e8128cc422267ef5d1236",
-   "enUrl": "4baeeaac1a27efc0dbf31c925b2390864301f94607747fe29fd6365bf31cc355",
-   "krUrl": "ee79fa5cae1093d54713726d17c866ab08159bddbe7f078d65c2013c7ce8ecfe"
+   "cnUrl": "8f4385df6c701c9a57c8d3724232982ee12c03a32b3ff49ef0152c386352e1d1",
+   "jpUrl": "950b53cd0639f5164625a6bee63c88c85846f45e64907624e0e9c3f84a6b01ef",
+   "enUrl": "44f889586c6385b610f3328252e8bd56b90faa3c82e117eab5804582c456464b",
+   "krUrl": "28627078840abbbe95aeb3d42cd3348b2b97d7c13d59c7c8851af8984c98fcee"
   },
   {
    "id": 15,
    "title": "Ascensión de personaje",
    "text": "Jugar es una profesión a tiempo completo.",
    "unlockRequirement": "",
-   "cnUrl": "d3877dd47f503b71898128de06371d5ccb356dfaf064e93f792da3d78c1f0887",
-   "jpUrl": "f3e244e8a483bd7adf6bd505b57e4b2ef96fbc55d78845a254e2934db7187f8f",
-   "enUrl": "44eeb421a12e9fc8650a173be6559fc555b97f31450db7bc6ba73cb3adc49472",
-   "krUrl": "220eb02b3bdee1ef973334b8a35c02ad90721a19135b20b09a94314c9dc83622"
+   "cnUrl": "0f78349469076a9cc1f52079a5145ed19b0ceaae2d8c88a3e93e98ef3cd0036e",
+   "jpUrl": "93e30735a3258c591da40e4f35d6fc1e9fa54cb422146d559ddb241b27853a41",
+   "enUrl": "dde4dddfb71da17c9e78ee0667147d200f761fa048b71bc1a87edc5bc5e64ec1",
+   "krUrl": "45d18aa75e4f2fc265277496f0e6617fb8bcc8717ab6929e7b31ec6888a2424b"
   },
   {
    "id": 16,
    "title": "Nivel máximo alcanzado",
    "text": "¿Llegué al máximo? Llegó la hora del endgame.",
    "unlockRequirement": "",
-   "cnUrl": "a3243a691569e732811809990413dde2b41b88405afe1915b081bf136f799691",
-   "jpUrl": "a8c3a9c3fbf44cb9129650ead315682b9659c24f4c80f3135af3ba58a43f09e1",
-   "enUrl": "abc4d009130b4f0e6747ce761cf3d28f0dc09541b49da0e02a7b3b3716b4e721",
-   "krUrl": "b7d3a921f7fbd79175cb02af3710ddfb16d9e8af761bec447b69adf64b9891b1"
+   "cnUrl": "7794d915cfec86e50004d2a56f9e03ac561a961fe4cf65e273e71c18818a681e",
+   "jpUrl": "125829825c612164ceae0338bbf616b524ab14ab9d0aeb4ddd73c51fcfed8855",
+   "enUrl": "6444e9dbfd5d62e1591eaa01c2fe1fcaf7d7d59741ffad906609172cc5e0662b",
+   "krUrl": "e464f0a8e19f2d3babb89ce6521789f3fc24589f50bd46578fbcb045d901ad88"
   },
   {
    "id": 17,
    "title": "Activación de Rastro",
    "text": "¡Deja de preocuparte por los atributos y diviértete!",
    "unlockRequirement": "",
-   "cnUrl": "22d4b172deddb2fc78ed0aba475f52e8cb25c8dec7c8b9de5fda87f6eea46032",
-   "jpUrl": "78cd45942d8c20d6c0a67b4fded2f3f93b7baca52cb2753af27bc35ce1250da0",
-   "enUrl": "a72e952891009388df98d831ce134f7786dd5a5cd0918beed9755bc56a90a982",
-   "krUrl": "0cfa54530e61f1e2ee684dc45280a886b5a27060218c0297135b488892ad326e"
+   "cnUrl": "4b2226a0394cd796d8f270e6180f23c5d1edb5fdbb5d8f5af3080a71a99e6027",
+   "jpUrl": "afd7f9798a1a6d7d7bf1932791573abed1ed5c1879018b5d742c52effa676017",
+   "enUrl": "b2e96a4211bcf4cceae26164a8d1ae0c0104642a49b9048d87bc8a39b58090a0",
+   "krUrl": "60749c33363e2a86a1dc457cfd39306fe8455d091ab528032428fd20fb7dfae2"
   },
   {
    "id": 18,
    "title": "Miembro del equipo: Kafka",
    "text": "Oye, Kafka, ¿puedo salirme del guion esta vez?",
    "unlockRequirement": "",
-   "cnUrl": "b488ae671b7a5fb256bb157c42b7955294cb7c05b2b0e338cd218bddca2048dd",
-   "jpUrl": "57c06840b8a5934909e6aebf777afdcc8d1b34665dfc099a0dbc91c291be4962",
-   "enUrl": "00d15fb41c7c8b2e550c7a98789ce877ea9a05c6fe1cd4a9baf552e3941d51ce",
-   "krUrl": "5947bdea36994ab03e6e28a25c2bf99c5e1d101d3bda43243afa965b77a699f4"
+   "cnUrl": "abff2b67c3e1161e3e624028f6654466085a0cdbbeb96ad4baf334e14e54ea61",
+   "jpUrl": "d1d08c4fe5f2b1277285b676a770c641f8d3fb041630bce1fb61747a1cb00559",
+   "enUrl": "ce6294d76fc5c5017432cefec708565ae8d68937269f22264f67f802db8c45e2",
+   "krUrl": "bc3b46ce3c893fd713c83d55c3154f4c44a0be3f5a6ee76e44d4f9a3750ec7ea"
   },
   {
    "id": 19,
    "title": "Miembro del equipo: Blade",
    "text": "... ¿Vas a decir algo? El chat está habilitado, ya sabes.",
    "unlockRequirement": "",
-   "cnUrl": "eb59eace9c8975947dd723612bd7a1e3c275670e590d2c59d5b04e04a8909171",
-   "jpUrl": "efee21e06904eb8b00b645ece72a7f6bed1f3324c2b9f56b8086792bbfb41da4",
-   "enUrl": "332578034ec2621d226c28b2782451903488753214acb82376bb40ce33f6265e",
-   "krUrl": "833a2af891b53ef6c2b8aca24e668aebec28f2c12ba0cf41ba655591b9ddc70b"
+   "cnUrl": "c74005ffef640912456b97dbf8f55dc1fbc31fee60f707d116acf63907052112",
+   "jpUrl": "496c0e436f341a932d2eebbddf77c74e1eeb41124439e519c4da5485a19f4249",
+   "enUrl": "e6c7b6a6d20f8b8bad1dbcf993997abc420faa76beb134edadb05ccaa1d3bccd",
+   "krUrl": "8de639be3b10f3b16ee919b3a42b7eeb54060674816b0be2c99c3f82071aff00"
   },
   {
    "id": 20,
    "title": "Acerca de Sam",
    "text": "Hacer una misión con Sam es básicamente: ¡Bang, bang...! ¡Bang! Y se acabó.",
    "unlockRequirement": "",
-   "cnUrl": "7c7ee331cd9adaa03bb4e1702aa7703c3d614aa399df64a31ad8350317f43524",
-   "jpUrl": "bb81c4f7d72adc8ec417840c1aaf5f5b27724cf67cba8a8abe0e6aa98f867293",
-   "enUrl": "57fd5e61341f7e5b8f6a17b7e4beeeecd1dcf6d6719ada74d1c4f7dca5ee30c9",
-   "krUrl": "1a894c3674fc18dc970117dd1d9cb2b59e0edca8e0fe0ea3353c51663bed60b1"
+   "cnUrl": "5b2e63eb62fb161c00058fa1581591131a657effc84b64a4b1ee4445ee6272f7",
+   "jpUrl": "22c8c61746ba44bfebd1c6eaa378423c327f974f89d7cc8f509b8bc7a02df8d9",
+   "enUrl": "0db107d4a5ccc83cd076eabc90e20c2dc5daefbe30571db239ccc27c864634d7",
+   "krUrl": "02be4839098634485232660edf8c85bf1f1647c44b03c56c620ab204b186ab53"
+  },
+  {
+   "id": 21,
+   "title": "Miembro del equipo: Luciérnaga",
+   "text": "No te fuerces demasiado... No es divertido ganar el juego demasiado pronto.",
+   "unlockRequirement": "",
+   "cnUrl": "6d29f0bdd1f99ec004da19363a3ef76826fa37977a0889e5b7ddcb145f5930ee",
+   "jpUrl": "f4f51a59f2792b64376ff2d453946a516395779bfd84a26449e8009e4bd5776f",
+   "enUrl": "6739e287267fb43969e5c58e3e61116b4c0b80bcb7368515117820f82141498b",
+   "krUrl": "943b23498c2dae140659e9906d6db4b1e4122d3e7c203cb17047aa35660fc6e6"
+  },
+  {
+   "id": 22,
+   "title": "Acerca de Luciérnaga",
+   "text": "Si la vida de Luciérnaga fuese un juego, sería probablemente uno de un jugador de tipo acción/rapidez con una dificultad muy alta... Ay, todo el mundo quiere jugar juegos así, pero nadie quiere una vida así.",
+   "unlockRequirement": "",
+   "cnUrl": "aa600867e9cbc109defab2a2dbeb238d7d2a244e7325aa2d10611c2aa030c4ae",
+   "jpUrl": "95b6b9cd01e1010ad837502f77f44f80f5bcc0c0221f05a8fdef4e8a633d846b",
+   "enUrl": "43bf997642031b5c32cd670d52ce3f0be9ca42941e8253aa0059286efaa4ffe2",
+   "krUrl": "0e907675767605632ec3799ce77e183bf9f12e49b7602498bd378d7f4dba129f"
   },
   {
    "id": 51,
    "title": "Comienzo de la batalla: Ruptura de Debilidad",
    "text": "¿Mordiste el anzuelo así como así?",
    "unlockRequirement": "",
-   "cnUrl": "b2aae88dc8861335790801c20de6c738d827fde296f943e73ff86016b53b1245",
-   "jpUrl": "fd238bf555dcfd8b2b5d9110be74bd22b8a995c28b8dbe804ed9d4e8b65e44ed",
-   "enUrl": "6be3e8756fd89ee5a99199fe20ce3638132603cfec4126c3c90822f99277443a",
-   "krUrl": "7e051555382905a770ea0f19a25a0d9fbf251473de83ed1b537db88cac737645"
+   "cnUrl": "0ddbe109dc76469a9c4022c196abd2668d8d8088f6a4a2b6315a040b03dd7b0c",
+   "jpUrl": "17c4b490371031738756fb80b0b77c39afd4df9b9eceeda79eb3d4929288af72",
+   "enUrl": "189cb466dd9ba7e441169e60b6816f2c25f4fdb058ea1d70767769313d3e390e",
+   "krUrl": "be7c7aa9a7adf9bc7b680e1de4ecead993b26074b705f928f0a7909709cf8e0e"
   },
   {
    "id": 52,
    "title": "Comienzo de la batalla: alerta de peligro",
    "text": "Puede que esto sea más complicado.",
    "unlockRequirement": "",
-   "cnUrl": "c5411803031a75175c4a8191301b14a072171f915c2acc8c96ff32cd5e3f027d",
-   "jpUrl": "ed9799f5401520d4134a603daeb4031e5c90982ebf09eccae6c0cba32e1facc8",
-   "enUrl": "d52d91798e85c88ea1d896d2c2d737fde8e698cc22b334a7f377027869dce342",
-   "krUrl": "1812f26ea47e183a05f915ba762b151c912fd8aa4cd28a06a6bf215c590c8ca2"
+   "cnUrl": "7110d1aaaf348330a01664f537af1287b981dabe3629b5147a10e06963ea5760",
+   "jpUrl": "1752a3d38794787615f7f57881c9a74e1b9d564ad69544cf1ffb11e5d783ac41",
+   "enUrl": "61a0fe219b9f61a1a1d0576b24786911171414e0e9f989a7521a7e0784162aad",
+   "krUrl": "c83f9bf9094091556017a26f7160391ebf6a0a6e1b2b5c83018e04885e593c77"
   },
   {
    "id": 53,
    "title": "Comienzo del turno 1",
    "text": "¿Esta vez me dejarás divertirme un poco?",
    "unlockRequirement": "",
-   "cnUrl": "412b0987dc01922db41266cdcdaf6f2c790d462089008b559b0e926bd91147ba",
-   "jpUrl": "a71d65808dc87cb850cbae74784693cb75ec87a95cbe5c3c38de129b5fc68209",
-   "enUrl": "3f976b352a370bd0a5dd3016f4d5c1bb584d71c86e5721eeb578c99ea4667c66",
-   "krUrl": "10667dd4b8076b9496c8f002f360961e751a5bbb1f59e9fe8ec83c4fab6bb396"
+   "cnUrl": "7273ff850117d1e6b1a1de429dfdfefac5780b093628ccebc42afe071935bbc6",
+   "jpUrl": "f88f2827178e629ec9f8e4d8ee0b10a67b7ab5365e45105cdf403d6816b91201",
+   "enUrl": "f1a13795ed97e99629b53712b49c9303aa4f9b80d77208c28d6b3db0dc7b88a4",
+   "krUrl": "1dc3cbf18f4abce089471730039866a79a8db7c11aa1bc58f58a355163134f02"
   },
   {
    "id": 54,
    "title": "Comienzo del turno 2",
    "text": "Uh, más enemigos.",
    "unlockRequirement": "",
-   "cnUrl": "9e420590be2ed74e38eaadfd1b999fe32259eb7b06e40072effbde90f152eb33",
-   "jpUrl": "ed17839314cbc79ba456fd7b7e8e75a30db16a9d03d0dd3709feda0a2a593a34",
-   "enUrl": "c735b0770348f6d4404c5e05f60c153bf8c759dcfd44e0c38ae0d866b96f2862",
-   "krUrl": "916bc0834f332cceeec46c8718707bbacda5957f64ee2433ae480b6c851ec5d9"
+   "cnUrl": "cbfe34567dffb1d0049d7845943bfedeb698056c712e68499f6da87b78b0d260",
+   "jpUrl": "80c33a816b57c1d1efd62218b512d613bfd11cfa597c0a7db67906e439bc83c4",
+   "enUrl": "22360b1e6086db273792425bcec103b2cd431c5589786fb0431abd9848a9b655",
+   "krUrl": "5d0e02973db67430dd46880918ed4f9a23d22e8f242d81899271a588945afa0f"
   },
   {
    "id": 55,
    "title": "En espera",
    "text": "Tengo que ir a hacer una misión, terminemos con esto.",
    "unlockRequirement": "",
-   "cnUrl": "3febc245aeee49f087584d3fc46f4a8bf05e4fb56f84591b52977ddd6040f761",
-   "jpUrl": "099f3e6fef04d45ab66ff3709d5bdaa8d2a2e9b99d63fafa92c397a93429ba87",
-   "enUrl": "e3bd5820def6e262fbca6434c73df2b3f8c97b082a4f973b0df5af90648b278d",
-   "krUrl": "52ec8f7b018df44a33cc436a051ec83af3d0cc9bd4a8300c88a089363a077d91"
+   "cnUrl": "d2ae6966d9afc9a513f1ca6d3756310e52c009515221e39ccf1cec40163562b9",
+   "jpUrl": "3ccaa766eed8435802f207a048e9ada5590947b817141811d822ff903d6ac0f5",
+   "enUrl": "51764b5b1356fa1ae64e4b14f91ad13d35059c210eca3c9c566a7ed1b26cb797",
+   "krUrl": "a22cccc98ccaaf45d393c11c9a514cf02c109916f2797029f905d5b34dbe88aa"
   },
   {
    "id": 56,
    "title": "Habilidad básica",
    "text": "¡Es hora de un poco de movimiento!",
    "unlockRequirement": "",
-   "cnUrl": "228ee34f89950557b2b7b4346a7049800ccedb5885c2a913b9ce96927b520b7e",
-   "jpUrl": "fdda03ef7dc7b892bacdc85612c7f2c3702fb766a3ddd9d6a1af5265b4d76125",
-   "enUrl": "af022ae03c80c3bded44e70ba8af42e2ac47d7896f686dbfbef797f605bcb41e",
-   "krUrl": "35694a9dd04f3871f0824ce04d1ab7ac2439c00687fc47c2a0457484e4b5f4e5"
+   "cnUrl": "fe9931be67b42f408c80cb995a981bdf68991b577e8849ae255db8d9dda9a68b",
+   "jpUrl": "75900de4b6a201514be1fc428b92f5647f52ed09e5471df1a2398bb07390314b",
+   "enUrl": "b01eaaac45f595eb0fefb51a2c24c79159cf794e7e9c1997c5ebf8a787e06f3c",
+   "krUrl": "db30d65342740a54183ae1ccc5d8389ab1c195aefaf2a0dbca7d982533af45c8"
   },
   {
    "id": 57,
    "title": "Al recibir un ataque ligero",
    "text": "¿Eh?",
    "unlockRequirement": "",
-   "cnUrl": "4c8d3a87f7a9ab97a2bd3c2fe0419b8dd1a3fe7f36af61318f25d29f6b32f35c",
-   "jpUrl": "a221ae48967aea7812847313771175458957e5e314ba537ec8c1db38f922ec1d",
-   "enUrl": "44a4e8bc12b7e2f54b557a13bc430b8f1c8e3ad9c35894320527c7fd18b2cb90",
-   "krUrl": "3422964d9c92f2ef9541f79245efa331f49a7576a34728c0dfad003ce750eecf"
+   "cnUrl": "40989cec963ab8ce7e8cd440bbcc93953affaedba820e63b291271d97103e069",
+   "jpUrl": "3cca262ea651ecf51864ba50e53ac2af0189263ca69058de17e61805262cc277",
+   "enUrl": "daea3eb733a89ec49d7298f1254f2b714df879516b0a9cd8460d1937014ec1e1",
+   "krUrl": "5f78cd6b98d2d78247de9bd2c4233541bc257f78fcac06a1a9f4b850b1f68a40"
   },
   {
    "id": 58,
    "title": "Al recibir un ataque fuerte",
    "text": "Malas noticias.",
    "unlockRequirement": "",
-   "cnUrl": "85eb8fa32203080d0b05ea1e0162c4caaefa3f213369204878d61822d8a716bb",
-   "jpUrl": "2cf510916d35b008f88967c11e5ca8cc3ce774498fa4f02ce04f516dd7663836",
-   "enUrl": "0cdf52cf676c73f086143d2bf51659e8ab5caa446640c6a64418383afc99b29e",
-   "krUrl": "a50aa47ba304e6a3914733c319762e37737f5682d3e77ab9b71ffd3eef1fbda5"
+   "cnUrl": "c818945b5e292f7d118419befca10874f205b02ede7bab9da58e37e927ede3e9",
+   "jpUrl": "5d57e575827b134d88195ba799f9841d3cd8bc1dd8c13aa0f19897314210d96c",
+   "enUrl": "6c8fede575c13ef33f6e99d5476878d99949a4f9e4b7fef71fadbd9f5a97ee41",
+   "krUrl": "a00befdedce310964b55f32f99c79baec2019bc9a137b45441b9d11a71040916"
   },
   {
    "id": 59,
    "title": "Habilidad definitiva: activación",
    "text": "Este combate necesita una optimización.",
    "unlockRequirement": "",
-   "cnUrl": "01976037d0f2bbca7204acfa88246af58a50ff5a6bd282c3214061adb4f64dde",
-   "jpUrl": "9ed7130540d803de358216309b6ce541ad3bfbd27aa6e94056ffa57d921c1455",
-   "enUrl": "5838029cfc242d8503f51a3f0c200a81ef9149e6b600b109d8f03142c98c1a15",
-   "krUrl": "24ccd887be645db114a6245ebd2796cff233f5bda778fc71a46545733f9c3af4"
+   "cnUrl": "5a20cdebb924f22c5c30d412be051efecc6f0d91f9adf50bf0e66560d352795d",
+   "jpUrl": "35db2d305252be42128089a797c79ab5eefcada4f050b6cd7140affcdd68b252",
+   "enUrl": "304b86966e5e23a6fecd07a12f6b1052f649582fbf39b0503fab3fe1662fc5bc",
+   "krUrl": "ccc9eb4699334eb2f810769961609320ed3ab9eaa541346c20c8dcc7a1703d23"
   },
   {
    "id": 60,
    "title": "Habilidad definitiva: lanzamiento",
    "text": "Uf, ¿a esta velocidad? ¡Demasiado lento!",
    "unlockRequirement": "",
-   "cnUrl": "9acd02f3b7c3da3147826b6ff93851af10a2b7f48f1273a0a330411306c7a88b",
-   "jpUrl": "2e5f9b1f3b021a56bd02651fe4fd9592df80cb2285824b0733a3fc017d066e61",
-   "enUrl": "9004d27e735b7f1876cbe78cd33a13ee8e5d553600d2a1a8370c702d0230c383",
-   "krUrl": "03ecde77ebf39c5522c45ee2a69e3c2d111a824715282778f33e1d3539406d74"
+   "cnUrl": "593e283d34a738e0d9e6a1a5757f19b8951fc4a6d60a3c6d9934cdb42e6ed625",
+   "jpUrl": "e44a35cfea693f956ac16def5f96a8acffbb0750c139a149b6720752a52278e9",
+   "enUrl": "bcb1e4f2906c4a6e1cccd0c4761925a15f89c74018e06ea42077ce8981c2ae7b",
+   "krUrl": "6ace3fe7e1aedeccb5bc01d6bcfd568f9668a44f8d3d6c2bd4f668aa32b04c39"
   },
   {
    "id": 61,
    "title": "Fuera de combate",
    "text": "Ay...",
    "unlockRequirement": "",
-   "cnUrl": "beb6f050453810c7344ddf1407bb581696c63d82e1121cb71bdf05a333161712",
-   "jpUrl": "34f910e6b2bdb624be9110b7eea46f5de49251a9ec2eb8d1e34a272fcfabb61d",
-   "enUrl": "0f506a2741ae4bcc388de4e2b639b973f53c614fa643a8cc87f501f19ac4a078",
-   "krUrl": "24e4a540397a62635fdd2082f9c7277cab34ae400b9be708dd35712975057a25"
+   "cnUrl": "07b16ff88a175f194af502171a10ec2d7e685759a2235e95ded6b6edba353166",
+   "jpUrl": "8590af328cc6f35263da7697432db583c8aeed532a0bbc1151b93bdc1facd9cf",
+   "enUrl": "5abfe93f002bfb4046ae4a63338819cab251b52f03813416eb4bffa2ae6aa6ee",
+   "krUrl": "aec504007aae02ea94c078fc82774a7a81c4d1d15655f174d6591acc3ed0ad45"
   },
   {
    "id": 62,
    "title": "Retorno a la batalla",
    "text": "Bien, ahora la revancha.",
    "unlockRequirement": "",
-   "cnUrl": "95be1c88aca89547164ce5f6e420bb96e6e7ddd90f745f383113f23403e21095",
-   "jpUrl": "ccf76ad0019758baabbded9278664bc032ddfa57a31dcbb02a485e0fe437abb8",
-   "enUrl": "d0ec67e2f373f74ba30f8dba3f07ba1c312f385f034ed219d75c35f2d4f26c4b",
-   "krUrl": "2bf8dac75f06d5b99b6e7adf282754c8827d751cfe36bfe9f936489c46fce808"
+   "cnUrl": "500163bd2236b2966a6f95ff5849045172a6203548cd91348b253398c6ce3525",
+   "jpUrl": "d0b1f1ca15f5ed4feec2f11a13b831a6ed23baa3d76d54149ac164a4464bb29e",
+   "enUrl": "0a54a82e8ee9f75aef8dc78eb52ec93b8a855f035ab491a1a6171e4679657060",
+   "krUrl": "18faf849cffb872190c4084b16807d63c4fb17aff3123941a6186325328a0b6b"
   },
   {
    "id": 63,
    "title": "Regeneración de PV",
    "text": "¡Como nueva!",
    "unlockRequirement": "",
-   "cnUrl": "b5d5b5387227c4f6a52af4ca9538c2a95104dd94ebd26ed38723bf672d4d07b0",
-   "jpUrl": "8ffddf902128e14ec57fac12f959ce3c8c60b6cff3027d951140f2a0a9e9a0d0",
-   "enUrl": "aac3f642f47779f27935fe64b0a1b93f2192aaeeaa8f8b70c6729c3af8bfb552",
-   "krUrl": "6a59e7f8af7b7e41f2c66f6c41943b823d08f72e89c4473fab40b0b354f91857"
+   "cnUrl": "9bdd2da8561369a6f98ddb082539e04def94551a6210cb188a6372820e9bcb90",
+   "jpUrl": "5ddb4a2a60bcd4db47123e091ecd95ac09ba4e96992cc51200c04a017e46db08",
+   "enUrl": "26a4843c5e1cf879d4421702bc57c6563bf6368fce952c404a128a2cb294e862",
+   "krUrl": "d84beb624e27b9572b0bc9ab2f08a37452f26eb4f37763fb2e310c4f298f7a9c"
   },
   {
    "id": 64,
    "title": "Técnica",
    "text": "¡<nobr>100%</nobr> de Ruptura de Debilidad!",
    "unlockRequirement": "",
-   "cnUrl": "f4fcf19dd18a2f678d9076f9b292d1ea6fd86ab073eed6c2eb9b179af2cc4aae",
-   "jpUrl": "ac3ec46b8d965e3341eca0eac853461cc2e77e5a63bab5d2d2c2362a1afe291e",
-   "enUrl": "9932d41b45845b13c6ed75ca1afbf2834581151c4fd5efa1a14289b2987e77a7",
-   "krUrl": "16f7417ee6619dbc8411ad39c696198b4f49c764064eb0e698b468da3b71b9b2"
+   "cnUrl": "7c8c682848b702dc8b14aade806600bb75faac1e0f4564a8618c42b447029314",
+   "jpUrl": "8a16efdeb5670661cb70bce899834df30d0a8674a4799405026011d02617b3c2",
+   "enUrl": "816254d9b50d01551a09a21e98725dbca72029d85456b6d1ecd58e0f3085e3e7",
+   "krUrl": "5de8017d06abf65c1ee8a86279b688f31fc9fb5438dbae8bb50e48d28cec46ee"
   },
   {
    "id": 65,
    "title": "Victoria",
    "text": "¡Bien! Ahora subamos de nivel y hagámoslo otra vez.",
    "unlockRequirement": "",
-   "cnUrl": "449e2395bed819af7b6bc95bd079b5eb3c8c164a9c5f9f34ff42796e92bb4ab6",
-   "jpUrl": "399f74a8036b9b38481c0a75e0d6d234d18c9e484141b483bb8258c32e3c2501",
-   "enUrl": "3172d6a3a45aa36ebf7ea46a537b946b5c4f0ad5848a274d6a83fb31f59b6064",
-   "krUrl": "1163bdacaf51fcb0e785f6d38f4de567ff691abe0f3025e75e12be0ceb95fb27"
+   "cnUrl": "d5a04492cbda5e4d953fb77ad3a5838295f56cd621794be5f382118b447027e1",
+   "jpUrl": "42fe89d072594b53906f12b909cc6d91c2b2f1b3248d7ef740d3f76b65094899",
+   "enUrl": "b2ff9e663e651fb09451e2e7cab6e96c199b688928a8d0832b789b4e89c28336",
+   "krUrl": "297e0de737c7586f46eeddec992910356c9a6fcd1c86b9f41736a7484c899484"
   },
   {
    "id": 66,
    "title": "Al abrir un tesoro 1",
    "text": "¿Eso es todo? Uf... Qué tacaño.",
    "unlockRequirement": "",
-   "cnUrl": "30f14c4f52f87714756b5a78db24dc7389d502b4970aceaa5d8f76b85b2c549f",
-   "jpUrl": "7a6cf93cb638e7bd175134eda0bba65c8abfa89d7adb6b1a9020a0b6fcb2909f",
-   "enUrl": "7f10ef50b3f1467485abcb486ec5ed8c84fa82d19d37b97031df07cf27b08dea",
-   "krUrl": "ecfa8394cc1dfe031533f44d3dc74706a093d4be4ffb60926a44a8b3688113e6"
+   "cnUrl": "651142663d5f6c12ad1321e4559becf524b5b44c26c20fc39d1cb6f430510501",
+   "jpUrl": "3cba0b52c6c3f7201cbbb04493840120a3c72f7122b2044427b303f7898282d4",
+   "enUrl": "677f8dca209af94f7d3291cdd32e1baef440d2cf4540541db58d270f5acfb0aa",
+   "krUrl": "f07ed1c4cb6fcbaa9a27cc4e2081cf3bbb122c521ffcd26c6f7b6638824470cd"
   },
   {
    "id": 70,
    "title": "Al abrir un tesoro 2",
    "text": "Vaya, ¡qué hallazgo tan asombrosamente ordinario!",
    "unlockRequirement": "",
-   "cnUrl": "88c981edda817b60fdf1cf68030bb501c028719aaa1c0a9941ecce840518cf2e",
-   "jpUrl": "0a10853d93246e4a24d454c9e77cef400fe5092f07a05c93b403a39f145746d9",
-   "enUrl": "ea20eac2e6249ce5f030726b13cbd7ffd8c388ee8f7cd06663bdecc3fe4134aa",
-   "krUrl": "a70c516a024dabbee89c533b2b47fd35909e7966cc0729acc2fe195361a7c0ad"
+   "cnUrl": "471597ea00f800fdb32d6035b5cead510483ed330b5b003f98a4b438879053ca",
+   "jpUrl": "91ddfad8d0d7f469a40e7d571ff45886c804cd7908d4c78b7c89afad6e71f813",
+   "enUrl": "168ff3330b3400bc9f5d45ea1f4bd6a3076003063df3ca795cfa6acaa5e5b2ef",
+   "krUrl": "70d0a4fa2a332fa054b462efe9d5e41a05f2ed5edfa2ec52aa84bcf748916d4d"
   },
   {
    "id": 71,
    "title": "Al abrir un tesoro valioso",
    "text": "Así está mejor.",
    "unlockRequirement": "",
-   "cnUrl": "4be3215d5c0e4bbcb5279b345e42fc829ef6e2dd525e373fd79a089e25a5597c",
-   "jpUrl": "d06eabe6c4d3d639b57360889bff5eae983d776b4910ceefd80e6c3d9a3685bf",
-   "enUrl": "7674fc2ba6484f040ade8ee46c2b2e7e1e010734e43d17c2ce6d512e01def770",
-   "krUrl": "85e7cf69840b598888208f21da679190731e2f62cde8fc662eeaf398580390fd"
+   "cnUrl": "9d0b8563798304134c987417252df8be3057d2fd158401b8fbb6e8ef5d7629f0",
+   "jpUrl": "b7b53cd14d15c625f3b209764b07fed319ce1f9cb73954b8f4d289ed01dcb3b0",
+   "enUrl": "3cbaaef7644782a593bf5bf47c90c1142357949d58d4d805046a681bed8bee7c",
+   "krUrl": "52fd88c59c7e13aed5b0fc8d28d792173a7e29203d5822cca8f8ba8e166ae50c"
   },
   {
    "id": 67,
    "title": "Al resolver un acertijo 1",
    "text": "¿Es siempre la misma mecánica?",
    "unlockRequirement": "",
-   "cnUrl": "1d260f23bb3fea8e49f5c205c5583f6395780e3756e0b355d96c7014d3636109",
-   "jpUrl": "f2946c9768405656d0c6a6d5a88cbf54dd646a92f9273c68b795dad3c95f5a2e",
-   "enUrl": "f30b188e8f801ded19b93174edcfe3ab575db211d2d6c741aef6eb6f41f875bb",
-   "krUrl": "636496de10a35e7da8a62921597319a5950e8a05e02106ca17dc2471d9171054"
+   "cnUrl": "0b283c88e7e982ff0bae57af06cf1523e76737d3a20ea8f94672c775ff174d82",
+   "jpUrl": "9bac7405d32f2f551daa2c843e952e2f6dedcc675b12009c836142d8bc3b9d43",
+   "enUrl": "0210cd99dae4fa6cb7225ee089b6de9b20f4cbec28c358125870101fb0aecede",
+   "krUrl": "082c1871a2e644f7d28d0765d91f9594b5496bf0a497df31ff23ed2feace0f0e"
   },
   {
    "id": 72,
    "title": "Al resolver un acertijo 2",
    "text": "Humm, no es mal momento.",
    "unlockRequirement": "",
-   "cnUrl": "fec3b86594a57638b39c4edc8c5520e6bf0e9e33fcba89f6c6cb003f26c55d0c",
-   "jpUrl": "6acb67941e904814a1f52fef384f7ee438a1aec79fb745ce726375421e73e76e",
-   "enUrl": "bfd602d4a0a3f536ccf66d87da5e27c72f5ee7d87d485aede6169179be377324",
-   "krUrl": "021adf437d70c1c7c7c3b1b4ff768fd0fa16dbb1ff64b94492b537e0dd619425"
+   "cnUrl": "b5fdc7f02a642b2fc36a746ff28c1f24c042fcae7a366125ab7573048488cca2",
+   "jpUrl": "072a1529d8531333a8a4701912a538a3796cf02dd4f1c054d8157cdfa594663c",
+   "enUrl": "5ad3313cc67034033d790b4734681a47bc30650b86322efec7b1b8cf8cd7c16f",
+   "krUrl": "e0389ce8796aeb9472a3613f5bf9080738ceda23dfd8a6a2ace4cb88edf9a16d"
   },
   {
    "id": 68,
    "title": "Objetivo enemigo encontrado",
    "text": "Yo ya estoy lista.",
    "unlockRequirement": "",
-   "cnUrl": "c17a15a6b3ec7f2c46eaeadf63f487da498829450c696ccf43e438f2a6980946",
-   "jpUrl": "3f294863e678b1b2ccfcd98be1bba3692f2dbe39c408ce2446a554f06890cf75",
-   "enUrl": "9f20618d723720526fa75b8160709c3bdd08a4b53337315996a1e3922ec8ce57",
-   "krUrl": "a17fe3ea2b0abe2ec5e85994cdac24804e93013b76d9b75a56de7fec45de80be"
+   "cnUrl": "2e16ede774e9dd9982eef6d93ac97f377b39b43b27210f528b4abacb74816714",
+   "jpUrl": "0f3a066f918d130cf13cf70b8bd4c61b5750c6fb977f98a778aa96d5bd0393c8",
+   "enUrl": "236923c9544cf2eb09514f617c03021a114f65f56bd50614ddb05e0bea4ff060",
+   "krUrl": "3288076d62163812ebdf8fa52bdba77416178a6041ec1286d9cd520af98f3c36"
   },
   {
    "id": 69,
    "title": "Al regresar a la ciudad",
    "text": "Hora de desconectar... Digo, de regresar.",
    "unlockRequirement": "",
-   "cnUrl": "de91445e6d75d1b568650b5bbf3d235800e83a2cc1d71a0f643c81e239b93976",
-   "jpUrl": "979d6295e750225a0a169040bc674f12d96f4e1240951008de6a369533d0e5d5",
-   "enUrl": "02a28730673eda7c9ac5ac4c5661f3e5673c1c248391a34cd6d9b45f239b58e4",
-   "krUrl": "8cf2bf5ad8c60841a99741c444f6f1b787f5b673b82f6520c04ee3fbd7be1d3b"
+   "cnUrl": "477d31839f0d98232f1e242eec277f61bbbe74dab06003de646dd693a634510a",
+   "jpUrl": "6869b14269c8a500c7973516983a1f070f74b2168913fc4af5de4c76a143b5f8",
+   "enUrl": "8002ccdd45ab38ebce3ffcd78f9f0a85e420cd840eb611021c5b3ff9f8728f8a",
+   "krUrl": "82a467cee7ae0eb08b994ed1792eb9f61ca2ed2bf388ee4b58eeb897ccc7758b"
   }
  ],
  "storyItems": [
@@ -2785,19 +2809,19 @@
  "name": "Silver Wolf",
  "rarity": 5,
  "descHash": "Miembro de los Cazadores de Estelaron y hacker experta. Para ella, el universo no es más que un juego de simulación con el que entretenerse. Domina la habilidad de la \"edición de éter\", con la que se pueden modificar los datos de la realidad.",
- "artPath": "bef8249ca291e62ccbf508bae56a69a0a4168f29c351277de83f87f82f6563c8",
- "miniIconPath": "fe293ff4f1852fcf071d5c99577f9acf33d81291cfc04a49b84f35565d9ff18d",
+ "artPath": "56d4706426a4e3b223cbcba00af5f4ebc5597ad995b8c430dd43f0fd13dff3a0",
+ "miniIconPath": "f9e94b47e43f817043ba1b5f113fe26d6c6becd357c986450aac60beca9a88fc",
  "damageType": {
   "id": 32,
-  "iconPath": "ddae115334fb14959c5e24b70a5b165c431afc32f9fcf84d4b50e5e0e15bcc1f",
+  "iconPath": "e70b8a15af2a9753b9096155087144980c2922d95aad971609a5f87534d29a48",
   "color": "#1C29BA",
   "name": "Cuántico",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "96c3b8dd457b98955d440531986a23d509f705c13d7aa794d1e97bcfd03d5701",
-  "altIconPath": "b55d340138ed77756cd939d0d9ee2103a5398f999202c1ed19d092ac87333155",
+  "iconPath": "2e8dee1b2516e0376a0ff1ec3cf5cf7d2d37bd482cf5efb5cf79367f9d2be218",
+  "altIconPath": "61e195ac81b36d68bb63480397b0f78505a2cd8c8970b059540187a975563a72",
   "color": "#FFFFFF",
   "name": "Nihilidad",
   "rarity": 0

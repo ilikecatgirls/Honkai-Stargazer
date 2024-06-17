@@ -1,19 +1,20 @@
 {
  "spRequirement": 130,
- "iconPath": "55e229c8f8313102627f1e70814f232ada9cdd67353c1d0c3930a37cc18e747c",
- "bgPath": "fc98f0dfcea95e05a0e284f095d8c09dbb78ec18be3d6347ea476b8781e2bb79",
- "figPath": "d676592ac932355ab6420187dbe17214caba8a18831e2469ce301592bea5d8e1",
- "fgPath": "67319da7d0efd78cb0e8439faa6156da0b63bbd2ca36a9b1de3a8e339ed49201",
- "splashIconPath": "80ae17f3347cc3114ee3ae61d44f783ca639fafae7f26f4bf5a9d8f8644b4cc6",
+ "iconPath": "1cc2748a6edc9fae75cf84ecd7f19355c06b2e96480b671dd58e49d138c0b757",
+ "bgPath": "d6b81c4c13d76d1b7134691379c8529a9afe2bfc8d4913198e318b5ee751a81d",
+ "figPath": "81e59b39a817d173b17dfd599fcb8587f03c43449312d679b9ffa846f165d9a5",
+ "fgPath": "d346d288b3dd73cfb7993f6848d798a32d73bfdd258f367e084703e3e5d2ad19",
+ "splashIconPath": "4d80e2c14a178abb71581614fb17be29c1c43938345d7ef1670e5c468fb86b82",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRpoCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSBABAAABkGtr27FH1/vFdtLZSWeNVc5KNbZt29PZRmXbquwDsG183/vd8TFExATQrAMYYoLBADhgwARCYC1D2mMAgh0Cc7IjDfH7dj1NwhhSxhXFxK64sfz42or7UjWBBND/2dJTH9X4mV6MAIyh4okkz3qeld5e3dglEAK3f/Fd6ze2VrrRrTYosLdk/eatp42JPTpu/iG/xa6GpC5Y/ky2RXp7nGFb3spvqdX7mWXrZ5yVqxZ9KYyZOfecZNWS78VETjm5955sc55uAlS+lf67tgnrqS8QSPFlX5Lver6V/iYsagsOVM8aNfGzJH3UKSb1BBwDkUOPbp/UdeKeg5k06wSEOBBR2b00FINpokkTHAsYAFZQOCBkAQAAMAcAnQEqFAAUAD5tMpVHpCKiISgIAIANiWgAnTLsRCnCBoPQBvAG8iEqq8aD3QKzrbbtnOWvTTS98ISEK2xzQAFUAPfCQdOvEx7bgtCBjzb2DLpxiK83MpRtanHYLMfbPo35cy3bm96T/iWcfDlCe8mdZp5Vr+H7eRdxQDACiULCbva/kEj6cvr7Gh9zZeQymBfp06zQkB4B2tWmrSzz7HY91yNfnufqVlaKnqRk86/G93293OdRdwbEwUHsvgFm/D7Oi/sJ4OHhi8f7Ld2oM16HGIrChAX7sRdZ9qQT8YX/J3nMYlqt/JhlUc45z0R6JgbEimEAPZHicga5wEeSeyDrTjH1hm5O1cXfrRbY6abUQ5nDnn1TkuJpZC88avDCc1eEiftj8YY3nME3XjBWxFap2oiTTokBYaCNYMpgbsNBi4KzJxhhE833JjUZTSk/yKqODc7EXHDg21c0jYFs+FoAAAA=",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 2,
-  "iconPath": "db0b64061159f4acfb6a3034911f3b42572d0d8d51723ca888b8ce49b06961c5",
+  "iconPath": "0d032c5312107813ca5b29b0c67980c2d6d6888274edd2294ea5312d21f8fa29",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Credit",
    "desc": "This currency, used by the Interastral Peace Corporation to settle accounts with its customers, is now widely accepted as the hard currency for space travel.",
    "lore": "\"People run around fighting and trading for numbers in a terminal, but the truly precious cannot be bought.\"",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Tracks of Destiny",
    "desc": "Advanced level-up material for Traces.",
    "lore": "Your victory is secured by countless failures, and the small steps you have taken led you to the turning point of fate.",
@@ -61,7 +62,7 @@
    "id": 186254,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "9794d4b9cee70ded671331e6e9eec06326dcb9428d59540d9960f2a0bbea00e1",
+   "iconPath": "cf2788ec5bdb2c1137c8bdf583b557edd00667b1f629205eccb2a92e506b62a8",
    "name": "Regret of Infinite Ochema",
    "desc": "Advanced level-up material for Traces.",
    "lore": "No matter how many bodies it steals, its wish remains unfulfilled. Like those who seek the medicines of immortality, it craves an imperishable vessel, one that will rid it of its fear of destruction. And yet, it knows this is a dream that will never come true.<br /><br />\"I have seen countless worlds devoured by The Blemished One's conflagration, and I was one of THEIR flames. I danced at the twirl of THEIR fingers, keenly aware that should the fuel burn out, this fire will also extinguish...\"",
@@ -76,7 +77,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Traveler's Guide",
    "desc": "Experience material for characters. Provides <nobr>20,000</nobr> Character EXP.",
    "lore": "Required reading for world exploration. Press the \"Read\" button to tune in to an attractive voice in a language you understand, telling you about the legendary encounters of renowned adventurers across different worlds as well as the precious wisdom and knowledge that they have gathered.<br /><br />\"All-new series of the Traveler's Guide, The Chef's Manual to Galactic Cuisine, is now available for purchase.\"<br />\"For submissions, please connect to synesthesia beacon ERD<nobr>-23</nobr>θ to contact an Intelligentsia Guild representative. Method of payment can be arranged to your convenience.\"",
@@ -94,7 +95,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Adventure Log",
    "desc": "Experience material for characters. Provides <nobr>5000</nobr> Character EXP.",
    "lore": "A neatly organized collection of educational adventure notes containing countless illustrations and texts entailing adventures from beginning to end, as well as valuable information and survival-related techniques.<br /><br />\"Why not just digitize it and save it on a photolith disk? That'd be much more convenient.\"<br />\"Advanced technology is far more fragile than you'd think when faced with stellar storms and neuron flow eruptions. Besides, I'm sure the author of this book wanted people to read it in the simplest of ways.\"",
@@ -113,7 +114,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Travel Encounters",
    "desc": "Experience material for characters. Provides <nobr>1000</nobr> Character EXP.",
    "lore": "A travel diary with messy handwriting and random content. It's not of much use to you.<br /><br />\"Dan Heng, hurry up and finish reading it so you can throw it away.\"",
@@ -131,16 +132,17 @@
    "id": 549407,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "d5bfc95d74fab56f9c9be440028051ed2a9e02f4ee968c8d3db170d5b55dd931",
+   "iconPath": "a72fcf2954997ca8c5928ceaf5a1627bb831e3c8632cf048466d7885560c65be",
    "name": "Silvermane Badge",
    "desc": "Pin badge worn by soldiers of the Silvermane Guards. Crude material used for enhancement.",
-   "lore": "It is full of scratches from the erosion of wind and snow.<br /><br />\"In ancient times, there was only one way Silvermane Guards could retire: death.\"",
+   "lore": "It is full of scratches from the erosion of wind and snow.<br /><br />\"In ancient times, there was only one way Silvermane Guards could retire: Death.\"",
    "purpose": "Trace Material<br />Character Ascension Materials",
    "rarity": 2,
    "rewardPath": "/material/549407",
    "comeFrom": [
     "Everwinter Shadewalker and Incineration Shadewalker",
     "Silvermane Guards and vagrants",
+    "Dropped by enemies in Divergent Universe",
     "Simulated Universe enemies",
     "Assignment rewards",
     "Embers Exchange",
@@ -152,7 +154,7 @@
    "id": 633348,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5be2ad896306c15eb63529806cc7e0175b2c2111e3a6f175accb00a85cf9b90e",
+   "iconPath": "ba6bf0222b2d45356ef4505a36cbe77c7a9b780b174dba76a2ee29427b344447",
    "name": "Silvermane Insignia",
    "desc": "Military rank insignia worn by captains of the Silvermane Guard. Normal material used for enhancement.",
    "lore": "Maybe it's a proof of heroics that you can brag about to your family. Maybe it's a lucky charm that protects you from a bullet.<br /><br />\"Times have changed.\"",
@@ -163,6 +165,7 @@
     "Everwinter Shadewalker and Incineration Shadewalker at Equilibrium Level 2 or higher",
     "Silvermane Guards and vagrants at Equilibrium Level 2 or higher",
     "Omni-Synthesizer — Material Synthesis",
+    "Dropped by enemies in Divergent Universe",
     "Simulated Universe enemies",
     "Omni-Synthesizer — Material Exchange"
    ]
@@ -171,7 +174,7 @@
    "id": 635674,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "bbfb88036f821da503753ae4189da74a1586b0b7ee8ec0f234bbf9fb53474d01",
+   "iconPath": "11a70d892dc3b897bc3d714367c18fe413d9538c809eb21c211f322eed806403",
    "name": "Arrow of the Beast Hunter",
    "desc": "An arrowhead forged with Frost Steel by the craftsmen of Xianzhou. Used to level up Traces slightly for <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hunt</span> characters.",
    "lore": "A gift that parents give to their children who've successfully hunted their first prey at their coming of age ceremony. It is a blessing that their life would be as successful and true as an arrow heading towards its mark.<br /><br />\"May the arrow on your waist and the sword in your sheath stay true and always find its target.\"",
@@ -188,10 +191,10 @@
    "id": 717289,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e5c567b0d1a069f86d1fa35a17b282346606c69e5f8cab4028224ece84c8ad58",
+   "iconPath": "0f804f4f5903741a391df7dca374c8f9a80e5a258e74bdebf04d9f811b23ba67",
    "name": "Silvermane Medal",
    "desc": "Medal of honor worn by soldiers of the Silvermane Guards with gallant and meritorious service. Advanced material used for enhancement.",
-   "lore": "A proof of honor awarded to those that fought against Fragmentum creatures, Underworlders, and sudden disasters.<br />It is not usually pinned onto the recipient's chest, but rather placed onto his coffin.<br /><br />\"Remember, young Gepard. It is not a toy: it is the destiny and blood of the Landau family.\"",
+   "lore": "A proof of honor awarded to those that fought against Fragmentum creatures, Underworlders, and sudden disasters.<br />It is not usually pinned onto the recipient's chest, but rather placed onto his coffin.<br /><br />\"Remember, young Gepard. It is not a toy: It is the destiny and blood of the Landau family.\"",
    "purpose": "Trace Material<br />Character Ascension Materials",
    "rarity": 4,
    "rewardPath": "/material/717289",
@@ -199,6 +202,7 @@
     "Everwinter Shadewalker and Incineration Shadewalker at Equilibrium Level 4 or higher",
     "Silvermane Guards and vagrants at Equilibrium Level 4 or higher",
     "Omni-Synthesizer — Material Synthesis",
+    "Dropped by enemies in Divergent Universe",
     "Simulated Universe enemies",
     "Omni-Synthesizer — Material Exchange"
    ]
@@ -207,7 +211,7 @@
    "id": 836260,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "567e2625dad62dc022ca7b71109c76754e7fc5cc2ac9daa5debb5c65282743ab",
+   "iconPath": "cf5a458a6f5b56925e970a2f6e10ac8fc3034f2b045e7d87e13c0a49e4c8fba8",
    "name": "Arrow of the Starchaser",
    "desc": "A shard of the Sky-Shattering Lux Arrow shot by the Reignbow Arbiter. Used to level up Traces significantly for <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hunt</span> characters.",
    "lore": "The remains of a divine construct that ordinary humans can rarely behold. What kind of force can shatter stars that are light-years away? Humanity can only imagine the power of the Lux Arrow from the ashes it left behind.<br />Only the Furnace Master, chief of the Xianzhou artisans, has the rights to reforge the shards for those who are worthy.<br /><br />\"The death of a star shall shine bright for ages to come.\"",
@@ -224,7 +228,7 @@
    "id": 920201,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "fdcef4e7b19d0d08fb9ea878b30e08be44286d0a6273f29c89a77c6e17ad9572",
+   "iconPath": "cde54d9ea3870506cfb7367e25d2eada09bfe948b459125b5e916d55fa6d4133",
    "name": "Arrow of the Demon Slayer",
    "desc": "An arrowhead forged with Stellaris Essence by the craftsmen of Xianzhou. Used to level up Traces moderately for <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hunt</span> characters.",
    "lore": "An arrow narrower than a finger's width. It can be loaded into an electromagnetic crossbow or a thermal seeking bow as ammunition. Its power is enough to penetrate the tough shells of abominations with just one strike.<br /><br />\"The celestial banished arrives from afar, great distances journeyed 'twixt oceans of stars. Like rain falls a cloudburst of arrows below, in a helmet reflected the bright lunar glow.\"",
@@ -242,7 +246,7 @@
    "id": 983279,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "4278b6e89e5ce1f3e8f5ee4b3533db325b5adaf4fb9599da1b5c26c01508343e",
+   "iconPath": "8ad0f3d14c6c65787a08fe65cce8af73089b54e2cc33f19040ad09b31f72b09e",
    "name": "Searing Steel Blade",
    "desc": "The broken blade of a Searing Prowler. Can be used for the Ascension of Fire-Type characters.",
    "lore": "The Silvermane Guards would host contests where the winner must take a body part from a monster and bring it back within a set time limit. This broken blade must have been a trophy of one such contest.<br /><br />\"I saw it with my own eyes. Captain Gepard smashed that thing's hot steel blade with one blow of his fist, then held it with his bare hands and plunged it into the belly of that cold fatty, warming its heart.\"",
@@ -443,8 +447,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "293d996bd3d0157335064d583ea73daf507c83c5e99a2801551af832d135d7f1",
-   "artPath": "01e53f98c465730af328a6ae24d39bed5bd373fc5f6e16995ba2098f9ddc2de5",
+   "iconPath": "e4ea74028d785db52df6e50e26f5bf0f1db7ea4114affaff82c0cef807e350e3",
+   "artPath": "60948072d11327d789639cda4ab2f0b5e44f2b258834d37d48770a45441799b0",
    "name": "Future Market",
    "descHash": "When enemies afflicted with Proof of Debt receive follow-up attacks, they will enter the Debtor state. This can take effect only once within a single attack.<br />The Debtor state increases the CRIT DMG of follow-up attacks inflicted on the target enemies by <nobr>#1[i]%</nobr>, stacking up to <nobr>#2[i]</nobr> time(s). When Proof of Debt is removed, the Debtor state is also removed.",
    "params": [
@@ -454,8 +458,8 @@
   },
   {
    "id": 2,
-   "iconPath": "445ae90d4006ec3655bc51fc60947ee88f80272381d7d17b5037dae1d79173d0",
-   "artPath": "cb3570d664fda0f94ed2a5559e00375decfc67ecefb6fcac6ea621bd69d92912",
+   "iconPath": "61b20fa36ad1b444873df6c182664615074dd2240be1fbf2244fb27c4c50c0b8",
+   "artPath": "71b75454abb39a63fabc411ccf5b1bb987f9ced61d4479430620f79bac839a8e",
    "name": "Bona Fide Acquisition",
    "descHash": "After Numby takes action and launches an attack, Topaz regenerates <nobr>#1[i]</nobr> Energy.",
    "params": [
@@ -464,16 +468,16 @@
   },
   {
    "id": 3,
-   "iconPath": "e2be3ced23d96662d10ecd1f9df7a6c1e24126e3e724b3e715561e7bcef6029e",
-   "artPath": "bd3df32df9f3801fa1cb0f7aa5f9f18d6c086f47419319fb663d0b4c72b2aae1",
+   "iconPath": "1975f99594936647405681d3863c8314c84e0fd8eb00a91eb8946ebcb9f634d6",
+   "artPath": "c29f1fa1a76adabc60fd886fad4c3a2357fabd0c0aa44295b407d46fcf091cec",
    "name": "Seize the Big and Free the Small",
    "descHash": "Skill Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Basic ATK Lv. +1, up to a maximum of Lv. <nobr>10</nobr>.",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "ef523ba8e6a71b48e3c6f410252eaa0fd54f5248ffe2c1b0ef27914d67cbf003",
-   "artPath": "2f58ad0d6f174b5dc62d86dd192716afb6fd6e9fcf8dfb7e6d3ea39b5c2fd716",
+   "iconPath": "a9ce734a201a833b6d2b7d67ea06308c71d8b10ee7fbde479a15f58de55ba0ac",
+   "artPath": "3f8a878fd7d607d4344ab97cac78a040ba160a233d4c2f706a719aedbc875623",
    "name": "Agile Operation",
    "descHash": "After Numby's turn begins, Topaz's action is Advanced Forward by <nobr>#1[i]%</nobr>.",
    "params": [
@@ -482,16 +486,16 @@
   },
   {
    "id": 5,
-   "iconPath": "0d48b974c5cfeeda2a1095cfeb4e66f7e1cf779a6a0cd49c089f6674275d65d8",
-   "artPath": "9354426beeb7368e6d3d0e079ba4879021c8e427bdabd7129b40da982ed80a81",
+   "iconPath": "1167fd11c684dfdefcf233dfdf44601f7697f940bd66a91bd72033904c9e6b29",
+   "artPath": "adb12004ac5ebd8893311a90abf2ff2585aa5a6c7538352d6818f710be0ea8c8",
    "name": "Inflationary Demand",
    "descHash": "Ultimate Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.<br />Talent Lv. +2, up to a maximum of Lv. <nobr>15</nobr>.",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "3b14c941ed39fbad2c53aebc27af2ca7567ccef2412f1d3e976a6bbba89273c7",
-   "artPath": "4851f5e7fef211c6c42c8eb60bd80c9bc0d3449489586fc12b42a7ede95f5819",
+   "iconPath": "32bf684e93ed39dd49af9a818fb3095453235bfb778618681dc7d0535a498095",
+   "artPath": "e2439842cb74d9c9230eb4f7feb690cb2e381c3fdc2a0317cccf6222d60ae6b9",
    "name": "Incentive Mechanism",
    "descHash": "Numby's attack count during the Windfall Bonanza! state increases by <nobr>#1[i]</nobr>, and its Fire RES PEN increases by <nobr>#2[i]%</nobr> when it attacks.",
    "params": [
@@ -526,7 +530,7 @@
    "energy": "20",
    "id": 874440,
    "name": "Deficit...",
-   "iconPath": "6afc854b03591275d8fbbfeac23f50ae223fb01922f361710819f1db35374226",
+   "iconPath": "7e1bd04615b122fdab709ea41a4e396aa3b328318f1b1c34f1e6e59aedbd0787",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -687,7 +691,7 @@
    "energy": "30",
    "id": 589913,
    "name": "Difficulty Paying?",
-   "iconPath": "e2be3ced23d96662d10ecd1f9df7a6c1e24126e3e724b3e715561e7bcef6029e",
+   "iconPath": "1975f99594936647405681d3863c8314c84e0fd8eb00a91eb8946ebcb9f634d6",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -977,7 +981,7 @@
    "energy": "5",
    "id": 673854,
    "name": "Turn a Profit!",
-   "iconPath": "cc8da77d8101222fa1933a1a2466d94a1262c448cadcda3bf7e37ecd16f6159d",
+   "iconPath": "5803b6c860ad61d04b7092ae27c3b63e24b5e4e0a9a18e6256e5d6190a49385f",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1297,7 +1301,7 @@
    "energy": "0",
    "id": 389327,
    "name": "Trotter Market!?",
-   "iconPath": "e177b4e4d4c16ffac74fac5e0404e5dd1bbd949ae6a14a30a908c9426e7e258e",
+   "iconPath": "fe445e7fdc797ade246343f906d01bf7a8c66fea0fca143ba56283d2908843ae",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1602,7 +1606,7 @@
    "energy": "0",
    "id": 188741,
    "name": "Attack",
-   "iconPath": "6afc854b03591275d8fbbfeac23f50ae223fb01922f361710819f1db35374226",
+   "iconPath": "7e1bd04615b122fdab709ea41a4e396aa3b328318f1b1c34f1e6e59aedbd0787",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1618,13 +1622,13 @@
   },
   {
    "tagHash": "Enhance",
-   "descHash": "Summons Numby when Topaz enters the overworld. Numby will automatically search for Basic Treasures and Trotters within a set radius.<br />Using her Technique will regenerate <nobr>#1[i]</nobr> Energy for Topaz after Numby's first attack in the next battle.<br />If Topaz is still in the team after using her Technique and defeating overworld enemies, a small bonus amount of credits will be added to the earned credits. A maximum of <nobr>#2[i]</nobr> bonus credits can be received per calendar day.<br />After using her Technique and defeating enemies in Simulated Universe, additionally receive a small amount of Cosmic Fragments with a small chance to obtain 1 random Curio.",
+   "descHash": "Summons Numby when Topaz enters the overworld. Numby will automatically search for Basic Treasures and Trotters within a set radius.<br />Using her Technique will regenerate <nobr>#1[i]</nobr> Energy for Topaz after Numby's first attack in the next battle.<br />If Topaz is still in the team after using her Technique and defeating overworld enemies, a small bonus amount of credits will be added to the earned credits. A maximum of <nobr>#2[i]</nobr> bonus credits can be received per calendar day.<br />After using her Technique and defeating enemies in Simulated Universe or Divergent Universe, additionally receive a small amount of Cosmic Fragments with a small chance to obtain 1 random Curio.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 272682,
    "name": "Explicit Subsidy",
-   "iconPath": "0c46fce8729996ee740bb308a5859e38ec196eb6e495718ed105ca36348dc517",
+   "iconPath": "449c012a09332db1ac29a7a990f61bc6f7cd7e501ff225bb88f44cb5dc08ec53",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1663,7 +1667,7 @@
         "name": "DMG Boost: Fire",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+        "iconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
         "statusList": [
          {
           "key": "<span style=\"color:#F84F36;\">Fire </span>DMG Boost",
@@ -1692,7 +1696,7 @@
       "name": "CRIT Rate Boost",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+      "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
       "statusList": [
        {
         "key": "CRIT Rate",
@@ -1721,7 +1725,7 @@
     "ultimateCost": 0,
     "id": 314099,
     "name": "Overdraft",
-    "iconPath": "04ffa3a29b8b0320b110014629471a043c2f09e3320c56e42f1d99607194efa3",
+    "iconPath": "440100dc58216ea00223f7b11d622b961e0c6bef40653856d3f1d7a9c5674f77",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1768,7 +1772,7 @@
         "name": "CRIT Rate Boost",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+        "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
         "statusList": [
          {
           "key": "CRIT Rate",
@@ -1797,7 +1801,7 @@
       "name": "DMG Boost: Fire",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+      "iconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
       "statusList": [
        {
         "key": "<span style=\"color:#F84F36;\">Fire </span>DMG Boost",
@@ -1826,7 +1830,7 @@
     "ultimateCost": 0,
     "id": 314100,
     "name": "Financial Turmoil",
-    "iconPath": "da805d04aa57f3c43bb75198067f41014caea7860ddcdad9041dc0b8f408c332",
+    "iconPath": "ae8753fe896d9e02d0ea8abd347219591676b0e915830d116f2b68d575eddca4",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1879,7 +1883,7 @@
         "name": "CRIT Rate Boost",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+        "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
         "statusList": [
          {
           "key": "CRIT Rate",
@@ -1912,7 +1916,7 @@
         "name": "DMG Boost: Fire",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+        "iconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
         "statusList": [
          {
           "key": "<span style=\"color:#F84F36;\">Fire </span>DMG Boost",
@@ -1941,7 +1945,7 @@
       "name": "HP Boost",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -1970,7 +1974,7 @@
     "ultimateCost": 0,
     "id": 314101,
     "name": "Stonks Market",
-    "iconPath": "8f844cdacc6d480ff98124026c5993738a46eabe030199722252f4aa1d288179",
+    "iconPath": "f7edd032499dcfc192a6257d22ef32da7035f603df5e3c8738b38d6694a80641",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2013,7 +2017,7 @@
     "name": "DMG Boost: Fire",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+    "iconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
     "statusList": [
      {
       "key": "<span style=\"color:#F84F36;\">Fire </span>DMG Boost",
@@ -2042,7 +2046,7 @@
     "name": "HP Boost",
     "levelReq": 0,
     "promotionReq": 3,
-    "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+    "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
     "statusList": [
      {
       "key": "HP",
@@ -2075,7 +2079,7 @@
     "name": "DMG Boost: Fire",
     "levelReq": 0,
     "promotionReq": 5,
-    "iconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4",
+    "iconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e",
     "statusList": [
      {
       "key": "<span style=\"color:#F84F36;\">Fire </span>DMG Boost",
@@ -2105,27 +2109,27 @@
   "props": [
    {
     "relicTypeHash": "Body",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "CRIT Rate",
-    "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8"
+    "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695"
    },
    {
     "relicTypeHash": "Feet",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "ATK",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "Planar Sphere",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "Fire DMG Boost",
-    "propertyIconPath": "a25df6fe10558d9734945a0a4e14f71c30fc486e14d1a79ad6c941712191e9e4"
+    "propertyIconPath": "83f3836fb03139f90f05e3cec77273f6dd86c2e49bb7a6002fbdfb5ef49a540e"
    },
    {
     "relicTypeHash": "Link Rope",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "ATK",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2135,516 +2139,536 @@
    "title": "First Meeting",
    "text": "Hello! Allow me to introduce myself. My name's Topaz — I work in the IPC's Strategic Investment Department. I've heard about the many great feats of the Nameless and the Astral Express — it's truly a pleasure to meet you. Oh, hehe, and this is my little second-in-command — Numby! Say hi to everyone, Numby!",
    "unlockRequirement": "",
-   "cnUrl": "729143082740e167915f039803534acca255be54679d2b8140619050858b48b0",
-   "jpUrl": "1c1ccc4f5a0301a72f782d8b2f1b3d0ff36f8f409eb3a82696e7711707a1e342",
-   "enUrl": "fe0691e04d354136bc4f929b8ddb13dff8dc42f9b8de7e7a59ad968c9d693281",
-   "krUrl": "f9c6ededba54ee8add3c4e59a3a3d8109b1defdb4c7813fde46b33c4f01ee8a0"
+   "cnUrl": "2541d8a527dec0d873d771a56df3615835e3b107c37aa6bf8ed0e60a829624e4",
+   "jpUrl": "a8b285f81a989b0bb36fe2431ccba8c84b54932cf1849e338387d7df1e657f6b",
+   "enUrl": "938d87f679bd9e23e04b1115797f50c16da7a9a4bacfd5ec7e0875a930740889",
+   "krUrl": "d4f316dd20f0916e676d63324fb271798412e517b60a66d7efc654fee48cb768"
   },
   {
    "id": 2,
    "title": "Greeting",
    "text": "Long time no see! How have you been? Clocking in a lot of overtime?",
    "unlockRequirement": "",
-   "cnUrl": "b772f82d1f5570749e6862e4167ee8ea56882ff8e583938df47c04976889217a",
-   "jpUrl": "6eb6403e502ff6248745a4a857e9171a8c6ffea45fbacd6ed47927099c06df9a",
-   "enUrl": "995422bef704acca2921cfc14ace80f21594c45b0c54ad973178a29d48e12b36",
-   "krUrl": "31a76d741b95bea3e6fac5853c8d9e16afa527881b047fb4a6d790d8dc265e55"
+   "cnUrl": "1172bb9e64713ec3307789f20e67e556e70c24a4bee488e2e091722c0a15ecc4",
+   "jpUrl": "120054503ccd2bb2bc28b090d65c6b3dd0a488a9137cd30b760c4011f8dd6cd8",
+   "enUrl": "f59c5090985a77f33846514d4934745ff851a81dacd7f13e7f45d2d357491723",
+   "krUrl": "350be8c686fa010cdf68e5a685a7152ba2a76b86cbd464f7c85a918eabf5ec94"
   },
   {
    "id": 3,
    "title": "Parting",
    "text": "Ugh, why do they have to call me for such a trivial matter... Sorry, something just came up at work, I've got to get going!",
    "unlockRequirement": "",
-   "cnUrl": "79025be5272bd1f742d692eb7bf54c619d19b437790143d7e255c6174078d84c",
-   "jpUrl": "b607c776045104664b3c5cad56a792e0e6c1392ea6a89df0da48ff9aabbc010e",
-   "enUrl": "0b54441474156a036635e06b5fb215b7536dbadcd083565dc5a13fb54b3ff40c",
-   "krUrl": "9e335b489ac0432cdc1d4215a899c7d7830ab3103f13755870843f86d28c42be"
+   "cnUrl": "4089a7e95da489b4956be7ca3abcb700db78113e50ecf9c8d7ca61714268330f",
+   "jpUrl": "534da29b0eefd81bb3a3bba2b63d27f59eab9f05ae915c5f3a5fe3e1d1de13cc",
+   "enUrl": "8aab20f7962665acc7617373d9564403b848025ff6e0f8f1833d037e96d455ed",
+   "krUrl": "306b16bd03b87dc0d970f4df79c07cd4a8d7652d03494c068967828cde2cb2b7"
   },
   {
    "id": 4,
    "title": "About Self: Hometown",
    "text": "How does that song go again? \"The place you can't go back to is called home.\" Well, that might sound dramatic, but I really haven't been back home for a long time... and frankly, I don't want to.",
    "unlockRequirement": "",
-   "cnUrl": "f22ba70e330d1aa1a913d008bee6d2e6257519f3a82e70b3696e2eb442c2a97b",
-   "jpUrl": "2a8c2dff9246a38bbfa73dd249b9e86f26442a02bce630740e586fecaefed74f",
-   "enUrl": "c53a78a002f2b8589969018cf0301b189e70252765ed63950bb6516ee5e8c97e",
-   "krUrl": "a7ae8cbfb4b45daa1df73bbe23968a56c59a871893ab1e488e5c7791d05f80b8"
+   "cnUrl": "502033284656c53356a6cb4da3fdd355d91da385550bc620e0da2ffae690a336",
+   "jpUrl": "6d8c13b965cae6d50dc52b4cdd549c282b096a657b16599898d39a5c83a6571f",
+   "enUrl": "91b03a28c27e66047f182c30401b73fb0fba8724b46bdb60a35f45d53989d2de",
+   "krUrl": "f9fa70c184086901d06fe5bde41d6417a97a2ac68f3e02adb1126bda50207f9b"
   },
   {
    "id": 5,
    "title": "About Self: Occupation",
    "text": "Protecting the interests of the vast majority of people is the reason I chose this career path. The IPC has given me an excellent platform to pursue my goals... and for that, I have nothing to complain about.",
    "unlockRequirement": "",
-   "cnUrl": "b3e9633fdc05c3d741446e095df38f3bbcb99c3a5c78115693b5cece4f5b5ad5",
-   "jpUrl": "c72c421f92b4095a1239d3dc5e31405fb34e288c19a9f9483fd9a34833b15b7f",
-   "enUrl": "207852d1510829e2f7c2e0feb419a8c1a605ff9bacaf2e35ad60e9f82898b301",
-   "krUrl": "186311c43a5f5c9ee89f0f5763cc92843bfc751e7a1d8f8a1ddbde5b971d3ad4"
+   "cnUrl": "5a6607ea7bb0c078a6dd9b1c8f8e38e93df16e1ee5a13aeb1e20680909943a25",
+   "jpUrl": "35965d7eda69a421a8fdac7f22710e782e47d083176ee47bfc47c9fb9818eaf5",
+   "enUrl": "b11eaf1f87384900ee2a3d7b6ac445356d52673b9a74b66c276cc5b2754608c8",
+   "krUrl": "c4e3c901ac474c3facf8f931a3efcdd76260e757b1be86475213aaebbb53f0dc"
   },
   {
    "id": 6,
    "title": "Chat: Workplace",
    "text": "There are so many tricks for dealing with people in the workplace that I can't even list them all. But I always believe that the most important part is to remain sincere — whether it's with coworkers or with customers. That's my bottom line.",
    "unlockRequirement": "",
-   "cnUrl": "0b95fca724c7c85087651532e311471e74c59cec1b226c58679de7d50907c56c",
-   "jpUrl": "9adf2efc332d642e5af020a1fe11bcf4182c5e7a65cbb94c15cbf8ce10a6ea1c",
-   "enUrl": "61d25564cb6c120fbce8b3134282d209806235619a854872bc591dc9ac9a8afc",
-   "krUrl": "3ccee9c669a7660784709f6bc74208428c7647e5f56972650d02c3b96257bf66"
+   "cnUrl": "4e30be87b9c1334e1d5b6b2a85f873502181dcd07050eb21c9433a32afaff290",
+   "jpUrl": "57c2909e80322b10df43b8aa7bfc4b6dc2246d5b906aab1e7fea85a927fbd678",
+   "enUrl": "2bc65c1450d8d6db0c6b53591188d167b68b0a9c794b9639ba02ffd47eb84fbb",
+   "krUrl": "df68789a96857d4c59510323ead192cc98b031f4ad03aa48397a26a87d1d5091"
   },
   {
    "id": 7,
    "title": "Hobbies: Work",
    "text": "Do you know what year it is? Who works for money these days? Money is a means, not an end. Work should make you happy... That's the most fundamental principle.",
    "unlockRequirement": "",
-   "cnUrl": "a27b719be0c71e500329faeb1cb3ebfdb947f09b22c2ce98f22d555dd45488dc",
-   "jpUrl": "8de5dfffa40be36b1c1e67900e47feaaca140c4ba280b39129e0b8ca3a5bd756",
-   "enUrl": "2fada8ddab740d5067386cde06a8a7dd0af9294b030cee1de4261aa167733a62",
-   "krUrl": "0be8d107decdafcdd10b293e5f40cb16e237bc5629711aa92ebf16973bf1a081"
+   "cnUrl": "243017bd836ec054599e14b024c054e82f7e5b7ed1209cc0e151a83fed2db8f8",
+   "jpUrl": "5408ca216543bd3ff1e7f9fdbdebcda4593dba75b355341ed3cdf43d6d940a9d",
+   "enUrl": "1f32119b411280a9d2767457dc90a05687ce8138eac4e380a4f1250158f9da3a",
+   "krUrl": "d1372887158783b78c032108de20383323496f9726390eb84d9bed45f509829f"
   },
   {
    "id": 8,
    "title": "Hobbies: Small Animals",
    "text": "The vast starry sky, the billions of cute, magical critters... Even if only for them, I've gotta work hard.",
    "unlockRequirement": "",
-   "cnUrl": "901ac897f7d1519bf076df133a6b1f64b82691659185cb1647858f20b8d52fdc",
-   "jpUrl": "159c7ced3ced2eb082172d4acf717a5298ac9af2cd9aaa793cca39728d684983",
-   "enUrl": "87288ea801651be840188ad44014101caf27eb525e132a255cc04efa4a440eef",
-   "krUrl": "e350a4f15dcee10db1ab5d0cd22c9582657a57e0e58fa382c5a9200b7e8490b6"
+   "cnUrl": "de922a6adc6cb3146c1ee38fd57518af7ed98c3bc1c6fbaa41e1e1f8a7e3a9ea",
+   "jpUrl": "7e97d259e87034299f802e624bded57769766cb865cde904f578c8fd1edea212",
+   "enUrl": "c37181de5016df3304f740b0eacc9364635fcb7a4bf64d7b51806744ad193742",
+   "krUrl": "e13f780fb0de3d71bac0112f9746b43faa906398a6f6ec73219359c7d789781b"
   },
   {
    "id": 9,
    "title": "Annoyances",
    "text": "The trouble with being too good at math is that everyone treats you like a human calculator. So yeah, that's why I rarely talk about my expertise in that area.",
    "unlockRequirement": "",
-   "cnUrl": "ab5cb74fcd3168dc60ccb8a8a8540e18615cb9d8a5e4d24d11becdb524392682",
-   "jpUrl": "2ca42cf0abefc34efce548cc23f70f47ff4bcd263551ab907ded9407387b0d93",
-   "enUrl": "1a8be455142c5a4c2fb2e0e01fbfea9846fc97481c319488239d45e1d50d70d0",
-   "krUrl": "d6e94ee94b56780853ec128300ecf80ec66faf11e8278009466f8fb5fc846752"
+   "cnUrl": "8bb962987e55aebcd999c16fb01986de64c44aac79818346a85ec9f2b3bd58d4",
+   "jpUrl": "5f734a265bb75d53943958086aeaa87d70250e6e9263a3c1208ba53df560f8c2",
+   "enUrl": "85e7f443ac9ea66f563c4debb6964d7e9337608d8dfea7b9c1b64f3068123b3d",
+   "krUrl": "ce1c05dad893608237e978a5c9d5a7f8472358888d0fed1fe4c3204c8c2881eb"
   },
   {
    "id": 10,
    "title": "Something to Share",
    "text": "I used to think creatures from different ecosystems would be incapable of living together, so I divided my home into different ecological zones, but now... Look! Look how well these two are getting along! They're obviously from different planets, but they're best friends now! Isn't that amazing!?",
    "unlockRequirement": "",
-   "cnUrl": "7f48181023e995f1a8a405d47a5ef805a7d6138d9f749777a9c1381b415d4aaf",
-   "jpUrl": "fd83a06db76aa4f96caa79eb729a992ebaafa81240e3d6322be1c3c7f8b8f677",
-   "enUrl": "e455e938af23d263016b09dcc58ed639611762a0eb24fb67748c331aeaa07931",
-   "krUrl": "d603abbce1a03d0c0abf23d2b8d5e8ecefe0c8b18e4caba11205bbe249162c23"
+   "cnUrl": "cdd233e38d8b66989cfae3884f94bbdfc6a27d35df9d91730313ab8cf95d1d9e",
+   "jpUrl": "1a04a4ab74a166429ddb500eeb8a29a1b806840486bfee7415f992386b8972d4",
+   "enUrl": "c910caac730fba6f56908604dd00b341a43317bc67ceec4323484a68e4ef6cbf",
+   "krUrl": "65a8f14c74fe0368e9bafb401ba6ec35bb9c23737a3cd6d85585900be325b595"
   },
   {
    "id": 11,
    "title": "Knowledge",
    "text": "Every family has its problems, this I understand. But if everyone were to stop repaying their debts, the whole system would collapse... If that time comes, what was once thought of as a trivial matter would become a hardship for the world.",
    "unlockRequirement": "",
-   "cnUrl": "5e2563819546ab3e4dcd8327121c088f0674992e24bc75ca044896265af7d5dd",
-   "jpUrl": "b4e08ee11bd73587497695f5ed90d28fefe713d054f289f3fe84498b602ff8fe",
-   "enUrl": "b8a2738163d4c4e1bf59fe30f821c0040d62a056d4becea87aecadb4dfe04171",
-   "krUrl": "f004f0c808017aa58abb5faa628be98cce91c449ebee7ad98f40abbb0a62a971"
+   "cnUrl": "0a763706da6078be5bd7517d9ebaf399952d98be11b9818fc86a6bb77451e9f9",
+   "jpUrl": "6487bed84957230bbbf76a5f06e5865eceb7775a9c6486fd3fa2768aa9e8e863",
+   "enUrl": "bc8f930a3b8fe6f7f10204be6f7b4c8ba7f65b5246c1b2f25e2c7110235d2f0d",
+   "krUrl": "9c52c081f50627dede5e76a20ab6d453f57a14131554ed35418db609c1b9b4e2"
   },
   {
    "id": 12,
    "title": "About Numby",
    "text": "They've always liked shiny things — gold coins, gems, you name it. They're like a big fat investment account accruing interest... Guess I should've just named them \"Piggy.\"",
    "unlockRequirement": "",
-   "cnUrl": "8a80e3b101a7039f71dd053be01d411af3e2abd16f44d4dae33661631a369449",
-   "jpUrl": "71e59d019a04ce2add2665f04d9ab0de5b8927822bf595b5abc29e75f4b3e66f",
-   "enUrl": "ea7a1284e83aac8653182bb0bd60ec168c6ce97a69c0cbd01d57afc1b56f204e",
-   "krUrl": "2fb2aad0dae5807eeda70a78d029875f9cc6d53875af18d940af7e576fe20879"
+   "cnUrl": "333a705d3d83fc152cb02e594259d08e95408eef615248551cba27d1aa2ae7d6",
+   "jpUrl": "ff3bc10021e391bcc88ca588bf4b80432fbf4cd82765d8a1b9ff427447fb4922",
+   "enUrl": "391eb2d2a61abc560a705f2ec3748b5088d769190979b347e40684ce33cea5c5",
+   "krUrl": "d116136d11d62ecd51eabd96dbd691e03daa73d7c39750118cc5130f1bc50b18"
   },
   {
    "id": 13,
    "title": "About Aventurine",
    "text": "In the IPC — no — even just the Strategic Investment Department — there are plenty of unsavory characters I don't care for. They may be my colleagues, but we're not the same. Take Aventurine, for instance... I sincerely hope you never have to deal with him.",
    "unlockRequirement": "",
-   "cnUrl": "faff096a46631513babe584fc11eab4081ae00c9ee741f5e8ce213237829f595",
-   "jpUrl": "41c8527c3e87c97fa3744afbba267fc724469b0f24d4df4a790f280de1731d8c",
-   "enUrl": "ef66d66e30313778c4ecd2e1c22bd92147a7bfbc61cc73da2a73fcaa77f9ef21",
-   "krUrl": "1cb31dc4fa81b2dbbe2787679a592b55595522cade637a03c9282064275d5024"
+   "cnUrl": "13bb65486f3296e3fb34c8c1738e4ca015b444e8c2f9a8b517159ae8a8d9b4d7",
+   "jpUrl": "99ee94882895628b27daa353312367441246084ef94f3533404aa9fd2c767a6d",
+   "enUrl": "6dfbd40e1a545fc773fbbff663a9181bdbed8a4fc87e28c5dedcabb6ce1a5e32",
+   "krUrl": "8d60ce55f30f9a0ab5723914f33f494a408438d32a055fc4660ce131143c408f"
   },
   {
    "id": 14,
    "title": "About Bronya",
    "text": "The supreme guardian of Belobog... Well, she's an impressive little girl well beyond her years in maturity... Huh? You're saying I'm about her age? No, no, no, totally different circumstances, no comparison at all...",
    "unlockRequirement": "",
-   "cnUrl": "23a5e8c5532566bebe6b4aea55f3501fa83a2c5eff0e8afa50f0904e123c5b44",
-   "jpUrl": "faec50d8c94c651fc81b276587e558acabd7e63f9a392c6d762e52ee4b763408",
-   "enUrl": "3965695bf355d8687b4c901fca553e628f544eb77910ea1554d53bb2c1674e35",
-   "krUrl": "d556042b77a5baaca168df9b914e0618367b0783b8120f9db298f6b16bc7d566"
+   "cnUrl": "8d7a33272460d824d6569511fafc3fa8ae2cc09c1a8c6071a57270306719126c",
+   "jpUrl": "3bfdd0e3b6f5130556ef238e1837b57803f86a33e29eb1a2ef757523c3e69d60",
+   "enUrl": "2de8dd24d428837819d6c8742c066697b230487a1e6e877e58858a65ece44ac4",
+   "krUrl": "2ced79443ccada7b89b8934724ebe1e1e5194b5c061b495f84b104c5c0872c77"
   },
   {
    "id": 15,
    "title": "About Himeko",
    "text": "I've heard about Himeko of the Astral Express — my colleagues were gossiping about how beautiful and knowledgeable she is. If I ever get the chance, I'd love to meet her.",
    "unlockRequirement": "",
-   "cnUrl": "702fbc6fcb9695325ad274df59b4034c154ad418e4742dd5d4690d07275eca21",
-   "jpUrl": "7afd20636a091a89c078d0ecb35021c42338cc04ba6731b8b8bdac122d6c20d2",
-   "enUrl": "d9f8b381f2cf11217c6dde74026832c6ef16f3a4fe9bc5d9aea4ab8366817086",
-   "krUrl": "9dcc3e5a287fb5777d129811fcb6a8a678276dce06c5d8b8adf1305f88967edb"
+   "cnUrl": "073fc9e4f7705c2bd197bb523e93329bed226df14aefc99ce8e6c8f802169290",
+   "jpUrl": "118db642c3cad0e65ffcabdd1cc52b794ba9c7ca7b5add3a2aa81331e0f51996",
+   "enUrl": "95f65845e4e298687caf6da55ac85d3e24b3f33de9bbffa2672c8232f753de47",
+   "krUrl": "5683d0cbd6ad6ea075efda896d6112ccf77535f0683786a263daed1cb618e15e"
   },
   {
    "id": 16,
    "title": "About Pom-Pom",
    "text": "The most mysterious character on the Astral Express is that conductor — the one who looks like a little creature... Their reputation precedes them. If they're as interesting as the rumors suggest, I'll definitely have to meet them sooner or later! And hopefully, I'll get to pet them too!",
    "unlockRequirement": "",
-   "cnUrl": "e338b5bb87c0877797feff02965188bd3920a80acc11f88f753a2b0757a1b49e",
-   "jpUrl": "367df6c81aaec98ae9514b5a01e1d3f663526437fa2103f5c2028e73ce0e72af",
-   "enUrl": "f7577b2829abdabf34c101819aa055835ca7bd62c2fdba7832c20a93c520d92d",
-   "krUrl": "56baf1f0f9dc8b90fe6261819e09a21c69aa4c03cc68e78d00dfe789812ab772"
+   "cnUrl": "2b00446e8abcbc01f62c4f0978aa2a2416d0f5f975622632f83e7666f65bb662",
+   "jpUrl": "b63a003f6fe751de35c57a8a8f9cf9e59b0292feaf8173fc300d3f171dcac5d7",
+   "enUrl": "5c9dddb7f7089fd43495948b1d4dff2a8046bf6e4de2e629652362d89a684955",
+   "krUrl": "fc6825b3dc718d7f7e3dd27e32352776e8147f1948a5232151adfc61707c8392"
   },
   {
    "id": 17,
    "title": "About Asta",
    "text": "Lady Asta! Now that's a real lady if I ever saw one. You'll never guess just how wealthy she really is!",
    "unlockRequirement": "",
-   "cnUrl": "d3f097814bd6a3ed31ca7a53abd216bcc5f6177aff531a0855ce33443df8d0e9",
-   "jpUrl": "3955d301739f817960f060f305b5ac245973db5f7f3cb54f648b8b6e35dc4dae",
-   "enUrl": "3a6c75a8fb696983273428643ba269a18bb44cb34f4ac0aa8c3bdfa71ee9db14",
-   "krUrl": "9b72f023530d74c5e0551d941dd31d5304c946279c28eeb3ddd0d37163e4083c"
+   "cnUrl": "69d0027846247049817d30e828c9f6dd4ec9fac429b2d9d2e1906f315e3dba3b",
+   "jpUrl": "1fe83e77b2e564de7e295ee74d5f329bc1ef45e85888e9fdf3ce82bb283376bc",
+   "enUrl": "6ebb08506f2948d8f57ca567a359977e0f675a640714da65056b9d4880873e20",
+   "krUrl": "81500ac606ca40b81f77050833f2cba328dd904a79f90af05d42ece2ac1b7a57"
   },
   {
    "id": 18,
    "title": "About the Stellaron Hunters",
    "text": "Stellaron Hunters? We aren't acquainted. Never worked with them on any projects. Supposedly those guys are hard to get in touch with, but they have an unexpectedly good credit record — which I value far more than any groundless conspiracy theories.",
    "unlockRequirement": "",
-   "cnUrl": "7b142433fe13d97a093abf22d3d54528a2b8b97b37247185f10588c910e9ca69",
-   "jpUrl": "b66b06d5cd840d7057aff7695c3429daee49783c156911514ba92dde6ed36f21",
-   "enUrl": "efebe5ad19ebf2352be31fca448e98e035c07f600b89c1d7a7fca513653b760e",
-   "krUrl": "905d547b694a6c2d0985c7a900eb4c23c81dd9547d7c6d514d67af61169a25c9"
+   "cnUrl": "dc03173612b08ee3ffbac06273d8350269321963114aad6653926002bf560a18",
+   "jpUrl": "520bef6dd48aceebddad2a9f67920f358d51f980f31a95e32e462661c1da9ce5",
+   "enUrl": "b28c26f9e4bd9f3c885c1d1d66498a44533263bdd9f6fb060cf569133d6d45d1",
+   "krUrl": "03daf6f2874a3fcffca985cdefc41efc152e5c029ba3a5b665001f195c596b5c"
+  },
+  {
+   "id": 19,
+   "title": "About Jade",
+   "text": "Lady Jade is like nobility to me, beautiful and capable. She is always so kind and willing to guide and support the younger generation! When I think about the first time I met her, I still get nervous... Time does fly.",
+   "unlockRequirement": "",
+   "cnUrl": "f9ef4a095b9f1eb19b82c3700817801435e7e4cd1bb25087cb48ed1f82de09d9",
+   "jpUrl": "abc7440f66db1317c95791b98e97fd0e6e8b4b6824d51ff6e10ccb40c5fa62bc",
+   "enUrl": "513152f20e85c494289bf34572d80edccfdf496b879881e8976b5304b0ab2223",
+   "krUrl": "097a4146b89394d24cf92627c7203988ab4b06d3e767a7a3fb507c83de1dd8bd"
   },
   {
    "id": 21,
    "title": "Eidolon Activation",
    "text": "Looking bullish! Which is why we should keep a cool head.",
    "unlockRequirement": "",
-   "cnUrl": "9f99b3e91c5ae56041f3078fcb037f27b500a74651b857f1ce24e978dacb656b",
-   "jpUrl": "d9e2a12d2f91146b76f2e1c043c591ddbd4dc81a9830795fcd60c1b7975a2005",
-   "enUrl": "2dd37fc913285045791f974a1a0d4c3017d58479e63695269e191b5ef1369150",
-   "krUrl": "094893819f3379500a673e291786e31ed9a71aaa3b42e9bc54e1fd1002df8a24"
+   "cnUrl": "785b254970f510a90cf59cce0fbc209b053564b748b422e73296fd06e78df1b5",
+   "jpUrl": "199b4ca14eb78b506aef610b2c7b041a21df7c00843aa7bd86481d60fc2dae70",
+   "enUrl": "2df2ee8f46b0f1112538850de9c14675e495de2c40e9bb9eb1316818324c32c7",
+   "krUrl": "6a3a79d2fe905c4e28c99fe45ea1b7845f317142950ad5c5a23a15d3bacd5a63"
   },
   {
    "id": 22,
    "title": "Character Ascension",
    "text": "Awesome! Let's ride the wave!",
    "unlockRequirement": "",
-   "cnUrl": "5a29b3d1b6a486b91370ec984948f11344dc18dd2b3154a6c2cadd1eaf83dab6",
-   "jpUrl": "ac57ef85487ac2c8c1ddaaf41e635a9ef2457b5057749b9bacce0ce029ecf022",
-   "enUrl": "d5f986030fb526447a2fba82a03d2c96b6c124a1f11da0693c251919445b8c79",
-   "krUrl": "61fac348e4a3e5b28a88018425125981c4e60a0266ac69f3a49a7abcd7be9f2c"
+   "cnUrl": "db490a0f70218e8efb3f883b32a7e0263d12d1c11ab408a949bc4a391d1fa002",
+   "jpUrl": "226d2295d6559e69cdb66628e2f54a2f0e1e20395a81868dfee6994411a693c4",
+   "enUrl": "76a31b84087d4a095dc13209c5dd334fc38d2669af2d6fbe43189e2ac098503c",
+   "krUrl": "93a5f83051c7fd428a2fb1369b3445254ccb86fc969130bd6242f5ce7519220d"
   },
   {
    "id": 23,
    "title": "Max Level Reached",
    "text": "Don't be complacent — good investors always think long-term.",
    "unlockRequirement": "",
-   "cnUrl": "1d734e57bf90d245195869f503554b7f52f7e78a6252360c3ad1a9760b0fbb0e",
-   "jpUrl": "0b6528ee3204fab68099a20c4c7c702f5f1f5d83d52446561a1ba389575aa655",
-   "enUrl": "9a66e59542a829ea40e41e5c00ac957660ca4d378205d8b937f8dd524b743848",
-   "krUrl": "6df04e851fe8bf2a09fd19cf21c04b4a63ccc5b651949e0013c122f5000d579f"
+   "cnUrl": "ecc160400185504bf5a6ed59a18dc3aaca8dc2101eca8ba8335fb38e14a90042",
+   "jpUrl": "2f035485dbdcca8b10f34de3ce43e4f618164deabc434387b1fbaf41df92bb6d",
+   "enUrl": "ef6001af1614b6baa3e3e3c980b9c16e01f1a687f85a921d961f4eebf3f67325",
+   "krUrl": "2f1bcd14a15bc1541d63b93355443ec76f100d3bcffe3b7515418ea7b74c42c1"
   },
   {
    "id": 24,
    "title": "Trace Activation",
    "text": "Nice to have in the portfolio.",
    "unlockRequirement": "",
-   "cnUrl": "4eb91702b8decf259ecececb30348de2630ad168bc6690f197a3f5c2c225c046",
-   "jpUrl": "316d017ddf0ebff015fd6d34416f603b1d45b6a9ef34ff2422336114b14c0b0a",
-   "enUrl": "d2dee7cf4828b1237d2e6c3117c3f61a837103a544b06ab108a457df6374480a",
-   "krUrl": "2b096c02a955bc6a590129b621e0aab70d14136ed49de8efc8785bb2e67718a4"
+   "cnUrl": "c3fa2ee7078d9f7622be52f634f7f783beffd2941281ac6c3a2c188182bcc23f",
+   "jpUrl": "35669b69e3dbb106e889a0c4fd86eb5235843d3fe6322a360b61e2b6fb89288f",
+   "enUrl": "da9dfa36aaa775aa6aea0b7209ea5ce720bed539f982a143b828b1544fd01e29",
+   "krUrl": "6335c9fb5c51c9543b4e906dc38ffd4a7dbcee111466cb4185888a4c0bc93dd6"
   },
   {
    "id": 25,
    "title": "Added to Team With Himeko",
    "text": "Himeko! I'm sure I can learn a lot from you.",
    "unlockRequirement": "",
-   "cnUrl": "29c0f35c165e2705f56306586dd9c7874007aa9ac4551a43f21f27440434d617",
-   "jpUrl": "9e4e039ce8d330fdd4a5e85831bf76b748746663e36a152da73808cf617ab237",
-   "enUrl": "3dd77dc5d3926b34b6f0e9d5210d284aa25ca6f9fd8585ea31cd0aa8859d95fc",
-   "krUrl": "c5b02f955ee20df76bec5608536d69179c1be8f617f4364ffdc39960d80ecc4e"
+   "cnUrl": "9481ac57f64ef30d458b53ed4d97a3ef92a5ca48966f49410c6f6f03f9d1710b",
+   "jpUrl": "7baa99c78b863a2840f9d13e4e0cf83b6bf8a6a0dbfcbe70d7c28ae144c2985f",
+   "enUrl": "b5ef718ae9b1e7801d4d3503c32f5386c20a66966aa566d2abc4e714667db146",
+   "krUrl": "1a68f6c949ea706c3705e6fd0f189322aa93cccd9885e2f5309cf935381d5e75"
   },
   {
    "id": 26,
    "title": "Added to Team With Bronya",
    "text": "What's the latest, Bronya? Remember to rest — don't go taking after me.",
    "unlockRequirement": "",
-   "cnUrl": "7cc4851f817bd93104e1e94ae36bdc6ef5927498b50b5cf0830ae3a5867675b8",
-   "jpUrl": "0692ec6c603eb6b8d383e0e5bee87a72fd39978bd1dc0f1ebba6dd73cbcf8890",
-   "enUrl": "1ba3e2cd5be089ed399d3529641068385931241af8e7cbc5d4cde95e23eeb5a9",
-   "krUrl": "5e258dcef2331ae44966c6db8f480ea8b266e5697ff37f1e79131417889b38a2"
+   "cnUrl": "db9475d34505dbe0ce99f47f45f4dd795fbeed39590594a1298a2ccddafd8d5d",
+   "jpUrl": "5bf1103d6c8498bd7fc1f4f4de893d22d3d34172e661d17869746f907a0813d5",
+   "enUrl": "86228db9d9e4f9c9a487cdcf52a02ac87e0bafbaae8a348bd3e6178480669cf7",
+   "krUrl": "84fb09136bab3bd775c6a93d05ea35c1d4784a979363901c7970180ab30888cf"
   },
   {
    "id": 27,
    "title": "Added to Team With Asta",
    "text": "Lady Asta! How's your mother been? We should hang out more!",
    "unlockRequirement": "",
-   "cnUrl": "13d109cc707b909b1ca6d33a2bb92a132c99bbbad178661edd019857249fdcef",
-   "jpUrl": "addf03ec06c76c442d186105d912db10f85de8e788822b0b2d3a3d4cf91abeb4",
-   "enUrl": "6226469d7d43580dd794551925cffa50b825f7bd9d1d710c83617b5fa1943b73",
-   "krUrl": "f6c0d7a060a17ef178b0527f63bfa13002a3308917c92886d963e2bb37f29f7a"
+   "cnUrl": "f73985639c9639cdef33e7f97e88f81f7686dfc675426249752a66b83e552ecf",
+   "jpUrl": "3bd58e162613a16157ec1e8b2038163efd52691e602edf3f6d5b9b533b6f57fc",
+   "enUrl": "833041b273303fb1e47a4de305e388be78d61bfd2e2ebbc67f1bc013e5400d2f",
+   "krUrl": "316a68a84fbee06537c2c66961f0c908e6c807f13e004b9e2b9e5c6ebe342480"
   },
   {
    "id": 28,
    "title": "Added to Team With Aventurine",
    "text": "Looks like we're working together on this one... I suppose an extra pair of eyes won't hurt.",
    "unlockRequirement": "",
-   "cnUrl": "0de4b67aa72ac475106c9424326a6fa4f8222bfb17fc13680ef0f4ed1cb42e4a",
-   "jpUrl": "a37736a2ec70865b6fe161cd2a61ca115041a4a2c68794ce2a8bc786bd984fdc",
-   "enUrl": "54d9b2b57dd2c10b33e023e956f8a471cf7dc67a793a4877f82c56703910fbfe",
-   "krUrl": "5ac098bc956c63aa1610ba6999ebd31200224867fb216841f80ab1252e01f06a"
+   "cnUrl": "b8d06751d32673083cbb11734b224c14b10be450c7e4bddd001cea13d6089463",
+   "jpUrl": "384bab2975842ff71b125f6672271324ae8c1d5200712ce5eebfd73a2d37ac98",
+   "enUrl": "f3fde46fe9636df28ba920976d5dcce5257b0599e7fc552d78f634e94d5c836b",
+   "krUrl": "a1eb4605725ab08dfead41c5e218f606c5724d53819367cedb38cdd2db03c20e"
+  },
+  {
+   "id": 29,
+   "title": "Added to Team With Jade",
+   "text": "Just leave this to me, Lady Jade.",
+   "unlockRequirement": "",
+   "cnUrl": "2740918621bba119ff8aa7ef760c110bf7c6607420914379c6889264172195b5",
+   "jpUrl": "89c93cf2ba290bb83af0d694c2ecc1f785010884bbbcd2b15882427e7dd3507d",
+   "enUrl": "46ea326118fdb8294da248fd45b4c95e15deb2e9998aaeb977d6b58a749de25a",
+   "krUrl": "bf41a14cddc5dd56c00276064ed9013d7e87200f379b8411424531da1258d420"
   },
   {
    "id": 51,
    "title": "Battle Begins: Weakness Break",
    "text": "It's a bull market.",
    "unlockRequirement": "",
-   "cnUrl": "e9b772b90b0096dc80cee867fe49025d7801bd90859b31b5c026a8644e8737d0",
-   "jpUrl": "7bd20935943548cc8bdc4da730c26d55ab46c2dcbb5dc5524f997b98ede5f368",
-   "enUrl": "f2084b78e0d6832683d374742c45972fc78221df5d899e6438e8387a129080b5",
-   "krUrl": "c2d32a16c95ce38a82a40b41ac9a0fec7ad98e9a3e7e5981df87b9417dec9f8c"
+   "cnUrl": "4678e0a0d2131486ae1289a730c0e5d2a348e39d498ed916f1f6c48732e89dd9",
+   "jpUrl": "a29c8d4609dd7f33877650248438e6f51cf1d7084587afad126b5d175a007734",
+   "enUrl": "bb8ce901ddc265c6685c3932eb6320353a3c54b3b1943a3ecfa967f893f10f5e",
+   "krUrl": "f6d57aced1333103f5c24656583a70f0ddf763b4b18e6c8f810793fbc67f6167"
   },
   {
    "id": 52,
    "title": "Battle Begins: Danger Alert",
    "text": "Gotta know the risks...",
    "unlockRequirement": "",
-   "cnUrl": "005b2f80c24144b55573afae8600a5adf786f80ac71ed49657366dd98af1f1dc",
-   "jpUrl": "cd783772fbd114a60ec1f445d6ad9e3cb30838bd86a6f8140ddbd668ddb52cf2",
-   "enUrl": "5464633ed6943bc5afd1d58e8b49b5c42a664ca5e559afa5b3103d7a3983163b",
-   "krUrl": "2b98291d89470932502039974508bc27103f3493af043c1ed3d3e4f0019800da"
+   "cnUrl": "dd369c5e16a5849ed5321f4a68071e79cfe57a252ecd92d65ae0552ff5ec4a39",
+   "jpUrl": "d1e733552cfb6d4b65581c54353bd99a27a778fecd01120a81a37b90a295050e",
+   "enUrl": "9798cf9941095b9878364d1a5b6dc867f3c01e0f0938722f0dc6e926933a5fb9",
+   "krUrl": "3e61dcb947b52457faa2f8aaf77d407eba77cc245635a0b321edb6a7dbe6cbc4"
   },
   {
    "id": 53,
    "title": "Turn Begins 1",
    "text": "Let the asset valuation begin.",
    "unlockRequirement": "",
-   "cnUrl": "44a23f7a2ad727bed74bec62383e29d1a9c21f930a113091e2da6aaa36e9c712",
-   "jpUrl": "7c09ee0eb260dff6ddd7b318336beeb53f14f1273fd00d29b071484426bc2c36",
-   "enUrl": "ff3b9f36874c3c24481bdb0c42cf8b20dcca8c0e8421146de9c019d62c1d878f",
-   "krUrl": "a6849c33ef42447eb2c5f3757946bcb88bf0426b238e40ee2ade4ff59991373d"
+   "cnUrl": "a240412e5e557ccc51221c0492527b817559dcc8c7154d57da6dfc9a8d2cf13a",
+   "jpUrl": "fc61233f9ab430c356bec3aaa8af36ca5c95002171596b10d0635c84f6d46807",
+   "enUrl": "28d436686b252c40c16f7f925b955b0c0824163f2cdf541e3bce58465890aff1",
+   "krUrl": "20ca2b3603ce4443865daa658b5387153fd545cf7cb9b043a614fe26b4a90c46"
   },
   {
    "id": 54,
    "title": "Turn Begins 2",
    "text": "Easy, Numby! Easy~",
    "unlockRequirement": "",
-   "cnUrl": "f9641cf10135d0a81b0a48e1bb5263d4337c7dc33958d288105c651065d8b5a3",
-   "jpUrl": "a968dbb81b78559f548bdae48d04433f324281c20f02a38017dc4dfa7816b02a",
-   "enUrl": "630e1c62d48c40244c14caa18ad526efe5acd170fe0ee1c220eb14689316253e",
-   "krUrl": "02a57c21ffb3092fd515c4809ff2ca54f203a2f116e492d8422f7f5590031c77"
+   "cnUrl": "cf68ed438d6146558b9bdcc18a049933b135f070e9003b92196e08f55e71b35d",
+   "jpUrl": "86fb2b9dfd3db6a4cc0898ae59f23a843c83eec9fd2c212d3e1d296eedd7acad",
+   "enUrl": "9b5449aeb2d8b189975005cb9bd48514111edcb36dcdd12e41d26da2c7c3bc06",
+   "krUrl": "c77697a699824fd8c82138bf5222f42ee4c48bca4e491ab62e8a190926b7d461"
   },
   {
    "id": 55,
    "title": "Turn Idling",
    "text": "The market always fluctuates. Whenever you're ready~",
    "unlockRequirement": "",
-   "cnUrl": "b7db8be65470a6a00b9d374810216e2a5fa7c8938b574c1a6cc6b212b5e2f202",
-   "jpUrl": "31b4da56dfc2822f199f968dca5a73d6c1975d0eb4dced179d074a9fc3df9120",
-   "enUrl": "4555be6ceef691a9690b5679484da2f005ca3ca674005b509b26d10778dc1d71",
-   "krUrl": "270f3df1e52f5ef0f7cc08dd97e5df6130bf81d0afc34be8d3fa7488e6721171"
+   "cnUrl": "069cc4a2781752098fb40ea8e8014242ba328f671d5b601cf6d25d8858e4836c",
+   "jpUrl": "cec930680c4671a7bab6d99f7ff6d7415cdf7c6ef6477024296c5a22a209ebbb",
+   "enUrl": "4a33b6e8878b70f6905cf4f82c404fce0c70be9e3468f60cd4517829915b05d2",
+   "krUrl": "4e436143a9e11ddde7acaead2a888eaa5e236b6ef07286ec80b40b1376790a39"
   },
   {
    "id": 56,
    "title": "Basic ATK",
    "text": "Still no repayments?",
    "unlockRequirement": "",
-   "cnUrl": "6e89dad58f4adff286a75b604839458ab5e4170bba4158df919f7ea9c0b449ad",
-   "jpUrl": "3dbfeca1b4da4afe0606b499aab0093376689f19525aae7e08dd52a6732fd7a5",
-   "enUrl": "43da50aa416ac30ef4140fc62e067be4c34326a7f793225da5bec3886674d1a9",
-   "krUrl": "8eb3d4d9876088dea447124b1a8d5256b6bd2eb8486b63baeecbe42c44105872"
+   "cnUrl": "e3574c3deaba7ebd9e69f1bbca27e48fd4e7f53f1a4a9638ab6d508f71fc281e",
+   "jpUrl": "2d30261942e7858d0298662c7ad5a3f5a87778619dc6a0cdda873a0267e4baee",
+   "enUrl": "56d7c9f3d3a21a937686f3eaa8e9c9b4710bf0a08b623c4cb428c95957041308",
+   "krUrl": "d1db32abba96b0d7b5ba38d2e594d3eb3b13176057be0c6717db7c4e63fded49"
   },
   {
    "id": 57,
    "title": "Skill 1",
    "text": "Smash them up, Numby!",
    "unlockRequirement": "",
-   "cnUrl": "09e2c887dcfffc58dcd3b90e8a32de1fdffc8a322e8d4b744dcf7bb5db49c3e0",
-   "jpUrl": "5fccc12776c96fe7a4d8fdd620eefb9a682f8bb40558c98d4ee2f4ac04666bbb",
-   "enUrl": "fc4320a966aa69935d6a437ec5acdb776668cef5112b9b070e80c9fd03c4d5ce",
-   "krUrl": "3bf794e2f84d38f770dcb28638a76f6a408394669b427b19dc11226d783fd402"
+   "cnUrl": "35465f952040c30cd1789bc6982e1154989ce4dd9ef4b5ffb6b1ede32b42c20a",
+   "jpUrl": "312369d256be9d6381883c3368267c9ef4d3565fe0b99ae77f799c38c0d5ed94",
+   "enUrl": "27e445598e373f97d543e99fd5ff650618f54f6b798adb2d08048849e9141776",
+   "krUrl": "b51f63ca5b0a1c944f1d705c64c7bc4ea878bc69b086bd429933fb7134311dc6"
   },
   {
    "id": 58,
    "title": "Skill 2",
    "text": "Liquidation!",
    "unlockRequirement": "",
-   "cnUrl": "4366ce82a39c759d7569209072d25cbe74c91bec8a965f58db5f2028cb4b3feb",
-   "jpUrl": "2b361777a77cc6f8b94abaa8843a6f99f26db64b4596fc16ab6ef34e4cad67ac",
-   "enUrl": "af98e3c6650121a3f7d726b86738737015ede7e34803b1972b345f826ed4c8da",
-   "krUrl": "d11961eb243e701426eb2c5321c827b0e5ce7d58e1bbe2076745adfd3f405a28"
+   "cnUrl": "3fcbd07a09c23565571a3b91c6d0c2964fa29f0234bbcdfb3e1a210fb57ce7ab",
+   "jpUrl": "d8425b828ea429b727108b25630ca99c68f6094de2491082985279079c45ed02",
+   "enUrl": "27f562adfab451cc0d3e440b06d2e2b4e480a66310d4521cb291fc4b3737d842",
+   "krUrl": "88810d0858e1d841aecaee923574e3599eeb305862d056381c2ea4864c9e9e40"
   },
   {
    "id": 59,
    "title": "Enhanced Skill 1",
    "text": "Don't forget the interest!",
    "unlockRequirement": "",
-   "cnUrl": "65c17d473507e0b148eab099badb788dca48390468e3539ca05c3a2ab66bdad0",
-   "jpUrl": "8ef883979db08ae09b7c55680c344276054ed0282b5ca9a437ca133871fe4d18",
-   "enUrl": "f7ac4047a6a1c6fc3f1565f82034997ee5fdaf0c7cb76d8195e0f9630351e583",
-   "krUrl": "19cc20fb79a0031dc22a95e3562bcce52274934169f78d76fcdf95cc56fddded"
+   "cnUrl": "3859c017e25c1c844013bf1ddb1287cf80138b63b957f9b68c62ff170f08ced8",
+   "jpUrl": "cf069aefd39180996b9b0b011980ea8494b52f96fbd970760f0cc083a82862f4",
+   "enUrl": "5fc24669ce4dbaf91fb5e609514ca2bc87eb43654c62c804bda8bca38c7b4992",
+   "krUrl": "c02b405d1f93f7ebff6e550326d8b7bbed5324c701215c57a7b9858d4c82b84d"
   },
   {
    "id": 60,
    "title": "Enhanced Skill 2",
    "text": "Assets confiscated!",
    "unlockRequirement": "",
-   "cnUrl": "66bfd6d652843284441dcfe19e57c32fcb40cab9a07bdbeac01668d8f03677fa",
-   "jpUrl": "aac583bd5d19c73c95d6ce8803edc28943ff51c669da01d615f7a7b9c909ed70",
-   "enUrl": "1f5132dc1f589b75e088c120b099b8b7495c1872ae84492f46d3ebb58bc4a66b",
-   "krUrl": "623af4290b1fcf7c2d0757fedb97b3bdcc7e74bd2c1c2ecf6281b14db23b3677"
+   "cnUrl": "e1f73147f581a86118c1a456aafe96b6520b350649528ed7c689f9fde4218376",
+   "jpUrl": "a7a660e1600f051d56702735093f55121e6761330bd6616a11f3c99bdff49e52",
+   "enUrl": "3a6aefa1688c5cc09e8a89d632bd47c0480f7a06ddeebe59c4e263e4764a226e",
+   "krUrl": "4faaaef9a9524e74b098724d8e62c1c7e7e24edd04748583551681e78414acdd"
   },
   {
    "id": 61,
    "title": "Hit by Light Attack",
    "text": "Steady...",
    "unlockRequirement": "",
-   "cnUrl": "3f89efbb32a0d57bc4f4fbbb71d78d4adf38964cd7c41b8c4bbf34a93f8f10fb",
-   "jpUrl": "32ca9a4ab2d5148f2801990da2736b80a3d97233a3dfa7fefd32f7c14466f73e",
-   "enUrl": "9c3f7a6369855c77cb1c2174de80b7bf3ad132e46744ada8e407e2cd1e08bf6d",
-   "krUrl": "9d09fb0f456dcd570a85045f6d724a0ffd763f71110e5da4e2ab3f50db2128a7"
+   "cnUrl": "6501d3cd60e684d567b77c14a2efbbede00f1da677a7b09721a6f9adebd83b6f",
+   "jpUrl": "a5be3a3b4cfce177f2c31a6a66e8901cd4a800658e2db16aab2d5b0411d1b34b",
+   "enUrl": "709a5b192f7d4cedc7773c2a2a9aa18e0b15e9a3946dbcfac63d7814a80b0e20",
+   "krUrl": "93e9e88334cda1663c7424370416be9c9c14abceb8ebf8758ccd3f95447a294d"
   },
   {
    "id": 62,
    "title": "Hit by Heavy Attack",
    "text": "Better cut our losses...",
    "unlockRequirement": "",
-   "cnUrl": "91aa089d3a3649d45f61abf86aa2d4ca0ed2543c551d52fa8bc4e92d2ecfbdba",
-   "jpUrl": "6c5d6521b8c5555faba33797195746fbb04fb682a3ba0546c850ea14b52ecec0",
-   "enUrl": "291c4ed5a177e15491c339ef733bef7ec45a871f1a8839dcc9715c238e28789e",
-   "krUrl": "5466e0f25321cf88cd3fd2984de232f6c2765f9853075d952c1e4f2410a7c03d"
+   "cnUrl": "4c41ae3b86bab19e1c552479f0e0ba885bd33de1d35a36a0d0df5174927da2eb",
+   "jpUrl": "8c333962f5373c65b33b339fc3b0c4823c3891f2c95ba1439e97eec7ebc072bf",
+   "enUrl": "2ad1ba704c11cfacfaa1dfaa99415c57555426a64c90e562a2beba780e3905b3",
+   "krUrl": "dfc09f0acff8ff9c63dd028f9dc5c1a72c6ddf80f552e75adbe31efa39ee1cb9"
   },
   {
    "id": 63,
    "title": "Ultimate: Activate",
    "text": "The market is unpredictable...",
    "unlockRequirement": "",
-   "cnUrl": "1c06236dd35468de2c1ca7ea2019a31034694318afbb75ce24595e1d44d48ac9",
-   "jpUrl": "83c7a5d495f5a5ad4d82291ad1e8793b8d32f1964c033eeb65eff33850685649",
-   "enUrl": "5a16cf642cd0bce34de490f7b715cba149fbfb8b4a6177d88398fb4fb9ba4649",
-   "krUrl": "c23bac42282afa28d193c3a2cf8fdabc197a76f6e62aca1d425b046262b81d2d"
+   "cnUrl": "76c87761a1adb67e33a79ee3084f7e57e0607858487ad1b0d9dd11120fe5048c",
+   "jpUrl": "e277487e4926f4514c3809f639639979fc0c85286d9b9e7ebac80dd2249668a3",
+   "enUrl": "203ff6bf225fad9cc75ff1019e094508afdd138bddc6caed2657b2c652dfa350",
+   "krUrl": "297c731e2e28c76f6e038a7f95dbb8b4a45033cd74d0b2b9e36ccef4ed092e3f"
   },
   {
    "id": 64,
    "title": "Ultimate: Unleash",
    "text": "Huh? Right! Investing in victory... means playing the long game!",
    "unlockRequirement": "",
-   "cnUrl": "0a1d962991b4185122759880e3f74dceeb6636397455f85947897d7e9647419e",
-   "jpUrl": "fbca0d1fcfe56dfe48d5e035632c98f2fe230005b7662892ebed4543702207b1",
-   "enUrl": "59b1438af3143f7429df640a7861d197fecb6aa3abf2dcbe98d115df0543dbe0",
-   "krUrl": "590832198da4cf7cc07a71ffc751b2b3e650422f42c2f2b5bdb71f9e5b3815f7"
+   "cnUrl": "f4252f280a6d86a7c2184ea4c628fa2682c7448fafe1b3451c965692deeae6ed",
+   "jpUrl": "b36b5c9ed2809e5c1ca479fddcc3b41531b78c10a512b4a75f11739b00be8cdc",
+   "enUrl": "1aa1eec8de583036012533c83feea27437dfdcaa2bc9f94154a8d55047b01745",
+   "krUrl": "2528706befde31c87142d2d7e8ac63b49f447c68d95e9edb44138b2089895cfd"
   },
   {
    "id": 65,
    "title": "Downed",
    "text": "Didn't file... leave application...",
    "unlockRequirement": "",
-   "cnUrl": "c69db5d97a1818ddb2a5eedf988456182ff9cb1bd0554cc8ce1a4414fb50c337",
-   "jpUrl": "ff07c4fbcec249c698798fbad9ed6e046fe9847594e8b43c1b7d826cf48c495d",
-   "enUrl": "aeb109da2d8aa94ae3236439eaa8e6b83ef2d3aed3414e0cc68447fb5a67b053",
-   "krUrl": "49899af15317040490ae4b9cdfe3c319019d765f821e3e0d26d091e781865b87"
+   "cnUrl": "3d9403291fbc753bc5457613fdfe29b4534ef89621f348ff986d51e46e1f671a",
+   "jpUrl": "e799fcf1962e16e7913d4bbd7e2de238c1d1d2c86c5f38980fa9c58412352a1a",
+   "enUrl": "2e6d8edd3efd460379ed9f7ad60d381f2d0fa70bf5809f7c009b6c31237621e1",
+   "krUrl": "de695cebba25d66a219a7aa510f84597cd228ecca163f6ba43ca0e726f1f965e"
   },
   {
    "id": 66,
    "title": "Return to Battle",
    "text": "*yawn* ...Time for overtime.",
    "unlockRequirement": "",
-   "cnUrl": "640980209183dcb13e1301b82d51461eed03c3729f7cbf35fcdda8a13ec3c872",
-   "jpUrl": "2b2769685ae0534f94a93b9f7b4e9ef4c6c235a0838de04334833f026e5d0096",
-   "enUrl": "6720ddfbb71697ed18a75858973a67ef1b5a0a9cd62cefd39cbaeb8f0ff69822",
-   "krUrl": "4a4bd293262827315f8eeb8b6c6a8b28122d4b66e217757236464717ffc7cb89"
+   "cnUrl": "ac0e3f83ab020d4e3724bc258430831d6cc38d002418c011470e84cf70ef6ffc",
+   "jpUrl": "82e9f3ea2952de4245cd45a4f11867b508fa148e5a3da8bb1bdc95435ae31cb5",
+   "enUrl": "dab6ebc7012e676f7daeea01bcf5c182ea77c161e0e5030728bdf1e617933b10",
+   "krUrl": "0a6757151b87aeecbb65ebee9ac69c196bbf698615b15c0a2184a8e16531ca61"
   },
   {
    "id": 67,
    "title": "Health Recovery",
    "text": "Pretty good perks~",
    "unlockRequirement": "",
-   "cnUrl": "a94a79dbaba2ec993cfd112011af5758ce6d464d8f7730338cfb8ef7d3878bad",
-   "jpUrl": "326c84af9ec3a9b905bb61149c5ea21cee4b3999381447848b63844ea165bc49",
-   "enUrl": "65a9d1ebb609441c993967bed8a18d921ec0c133e0672e5f4864bf8869c446c6",
-   "krUrl": "dc9e8a5b83ebe80d954269870fca20d9d97fa2a2272d6cf85c9b022cf474c472"
+   "cnUrl": "ec5f7f3a007223569508fe2a092fc55eb604bf8117bea91b7922c5ccaf5d75ad",
+   "jpUrl": "4c2f3af9c94c4bd87aba3d0c39fa5c8153b2a0cf9df6c0b605ee1a9c55ea9816",
+   "enUrl": "23bc8d116a8e352f4b956e6e06ab5273088f2553b02a94093809f1f4c3e19cb8",
+   "krUrl": "25f50907541796e0e50770ad412ac97896baadfab4dc293e97ddb25f3dcff7d7"
   },
   {
    "id": 68,
    "title": "Battle Won",
    "text": "Project wrapped!",
    "unlockRequirement": "",
-   "cnUrl": "ae94d734506668faa78ef67217aafb61d2a58de025e35081d7638baf4686a211",
-   "jpUrl": "3b87b78a901dace6032779fc25ee7035a1d4d646c4b9e0fba6ea188003392d4c",
-   "enUrl": "5102b9e04faca6d79f5694b0db973533b0ff113a85b4e6ea073df19821e8d743",
-   "krUrl": "88e3b5d5de3194b586f5757412f9f830fd416f1f08181b51d565ab13b27e4f89"
+   "cnUrl": "6373e54ee731c4aeac35fac72c9e5beb6fdc79fff8c6f84628948b8ada0ba83b",
+   "jpUrl": "4741fdd41f139e2d2c67f7c99858f46950769c53c7dd2c2fc94ab500e90b2865",
+   "enUrl": "a809a2c361f42864806c1c771057424d54673267ddc7facf3c84841f5e765206",
+   "krUrl": "97b393fdba31bdea22697293ef699f835ef1ce9aa3441471fe42172b499decaa"
   },
   {
    "id": 69,
    "title": "Treasure Opening 1",
    "text": "Hard work pays off~",
    "unlockRequirement": "",
-   "cnUrl": "9215327dd32a0ddbe2860ed9407bd84dff1c1578c0168f9fc1e9bc939f9f88c8",
-   "jpUrl": "0e455ffcb3821a82a360f74a4891cab0bba01c8093b9eccd3a0080c146944ecb",
-   "enUrl": "45b4d0de0e18d06d1fd2d88456a6c2f5373fd0acc48439ae705197f6c1779d5e",
-   "krUrl": "d73c04eb2eeb7e6c9c5b7489fa267d2593515a0763d9b8490b2c04da6458c802"
+   "cnUrl": "238aeec94c431181c171f0d73982a9fef976d5db07226b6db348fa9d8078a39c",
+   "jpUrl": "cb789a939c018a8d80f909641f38123d4e10300f98d26d128b934eda5e7c74cd",
+   "enUrl": "bc722437a591da748a0b318c19b8f6e3ea640a5343426fb8e973270bd9086090",
+   "krUrl": "72ddb10b97d4b4d712cfa5edb1ccae11f42748217988407cc97c8a2cf10ae5d0"
   },
   {
    "id": 70,
    "title": "Treasure Opening 2",
    "text": "Ooh, free stuff!",
    "unlockRequirement": "",
-   "cnUrl": "2ea97323e4603f1dce6134f63c9818e362b53f6343f37a24db8110ef40b82b1d",
-   "jpUrl": "04de53b9823dfe66e89c158132bd069bde119591640b09c850faf31b22710860",
-   "enUrl": "9b8d604760b59de975827dc86933f567f7a3863eccca0fe451bd7f11c3a11ffd",
-   "krUrl": "edb1ffddebc5762a3305f29b19d03ff97a722f6de1da85d03392a531e02e012c"
+   "cnUrl": "74b0b395e2546665dff89ed6c45ca20db3f2bc94b67476578b353699419d11f8",
+   "jpUrl": "7e4e84492318d22990b60fbab54596c417f3a678e033c229d8e367430c38550e",
+   "enUrl": "080cf799d11d8634cf023789e900d9e1d0252fb8845669c59c5ac3b650a87e62",
+   "krUrl": "af28c802c03429c3944235fc121463ee1e544c442a7286b36b237d555e824c55"
   },
   {
    "id": 71,
    "title": "Precious Treasure Opening",
    "text": "A little extra for the quarterly bonus⁓",
    "unlockRequirement": "",
-   "cnUrl": "98b4412084c7bb25ee0b200fdbe7f43004e1e71afa85bcbd18236eafbf991dca",
-   "jpUrl": "b46244bee9475c599492a794f958e4d28c7f88a770bcd9a467e40954b67005bf",
-   "enUrl": "4bac9071c60df1a022acdccf812a935d7ae3edfc35222d2d307f76dd3d397355",
-   "krUrl": "e8ef7dafecb4ffbba84bd56fd378d8178ea519db4bc7cab362ee0ad05fcaaa17"
+   "cnUrl": "8a49fcc727318ee050738bb1c09626995f9ef6a9347d45e8bf82423cc6f503d7",
+   "jpUrl": "721f173bc2f96eb4f71d0b986377c678b9a3db012836fdb31b272845bd0d46c4",
+   "enUrl": "db6c56d84bc58877360538c50c08399340bfc280532145de6f10d8d8893dd4cc",
+   "krUrl": "4b40d32924fd6bffef55166aa1e247e1375c4499500bb42fa1dc7a491c37c80d"
   },
   {
    "id": 72,
    "title": "Successful Puzzle-Solving 1",
    "text": "Just a little test.",
    "unlockRequirement": "",
-   "cnUrl": "9e9da04794ab8df2270fb0822e93050089fbc879c1cddf49e16033042917027f",
-   "jpUrl": "10d7577269a9989910df95b6de18e39671218316a1c0e6ce3178c109709f24b2",
-   "enUrl": "b95c0a8fae320853043249187be041d40c2a04677f429ee0e757970a369e6383",
-   "krUrl": "e4b55351e0f07994c70f17306208056daabd8470d626e77b1d0e15842a92e693"
+   "cnUrl": "2f4f64a838d3c19137ef3b50d93e11291b11671ad9d3ef66cd60d4bcb64f5903",
+   "jpUrl": "8453a1490b4ad57d4867ee225775370aaf79938377246904113132f7e0e3a447",
+   "enUrl": "da8a352351d0358fd8356d620d49d3b134f000b5447c0bca9b33b84d4af432e9",
+   "krUrl": "4eb9c1fd51e3a889158da9d246980c57e2096d620ad79121d64f37d0a1fdde7f"
   },
   {
    "id": 73,
    "title": "Successful Puzzle-Solving 2",
    "text": "Another project over the finish line!",
    "unlockRequirement": "",
-   "cnUrl": "1e70dbb298735ee131eee77152a5240117c43f757a3720013f8902adf7d8f795",
-   "jpUrl": "e1716a0a98b02dacba4ed7eac1003ed9ca23e0fb7a89c79762b016bb40d7f230",
-   "enUrl": "8035674ae80645cf47b7cc6daaaa6f81df06a83d6da5802c3fd82fa431b9083b",
-   "krUrl": "f866487f620ef5c86e470289a452724ff3fb641dea5edc5cf06cc4e901534cb7"
+   "cnUrl": "61d61c40f90c083b284ea5bf4350d30dda8dc4fe6c85a593959e0feecfc0002f",
+   "jpUrl": "3820e19aac8aaa5a8fefe63d1de65c97d480170b9c86a121dfcb573461a5cde0",
+   "enUrl": "04925166dc32089f31a316906fb61dfc97eab29468740a5e18f8bf69ce2712a8",
+   "krUrl": "08efc361cb5f9e88a8449b648a59cb589bea501f70568d5883bd01742ae2b325"
   },
   {
    "id": 74,
    "title": "Enemy Target Found",
    "text": "Hey, you! Time to check your books.",
    "unlockRequirement": "",
-   "cnUrl": "1793eaac11e62a26d3abfa0977a43da09deb5ea96fa214cfcf723f9eece6e6bd",
-   "jpUrl": "990e7f8b631bfb6f650fe7a66fdb5e75842b9d4f43f18b63155e83bd51ea76de",
-   "enUrl": "d864eca7a741508579a4c83a8103efbceeb8aac4d758632290e3ae053a0702f2",
-   "krUrl": "73255b9a8e9a3fd0a32dc49fbb5e0ea69b328d0109de6df723e1a06c939904ab"
+   "cnUrl": "0fdc121f929997f69dc36b5906b651640bbf647cfd853c6594a6a6817266d185",
+   "jpUrl": "0c721174b490e5fe7c0a9dbda6f81b4b5e0ece47919ab3e2bb0f7f4701a14cda",
+   "enUrl": "a899b7110ba1a0aae6399c17e7d035990c8e97726a824545bd8f9e6be3bf43bb",
+   "krUrl": "0320e2a467c98dd09f1d4c640f17f04c216a692819d7d11f1fb3936dbb340cde"
   },
   {
    "id": 75,
    "title": "Returning to Town",
    "text": "Time for a break. Silent mode activated!",
    "unlockRequirement": "",
-   "cnUrl": "b0376a365c54096d092e4b80018d4c908560ad688457c45c05193c73ade3754c",
-   "jpUrl": "6ff0f99fec3c87679dd071d0fae711aa6bf05ae4642056bb154f58ef1cab80d6",
-   "enUrl": "0f463cad4a8e87f0ec46cdd2f9051f1e2baff1cac6d2092709ab200743af129a",
-   "krUrl": "625bf7f97661676367e9abc53ac33c95aca6419650f0116c08075b7e7084b71f"
+   "cnUrl": "866706cf6882f7a633048d1e4b3f67657a26147eb4854979b0f1f9d3e124b580",
+   "jpUrl": "819a43c0db6b60191aaf3ccff8093fa2193c7551ea4ece9fef5574c5fb2a7fec",
+   "enUrl": "45c2404480ce7c50d3407766fd4caee87b66bd256284d525b270483d2a751f89",
+   "krUrl": "6a87005ba906359191cab924ffdec99901b9559d4accaa28a6814522118ca9f3"
   }
  ],
  "storyItems": [
   {
    "title": "Character Details",
-   "text": "Topaz, Senior Manager of the Strategic Investment Department in the Interastral Peace Corporation, and leader of the Special Debts Picket Team.<br />Already a member of the \"Ten Stonehearts\" at a young age, Topaz's core stone is the \"topaz of debt retrieval.\"<br />Her partner, the Warp Trotter \"Numby,\" is also capable of acutely perceiving where riches are located. It can even perform jobs involving security, debt collection, and actuarial sciences.<br />Presently they are traversing the cosmos together, chasing down various debts and liabilities that negatively influence the IPC's commercial ventures.",
+   "text": "Topaz, Senior Manager of the Strategic Investment Department in the Interastral Peace Corporation, and leader of the Special Debts Picket Team.<br />Already a member of the \"Ten Stonehearts\" at a young age, Topaz's Cornerstone is the \"topaz of debt retrieval.\"<br />Her partner, the Warp Trotter \"Numby,\" is also capable of acutely perceiving where riches are located. It can even perform jobs involving security, debt collection, and actuarial sciences.<br />Presently they are traversing the cosmos together, chasing down various debts and liabilities that negatively influence the IPC's commercial ventures.",
    "unlockRequirement": ""
   },
   {
@@ -2768,19 +2792,19 @@
  "name": "Topaz & Numby",
  "rarity": 5,
  "descHash": "Topaz is the Leader of the Special Debts Picket Team and high-level manager of the Strategic Investment Department under the Interastral Peace Corporation. A member of the \"Ten Stonehearts\" at a young age, Topaz's foundational expertise is \"debt retrieval.\" Her partner, the Warp Trotter \"Numby,\" is also capable of keenly perceiving where \"riches\" are located, ensuring that jobs based in security, debt collection, and actuarial varieties are of no great challenge. At presently they are traveling the cosmos together, seeking all manner of liability disputes that might be affecting the stable progression of the IPC's businesses.",
- "artPath": "fd0883162e340d4cf565c933a4ee63b8f64b3c8bf39182d81bbfe7af0d3a14e3",
- "miniIconPath": "1dc2e5d7dd4720deeb42759eeeb6345c633ff38edea3480b9ffe0829aacc3969",
+ "artPath": "11493f6a16dcd2c155b51288371e9121feec39b3ab02696aa8d3780340f64d72",
+ "miniIconPath": "f9dd8cd6b61604f04c6932c8cf23956469a14e7b1b3c134cf5b7994795ae3c26",
  "damageType": {
   "id": 2,
-  "iconPath": "bd8329d02d7ecfee2a1f565e89cf3bf7bf6aaa60bea29cec2b4f7192626a0311",
+  "iconPath": "3db4afd1325bfbc8556d408d0a891e86c7aa6c578b5930e059ac9289401312ca",
   "color": "#F84F36",
   "name": "Fire",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
-  "altIconPath": "38241d858c120d8a55f36eaab92a34690a7d9add4f3e36383dabf27f5d3f5f55",
+  "iconPath": "d5302975290739e51dc53d919353f47705d836fa6db628c190b1faaf195f7319",
+  "altIconPath": "6faec7d864802e7fc24e83f1693163123b6cdc30f70c445dcfec5c3f71a09854",
   "color": "#FFFFFF",
   "name": "The Hunt",
   "rarity": 0

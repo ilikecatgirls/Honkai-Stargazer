@@ -2,16 +2,17 @@
  "name": "Traversée impossible",
  "rarity": 5,
  "descHash": "Il se rendait là chaque année, apportant à chaque fois de nouvelles épées.<br />Il avait vu tous leurs propriétaires rendre leur dernier souffle.<br />À chaque fois qu'il partait, il se demandait avec tristesse... <br /><br />Quand sa propre épée serait apportée ici ?",
- "iconPath": "da1b247f26459b4748098f3545b775730a55723eb30b29dc01fccb68c5b21d63",
- "artPath": "9b3226dfcad789e505887e9138b44bcc065c2f44a03691bdcbdd975971f6221c",
+ "iconPath": "3e8626578d6f74367a368f2497e3272a4eb5337f2376bbc7b82c16ce5867f1eb",
+ "artPath": "861be4b15226912924c3375861505e0ae3cdf0a8f4d2ac9e080acaaed9691e38",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRsgBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSAoAAAABB1D/iAhERP8DVlA4IJgBAABwCACdASoUABwAPm0wk0ckIqGhKAqogA2JQBOmXG9N0GcnjgbYDno9NV3mJvuXwC6Ks6Uz09C5BQldOSjGzpuZ+DCXXh07LVTikNcAAP77IbkQy86jVz7bbMj+po65KMn7szguNDfsKWW0G7g0qUEuudGomFi+N8BEBzztFdo2IAlF3dEl4U9IlzYdp+zs68NOf6NNttIHT/DKDx7WfoYwnNCCaUhFjd7oBdqUZ6Zolyg66/Ad0LV0N3bsgmt/RHu05rdGNH8m28CQa/W7gd55+FDBjFebdFon5Pg4Q/LnZNTf8R/2xMiFVTnW/1g9A1pcDIEUvTtQ/eT9qNEtZt/oQjRlEHglIEd9pPM9c/46AigtYfxEZONNCyLPQ/oN6pt2eXF4B5tTrzBRkh0URWVwybo4v900fPievyLzbAdMlvbGwzeVEZZ8RELk2hJZA6X251WeQa8kpfn2YP2ereUEJEiF0k8EewXXmTKXHnE9u/uyyP9MooFyCIvl8yS1WuX9R/USJ3880BhCFJ5+5xgINWURhm1UAAA=",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "f8bdda8566eebdf99c244bf193c8484f9d6255dd40af19ed27ffdc1f7ad8bd10",
+ "mediumIconPath": "93ec70dbd086c8502546f4b8d2031744b4b16773ac83e98dc8695cd9823503bb",
  "baseType": {
   "id": 0,
-  "iconPath": "673136d8ba64c836e77a0084380bccea317250a93f866ddfcb0d64682b543970",
+  "iconPath": "e2b380aede0faa68b817597cd40abe7dd90c14a08c11f2b65fd7b56d9fa8212d",
   "color": "#FFFFFF",
   "name": "La Destruction",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549504": {
    "id": 549504,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "71d58f084522c87e93327e3e7fc1db8fb4abb65e9989b163d4a348c9a3761329",
+   "iconPath": "6c179a11ddab366162a8539ea956319bacacb460c375d4b3d7f4ab3637918e75",
    "name": "Jeune pousse immortelle",
    "desc": "Jeune pousse ayant bourgeonné à partir d'une ancienne construction divine. Matériau commun utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Il y a de très nombreuses années, le désir orgueilleux et démesuré d'un souverain pour l'immortalité a mené la flotte de Xianzhou à lever les voiles en direction de la mer cosmique pour y rechercher des remèdes divins.<br /><br />« Nous voulons vivre jusqu'à des temps sans fin et maintenir notre empire pour l'éternité. Malheureusement, la vie humaine prend toujours fin, et les capacités humaines ont leurs limites. Par conséquent, nous avons envoyé neuf Navium Astriger pour naviguer au-delà du ciel, à la recherche des recettes divines de l'immortalité. »",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549504",
    "comeFrom": [
     "Abominations de l'Abondance",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 633445,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fc1f8e93b552510a719e96df3c4e48ace4f905d262668303315d785b951a7c04",
+   "iconPath": "d1124c0146a84ca0b7fea540fdaf95e66dc3e8f128ec5a9f9250b388c8183db8",
    "name": "Aérofleur immortelle",
    "desc": "Nouvelle fleur ayant éclos à partir d'une ancienne construction divine. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Après d'innombrables tentatives, la flotte à la recherche du remède de l'immortalité était capable de contempler le visage de l'être divin. La divinité envoya ses bénédictions sous une forme matérielle, et l'Arbre d'ambroisie étendit ses feuilles.<br /><br />« De nouveaux bourgeons descendirent sur la lune, où des fleurs divines se mirent à pousser entre les nuages. Le temps de la floraison, le vieux bois retrouva sa jeunesse. »",
@@ -72,6 +74,7 @@
    "comeFrom": [
     "Abominations de l'Abondance au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -80,7 +83,7 @@
    "id": 635673,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "9fe7d5d3bec56787a53e9acfa89161bc0599ba7b6a3a0d95eb60863ff6dcd006",
+   "iconPath": "c34484b3ccf3e5f1f4113e3c24d465e8d93dd5fcb95446241a8c08d6f65a0d27",
    "name": "Lame brisée",
    "desc": "Fragments d'arme abandonnés par les membres de la Légion d'antimatière. Permet d'améliorer légèrement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Destruction</span>.",
    "lore": "Cette marque représente leur rang et leurs accomplissements au nom de la Destruction.<br />Le maître de cette arme incendie des villes sur le dos de son cheval écarlate. Son but est d'arracher la paix à l'humanité et de faire tomber les nations une à une.<br /><br />« Le porteur de cette marque est chargé de détruire la paix des nations .»",
@@ -89,7 +92,7 @@
    "rewardPath": "/material/635673",
    "comeFrom": [
     "Calice de la Zone de stockage",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -97,7 +100,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -115,7 +118,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -126,14 +129,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -151,7 +154,7 @@
    "id": 717386,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5708b196a8af89740ced588d98dc414c791d209879957fb0bc8644cc2dc84adb",
+   "iconPath": "fd7a32682f691044c47ac3a898e66880b2f442ae41c7264f87c4101558550161",
    "name": "Branche-lumière immortelle",
    "desc": "Branche à feuilles caduques provenant d'une ancienne construction divine. Matériau avancé utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Après les Trois Souffrances, Xianzhou a été en proie à la dévastation. Les Homo celestinae se sont retrouvés au rang de démons, et les catastrophes se sont enchaînées sans discontinuer.<br /><br />« En vertu du décret de la Commission des dix seigneurs, quiconque sur le point d'être frappé par le mara sera saisi par les juges infernaux et envoyé à la Prison des enchaînés. »",
@@ -161,6 +164,7 @@
    "comeFrom": [
     "Abominations de l'Abondance au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -169,7 +173,7 @@
    "id": 836259,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "d9e262af4f143c0b58be9d20f5c04e04a252fb8f05eb675c0996f5b1bc8f6ad5",
+   "iconPath": "da98edf78f23a9c80090c50d9633d6cdf6d43fb74d873ffa5f791126205599d4",
    "name": "Lame briseuse de monde",
    "desc": "Arme cassée laissée à l'abandon par les membres de la Légion d'antimatière. Permet d'améliorer considérablement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Destruction</span>.",
    "lore": "Cette arme représente le rang et les succès accomplis par son propriétaire au nom de la Destruction.<br />Le maître de cette arme est celui qui arrive à la fin de la guerre pour en raviver les braises et consumer le monde. Quelles que soient les gloires du passé ou les bénédictions accordées par les dieux, cette planète est condamnée à redevenir poussière et à s'éteindre dans les profondeurs du ciel étoilé.<br /><br />Le porteur de cette marque a la charge de purifier le monde.",
@@ -186,7 +190,7 @@
    "id": 920200,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e8f74ef086a603eed69945d0872fbbc9776145890808104be58b4d30dca2d7a",
+   "iconPath": "31324efb8271c657d2271c0c656cf3c265165e1b1de5ab0a1355397703472c11",
    "name": "Lame sans vie",
    "desc": "Fragments d'arme abandonnés par les membres de la Légion d'antimatière. Permet d'améliorer modérément les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Destruction</span>.",
    "lore": "Cette marque représente leur rang et leurs accomplissements au nom de la Destruction.<br />Le maître de cette arme voue une haine féroce à tous les êtres doués de sensibilité. Il se délecte des lamentations des êtres intelligents comme de douces mélodies, et renverse des civilisations millénaires en un clin d'œil.<br /><br />« Le porteur de cette marque a pour mission de couper le souffle des vivants. »",
@@ -196,7 +200,7 @@
    "comeFrom": [
     "Calice de la Zone de stockage",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }
@@ -357,7 +361,7 @@
  "skill": {
   "id": 23009,
   "name": "Envie inassouvie",
-  "descHash": "Augmente les chances de coup critique du porteur de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> et ses PV max de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>. Ses DGT augmentent de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> lorsqu'il est attaqué ou qu'il consomme ses propres PV. Cet effet disparaît lorsque le porteur lance une attaque.",
+  "descHash": "Augmente les chances de coup critique du porteur de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> et ses PV max de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>. Ses DGT augmentent de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> lorsqu'il est attaqué ou qu'il consomme ses propres PV. Cet effet est supprimé lorsque le porteur lance une attaque.",
   "levelData": [
    {
     "params": [

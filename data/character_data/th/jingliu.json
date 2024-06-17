@@ -1,19 +1,20 @@
 {
  "spRequirement": 140,
- "iconPath": "51cc49dbb291bf3a5bef5150aa947537d6f4131aa2cb8bb3d92ef095f87ea96b",
- "bgPath": "a7191010bd8136be57b078a26d4b3609c2c1297aca723f3571455ccf0f764d21",
- "figPath": "d7480be9c954053e8585184a2a6b306880fe050312cdb80e9ecbb9589442cf46",
+ "iconPath": "4aa619c97873e26c27d6e38d18940d531cd557f9d83586d7255c67da3453a3b3",
+ "bgPath": "08686ffe3ffc546859f4cfe1d681517731a699aa21e7457721906b2245a81296",
+ "figPath": "2ac5fd19a2aa07a920c286968e6ad06eac5c93394de35481a116888b2ea9c431",
  "fgPath": "",
- "splashIconPath": "b3a37ce4fe6eb7ddd0290129114072567e4335d7ce861be70ca70ded8a2f13b6",
+ "splashIconPath": "7aa1d27423b69dac6ef49c14bf55c7615f50dae7576dff23dc74ea091230033b",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRmACAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSOwAAAABkGPbtmlb89m2bduZFdmogL/9f2RFP7Pt1LaR2+bZmI+7DBExAZjZxie9IKfGB4bBvdtuf7Wk4IMB52ivGewLm15wuiLvnQqDDWADeByk0FprKcgK2MEGcNxJqWcWXA0bW3g5YB/FLJKPgwFsuHHlC/Xs6mg7Ai+RpDYUXIYFFEJqs+OIv2RRG5O6HIP/zfjtJYecblAaKY6fHUr7Q20s+basPk5TGvHfu1XAIlKZWNzs7wBUfqYy6oGtDdJe8p8QllBaCYuPbQDAf8t/Gt5NhS2mZ8zfumXp5gvfP51rBmww3RYzuiT6A7AFAFZQOCBOAQAA8AYAnQEqFAAUAD5tMJFGpCMhoSgNUIANiWwAnTLVPR+zRIDbAc+BZKpELBex8QQw+grwhauVdvBqr5nvbY0LgAD+9uDoiGEeBF/aWQ+z3we/4jFLKKF6pVf/OdSbJvkYOXI6PIY8BD2X5tB0XbJCRJDBv3Kc4c9pAkBiPf7tNImdhnWDuZFopfGaAqtUow4HBwOCqOcTlSdfe0Hyj/OMXZlBLQ4bs3NE6dQlqHIH+3JbEkM9VrmtyUocyFZI1fQeT2O2+DArHvU+JbQ/e6K3fppAXzztwmwMx8bh31vpMFoaThH4aFE+sPzrzO2oZijTG9Ztf3f8fzqf5u73e0f8FRfzZZfGV0W93hzQ4y2mZ6CgfDiYALnUxLea2IOvdTPi6jfEQWIcfq/D0MMpwo8a1b0DhRVz53QqZdqbfW8g6alF/lLlTb8YFGmXDgAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 1,
-  "iconPath": "db6e0535800ce9a3dd926342c0481644831ce68b6b6add1f64a6a7fd01922095",
+  "iconPath": "9f28432ac8546f6dd782b5076a5d15201c1906c11fdeaabe48bc845302e47cfa",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "เครดิต",
    "desc": "สกุลเงินที่องค์กรสันติภาพแห่งดวงดาวใช้ในการชำระบัญชีแก่ลูกค้า ซึ่งปัจจุบันได้กลายเป็นสกุลเงินหลัก ที่ใช้กันอย่างแพร่หลายสำหรับการเดินทางในอวกาศ",
    "lore": "\"ผู้คนดิ้นรน ต่อสู้ และแลกเปลี่ยนเพื่อตัวเลขที่แสดงในเทอร์มินัล แต่สิ่งล้ำค่าที่แท้จริงนั้น ไม่สามารถซื้อได้ด้วยตัวเลขจากองค์กร\"",
@@ -42,7 +43,7 @@
    "id": 67220,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "771ee2d52c420b86a334eedd637788b8610e891840f00c21c696bcbadc754ef6",
+   "iconPath": "f0206bc0518a6c6e69d89a68a7481696dd7399367e9f182a4097c7d87c507211",
    "name": "Gelid Chitin",
    "desc": "ผลึกเย็นที่แผ่ซ่านความหนาวเหน็บ วัสดุเลื่อนขั้นของตัวละครประเภทน้ำแข็ง",
    "lore": "ผลึกประหลาดที่ลอกออกมาจากเศษซากของสิ่งมีชีวิตต่างมิติ ถึงจะไม่ได้เย็นยะเยือกเหมือนก่อนหน้านี้ แต่มันก็ยังสั่นเทา และคอยดูดซับความร้อนจากสิ่งรอบข้างเหมือนอย่างเคย<br /><br />\"ไม่มีใครคิดจะขายมันให้กับโลกที่ยังไม่คิดค้นแอร์บ้างเลยเหรอ? เจ้านี่ไม่ใช่แค่เย็นอย่างเดียวนะ แต่ยังมีเสียงเหมือนกับคอมเพรสเซอร์แอร์อีกด้วย\"",
@@ -58,7 +59,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Tracks of Destiny",
    "desc": "วัสดุระดับสูงสำหรับการเพิ่มเลเวล Trace",
    "lore": "ความพ่ายแพ้ซ้ำแล้วซ้ำเล่าจะนำไปสู่ชัยชนะ ก้าวไปข้างหน้าก้าวแล้วก้าวเล่าจะนำไปสู่จุดเปลี่ยนของโชคชะตา",
@@ -77,7 +78,7 @@
    "id": 186254,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "9794d4b9cee70ded671331e6e9eec06326dcb9428d59540d9960f2a0bbea00e1",
+   "iconPath": "cf2788ec5bdb2c1137c8bdf583b557edd00667b1f629205eccb2a92e506b62a8",
    "name": "Regret of Infinite Ochema",
    "desc": "วัสดุระดับสูงสำหรับการเพิ่มเลเวล Trace",
    "lore": "ไม่ว่าจะอีกกี่ร่างก็ยังไม่สมดั่งใจ เช่นเดียวกับผู้คนที่แสวงหายาวิเศษ มันปรารถนาจะมีร่างกายที่มีชีวิตยืนยาว โดยไม่ต้องกลัวการ \"ทำลายล้าง\" อีกต่อไป มันรู้ว่า นี่เป็นเพียงความเพ้อฝันที่ไม่มีทางเป็นจริง<br /><br />\"ฉันเคยเห็นโลกที่ถูกเปลวไฟของเทพแห่งสามานย์ กลืนกินมานับไม่ถ้วน และฉันก็เคยเป็นหนึ่งในเปลวเพลิงเหล่านั้น ฉันเต้นรำไปตามปลายนิ้วของเขา โดยรู้ดีว่าถ้าฟืนหมดแล้ว ไฟก็จะมอดดับลง...\"",
@@ -92,7 +93,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "คู่มือการเดินทาง",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>20000</nobr> หน่วย",
    "lore": "หนังสือชุดเกี่ยวกับการผจญภัยที่จำเป็นต่อการสำรวจโลก กดปุ่มอ่านเพื่อฟังเสียงที่น่าฟังในภาษาที่คุณเข้าใจ ซึ่งจะบอกเล่าเกี่ยวกับประสบการณ์การผจญภัยในโลกต่างๆ ของเหล่านักผจญภัยที่มีชื่อเสียง รวมถึงภูมิปัญญาอันล้ำค่าที่พวกเขาได้รับจากดาวแต่ละดวงด้วย<br /><br />\"คู่มือการเดินทางชุดใหม่ 'การทำอาหารระหว่างดวงดาว' จะวางจำหน่ายเร็วๆ นี้ โปรดติดตามกันให้ดี\"<br />\"สำหรับการส่งผลงาน โปรดติดต่อกับ Synesthesia Beacon ERD<nobr>-23</nobr>θ เพื่อติดต่อตัวแทนของสถาบันแห่งปัญญา โดยวิธีการจ่ายค่าต้นฉบับนั้น สามารถจัดการได้ตามความสะดวกของคุณ\"",
@@ -110,7 +111,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "บันทึกการผจญภัย",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>5000</nobr> หน่วย",
    "lore": "บันทึกการผจญภัยที่ได้รับการจัดการอย่างเป็นระเบียบ และมีคุณค่าต่อการศึกษา ซึ่งประกอบไปด้วยภาพประกอบและข้อความที่เกี่ยวกับการผจญภัยตั้งแต่ต้นจนจบ ตลอดจนข้อมูลที่มีคุณค่าและเทคนิคที่เกี่ยวข้องกับการเอาชีวิตรอด<br /><br />\"ทำไมไม่แปลงข้อมูลใส่ลงไปในดิสก์ล่ะ? สะดวกกว่าตั้งเยอะ\"<br />\"เมื่อเผชิญกับพายุดาว และการปะทุของกระแสนิวตรอนแล้ว เทคโนโลยีขั้นสูงนั้นมีความเปราะบางมากกว่าที่คิด นอกจากนี้ คนทำหนังสือเล่มนี้คงอยากจะให้คนอ่าน สามารถอ่านได้ด้วยวิธีที่ง่ายที่สุด\"",
@@ -129,7 +130,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "ความรู้จากการเดินทาง",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>1000</nobr> หน่วย",
    "lore": "ไดอารี่การเดินทางที่เขียนด้วยลายมือสุดยุ่งเหยิงและมีเนื้อหาตามใจชอบ ซึ่งไม่ค่อยมีประโยชน์สำหรับคุณสักเท่าไหร่<br /><br />\"Dan Heng อ่านจบแล้วก็รีบเอากระดาษพวกนี้ไปทิ้งเถอะ\"",
@@ -147,7 +148,7 @@
    "id": 549504,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "71d58f084522c87e93327e3e7fc1db8fb4abb65e9989b163d4a348c9a3761329",
+   "iconPath": "6c179a11ddab366162a8539ea956319bacacb460c375d4b3d7f4ab3637918e75",
    "name": "Immortal Scionette",
    "desc": "ต้นอ่อนจากการแตกหน่อของสิ่งศักดิ์สิทธิ์โบราณ วัสดุพื้นฐานที่ใช้สำหรับการเสริมพลัง",
    "lore": "ที่มาของ \"อายุขัยที่ไม่สิ้นสุด\" ในเผ่าพันธุ์ที่มีอายุยืนยาวของ Xianzhou ก็คือเศษเสี้ยวอภินิหารจากเทพดาราแห่งความ \"เฟื่องฟู\" ในอดีตอันแสนเนิ่นนาน ความหลงผิดต่อชีวิตอมตะของจักรพรรดิองค์หนึ่ง ได้ทำให้กองเรือ Xianzhou ต้องเดินทางเข้าสู่ทะเลดวงดาวนอกฝั่งฟ้า เพื่อตามหายาแห่งความอมตะ<br /><br />\"เราปรารถนาชีวิตชั่วนิรันดร์ และต้องการให้อาณาจักรคงอยู่ตลอดกาล เพราะเป็นเรื่องน่าเศร้าที่วันเวลามีจำกัด และกำลังคนมีที่สิ้นสุด จึงได้ส่งเรือประจัญบานเก้าลำทะยานไปสู่นอกฟากฟ้า เพื่อตามหายาแห่งความอมตะ\"",
@@ -156,6 +157,7 @@
    "rewardPath": "/material/549504",
    "comeFrom": [
     "ดรอปจากสิ่งชั่วร้ายจากความเฟื่องฟู",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "รางวัลคำขอ",
     "แลกเปลี่ยน Ember",
@@ -167,7 +169,7 @@
    "id": 633445,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fc1f8e93b552510a719e96df3c4e48ace4f905d262668303315d785b951a7c04",
+   "iconPath": "d1124c0146a84ca0b7fea540fdaf95e66dc3e8f128ec5a9f9250b388c8183db8",
    "name": "Immortal Aeroblossom",
    "desc": "ดอกไม้ที่เบ่งบานขึ้นจากสิ่งศักดิ์สิทธิ์โบราณ วัสดุธรรมดาที่ใช้สำหรับเสริมพลัง",
    "lore": "ที่มาของ \"อายุขัยที่ไม่สิ้นสุด\" ในเผ่าพันธุ์ที่มีอายุยืนยาวของ Xianzhou ก็คือเศษเสี้ยวอภินิหารจากเทพดาราแห่งความ \"เฟื่องฟู\" หลังจากผ่านการล้มลุกคลุกคลานมานับไม่ถ้วน ในที่สุดกองเรือที่ตามหายาแห่งความเป็นอมตะ ก็สามารถมองเห็นใบหน้าของเทพได้ เทพผู้ศักดิ์สิทธิ์ผู้นั้นประทานพรมาในรูปแบบวัตถุ และแล้ว Ambrosial Arbor ก็ได้แตกใบออกมา<br /><br />\"ดอกตูมร่วงลงสู่จันทรา บุปผาศักดิ์สิทธิ์ส่งกลิ่นหอมในมวลเมฆา ชั่วพริบตาที่ดอกไม้ผลิบาน ไม้เก่าแก่นั้นก็ได้กลับมาอ่อนวัยอีกครา\"",
@@ -177,6 +179,7 @@
    "comeFrom": [
     "ดรอปจากสิ่งชั่วร้ายจากความเฟื่องฟู เมื่อระดับความสมดุลถึง Lv.2",
     "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
    ]
@@ -185,7 +188,7 @@
    "id": 635673,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "9fe7d5d3bec56787a53e9acfa89161bc0599ba7b6a3a0d95eb60863ff6dcd006",
+   "iconPath": "c34484b3ccf3e5f1f4113e3c24d465e8d93dd5fcb95446241a8c08d6f65a0d27",
    "name": "Shattered Blade",
    "desc": "ชิ้นส่วนอาวุธที่สมาชิกของกองทัพ Antimatter ทิ้งเอาไว้ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ทำลายล้าง</span>ได้เล็กน้อย",
    "lore": "ตรานี้แสดงถึงลำดับขั้นและความสำเร็จในนามของการ \"ทำลายล้าง\"<br />เจ้าของอาวุธชิ้นนี้ควบขี่อาชาแดง จุดไฟขึ้นในเมือง ทำให้ผู้คนลุกฮือต่อต้าน และทำให้อาณาจักรล่มสลายราวกับฝูงมดที่แตกกระเจิง<br /><br />\"ผู้ที่ครอบครองตรานี้ ได้รับคำสั่งให้พรากความสงบสุขไปจากแผ่นดิน\"",
@@ -202,7 +205,7 @@
    "id": 717386,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5708b196a8af89740ced588d98dc414c791d209879957fb0bc8644cc2dc84adb",
+   "iconPath": "fd7a32682f691044c47ac3a898e66880b2f442ae41c7264f87c4101558550161",
    "name": "Immortal Lumintwig",
    "desc": "กิ่งก้านผลัดใบที่เกิดจากสิ่งศักดิ์สิทธิ์โบราณ วัสดุชั้นสูงที่ใช้สำหรับเสริมพลัง",
    "lore": "ที่มาของ \"อายุขัยที่ไม่สิ้นสุด\" ในเผ่าพันธุ์ที่มีอายุยืนยาวของ Xianzhou ก็คือเศษเสี้ยวอภินิหารจากเทพดาราแห่งความ \"เฟื่องฟู\" หลังจากหายนะสามประการผ่านไป Xianzhou ก็จมอยู่ในเถ้าถ่าน ผู้มีชีวิตนิรันดร์ตกลงสู่ด้านมืด ก่อเกิดซึ่งความทุกข์ไร้ที่สิ้นสุด<br /><br />\"Ten-Lords Commission ออกกฎ ผู้ใดที่ใกล้จะกลายเป็น Mara-Struck จะถูกนำตัวไปขัง เพื่อรอการพิพากษา\"",
@@ -212,6 +215,7 @@
    "comeFrom": [
     "ดรอปจากสิ่งชั่วร้ายจากความเฟื่องฟู เมื่อระดับความสมดุลถึง Lv.4",
     "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
    ]
@@ -220,7 +224,7 @@
    "id": 836259,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "d9e262af4f143c0b58be9d20f5c04e04a252fb8f05eb675c0996f5b1bc8f6ad5",
+   "iconPath": "da98edf78f23a9c80090c50d9633d6cdf6d43fb74d873ffa5f791126205599d4",
    "name": "Worldbreaker Blade",
    "desc": "อาวุธแตกหักเสียหายที่สมาชิกของกองทัพ Antimatter ทิ้งเอาไว้ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ทำลายล้าง</span>ได้เป็นอย่างมาก",
    "lore": "อาวุธนี้แสดงถึงลำดับขั้นของเจ้าของในกองทัพและความสำเร็จในนามของการ \"ทำลายล้าง\"<br />เจ้าของอาวุธนี้จะปรากฏตัวขึ้น เมื่อสงครามสิ้นสุดลง เพื่อจุดไฟแผดเผาโลก ไม่ว่าทวยเทพจะโปรดปรานแค่ไหน ไม่ว่าจะรุ่งโรจน์สักเพียงใด ดาวดวงนี้ก็ยังถูกลิขิตให้สลายและมืดดับไปในส่วนลึกของท้องฟ้าที่เต็มไปด้วยหมู่ดาว ราวกับถ่านที่มอดดับลง<br /><br />\"ผู้ที่ครอบครองตรานี้ได้รับคำสั่งให้ชำระล้างโลก\"",
@@ -237,7 +241,7 @@
    "id": 920200,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e8f74ef086a603eed69945d0872fbbc9776145890808104be58b4d30dca2d7a",
+   "iconPath": "31324efb8271c657d2271c0c656cf3c265165e1b1de5ab0a1355397703472c11",
    "name": "Lifeless Blade",
    "desc": "เศษอาวุธที่สมาชิกของกองทัพ Antimatter ทิ้งเอาไว้ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ทำลายล้าง</span>ได้ปานกลาง",
    "lore": "ตรานี้แสดงถึงลำดับขั้นและความสำเร็จในนามของการ \"ทำลายล้าง\"<br />เจ้าของอาวุธชิ้นนี้เคยเกลียดชังสิ่งมีชีวิตที่มีความคิดทุกตน พวกเขาฟังเสียงร้องครวญของสิ่งมีชีวิตทรงปัญญา ราวกับฟังบทเพลงเสนาะหู พวกเขาทำให้หอคอยแห่งอารยธรรมหลายพันปี พังทลายลงมาในชั่วข้ามคืน<br /><br />\"ผู้ที่ครอบครองตรานี้ ได้รับคำสั่งให้ช่วงชิงลมหายใจไปจากสิ่งมีชีวิต\"",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "bb481aabb5e419f276d5bfb70f0b17d1322f1eae4b3b553d2ca1403f9b06d18b",
-   "artPath": "24515c3d54d948daf7478fffa7e74a9534d171ee0715e290011d23e761d4f9f8",
+   "iconPath": "2a4a6edfbde1417df6c82b582b805b9ef6d323bae5e72580a13cc35d3b39dc25",
+   "artPath": "bbe3956edcbd8f997af883e6932174c3b85352eedc573ff685ff4b8a7e0ac070",
    "name": "Moon Crashes Tianguan Gate",
    "descHash": "เมื่อปล่อยท่าไม้ตายหรือสกิลต่อสู้แบบเสริมพลัง DMG คริติคอลของ Jingliu จะเพิ่มขึ้น <nobr>#1[i]%</nobr> เป็นเวลา <nobr>#3[i]</nobr> เทิร์น หากโจมตีศัตรูเป้าหมายเพียง 1 ตัว จะสร้าง DMG น้ำแข็ง <nobr>#2[i]%</nobr> ของ ATK ของ Jingliu แก่เป้าหมายดังกล่าวเพิ่มเติม 1 ครั้ง",
    "params": [
@@ -451,8 +455,8 @@
   },
   {
    "id": 2,
-   "iconPath": "1da5e6dea9bf1cb60ca67e76cb164e2ef6828e9123e636d64b04aa1f98538181",
-   "artPath": "cf17ffc8db5fa7cbe7c3def43d96fbeff6014f3b2c70051dede7c5324a73c93c",
+   "iconPath": "60161231ab20b9f7e75926ed5807b8d665bd8440aa70aca0b8478f245f412a20",
+   "artPath": "206b144f8b7ab07fb80271cda18e5719c15581a2b1061e7e2b423c0529b32610",
    "name": "Crescent Shadows Qixing Dipper",
    "descHash": "หลังจากใช้ท่าไม้ตาย DMG ของสกิลต่อสู้ที่เสริมพลังในครั้งถัดไป จะเพิ่มขึ้น <nobr>#1[i]%</nobr>",
    "params": [
@@ -461,16 +465,16 @@
   },
   {
    "id": 3,
-   "iconPath": "4c1652a580e9da3063f39bd21561686db9b64267018d1761d0f43bbbfd4b9a03",
-   "artPath": "c118126d02316b83d38ec8358ff193e95e3fd7fbd293027746fe2e7233120e8f",
+   "iconPath": "f256828a304e41258f07b7d340862770122ef0e65e7b6835a46bc74ce1c93851",
+   "artPath": "a2960a9e23bbe156657cddd51480ceb7f27a09a2273f7162f6f812a95007e489",
    "name": "Halfmoon Gapes Mercurial Haze",
    "descHash": "เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr>",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "deed1ec9262e3ff26d6b8026799ebc199842c0c3f19a09c2a835f7cbfadcc784",
-   "artPath": "68e4598bf5209b64242a273d5d25fb2c0694c9f64befa0a78e12646aa95f1d64",
+   "iconPath": "8147049902288b0d357b8c820738bdf9a269cf745ca81d3f29e4d137fb31033a",
+   "artPath": "d91f9e942b22d3c263fb893af4544911051296c0b7a92a9c7dc9028c37df9489",
    "name": "Lunarlance Shines Skyward Dome",
    "descHash": "ATK ที่ได้รับจากการใช้ HP ของเพื่อนร่วมทีมในสถานะ \"Spectral Transmigration\" จะเพิ่มมากขึ้นอีก <nobr>#1[i]%</nobr> ของปริมาณ HP ทั้งหมดที่ฝ่ายเราทุกตัวใช้ไป อีกทั้งขีดจำกัดสูงสุดของ ATK จะเพิ่มขึ้น <nobr>#2[i]%</nobr>",
    "params": [
@@ -480,16 +484,16 @@
   },
   {
    "id": 5,
-   "iconPath": "06da12532a9b4ac5060e7ac82578f573a93f603c79d88a0d7a1cdaee3bdb90f4",
-   "artPath": "37bd8cb348a77552e26ae62ea5577aebf7cc94e97024cac8462ab12595a27d99",
+   "iconPath": "efb842f4cc358da5e880e4efdaf776e0a9e317d7b8afe2522c16b07be8e25aca",
+   "artPath": "3ed9ca5bda9eb513465bc1296c2217138a54a336910b7262f069718d8bd13c85",
    "name": "Night Shades Astral Radiance",
    "descHash": "เลเวลสกิลต่อสู้ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน Lv.<nobr>10</nobr>",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "8b06be57b64b2844b3189f9bba575f59dd18272fedcf59141d114ba7f6c491a6",
-   "artPath": "84cdabad082ac99581f78e51dd7eba2925003e93be788fa80cac9a9d8fb65227",
+   "iconPath": "8bb0f075e17fe919514fb7348572a185080b187394352c4535309c5c29c1fa1f",
+   "artPath": "ffdc8a65aef1cc0caba9c89418cfdcdc154a6d16ee7fc7c080ecd118fc379f16",
    "name": "Eclipse Hollows Corporeal Husk",
    "descHash": "เมื่อ Jingliu เข้าสู่สถานะ \"Spectral Transmigration\" ขีดจำกัดจำนวนชั้นของ \"Syzygy\" จะเพิ่มขึ้น 1 ชั้น อีกทั้งได้รับ \"Syzygy\" เพิ่มเติม <nobr>#1[i]</nobr> ชั้น เมื่ออยู่ในสถานะ \"Spectral Transmigration\" DMG คริติคอลจะเพิ่มขึ้น <nobr>#2[i]%</nobr>",
    "params": [
@@ -525,7 +529,7 @@
    "energy": "20",
    "id": 744089,
    "name": "Lucent Moonglow",
-   "iconPath": "1c149395c744db3a1e880ce536a7e95d879b0b23fcc32e6153eed6a7f6911271",
+   "iconPath": "422968bca04ded8cae602d847ef154d3e39271080f2afa8fef99ceaafa8ca827",
    "typeDescHash": "โจมตีปกติ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -686,7 +690,7 @@
    "energy": "20",
    "id": 28616,
    "name": "Transcendent Flash",
-   "iconPath": "06da12532a9b4ac5060e7ac82578f573a93f603c79d88a0d7a1cdaee3bdb90f4",
+   "iconPath": "efb842f4cc358da5e880e4efdaf776e0a9e317d7b8afe2522c16b07be8e25aca",
    "typeDescHash": "สกิลต่อสู้",
    "levelReq": 0,
    "promotionReq": 0,
@@ -976,7 +980,7 @@
    "energy": "5",
    "id": 944675,
    "name": "Florephemeral Dreamflux",
-   "iconPath": "0db943d4927846b6a55bc6ba8602d26b706bd513f91df584b6d374b8e96b4e84",
+   "iconPath": "f7ecde247d72e8375c9fac73cceb338a1c7739620e4756b11741d75ff49c2deb",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1296,7 +1300,7 @@
    "energy": "0",
    "id": 459562,
    "name": "Crescent Transmigration",
-   "iconPath": "56de5e2eea5538b1aae478c4a464fe26b522d2427f35af9532cc01b8ea0d6bee",
+   "iconPath": "979ab63fb3e1be24d0cd2cf709137002e4bedf1a2ecd5d5f75d607714a27a5e9",
    "typeDescHash": "พรสวรรค์",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1661,7 +1665,7 @@
    "energy": "0",
    "id": 660148,
    "name": "Attack",
-   "iconPath": "1c149395c744db3a1e880ce536a7e95d879b0b23fcc32e6153eed6a7f6911271",
+   "iconPath": "422968bca04ded8cae602d847ef154d3e39271080f2afa8fef99ceaafa8ca827",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1683,7 +1687,7 @@
    "energy": "0",
    "id": 543503,
    "name": "Shine of Truth",
-   "iconPath": "1e2033ac874724b94a92d4cf615c05fc1e35bca4afeea5e9b420c5797579b800",
+   "iconPath": "77988f3bf86535c2a29807c909bbc3461f5086d47d3e2425860f804d42600be6",
    "typeDescHash": "เทคนิค",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1712,7 +1716,7 @@
    "energy": "30",
    "id": 513729,
    "name": "Moon On Glacial River",
-   "iconPath": "ea9d8d0040057c9d6b3406419b0eec208d0533b0607f2b2bf1301f4e873a7aba",
+   "iconPath": "a98f80914db55b100521f5731ef22a3feb0de140b060dfecea4f4b03d6437b05",
    "typeDescHash": "สกิลต่อสู้",
    "levelReq": 0,
    "promotionReq": 0,
@@ -2036,7 +2040,7 @@
           "name": "เสริม HP",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+          "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
           "statusList": [
            {
             "key": "HP",
@@ -2065,7 +2069,7 @@
         "name": "เสริม DMG คริติคอล",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+        "iconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
         "statusList": [
          {
           "key": "DMG คริติคอล",
@@ -2094,7 +2098,7 @@
       "name": "เสริมความเร็ว",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
       "statusList": [
        {
         "key": "ความเร็ว",
@@ -2124,7 +2128,7 @@
     "ultimateCost": 0,
     "id": 384334,
     "name": "Deathrealm",
-    "iconPath": "315d392a1855179352940d87536741272222e2cace31140abf1d2a7eb435deb3",
+    "iconPath": "cbf391e44719503553e8429efbd166eb5fc9a4c5519e0e6b27922f6e87dc0a33",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -2178,7 +2182,7 @@
           "name": "เสริม DMG คริติคอล",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+          "iconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
           "statusList": [
            {
             "key": "DMG คริติคอล",
@@ -2207,7 +2211,7 @@
         "name": "เสริมความเร็ว",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+        "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
         "statusList": [
          {
           "key": "ความเร็ว",
@@ -2237,7 +2241,7 @@
       "name": "เสริม DMG คริติคอล",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+      "iconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
       "statusList": [
        {
         "key": "DMG คริติคอล",
@@ -2266,7 +2270,7 @@
     "ultimateCost": 0,
     "id": 384335,
     "name": "Sword Champion",
-    "iconPath": "40ab15ed8b4f18d6745780706127f8e827c96410d024a18d0bdf222f150660dd",
+    "iconPath": "79cc5dc83d281aff19415af69f689564eb7675f54cd49d2f5da1d897e059aae3",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2319,7 +2323,7 @@
         "name": "เสริมความเร็ว",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+        "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
         "statusList": [
          {
           "key": "ความเร็ว",
@@ -2353,7 +2357,7 @@
         "name": "เสริม DMG คริติคอล",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+        "iconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
         "statusList": [
          {
           "key": "DMG คริติคอล",
@@ -2382,7 +2386,7 @@
       "name": "เสริม HP",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -2411,7 +2415,7 @@
     "ultimateCost": 0,
     "id": 384336,
     "name": "Frost Wraith",
-    "iconPath": "819abdb73fb13affe3f77a758f965420d27ef413ea9a94bb9d1394f05be8eb73",
+    "iconPath": "2c6926e4bd0cdf9f1f4d4ca22d3090a8048c2dcf2b0323cd9cd2244e2c500146",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2454,7 +2458,7 @@
     "name": "เสริม DMG คริติคอล",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609",
+    "iconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe",
     "statusList": [
      {
       "key": "DMG คริติคอล",
@@ -2480,27 +2484,27 @@
   "props": [
    {
     "relicTypeHash": "ลำตัว",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "DMG คริติคอล",
-    "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609"
+    "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe"
    },
    {
     "relicTypeHash": "เท้า",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "ความเร็ว",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Planar Sphere",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "เพิ่ม DMG น้ำแข็ง",
-    "propertyIconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b"
+    "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345"
    },
    {
     "relicTypeHash": "Link Rope",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "อัตราการฟื้นฟูพลังงาน",
-    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+    "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc"
    }
   ]
  },
@@ -2510,530 +2514,530 @@
    "title": "พบกันครั้งแรก",
    "text": "Jingliu เป็นเพียงนักดาบพเนจร ผู้ที่ถูก Xianzhou ทอดทิ้งก็เท่านั้น ถ้าไม่อยากมีปัญหาก็แสร้งทำเหมือนเราไม่รู้จักกันจะดีกว่า",
    "unlockRequirement": "",
-   "cnUrl": "d456fd785fb96b47c489fa5ca6e3d7d59d19a6d1596bc3768be1f4ae07351763",
-   "jpUrl": "651e0348fd0b86616821d187301f39cefcdbcb7b9f4fe2bfc1ae7d4ccf05fef6",
-   "enUrl": "f848fb766aab5bb296e776d1531374f2530426060b2bfcfa1cf198e296de2c14",
-   "krUrl": "88d290c069da57528f6f08d1da7a183a1b98c94165cb947185e950acfcc4d99c"
+   "cnUrl": "3add78a7943c15a87c1d0c34fe8707df957ac9eb48ca87df133923888d99c3df",
+   "jpUrl": "4be8f6a35012b222ffb2b97e6fe45719d6574deabee2637e0f0e7b3670e88aba",
+   "enUrl": "d42e4991b0228846febe187c98dad0862ca25d81e0d2f94438a684262b0e35b8",
+   "krUrl": "3ed3033e6c3372b8a8f3bfabdb327a0ffffe35fffe842cf7cd1136ef04c1c32b"
   },
   {
    "id": 2,
    "title": "ทักทาย",
    "text": "ไม่จำเป็นต้องทักทายให้มากพิธี มีธุระอะไรก็ว่ามาเถอะ",
    "unlockRequirement": "",
-   "cnUrl": "3af130a27a25b47a3143867b5f94a19db32ca6f4acd7de9b9431a1e9bbeed366",
-   "jpUrl": "e70b3e1aef7698d834a648fc984b49038a093f5661daacfbbc3248bb11fff65c",
-   "enUrl": "041759acc3941646bac6a9a950535b58bea76ae40777de1184c01c9e03db9080",
-   "krUrl": "21e00eb4060abd9f42c01df97e1329ab9af52692ac00654ba4176ee524b78c03"
+   "cnUrl": "346a3e15faea4519eef7288d9ff0d8830ff9a26c48c06e3454f731ae3ceae897",
+   "jpUrl": "36399b72a612ac3a148c2281db0553a122f04a4794d42d6b1352e0f4994608f6",
+   "enUrl": "d9c2bc696ae1018a80a296882a9765e7a4c46bc4d013c5435c18d7b48c4560fe",
+   "krUrl": "dceb868039ccde0196be8768be241e6376f3280aedccbdfaea4ec3a39344cdde"
   },
   {
    "id": 3,
    "title": "บอกลา",
    "text": "จักรวาลกว้างใหญ่ เมื่อพบกันครั้งหน้า... ก็ไม่รู้จะเป็นมิตรหรือศัตรู และจะอยู่หรือตาย?",
    "unlockRequirement": "",
-   "cnUrl": "1359d2f70203824ec2ce7ebb59257396994f7538d5aa1f046a920eb814101c2f",
-   "jpUrl": "fa57d85f247ed1d3eaacedc0a6ed5ffea49fb926206a950798c35e20b5b0f770",
-   "enUrl": "28689bc790234ed998bbe9d38befc7183e9a42427fc7f66b0c0c9a1a8244c2ee",
-   "krUrl": "329eb1087f567824cde6af0c24643f6bb366d5789e5464370658ad70d1bc892e"
+   "cnUrl": "132dfe64bb6f2cb68aa265d047dc67ada04974c370e6c93479415927d00375c1",
+   "jpUrl": "1a9c0fd77e22663e41352ad53f4824d9f6e9738711ac49b85488568e1097ffa5",
+   "enUrl": "5d09235355180056ec920dce942f3587da3a0203364dde5677ac80e63fc28300",
+   "krUrl": "2f9350ac3e2a4769daabb96a5a67661d41ee6b3710ec403cb7658dc3af52fda2"
   },
   {
    "id": 4,
    "title": "เกี่ยวกับตัวเอง - ปรมาจารย์ดาบ",
    "text": "ชื่อเสียงเป็นของนอกกาย เหมือนเมฆที่จางหายไปตามลม ฉันฝ่าฝืนกฎของ Ten-Lords Commission และ Xianzhou ก็ได้ลบทุกอย่างที่เกี่ยวกับฉันไป แต่แล้วมันยังไงล่ะ? ดาบที่ดี ขึ้นอยู่กับความเฉียบคม ไม่ใช่ชื่อเสียงเรียงนามของมัน",
    "unlockRequirement": "",
-   "cnUrl": "04f392e9b20245f01059b12ee1324c0a1f3ef85989f4b0b50bd2f98abe87e7ff",
-   "jpUrl": "3e9d68513caa7a221b1c20086e35daaa08d3d9c66cf6e4ba8a10623e967b7274",
-   "enUrl": "9185b01a8204586b4a8114168268c0ed0d14d0eb5842e4d94ae3fdb09d6a01f5",
-   "krUrl": "c0de3f0ee65b3e98c00daf7c97d2f13e1bbc7f51943ccef54d4a03c56ef87b79"
+   "cnUrl": "34e8ae8fbca93bade23c09619014529770abfb2b518d526dbb3db3dccef0bb34",
+   "jpUrl": "385566ed6221bcb14f2b39fa9b962bc619a8d9b31ca116e92800dd64fb062ffe",
+   "enUrl": "6c410542fbf5552627d826c0be1a0b3f19e980bc7c204666965f8a2ec6c1eafc",
+   "krUrl": "ee8be9219b74e367f2b2529741167be882230852b78715fa8fae5bd52f279923"
   },
   {
    "id": 5,
    "title": "เกี่ยวกับตัวเอง - ผ้าปิดตาสีดำ",
    "text": "ฉันก้าวข้ามขีดจำกัดของตัวเอง และเวียนวนอยู่ระหว่างเส้นขอบของการเป็น Mara-Struck มานานแล้ว แทนที่จะมัวแต่นึกถึงความหลัง และปล่อยให้ไฟแค้นเผาผลาญตัวเอง สู้ให้ฉันปิดตาแล้วก้าวต่อไปข้างหน้ายังดีเสียกว่า",
    "unlockRequirement": "",
-   "cnUrl": "c04f59d142a83dd986f60b63e1916f0cc34151ca863ff54744e6091b67ae3ebf",
-   "jpUrl": "fbeeb7817bab9fb6f5e7eecedabb3a2c010efcc3b26997742dbaf73a2e0521ae",
-   "enUrl": "d577f4eccdd9cb6486879a506feb8731323fd70c8f98d8b22bffdb9fc6c303e2",
-   "krUrl": "02932307cc08baf5f0aa8247f0e872c627f74fc4359fad06bce2f92e0835ce7e"
+   "cnUrl": "bc0a0b40eb6fada7da5696dba960adf293c81fd0d0eb0b1e0eb53d080bac60de",
+   "jpUrl": "dde74bdb3c0661d77ee5224bf62387405a8b28d3b15583aafe084eefa424d663",
+   "enUrl": "e28a7cb5f97def4da26d5fa3ee3d2982a651f96f2717323d70fab8acef83ea22",
+   "krUrl": "62c80cb6769b1ed36bfcf2638ea01fac6b57831d1b2a3ecd8d67f79a9b179b0d"
   },
   {
    "id": 6,
    "title": "พูดคุยทั่วไป - Cangcheng",
    "text": "บ้านเกิดของฉัน \"Cangcheng\" เป็นหนึ่งในแดนที่เจริญรุ่งเรืองที่สุดของ Xianzhou ต่อมามันก็ถูกดวงดาวมีชีวิต ที่สร้างโดยพินาศโรคากลืนกิน.. แม้แต่เผ่าพันธุ์อายุยืนยาวที่กล่าวอ้างว่ามาจากสวรรค์ ก็เป็นเพียงแค่เศษฝุ่นละอองดาวเท่านั้น",
    "unlockRequirement": "",
-   "cnUrl": "60afce40ef28184867e9f43a3dc415a06d6f2315eb1fba05318cdff61a33a2ee",
-   "jpUrl": "8464ba36113d18873f2bac5d8be91acca8e7c202a3bc567299b52059d1e37835",
-   "enUrl": "3831a338cc092648688181b81e312d6db7b5d5c4228f2a4c039c248d0960e9c1",
-   "krUrl": "8332fb5dcc9b12764625145bfa5b193a17f2178ca71861844dd8ee0a69bbaf42"
+   "cnUrl": "fecd3279d2415e058b7e73183b9ebf92f202df001cf34707f23a90f6dff5ffb8",
+   "jpUrl": "d5eb63ed6e0452ba27c305a20e19474f7a81d0c42ab0b2c40d6027d9c3e397a6",
+   "enUrl": "7511f89c240c639be298e189d86466fe8da300e74d67768cda2aff5b77bf07d0",
+   "krUrl": "e0f3b402f7717df2e8e131bff71add54d05718ec78af637d79c41951c16078fe"
   },
   {
    "id": 7,
    "title": "พูดคุยทั่วไป - ดาบ Florephemeral",
    "text": "ทักษะที่อาศัยร่างกายนั้นเป็นได้แค่วิชาปลายแถว เวลานี้ฉันได้ละทิ้งดาบที่หลอมด้วยเหล็กไป และฉวยเอาแสงจันทร์ที่ส่องสว่างสู่สายธารนับหมื่นมาแทน นี่คือ \"ดาบ\" ที่เกิดและดับได้ด้วยการควบคุมของฉัน ดาบที่มีอยู่ในทุกหนแห่ง",
    "unlockRequirement": "",
-   "cnUrl": "f8df84b4ac80687f2d6b846ebeb18e02e53fafc96be22bb7711a07241a487fad",
-   "jpUrl": "594459b59c5a306c8e7ce54311f574c6a70b19f5a73bb19b0a493e25a32c6430",
-   "enUrl": "4ecfefe26e2ee62ea45dff67a3a7eb2ef9c4486f18b2f3da5d39839d1b3eab65",
-   "krUrl": "07355d2c5a6dd133ca985722d498918d98ca3b2506578c7f5b249407b2af6550"
+   "cnUrl": "47009790d90966042fa6e51b3e822a0d22b0b0d5fcd47f93c5cbc3c5c52c629c",
+   "jpUrl": "0fc6e4cd827859aae05274a8865773c68e1ab7105f60a5abfa10ff888de01cdf",
+   "enUrl": "4633286c3b80f2aed88e4b3879e92f81674a42e730df71d219b6f66955391627",
+   "krUrl": "be739c0a550d51f041c157acb0d08d8e8d2ca10e5589bb39a57655d9c6e41cb5"
   },
   {
    "id": 8,
    "title": "งานอดิเรก",
    "text": "ขอคิดก่อนนะ... ช่วงแรกของชีวิต ที่ชอบที่สุดก็คือการได้ฝึกดาบ และเอาชนะศัตรูสุดแกร่ง จากนั้นก็เป็นการลิ้มรสเหล้าชั้นดีที่ Baiheng นำมาจากดวงดาวต่างๆ ส่วนตอนนี้... คือการสอนให้ศัตรูรับรู้ถึงความเจ็บปวดทรมานเจียนตาย งานอดิเรกของฉันแปลกดีใช่มั้ยล่ะ?",
    "unlockRequirement": "",
-   "cnUrl": "79078a3e091461c15d2330d007fe656deb2301641cf3a25f02fe42e0283de7a4",
-   "jpUrl": "6e53ce659fe7a2d1488dc1e3270de20f710edcf1587a78873da447a9f2efa2e6",
-   "enUrl": "ff31cdf6659f86e1d8bdfe4d3488ffcd76427660772264a993fc6b4f19027d11",
-   "krUrl": "91c79b6bbcb34ca14206a8b3df3d217dc6a8c25f48457ad24fd3976550dd2ee9"
+   "cnUrl": "dc1308002cb07ad065a0301c75890fec982f62d3869512f664ca299465916424",
+   "jpUrl": "faaa94627413287a9b18cc0a56f92b44bdd34847d07be349ab8bc737e5e5de03",
+   "enUrl": "f5e2e3249b994a9f831b48db378a905bd7d1d514816d82ddb506606c2368986b",
+   "krUrl": "8184d7083a66a10429967feaeb9a69f6c76d26ad8a6d8e7401b172cb16ceea7e"
   },
   {
    "id": 9,
    "title": "เรื่องกลุ้มใจ",
    "text": "หากเทียบกับฟากฟ้าและผืนดินที่กว้างใหญ่ ดาบที่ถืออยู่ในมือก็เหมือนกับเข็มเล่มเล็กๆ แล้วจะเฉือนดวงดาวได้อย่างไรกัน?",
    "unlockRequirement": "",
-   "cnUrl": "b5a15e9fd896553c69f753af758cb1a663c56099a7730be0168f266650e2d397",
-   "jpUrl": "32e64839bffd2e394c575217f82dd0dad0bf83c354daedadfd691bdef6c97658",
-   "enUrl": "dc1fdea7b0e6b872e002b6588f565ef024cf531e31ac8959608093fe350d0908",
-   "krUrl": "b436c60caf4f7d22d728d18a30c6622c0f3d4444e01d2fe5adf97725037d6f47"
+   "cnUrl": "6bd6cc57c3933c185031106325bb667a9ff208efc3125a5809b1a8b88e668bd4",
+   "jpUrl": "36eb4ce6f38b2f91ed0a9007800ac559b135e7c3587c8f4cc2e38f777dd66648",
+   "enUrl": "6234ba68ecd968cf262a4542f92baa77756a52033553550e9aeba18ef6e68a7f",
+   "krUrl": "d4c7e1cc9432d04d8acf7f612eb296233102a321e85e4ffbc4279dce311e6844"
   },
   {
    "id": 10,
    "title": "เรื่องที่อยากจะแบ่งปัน",
    "text": "เช่นเดียวกับเธอ/นาย ฉันก็เคยถูกทอดมองเหมือนกัน เพียงแต่ นั่นเป็นเส้นทางที่ฉันเลือกเดินเอง... เข้าสู่ส่วนลึกของ Xuling ใน Ten-Lords Commission แห่ง Xianzhou ข้ามผ่านประตูแห่งความมหัศจรรย์ และก้าวไปยังเส้นทางแห่งการหลุดพ้น",
    "unlockRequirement": "",
-   "cnUrl": "9f9d14b9b64ec78c7808a26d0a3cea16327857142797c6a25bf7d326f97a9cbb",
-   "jpUrl": "2f7a8357a4273e6b32f7b9f377f73bad9bbf81e23ee78902b86419ea92110e59",
-   "enUrl": "023703b0b9e41cf5ac22f1ef158dc9752d1f2811fb2635f9d4b7b2663f0ba251",
-   "krUrl": "38c1d2dec13755385c12891ee238cec083c297dc0064cdee99d992cab3ee822b"
+   "cnUrl": "f641271b9715ba75ae4a3fc2038f3cf80cf91654299799404d8e823a7e8622bf",
+   "jpUrl": "cc6b57aeb6ef262d8cd1490056b18845511af888fdc8cebbfce52a2de5d7133e",
+   "enUrl": "acb053fde05f4b29aa9114d7de2a8d38e8dc729ce9adca720b46c7baf24a2cb9",
+   "krUrl": "89597b9610b0db88151613204c2bb688fe58794e17b3ce92faf2a5d3b572c00f"
   },
   {
    "id": 11,
    "title": "ความรู้",
    "text": "หลายพันปีผ่านไป ทิวทัศน์ของ Exalting Sanctum แห่ง Luofu ก็ไม่เคยเปลี่ยนเลย ไม่เหมือนกับ Starskiff Haven ที่ได้รับการบูรณะขึ้นใหม่อย่างสวยงาม หลังจากถูกทำลายในสงคราม",
    "unlockRequirement": "",
-   "cnUrl": "3e8005929c6b5777010b5827984b6a5bde08d6ca8506a4d251e303bed632508e",
-   "jpUrl": "bb1e2017be07af4220714e71f91531c058e6c1ff9ff067cc5beae0e3e0da6957",
-   "enUrl": "eb9133b122f4514e072322a409903d7fb5606f4196a0552a4951081444d251db",
-   "krUrl": "c3281eae13b088e08d5feb4f506c6358c53e9871e08fec9e9b81e5ed1b70a588"
+   "cnUrl": "0fbe74c26341637af799425e04f15124af3a94e38ee3f56b79fa6d9733e96b27",
+   "jpUrl": "e9e59c45e9b5023e483d19de8b4f2568ac1df79df2c91db5d70c14b30dd6ae09",
+   "enUrl": "6f80b9eb8c01b77780dea876e9e79180dc91b19d1e89c96391e3ecad3a6fd1ec",
+   "krUrl": "6701db2da31c7709363d99535c6f4b904eb946c6f8791ffc5773786421884d91"
   },
   {
    "id": 12,
    "title": "เกี่ยวกับ Jing Yuan",
    "text": "เขาไม่เหมาะจะฝึกศิลปะการต่อสู้เลยสักนิด แต่การคัดเลือกลูกศิษย์นั้น ต้องขึ้นกับพรสวรรค์อย่างเดียวหรือ? นั่นมันก็แค่ความเกียจคร้านของอาจารย์ ที่อยากประสบความสำเร็จโดยง่าย หรือไม่ก็แค่อยากสร้างชื่อเสียงผ่านลูกศิษย์ต่างหาก ไม่ว่าจะเป็นชื่อเสียง หรือมรดกตกทอด... ฉันก็ไม่สนใจทั้งนั้น วิชาดาบของฉัน ถ้าใครอยากเรียน ฉันก็สอนให้เอง",
    "unlockRequirement": "",
-   "cnUrl": "376c34770901c6c0fb51402103e592bed74655b44954f41873685535e6f96426",
-   "jpUrl": "0cc9e67b8ac835c20cb85b4fa8cdd7a592fe9b5ccc6d1363e6d4a46b87edd767",
-   "enUrl": "c27e7d649c268d1d3107b4da2652d8cadb511d944596094f2b91effea1f20df6",
-   "krUrl": "eda587e693a65e6a2f740476a4379a381ce2e055a1b63d574e96afe122a72b50"
+   "cnUrl": "ee8c11e70bcd76d2dcbe4e06b055ceee358c590d0db7c66b4e45ba65c6971d96",
+   "jpUrl": "24bf3ec3a6c2bffafc4159ab3f19776d8c6058e642c3614c854ec14e119552bf",
+   "enUrl": "1c80d35ddf4960ed52a3df0cc141ca5fc42c167093b9a21b77666aec1761d8c5",
+   "krUrl": "c229ad7114a43893df2b0f4bffbf8b11733329cced5763bfd319e18ec7cab31d"
   },
   {
    "id": 13,
    "title": "เกี่ยวกับ Blade",
    "text": "ฉันเคยสอนวิชาดาบด้วยวิธีที่ \"สลักลึกถึงกระดูก\" ให้กับเขา เมื่อเขาฝึกสำเร็จ ก็สาบานว่าจะตอบแทนคืนให้ฉัน และฉันก็ตั้งตารอวันนั้นสุดๆ",
    "unlockRequirement": "",
-   "cnUrl": "7e7c6e734c2407f97be796a3e3186fb1e244872db7c77b1451e52aea24b139e6",
-   "jpUrl": "c299906526cdd4bc9e61bd691c245d618839a58371b738ae2ef68872e559417e",
-   "enUrl": "ca4ac112247c2be37d82c1aba496d7e022cb9fde3d69310cbcde842a5657f1b9",
-   "krUrl": "e566b278fd8fa4fd411be2a2ae1f0e898b1a46d9a1993c0248c3b2f037205517"
+   "cnUrl": "436b3ea9b55978dfb84df5d0e1bfd0c42aa068a393061178c91e2eadb90a82d6",
+   "jpUrl": "2ff2d2faf59bc366dbaca9bbd663ab4fe8675434f2be7403a600673c5a40fd6f",
+   "enUrl": "cecb8c956be17746b1f0282b5a7054a2b3799f57318c0d7e28fa2f8772481cd5",
+   "krUrl": "1ea717cd3d333470238b7679542b1194c639631075c5afc3a7c8dfd7216924e7"
   },
   {
    "id": 14,
    "title": "เกี่ยวกับ Dan Feng",
    "text": "มังกรผู้ทรงเกียรติแห่ง Vidyadhara มีเคล็ดวิชาลับคงกระพัน ที่สืบทอดจากรุ่นสู่รุ่นมานับพันปี แต่ฉันไม่คิดว่าสิ่งนี้คือพรจากสวรรค์หรอกนะ มันคือพันธนาการเสียมากกว่า ถึงสุดท้ายเขาจะหลุดพ้นมาได้ แต่ก็ไม่ควรจะด้วยวิธีแบบนั้นสิ...",
    "unlockRequirement": "",
-   "cnUrl": "92b09b6a1763864d314f43cf48df0ae285055c4d7330656e09b5da3ed749863a",
-   "jpUrl": "c17f144b564e43031e4cd11f5e893d75a02fbf1db8e32f459b916212352cc28f",
-   "enUrl": "54dea40093b1d355ff2cd4f20d10a6d6c9e0e4a9c36428f577b16fa7428bde22",
-   "krUrl": "00543b58b063bbe4b60a15e942fb17def95f12187da4803656ebf10e8884bf9d"
+   "cnUrl": "6e8273ad6df3d35622521993b7ccfb8c80dd3d4df5ba6e3ef859b7cccc4c1620",
+   "jpUrl": "c02fa20dc0dd2568d27c8ecd196b48b7b8530a2dbed0c5f5b382290961fe6066",
+   "enUrl": "a6293d3e5ef1f22ef119b7199e39494c807647201223873a93a52d047fbd5b5e",
+   "krUrl": "22659d9137e38279fed23605f660885171bd22b1c9678fc4f708a247147e3600"
   },
   {
    "id": 15,
    "title": "เกี่ยวกับ Baiheng",
    "text": "เธอเล่าเรื่องดวงดาวที่เคยบินผ่าน ทิวทัศน์สุดอัศจรรย์ที่เคยไปเยือน รวมถึงอันตรายที่ต้องหลบหนี... แต่ฉันจำไม่ได้แล้วล่ะ ความทรงจำเหล่านั้น หมุนวนไปมาอยู่ในหัวของฉัน... แต่ไม่ว่ายังไง ฉันก็คว้าไว้ไม่ได้อยู่ดี",
    "unlockRequirement": "",
-   "cnUrl": "cf9ce273ee09edb4eff6bda8a076f1f4d7a26d987cba08f7e5b3b29cfa62aa87",
-   "jpUrl": "41124b8349e6a9eae80e3d0dd333b262825ff659299016e94e8ce37786377c8f",
-   "enUrl": "bd83106bcb1437e252e0aa890fe9af131be1777555b3db886a084ff76acf73ca",
-   "krUrl": "0cbc1cf4dc42d539c790563483d3595dcb894d53105577762e0ecfd57ee8b6b1"
+   "cnUrl": "2c47a3a9d9870a284a26205399f1180767b13a18a49f8de534a13bc4fdf6983f",
+   "jpUrl": "ad5696df6422f58e5eb142f5f079b1584d77bfbb7acef5b31bbd4a1ed206a4f0",
+   "enUrl": "b3edaaa7d131d28c8816c2dfaaa0cfb820ca60a4960bf3feae323dd28b33a531",
+   "krUrl": "0caaf71bb0da93faafa27e294cacb394f87eddbbcc1ba9b223366ae5cc6187fa"
   },
   {
    "id": 16,
    "title": "เกี่ยวกับ Yanqing",
    "text": "ถึงแม้จะเพิ่งฝึกได้ไม่นาน แต่ศักยภาพในการเติบโตของเขาก็ไม่เลวเลย เพียงแต่วิชาดาบนี้ หากไม่ผ่านการบาดเจ็บเสียเลือด และการเข่นฆ่านับไม่ถ้วน ก็คงไม่สามารถเข้าใจถึงแก่นแท้ของมันได้",
    "unlockRequirement": "",
-   "cnUrl": "6fe0696baad9fdbe7376e1d38833a94f728da17c1d9724d952a74e8aae727ae6",
-   "jpUrl": "846c54e8ccfd08a318f13baf801ef20dabca6ae1124e88f7182195b09062a7ed",
-   "enUrl": "1d6cb2b16b3e68d8ff8ff9c1d3c1f9ccbdcc784c903842d70b50ef0fa81cb1da",
-   "krUrl": "1bf1ea13e56375ce2006df826491ef426f1e1da371c9210a118f8ea5122e0aa7"
+   "cnUrl": "d9ab86fc746c5ff0295113e88592db7bd1a37bcbefb223a5236ccf3c84a21707",
+   "jpUrl": "b49f7c67f4477fe42c579bedaad34aa68964b0d7b32cb36fdfe254d2dd1f001a",
+   "enUrl": "d80e47263cca3cd9f14ad253c020fb1fd64c0fba58ae2bcd7104678c1ca771fb",
+   "krUrl": "65b79454295f75b475f1780b01f62d91ea3a0399fa55f4a78e46440a5a124312"
   },
   {
    "id": 17,
    "title": "เกี่ยวกับ Luocha",
    "text": "คนคนนั้นก็เหมือนกับฉัน ในใจต่างมีอะไรบางอย่างที่ขาดหายไป ไม่ว่าจะทำอะไรก็ไม่สามารถถูกเติมเต็มได้ ยิ่งพยายามหาอะไรมาเติมเต็มเท่าไหร่ ก็ยิ่งเหนื่อยล้าและหมดแรง",
    "unlockRequirement": "",
-   "cnUrl": "2da147ac7f01fa0ff1a82cedc7a276481e0050ce106190dcb78e9c676455ed67",
-   "jpUrl": "77d65193da8686670989a0226f3f6f5e69d3998fb69d392e5657f0480f4e8ec1",
-   "enUrl": "1b49cf968c0e94b6ad1f4fc0d7b816acfae56fcfd02a3028a6591429b814653c",
-   "krUrl": "6355f344c980c5d2d0c4d9f7201c840210a3797c8a605c05f094a58968a29511"
+   "cnUrl": "fcae6ad44406f3560ca1f0bf5c40f3fb3f663f060411f535969070626898e974",
+   "jpUrl": "792dfc0543d8bf302fad89e3d88bd69aa40a7e819bf726eba0784d29fdc49e4b",
+   "enUrl": "a0edef8687a7f32e442769af3db718e99b8859a1858f138851d59749808b1020",
+   "krUrl": "fd4c4479d18bb689a71dc5b5087a54d749e15978a5431f6b8b841565f8de2d74"
   },
   {
    "id": 18,
    "title": "เปิดใช้งาน Eidolon",
    "text": "แสงบนตัวดาบ สะท้อนภาพอดีตมากมาย",
    "unlockRequirement": "",
-   "cnUrl": "5f246daf617b6e55236549c69074a0f46641ee0a8fff46747062ec2ae217ff45",
-   "jpUrl": "7c371045dbd5bed91a1f126f9f3504e5d0e1fc51424d54a3f3cd2753c8f74c50",
-   "enUrl": "53df39956bc47a30b292295c1d67f6ff1d59e35cae13bec893cc7506d984f236",
-   "krUrl": "8943215763b15852640e0ccd60e0123674c138b42146515ea8aa89759c47648c"
+   "cnUrl": "f4bf5690fae7f22546890ac4ca1dc0be242f702d5d93e2bfaffd46879cba6675",
+   "jpUrl": "80d1a758a3ee66e1bbfeb22430fc3fa72bf3a1db3413d56171b200dc08b7b5e8",
+   "enUrl": "cf1ebc950fca9714567b2b140a0abc02a40ffc2b31a39b2643d349a7b30c1b64",
+   "krUrl": "8ed04c6aec82e00eb446a8c1a43d83d195d4494d12a0f12ddb6ce52fc8dc38af"
   },
   {
    "id": 19,
    "title": "เลื่อนขั้นตัวละคร",
    "text": "หากต้องการเฉือนดวงดาวบนท้องฟ้า ก็คงต้องใช้เวลาอีกนานแสนนาน",
    "unlockRequirement": "",
-   "cnUrl": "5f58358945ab0ea97d73ae90895330c9803bdb469c014a17ff01828db682a9c7",
-   "jpUrl": "031b22527fa63ab5edccb54334bc4038ab6c8263b7c69cb9421ff1e3f3c02da2",
-   "enUrl": "1261b9dfc366ba1656fe2d501167cc6793cddcb9c1a8331ab681f0cd194817a8",
-   "krUrl": "7b68d4058e278cd6f22457257dac8f56725274839455b40773abaf0b37d4acc8"
+   "cnUrl": "fc1107e5c9d0fd82f0af5b0021d55059e41c9bb11b848d195f6f889f18beb38a",
+   "jpUrl": "201bccadfa89dab53d488bb5a8875ed99ad4b90b8380a76fd652d1c9ad707814",
+   "enUrl": "419d9e6deb2f1e59993ddd15d0c4926cf31a5cedc8a19ae1924bf7163f1a6f31",
+   "krUrl": "44c2e91439670f7b6f83cd6f842cdbf63055d598d271ac1407d11bb590ddf17f"
   },
   {
    "id": 20,
    "title": "ตัวละครถึงเลเวลสูงสุด",
    "text": "ตั้งแต่ฝึกวิชาสำเร็จ ฉันก็ไม่เคยหยุดแสวงหาการก้าวข้ามขีดจำกัด และปลายทางของการเดินทางครั้งนี้ ย่อมไม่หยุดอยู่แค่ที่นี่แน่นอน",
    "unlockRequirement": "",
-   "cnUrl": "e6673c5a7453491a1d2c01287b3e06a307041ced18bbc06a7963a9f1b07874b6",
-   "jpUrl": "c3c502bc25516174edb42ab22b50ff57698a8c6d41b2c6c501c1a223332418e3",
-   "enUrl": "46aefad30cc35e90747caad40a2651229a4c43fb7356adbed6a048d319419aa4",
-   "krUrl": "e79bb557014fbde6f9b5f700b95dd1d093de76fa119ba8c372cd49a1ce98526e"
+   "cnUrl": "b9be8a2773b63989ed5b2812d8da10cb4746596fd9b54d838808a80d07b000d5",
+   "jpUrl": "ff97a2ea4a1354c9d4929202280f8b950ae76f7eef6bf4b3e60406b7f9fa85ca",
+   "enUrl": "48fb25871d584f5fa3e8c1f26e3633d2d0db67dcf228236c5cbf0b4010e20937",
+   "krUrl": "aaac217036451672b12d05a3f7bb081271cf49cf9c1c049c4871ae28f4cc3c4d"
   },
   {
    "id": 21,
    "title": "เปิดใช้งาน Trace",
    "text": "อดีตที่ผ่านไป ก็เหมือนรอยแผลเป็นที่สลักอยู่บนร่างกาย",
    "unlockRequirement": "",
-   "cnUrl": "8a0607f7e1da2f2c60769bddcb870896ccfb483b6368abafa2dbe519a727655f",
-   "jpUrl": "ce60ae1a2d90e3effce3ad5d08a78b103ca268f7edbb482ef7a118bce44ae26a",
-   "enUrl": "7067afca10bcabfe26487c10e1872b58548f6acc118ef9e30e560eb5e5b7977f",
-   "krUrl": "5a5596698cadc1ef97a42d7448c46542f24eb875c8023fcc30353b0b3b055256"
+   "cnUrl": "703b50074ca16f94f54a2143d5908bceb2df27b4c65dc5ac16445e556bac1b46",
+   "jpUrl": "e464e4609e37cfec5a971fe93a2f6c66a2df267a1991cd5108655382eb8daf3a",
+   "enUrl": "a3847f006a583b445025c83dc10370a2c73c9e4be1658fb0c1e932f741c88965",
+   "krUrl": "6377825a6e412a409ace45ec5003c828e85a81032769a5657781fb82623dddba"
   },
   {
    "id": 22,
    "title": "สมาชิกทีม - Yanqing",
    "text": "เจ้าหนุ่มน้อย วิชาดาบคืบหน้าไปบ้างมั้ยน่ะเรา",
    "unlockRequirement": "",
-   "cnUrl": "e2a3d85b9ed56257ebbba5951798466e7fd485a180e362633c68527d55d4547a",
-   "jpUrl": "863537c1e30a4843ed4a2394e88b2b320382c909ac59cda071f6e65176aa9f08",
-   "enUrl": "d40ec091354e8722146d437345126c9829886216faba49ce806dc7680da002e0",
-   "krUrl": "0ac16cdd22f6138e65173fba8559ee6853eee8f9028f8cff64bcb14a51739b4c"
+   "cnUrl": "599f400ccda47159c82b68dbbdc4ca786351bbc1db058281c61479019558c660",
+   "jpUrl": "375c98199e4ad1c49f6da459a50033f7d65f0d3e33f92f20c71720105de90cb8",
+   "enUrl": "2a97c1b4f660443070405fd69b838d95c85a07f082ecc23b7817553a1678366a",
+   "krUrl": "a90760946c4c66d665476da91fdabb9b3edeea50e53c8bceee229ec3ad03e36b"
   },
   {
    "id": 23,
    "title": "สมาชิกทีม - Jing Yuan",
    "text": "คิดถึงจริงๆ เหมือนเมื่อก่อนเลยนะ เรื่องการทำลายกลยุทธ์ของศัตรู ก็ฝากนายด้วยละกัน Jing Yuan",
    "unlockRequirement": "",
-   "cnUrl": "eefe580966f6118d6588a7bf1f97f6b18ed875b06506775c6bbb9957c9cb9fa4",
-   "jpUrl": "9ff6d7e5d6f064285453eaf67fd505b1452495ac285cdcc818ee17f98d6914ef",
-   "enUrl": "5062e2138b7f27afac26c1838d325ee275a8695d21880df6b58db007da7f6865",
-   "krUrl": "93550fba48ed519a67f5f2e9ab18f1fdf5ee34ef085dceeb2109e828100ec45c"
+   "cnUrl": "68c5d4990c5d183f53ce35f1e71defac2e4a7bb95fac6c72d0d7c463836ee3f3",
+   "jpUrl": "3b78d3002c90e72ddbf0375fc4599b588d9630e18f65a56c2923860da9ca3cd8",
+   "enUrl": "d42ed7998884570071051c03aee4fa014e3ae5dcbc7733f626f4ae977a3b702c",
+   "krUrl": "56cc4b49ec32976276bbbca118252b1c96eb0659839ed4f9367469e093c00b86"
   },
   {
    "id": 24,
    "title": "สมาชิกทีม - Dan Heng - จ้าวยลจันทรา",
    "text": "จ้าวยลจันทรา... ช่วงที่เราได้ต่อสู้เคียงบ่าเคียงไหล่กัน เหมือนจะผ่านมานานมากแล้วสินะ",
    "unlockRequirement": "",
-   "cnUrl": "cd06041dec032b93e4ab687e4c005e22fb7d13bc6c54297b2c1519a7cdd769eb",
-   "jpUrl": "4ba89c8e541e924f2173ab28dc9b9b7207612c0d53e3821f8e2756ea286ece69",
-   "enUrl": "088e7122b8aa9aae1220ca7506436f152f69d07e82e0971802cd1d6c45edfb4d",
-   "krUrl": "50144e87166ce2162c4542678b73e2457fcd6b460cdb2311c47f2004eba799d4"
+   "cnUrl": "b00096df129e246bd097cecd2848e58621db7dfc14d256f86b7d9c01e246f3c7",
+   "jpUrl": "41497067eef0618d113ed9f211d6df17a7a622aaaf4637a2530a1d55260d9e1b",
+   "enUrl": "477a919b7d4983029b15f3a382069f4637db6859de4acbfdc34a174fd62e2fbd",
+   "krUrl": "035e05ac7716fd4489353a33ec478c4cc119288cd62bd19f2062924012ab9955"
   },
   {
    "id": 25,
    "title": "สมาชิกทีม - Blade",
    "text": "ยังดึงดันจะเก็บดาบที่หักเล่มนั้นอยู่อีก เป็นเพราะไม่อยากจะลืมอดีตอย่างงั้นเหรอ... \"Blade\"?",
    "unlockRequirement": "",
-   "cnUrl": "93dd5c583dd0f4201671bc234dabbc18dc9cba04b0e3a8261c488a1b008785ee",
-   "jpUrl": "292dd7c38ee820cccee60e3f5cfc3f4ba9cf4d4d88c74800fa68f94b9d6303eb",
-   "enUrl": "e60e3f8e83d497f306d2df0b8023c9816a88faeaedc02934084971af40bdc2b2",
-   "krUrl": "94d2a64562d1f12b43f0838205433ed1301b617b0094a28049cc9063461c2e15"
+   "cnUrl": "e5e668efda6b0a3c1ea3ff87f79ee4378e55ab148460d784ffe7db0a8f8efb17",
+   "jpUrl": "bdaf1d9a7be44718b53fe829fe4a53f4f6237c39ee20579180723e97f92bfa17",
+   "enUrl": "bad3c68502385c0a47db917bf6d8ce217ee33cdd515ed352244e76ac86b3400e",
+   "krUrl": "12bd6dd035b006d7bed2e89cba4bbcab4c32be22b9365fa879859609e1820f43"
   },
   {
    "id": 51,
    "title": "เริ่มการต่อสู้ - ทำลายจุดอ่อน",
    "text": "ไม่ควรค่าให้เอ่ยถึง",
    "unlockRequirement": "",
-   "cnUrl": "3f2e16d70f15165e8bd99df42a26e2bfbcc74e25be904b15545b97d26b37a7f3",
-   "jpUrl": "67d87630f36954c2b9fd15ef00e8e2a7d64b8aea112bfd1591806a6360f3f531",
-   "enUrl": "f76b8332102ba3f8bbe3bc5de97a433f964f71c1ebb5b4f12406df35c9106646",
-   "krUrl": "371e401d0574fb8d06750007bcf675d3f472250d8f9fa87409f705c018da36c2"
+   "cnUrl": "1e0fa1618ec5c68ff8aa63263e8507c7bd28636921721b2277b5c69180dec784",
+   "jpUrl": "ba5a4b5815003dad947082059ff3d641ffb69863f3a4d18522e3c47cc7fb3890",
+   "enUrl": "7b0cf7709b741ecf4b6f48e2434a2544573663381b0aa1aa3c9d0b46b0c33b24",
+   "krUrl": "a1cfb037081bad821059fa94b6991cca7976706dc277d289c489ac0642822a3c"
   },
   {
    "id": 53,
    "title": "\"Spectral Transmigration\" เริ่มการต่อสู้ - ทำลายจุดอ่อน",
    "text": "สิ่งไร้ค่าใต้คมดาบ!",
    "unlockRequirement": "",
-   "cnUrl": "e2ca690cfdc22c85580a03fdb4a67a51989631b91d48dabc7387865c2f409e6e",
-   "jpUrl": "cc0ff5d8f643b4a1a175dc3f5aba8d6b7c5411c12f35839753bddaf2fd5db4ef",
-   "enUrl": "e1a3f7bac3d9451022729b1794f8ceef20508adf67c57dc5073d77d4677842b0",
-   "krUrl": "bae0f3e05ae55d29d26e14731845d3a37fe7f948619338310325b0978a56d32b"
+   "cnUrl": "90dc2cd1150203d9de0c9af75a67893345135feb722016a1cb7298838f4b95ea",
+   "jpUrl": "824df6b9bda67405fd6a6bcd7d1035af1b5796b548d8191ce5d3dcdbd2f61fd9",
+   "enUrl": "5cae65eb20438da404e29478b8ae029c8f45adf3c1491da6bd1a4a90239f1097",
+   "krUrl": "bdea5db0f52d48f88ef8db02120609645e892d7ac3a03720615e89472d386282"
   },
   {
    "id": 52,
    "title": "เริ่มการต่อสู้ - เตือนภัย",
    "text": "ก็แค่มีวิญญาณเพิ่มมาอีกหนึ่ง",
    "unlockRequirement": "",
-   "cnUrl": "5aa358743b25550eb464c1148af869628d35a131035db55773becdc0fba64f99",
-   "jpUrl": "05b10e9292413cd6cf9210dd8a472d560e6e1136c3beef0b69b2b09354e34350",
-   "enUrl": "160d04a2d241bf07664e72eae81aefabde62e327395fef34578f017c77828dfc",
-   "krUrl": "fba24d8788ca8de1758a87459f1e67d30e12b7920c68159f252de96580b21d89"
+   "cnUrl": "a17bd4798d15bb65c99409e907f4b8516d8bb77396b8d51cf84035e548a203fb",
+   "jpUrl": "0c140154a1f34e9ef3191d99eea978d34c273774b870032191e9017f9d886266",
+   "enUrl": "962d126f01056dd9b7a7d5c7cff14ed9dca5d9e006dc806fdbf5db552fabba59",
+   "krUrl": "4d80f597693ee884538ee8871c39b554df492d888524e7f224981d21dee0766d"
   },
   {
    "id": 55,
    "title": "เริ่มเทิร์น 1",
    "text": "น่าเบื่อ",
    "unlockRequirement": "",
-   "cnUrl": "189eaee313ff7db0a48aed01d8fb9d8c8764254c8d54511f976315c196c330f2",
-   "jpUrl": "f0edc4ef4a50451a0c20dd0dc9ad53c2dad2a2e8cec99b1db57fd073ad984061",
-   "enUrl": "e81daf490ce13cc45a0d12a9ad127b00671ea523d2ba1ee8506caf380ac3c529",
-   "krUrl": "9af2e6ec0d844842650c34cb9c0e338d883e48e9c453a58241dbbd849140fdca"
+   "cnUrl": "0e79787c70a62a87b6d9e565648a8827dfac005b9cf0f558507613e334110e6a",
+   "jpUrl": "6ec16a7663079c1b44ab5f95a4e6a9d20b3416a9ccb8ff3364ee8f40b7c8dba4",
+   "enUrl": "2c57254e6021a1ec18c459396312a3c18ef8a3b0b07e5f5da3794ce2155571a6",
+   "krUrl": "a77e7572b17b4d86501b81eccc885d1dad6234a64f3dc321b1aff07d669f20b9"
   },
   {
    "id": 56,
    "title": "เริ่มเทิร์น 2",
    "text": "ถ้าถอยไปตอนนี้ ฉันจะไว้ชีวิตแก",
    "unlockRequirement": "",
-   "cnUrl": "6e69e3e5edf1ffe3c3974814cfb5c6be74399148800382eb6668167ec732d2d4",
-   "jpUrl": "817ee70ae0bd0fe0a0f6182ebd92867a783716c2c818878faed08ba3ae3abf71",
-   "enUrl": "ff71f1f76f458a9dca3a9b5bca03d4a17604c3f6b4f58f197912656a541b9030",
-   "krUrl": "70f688582cb53cba5b49d36ee2a58a73882b1b6d055a9b636d64b9721adc1f3b"
+   "cnUrl": "00c26f8d0c0ad8325470804385d5f242f8a324014080bb7ddc95df57ae7f8c8a",
+   "jpUrl": "59bbc2d76a4d344844fde589235439200031d7f8ec2c0d4ab122a94d6473fec8",
+   "enUrl": "3dc92e419dc3dea65b614e8164c57c2422dbaf9bd341022635f5de7d7feff3ca",
+   "krUrl": "076a1be324b24ec83382ec417ad5f5771353236cc0f1e438a7fe7d7967de14fd"
   },
   {
    "id": 57,
    "title": "\"Spectral Transmigration\" เริ่มเทิร์น 1",
    "text": "หนีไม่พ้นหรอก!",
    "unlockRequirement": "",
-   "cnUrl": "b1a8254b2d1731675c3c0ed03e18c62674cb2e2f503c5a68fbfbc648e2afa72c",
-   "jpUrl": "0cfe27f58296e7aa781f5c169b5fac6722e9d31d7a620b0e18fbc440931ba99c",
-   "enUrl": "0e71e6c685ceff95eb47697542bb8bbd714627ab755f630df4b923fb3b1ca1bf",
-   "krUrl": "bd98dfccd05efaf63fa54b33dbd45f3580c9a75ed6b110eed97e93c5ed85dcc8"
+   "cnUrl": "956a366ea018b0a23b33012f9d7781860ebf141f4f7ff39cc177e0672b80e5ee",
+   "jpUrl": "08b299cc61e42fe74c82a20cd3e016c598f9235653f31b135ede91008ec5a4e6",
+   "enUrl": "7c192b2f0543fe0de63b76010749ed84f2321307af871549a7947d9dc90cfd2b",
+   "krUrl": "5c8e26f0c560bf99acc74467fddb607cfafe200fb2ccde11d990624dd55686c5"
   },
   {
    "id": 58,
    "title": "\"Spectral Transmigration\" เริ่มเทิร์น 2",
    "text": "เตรียมตัวรับความตายซะ...",
    "unlockRequirement": "",
-   "cnUrl": "d2e0f25443aabdf4a50666af20a548aaec3e20e820ec93df0fb89a5aeeb96b0a",
-   "jpUrl": "3060047e0a27abebf2bd670bdd10ace22204c29802b8a78de1352ed3dd8a304c",
-   "enUrl": "852712e7536fb5f40e181daed4928a0510c6cbc6a286bc5f4e2e876f22328d2c",
-   "krUrl": "61402be3ab265cccf65dcdab29dfad08d5b2c7289d2f310d6ec9a5b65630a94e"
+   "cnUrl": "a98269ca50cf3479170f5aec9e05d0f5c24e7a3aca2dbb7d5fc76c02290a7b22",
+   "jpUrl": "b4d28fe8cc50fa69ab4936d267b59d1ca22515a03fe6528bf2f23ac251330616",
+   "enUrl": "f6eec075ec07486a88b73379ce842ec5deb507506ca9d6a2f783459be50d4a69",
+   "krUrl": "7b323eeb49694191631b2ea47e36e291069c69d6fab6a3afa9275eb2be23f36a"
   },
   {
    "id": 59,
    "title": "เทิร์นสแตนด์บาย",
    "text": "การมีอายุยืนยาวก็แบบนี้แหละ... อดทนเฝ้ารออย่างขมขื่น จวบจนคลุ้มคลั่งในที่สุด",
    "unlockRequirement": "",
-   "cnUrl": "492d10d3f4a21ee25c6c592cbf115178729b7bfbc53f48abddac76cef3efd8f6",
-   "jpUrl": "3713bc3158981b116abb4b369750db08ab06da5e8875cbd1bd1899420a996744",
-   "enUrl": "7b88f97cdd787230ce6c01929ecac5903bb3bca9bdf59dd7c87694e9c6ed62b1",
-   "krUrl": "80f796778e0802c4ca0b24503d81611d9c72b7eed63d2248d085b6b1c0915123"
+   "cnUrl": "807ae706c4383d387a70b9b488cdb3527055be7cab83269446c13d7aeea4c8fb",
+   "jpUrl": "cdb3466b40435feb2fcf3356d8c3fa14d6643ded9696e3b1e5f68908bec2889c",
+   "enUrl": "f810b4f72b6ecaacbbcd0861d163e7af155687eb0b782d67eefa036a223d190d",
+   "krUrl": "a7f87cef409eab053d31bfb57a0c61795c6d08826578c882849250c6891bbbab"
   },
   {
    "id": 60,
    "title": "\"Spectral Transmigration\" เทิร์นสแตนด์บาย",
    "text": "หยุดไม่ได้... จะหยุดไม่ได้!",
    "unlockRequirement": "",
-   "cnUrl": "9e8017819484dcd580564e0cecc96a7d5cf9accf38d590d8444a537e30670173",
-   "jpUrl": "2a4ca29b4b057b638a5c59ec8c2f8f9e50ff23328c02fed0540417fc7fbfae9c",
-   "enUrl": "408081badd2d53ac8d1b7a6015380f2c635cacd4cdf8f3d64f2a59b07031de75",
-   "krUrl": "165857b70332addbcaae91e1f0db72bc2db94e790c959abfdf4a7bfb704f693a"
+   "cnUrl": "c9bfa184c0a49d965cee9dde141e88e2702466e4f95740f1fd74cfc1c3299579",
+   "jpUrl": "ab6d07cd0d32c1d10ae8cf00f52a8ad6169184cceaa9cc6d84a06fd6b9684d14",
+   "enUrl": "6e9df84ecf72254fbef3644530778c00e76100aa057e801243c7a81662e8a438",
+   "krUrl": "a15ec35f1284f630642390d1faf55b624c93fdd82ec8bffa0c93df6de7d33dd6"
   },
   {
    "id": 61,
    "title": "โจมตีปกติ",
    "text": "ดาบนี้ไม่หวนกลับ!",
    "unlockRequirement": "",
-   "cnUrl": "e9673c28d017aff7b12dda298e5927201752eb364782663b0fb141154e01771e",
-   "jpUrl": "4f324adb46d8294319171241fe1d806342de9520e7a6321902eae323a00f8b92",
-   "enUrl": "b84eddab4a17448277b67d4301856b7f3127d89c139f7e41ad19b6f5793f7afc",
-   "krUrl": "fa77562addcf258133582267b583959009cdc3ada7dee8e48eecf9ea133d44d7"
+   "cnUrl": "fd4bcdefe3a9e1f6112ddd2632c7ecab8bfa60d5859a3c1df8a3858ca9a5e27e",
+   "jpUrl": "d857b0a949adad1f6155051e80a5f97114f862ad97646df7bfa037f5b5940ec5",
+   "enUrl": "a07ee3d59d06900af8cdd29dbbc45abf5da3f51808965c8d29c24448428b9898",
+   "krUrl": "5fc723a4dbbd96b9a182aeb6a5b5ab4dbfff0077ca8553397d5267dfa08ff2e7"
   },
   {
    "id": 62,
    "title": "สกิลต่อสู้",
    "text": "ประกายแสงพวยพุ่ง!",
    "unlockRequirement": "",
-   "cnUrl": "3553f917f3be105b2620a9bbe1934f367928784249a88ffe250a92948b39ed92",
-   "jpUrl": "a9ad17092b797a99fcef4e396c798170482190bad6d7f5f513f0b59184fee067",
-   "enUrl": "1a4bdc903a0549710b3c278d01403810de14a839682a70776bcb3682c6603a5d",
-   "krUrl": "e1caba6ee006f173cf3b5e2b6f6fa8dcb9477075c1c4b6f0b8f0d70ac747e796"
+   "cnUrl": "906f9c0d12f5fa98c88597353aef2cce0cfeca991afd5faa7440d3d9393cf21c",
+   "jpUrl": "4af298c9bcd7eb8366ae56379a2c637b0eeb6a65b9b38cc7c5169402fce300ea",
+   "enUrl": "23e4a54cd5ecaaf90b9ebb2b07739ecaf3f069e65abed910e60191d2bdbcc56a",
+   "krUrl": "221989012c1d2171e865e46330269eafeb4e54ad5df5faa0ca9c5514d2e1a013"
   },
   {
    "id": 63,
    "title": "โดนโจมตีเล็กน้อย",
    "text": "ไม่เป็นไร",
    "unlockRequirement": "",
-   "cnUrl": "a1ede6a43bd11a021ccf29db4d447ac1a4ffec67bf67908ca68d78840a1cc197",
-   "jpUrl": "e59523ef8bb2faed1000dbd2198336ad8601770ac43572a71afd84860f9267ab",
-   "enUrl": "ff6cdc37ac2340e115ae72db239c74279e1d859c9faed4aaaf9b58ad1525007d",
-   "krUrl": "09b5592d83d2223ae7209992656c05eabdd078164c39d21b289455fef962f776"
+   "cnUrl": "cc3902343dc8d38ea8fb411dd26ef7264864230eaacc7748eac7f8e6f49e47f3",
+   "jpUrl": "ba0055cf7df15b98ff260dcf5332062c13464106019ade0885f26374f8f449ea",
+   "enUrl": "88660358ff78423e0a43a813d2d1b02fb6db8b1858b8739354a9c5c133104f43",
+   "krUrl": "54c5364dfd63690eae8237c4cbcbb9c551df548b2da0d139c62c01e54c85dd68"
   },
   {
    "id": 64,
    "title": "โดนโจมตีอย่างรุนแรง",
    "text": "ไม่มีทางโค่นฉันได้หรอก!",
    "unlockRequirement": "",
-   "cnUrl": "6da1b56268b39325b6bf6e987839f62f023d466ef7cb28022d2f23a142cef0d6",
-   "jpUrl": "b2a6bef8c17e9b827bc539a4c22ac1978445530b83e65c18609dfbdc1a752392",
-   "enUrl": "7f7056e7218d1a0fc0082d2b323261578d8af02f8483b29773ddc8eaf5c5c46c",
-   "krUrl": "b2cf48726c024924f0a3707f8af5a68daf0c0450ac909bccb3f62ec9c2b80d64"
+   "cnUrl": "73635174f076f47ab277650ebfc8ff1f15d13f91aa6e8ed7c7ff78dd3661af63",
+   "jpUrl": "704b2ce22ec853419208ce1fcf443563c29671f8c0db2d0198ef717b671fb77f",
+   "enUrl": "1175c0089f4cc26fa80cd33c35120edffdec45c3450796be933eed3ea069449c",
+   "krUrl": "9b8259c6d71f22defae636cd6c8ce74ab6a7aef273407235bf29a2eef9cde30d"
   },
   {
    "id": 65,
    "title": "ท่าไม้ตาย - เปิดใช้งาน",
    "text": "ปล่อยให้แสงแห่งจันทรา...",
    "unlockRequirement": "",
-   "cnUrl": "9eb4e16fd924846e274ae73077866b4a407465200b525511bcbb4639aeb7c5a7",
-   "jpUrl": "59d042524364f5768bee144c64ed2f2fe50529426783a8414517d568bcb4e844",
-   "enUrl": "0dd11b8c5cfc2f05d13cc437d6fcb14230849f2da2b43a8ed52a99c0ca2b45fe",
-   "krUrl": "9c3072815aa6fdbbd170f62cb688988db1029db3f0b41966b5c9e04dd88dbfba"
+   "cnUrl": "5fa3cf89e7a989ed1845272b2c036120bffacdd40186975d22c3496c62188027",
+   "jpUrl": "9e4e2192bca2f380a67ab541c3042ee382cfa82cfc39a5a3c5f597cf94f78d40",
+   "enUrl": "b9d8ae2aaa2761e693a1a98e2d35ff073a7244ab08ae10cc3cf35d08d06225ba",
+   "krUrl": "b70eba8bccc085a838caaa0b6797b20c9954f19833ebab57a137cd56bce3134b"
   },
   {
    "id": 66,
    "title": "ท่าไม้ตาย - ปล่อย",
    "text": "ส่องประกายสู่หมื่นธารา!",
    "unlockRequirement": "",
-   "cnUrl": "0f9225ceeb2ae8ba92bbd223680bebc5f0f2280b270fba4077428b909fc3e335",
-   "jpUrl": "863fa410263b2750c1df19c74ca2945e07f2f5df32e1013f2c1cdf1c5bbe3ef5",
-   "enUrl": "6dc6484f6c4b376202c3d6f2a4d3e6284b29fd752234f5fe6bc97826c414d82b",
-   "krUrl": "3b415eaf95aaa64ad4f72733c89808b5d0e9dc42834268c863614173584b9ac7"
+   "cnUrl": "f2aefa6bdd2a7639ed85e600f658a54aaff2b6f71ab8b0fb84deb34c1897c852",
+   "jpUrl": "af36fccc9a9288a2f1f353c5dedd57c1c38e5b8086a370be7b0680cbb7389c8f",
+   "enUrl": "f86bea5b3edecaae7e7c97786f4bc22e2441650210961b841c8c61274245854f",
+   "krUrl": "87398e4bbec0133646e5f0c8aaa523ce9df2baac79128e5802525fe50c65c0a0"
   },
   {
    "id": 67,
    "title": "พรสวรรค์",
    "text": "แสงจันทราคือดาบของข้า",
    "unlockRequirement": "",
-   "cnUrl": "6ebd9262f092fa44da5a9fb677a3d6819863859cfd2e048ca35578e64dbd50f3",
-   "jpUrl": "4b90b0e833589e288faa309eb9b1542b2e3395e2738b4e36ed85d9000d9784ef",
-   "enUrl": "b4844f85812e73565d957725744cd3d9413b1cd7f39a61a8650d08c5cac15f57",
-   "krUrl": "63a5a82d8f519e8fabb9a34f99e05b44b42ae4a4267468e51aa52570fe3f5667"
+   "cnUrl": "148cf08582d6ae9a27d5734e8a1c9888277a784d48232994c039cde79681753c",
+   "jpUrl": "919c09f18c5412a38dd33e6dbce34c914336c1a04bcf2d913772822769ec7512",
+   "enUrl": "412c13f7f9c526cab5f5d3558ba415d8bb3ab3b8857f7124131a7895f1c5dbd6",
+   "krUrl": "5c631f6c8124436cfcc7e4b39c5ef780e1957a81fedc915882f92ab9ae271e4b"
   },
   {
    "id": 68,
    "title": "หมดสติ",
    "text": "ในที่สุดก็... หลุดพ้นแล้ว",
    "unlockRequirement": "",
-   "cnUrl": "44f7e650a93a4c49d980555df52f13971c4b5b64252d23dcbd4b72414ec49959",
-   "jpUrl": "ffae59277b32d3a4b56287d5d5f395ed9d004e8733e116433a204165712cadde",
-   "enUrl": "89dea5e8cc5e0035f91ddf9bf3627d589ba784ca52bc124215b0c8c2228650cc",
-   "krUrl": "cda8b19cb1b48232acf90621ab1414a1e0dc44afa9dcc8f169fd67e10266b4ab"
+   "cnUrl": "2f2fef7019261e4d9fa007aa9ced1934fc145b1943a659cdb2ff1a69edd44ec0",
+   "jpUrl": "0f0490e06b112f07b56f2f6c740872d47853a87841833aca7f63609ce95191d4",
+   "enUrl": "81797f72e81f0a1034462b58860bbe6554cb78f7ddc7878937d2b9ddfe6623cd",
+   "krUrl": "7dfbd86a9748cf42b418d9a8c49dd27e86a2f1325b5fc10c8e65c2feac223431"
   },
   {
    "id": 69,
    "title": "กลับสู่การต่อสู้",
    "text": "คิดว่าอายุขัยอันยืนยาวของฉันจะจบที่นี่งั้นรึ?",
    "unlockRequirement": "",
-   "cnUrl": "56efc241dec9c5db4d6c349882d4cc6e5dbe7d409b82b862afa7ebeed2bff44f",
-   "jpUrl": "240d4b6dd6079fbbd3ef5c8c0f4004a0a9443f1dd770735fd00a55d5a6404814",
-   "enUrl": "3edb02698c11859fd2ac0337d1f76293864d6d2edb7cfe38499204d6cddcecbb",
-   "krUrl": "bdb702452b832d4ce507425485db7b9667fe2d73f07dc4d1cf297b91fef5117c"
+   "cnUrl": "a949bc516cf146f1bbfb797c79f04f0ceaeb6145a075fd7cfc6e20a5eaa61682",
+   "jpUrl": "1dd62d4cab998323b61afcfb03c9fca7c1c8a5f3b7cbd42fe25d67de118fa8d3",
+   "enUrl": "f2a62e14e26ed5fbac985410de0ba7eb096d3b18615e1a0e42ca6f9d87267ce1",
+   "krUrl": "1f63dbfde92c3a2ae5ccd4373298272667e2bdf868ff77d62f2a96a6bbfffad1"
   },
   {
    "id": 70,
    "title": "ฟื้นฟูพลังชีวิต",
    "text": "อายุขัยยืนยาวนั้นไม่ต้องการให้รักษา...",
    "unlockRequirement": "",
-   "cnUrl": "ad16a2fd2dd04944392324b11dbe364508c985543fb028f5c6758140b13ee9a4",
-   "jpUrl": "4d7974be93078ff7ec3fdd4c95f8b1340f058d250bfb9887e59265086b8d9e26",
-   "enUrl": "2e59be1896f1f7056496bf91ecf55f75add7e62a6013e1e09b9ae4599be791c7",
-   "krUrl": "03437469e2e1caf745afbe7a2ad2da9ae942a69331223b624205431c9f2045f3"
+   "cnUrl": "c99ffb240d4375d333072032a4648348690e62c2a7a682968eb9959ac00c0be9",
+   "jpUrl": "62651c3ab0eff19511bf1e2ca6e4b0d1f068d49141b884125e208e7d371441eb",
+   "enUrl": "8b139d8ddf992eb0f010ef19468803a4e574422703d7e613c15c12d63991c11a",
+   "krUrl": "2fcbffd6f2febef6eac51c385ac5ea678773d86d887026415de2f39fae9907bc"
   },
   {
    "id": 71,
    "title": "เทคนิค",
    "text": "จันทราสะท้อนความจริง",
    "unlockRequirement": "",
-   "cnUrl": "c8e368bd665872dc1bbe456b22f0c8d92ac85fb7d9791fc46ddeafc7bf623e8d",
-   "jpUrl": "749ee35fc9efa36621da79dc4a2214f72c1c7fd6c2fbb9d17181e7bea07f8228",
-   "enUrl": "e976f8a9d145416c1d1806883cd3127aa9033f9bc188ca7e01749975c77d78b9",
-   "krUrl": "56e3160a6451ca3bc75326e463f7b5fa3ea5049d518aad49fcac1910dd347569"
+   "cnUrl": "d71ab45ef6701aef93cff260a77029b7e479285e2edb012e04e9f819e1c1a81b",
+   "jpUrl": "8d7552c93488a61f3dd4e2582e6ce6b3858ec2148518d59d5b6f57b32527bd3f",
+   "enUrl": "3e171b00ac7be9ea8d5af8d166418b753e512b353e386e0939cba9ce2daf5a2a",
+   "krUrl": "a81b51dc0258f5224f33683ac217595972c2b928d98bbeb896b6e44f35157327"
   },
   {
    "id": 72,
    "title": "ชนะการต่อสู้",
    "text": "จะแพ้หรือชนะก็ไม่ใช่สิ่งสำคัญ",
    "unlockRequirement": "",
-   "cnUrl": "ac09a51b6e3dd57e3cbb19423d88ee030bee7abaf5a2d09d2ffc27af7fccc3ab",
-   "jpUrl": "21ed4cf99f002817014f7e7dac43ebd728cfc962e4bb365d86f7adfe05331370",
-   "enUrl": "cc9e57ea1528cdb935e07198a4c44a78f5d57129c9fd01b65313e8076194a96c",
-   "krUrl": "a4b02a4e8b231740bb34fbbdc2e712fb73373caf8409a366b4e3e622cc9d50e5"
+   "cnUrl": "f11aecb16764bd327cf47ee6655e096d9313f82aa6a937119e3a413acf5439b9",
+   "jpUrl": "3cf8a7b73e4516511fc2fc00c53034b9218c76995ef677cd4768a1af71489867",
+   "enUrl": "823e4ee109296738d7dbcbcb8cb7d04a62a88530a24fb72a72e1d54d753c8617",
+   "krUrl": "ac5954513dee2a8361dd4ccae64a71219afe569fa59d527c6d34575fd51a6a55"
   },
   {
    "id": 73,
    "title": "เปิดสมบัติ 1",
    "text": "ของนอกกาย",
    "unlockRequirement": "",
-   "cnUrl": "7a697da2c8a75a1b424722803f2bf89f57e6d334f86d34e96a4681074f49af3a",
-   "jpUrl": "ff04c63374a0c3ee66c7c309ef8167c6f43314e42e8aad1599e7c0e8447d032e",
-   "enUrl": "ff6dbeb44cd68826b13790ac45eb6cb3681c83deb407428ca9d7d475ffe356d1",
-   "krUrl": "898ee9044cc748aca9e239c5ba69fe78933598cba38e7bccb4db8bf5e729506a"
+   "cnUrl": "63f8fa1261c95a12294cca6ae9f29804f7cebfa828b55baabc5cebc552ae7b3f",
+   "jpUrl": "111b8f75c99b5e8e685fda33389aab6f1d884a99090525b14d1cc72de56de2a6",
+   "enUrl": "d8e64f2af8a5ceb31752bedb9db86068a8a05985e718d2302ec23f05e031f370",
+   "krUrl": "6eb5766b3356d125d7772bef89bbca98e00bbe7c19f80aeb9dbcd552a29d397d"
   },
   {
    "id": 74,
    "title": "เปิดสมบัติ 2",
    "text": "ไม่มีประโยชน์สำหรับฉัน",
    "unlockRequirement": "",
-   "cnUrl": "6b1ed701e4cbbf5388021cd9820d1cc2f84e73005eedc6818804dbd65855557d",
-   "jpUrl": "a6f452f9bc2dddc409a86db63e445346cebbafc277a9338e7fde2d5a85ff7105",
-   "enUrl": "97c45de17c9ad74cfd6573a9427166a0f00e306306cedae196fa01770b2538d8",
-   "krUrl": "3df9f7d3099245841d2c6577cd13b0f536a39c85e0fbcd7919f37734ac7e7746"
+   "cnUrl": "8550271819df5ed6e151851eb35d2d5e3c354b7bd182df08540306058a41dac8",
+   "jpUrl": "183dc708e8ba17c9380741ba4d77257a5c9a958fabac0cd416b2089ef949320c",
+   "enUrl": "22b2b40bf3bd3c3fe2193642b6c75528b5a7ba82225df2155b526a841c9ceaf3",
+   "krUrl": "a96eee2b0389e9ef5d1adc8ee9b5e6642c30a25f6a7a634e7be44308b11d51e3"
   },
   {
    "id": 75,
    "title": "เปิดสมบัติล้ำค่า",
    "text": "นอกจากเอาไว้ชื่นชมแล้วก็ไร้ประโยชน์อื่นใดอีก",
    "unlockRequirement": "",
-   "cnUrl": "a2f83cdfb4e9ca8c77a6a8e2ba315905a2b84b767ce2e58e95b098c9ad36b67e",
-   "jpUrl": "009a2cfe873e317b747b0f2f22fe113be17ef4f9aabe864e1080fb1653805b9c",
-   "enUrl": "0de53a7cca3ef0817c8a43495b2d2798f8ad3a86772279997f1c4ca0b8ddee6c",
-   "krUrl": "ff0ab00835b4addfff499b17145a7ee177b9758eadf48dcc39651e7f32e33bdf"
+   "cnUrl": "1468681ea3886d62792014347448b536a7db1f541a7e2ccd04e7f84a55c07c90",
+   "jpUrl": "c7e8871a66fa28ef7b94d8d51d68d1ce0bd61d29affb186db9ae54f50e1d83a4",
+   "enUrl": "118fc171f655ea90c3fb2dadb9299ed7820924c31ea82dc08a0c50741de2b910",
+   "krUrl": "7cf6823a087a043e755c1c1b4253f338523289416f38848648a82a8eac8124de"
   },
   {
    "id": 76,
    "title": "ไขปริศนาสำเร็จ 1",
    "text": "สำเร็จแล้ว",
    "unlockRequirement": "",
-   "cnUrl": "88c48efd6265f44db3552597ca694f1036c89ee3504f4cc4456fef227bbe0d28",
-   "jpUrl": "cc4ebf443e217dc42b6325e49826dcb70a2c9982243f960564fba15103f2600c",
-   "enUrl": "b87b3ffd317043bec77393817bcaf1fee431195276ad2da07ae4516aa95976ca",
-   "krUrl": "36e8bc4fb36f9ee27d34acd85bca3d8c386c890bbb331af99718905e1b644591"
+   "cnUrl": "8cf892bee6184a8d6780e8c98c013022f606f9ff33b61e8eabc1a5c94bc59926",
+   "jpUrl": "59dbd42504eeab43aa2f6ee8fd7559005a656742c60513508e82c96dc819fa92",
+   "enUrl": "0644772fd92d94983ac5a84bf0fafd16bebd5317ce0dd636bab51f294ec90733",
+   "krUrl": "d3c819eba9e1087a07afdbd69759d53ee6c3c3fad32c92eb7b4461785fe2e5e2"
   },
   {
    "id": 77,
    "title": "ไขปริศนาสำเร็จ 2",
    "text": "ก็แค่ลูกไม้เดิมๆ",
    "unlockRequirement": "",
-   "cnUrl": "2a07615866e14e292e5a5586583e166d4e96393b51676ea9c3287b1a028423ab",
-   "jpUrl": "055f3df6ef57b4a531f57307d5b1578f0b95fca575bad03da6e93ccd65ac1a83",
-   "enUrl": "686c25444b8c1f29592cfaa86b32e680940956d00e00caac3c76addea869ab91",
-   "krUrl": "6ac5e7ee0067746d17003e35723b56fe582f16943028fe9eea6c5543c73c4e3f"
+   "cnUrl": "02f64d2b760fff18e77f30020f247b6bd546c44dd229651bbe63820bf2d12df6",
+   "jpUrl": "cf3436477419e1ea2d1db70a9a67dcff0e96d1e35be0f2e44041233abf99d888",
+   "enUrl": "f5680a6a0b237c2a65dde2cefe85f9745ddc5201b984f07c6987456b09c3200b",
+   "krUrl": "d1ff63e5e78e97fe34d17d95bc68d99e06048aa331223ec8a947338d46ab8d0e"
   },
   {
    "id": 78,
    "title": "พบศัตรูเป้าหมาย",
    "text": "มีจิตสังหาร...",
    "unlockRequirement": "",
-   "cnUrl": "3f4e508c62bc7a5b5d98822efc1f6ff3b681a2df5c15de9d4dc3e4d8d4b1146d",
-   "jpUrl": "e830595827766fd8da58ed075ef840d863085c6531c754af21a949ce803d9e28",
-   "enUrl": "9d48619967958abcfc3b13c1c3456cc4f5621fb61a45c50b4064edbc8649c509",
-   "krUrl": "82a23d59df3bb256ecc90e4113c6ec5e4d0938d32c76c2ccf3d43f8bb7397f8d"
+   "cnUrl": "24dfeb7414bff6d80565438b56cbf1c9ba5fd8163bbc6e4963450d4c99193701",
+   "jpUrl": "bb1045dad561a8071cd5afbbdf944dc1a26204c6b6b86f61faa88ae08ac6ea37",
+   "enUrl": "adb41a77a848a37a8e037cefa51e38abc0cbfcfca67ef957d67e35ae03a912db",
+   "krUrl": "a9b627ac8d081a0bacd4b243eeccff609698bf9d31b6d718515d13981f0457ce"
   },
   {
    "id": 79,
    "title": "กลับเข้าเมือง",
    "text": "สถานที่ซึ่งมีเสียงผู้คนจอแจ ช่างอึกทึกน่ารำคาญ",
    "unlockRequirement": "",
-   "cnUrl": "a3df83e6a5f1297a1e9acd119721d6b1bb606b73eae8fd35423dfa42300acbde",
-   "jpUrl": "d4b16eb9837dd410125c05ee3ae982d8296aa5b317e6de68fee1f9032e2c9f14",
-   "enUrl": "27024c7b6c33c700b96885e1c81a08c770f6e3e6d90a55d53a37b5153afc0b4f",
-   "krUrl": "c8032edcc48db8544ee0b256456d25597848e28946b9314bd3741fe7627c88dd"
+   "cnUrl": "fcce744df6662ef5836793562009ca945fb5e0c69e43f4adcee16c632880b2f7",
+   "jpUrl": "247171f05f36603c19b6562b43fe6d6a1cffad17f494b03fdb6951b605dfbc4e",
+   "enUrl": "1b46ba8a5f45721fb939cc7fbb9a79d090355501434416f002eb1a5e310ab51d",
+   "krUrl": "0eb337dd75cc95216492d24d2fc41c813e47a3b7fc4d7a96d4e2e86ce41edddf"
   }
  ],
  "storyItems": [
@@ -3163,19 +3167,19 @@
  "name": "Jingliu",
  "rarity": 5,
  "descHash": "ผู้ที่เคยเป็นปรมาจารย์ดาบแห่ง Luofu อีกทั้งยังเป็นผู้ก่อตั้งกองอัศวิน Cloud Knight ที่ไม่มีใครโค่นล้มได้ แต่ตอนนี้ชื่อของคนผู้นี้ ได้ถูกลบเลือนไปเสียแล้ว และกลายมาเป็นผู้ทรยศต่อ Xianzhou ที่เดินอยู่บนเส้นทาง ซึ่งคาบเกี่ยวกับการเป็น Mara-Struck",
- "artPath": "f53d456dfa30a421dfc7d2515a29f39bbfea922f10c89d6bf74f53f4d33777ff",
- "miniIconPath": "a72852cddd65502d1695f1a4aa3a327deaa03c02df3590fbe5b26c57347c7018",
+ "artPath": "a03a68691be5b757640ff6f8eb03790aed9068b3f4de47039d779b5ff23d4ee3",
+ "miniIconPath": "df4e2825876b49fe9b16d11e28caa3b8d09fef8cde13e4efd883dd346724441c",
  "damageType": {
   "id": 4,
-  "iconPath": "c7ca3cbdcd5d26fbfad374f97d58d9152b5a398a5e5bf6d441a29041251fa779",
+  "iconPath": "29794e9afc9365e1dc71ee82d4ed904a1eeb34b1a316d808cdca2e1c0446d061",
   "color": "#47C7FD",
   "name": "น้ำแข็ง",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "673136d8ba64c836e77a0084380bccea317250a93f866ddfcb0d64682b543970",
-  "altIconPath": "9093f5a5aa958c0fe5a14267d9fe5101a95a033e08898ba40b35994c1a3a8d81",
+  "iconPath": "e2b380aede0faa68b817597cd40abe7dd90c14a08c11f2b65fd7b56d9fa8212d",
+  "altIconPath": "951cb2c1f37a5a634ba690168cca2f5d0f36f2850b2d4b9afef9922106d0075b",
   "color": "#FFFFFF",
   "name": "ทำลายล้าง",
   "rarity": 0

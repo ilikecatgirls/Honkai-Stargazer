@@ -2,16 +2,17 @@
  "name": "La chute d'un Aiôn",
  "rarity": 5,
  "descHash": "Tout a commencé par un flash lumineux.<br />Un par un, ils sont tombés, menacés par la fin.<br />Ils ont dû arrêter de s'auto-répliquer et se sont précipités pour s'étreindre les uns les autres,<br />essayant d'échanger leur droit à la reproduction contre une chance de survivre.<br />Ils se sont tenu la main, dans une démonstration d'unité sans précédent.<br />... Mais les Voies se sont brutalement refermées,<br />les menant à une mort certaine.",
- "iconPath": "2a93e9971a3097c76bfe976778a75ae75b87a397cf4fd2bc5862bca361190d20",
- "artPath": "f67b2fd21014f9bbdbb7690719f1f11a01c32074d4255f0ed26771ea9e6db363",
+ "iconPath": "972a1d9bbdfb35209ef4985179e372fc1b1a0d0284c5f4d1dd34dbdf43ab5d11",
+ "artPath": "0f895be11ee6dbd5acec0f9fc10ef1af05c61b6d819bc3d611e74ee10609a56e",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRrYBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSC8AAAABD9D/iAgoiiSpkTCOwSn3Q8Ldi5xRENH/KIUPUihzpiglUwJO8ZFiiFEKJVHKAgBWUDggYAEAABAIAJ0BKhQAHAA+bS6VRqQioiEoCqiADYlsAJ0yhHV3s3CGa4bgGFt6ZnvLlZNboMNqzSFc+Ugj74HpnGAWACWOvciGqiq3hwAA/vRYfAPScQP+1OAN0bMpv3GHhIzCwdejr+FG90AGsFJrYffVc8k/rfvoBnVKArV0dcpl2OauyrRc/pq9DQk8YrknrSu9afoJn7IcLMAfbHtfWKrvnPI465we/0tZtEWbQVZsEefLA9+ek3td+kOo/jpAFNsInCEkLTcago+O0qc/92lO+DV6i6/0KaKJylOKbkbV/Sl7qi2IDWeC1a4HxaRbgOFyIhPP6fShc/BJFqDkluKV3AgaZbHyNVs5LF335QEyrWnKbzJHpNKOlYNuWetyyS7STQ6yI0NAAdCYaroakYIZP6bx+stU78OFfCKLNF0RZ77zs9RX05wsMB74KkiNqshkprHxc6/ax0imgeuQmdgHIAA=",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "51d0405309bc37fe2d1ec99baeaf3d46389877d9b5f10f12e8cef65997f2650b",
+ "mediumIconPath": "eeaa5cddc74b11c8d388d765a5d438056630eb3a012fecdd57a5e4f8ea5a0641",
  "baseType": {
   "id": 0,
-  "iconPath": "673136d8ba64c836e77a0084380bccea317250a93f866ddfcb0d64682b543970",
+  "iconPath": "e2b380aede0faa68b817597cd40abe7dd90c14a08c11f2b65fd7b56d9fa8212d",
   "color": "#FFFFFF",
   "name": "La Destruction",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549438": {
    "id": 549438,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5eb86757b6878dd09f969ed2d9e75af43eac2565bd49fdbe391f716e5adca101",
+   "iconPath": "e700f5830b00d37882b23acfb0b87aade99e878187f0e8683a4f04047b74cc6a",
    "name": "Noyau éteint",
    "desc": "Le cœur d'un monstre errant dans le Fragmentum. Matériau commun utilisé pour le renforcement.",
    "lore": "C'est une lésion qui engendre le mal, la pulsion du péché. C'est la source de la distorsion du Fragmentum.<br />Un coup puissant a fait cesser de battre ce cœur et lui a fait perdre son éclat.<br /><br />« Les tests préliminaires indiquent qu'il s'agit d'un genre d'hybride : une moitié est primitive, et l'autre est très similaire aux Stellarons. » — Département de biologie, Sarah Castro",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549438",
    "comeFrom": [
     "Certains monstres du Fragmentum",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 633379,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "4886a5629723505540ba6d02fac7f264a3164458f4194796470c1826138ba105",
+   "iconPath": "659dbba8b4192386c1150f38f3233d432a759a3121a97cf97202942f7a0c2ce6",
    "name": "Noyau brillant",
    "desc": "Le cœur d'un monstre errant dans le Fragmentum. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "C'est une lésion qui engendre le mal, la pulsion du péché. C'est la source de la distorsion du Fragmentum.<br />Son cœur brillant et les veines qu'il porte indiquent qu'il est toujours en vie.<br /><br />« De quel monstre s'agit-il ? Tu as vu... Son visage ! C'est celui de notre ancien chef ! »",
@@ -72,6 +74,7 @@
    "comeFrom": [
     "Certains monstres du Fragmentum au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -80,7 +83,7 @@
    "id": 635673,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "9fe7d5d3bec56787a53e9acfa89161bc0599ba7b6a3a0d95eb60863ff6dcd006",
+   "iconPath": "c34484b3ccf3e5f1f4113e3c24d465e8d93dd5fcb95446241a8c08d6f65a0d27",
    "name": "Lame brisée",
    "desc": "Fragments d'arme abandonnés par les membres de la Légion d'antimatière. Permet d'améliorer légèrement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Destruction</span>.",
    "lore": "Cette marque représente leur rang et leurs accomplissements au nom de la Destruction.<br />Le maître de cette arme incendie des villes sur le dos de son cheval écarlate. Son but est d'arracher la paix à l'humanité et de faire tomber les nations une à une.<br /><br />« Le porteur de cette marque est chargé de détruire la paix des nations .»",
@@ -89,7 +92,7 @@
    "rewardPath": "/material/635673",
    "comeFrom": [
     "Calice de la Zone de stockage",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -97,7 +100,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -115,7 +118,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -126,14 +129,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -151,7 +154,7 @@
    "id": 717320,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "f54699a5eaba1cef67217196db0a1440c1b1c1c5b89179b36b2ebe7331831ea1",
+   "iconPath": "b44e1a4200fb1d3c919589c4287277e97e9094c3da3ce2381beaa68224119583",
    "name": "Noyau des méandres",
    "desc": "Le cœur d'un monstre errant dans le Fragmentum. Matériau avancé utilisé pour le renforcement.",
    "lore": "C'est une lésion qui engendre le mal, la pulsion du péché. C'est la source de la distorsion du Fragmentum.<br />Le cœur bat lentement, mais la force qui lui reste est suffisamment puissante pour causer une nouvelle calamité. Il vaut mieux le détruire, afin d'éviter d'autres problèmes.<br /><br />« C'est comme un cancer... »",
@@ -161,6 +164,7 @@
    "comeFrom": [
     "Certains monstres du Fragmentum au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -169,7 +173,7 @@
    "id": 836259,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "d9e262af4f143c0b58be9d20f5c04e04a252fb8f05eb675c0996f5b1bc8f6ad5",
+   "iconPath": "da98edf78f23a9c80090c50d9633d6cdf6d43fb74d873ffa5f791126205599d4",
    "name": "Lame briseuse de monde",
    "desc": "Arme cassée laissée à l'abandon par les membres de la Légion d'antimatière. Permet d'améliorer considérablement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Destruction</span>.",
    "lore": "Cette arme représente le rang et les succès accomplis par son propriétaire au nom de la Destruction.<br />Le maître de cette arme est celui qui arrive à la fin de la guerre pour en raviver les braises et consumer le monde. Quelles que soient les gloires du passé ou les bénédictions accordées par les dieux, cette planète est condamnée à redevenir poussière et à s'éteindre dans les profondeurs du ciel étoilé.<br /><br />Le porteur de cette marque a la charge de purifier le monde.",
@@ -186,7 +190,7 @@
    "id": 920200,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e8f74ef086a603eed69945d0872fbbc9776145890808104be58b4d30dca2d7a",
+   "iconPath": "31324efb8271c657d2271c0c656cf3c265165e1b1de5ab0a1355397703472c11",
    "name": "Lame sans vie",
    "desc": "Fragments d'arme abandonnés par les membres de la Légion d'antimatière. Permet d'améliorer modérément les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Destruction</span>.",
    "lore": "Cette marque représente leur rang et leurs accomplissements au nom de la Destruction.<br />Le maître de cette arme voue une haine féroce à tous les êtres doués de sensibilité. Il se délecte des lamentations des êtres intelligents comme de douces mélodies, et renverse des civilisations millénaires en un clin d'œil.<br /><br />« Le porteur de cette marque a pour mission de couper le souffle des vivants. »",
@@ -196,7 +200,7 @@
    "comeFrom": [
     "Calice de la Zone de stockage",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

@@ -1,19 +1,20 @@
 {
  "spRequirement": 130,
- "iconPath": "b4d627a4e2394752ff7e005684cdc313e161854dedc29e8bfda608936acaa7cf",
- "bgPath": "27cbf0b1d447f56fb2e67dec45e6eeb0273be6d58a001224fd1f76ea3d676287",
- "figPath": "f0d10346873e80911f55ed14ed19f8d7ad0b6602aa560eb7e38923ed7a02f30f",
- "fgPath": "04d6bcc33d0353d0143b61ab552916eecac0a1baee3e1e6c1606449c78562590",
- "splashIconPath": "72da6f1b2fae6c3fced8b6356875784d9bdfe1e28c20d7ae1026c5ce9d142cf4",
+ "iconPath": "4ef06d5da316c938b2ced2c6e063135b39c7d178861a18424d2c69c37f293448",
+ "bgPath": "40a43537481ef94208581733d1749b52180c7124f7cb6da042059102b61ccd00",
+ "figPath": "a40b3500d7cd3a8a466d248ae6b1f41887a45c8f889859df62ad49feec6670dd",
+ "fgPath": "a1e984267fbc4b96d3f289c5218f7213ac186f6833f0d6cb1a8bc113de9a3f6d",
+ "splashIconPath": "69fb05b6f53607ecc5670e216e84be04fc58f3567f7ee3a67648b50fda36ddab",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRkoCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSOcAAAABgLpt2/FX/P1+32zbdl9e89acbNt2WrSbHRF/daz2mvG97zP8cCwiJgD/KKljWukB7pD8oKPXcFCgt2+5gwSmwaJ7fyeuvzm4Z7vKBpqTL1QjZydLT3stEWB/GBwrL5VnEq9E84b4y2CyQETEBSmcUmEoA3roeHvjQr0y6QjABFgjLtRzotWiVOfQpAkutORE9BgQeE2kjeDiqQ5yJynaURKAaPrS5pNuTMAg7RJXvrgQgrhCbxkywOCRG6ki4lx8Crodg+bMmVMihajS2FIdkyXAYEihlVhozWQgMAqQmDYAAwAZ6gEAVlA4IDwBAADQBgCdASoUABQAPm0ylUekIqIhKAgAgA2JYgCdMuNwMIFqa55DTIN5mIiDSAA6PaZTXV5Znoh4V1KHtUmmXQAA/vN7W3SdV1lx9zwebVjbXaMgFsBGAT0pfvui9YCezb4EwOljVYtIHtnMLhOlvz2Icrtt2M0sl73vN2qd+vdzwXE22tZmfbuQtqLv4XnJbn8iVPdyekDPaewvV/P7tItVsggDPJT5/fEbvP2qpvEY23M/tS1ZNWGhOg505UMCv6UYl4kG0Bue6NYn05YvvG4wsIAONEILeC1tIH9z/xxJ0jQHif2Sa/50LNoPdWz2jyzB/A8A6Wvb+1pvMJOq9dRqf6Qk9IqDCf6FGAEG2E9f8Hab8kto70E5ox5q+tv7rjNVjwVWmkftGk9ZCwwWjSc5Gj+w9XHOkaiQQAAA",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 3,
-  "iconPath": "4ee4d46a01c45f662c4a193c5823f29be35cc4c19ba38ea2fd6f35a00a053d46",
+  "iconPath": "d2b129dec7122e506216fee426a9319946327741f972bd953a176be01cb2d931",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用ポイント",
    "desc": "スターピースカンパニーが顧客との決済に使用している貨幣。現在は宇宙旅行をする時の決済通貨となっている。",
    "lore": "「人々は、端末に表示される数字のためだけに奔走し、戦い、取引をする。しかし、本当に大切なものは、カンパニーの数字で買えるものではない」",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "運命の足跡",
    "desc": "軌跡レベルアップ用の高級素材。",
    "lore": "幾度の敗北があなたに勝利をもたらし、一歩一歩の前進があなたを運命の転換点へと導いた。",
@@ -61,7 +62,7 @@
    "id": 151161,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "2ec1fa84daf481a7bef5ee243b4e6b195a84cde88befd531353eeb44bae62a63",
+   "iconPath": "74e56fa506cd872f5d0f198444fb8ca3c35666c7e9629800410a0a3b4b9463ec",
    "name": "鍛錬者の雷枝",
    "desc": "薬王秘伝・鍛錬者が残した槍の穂先。雷属性キャラクターの昇格素材。",
    "lore": "仙舟の古い記録によると、修行を積んだ者は雷を呼び、風を従えることができるという。「薬王秘伝」は自身を仙道の伝承者だと偽り、かつての仙人の痕跡をちらつかせ、こっそりと信者を集めていた。この枝に残る稲妻は、その言葉が真実であることを証明しているようである。<br /><br />「凡胎皮相は幻化、我執を勘破して方に真実が顕れる」",
@@ -77,7 +78,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "漫遊指南",
    "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>20000</nobr>獲得できる。",
    "lore": "世界を渡り歩くためには欠かせない、冒険手引き集。閲覧キーを押すと、電子音声が理解可能な言語で、有名な冒険者たちが様々な世界で体験したことや、彼らが色々な星で得た貴重な知識を語り聞かせてくれる。<br /><br />「漫遊指南最新シリーズ『スペースグルメガイド』が現在発売中。ぜひお買い求めください」<br />「投稿の際は、博識学会共感覚ビーコンのオペレーター<nobr>23</nobr>θにお繋ぎください。原稿料はあなたが普段から利用している方法でお振込みいたします」",
@@ -95,7 +96,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "冒険記録",
    "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>5000</nobr>獲得できる。",
    "lore": "綺麗に装丁された、一目でためになるとわかる冒険日誌。冒険に関する細かい描写、価値のある情報、サバイバル術が書かれている。<br /><br />「なんで数字化してデバイスに保存しないの？持ち歩きやすくなるでしょ」<br />「お前が思っているより、先進技術は恒星嵐や中性子噴出に弱いんだ。なにより、この本の制作者は、最も簡単な方法で人々に読んでもらいたかったんだろう」",
@@ -114,7 +115,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "旅の見聞",
    "desc": "キャラクターの経験値素材、キャラクター経験値を<nobr>1000</nobr>獲得できる。",
    "lore": "旅の出来事を記した日記。字はかすれており、不鮮明。思うままに内容が書かれてあるので、あまり助けにはならないだろう。<br /><br />「読み終わったら早くその紙切れを捨てるのよ、丹恒？」",
@@ -132,7 +133,7 @@
    "id": 549504,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "71d58f084522c87e93327e3e7fc1db8fb4abb65e9989b163d4a348c9a3761329",
+   "iconPath": "6c179a11ddab366162a8539ea956319bacacb460c375d4b3d7f4ab3637918e75",
    "name": "永寿の萌芽",
    "desc": "古の神物が芽生えた幼芽、強化に必要な簡易素材。",
    "lore": "仙舟の長命種が持つ「無尽形寿」の源、「豊穣」の神跡の残余。幾星霜も前、とある皇帝の長命への妄念が、仙舟艦隊を仙方を求める旅へと促した。<br /><br />「朕は万世の垂化、永延の国祚を欲す。が、天年に尽頭有り、人力に窮限有り。故に、天舟九座遣い、天外へ仙方を求める」",
@@ -141,6 +142,7 @@
    "rewardPath": "/material/549504",
    "comeFrom": [
     "豊穣の忌み物からドロップ",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "依頼報酬",
     "エンバー交換",
@@ -152,7 +154,7 @@
    "id": 633445,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fc1f8e93b552510a719e96df3c4e48ace4f905d262668303315d785b951a7c04",
+   "iconPath": "d1124c0146a84ca0b7fea540fdaf95e66dc3e8f128ec5a9f9250b388c8183db8",
    "name": "永寿の天華",
    "desc": "古の神物が咲いた花、強化に必要な普通素材。",
    "lore": "仙舟の長命種が持つ「無尽形寿」の源、「豊穣」の神跡の残余。艱難辛苦を乗り越え、薬を求める舟は天顔を謁見した。神は垂迹し奇跡を降ろす、そして建木が萌芽する。<br /><br />「月に落ちる新蕊、雲外に香る天の華。桂薫が吐納する間、鶴髪も髫に換わる」",
@@ -162,6 +164,7 @@
    "comeFrom": [
     "均衡Lv.2に達した後、豊穣の忌み物からドロップ",
     "「万能合成マシン」- 素材合成",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "「万能合成マシン」- 素材交換"
    ]
@@ -170,9 +173,9 @@
    "id": 635675,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5d1c50902cff0d2be1eb952d08078e3134c231cdf0c9142c1ef475ec07c42b50",
+   "iconPath": "0558df3e5e5ca8710ff54542568bf59d21e7ffd5fd542d4ce0b64236047cc80b",
    "name": "着想のカギ",
-   "desc": "苦慮している学者の手の中に現れる幻のカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を小幅アップできる。",
+   "desc": "苦慮している学者の手の中に現れる幻のカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を小アップできる。",
    "lore": "意識の奥底に封じられた閃きを解き放つことができる。<br />カギを掴んだということは、己の中にある進むべき道を照らす光を掴んだということである。<br /><br />「エウレカ！」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 2,
@@ -187,7 +190,7 @@
    "id": 717386,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5708b196a8af89740ced588d98dc414c791d209879957fb0bc8644cc2dc84adb",
+   "iconPath": "fd7a32682f691044c47ac3a898e66880b2f442ae41c7264f87c4101558550161",
    "name": "永寿の栄枝",
    "desc": "古の神物の栄枯する枝、強化に必要な高級素材。",
    "lore": "仙舟の長命種が持つ「無尽形寿」の源、「豊穣」の神跡の残余。三つの災いの後、仙舟は塗炭の苦しみを舐めた。天人が魔に堕ち、苦しみと災厄は絶え間なく生じる。<br /><br />「十王司の律令に基づき、頻繁に魔陰に堕ちる者は判官が捕らえ、幽獄に収監し審断する」",
@@ -197,6 +200,7 @@
    "comeFrom": [
     "均衡Lv.4に達した後、豊穣の忌み物からドロップ",
     "「万能合成マシン」- 素材合成",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "「万能合成マシン」- 素材交換"
    ]
@@ -205,9 +209,9 @@
    "id": 836261,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "36e68603fbc67d4b69c02e01d7d5d41a80446ea6c49b1d828b47320f6225825c",
+   "iconPath": "f20dcddb7d5f53ca8e31f98f97f55ba2c8ebc935e110471bb9e1d913fa53025e",
    "name": "叡智のカギ",
-   "desc": "宇宙の頂点に立つ天才の手の中に現れるカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を大幅アップできる。",
+   "desc": "宇宙の頂点に立つ天才の手の中に現れるカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を大アップできる。",
    "lore": "このカギは、持ち主が知恵の神殿の扉を開く権利を得たという証拠である。<br />カギを手にしても、そのカギで開けられる扉を見つける方が大変である。扉の向こうに行った者は、もう振り返る必要がないことを悟るだろう。<br /><br />「知恵は宇宙の真理を教えてくれるわけではないが、どのように疑問を持てばよいかを教えてくれる」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 4,
@@ -222,9 +226,9 @@
    "id": 920202,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "489f5c80b6f0de258e076634803c9540b0504c32e55f556748095c334780289d",
+   "iconPath": "26f9f701e21f71fb607d18470b7aee7ab70485eae418ec41e6b0ff10940c2f16",
    "name": "啓発のカギ",
-   "desc": "諸界の智者の手の中に現れる幻のカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を中幅アップできる。",
+   "desc": "諸界の智者の手の中に現れる幻のカギ。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">知恵</span>の運命を歩むキャラクターの軌跡を中アップできる。",
    "lore": "真実を封印している錠前を開き、人智ではたどり着けない領域へと到達させる力を持つ。<br />持ち主がどうにかしてカギを見せようとしても、周りの人はカギの存在を認識することができない。ある人はこれを天啓とし、ある人は狂気の兆しとした。<br /><br />「分子が蛇のようにとぐろを巻いている夢を見たんだ。目覚めたときに気付いた、これが私の求めていた答えだと！」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 3,
@@ -240,7 +244,7 @@
    "id": 985668,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "c92e008415ed578b02aeeebec3e4303f0e6c56d05fab48f2cfd79469b64f222b",
+   "iconPath": "04088e0733990d7a0c884c42641a26089c8376f465104345af368511bbcedbac",
    "name": "壊滅者の末路",
    "desc": "軌跡レベルアップ用の高級素材。",
    "lore": "古獣の身躯は既に滅びたが、匣の中には未だ死滅していない意志が閉じ込められている。だが、この匣を開く者がいなければ、その意志は存在すると存在しないが重なり合った状態を保ち、壊滅のエンジンを動かし続ける。<br /><br />「終末獣。古獣の残片を礎に、幾万もの死者の恨みと悲しみを触媒として、戦争洪炉で鋳造した災い——壊滅の道を貫くと同時に、自身の消滅を渇望している」",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "04475d40bc18954b6975a52aeb9282029bc5c391cb36ff31430d13982d9faebe",
-   "artPath": "51098e816bb35f83c4d0c3f02e36847b308a366746745013c28941304049cc3f",
+   "iconPath": "57dc80df0db52dfeb1740329355aa1cc3893c83d11c282f4ac9690871f605086",
+   "artPath": "bb6407724936626f9c132a0e5dda78484394b04c9b2838fa6ad4b566891ed4dc",
    "name": "流星雷霆<br />山をも砕く",
    "descHash": "「神君」が攻撃を行う時、指定した敵単体に隣接する敵に対するダメージ倍率が、メインターゲットに対するダメージ倍率<nobr>#1[i]%</nobr>分アップする。",
    "params": [
@@ -449,10 +453,10 @@
   },
   {
    "id": 2,
-   "iconPath": "5e1700f4af0601eea2bea05a58a7680186dde591658d153603bec9825d60b53a",
-   "artPath": "8d02f2fa030804a7410f8f4c0a5c3a21b3366f270f50df1056a2fd16e902eb9d",
+   "iconPath": "857dc17c8eee533696e39a36aa8ac117959ec54c5c364284cfb0257094462ee6",
+   "artPath": "b9a2c1830b33c850a0b13d96876b37c84ae1b3e3d0ed4fcdca58ccb50a3b39de",
    "name": "振るいし矛<br />地動かし天開く",
-   "descHash": "「神君」が行動した後、景元の通常攻撃、戦闘スキル、必殺技の与ダメージ+<nobr>#1[i]%</nobr>、<nobr>#2[i]</nobr>ターン継続。",
+   "descHash": "「神君」が行動した後、景元の通常攻撃、戦闘スキル、および必殺技によるダメージ+<nobr>#1[i]%</nobr>、<nobr>#2[i]</nobr>ターン継続。",
    "params": [
     0.2,
     2
@@ -460,16 +464,16 @@
   },
   {
    "id": 3,
-   "iconPath": "2c6c8d2c0a5842ea12b010eb66dceff271679a1a7791802da9514e81691d8a9f",
-   "artPath": "1b1e9adb44a8dc1e61488fdf6c251f3e40bcd074cad227d0e5ed911e535e92eb",
+   "iconPath": "8df1f43607114094bb2b9ebef021977192151ea5770f3a0909a83a04b99e7e53",
+   "artPath": "d3c8ca2ac8364808ddbb02267368dd0b14c088752959ee472a47a3d10bb08a47",
    "name": "峰を移りし激雷<br />天穿つ",
    "descHash": "必殺技のLv.+2、最大Lv.<nobr>15</nobr>まで。通常攻撃のLv.+1、最大Lv.<nobr>10</nobr>まで。",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "2b10749c72e213cf02be698dbeeffae1e10ea29442682e2ed7630900cb0bba92",
-   "artPath": "66dc32381f62c8b17553a8f38f740263cf593f3d5b48991bdd5ff07c5d667efb",
+   "iconPath": "e2535f71bf4c679140870073ca2776586d7f34f9f672ab09933ea6e48a1307b0",
+   "artPath": "9e4f61dc0bc37de21a8dde311a72f2f7fe051d87659bfc8c4a56706ec59fe916",
    "name": "刃、雲を巻き<br />玉沙に落ちる",
    "descHash": "「神君」が1段の攻撃を行うたび、景元はEPを<nobr>#1[i]</nobr>回復する。",
    "params": [
@@ -478,18 +482,18 @@
   },
   {
    "id": 5,
-   "iconPath": "1b59f0150af03906f13b88e96a1c77db707657af42d5c1b65039e43da4cdee4d",
-   "artPath": "d0a29a14f59556ac7a6ce6d5145e6d46df907776b9af70a6d840828effc03788",
+   "iconPath": "2b3755cc767ac3eaed070bc9de7a7fdf5e43a82d2e9e5239f89b5c7edeb66d31",
+   "artPath": "f128a9bf8234df151e97c35a4758d67738a953e842fd28bbb1ec0914f7fe9dc4",
    "name": "百戦経て捨てし躯<br />生死軽んず",
    "descHash": "戦闘スキルのLv.+2、最大Lv.<nobr>15</nobr>まで。天賦のLv.+2、最大Lv.<nobr>15</nobr>まで。",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "ed18f716d9b696581c1ccfa670bbf946e0295dc6e8d08c87dfaafd89f796e9b4",
-   "artPath": "dbaf33bf9cbd2477edf3676e9e13e239f4931131296edd74a2d97f5dc7de0aa6",
+   "iconPath": "7c7da8adc83e23166033dcf088b9c21b622eae157a965555c5a0432b7f636fa4",
+   "artPath": "66f2603a1407e17533a20ec7c3cfba5360a27107b17556e08beaac13117365e8",
    "name": "威光纏う神霊<br />敵屠る",
-   "descHash": "「神君」が1段の攻撃を行うたび、メインターゲットを被ダメージアップ状態にする。<br />被ダメージアップ状態の敵の被ダメージ+<nobr>#1[i]%</nobr>、「神君」のその回の攻撃が終了するまで継続、最大で<nobr>#2[i]</nobr>回累積できる。",
+   "descHash": "「神君」が1段の攻撃を行うたびに、メインターゲットを被ダメージアップ状態にする。<br />被ダメージアップ状態の敵の受けるダメージ+<nobr>#1[i]%</nobr>、「神君」のその回の攻撃が終了するまで継続、最大で<nobr>#2[i]</nobr>回累積できる。",
    "params": [
     0.12,
     3
@@ -522,7 +526,7 @@
    "energy": "20",
    "id": 418990,
    "name": "電光石火",
-   "iconPath": "b6954d6ac16ac304f5fc55cc023277a83508be464cf4ac03ff3ba4829269748d",
+   "iconPath": "8baa6d32c71bd36a822d8ef8f5868cc1a56ab0fb4f45267dced4bf78d3d4389f",
    "typeDescHash": "通常攻撃",
    "levelReq": 0,
    "promotionReq": 0,
@@ -683,7 +687,7 @@
    "energy": "30",
    "id": 302345,
    "name": "紫霄の雷鳴",
-   "iconPath": "1b59f0150af03906f13b88e96a1c77db707657af42d5c1b65039e43da4cdee4d",
+   "iconPath": "2b3755cc767ac3eaed070bc9de7a7fdf5e43a82d2e9e5239f89b5c7edeb66d31",
    "typeDescHash": "戦闘スキル",
    "levelReq": 0,
    "promotionReq": 0,
@@ -973,7 +977,7 @@
    "energy": "5",
    "id": 218404,
    "name": "我が身の輝き",
-   "iconPath": "f589a3e14c6b894a3eda53b8bfd80e2fffabaeae6994e3d4843d1763f4cf0c5a",
+   "iconPath": "fc401f07ec555ba06adcc5dc6c1da54e9916be8d381dec23a2c902231386e97b",
    "typeDescHash": "必殺技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1263,7 +1267,7 @@
    "energy": "0/hit",
    "id": 904103,
    "name": "退魔の形神",
-   "iconPath": "de9b7e9c4bdb6d5fb13a0aafd24f4d74e2a7fef68ae8dbf59cd9a4ab5645dd8c",
+   "iconPath": "ed33dee8fd493883864bdfa2e48a070545a8e81e4a97df183c30fcbbd7479671",
    "typeDescHash": "天賦",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1613,7 +1617,7 @@
    "energy": "0",
    "id": 703517,
    "name": "攻撃",
-   "iconPath": "b6954d6ac16ac304f5fc55cc023277a83508be464cf4ac03ff3ba4829269748d",
+   "iconPath": "8baa6d32c71bd36a822d8ef8f5868cc1a56ab0fb4f45267dced4bf78d3d4389f",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1635,7 +1639,7 @@
    "energy": "0",
    "id": 619576,
    "name": "摂召威霊",
-   "iconPath": "e56a46919cbd28cb5ddffb61cc13197430180cec1b0c5bf4ead105b87770cb6b",
+   "iconPath": "832e89e91ddfceb62eb5114c5e279ad6bd7b9e7d9c81913555adf02a9d7474b4",
    "typeDescHash": "秘技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1663,7 +1667,7 @@
     "name": "攻撃強化",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "攻撃力",
@@ -1692,7 +1696,7 @@
     "name": "攻撃強化",
     "levelReq": 80,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "攻撃力",
@@ -1735,7 +1739,7 @@
         "name": "攻撃強化",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻撃力",
@@ -1768,7 +1772,7 @@
         "name": "防御強化",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+        "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
         "statusList": [
          {
           "key": "防御力",
@@ -1797,7 +1801,7 @@
       "name": "会心率強化",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+      "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
       "statusList": [
        {
         "key": "会心率",
@@ -1826,7 +1830,7 @@
     "ultimateCost": 0,
     "id": 56195,
     "name": "破陣",
-    "iconPath": "7518a35e95f3a9b244e048e744b7d6d10f87192160f12ad7bbbd8aeb3d9cc862",
+    "iconPath": "8b7f989bad6ee297b705a15c58a5d169933bfc51f4a5781e6f9448ad274f3cd4",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1876,7 +1880,7 @@
         "name": "会心率強化",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+        "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
         "statusList": [
          {
           "key": "会心率",
@@ -1909,7 +1913,7 @@
         "name": "攻撃強化",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻撃力",
@@ -1938,7 +1942,7 @@
       "name": "攻撃強化",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "攻撃力",
@@ -1967,7 +1971,7 @@
     "ultimateCost": 0,
     "id": 56198,
     "name": "先見",
-    "iconPath": "d4ecbe2512f31bdcd45f4610a1839aca0f2fcc4e00d4d91fd17cb55781aa9940",
+    "iconPath": "156e57fdb0954c9e1759f998c7d8b93e2555dabf070707514d657792fe68f06a",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2015,7 +2019,7 @@
       "name": "防御強化",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+      "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
       "statusList": [
        {
         "key": "防御力",
@@ -2048,7 +2052,7 @@
       "name": "会心率強化",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+      "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
       "statusList": [
        {
         "key": "会心率",
@@ -2077,7 +2081,7 @@
     "ultimateCost": 0,
     "id": 56197,
     "name": "遣将",
-    "iconPath": "54b5df05ec88bfa8fdade822ba3875555c872f78a5e73973971b2c36ca795ada",
+    "iconPath": "d23452a208f9cccc122e2f640f76a5b068bccff0dcfb5c749e6776c9cb718a28",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2118,27 +2122,27 @@
   "props": [
    {
     "relicTypeHash": "胴体",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "会心率",
-    "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8"
+    "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695"
    },
    {
     "relicTypeHash": "脚部",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "速度",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "次元界オーブ",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
-    "propertyName": "雷属性与ダメージ",
-    "propertyIconPath": "dbf8a033f78ebfe4765472b27aa0e7d3838d36f8f15868c49a3433ccca9ef1aa"
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
+    "propertyName": "雷属性ダメージ",
+    "propertyIconPath": "05f4674ed6f08334a38692b165f6d3c011df6a0c77d416a96cd20bf57785ee6a"
    },
    {
     "relicTypeHash": "連結縄",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "攻撃力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2148,540 +2152,540 @@
    "title": "初対面",
    "text": "私は「羅浮」の雲騎将軍、景元だ――とは言っても、「将軍」は一時的な身分に過ぎない。気軽に景元と呼んでくれ。",
    "unlockRequirement": "",
-   "cnUrl": "2df9e1e706cee5ea2d80f48e846ee49761490d877df323b6197530f594d6d2e2",
-   "jpUrl": "037c738c05ac11cebf27a3758f31a19ddf35c2cf5536c0e10bcc4eb98cb01ce1",
-   "enUrl": "20140ee551045fd65d634515320c1f558c4c06a92aed00faa6ddbb5a606d2557",
-   "krUrl": "cd60f30c1b1acfa2be9e672309c921776b5d41490ac5442e6ed54442136164de"
+   "cnUrl": "5d0fb66681affc22cb0af83b37fc3569ab1388a6d78eeba5301e1ba1a69b5562",
+   "jpUrl": "95e78986a8c8442ee86e53a5bd1df564920abe8a77f0f09b376975faeb65ae56",
+   "enUrl": "62ff4a0c74f04a8e9834cab74be21b0da92e6d90f33097f57024225a97d290b8",
+   "krUrl": "b3e39ce900e6ce0fac03c2d5b65c884741a26391962063cc8241fab33491b971"
   },
   {
    "id": 2,
    "title": "挨拶",
    "text": "君か。何か面白い話があれば、私にも聞かせてくれないか。",
    "unlockRequirement": "",
-   "cnUrl": "3559ca1b510efdeb99161b5a34b7af05be363b26237c2c18692a348d789ce614",
-   "jpUrl": "16ab7375065b1c3f8647a4f05f9b802c40c127d25bdf8853a98116ff6b114dde",
-   "enUrl": "9538c76840c09d0ea2109829020b04ba98d0423272e8581f3f58d417bdbe33c3",
-   "krUrl": "166b5d8672179b00d86677b016667807f902a6055b1b070224fe589fc5a1489c"
+   "cnUrl": "0234800f9ba531115f8c9770872bfdb1b84c2222515d7e79ca47222faa5f1f6f",
+   "jpUrl": "093a56b2130cb696da2cfa400cd897df1995b92044291335010d32d17c0ccdbf",
+   "enUrl": "80e750da2ee4c2a0c8db04ebf8188580cfdf7e3eacce640853a8534122882832",
+   "krUrl": "910ec78f41c953beaadc82b9d6abfa5004abe7b642dafb3390b089fc23c6ee45"
   },
   {
    "id": 3,
    "title": "お別れ",
    "text": "ああ、ゆっくり休むといい…すまない、私は仕事が残っているから、送ってやることはできないんだ。",
    "unlockRequirement": "",
-   "cnUrl": "b1c0343f2df822b8c9e981bd236d5028d51de234f21410ad9b9adfeb9c827411",
-   "jpUrl": "69adf717bcc26d6740d167a89f79cdd06d61c6487f4f7644f4f955f12745aac2",
-   "enUrl": "76b1d55342b7d4f60025b27a0ed65691de634f5c3d68a6f6e947c8d2b34fc125",
-   "krUrl": "41b905e4079944ac1d0387f650415a6a85038ac365c20730d13c2be7c34f4dea"
+   "cnUrl": "87c975567877d535f6fc70af3756466cb726f49f88ccbe87c3eaf23eb2195835",
+   "jpUrl": "0aea3acdd4e09f44972acb304b07c0e60f2b0110f8491aad79e91b088b906ba5",
+   "enUrl": "4386b3bf076b186980582ad8bccf4b1c0ef837769902f32627411251a52c9922",
+   "krUrl": "be60e61dc5f85ef38d752e6ff9afdde0640f2b1d85ccf709107f67d5510bc33b"
   },
   {
    "id": 4,
    "title": "自分について",
    "text": "かつての敵は死んだか、あるいは捕らえられている。旧友も散り散りになった…そう考えると、私は間違いなく「老人」だな……",
    "unlockRequirement": "",
-   "cnUrl": "3f0b1ff71549faa6fc9b9a01e51b9bddf0ecf3f1893ddc9833433ef3379f1305",
-   "jpUrl": "cd02301dd0fd9b257242e6d3d1edbed7618e6e3afe93e0528e1114fcf78976e2",
-   "enUrl": "2d5b199f6539ea28c6c03f92c5431f8456455179101724494ee6a137b024d07b",
-   "krUrl": "4b189bc5c03168ac5864ba01f6bf9fc8d66b7e791bf63d97de8b0a1630560d43"
+   "cnUrl": "8928201ebbc3bf77b225ac8c15335c4d6a57f2a45761a43b3a7f7eb7f223e386",
+   "jpUrl": "2ef9dec5bdb0e8c6ae4abd4d5e9b258187ddf9d478dce0e6052d3fae46455c91",
+   "enUrl": "e0ccf897d04370933049b4d8d75be1f5721644c5c6d92d1562794d0d70005790",
+   "krUrl": "8613faaed4f13cea88d436859b7fe90d7c518b688686858c1c457dc2198e2aaa"
   },
   {
    "id": 5,
    "title": "世間話・棋局",
    "text": "いい棋士は妙手に頼ることはない。人は情勢を覆すような一手を喜ぶが、全局の危機を憂うことはないだろう？",
    "unlockRequirement": "",
-   "cnUrl": "31e36788239eafcc89341de11ac695761b66f8e45d16a973b6f5bc1e30f9d441",
-   "jpUrl": "886d3dc5111b222acf0d7a92dcfdac24fc641de9548f05903af81ee061bfe486",
-   "enUrl": "110e5c101bac30ba7b69e0895315c3c98b9314e06a28a2d20d9d94bab611fa5f",
-   "krUrl": "5cb0cbb439675960ad803f3fc5ee1eb88cde4b4ec1bde29bcf9445d0761c78bb"
+   "cnUrl": "b616ca93afed92bceee35d469250e456270ef0d5e9a5397722804d01f83394a4",
+   "jpUrl": "1fb7e32bc093998e2089d3c20bc85a17cbb1b1b291908349a0199d66294842de",
+   "enUrl": "52e60d76055faca5e9b6b53d9a630b38129382ec21fe05ec1e8de247c2d3efb0",
+   "krUrl": "13d3abfe65c8953ca479516b385b76e304a5e124f288b674999e830cd7c9d2f5"
   },
   {
    "id": 6,
    "title": "世間話・羅浮",
    "text": "他所から来た者は「羅浮」を仙舟と呼ぶが…「羅浮」は仙舟ではない、「羅浮」は「羅浮」だ。",
    "unlockRequirement": "",
-   "cnUrl": "e7cb61acdb80ee3078a073e1a6d27b2c703ce3ae3962a887fbacbf44b218f3b7",
-   "jpUrl": "4c212258c0ed61ede5123442be049ee81179c9bceea5ee0b8c35e658b12b0a23",
-   "enUrl": "14b829be0d6567a89cf92f2252cd0b1e3e54c6292a32700659b02b2456c2ff96",
-   "krUrl": "ec87836704f80b0c19e7f103511f9f441dce8cbf770515e2c3dab1532ca618ff"
+   "cnUrl": "100cd71c0fbda1da6d7c960a71bc1de50e870c4e19cb8d722d13e7d4ffd444e8",
+   "jpUrl": "8aadf0e3a28b06c7c9479def9894cf1f0dd2c16faff621e5603d647669d66bdd",
+   "enUrl": "458959513bada78e468b95c3ab7d6515d6262eca6abd649b7895ba5818753df2",
+   "krUrl": "06735fba168dfa87669d38acf4dd6bd9802cbe07d7a23d904eb6fc4f14bf21b1"
   },
   {
    "id": 7,
    "title": "趣味",
    "text": "目を閉じて心を休める。ふっ、時間が経つにつれて、それも簡単なことではなくなってきたが。",
    "unlockRequirement": "",
-   "cnUrl": "ff44ce22241a19170e3f320e75b8a1626c1a58346deeb34e0c196ce36aaf9367",
-   "jpUrl": "72bbd45ee4deed1b458152bfaad6d389655c5aa42d01d0e1ad70cbb4f9fa53d7",
-   "enUrl": "67dede9f27bab6364740738200632cf81a6405d1a9bad37888070dee1e90dde6",
-   "krUrl": "fc1acbbefb0dd5dc5081a470cb392f4670c36c2b9e7be20094cc3b1db0924a15"
+   "cnUrl": "83349624b0e027d4aaabced9920aee35ac3516c2254db2093e9ea083bc821b4e",
+   "jpUrl": "b3fae33d7373ee0f9b000bb238d1737bdf7aa2da8d55d347c49788630a513f35",
+   "enUrl": "3e040b503d00c25758cbd493e13fd69b4cc87de25a705a5e49fbd1c52960d844",
+   "krUrl": "bb430c0ce0138f1579c8cfc9135bd5b1e6e48ca73010c2d84d963f3bb6955931"
   },
   {
    "id": 8,
    "title": "悩み事",
    "text": "私は面倒事を何より恐れている。面倒事というのは得てして重要性が高いものだし、いつ起きるかもわからないだろう？解決するための計画を立てるのが、本当に大変なんだ……",
    "unlockRequirement": "",
-   "cnUrl": "c4d8910c1c75d04675d61ca1aa53a931beac57df140269b91d6e53b6797aaf7d",
-   "jpUrl": "9a8fec161077d2fef1f3b1c2d0f38e277a3217226ca90fa24c1a555b48bc6b90",
-   "enUrl": "e4edfbbe66c09a08fa54434640af317ff99174f8059fb8d0d168385a5d53acb2",
-   "krUrl": "44fa1235f223d5c9a35913d24c8a55a86b7d509cb522bd4725db105e7295046c"
+   "cnUrl": "3a5bfe277c08c0c84b41d073180692ac67082d56ffbc8d9a4aece5b1e8b59ec9",
+   "jpUrl": "a086ec68b7ad54e43d7d0dba6d798553afb74a6d693a731294de6c178a64a426",
+   "enUrl": "239565609da9f575ab4cbbab500ccd407bfb6dfb227fb70a32dc75370d9c668b",
+   "krUrl": "3a50d51beeaad16d7a0d001e77fc1a5559e7e336ac1d24966d28128e0e606485"
   },
   {
    "id": 9,
    "title": "シェア",
    "text": "この威霊は「神宵雷府総司駆雷掣電追魔払穢天君」という。ああ、古書で見た称号だ。ただ名前が長くて覚えにくいから、「神…君」と略して呼ぶようになった。",
    "unlockRequirement": "",
-   "cnUrl": "4ff6f0359314c7db6ce7cc42cbe8596b1831431970a20d7e00bc2c39c7d62473",
-   "jpUrl": "44c3cb561c2ada3af2bcfa93d97552eef92524229c622cf2903b3517fbb5dd36",
-   "enUrl": "15ac2c22402c07abe8bd5f5016be1234dc3ea7bc5fe07ebd15aafe55b28c8b53",
-   "krUrl": "e0ba07415851e3693a94774275c75970aba3b34be97235e7d924bc97310e359c"
+   "cnUrl": "00e70a37bc057dd7302a385f83686107f5bf888bc2ec0ac6070d56b6df810978",
+   "jpUrl": "98ba69dc716a87e4f3b64d3513cca475fa7d1609c45a5a783b40d1c7a3bf57be",
+   "enUrl": "91df6a48688ba02aa656b82e57ce3733677ecb74fe12ae3cf558d873ab9d688e",
+   "krUrl": "50cbfbcdfbbb3d52269aa2f2981f8f38419077cae7d7517529d0b71d536d184e"
   },
   {
    "id": 10,
    "title": "見聞",
    "text": "何年も俗務に追われていると、身の回りで何が起きても動じなくなるうえに、人に対する興味も薄れてくる。新しい見聞といえば…ふふ、天外を雲游する君に出会えたことだろう。",
    "unlockRequirement": "",
-   "cnUrl": "e807e4905aa19f6d5146e8f84b8788ae8162f126b274d2f87e9c2fd7e30dd732",
-   "jpUrl": "997c94bf001874f92cd4b3706791af971199f0d442f9d0e19d1d53e7f5aa456f",
-   "enUrl": "370c61b2d0c2dc0ac22810ac80c2ea358e4d756c9a71e17ab10c30dbc0c371d8",
-   "krUrl": "8137a4575ef93553a2b9e4fc518619eb3282713d2ff67b5e1fb47fcc43519bfe"
+   "cnUrl": "75bc8df881a289813fe01b7ed5e255bde1e6f1b5a0f2b0b3e6888dd33a88c750",
+   "jpUrl": "73b1900ab4d5e419d6a57a9d611bacddf61f64fbb9286e167121ecdb34b55e8f",
+   "enUrl": "3f2bb82cad8a044d120837bf56dd72e3b582fa53d768d3c7a46eb4d1001fd7bf",
+   "krUrl": "3e8f9888c996a78515738f3c9c07726bee53bddb53bb598649a0650e72bab6d7"
   },
   {
    "id": 11,
    "title": "彦卿について",
    "text": "あの子を子供として扱うと、すぐに大人の真似をする。そして大人と同じように接すると、また子供みたいに振る舞うんだ。はは。",
    "unlockRequirement": "",
-   "cnUrl": "b8f96854fdfe7f80880f1a6ae3099abcbc10a1a9bde77fe46c1dbf55cfe18235",
-   "jpUrl": "ad74b6b6ced1afb467e3db9a5f3791bda54b467b507bf16235aa4c8f76404d10",
-   "enUrl": "530d4400c17ec31ba70f9d1c0bb04c8c89c01f4c659868ba476a1d7f70323aa7",
-   "krUrl": "be20666a1cef650b9daa6924cda333e9e6e56f32fc19368647c0b46cb4b43864"
+   "cnUrl": "4dcb0d6637a3026cd8bdbe499746836017a07180a704441636680858474e0098",
+   "jpUrl": "e0a6fe410e13f702fb41d1a154f6c4ab585804f14b802e4e6cd15449ba1fb094",
+   "enUrl": "e2b14346bab6b8a1af8c98abecba0b904680d70773201aabc9555fad03679171",
+   "krUrl": "a82974fa6f8f84bfd170e0979a0e44b121d480ac2c37a88392a49fe819a18908"
   },
   {
    "id": 12,
    "title": "符玄について",
    "text": "符玄殿の考えは分かっている。だから、もう少しだけ待っていてほしい。辛抱強く待っていれば、必ず好機が巡ってくる。",
    "unlockRequirement": "",
-   "cnUrl": "9388a73e23cbeec9af51e33d7a1b05d5fea385663836224c54ec39f6a33a27b1",
-   "jpUrl": "455961f15e4592aa9f93509fb62aca1c9bbbc05149b9d6bf574e3b362858ca1f",
-   "enUrl": "ef8a0669a8722b329e7ea815c5b12f652ee5092bcefdf8df754ecfa0487b3527",
-   "krUrl": "2c92250e964e0495abb42716f482079631200040b3e39f012ab90ef835154598"
+   "cnUrl": "858c933139492daeb684e6515452fdd23c50f8b17ad360d3bcd3c7c4551f61c4",
+   "jpUrl": "f68f8d1157fce1d905cff8c4ae20abd282f3fb87ec1d675c9dbf0ea3906a883a",
+   "enUrl": "2fd9fcb0ae329fb68c1362ef1a4bf4d6ad1db2b05c44349cb742349c189be554",
+   "krUrl": "b9879e3ed1ba3956876253f07775f052dedd882c8513d8b65aeb0a0e943b9d4e"
   },
   {
    "id": 13,
    "title": "御空について",
    "text": "皆、御空舵取は引退したと思っている…愛する飛行をやめた彼女が、さらに険しい道を選んだことなど知らずに。",
    "unlockRequirement": "",
-   "cnUrl": "68905b7eb7b106bb583a825bcdb10e5ec71393b022e8fd4b69a1b48814c186b8",
-   "jpUrl": "03a970f8582e590b3cf5d8edf9385946ea92ccb13d71064e36c0c138976a13df",
-   "enUrl": "116eb27b902b97dba9173ac0d8857edffef285a43dba5d42d0ff3ab5ced0f5e8",
-   "krUrl": "159141601c5eb85971c22b93723c8d4f00033f590fc6beb14a0aeaa56d65904f"
+   "cnUrl": "c3e7b1a62acd0d01ccab086b5ab8db4821ab3b4b93e6d644a12abba2bea93833",
+   "jpUrl": "a5453b0852014e193012e377e2475c8818a54485e2bd96f253ea069fe70042a8",
+   "enUrl": "fe103230668087e484c1a96a7e1e46c3d798a4788389732b98a2522de38a3199",
+   "krUrl": "ee04e1803ecf2690ec53788f682e297deb1cb29957cfe598b9458e2eada3137a"
   },
   {
    "id": 14,
    "title": "停雲について",
    "text": "停雲殿のような接渡使が尽力してくれているからこそ、仙舟の貿易も今日の繁栄を遂げることができたのだろう。",
    "unlockRequirement": "",
-   "cnUrl": "39bd627a27bce58268c3d0f33527ca5f7382f3cb07eaee27d14c02f8c554b3ae",
-   "jpUrl": "b4427451309e6163030789632a1d1865fc8812928497a656c831f3b7c9fbe7c9",
-   "enUrl": "ff8b2dc0abe31d1cb0955ecbabf2a8a40bff70e75b8c6f7c4ad853cad40cf350",
-   "krUrl": "839ca39bdbe414f80b8034c3b9f456f41ab07f67ca650c05db9e6e6ef0b27db9"
+   "cnUrl": "f819c9b3c6bf8e165a3a00d83c3bfd37b92ccea5b96aee2d20ca628a6dbf21a7",
+   "jpUrl": "abed4cee52332f972fd9deb55dc1dd3d6491b53f0941f6980ebc0dd11af26ef2",
+   "enUrl": "74995aa7cfede44bbe3648d32c54f6fb5cd3c35f9fdf808b3ba38b479219d04f",
+   "krUrl": "885cee9b575ad799c3d3f8f53b3c41aea0cb48d7cb93981b79d4b0465d978dfa"
   },
   {
    "id": 15,
    "title": "羅刹について",
    "text": "これまで多くの行商人に会ってきたが…彼ほど商売に興味のない者は少ないんじゃないか？",
    "unlockRequirement": "",
-   "cnUrl": "91e69d0d1d86224df507e50f115a51ab1ba2d9e0be87734f790639fbea27690e",
-   "jpUrl": "693e541c74c62f6b1feb92241d3040327a4ffff1d2218f761f098fea56b0cb09",
-   "enUrl": "fdebdb36ca0b1e6668a94c4bc329c031e8e056f176e974305a6088f4a54b3780",
-   "krUrl": "2071f98248f88bc472058fabecaa4a2ae4b43a94c39dd090eab0526120ccc07f"
+   "cnUrl": "fab6ba64cb1e9dd65a6e2e6ddb02a655f07b8724cd90b26ebd78177b795a1835",
+   "jpUrl": "d8ed7ec8213cd7ea4c91d7aebe097b919d7b582f80a31ea635aafb249a1f11b3",
+   "enUrl": "1b57141ec9e4e81a5ceb079e9f0381a1d26797fd3cb8d519075d56bab4598e3a",
+   "krUrl": "13c209c7a2d2f532dc681a8c068e9a0eee927d2e68ee91410ed92db61d41a6bd"
   },
   {
    "id": 16,
    "title": "素裳について",
    "text": "憂いも悩みもない雲騎軍の新人か…ふっ、私にもそんな時代があったな。もう随分と昔の話だが。",
    "unlockRequirement": "",
-   "cnUrl": "c95c626569832b24d4c51d77c213b810bb89f19c0ddf7a2c56129406aea14344",
-   "jpUrl": "6ba44880583847d543ce1769b753616f9af69e763cdc57b7fe99c24f22b61dea",
-   "enUrl": "4a6cd15fad8a68c9d35de1922755f85fc3b6ae03193a6838fb70c3e268cb0d34",
-   "krUrl": "1f417f8b733a5b57347776d72b586f5f3c6345a4152530c82d6696b8026f5c86"
+   "cnUrl": "45527efa800346b3a38840adadd01cc2861770cc0f050287a20f869a1a73a31c",
+   "jpUrl": "5236a4774a8074b66b50a00088330e8c0737d58cea3e2bfc8fafcbb12c78a8b8",
+   "enUrl": "ad4b5319e8c3bb7ac282329675c39f55467b52acf3629fe823137e2b55831872",
+   "krUrl": "f2092d7b9c7958cbe3a47a5f0070a177f6b9dfef49aa85f33f56023085bf8892"
   },
   {
    "id": 17,
    "title": "白露について",
    "text": "……持明族の尊長か…彼女の歩む道は、険しいものになるだろう…現世では、どうか清穆でいてほしい。",
    "unlockRequirement": "",
-   "cnUrl": "b0206b119b65f64064b407cb2c64f0d3df8a78c6ca909145c00a2f4d4bf4d7f6",
-   "jpUrl": "846a3071263c15fe885658e6c4492bc5d4e77536efceb14ab5cc83e9fd48cc12",
-   "enUrl": "2ce518f3ce1d70128a280939fac1aef9e35fe733a50223b1765ba402f6c95362",
-   "krUrl": "54b409f6081bd9772d463e41ad78c98b7445420bc1bfaa1462cad26679b4a977"
+   "cnUrl": "a1d86e9778432b23b122fc57b55bdef4604e1c9597d00ce92ea73d4adfd5bf4f",
+   "jpUrl": "a6bacf33c74ac34fe9882be192f1ea2a30dc60754e52e8c2fa7a4abb495015d2",
+   "enUrl": "006c45e0044a640daffea0d746d243da8a3a19b9be8b6f29e0e764e62bc41f79",
+   "krUrl": "b23a9ba14b778776923c5ac8b77702869be118573414d3ec437518b1cdc1b64d"
   },
   {
    "id": 18,
    "title": "鏡流について",
    "text": "彼女からは剣技を教わっていたが、最後まで親しいとは言えない間柄だった…はあ、しかし、果てしない夜の中で、空に浮かぶ月ほど身近な存在もないだろう？",
    "unlockRequirement": "",
-   "cnUrl": "86d8baf7bb7474b95a0ce33f931b5376e1481a83605d64a3da4633fc4d0f7f70",
-   "jpUrl": "16308eca1ec33be932759c55282b15f42b9a67548609b2ab29ab8278c15e091a",
-   "enUrl": "0e750d9e81c4ee6a3cb7cebf59d9babb9add156e9cadbb33e210e00dff550bdf",
-   "krUrl": "8b43fb83f74b41ca932b88dcabd53ad8801b7e6b700f6044840d4d86a5269f67"
+   "cnUrl": "f30db948c05f0c8264b8f69070d08ab7acfc7f3d097165dd4351837c5dcb7732",
+   "jpUrl": "b2be84853d83174a4c18a4ef611a7aaa0a9a56944482a5c0dfb73c1b60df1ca9",
+   "enUrl": "7f53bd9534b4981424cb7d6d507797a11f4cdc3e14ba5a876837bdc0fc10283c",
+   "krUrl": "8b7d0ed22a4524c709f4aa933ad7b14e28287f97ad01f561d946881e1d9ba2c3"
   },
   {
    "id": 19,
    "title": "刃について",
    "text": "彼がすべてを忘れてくれたら、私も楽になれたのに…",
    "unlockRequirement": "",
-   "cnUrl": "b38ed1234e192e58a313d67339459bd2b21db684c85175f29a3ddf1f8a89c044",
-   "jpUrl": "c16c38ae9baa67e0abc910572355d323d8e435d2693db7da27315d6aa02db0d3",
-   "enUrl": "4760ff9777977e1c45dec6a13ea90e93c9de4faa39ddc5e0e487c80afd1f9df0",
-   "krUrl": "ea0e9055cc52d46e8392e8040d146351550bd399a37b0f39f0adcb9f9e6ef0ec"
+   "cnUrl": "409cae33bf159794f62a2d2487829ff570d9e3baafb54bedd95972c09233e527",
+   "jpUrl": "064a8d532dbb624f33518ded9c7a07f75a8329810dc1d1df6eaea2b20f093d1a",
+   "enUrl": "a3f98c9439b36c6d3e6f2ccaa623e83de0b69f9248343dffb7b58ec497dd07d6",
+   "krUrl": "89fc4d0dd5e89ed9f656879918c46f63fb440b8992bc6de96f7cb5fa05eb7b4b"
   },
   {
    "id": 20,
    "title": "丹恒について",
    "text": "ああ、分かっている。自分が追い求めるものは…もう居なくなり、己の思い出の中にしか存在しないと。…「彼」にとっては、これは良きことであろう。",
    "unlockRequirement": "開拓クエスト「矯矯と龍有り、その淵、渺渺と悠く」をクリアした後に解放",
-   "cnUrl": "7914fdda5e1b4d7d0582c08c029fb54f18e469c52e6d3ce6e8d3a1ddc13147a7",
-   "jpUrl": "3ef0d19aff67d9a1f0fb7c20853a31175b7bf9bdda9ba9e58ccbcf58bf8b779e",
-   "enUrl": "fca55c3141d4e57b59271cd4ac51ed5d6326e0f70afd9896e4c9d75be56175ba",
-   "krUrl": "3101c7c9495992cabe71e4beccbb93f47fc5db1d9b775b6dd74b5adb606790ba"
+   "cnUrl": "c9f792d82701bc2382e531c269bd2761892b4467e8e8ce88d086776bf4f28b31",
+   "jpUrl": "2fb3798792d7bd63ee76011124cec475dc5bfff2927cd0e1f84e9590b9e0c9bc",
+   "enUrl": "ad559ba6359c13e46ce4953075fbc5073b948fd9e02fc637ea565675adc498a1",
+   "krUrl": "171699b9e38e43d748dd64242350cfe614cdfbb674a9cc0a18be82fda0bad33a"
   },
   {
    "id": 21,
    "title": "列車組について",
    "text": "遊雲天君の虹車が再び旅立った今、各世界もじきに繋がりを取り戻すだろう。これは同盟にとって良い知らせだが、星軌が正常に戻った後、一隅に巣くっていた邪祟たちが動き出さないかが心配だ…まあ、これについてはまた後で悩むとしよう。",
    "unlockRequirement": "開拓クエスト「慰霊の挽章、天清らかに道は遠く」をクリアした後に解放",
-   "cnUrl": "cf9d539e54b67b19c2530f7b5c6e0704736788ad3ee602c7449e3d906cee4282",
-   "jpUrl": "f958b15f032e366c815b56ff118e465d807bc454cce2d977a22001843d914907",
-   "enUrl": "919e4ff15db5171519722470a04e5fd50fcd52038e8e68a047457efd33ff87e0",
-   "krUrl": "99b214e62738ca0c06dab0fb7818d3793881c806b3dd00fc2059f7bcb642bdd7"
+   "cnUrl": "ff2840f39394899bc20a6f2ee9f18aacfc07fc061b43762d25dce23eb6fec1b6",
+   "jpUrl": "607497504aa1000024b7ebc1213d99f57863ad76dab5bf166b7f6a723c3539bd",
+   "enUrl": "2d57c709516a5144aec9fc15b2d3dffe95b555aa1157783f684c8f02b7b42558",
+   "krUrl": "273aff5f2563c51ea852980b8356b5fb852bf4eda4f8821c84df4a39b07417e1"
   },
   {
    "id": 22,
    "title": "十王司について",
    "text": "鞘がなければ、剣は人を傷つける凶器にすぎない。十王司こそ長生を収める鞘、自らを縛る枷であり、我々の罪を量る刑典なんだ。",
    "unlockRequirement": "開拓クエスト「慰霊の挽章、天清らかに道は遠く」をクリアした後に解放",
-   "cnUrl": "5b57ec91edcf74cd340f7d2e76b3b70d61c7a3c6465973ad554a002984b95863",
-   "jpUrl": "bc0bc2af9a00dce1add71df8725936c2771a0ae12f910e520ed3d51b0f8870a1",
-   "enUrl": "cba9dee03adadd62bf4b4cfe6768c73b329d7f7c1d23c07bad36297ef095eaec",
-   "krUrl": "a56dd67d161d3b34fb9be8778932d7be78e9b033f48bb1656f5bdf1a97cee450"
+   "cnUrl": "3125d43abd7759490bba4d817badeb6f04cb7f5514db59b4b65e7e7981869511",
+   "jpUrl": "cd396bf388205f91ff9f1fe087f0bac1da2cc711b5eed1545929924497225702",
+   "enUrl": "3d125dd189337e72ac0f965bfeaf1cb240b8c07f939faaceeac928064bf2655f",
+   "krUrl": "9d82a1fc86190bce642e9701675420fcfb189325d43fb0438b95f546ecb18234"
   },
   {
    "id": 23,
    "title": "星魂覚醒",
    "text": "あの歳月は、追いつけぬ幻のようだ。",
    "unlockRequirement": "",
-   "cnUrl": "3de3e22d7ae9d3494d33b2b8bb472a671cee0872c104414dac9c5c957b799eca",
-   "jpUrl": "46d68a4cb7b79517d52e824b8b2c86891f9451960d336a79fe90f1c41a3d8639",
-   "enUrl": "152194b8147432ca8e327928a74dcf442bd4aab577ae7a991aa50f9c71aed372",
-   "krUrl": "6181cc6d3d787ade284b055df02be8435bb9347d57d85daf19982227ee63d935"
+   "cnUrl": "2f648d391476ca3f5e9556a00d9e4beaddd026679c82e1c6ed7380360bc42c21",
+   "jpUrl": "0f35d7c88de6943574b67f6de80c0a2d729eb2deb8fcceaa35eb823eeeae75a9",
+   "enUrl": "fe991a1b2c31118bd7ee48bc3a1442db299ab1e2fa0273a9e97a5c152b270571",
+   "krUrl": "6d2c18b20191e7df610f4c3139cc66527db27e189f7632a51033fc4d54a40b56"
   },
   {
    "id": 24,
    "title": "キャラクター昇格",
    "text": "将軍として、麾下の雲騎兵たちの命を預かっている以上、1日たりとも気を抜くことはできない。",
    "unlockRequirement": "",
-   "cnUrl": "88ab84c96d75d3ac508e74b2d713e8e550b2572c371617d584b3dd4e7170cbe6",
-   "jpUrl": "e3e46eebfc4c7af3df1a24d888c25a1bce99ee0c795c5c88c389b8af422e0537",
-   "enUrl": "207884c992b7ccb27b4c4937330b3bccdec6b0e36f34ad989f679221328d6ff6",
-   "krUrl": "1ad8a2f182d5889e09a53859692d564a5f5d89bac3784b63c698abea0658aa2d"
+   "cnUrl": "eea190170edcd4d5b9fe636a6e93f4498bd7a9d80f99d962fb03da5c9515ef79",
+   "jpUrl": "403a2e61e2d6ed0357d16b8ff17df4d08045544e36492353cb6640b4f1285569",
+   "enUrl": "a624cc4fe674558f1ca21fd11062098a876c30aa3da3347ca6484fb2c414ca48",
+   "krUrl": "2b2704ad1b4048dbdef86f18e70f8c6e7148b188b7d8c97870fe1ef254aaf869"
   },
   {
    "id": 25,
    "title": "レベルMax",
    "text": "個人の力には限界がある。道の果てに至ったのなら、他の方法を探せばいい。",
    "unlockRequirement": "",
-   "cnUrl": "d88fd2ec42813eceb0cad40b0d3385dc7468f3a40209c0229a16a368cb71671a",
-   "jpUrl": "2fe21f290de6deb7610fc06b51097e41d4283d3bb73894eea1476ba10bb2c4e4",
-   "enUrl": "b0e29d77f7e7014a8c0b9908cd7c1fc2dc18c66b8e9364e900ca31e314270126",
-   "krUrl": "d0265830c36893cfd218fc220ba63ea41a12c4d94046dcddf848aa40fb19aa18"
+   "cnUrl": "4129d40fc68db3b38f64151c4569d7b1513b2cb84ab7a0b65e077840bb51eda2",
+   "jpUrl": "e0c2b82f6aca0a52c59c06ed233b92b91a1f3d6a2076b530be20c5320f093deb",
+   "enUrl": "ef10796fc0bbaa1f402e4dd155c9e74032e5b903b00070fedb3b41b14925d98c",
+   "krUrl": "9d174331999e5d1a9d089a94e8f31d578fce6e941192c94af8fd16deb6b860b5"
   },
   {
    "id": 26,
    "title": "軌跡覚醒",
    "text": "星が煌めく宇宙において、一歩一歩が選択であり、その選択が運命を切り拓くんだ。",
    "unlockRequirement": "",
-   "cnUrl": "de2ad8f086c797e79d6e8230e1a1768cd5ad35b05a78dbb7b95c452369f2b03d",
-   "jpUrl": "41d57dc8bc56e494a72b5939e0f18ebba8731af388efffd91f37927b0e24621b",
-   "enUrl": "ec58d43a1a620d4a48c7870938bea17627787cd5e2a8def2d5ae8902e5f33666",
-   "krUrl": "5c03ed3c46f7895f6177bf237071d68a23111b4de2279a0a73007d7360376fd4"
+   "cnUrl": "0edc1d948572effd1bf88991ea92803cec09d177a3254d50ffc190d1cdb3b28b",
+   "jpUrl": "54f2322796b776f579e80bf299f2066d104bba21bc078c7850394e474488f697",
+   "enUrl": "d78a8bbac0e6aa6a5141f42b87c2f96b3d9ef6b79f9607824c59b27d5d9a6902",
+   "krUrl": "00e0020d4d4d727f7a50249115b64b1a99f670be3b9ddfa5c10e019c679bc5a5"
   },
   {
    "id": 27,
    "title": "パーティ編成・彦卿",
    "text": "彦卿、そう焦るな。",
    "unlockRequirement": "",
-   "cnUrl": "899a1cb6309e33c2ae4fb88a0eb6ae9b807108658152d93e55cfb200f039bbb1",
-   "jpUrl": "7545533dc55f1715cdd9ed703cee262cd27dcbbae9117dbec88d655754b32f01",
-   "enUrl": "f00082cc77f83c48e9e990fd33b50ab4cbf42b7b72569f655de9d91d2769788c",
-   "krUrl": "05d53130c8d34db2c79fc8f65d22fefce10f79072f7689d7baf45edd002bd769"
+   "cnUrl": "d9ff7bfde0f01cfa39170ea552b44cf7ecc0bb73ad38f01065974d9eeee9b8d0",
+   "jpUrl": "ddb003e057877c17464ec5e49f5b3e545260de4e691392d649b1c4f7a9f1701f",
+   "enUrl": "ec64c47c44b12941659b94941dab86bd0d595c41dbd35d493d28d4d899cbb5d4",
+   "krUrl": "f24dd1cd8008275e0cd59506cf4bf5f25760ad4161423df3c4d29ad4a719d93a"
   },
   {
    "id": 28,
    "title": "パーティ編成・符玄",
    "text": "敵陣の進退は符玄殿の占いにかかっている。",
    "unlockRequirement": "",
-   "cnUrl": "6a1c2f4823c4d9b8145e778df7d2b5cf4babc19ee98c44c1f21b8f8351717bf1",
-   "jpUrl": "8eb1b89033c9dac411acf832f0971071873b61b301e7a517e28f69da5391f9e8",
-   "enUrl": "38b78ca2a84b5cbe5825dcff9d5559b0d19fe0a115a7d5f760451b4bcd2a5cb5",
-   "krUrl": "a906356c3f7d8ad91817de8a9d87369c3725a58921fae7f661a1139a06762e66"
+   "cnUrl": "1011e2fe5668e2d0aaaad064a12758d62bf7ad365b8d2fe1d44669beaee2b24a",
+   "jpUrl": "5198531d64c98fde3516aa90f6fa24a8f0c53cb1c49c11a59d1412f14e1e4b07",
+   "enUrl": "206cee9b03b23beeb8060b107ce757875a7e41069c12fe110be440fa72d712e7",
+   "krUrl": "c0a4ee051b98acae0bba882d8b8d682db750e6446578817035326ad420dc7051"
   },
   {
    "id": 29,
    "title": "パーティ編成・鏡流",
    "text": "お久しぶりです…師匠。",
    "unlockRequirement": "",
-   "cnUrl": "563d37d97ec9378929810be450ae75e87fa071a48e5452c20561ebdd9c87cead",
-   "jpUrl": "6dcc591dc197287ef3b82939132176edcfcb62aae78295312785e07013afce12",
-   "enUrl": "6ab44350072a35f88f246210c2d23fde018a3abf3f73d717ac27fb5892215fd0",
-   "krUrl": "a1b97d07b96df76475af2ee0e0cb75d426c979c4aaaeb156bf91d9783f13ddef"
+   "cnUrl": "02c8ee2cc52a121e11885ec5144a47f790812be0d4ae3916f6459a7a8f0dfddd",
+   "jpUrl": "f0eabe8a633d6ece77f90102cd36b154cd6874a63cd646ba984976272566f59c",
+   "enUrl": "89009e6c8d18a5e4e1a11ec2257b9d11972fe1fe80772f8660ed51899ffab15f",
+   "krUrl": "ced6d58f4e8dd474aaeb2bec8d78f37a39a2771ece6ea75d023afd98a1bbc4f2"
   },
   {
    "id": 30,
    "title": "パーティ編成・丹恒・飲月",
    "text": "過去は過去と言うが、この光景を見ると感傷的になってしまうな。",
    "unlockRequirement": "",
-   "cnUrl": "3d52e3bf113b68d1a8c2381d53c1203eb497e4615bb44331c5b3169258d91f32",
-   "jpUrl": "66736f885c175cf45b8af22377b9366761dd9801f8d99c67ae40a7fc82b916f7",
-   "enUrl": "d2998ee61010c925a8dd99a17a1d4c337f58feba1dc4b8dac4b4c9c215f7d731",
-   "krUrl": "c538cf2a36107ca260cb6e48462fd09f6833128a8254e6d5f2a63656df8be5a2"
+   "cnUrl": "5e7949b9e134b4acf860f0c9139db86bdba3cb18941bab81ad925080bc567a6a",
+   "jpUrl": "62337da9b6cfaba0d911651bfccb6e056354f766e14f126df0b2f5177b7571ea",
+   "enUrl": "5a7b27132612033fa6e16b7a117c4509e8a46c68061a9d728a9a73cab662ebf0",
+   "krUrl": "b3766720eb39752c8bd9baf1e2c2baa29c241747987c7e2c58ba4991633378df"
   },
   {
    "id": 31,
    "title": "パーティ編成・刃",
    "text": "君が鍛冶を捨て剣を習うとは…はあ、残念だ。",
    "unlockRequirement": "",
-   "cnUrl": "cfa993ee1a94cafc2a9c6fe9e1bf9e6d7ada03e26bc0ab832b8f10034574ae1d",
-   "jpUrl": "4c22f0861f3f9d449c36482574fabd8d9b92f0646f706e66245d9fddfe31fb5c",
-   "enUrl": "28df3f2296753a6fee07dcc7f5042fcfac3e5e438ea1d7b23ef29d3f4c7c65c6",
-   "krUrl": "1dbcb276e27e5acccc33fb79211c28dd46375098387cb1ff519a87771c153d46"
+   "cnUrl": "23c784207bf3a1e52af5826e5bd7be166ab68c8af15fce09308d8d73c9c2a531",
+   "jpUrl": "95d86e650c3c0622de2b5b6e5765aedd3cd9b9f782743b51abbc633ba414beb6",
+   "enUrl": "785ebae1a9c241d97eebb39a89803cc6f04803c507913d4fa9ba71ec7a7ef6c3",
+   "krUrl": "5a539fb857a297fb004533381090470df5243041e1dc281fbd4440df8731e1ad"
   },
   {
    "id": 51,
    "title": "戦闘開始・弱点撃破",
    "text": "ふっ、隙だらけだ。",
    "unlockRequirement": "",
-   "cnUrl": "dd5d05ab2ae6dc1f7da64bbe29c7a2ae481c48fe450fe4c96faf6d859c20e090",
-   "jpUrl": "f2250b78ef72a2b8f4a1f9b475d7272a38151d663eca3988815a9adc68b7725a",
-   "enUrl": "707d28ca721e1a1d3c05fb61eb3636f7fddcf84bb98fe534b02c4e461443199e",
-   "krUrl": "45037e9c7c2ba2f5eb1238033884696924f35d75b90be210ab3d301d59753d23"
+   "cnUrl": "39f2a31bc624649b7ea03bac24f283b74832b74ef1c0538a9953975f84f19cc3",
+   "jpUrl": "aa319c684138d299be17692130a98cc9f8dcd39e27103b9468a7f7ee067c7c14",
+   "enUrl": "9562f0fa71da0beb784851380175ad0ff993b70fed4bbdce7aa29624f7649ab2",
+   "krUrl": "1b6b439345ab9f8182e2af7e1b963ee4ce5c5e946913df224d7916af53b3ed86"
   },
   {
    "id": 52,
    "title": "戦闘開始・危険予知",
    "text": "好敵手に出会ったか。",
    "unlockRequirement": "",
-   "cnUrl": "b35d2ab4c0627046c6c38e1a5d0808851fe9d38bc93c2c814a35a36e127c3e85",
-   "jpUrl": "3661e6a53d8236b79176d6bc99a888ccf1db5ee290ddf0bf6bc293945a931c07",
-   "enUrl": "f3fd6f3053701839f68c659f7af03d70361fef83f0de443b2a7cf197d25dcce6",
-   "krUrl": "c0d3ef1caa8df21c285e1ede8bb0cd16a090db355c159662ceed258b10766030"
+   "cnUrl": "997aec9a1bb53b2f077186e725f336310ab09c83e63915df8f3fe0c1e3d862e4",
+   "jpUrl": "05b891f84dabb8cf1bec9503956a479374f6c60071643a6d3bf960a1df7c389d",
+   "enUrl": "4431312d930ea44708d84ae069d549d2a2c9a5647836ef4e68631a4d6fee2b0d",
+   "krUrl": "38dd36f72c0d7ebb380f7f6a270769c35e98f095986fe557ed680827cd849c26"
   },
   {
    "id": 53,
    "title": "ターン・1",
    "text": "私に続け。",
    "unlockRequirement": "",
-   "cnUrl": "7badd068d49f423ec6c269c9baa02ffd2fa9f56b83da7661039baed4f1ae8dac",
-   "jpUrl": "d31c9baa02bbc4b2208a843ebca021df84fb5754cbae4ad45e69ecd11447c8a2",
-   "enUrl": "5c030f6d6f172ae193b711280f4e16f86b4f8a7a8251e5fa2426719e108bdf6e",
-   "krUrl": "3811df39b8f04bb4c7551db79e191dbe80aa7a552452e2136d3c7f2213f0158c"
+   "cnUrl": "558891ee0601f923c4b4d47d7ec5866e629c254718a8386391a432299a6a45f3",
+   "jpUrl": "7c99e34576d8cd5ee8eb845f5abbab46a86c632af3195cdaf670cc60b8599ece",
+   "enUrl": "a69a09128841ac4e1656996aa8e5a7a3569244fd55540f4aa61be7310571e58f",
+   "krUrl": "506e5aa5838a5d8e55aac4fd6daa03c7ffc801c7efb31a9d439758d81e218fbe"
   },
   {
    "id": 54,
    "title": "ターン・2",
    "text": "機を逃してはならない。",
    "unlockRequirement": "",
-   "cnUrl": "52d6892d4f8f9c947ca4fa6a96beaa114eb50bd4ccd3d150364862fec0483547",
-   "jpUrl": "27a8717e02f6add408954ed8b92544455777a94d61788e32ca068cf687dc1909",
-   "enUrl": "f4cefa4914c507c731fe777ad9b2c943d20b314d181b551316398dc172825461",
-   "krUrl": "1943873d540bd49d82115f01aa5cd42a3943eb0ae12087b5dc598920e797567c"
+   "cnUrl": "59d4d1764ddd1a1b4d668465e0fa137f0904d4209027d6dda58105f359987f0d",
+   "jpUrl": "c1bd6283f70d4cbf61664b77a06a4bb754df4b48ccb17b2cffc7cb47f2ab483b",
+   "enUrl": "e977f966b31af2bb05424527b5942fb4f0aaf4142138a3dc08ba727c78cf9451",
+   "krUrl": "b08a5266b7d452a71550b0bd213ebc9d1bd5fad1072275510d533898c1697a39"
   },
   {
    "id": 55,
    "title": "戦闘中待機",
    "text": "兵家、時を待ちて動くと言うが、じっとしていろという意ではない。",
    "unlockRequirement": "",
-   "cnUrl": "07e409e5eef76818a0d00dab5e9efe947b47bce36f4e33be8f595955c5c3bfc8",
-   "jpUrl": "195e5b1932aed3e62d71d295cc818703ecf0bce17b3afd8d0f4936f776cb57bc",
-   "enUrl": "4c6782bf4183a9bbdeac38ba5f352c3176c2fa01138617092107b59f712a245c",
-   "krUrl": "4e8475915b51055727050dd34527adb492152fe3c822e538c8d4cbecd833895a"
+   "cnUrl": "c2788a9b36c493c28e40b18fcb89a264a45abe12a55bc134a80f12bf45e50d0a",
+   "jpUrl": "01b2abab79826aa82e260ef795199530382c7ab175d4e97deaa4553217b03e5a",
+   "enUrl": "2418da7e5126440d5a895e6203f99d0e8db7ba5cb087dcf023ef6b3fd2fb3fb3",
+   "krUrl": "f6b4db49ec4dbc0f925e7de61c386cf269aa116a01a992a91ef2f370ae953847"
   },
   {
    "id": 56,
    "title": "戦闘スキル・1",
    "text": "兵戈に、慈悲無し！",
    "unlockRequirement": "",
-   "cnUrl": "6ce3a465256f9a5d7a4f648d0d9f76d45c6b0be450df628af31f1c7ba3ccef70",
-   "jpUrl": "04ad362715ecade31e28c193ca2ca3f12afad9145f55c89f80616d38720e8b88",
-   "enUrl": "341727ef406fdf337a58397f9eef29983cf78e45f63d04d7119fc55caf369708",
-   "krUrl": "7b944861a66b0b5f973ea934978c9d1eaf7ffe3ba27c03a77fdcedb961c71a6c"
+   "cnUrl": "6ff436986932a495309d30ac6389e727e19147f92e86473c83041698ad79c1dd",
+   "jpUrl": "62952a6cd2c3637f2b85a0bface3ef8b960d0897e42b0508b1872a201ca24134",
+   "enUrl": "e6073920d4dcf782b3e6cd64a7494c99d70cc83ae8c591f4e44ab215fcf98ee1",
+   "krUrl": "1cbea1b603e98a46fbe353a6f5060d2606ad219682fc21425903b00998d97c6e"
   },
   {
    "id": 57,
    "title": "戦闘スキル・2",
    "text": "雷霆よ、ここへ！",
    "unlockRequirement": "",
-   "cnUrl": "85718b435662981bd39eb857591fe3baeb79af06807b6cb24350729368ccdf4a",
-   "jpUrl": "c3c17c17cc004c694aec157eef814772936484b59484454100a5d5eadfd2268f",
-   "enUrl": "8271a91259a30dd4e69134aae0a34c3dd6ffe1b4e2375c12c526c84939767daa",
-   "krUrl": "29c22fc819147e4427e4cabe5504194d3cd83ac409aca110a0c175652ac63600"
+   "cnUrl": "fb8b1e8ac94e0f1713546adb7264cb9959dcd30914daab0b22eb14b51c3de142",
+   "jpUrl": "ec041cee0ec97a9adc0be6aa127810788b32d918d7ba9dd3c83faf87f958a837",
+   "enUrl": "06717997fb6d733f491a4fd9772ae5dda423088a7f3f595fba6d627f4db222f3",
+   "krUrl": "5c0d7a18eae26fc2e398039c484cdbd292e1097202fbe2c6918daa81501439d9"
   },
   {
    "id": 58,
    "title": "攻撃を受ける",
    "text": "大事ない。",
    "unlockRequirement": "",
-   "cnUrl": "270b11af346ba0782f6a9fecdff9a2e4e2988e341908b13c21cb0730f818f2bb",
-   "jpUrl": "76a769321be00ebc817122c64888d706f36cf029d8d8342e5f1580ceac9b57eb",
-   "enUrl": "39763f26c1621b4d6e59ad4058ef1e35d6b93ff9ec2bfe35be6a0a83f5f4eef8",
-   "krUrl": "fe230a1fe2aec4f79c9d32215020f7c27e431bcddb8ed975fdb8b7a9b61046d1"
+   "cnUrl": "ef2b5d1ea747af795dca4c6a5f19ee551bd1adde5febc7566510604d2bc0340b",
+   "jpUrl": "b76be81e9415ee838dd8100ef18128f281d8ad53e0ceeb534fcdf7a85254445c",
+   "enUrl": "a5c6574e9ad09f5af30ef62b7b1ec9cce6c3af6c84b25a77d31cf62c649acb04",
+   "krUrl": "bd13f24614bf137e03e4429e9d3f37cc56275c598986f7170b002ddf37eb21d5"
   },
   {
    "id": 59,
    "title": "重撃を受ける",
    "text": "些末な傷だ。",
    "unlockRequirement": "",
-   "cnUrl": "7e544fdf2a14d52e8525f17e5788051295dfe7034273815160d1d831c1b4b37e",
-   "jpUrl": "6d9212a0c3e7aa5be64fd6f9b4e86bda2e663322ce924fb7ab388badf1ca1fed",
-   "enUrl": "708a9683f19d4ad3dc526d5e502b29b23efb7a756b8d93cbeb0dc80d84857692",
-   "krUrl": "7ef0f60666d313baa1104f18da097770a8f6c18ffb6184c1bf5908cf4586eb4d"
+   "cnUrl": "4edc088c16fd11e832f96884df345390063336d9474cd2fe4a6450ca4d6eb6a3",
+   "jpUrl": "3cd510072005d6f42cb069c0b25f6935db5e6c7fb33b0d76be3371c47d838778",
+   "enUrl": "c5614059bf4e07e08eda5d434ec6418ab4933846bec520bd9e1f783f28ace177",
+   "krUrl": "b4cb8554e4a5368579a9383393aee290744b744f4e353e3672c39851cfe674c2"
   },
   {
    "id": 60,
    "title": "必殺技・アクティブ",
    "text": "奇兵の出番だ。",
    "unlockRequirement": "",
-   "cnUrl": "5190e76f6a41b82c5f0a602d2dd27533c46c7371f9fc55f607a3693fee06bd85",
-   "jpUrl": "061c7af7c36beb07acd3155e3006c2d0997947191727e76f3ee7defdd13e64b9",
-   "enUrl": "ea5883e9a6f554ec322bcc8a2832a212b3830287b4f34f7ff778e68e3a8b236d",
-   "krUrl": "006eae2cecd0b9cd9d80a59369b6d0e8af72aa24365c743eeb61314c0497a34a"
+   "cnUrl": "5e14cbd1d4f05b4b65cbbbbd37066af4634b5f8be7d14855ec5a88771973a127",
+   "jpUrl": "0de41d149cdfcac2d6bb5cb027079b5ea12b23618b155d80242f1e491e2ce9ba",
+   "enUrl": "ed06ae78c949c4a431715eb83f32ab9eca658e2e747d347ce2a476470784b360",
+   "krUrl": "43ead04dc56a0ce40437be37a891b4463f527f7e773af135786bdcbf2948ebf2"
   },
   {
    "id": 61,
    "title": "必殺技・発動",
    "text": "煌煌たる威霊よ、吾が命に従え。斬！",
    "unlockRequirement": "",
-   "cnUrl": "265baa7d2d0319c65392bab30646c33e7238ba3849de53651287d5339d96a342",
-   "jpUrl": "0f90912dd3b3d139b814b84bc3b40cee32601da8cce4d3f38d1c9f3dde25ea66",
-   "enUrl": "47f19c9340bcf06aafff9fb02777403dbce925ac488cc31afd503f1c37bdf875",
-   "krUrl": "d5dc8f7287ecc2900735c53cb78ad895e5b81e8e40401d9aec5b3f1ab493c84d"
+   "cnUrl": "4c5baa5f40f43eeca6c7211e7f66f67f4a88e407dbfc5d97e944303233376feb",
+   "jpUrl": "c8ee7fd5b2b95e0f9f2b22c84a682688147bc859294ef40d27af454d2810506b",
+   "enUrl": "cfd169f10841d7b215ae94e335cd07da68a8c2683375d1034c5cf2470f7973eb",
+   "krUrl": "976872732e96c535cceef4f5396ed95f566025fe0acd0288aa3322491d016e46"
   },
   {
    "id": 62,
    "title": "戦闘不能",
    "text": "戦場を離れすぎたか…",
    "unlockRequirement": "",
-   "cnUrl": "951c0ce2afec881080fb34d3ea6881b930d87646d623d03c648eafd87093158e",
-   "jpUrl": "83508f005c4d09d24458539966f4cf2deb3652e4f119618893b8eded42caf4b8",
-   "enUrl": "486c61a75191853fa5d213ccb8056c0e32a3920c9c1e2d9e070d91528f12d54b",
-   "krUrl": "aa9be250960e6896c41654bc6681329b65cd500862a6b1ca726a7be8008f1ad5"
+   "cnUrl": "2c68442e3b87413c92b405823c7c43fea9dd033d462105aea39772aba4bb6766",
+   "jpUrl": "eb2a106f70c8664a759c576886bc0e8eca836fd98ecec5f8ab491ef84a66ffcf",
+   "enUrl": "5f0b342855c5c67e5826a47b6fafc157e4912a87161fac2c09551e1af3b2e4de",
+   "krUrl": "d5deb05c5340f498c0df4ad0a957090bd41590909a69a7ea9bb44baf3e229fb2"
   },
   {
    "id": 63,
    "title": "戦闘に戻る",
    "text": "戦場に戻ったか、悪くない。",
    "unlockRequirement": "",
-   "cnUrl": "8039eadd2cdf345b5e6290e2c302ebbd51299409758d13dd793f8891f9701348",
-   "jpUrl": "d675d23e95d85b21826055d2f64d5b3b4811aac5488dbddd9c3ede31eae53f8e",
-   "enUrl": "f7829bd88fa68802656bf552d7a4ef1049adac65e9d941bb5c97c03d46c2e86b",
-   "krUrl": "375986405f7de5daac2619e2390ed1ea389ac1063cbd158c5f5e2abc5f3fe6fe"
+   "cnUrl": "c975a621a214814b503e964b0f0f58b9e98ba598ef10fb6886d13c56165b8981",
+   "jpUrl": "57cb0d8dd6963b3a7d0aebdf98d2a640f25fabe95f376e8163b5d0ddb9f882f4",
+   "enUrl": "946697002dee77f0d41f6633de43c2c6c2bc8c6d2014f572553b67b54a24415e",
+   "krUrl": "c586affb3c40b36fe92f31bb0a3ac1e400c7ddb0b0508350dc47fccd0606d723"
   },
   {
    "id": 64,
    "title": "HP回復",
    "text": "かたじけない。",
    "unlockRequirement": "",
-   "cnUrl": "da379218fdd1addef336f5a5ff7020810e9ea20d4c722a1d6aeb8b7518525ef3",
-   "jpUrl": "31f13a9c4d4361bca1f9b2d50aeaa8c7b38248f7916fa071e4eb57bd58fbc330",
-   "enUrl": "fdfc1dbbd53b457b92347df3ec7efd5e965ccd0a53fff25c601cff83f3d9edc6",
-   "krUrl": "f54befeac10bcabf480b43738afa2325f736f8d34d348dcd0fd3e592f494e1be"
+   "cnUrl": "80ba4152fe0295bd7750d77b027542c496c88186096264cbe91f5b909cc818bc",
+   "jpUrl": "c83bbe7289ca32a1f69e8e636cda770020e7fef7bfa8cc8236b96009158a5930",
+   "enUrl": "ac04a1f7301c5be894f92bb356250f4476ea6e2319afdf2171859f97629bf78c",
+   "krUrl": "31a100a2034f7caa43e6789b102feb888963b720e664078723b9022e911195ca"
   },
   {
    "id": 65,
    "title": "秘技",
    "text": "律令が如く。",
    "unlockRequirement": "",
-   "cnUrl": "fcc8b0de8a8c6261c766cf636d782e500d488c2d91fdd6e41d2a449726fee57e",
-   "jpUrl": "528b97233c3f053dabed2dc32df98bec32e9599487743708a8e21c2edfbc05d4",
-   "enUrl": "3269af11f7148622bf6cb99ba6b5a57c5e839c93eb3e9dc460753c48598b651f",
-   "krUrl": "c3e59f4efc68ec98a7b63d3c0895cc796c218bc962092364905f66ddccbc8b9b"
+   "cnUrl": "bafcaa8079ae4abff1aabb8c1b6616d63511aa31a35b6b505738dc45de7c6db8",
+   "jpUrl": "1fda7cd7d75b74a4108f0da6ecc115c14450f6c234ff2a69c8c3de6915feacaf",
+   "enUrl": "29145ef7649d79b4085d8def35dbf439303f0a03070cd40dff1d498cdd4771e8",
+   "krUrl": "917b0e09dfa891c8d10a6763f4277648463137f485678d71e15b0565d902db5f"
   },
   {
    "id": 66,
    "title": "戦闘勝利",
    "text": "戦とは棋の如し、局ごとに別の姿を見せる。",
    "unlockRequirement": "",
-   "cnUrl": "ab8173a5b5e976b8ccb17378c16f3c6db79d7245539b10a99f398b40e68b5898",
-   "jpUrl": "61ab378e39dd8bf893ed3cd813c069bcd7e935f7124ca4e25ebffa0910608b0b",
-   "enUrl": "633d24218d259c52802dc93c1291614f0074905e1126a7daaee71abf4cbc9e9a",
-   "krUrl": "7eed975158274236a103fb6f2dab813cb737e1b593f9347fb06cdcb8a7e68ba9"
+   "cnUrl": "5b14f137ce5de1bb0e0693ff47bb0ea02668ab9c6117f7e3df8e7268e2d20533",
+   "jpUrl": "601f3a04153a378e8ca53167e093711d9a2234ed2095cd39d475a396c11cbc2e",
+   "enUrl": "0a9f26176fa333484c800c420ec44c7c81e4f5ff9516cc66367b31ee1a84e4b6",
+   "krUrl": "72454eef89ba3e2da9a094f03ef235a22065efc0714b9cdd8267358c06571140"
   },
   {
    "id": 67,
    "title": "戦利品を開ける・1",
    "text": "珠玉が埃を被っていたか。",
    "unlockRequirement": "",
-   "cnUrl": "707db70a44cc4061170f428a5ad86ae1fa64f6b6c61e2ee0c64c1015ac6afc7b",
-   "jpUrl": "e7fe724ca74ac58f3f8ccab165137be7672ed825aa09c953083268346b324005",
-   "enUrl": "9ba7e4e1293162dfa7b5274f0a423a5c9a131ba4b1d8b00b94a8c2bf851e658f",
-   "krUrl": "3611e4cd1763bf8d6edce932822ebcd35ba6816ca210268463617f3fbda290e5"
+   "cnUrl": "7d33baf65dfa9ddc45e53e24da24473047aa0f8537411cba69dbb69264024784",
+   "jpUrl": "68ba664521514280876cc8d2d2b56c4a6a4e04c230d6a36de99c732c1daad24f",
+   "enUrl": "ee402867235a1c78605c58163b4a29dfecccd08feec457581d129b3c077c0056",
+   "krUrl": "ff79de8c4df41310ff7e957ca2b5cb469a76b83c429b3bc7fd001a6f07d816b2"
   },
   {
    "id": 71,
    "title": "戦利品を開ける・2",
    "text": "ふむ、なかなかだな。",
    "unlockRequirement": "",
-   "cnUrl": "8ef668590b8fc2763f63459ca4382e83e71f7198af4705150c8e81c47da493b8",
-   "jpUrl": "358ef6fd7a99e305933772492b68e2ddacb2fcb6b5bb1d069babbb2018d111a7",
-   "enUrl": "79dbb80743e2f6e92fe6a72bf7bdf7850951413267ffd29f268e45e9cc443ed1",
-   "krUrl": "3ab15d67d7703bbd67a701ec6aafb3cef079d5356124ea703b969140a1561500"
+   "cnUrl": "f8fc22ab8223b12de672c5b6a9b2b3a98a5e0128738195ff1641e6fdbe938ff7",
+   "jpUrl": "5373539cbe9631d7e0a1a5fe65917e29b9c7f191b2ec6b5ca649af87837a44d2",
+   "enUrl": "dc3a0e05540bcedd4add2495ec02baabe5b9ba41ecc7979b94f9ded159a0ae10",
+   "krUrl": "7325b73195b30b7713524f435ffb6e3a5854227e8eb367e86c236fc82d63226a"
   },
   {
    "id": 72,
    "title": "貴重な戦利品を開ける",
    "text": "これほどの珍品とは。ふふ、受け取ってくれ。",
    "unlockRequirement": "",
-   "cnUrl": "4a08fe3dffd110830bebeea6eef167e8dad4f2469f0dd1bf3ae8d8d58bfa3a25",
-   "jpUrl": "e15551d6d8860fcd732cafaf454705129feffd60ab99316c59a014a5ce576f74",
-   "enUrl": "e64235db00d9abc353728747aada3e8c4a54065a15b6f8db1e8b72336438999a",
-   "krUrl": "6ce90d713646dcb5aeb14e6973378119ea10b5f675bdf5855f50d49ae953e46e"
+   "cnUrl": "9164ee2e5d92488664bf355637ff431dfc2381b107599bef1869df5c211b5ddb",
+   "jpUrl": "058f27f9e342f3ead0870fb5a04bbae9ad8a98d1ad22b778c565074597f33540",
+   "enUrl": "8d3a3016806d0ae401adeed18b018d077e88a016e39dfa1289fdb785edf0d7be",
+   "krUrl": "9d4c499c5ce17509e21426759d905225cee1d9806db131dbb048a427f5380bc2"
   },
   {
    "id": 68,
    "title": "謎解きに成功・1",
    "text": "かような仕組みであったか。",
    "unlockRequirement": "",
-   "cnUrl": "cb406ba953078105df7a32e913dde3be2426569dd7c61406367022a0dafed86b",
-   "jpUrl": "587cb3df6797c5366c397ae3821718d031b26b8d59a7ef1e2b9b55046ad7d555",
-   "enUrl": "ebe3a7dec265ecd58e366fdc26a54f907f1c28635a64c461a8a6f0183f15f0ef",
-   "krUrl": "7e95126dc829938cd112c434327c34b6f8b094a411d1976033a618b46f588bdb"
+   "cnUrl": "0ea138ba73617fe61315df23659e46ffa4a189c938509fdbfdea935067fd2029",
+   "jpUrl": "7a82adf04c952906c243aa976bf97b36100122704d5fa88521a9f76b5deeaf85",
+   "enUrl": "f23a1923a25d61476baeaa3f65b7ec5e1d79041428cf786b611cd853a9edd75c",
+   "krUrl": "51a69b521a54f08c46e249c84d0ae0be7d864f5fadbc2bf87538329025202a34"
   },
   {
    "id": 73,
    "title": "謎解きに成功・2",
    "text": "機巧の術か、面白い。",
    "unlockRequirement": "",
-   "cnUrl": "fe6dda9ebcc72ed2e818c1ae4e78e1a4e23fd51941217f6ea91d953f50f2eded",
-   "jpUrl": "b007a9ce6bc589f205589d64839eb2afab6f8b58bf0ee5594b87d292486d0c16",
-   "enUrl": "e5628fc32a0b1f30ee89600bc34e76b352aa121511f2a5271fe3737aa2710512",
-   "krUrl": "88885e890d1e307816a84a04c5a90dfde0e808528b9d4cb67258ac2cccb19c62"
+   "cnUrl": "34378f80b4984ecddf0c69d75916d98598f406eab94cac90ae1e6fa0a6df57d6",
+   "jpUrl": "3d856cda76f258935c280b709ec859c48c50332843ec0b1ddc3c2e5c38fcfd64",
+   "enUrl": "8b1f086116cad5e2c41e319f186894602f6998201eb1e6110edb3e471cf08d9a",
+   "krUrl": "69ba288e6fc4bf4f8a4234e170b1d658ee507d8ecb2f2b72ff043bd0f241a954"
   },
   {
    "id": 69,
    "title": "敵ターゲット発見",
    "text": "対陣する時は、慎重に機を待てばいい。",
    "unlockRequirement": "",
-   "cnUrl": "3c762baf9cb5eccb55186326fb266ccf6c56aa34f8354aa3465396c131b3bf89",
-   "jpUrl": "6aeffe645c882ddb77e5c1f52eb4cad82035c7e1cac9e34d670e61cb529f32b8",
-   "enUrl": "7143febf23a3be4d58198143103714e1ae9c1caaaa66e67c6152482e37cf1165",
-   "krUrl": "453ae779a72ac46a7ebb3c4726b639444dc6fa4e95fd49bfb0723e9972aa065d"
+   "cnUrl": "af91d7836435d3019792f2cd79b1c73eb9a593fc03ead6366f559f3d2b678936",
+   "jpUrl": "6e1e8082aa236686584adba2c1c4e62ef85e605e3181fc9f971fa5f0c9e1dd19",
+   "enUrl": "4ee52398d7e537a972f7bd73cdab208460911831a08c5c53e0d3a7c005737361",
+   "krUrl": "2be8931de117793ffde91c35e8977776822eaa7d87045ba1e8bab102b854c996"
   },
   {
    "id": 70,
    "title": "町に戻る",
    "text": "暇があるなら、一局どうだ。",
    "unlockRequirement": "",
-   "cnUrl": "ba9ad5a863450fa23e21e1015ff8d23a18336d25be44ce90b73730dd34845a4c",
-   "jpUrl": "f956821a91b33c6b5d71659b0a71bb6afef9080f308c6fa3c4f91e69b23532d7",
-   "enUrl": "37b22f4de298a188968822292d359743451889edbfc053706bab41cffef06471",
-   "krUrl": "0231292fc4d4925efe077d2dabb70466b2c62d6cb3dfe7d69e85d44292968d11"
+   "cnUrl": "063fa72344938ee492c01c76772966e9b032b7eb1bcb333b14897c4cecee21f5",
+   "jpUrl": "0259595214379595ad0564fc728479e07c8cddcc3ab6d49186fd24b881696799",
+   "enUrl": "cfa2a2d88cdd5eaf71411a09b043b486fc3c63be5e64385f24e7a54fb6ee2b4c",
+   "krUrl": "8bf6f9488b2b1f4839aea3bb3d88b5bb97ae04952ad77527730a932c45e52154"
   }
  ],
  "storyItems": [
@@ -2811,19 +2815,19 @@
  "name": "景元",
  "rarity": 5,
  "descHash": "仙舟同盟帝弓七天将の1人。仙舟「羅浮」の雲騎軍を率いる「神策将軍」。 先代の「羅浮」剣首に師事していたが、武力で名をはせてはいない。",
- "artPath": "2468f9d23227268aad36db7e5da6c119433cdd4ae8c4c138c0bd13c7de748b92",
- "miniIconPath": "91c54e75e5105d155170fd0a6a2d111676ec6bd37d287c3e4c30647e7b3b442e",
+ "artPath": "59c5a0fd564b6749fcda43138f0161b0a04511e6d5084cc1d7ba811915dd40ed",
+ "miniIconPath": "da5e32427aed990940d58ffcfaa43b3ba7afe3dd6181254a44d4ca9d26d21f40",
  "damageType": {
   "id": 8,
-  "iconPath": "aec46e1b5be764fe83cac85e30f5832729012baa6a30bb8d91c82348d8a1b4d6",
+  "iconPath": "0a40649ada5773817ffbde0a747d856ffc82d62b6cad86250bf1631190b084b7",
   "color": "#8872F1",
   "name": "雷",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "a1916e75aa6a99295aa01786a946ae601da457b578603446740cbe30bc5fba5a",
-  "altIconPath": "01710b94c5c1a7c525cfaedc0ea8f32901c99aa71a28896a16d52656c3ce3654",
+  "iconPath": "666728a6ff62e1312e1a1fc35ef8beb21f55310b14a5b76c94fbbdcaf2cb9a89",
+  "altIconPath": "e96af62e75a86b9636b568d3aacf3a12916f164383a76d4491d09ff1db87fe9e",
   "color": "#FFFFFF",
   "name": "知恵",
   "rarity": 0

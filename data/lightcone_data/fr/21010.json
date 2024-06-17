@@ -2,16 +2,17 @@
  "name": "Jeu d'épée",
  "rarity": 4,
  "descHash": "L'air plutôt sceptique, la fille lança la petite épée en direction de son ennemi imaginaire dans une tentative de se convaincre qu'elle était d'une quelconque utilité.<br />Comment quelque chose d'aussi petit peut-il rivaliser avec mon épée à deux mains ? Les ennemis sentent-ils au moins quelque chose ?<br /><br />Le propriétaire de l'épée semblait faire peu de cas de sa taille.<br />Après tout, c'est à force de stratégie qu'on vient à bout d'un ennemi, pas à grands coups d'épée.<br />Cela importe peu qu'elle soit grande ou petite, tant qu'on utilise le bout qui pique.",
- "iconPath": "e95119de6ef1fc07f6135baf0343b2cb9f0060bc54d77ed120362558d44704a7",
- "artPath": "4310143b61d3101f215f8c371091d47d05d87fe255d415a0cd50cdbcd9e6aaf2",
+ "iconPath": "aeebf54edb82d21b620d70d97522303d1dbbb56d07630d912b3889d627edf4ed",
+ "artPath": "f98cffec47d2f836f705de8266f028c43685161e4e6a625b3ac6f572037820cb",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRuQBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSAoAAAABB1D/iAhERP8DVlA4ILQBAABQCACdASoUABwAPm0sk0akIiGhMBgIAIANiWwAnTKEddc0qQc9Jpku8kzGraW8AW8X6YCyyrBU6Fs0pUn7Wpgcjnr7spbUR5f1K4AA/vdwOz53MZrapNennMloPS38ZZpZ9+6cnwTM/W8e9WYcSnQCnDNeCaRZms3rjMfCTzTwr+S612c18dQ7PpdCfXXe/aNWuUd8LC74ttKq39BQ9D6jyNmnuZLH7kyG8vbA0285Ag7Ddl2SjZ7I0nKAUMxVeA1L7A4setutrRhLOEJxYF+dBYOfsUGq/dcftLemPjqT/7le4cap+IBkrqEsYZu+twB27xhRsQvet/xKV9MAPy3xHrSvD6MXPzK30riqT3ufvitsSvJ/BJ6mPshjglubvcDv65JX6SmVzuhZ6/o+Ig0wE6kB/N5eZbf4kWpfRTQHc5sW/rFhFWwuVhh/bjQcTBTqs3WOd0s20FEeSi17/1Hbny+eV/u899iFz+bTzToTBd3lenBU7XktlKw0uTOXg1E3esKmzXRHpPT5H8INd0R+XHAKMUnhsRwtUormsPBhVW3O/fVrxj7IucNU76VhObmeWAAA",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "27a94a50238e76fef4eb1ca479c3a3afa47b90307ce40ce802809f9572030bde",
+ "mediumIconPath": "21f75738f990a24c2017c27c57fe7be5322f3f38d60b18c71e346d60ee857f80",
  "baseType": {
   "id": 0,
-  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
+  "iconPath": "d5302975290739e51dc53d919353f47705d836fa6db628c190b1faaf195f7319",
   "color": "#FFFFFF",
   "name": "La Chasse",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549438": {
    "id": 549438,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5eb86757b6878dd09f969ed2d9e75af43eac2565bd49fdbe391f716e5adca101",
+   "iconPath": "e700f5830b00d37882b23acfb0b87aade99e878187f0e8683a4f04047b74cc6a",
    "name": "Noyau éteint",
    "desc": "Le cœur d'un monstre errant dans le Fragmentum. Matériau commun utilisé pour le renforcement.",
    "lore": "C'est une lésion qui engendre le mal, la pulsion du péché. C'est la source de la distorsion du Fragmentum.<br />Un coup puissant a fait cesser de battre ce cœur et lui a fait perdre son éclat.<br /><br />« Les tests préliminaires indiquent qu'il s'agit d'un genre d'hybride : une moitié est primitive, et l'autre est très similaire aux Stellarons. » — Département de biologie, Sarah Castro",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549438",
    "comeFrom": [
     "Certains monstres du Fragmentum",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 633379,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "4886a5629723505540ba6d02fac7f264a3164458f4194796470c1826138ba105",
+   "iconPath": "659dbba8b4192386c1150f38f3233d432a759a3121a97cf97202942f7a0c2ce6",
    "name": "Noyau brillant",
    "desc": "Le cœur d'un monstre errant dans le Fragmentum. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "C'est une lésion qui engendre le mal, la pulsion du péché. C'est la source de la distorsion du Fragmentum.<br />Son cœur brillant et les veines qu'il porte indiquent qu'il est toujours en vie.<br /><br />« De quel monstre s'agit-il ? Tu as vu... Son visage ! C'est celui de notre ancien chef ! »",
@@ -72,6 +74,7 @@
    "comeFrom": [
     "Certains monstres du Fragmentum au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -80,7 +83,7 @@
    "id": 635674,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "bbfb88036f821da503753ae4189da74a1586b0b7ee8ec0f234bbf9fb53474d01",
+   "iconPath": "11a70d892dc3b897bc3d714367c18fe413d9538c809eb21c211f322eed806403",
    "name": "Flèche du chasseur de bêtes",
    "desc": "Pointe de flèche forgée à partir de givracier par les artisans de Xianzhou. Permet d'améliorer légèrement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Cadeau que les parents offrent à leurs enfants lorsque ces derniers tuent leur première proie, lors de la cérémonie de passage à la majorité. Il symbolise les succès à venir, aussi sûrs que la flèche qui file en direction de sa cible.<br /><br />« Puissent la flèche à ta taille et l'épée dans ton fourreau t'être fidèles et toujours trouver leur cible. »",
@@ -89,7 +92,7 @@
    "rewardPath": "/material/635674",
    "comeFrom": [
     "Calice des Plaines des neiges périphériques",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -97,7 +100,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -115,7 +118,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -126,14 +129,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -151,7 +154,7 @@
    "id": 717320,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "f54699a5eaba1cef67217196db0a1440c1b1c1c5b89179b36b2ebe7331831ea1",
+   "iconPath": "b44e1a4200fb1d3c919589c4287277e97e9094c3da3ce2381beaa68224119583",
    "name": "Noyau des méandres",
    "desc": "Le cœur d'un monstre errant dans le Fragmentum. Matériau avancé utilisé pour le renforcement.",
    "lore": "C'est une lésion qui engendre le mal, la pulsion du péché. C'est la source de la distorsion du Fragmentum.<br />Le cœur bat lentement, mais la force qui lui reste est suffisamment puissante pour causer une nouvelle calamité. Il vaut mieux le détruire, afin d'éviter d'autres problèmes.<br /><br />« C'est comme un cancer... »",
@@ -161,6 +164,7 @@
    "comeFrom": [
     "Certains monstres du Fragmentum au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -169,7 +173,7 @@
    "id": 836260,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "567e2625dad62dc022ca7b71109c76754e7fc5cc2ac9daa5debb5c65282743ab",
+   "iconPath": "cf5a458a6f5b56925e970a2f6e10ac8fc3034f2b045e7d87e13c0a49e4c8fba8",
    "name": "Flèche du chasseur d'étoiles",
    "desc": "Fragment de la Flèche de lumière briseuse de ciel tirée par le Seigneur archer de la Destinée. Permet d'améliorer considérablement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Les ruines d'une construction divine que les humains ordinaires ont rarement la chance de contempler. Quelle est donc la force capable de faire exploser des étoiles à des années-lumière ? L'humanité ne peut qu'imaginer la puissance de la Flèche de lumière d'après les cendres qu'elle a laissées dans son sillage.<br />Seul le Maître de la fournaise, chef des artisans de Xianzhou, peut forger à nouveau ces éclats pour ceux qui en sont dignes.<br /><br />« La mort d'une étoile brillera de mille feux pour les siècles à venir. »",
@@ -186,7 +190,7 @@
    "id": 920201,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "fdcef4e7b19d0d08fb9ea878b30e08be44286d0a6273f29c89a77c6e17ad9572",
+   "iconPath": "cde54d9ea3870506cfb7367e25d2eada09bfe948b459125b5e916d55fa6d4133",
    "name": "Flèche du tueur de démons",
    "desc": "Pointe de flèche forgée à partir d'essence de stellaris par les artisans de Xianzhou. Permet d'améliorer modérément les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Une flèche plus fine qu'un doigt. Elle peut être utilisée à l'aide d'une arbalète électromagnétique ou d'un arc thermique. Sa puissance est telle qu'elle peut pénétrer les carapaces robustes des abominations en un seul coup.<br /><br />« Le banni céleste arrive de loin, après avoir parcouru de grandes distances entre les océans d'étoiles. Similaires à l'averse, les flèches s'abattent sur un casque reflétant l'éclat de la lune. »",
@@ -196,7 +200,7 @@
    "comeFrom": [
     "Calice des Plaines des neiges périphériques",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

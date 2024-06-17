@@ -2,16 +2,17 @@
  "name": "Escapade terrestre",
  "rarity": 5,
  "descHash": "À la manière des feux d'artifice, elle peut passer d'une couleur à une autre en une fraction de seconde.<br /><br />Alors que le spectacle touche à sa fin, elle est assise en hauteur et observe avec ennui la foule qui s'agite en contrebas.<br />Des pensées défilent et s'évanouissent, au rythme de la lumière kaléidoscopique qui illumine ses yeux malicieux.<br />« C'est décidé. C'est comme ça qu'on va s'amuser aujourd'hui ! »<br /><br />Elle sautille à travers la foule, sa traînée dorée apparaissant et disparaissant capricieusement.<br />« Ne traîne pas ! Le meilleur feu d'artifice est sur le point de commencer ! »",
- "iconPath": "0c2e20c23cf12e8893e0ef5288b676c8397e714a44ebfd9354249a3cfcd31702",
- "artPath": "34eb5a1e8dc9541b6b476ced5dc88ba3c789f0c6a22cf15e9194472e45cc367e",
+ "iconPath": "61f14f2b2a5d7328e8fd678fd3245731073d1f1ff3c2fab45eca4eb81e228790",
+ "artPath": "16a485dac705ab103f942318f3b4ade3ef15da45fa1ca8965d476757731c7239",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRtgBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSAoAAAABB1D/iAhERP8DVlA4IKgBAACwCACdASoUABwAPm0skUWkIqGYBABABsS2AE6ZQd0G6zcCDAbZPnkNMA3nB8Ae7sYhzvPwA4Su/O9yiiLE/HjKtkYRoBkb94K+uSdeBAAA/vn3+Sr/No6C03hsNlQdRhcuGjXHWFryPNkX3oqBrENDy6+C1RykJ1n9Z6/qiz7rIql9BYIpXfN0GpLWZye6vWv7xFdrZwaWj5Ciy7DRtIMebcdQunWTmIYy6965FTZPkdOXSh1j/YZi+WArlV8vgnpRPVGgbPjtKOHXR6/zDPRxbW5vXe/pCEjWiMb5fdAKnovE+7gOjtXPi6kWdi1e4y5syW30EthOcSpMWMK74/MyLT88Cix4mSmCLWERwUMJEKvmn2rN0XY926qMe0MUjubL8ACH7F1ekPheoh6qewIu/FB8x6ZoF9r8Fx/UdllfD4V9S65j6Tmi2jchT61TkVfBV9XCPQQqlIK78iqc6gWFd0UNgbby6SAMu3AzL+V9+Zn5OZf+ytU5/VCS9/1zBedngnuQAuCChBdXUVzdc3Q+zP6s3RGY2wRC7MTK2Dz+FwnwH1hymAAA",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "2e9d12fcb6d8465d07a5be26f87d8eef20f97920e1cba487921a1e1f5122818e",
+ "mediumIconPath": "22bfcd06a871705af27378a7c2a72b8b81c4353760f0dd79927cd019e492b5ec",
  "baseType": {
   "id": 0,
-  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
+  "iconPath": "c0712011803bdb1229240f7c73e2b79b3a8d2c906cccf9c3f339366c0154827a",
   "color": "#FFFFFF",
   "name": "L'Harmonie",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549210": {
    "id": 549210,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "ae1751bde54881f61c4a931b60e2923b8032ce91241561aeb6ed88ac8ee27797",
+   "iconPath": "83140650a75f68acd3c464f5c9f3e2a37fc4c9cf00cccc7df9643bf9535a8d4b",
    "name": "Lambeaux de pensée",
    "desc": "Fragment de pensée passagère. Matériau commun utilisé pour le renforcement.",
    "lore": "Au sein de la Zone de mémoire, des milliers de pensées flottent telles des grains de poussière. Les pensées brisées s'accumulent, et servent de nourriture et de composants pour les créatures mémorielles.<br /><br />« Les pensées passagères peuvent se dissiper dans l'air ou s'accumuler jusqu'à devenir une obsession ».",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549210",
    "comeFrom": [
     "Butin de Créature mémorielle",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemis de l'Univers simulé",
     "Récompense d'affectation",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 589819,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "9dcc37e0e0903af3108640d694d154e4d9c54670d5b1de405adc1c283ef3186f",
+   "iconPath": "e85f4354349d3ed12bf55533ca0f134f3066a134380a7d6b07cc2129f41edad0",
    "name": "Séquence céleste",
    "desc": "Séquence mélodique tout droit venue des cieux. Permet d'améliorer modérément les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
    "lore": "Séquence musicale issue de l'ordre. Tombe silencieusement des cieux et se mêle à la cacophonie, tels des grains de sable éparpillés dans le désert.<br /><br />« Personne ne la remarque avant qu'elle allume l'étincelle de l'inspiration... »",
@@ -72,7 +74,7 @@
    "comeFrom": [
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -80,7 +82,7 @@
    "id": 633151,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "d76fcb744e5bf3574f3fa68b6e66adfefdf41b1652d1dd788b0dbe68407b1e0d",
+   "iconPath": "0192ab0a5e3d02fe26ee8da7fe31b07c720e715bd225ae56d7ced9bb556fe9e6",
    "name": "Fragments d'impression",
    "desc": "Fragment d'impression profonde. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "Au sein de la Zone de mémoire, les souvenirs formés flottent telles des lueurs passagères, et seuls les fragments profonds et mémorables peuvent être condensés en cristaux.<br /><br />« La mémoire n'est pas qu'une réplique des moments vécus, c'est aussi une reconstruction des émotions passées ».",
@@ -90,6 +92,7 @@
    "comeFrom": [
     "Créatures mémorielles au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemis de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -98,7 +101,7 @@
    "id": 673760,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
+   "iconPath": "778df6f9b3a5c48680127dfa6bd63fcfebdac7e64ee2ca6e214ef1ceebf6fa76",
    "name": "Mélodie céleste",
    "desc": "Mouvement symphonique provenant de l'univers. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
    "lore": "Musique issue de l'ordre. Résonne discrètement depuis les cieux, noyée dans le silence, telle une étoile solitaire brillant dans une rivière stellaire.<br /><br />« Personne ne la ressent avant qu'elle tombe dans l'oubli... »",
@@ -115,7 +118,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -133,7 +136,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -144,14 +147,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -169,7 +172,7 @@
    "id": 717092,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "ac85858f27838b734365e77343aabcdbaf56463c492b153cfb4ebd64c04f659f",
+   "iconPath": "1de5e10b7e00fdd60f28fb4a6523889456248f633ed770cdcdf128f5e4987151",
    "name": "Fragments des désirs",
    "desc": "Fragment de désirs obsessionnels. Matériau avancé utilisé pour le renforcement.",
    "lore": "Au sein de la Zone de mémoire, la bibliothèque des désirs prospère. Elle absorbe les pensées et les impressions, alimente le miroir des désirs et reflète les ombres mystérieuses des créatures mémorielles.<br /><br />« Les souvenirs pointent vers le passé, tandis que les désirs pointent vers l'avenir. Lorsqu'un désir s'infiltre dans la mémoire, les rêves se déforment et, peu de temps après, les démons émergent des profondeurs de l'esprit. »",
@@ -179,6 +182,7 @@
    "comeFrom": [
     "Créatures mémorielles au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemis de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -187,7 +191,7 @@
    "id": 874346,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "0b9599c040d16b07324d2f3ea37854bbe9d3d22cb80a43b3070662e562738a04",
+   "iconPath": "fc04cb34a709ee9feb6e3664e524dc88ae28e382d7ce1b9fe5cd6943fcbf8d03",
    "name": "Note du firmament",
    "desc": "Note éparpillée du firmament. Permet d'améliorer légèrement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Harmonie</span>.",
    "lore": "Note musicale issue de l'ordre. Tombe silencieusement des nuages et se mêle à la symphonie des sons mortels, telle une goutte fusionnant avec la mer.<br /><br />« Personne ne l'entend avant qu'elle fusionne avec une chanson... »",
@@ -196,7 +200,7 @@
    "rewardPath": "/material/874346",
    "comeFrom": [
     "Calice de l'Hôtel Rêverie du Pays des rêves",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

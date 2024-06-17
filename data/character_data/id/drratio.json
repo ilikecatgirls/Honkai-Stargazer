@@ -1,19 +1,20 @@
 {
  "spRequirement": 140,
- "iconPath": "19e3cc6daf8379022eea1bdd0ddf7ce8ec99eb130915f1bc1dde19eddf68f213",
- "bgPath": "4a876afb27e69d9ffdbe3e1f9d6cb5179b3077d77a635f0551ffec75d5ebd946",
- "figPath": "db6dc0b71ea45f8a848ebf58a29f83e389e930e84745e820a83df20d95e00401",
- "fgPath": "0aa2c84e1570f008260d4b8a963b629e70ed115a769e190c557fa940260e4506",
- "splashIconPath": "babfc7fda646adc5c5088abe7409bdbfbb8c4387b0907a24a581d7b837d6c458",
+ "iconPath": "d86c65e30c302f52dda9e51da86660023b54915b0609151d068ad3fe65d7f045",
+ "bgPath": "65180ee9f15758617896e47cf8ab7bdb49760b8357e05fab09f2e94c0653c5f7",
+ "figPath": "1d1b5a8d3509583c004a186018146a6b44dc43131f81d11bda7021f78f3b1077",
+ "fgPath": "9838a7d33789656ec950a46c7d93674364893c90aa98982abfb2ad4aece7c325",
+ "splashIconPath": "f907042458cf7175b498ce9c9ebbd29133839d84b90447db29f003d493ab4c31",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRlYCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSAoBAAABkKNt27FH1xPbtlUlle2kS2VjAeao/6spbaPiDqaaylZr68P7FN83/2whIiYAQEiPhKLEiCKEICOyr9fHUjRAkJnLRdf0buDybnlsjF8odcO7+kdVf96fyfEROPrkjzGuZb4v4htCx7KtjjHG1Xf9hHmE2vPv1XgdvZdFGEDx4HG1fNQ2n5vxpk/dUsfHqKsvRiKBsENqGX9bz+ZWAiFUv1XXdVxjjKN3QADSZ36pqrqOMY7ejkOAiFPf/pw7raqu5dgaABCKTutaTM31p6qqVj8ICOEHArGJHdFDgeWDm0s94QAijE7gW0jZSLEHkfDFEkJCQ0MQQDwIuQfwChLKP4XaaM//JiQHA1ZQOCAmAQAAcAYAnQEqFAAUAD5tMpVHpCKiISgIAIANiWQAnRUHbsr3iLyMzABMnfsYFyoh6xvh0q9yh70wWdcPSE0gAP7ZX75VB/4hhSb0zMnuz8v9Zm3ydzNE4m/24oWG7q/57wE0YaygG28PwAPM/JG9kAUXkn58w23R2Z1Fni0AFUEpsUvd+/ELo3LzqveffTQ06rn63TnJ09/PpPxDEocJ14xNVcw+KAxz8Ahl7yd3oPBmOt2EKW+hHXrg65RQEmL4YtM0vNn4+PMpx1BT8Uryi8/jgbqPFnnIFCzUDaJfNjqGmsOSC234oIUje/1Nj74SzCR+lf5f+X1cvG9NipVQHcy67YD+tY54dCshV2esQiycOJIH/O6mb4W54ztSEVy4SeBPUmOEL6AA",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 2,
-  "iconPath": "db0b64061159f4acfb6a3034911f3b42572d0d8d51723ca888b8ce49b06961c5",
+  "iconPath": "0d032c5312107813ca5b29b0c67980c2d6d6888274edd2294ea5312d21f8fa29",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Credit",
    "desc": "Mata uang yang digunakan saat Interastral Peace Corporation bertransaksi dengan pelanggannya. Kini mata uang ini sudah menjadi mata uang yang umum di perjalanan ruang angkasa.",
    "lore": "\"Orang-orang berlarian, berkelahi, bertransaksi ... tujuannya cuma untuk angka-angka yang muncul di terminal. Namun benda yang benar-benar berharga tidak dapat dibeli oleh angka-angka perusahaan.\"",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Tracks of Destiny",
    "desc": "Material berkualitas tinggi untuk meningkatkan level Trace.",
    "lore": "Kekalahan demi kekalahan telah membuatmu menang. Langkah demi langkah ke depan telah membawamu tiba di titik balik nasib.",
@@ -61,7 +62,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Traveler's Guide",
    "desc": "Material Experience untuk karakter. Dapat memperoleh <nobr>20.000</nobr> Character EXP.",
    "lore": "Buku seri yang harus disiapkan saat menjelajahi berbagai dunia. Tekan tombol baca, dan suara magnetik dalam bahasa yang kamu pahami akan menceritakan pengalaman legendaris petualang terkenal di berbagai dunia, serta pengetahuan dan kebijaksanaan berharga yang mereka peroleh di berbagai planet.<br /><br />\"Seri baru Traveler's Guide 'Resep Kuliner Antarbintang' akan segera dijual, ditunggu ya.\"<br />\"Untuk pengiriman, silakan hubungi Synesthesia Beacon ERD<nobr>-230</nobr> untuk terhubung dengan perwakilan Intelligentsia Guild. Pembayaran dapat dilakukan dengan metode apa pun yang praktis untukmu.\"",
@@ -79,7 +80,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Adventure Log",
    "desc": "Material Experience untuk karakter. Dapat memperoleh <nobr>5.000</nobr> Character EXP.",
    "lore": "Buku catatan petualangan yang dikemas dengan rapi dan terlihat sangat edukasional. Teks dan gambar sama-sama mendeskripsikan awal dan akhir petualangan, informasi berharga, dan kiat-kiat bertahan hidup.<br /><br />\"Kenapa tidak menjadikannya sebagai data dan masukkan ke disk fotolit? Begitu bakal lebih praktis.\"<br />\"Saat menghadapi badai bintang dan letusan aliran neutron, teknologi tinggi akan menjadi jauh lebih rapuh dari yang kamu bayangkan. Ditambah lagi, penulis buku ini pasti ingin orang-orang membacanya dengan cara yang paling sederhana.\"",
@@ -98,7 +99,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Travel Encounters",
    "desc": "Material Experience untuk karakter. Dapat memperoleh <nobr>1000</nobr> Character EXP.",
    "lore": "Buku harian yang mencatat segala penemuan di perjalanan. Tulisannya acak-acakan dan isinya juga ditulis sesuka hati. Tidak banyak gunanya untukmu.<br /><br />\"Cepat buang tumpukan kertas ini setelah dibaca ya, Dan Heng?\"",
@@ -116,7 +117,7 @@
    "id": 468392,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "fde5283543d2c56dbc6fa50e20ee2cd2a34a0ec0d0b3d2c1df1af003e36f8174",
+   "iconPath": "c31905e6c5bec5a3962f29a1961f5813d9441b1aacd59d07be0accadf3184acc",
    "name": "Suppressing Edict",
    "desc": "Komponen yang digunakan teknologi ingenium Xianzhou. Material Ascension untuk karakter Imaginary.",
    "lore": "Setelah Rubert menimbulkan bencana organik, kabar beredar bahwa Aurumaton di Xianzhou juga memberontak dan melakukan pembantaian besar-besaran. Untuk mencegah terjadinya kembali kekacauan, para pengrajin menggunakan talisman untuk mengurung mereka, serta mengambil kemampuan berpikir Aurumaton.<br /><br />\"Apa yang kamu lakukan hingga membuat makhluk ini menggila?\"<br />\"Aku tidak melakukan apa-apa! Aku hanya ... menyeka talisman emas itu.\"",
@@ -132,7 +133,7 @@
    "id": 470781,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "iconPath": "021510fda34098d12f31549a6dfc2257a20b8c51087684e3585392122b8a07ca",
    "name": "Past Evils of the Borehole Planet Disaster",
    "desc": "Material berkualitas tinggi untuk meningkatkan level Trace.",
    "lore": "Sebagai keturunan yang berasal langsung dari Imperator Insectorum, satu-satunya keinginan ia adalah memperbanyak populasinya. Ia menggunakan sabit raksasa untuk memanen planet yang dijadikan sarang, memperbanyak keturunan tanpa henti, membunuh banyak jiwa sampai akhir hayatnya.<br /><br />\"Di planet yang hancur, belalang raksasa menutupi langit, dan gerombolan serangga berhamburan keluar dari lapisan kerak planet. Sang kumbang menjadikan planet ini sebagai sarang baru dan mempersembahkannya pada Imperator Insectorum .... Semoga tragedi ini hanya terjadi dalam sejarah saja, tidak terjadi lagi.\"",
@@ -147,7 +148,7 @@
    "id": 549437,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "15365d10ed38771d99d247bc228b03787e29972cc714a655a9b8feef3031505e",
+   "iconPath": "4f72b8f7844978949880397801aefcce237cda7868c4a12e08bfbc01942f4045",
    "name": "Thief's Instinct",
    "desc": "Sejumlah kecil antimateri. Material sederhana yang digunakan untuk peningkatan.",
    "lore": "Sejumlah kecil antimateri yang terpancar dari Voidranger: Reaver, seperti perwujudan naluri destruktif.<br /><br />\"Mereka menantikan saat pembinasaan, saat mereka bisa melebur dan musnah bersama dunia.\"",
@@ -156,6 +157,7 @@
    "rewardPath": "/material/549437",
    "comeFrom": [
     "Dijatuhkan Antimatter Legion",
+    "Dijatuhkan musuh di \"Divergent Universe\"",
     "Dijatuhkan musuh di \"Simulated Universe\"",
     "Hadiah Tugas",
     "Penukaran Ember",
@@ -167,7 +169,7 @@
    "id": 633378,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "3cd4c92ff44d695595377ffc6c0896d6839775f6014e96daf679b256bc0d19cf",
+   "iconPath": "c280dfdd449649afcb43215a3b8a13ac25ada88cac3c214030421be50e954a8f",
    "name": "Usurper's Scheme",
    "desc": "Antimateri dalam jumlah sedang. Material biasa yang digunakan untuk peningkatan.",
    "lore": "Sejumlah kecil antimateri yang melayang di sekitar Voidranger: Distorter. Jumlah materi dan partikel antimateri telah mencapai keseimbangan yang berbahaya ....<br /><br />\"Mereka menantikan saat pembinasaan, saat mereka bisa melebur dan musnah bersama dunia.\"",
@@ -177,6 +179,7 @@
    "comeFrom": [
     "Dijatuhkan Antimatter Legion pada Level Equilibrium Lv. 2 atau lebih",
     "\"Omni-Synthesizer\" - Synthesis Material",
+    "Dijatuhkan musuh di \"Divergent Universe\"",
     "Dijatuhkan musuh di \"Simulated Universe\"",
     "\"Omni-Synthesizer\" - Pertukaran Material"
    ]
@@ -185,7 +188,7 @@
    "id": 635674,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "bbfb88036f821da503753ae4189da74a1586b0b7ee8ec0f234bbf9fb53474d01",
+   "iconPath": "11a70d892dc3b897bc3d714367c18fe413d9538c809eb21c211f322eed806403",
    "name": "Arrow of the Beast Hunter",
    "desc": "Mata panah yang ditempa dengan Frost Steel oleh pengrajin Xianzhou. Dapat meningkatkan sedikit level Trace milik karakter <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hunt</span> dalam jumlah sedang.",
    "lore": "Saat melaksanakan upacara kedewasaan, orang tua akan memberikan buruan pertama di sepanjang hidup mereka kepada anak-anaknya, dengan harapan kehidupan anak mereka akan seperti anak panah yang melesat dari busur, selalu tepat sasaran.<br /><br />\"Semoga panah yang tergantung di pinggang, pedang di sarung, selalu tepat sasaran.\"",
@@ -202,7 +205,7 @@
    "id": 717319,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "3c858c8ff4df238403e5443f57850367e4164a62efb508ce359db9c5b7474a19",
+   "iconPath": "eebc291ef462012e745328f6c1c3e34e603ab1e7d8cd0d11433221be7824a2de",
    "name": "Conqueror's Will",
    "desc": "Antimateri yang padat. Material kualitas tinggi yang digunakan untuk peningkatan.",
    "lore": "Antimateri yang sangat padat di dalam tubuh Voidranger: Trampler. Momen penghancuran adalah seruan trompet untuk penghancuran peradaban.<br /><br />\"Mereka menantikan saat pembinasaan, saat mereka bisa melebur dan musnah bersama dunia.\"",
@@ -212,6 +215,7 @@
    "comeFrom": [
     "Dijatuhkan Antimatter Legion pada Level Equilibrium Lv. 4 atau lebih",
     "\"Omni-Synthesizer\" - Synthesis Material",
+    "Dijatuhkan musuh di \"Divergent Universe\"",
     "Dijatuhkan musuh di \"Simulated Universe\"",
     "\"Omni-Synthesizer\" - Pertukaran Material"
    ]
@@ -220,7 +224,7 @@
    "id": 836260,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "567e2625dad62dc022ca7b71109c76754e7fc5cc2ac9daa5debb5c65282743ab",
+   "iconPath": "cf5a458a6f5b56925e970a2f6e10ac8fc3034f2b045e7d87e13c0a49e4c8fba8",
    "name": "Arrow of the Starchaser",
    "desc": "Potongan Sky-Shattering Lux Arrow yang ditembakkan Reignbow Arbiter. Dapat meningkatkan banyak level Trace milik karakter <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hunt</span>.",
    "lore": "Sisa jejak dewa yang tak mungkin bisa dilihat bila tidak ditakdirkan. Satu tahun cahaya terlampaui, bintang langit dipecahkan, orang-orang cuma bisa mengingat kekuatan dewa dari bara api yang tertinggal di panah cahaya.<br />Cuma Furnace Master, kepala pengrajin Xianzhou yang layak untuk menyusun kembali pecahan-pecahan dan memberikannya kepada pahlawan hebat yang telah membuat pencapaian besar.<br /><br />\"Bintang-bintang membelah langit, dan cahaya bersinar sepanjang masa.\"",
@@ -237,7 +241,7 @@
    "id": 920201,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "fdcef4e7b19d0d08fb9ea878b30e08be44286d0a6273f29c89a77c6e17ad9572",
+   "iconPath": "cde54d9ea3870506cfb7367e25d2eada09bfe948b459125b5e916d55fa6d4133",
    "name": "Arrow of the Demon Slayer",
    "desc": "Mata panah yang ditempa dengan Stellaris Essence oleh pengrajin Xianzhou. Dapat meningkatkan level Trace milik karakter <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Hunt</span> dalam jumlah sedang.",
    "lore": "Panah yang bahkan lebih sempit dari jari-jari. Jari itu dapat dimuat ke panah elektromagnetik atau busur pencarian termal sebagai amunisi panah terbang. Kekuatannya cukup untuk menembus cangkang kekejian yang keras cuma dengan satu serangan.<br /><br />\"Dewa yang dikucilkan turun dari langit, mengarungi lautan bintang dengan perahu. Anak panah berjatuhan seperti hujan, pelindung kepala bersih memantulkan terang bulan.\"",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "3cfcd006d85f4b1750df7c7ad5526fdb8a2214115c1a59a10f739abfc88302df",
-   "artPath": "1576cea61557abca4a92048ff95788d211b7bcfe0471e092972e00aacd802bbd",
+   "iconPath": "232f6c1ac1e88cb2750e7429abc3dfc401846781b34b762e5aded88e75bd28bd",
+   "artPath": "0edeac709ab74e43756769a2b58a233a50f4c6dabcc674527cd63401c1735121",
    "name": "Pride Comes Before a Fall",
    "descHash": "Batas jumlah lapisan Trace \"Summation\" bertambah <nobr>#1[i]</nobr>. Saat pertempuran dimulai, akan segera memperoleh <nobr>#2[i]</nobr> lapis \"Summation\". Perlu mengaktifkan Trace \"Summation\" terlebih dahulu.",
    "params": [
@@ -450,8 +454,8 @@
   },
   {
    "id": 2,
-   "iconPath": "70d8a85463a4cf8ce17e8705ec9f46bdc08190b160ccf269283aebd7650e5d02",
-   "artPath": "94a2ab7e7760517858aaa7c22958191f6c428b39ee8337887c855754f4d5debc",
+   "iconPath": "23736dca0c020103200a0e0f10650b1ffdbcfc8d47e327005eb04ef61135c87a",
+   "artPath": "46d9848decdd109b78b2e66192356326aa2bd74d96aa28611e4440d588a51067",
    "name": "The Divine Is in the Details",
    "descHash": "Saat Serangan Lanjutan dari Talent miliknya menyerang target, untuk setiap 1 efek Debuff yang dimiliki target, akan mengakibatkan Imaginary DMG Tambahan pada target sebesar <nobr>#1[i]%</nobr> ATK Dr. Ratio. Dalam setiap Serangan Lanjutan miliknya, efek ini maksimal terpicu <nobr>#2[i]</nobr> kali.",
    "params": [
@@ -461,16 +465,16 @@
   },
   {
    "id": 3,
-   "iconPath": "2409d9ad4b6853e86443b4fafebba642cfa2c504b0fa17594e46104febb10082",
-   "artPath": "cc2f7bc687c5085154b65c9f3bad00b849895308d3ee3b9fe524faf474a60249",
+   "iconPath": "7f5f7a079fee2f0e0e4be1b1be3b2155e1bc1e84b5dccb83177d9137d30be367",
+   "artPath": "ff6b7253c3a0b1e7c472e08d05310b1870de9189682407e7993cc69995bae9f1",
    "name": "Know Thyself",
    "descHash": "Level Ultimate +2, maksimal Lv. <nobr>15</nobr>. Level Basic Attack +1, maksimal Lv. <nobr>10</nobr>.",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "58c364ef223c9ab38de6694d2043f02a66bfd0c279a4dcdc6081485cccbb929f",
-   "artPath": "2b16ee0072cec0c455b8a442b468740acb9fa4cee607041c8f54974983355636",
+   "iconPath": "aff14fcd5cd79f6e578ebfd72d9088515ef56c82cbebca57031a679e06e7bbf3",
+   "artPath": "aee13eeb32e31bb723ee0b82bcd4a8bdbffffec346dba5be582af0aa4090ad15",
    "name": "Ignorance Is Blight",
    "descHash": "Saat memicu Talent, akan memulihkan ekstra <nobr>#1[i]</nobr> Energy untuk Dr. Ratio.",
    "params": [
@@ -479,16 +483,16 @@
   },
   {
    "id": 5,
-   "iconPath": "c43ce8e213f0ca060250af12f2f9415478beda05cb9ecaa43ae203d65818802f",
-   "artPath": "3625df05777ae6544248fe368acaacb936f3a9b2840905b53fde96c6c50706e6",
+   "iconPath": "de7cf3ff47bf4a9e63d1e5693fa7967f4e0432bcd1e20ddec4690664e46a4231",
+   "artPath": "fe600764221e2c24eabd1239a2299bacbea49b19460d4a7fb9c22c9f277dc49f",
    "name": "Sic Itur Ad Astra",
    "descHash": "Level Skill +2, maksimal Lv. <nobr>15</nobr>. Level Talent +2, maksimal Lv. <nobr>15</nobr>.",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "9dea70a7206d217e43f07c1cd405bb47842108b409eba5b5c50a4dd650ed0fd1",
-   "artPath": "1c89d3ea4d2366f29186d7aee0b59a1176ccc67d5312451b1713b33872468565",
+   "iconPath": "7be010e2791162ebd65f8f1aed5b91a5e1bb6ad139ae729bd9ceb88ae35a2b95",
+   "artPath": "b8dc6521e56a9933cbc60b984d8a1d89d0fdd848f380df3b6567f326efeb2cfa",
    "name": "Vincit Omnia Veritas",
    "descHash": "Efek terpicunya \"Wiseman's Folly\" bertambah ekstra <nobr>#1[i]</nobr> kali. DMG Serangan Lanjutan dari Talent meningkat <nobr>#2[i]%</nobr>.",
    "params": [
@@ -523,7 +527,7 @@
    "energy": "20",
    "id": 776142,
    "name": "Mind is Might",
-   "iconPath": "1ee6f4e45c1714cd62c0f5b90b99e54d613fc4fbca74e5446df469cbf48a5aa0",
+   "iconPath": "12843c6e766e9bb4b40ea26583cf632bda3b71ef365c557922d5430f1a0f19d5",
    "typeDescHash": "Basic ATK",
    "levelReq": 0,
    "promotionReq": 0,
@@ -684,7 +688,7 @@
    "energy": "30",
    "id": 692201,
    "name": "Intellectual Midwifery",
-   "iconPath": "c43ce8e213f0ca060250af12f2f9415478beda05cb9ecaa43ae203d65818802f",
+   "iconPath": "de7cf3ff47bf4a9e63d1e5693fa7967f4e0432bcd1e20ddec4690664e46a4231",
    "typeDescHash": "Skill",
    "levelReq": 0,
    "promotionReq": 0,
@@ -959,7 +963,7 @@
    "energy": "5",
    "id": 575556,
    "name": "Syllogistic Paradox",
-   "iconPath": "3d635536196be48334f20ed220849228c898c24e03afa2f26d5a6cec4bf1194b",
+   "iconPath": "b2149c81abe5f7d98fa75155564bb7722463463712c37aa9d43c7b7567794c1f",
    "typeDescHash": "Ultimate",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1249,7 +1253,7 @@
    "energy": "5",
    "id": 261255,
    "name": "Cogito, Ergo Sum",
-   "iconPath": "85ec3d9fcc3b56e406330fa5823fbc3a3c24d1c5af070425b204e24a5fbe5b15",
+   "iconPath": "447c428c7bee76887cde50a01f6da226757b547af471ecb60825db15f30899ab",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1554,7 +1558,7 @@
    "energy": "0",
    "id": 60669,
    "name": "Attack",
-   "iconPath": "1ee6f4e45c1714cd62c0f5b90b99e54d613fc4fbca74e5446df469cbf48a5aa0",
+   "iconPath": "12843c6e766e9bb4b40ea26583cf632bda3b71ef365c557922d5430f1a0f19d5",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1576,7 +1580,7 @@
    "energy": "0",
    "id": 976728,
    "name": "Mold of Idolatry",
-   "iconPath": "34480c0f2400b7efb64f9336bcdbedb365ca850999fa8ef4f9e09e7de34fb443",
+   "iconPath": "240a509b67200aa6643cb681d34dba68363bc0bcef1474b9b997ce5b20ff3ae4",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1617,7 +1621,7 @@
         "name": "Peningkatan ATK",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATK",
@@ -1646,7 +1650,7 @@
       "name": "Peningkatan CRIT Rate",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+      "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
       "statusList": [
        {
         "key": "CRIT Rate",
@@ -1675,7 +1679,7 @@
     "ultimateCost": 0,
     "id": 413347,
     "name": "Summation",
-    "iconPath": "3a4064faf82f3c142814472f1aece5516a905fab40ddb0cd18fc6be7cca0bafa",
+    "iconPath": "c112eb43dd6aeb51d6b49f5faf1b42123ce5156725239e360e31eb120aa3db71",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1726,7 +1730,7 @@
         "name": "Peningkatan CRIT Rate",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+        "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
         "statusList": [
          {
           "key": "CRIT Rate",
@@ -1755,7 +1759,7 @@
       "name": "Peningkatan ATK",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATK",
@@ -1784,7 +1788,7 @@
     "ultimateCost": 0,
     "id": 413350,
     "name": "Inference",
-    "iconPath": "b9952c496d29e0fbfdf92e772518aec6a1acca081bd41ebaf3e0f279d9910656",
+    "iconPath": "4451f466da4605551ed5d2c90b4cf2a0291435fd20326732d83a4f977421a207",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1839,7 +1843,7 @@
         "name": "Peningkatan CRIT Rate",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8",
+        "iconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695",
         "statusList": [
          {
           "key": "CRIT Rate",
@@ -1872,7 +1876,7 @@
         "name": "Peningkatan ATK",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATK",
@@ -1901,7 +1905,7 @@
       "name": "Peningkatan DEF",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+      "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
       "statusList": [
        {
         "key": "DEF",
@@ -1930,7 +1934,7 @@
     "ultimateCost": 0,
     "id": 413349,
     "name": "Deduction",
-    "iconPath": "2fa5a9d80d2cd803da826471d9d1e6a772d49cad6a803e37a944f726deca227e",
+    "iconPath": "e1bb25849dc2e69141c331a7ea5f92fc1b5142d200db01497c1b3822d68ece83",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -1975,7 +1979,7 @@
     "name": "Peningkatan ATK",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATK",
@@ -2004,7 +2008,7 @@
     "name": "Peningkatan DEF",
     "levelReq": 0,
     "promotionReq": 3,
-    "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+    "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
     "statusList": [
      {
       "key": "DEF",
@@ -2037,7 +2041,7 @@
     "name": "Peningkatan ATK",
     "levelReq": 0,
     "promotionReq": 5,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATK",
@@ -2067,27 +2071,27 @@
   "props": [
    {
     "relicTypeHash": "Badan",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "CRIT DMG",
-    "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609"
+    "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe"
    },
    {
     "relicTypeHash": "Kaki",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "SPD",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Planar Sphere",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "Imaginary DMG Meningkat",
-    "propertyIconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e"
+    "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068"
    },
    {
     "relicTypeHash": "Link Rope",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "ATK",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2097,480 +2101,480 @@
    "title": "Pertemuan Pertama",
    "text": "Aku adalah Dr. Ratio, seorang sarjana dan guru dari Intelligentsia Guild, dan orang awam. Jika suatu hari otak kamu menunjukkan gejala kebodohan, maka tolong hubungi aku si dokter.",
    "unlockRequirement": "",
-   "cnUrl": "0c82f2df217ba1daa17635ea532cb3dd2d28f6ec73f5d224971bd87d3e739ad0",
-   "jpUrl": "949cc95f13168929ca485a5a9800c0eb8f5373dbed86c6ae2097067e045cb1ef",
-   "enUrl": "abd3091066903bcb02f71e9947a25e05454af95b8b54440016f0374a16fe6b54",
-   "krUrl": "b494bc6f0c43160c8ef752793bad6181a62b08ef44afa5a13db81f7951c07900"
+   "cnUrl": "0692cf459566587e3dd06586c4d9c2038ce58a76039beb680a0862da8f8c77cd",
+   "jpUrl": "948153d04cf61a78cde6e04f955916e147e76a930e7f4521cf025180e0c9442a",
+   "enUrl": "9b4fc32fc616239f577330b91fb9c8d0997d8e01deb73a078b75b0dd41e19695",
+   "krUrl": "85cb2830815507497a17f340a1381d4e3d3e31064ed72308cc088cdccd8cbe53"
   },
   {
    "id": 2,
    "title": "Menyapa",
    "text": "Kamu terlihat stres. Apa ada yang mengganggu pikiranmu? Kalau iya, kamu bisa mencari caranya sendiri.",
    "unlockRequirement": "",
-   "cnUrl": "91b2449e384dd4b9cda681cbaa8ca7c19175de187f4e165c564b91d144517f03",
-   "jpUrl": "9c2cdb5364c08b66fa6e41621a07ea32421c24de83213653ef3b29a3a7fc7607",
-   "enUrl": "09c595ee7fb5ec941f52b3647bfa9496f280ee7d0ec363d570cb3eff30f4335e",
-   "krUrl": "0e441ef60041e0f1ae945f48ad6dedfe40383afe69a755a14f6dde4a37e606db"
+   "cnUrl": "e8ad27b29d1f0a9cb0d475b4357aea0c2f45e8c54e18e9ad8d728ffb88ca72c6",
+   "jpUrl": "0b44c8fce069b830b0ea371ad3661e61a52e2c6d00f8b8c5154577ad5e37ed3c",
+   "enUrl": "8bb41fadd72510cde411aaff3d12f5ded4773a2958ea5d8e65f79dc5af5a8431",
+   "krUrl": "9a27704ea666317f6cab1f4ab66e547199edcca994d01538352f538522268ead"
   },
   {
    "id": 3,
    "title": "Berpisah",
    "text": "Satu hari lagi telah berlalu. Kalau masalah kamu masih belum terpecahkan, apa mungkin masalahnya adalah kamu?",
    "unlockRequirement": "",
-   "cnUrl": "7ff5de5478d1b162902e034767ce36e7434120b85b5a248b3104640e49832973",
-   "jpUrl": "710bcc8441abb9559b6d24b81a11f30ee6b23f4815cc5df06af0f76e548cf879",
-   "enUrl": "759d7caeb6c6e4b79d6ab8bc4835b1d09513e36a6dd57c32597d88ac6d515b8c",
-   "krUrl": "0274c2d06f62ce6fa0790e951ea9ee015639840eb7b41bd84a59f58dafe8f8aa"
+   "cnUrl": "308d7172716ed97a364a57cce4f181b80bb4f77a4efd01ad3d275b84936bf59f",
+   "jpUrl": "6fc6edcd57e8ce21e70aac4e0727682c3869cd6afbf2d1cdc90fc6473ce5970c",
+   "enUrl": "2980d283edbc9ec70094be968a64159085bbea7d37a6255b12dcdeb48fc6991b",
+   "krUrl": "c40ecd9b261a41460feb4c74302c9b411b48c07efe16d5a9141ebd9815fb9b5e"
   },
   {
    "id": 4,
    "title": "Tentang Diriku: Pelindung Kepala",
    "text": "Pertama, dengan perangkat kepala yang terpasang, dan terisolasi dari lima indra, aku bisa berpikir tanpa gangguan. Dan kedua, aku tidak perlu melihat orang bodoh. Tentu saja, mereka juga tidak ingin melihatku.",
    "unlockRequirement": "",
-   "cnUrl": "0c5b4c1f82a0cdcb8d92b2cb6fd193ccb07c6097b7f411e2023377804532ec2c",
-   "jpUrl": "96955a3a5c03d9eb30e8f0a3f3d36ee91b69ee157bd1814668d8dcd5e8034241",
-   "enUrl": "27e18a87f3d3a01c58446cdafd5b6f4e0ffdbdc825184abe9beab3f032bd8ff9",
-   "krUrl": "d746ab99ef1db594356b8e5251c552f1a96ec7696372a18ccbafb15262eb90ce"
+   "cnUrl": "223adf09dec22be7cee6d75242232229e55129c8a0e8b9313020ba76582aba6c",
+   "jpUrl": "7cf3b6eaf2f3c20f58d7a51d8a3e670ae34395a254ee8a36e7e869eee0287226",
+   "enUrl": "bff9b5c8ebd10ecb46440bf56bf4d92a9ad159b35ae128b937319f7a2cd36e2a",
+   "krUrl": "66f1941fd9d797c0000b522e99bf8c8b952b7aec44848495795ca3b27d255f1a"
   },
   {
    "id": 5,
    "title": "Tentang Diriku: Penampilan Asli",
    "text": "Aku tidak keberatan untuk mengungkapkan warna asli aku kalau itu membantu dalam mengajar siswa dan merawat pasien. Tapi, dalam pengalamanku, itu biasanya kontraproduktif.",
    "unlockRequirement": "",
-   "cnUrl": "77191cf83b8195fc6d38a47769073f4ace611700495b0eedf0cd82405b932b86",
-   "jpUrl": "490670ff2180dfdeb43a73a6f62eedf36e78fb5946b1975fe462f880d1c26a03",
-   "enUrl": "cdc5f48c2852ad1e76e2e89f94acd619d5a7484a5c6665979191f50042a1d808",
-   "krUrl": "77eaa5a8aff5d491a23e0a86dad4d3e51d3c00027987618b0d9c81132b11eb25"
+   "cnUrl": "3ad3cec1f2e04d721ee6f9193c792eb98b9bde7f460d1d1b55f87697f288260b",
+   "jpUrl": "999936cabdf99514ad28810fe951870efc4b521e9e5d23dd3a524f7a78892d54",
+   "enUrl": "ff95d9293071c688b4bc1fec60772c6c4febdf360152e6084e39d6192c54d518",
+   "krUrl": "e2f557dd21812125fad5a429ede8e2cb2dc3f450480678b04832081be773dc45"
   },
   {
    "id": 6,
    "title": "Mengobrol: Intelligentsia Guild",
    "text": "Intelligentsia Guild sering kali dianggap sebagai penjual pengetahuan, tetapi hak untuk menentukan harga selalu berada di tangan pembeli. Ketika seseorang bersedia mendengarkan pengetahuan yang disebarkan dan beredar, sebuah harga diciptakan.",
    "unlockRequirement": "",
-   "cnUrl": "fe6dc151a5e4ee35226d88508413bb9c05e1331c95cf8af9d3e7ba185e8b5f15",
-   "jpUrl": "ea3c5c1a7083845691cc3c52f70293454e7febc7d4850aa87a01974695c3858e",
-   "enUrl": "b8047310733170f26ddd04629a2a246d2df4d334de0608e9f1034d46c74b5dee",
-   "krUrl": "5026b23a59e6b12010cc654e620fd5cf234a6a8faf4a8b2a26585ea626ba39ce"
+   "cnUrl": "ee5b7306df49cd71944a9f7ee6981ee212a9fdbaa41fa7fa9e7e448f9ef49573",
+   "jpUrl": "4f8ac828e2cfdb07d8ac7b23a69568a0effa08680a29fd7414163e273bfa7dce",
+   "enUrl": "421578c2c7015b866a82e697cb01f9617073afe0acf1170fc1679980cabd6af8",
+   "krUrl": "c0f0f886320da504f19e8fa3d81248c95fbc64755215646b925fdc6776306ab5"
   },
   {
    "id": 7,
    "title": "Mengobrol: Genius Society",
    "text": "Mereka mengabdikan diri pada kebenaran ... dan itu benar untuk dikatakan demikian — sebab, segala yang mereka lakukan adalah untuk kepentingan Nous.",
    "unlockRequirement": "",
-   "cnUrl": "47115fd9a5c4ad262836c5f1bca1ab3e134ac41742be4cc7c114333da0f0cfbd",
-   "jpUrl": "c9c1544c7ef4f6af0f9aa2f2ba82066e2cf63f9b40ab31d1af5aaa32d0524a27",
-   "enUrl": "dd7d074ffeb1ee930661d8511ca29700229f21e8bea56cd219d726d7ae80ef51",
-   "krUrl": "dd277492021d31cb32b380aa9b0fd5f6ae61d4d362a44750c2d7c189f6c46c26"
+   "cnUrl": "5a3b47ff2bae026d3d3ec97f3f82d7107d397dcd88c4f396895a45ebbee46cdb",
+   "jpUrl": "c7cd47fd4d3968af613520f6603ed3f3e9728333a0b0c968d727c885fb8b89c9",
+   "enUrl": "e723725155520752477746c496d524032665ccfad50377ad6de9bc7a90ba1f16",
+   "krUrl": "993b252d74c64118228bddd87222d553a150b25363569f082a73ad5f9c22dbe1"
   },
   {
    "id": 8,
    "title": "Hobi",
    "text": "Aku tidak bisa menjauh dari buku dan bak mandi, terutama yang pertama. Ketika kepala seseorang penuh dengan kotoran, tubuhnya tidak lebih bersih.",
    "unlockRequirement": "",
-   "cnUrl": "8170036f413a97073682620baae9bcdd81ce9f12ad988eedd66defdd80ffa506",
-   "jpUrl": "78e219434f26d6d3d3730d17805c4587db9e1d6dc9bd48eaa225b1773f3d9566",
-   "enUrl": "5bbe33f0cc4e5937dcad62030f2fdd8b846db95d49ce1332fcdc7e35e6633289",
-   "krUrl": "629b17e20159ea5f26a5e7a465014b8d849e101fa5af412d115901effd9ede2c"
+   "cnUrl": "d6df0bbc47a127c5ef290314c8793251f503423093111b4007e97fa13e337b54",
+   "jpUrl": "8432aa3fcaee0458e49b22d147822bc242c5efe9f9ece71ee3bf332041cbdd7f",
+   "enUrl": "5c0aa0d01178218afa7e16b697b25c4b8c097687b930cedf504248e641746a49",
+   "krUrl": "7417d499250cb75c85f552bc59b268f4dc1879ba2331d5ebf71cfa1634d2a046"
   },
   {
    "id": 9,
    "title": "Hal yang Memusingkan",
    "text": "Hal yang paling menjengkelkan tentang kebodohan adalah kamu tidak bisa menjelaskannya kepada orang bodoh.",
    "unlockRequirement": "",
-   "cnUrl": "3dbd1800eec72f87dc8b96163b63a154972e8db0d4acb8ddb4b7bfdda9b641f3",
-   "jpUrl": "dc39b9ecbc26d7c83746decc482004e34dcfb179db3bdaaf8d954920537b20b9",
-   "enUrl": "4b8c7612e03d5bf892796dbf3ff38ef1e1334d80b346c23dc6207ba683a60a52",
-   "krUrl": "944fd963c56920a87b7c9ebc74b91f40e109239a33d246ce281b90671966445d"
+   "cnUrl": "cd99f292c2264f89866e56188404bc1407ef0499b01d921eed2784bef02b0970",
+   "jpUrl": "2095acfa97f9e80913a043475f887d0d119fc81a06ed590a3949c0caaf8ea5a2",
+   "enUrl": "715036be498781d5a79f20f8ef5decd989cc249212fc24c084e11822aa8fed6e",
+   "krUrl": "8b89c58e3c838dbec37f9cceb8e064c7e3ba74ac34d3313ae84747d59cf7b7ca"
   },
   {
    "id": 10,
    "title": "Curhat",
    "text": "Sebelum kamu mengajukan pertanyaan, mengapa kamu tidak mempertimbangkan apakah jawabannya sudah ditentukan? Lebih baik bagi semua orang jika pertanyaan-pertanyaan seperti itu tidak diajukan.",
    "unlockRequirement": "",
-   "cnUrl": "d25c365cb02874a05ca5291aea753cdbeb4f05761a709df97e3f52776f476e28",
-   "jpUrl": "7dfdf60f06988a39211ace4a47188cfcd5eb1f1fcf8a6c5aa756378b1f44c706",
-   "enUrl": "47465cf7915c2e75ed3ee2d344aaade328f99feaa7bcfa0825f6fb7fdeb76178",
-   "krUrl": "2ea3171bbc3519b0511a376f6fc3a29ce97ffb957510ee19312188fe474d3d84"
+   "cnUrl": "4f5c59a78ced7286c510f79a1c8f63bd27027a6b8a0df6df5d29a810a3997658",
+   "jpUrl": "d1f87af742ddb4c3b3eb0145443785fa82be6862705e8f6bf05bd9b7ea6d8178",
+   "enUrl": "85e79c2bf0ca3a459f9a5b5d56ca156b98ee2a592269c989cacfa7b1f0746c71",
+   "krUrl": "6f50306c45fe3dd1ea409f7961dfb51db7bc4618bc43e18edf7be69e35df9f10"
   },
   {
    "id": 11,
    "title": "Pengetahuan",
    "text": "Kecantikan dari kebenaran adalah, ia tidak pernah berubah, bahkan ketika tidak ada yang memahaminya. Ya, itu berlaku bagiku, setidaknya.",
    "unlockRequirement": "",
-   "cnUrl": "c23492c636267a2b5c9408e47c08cfde2e357970f20ee27da4bed544a5aa5754",
-   "jpUrl": "f96bb69a3ccbf509d900cb3f9c30b92c0a38fee1877abc76bc0e3aae6dc1e700",
-   "enUrl": "151583730052439eec21e9bd8e86109e2ee9189eacd403bd72bf3c9a52c0f3a7",
-   "krUrl": "02472cdf2c227c21b0b19161bedb2418ab59c6baa5605543129f671cf670edef"
+   "cnUrl": "58fca98acfbb44755a9200aad5ab14ecc3070258a5d6c559b9bf420eac324dd2",
+   "jpUrl": "b11fe2bb9d39258bab55419c457a2cdf5f24e15be2836eaf7e5da571d56fabee",
+   "enUrl": "bb06ca75a88aa9fc1cb018f6f93f9d814e9d936cd65b63e74e8aad95ff6321f6",
+   "krUrl": "5f82f7d127a006109be83682e900f0c8888a0dfcf3e087949a982fc9da3f69d7"
   },
   {
    "id": 12,
    "title": "Tentang Herta",
    "text": "Herta adalah seorang jenius sejati — keajaiban alami yang tidak melihat siapa pun sebagai pesaingnya. Aku tidak meragukan bahwa dia berbakat, tetapi aku meragukan apakah bakatnya selalu bermanfaat bagi orang lain.",
    "unlockRequirement": "",
-   "cnUrl": "507d7e4b4c40fe9947b932539fa13a4abc55b8e79cfecdcab56a5b49a6160f3d",
-   "jpUrl": "3b72dc0a85108e62fe538766c14a2cbd218377cc22c8fa7315936c1a2b5772d8",
-   "enUrl": "a6465288e2f2566e7d6e20452ee493e4f70b9fd96059f8cdef8e8281d23f5036",
-   "krUrl": "a58b0def2192edc88ae77c5975395001bd67a7f716be41a02adfa681584cafa1"
+   "cnUrl": "55519b423c8f9b1c8817d16448966f7f6cda2bab97f913d708a012d4f55fe8d0",
+   "jpUrl": "20b64501c3e223a9d83824c883da71850b16e16375e3be405f411764c8b28341",
+   "enUrl": "d3b67a4196733a1bc2e7ee71b4007d4f9eb26a63dabc9f261f820012595b553b",
+   "krUrl": "47dc9a5b67d8097dd010a6f9ee883fa9f620f4668fcddb730bb148a24b9b70e1"
   },
   {
    "id": 13,
    "title": "Tentang Screwllum",
    "text": "Dalam bidangnya, Screwllum mencoba untuk membentuk hukum baru. Aku lebih suka menyebut seseorang seperti itu sebagai seorang raja, daripada seorang jenius.",
    "unlockRequirement": "",
-   "cnUrl": "97cc8dceb8c9c378f1737095061e2b987d1b1e1a36a615761529eafafd6a1361",
-   "jpUrl": "08838b07ff0e1751f684d0f53f6988c5e5b60f61d74735dba6995442eb57aa64",
-   "enUrl": "b9bae03e3a75644fd8b7a45aecb9200326d919efbf70ca048bd500d6e41b7695",
-   "krUrl": "d782b20f8c59f399f766aedf7e200b9f0ac023a3e259722551c2a176edc288cb"
+   "cnUrl": "d9dd82c0fc15c2f5162c937679885b428d31ffc2dc18e7981e0ecdd0286f0728",
+   "jpUrl": "ef52adeab913b4d9665d4d948fe78a52e91cf20beeb0b30cfc002e9bb5e9457d",
+   "enUrl": "08f90dc7ce106d2f11808f492049aa2f4bb98823e8e2923e92f9e80e8d883619",
+   "krUrl": "a1561d6fbf26857890daa01c00dd4373edd7f7371ea1a60aecf067316806ff4a"
   },
   {
    "id": 14,
    "title": "Tentang Ruan Mei",
    "text": "Berapa banyak orang yang telah tertipu oleh klaim tersembunyinya sebagai seorang jenius? Bagiku, dia tampak ingin menjelajahi lebih dari sekadar kehidupan. Tunggu dan lihat saja — dia adalah anggota Genius Society yang ambisius.",
    "unlockRequirement": "",
-   "cnUrl": "282e380069c7b4a5e6b2b5be32baf84d7f1629d689be5282eb8bc731b0e4397f",
-   "jpUrl": "862f0f71a4630e8dd1c2a27ddeda9c20780a37e65f905b01c3a0f3db470d14e9",
-   "enUrl": "7251df24d5f9d883ffaf89e2fe0eac45f5e53694f7ceb0ae3865ffd454f29db7",
-   "krUrl": "39bf73b30d3f0656103d3269fb401112facbb8b50b0620111abd8c678f376363"
+   "cnUrl": "fe03bfbaf459c93f29160cc296e04edf18b0b3b0609b1bce228f5058796084cb",
+   "jpUrl": "4dff1521f690fbd20b58d8003c45fce751a87889f7a08f3d764fa6980216b098",
+   "enUrl": "948b7bf58533be01c1f180ac7fa5c55e8efff32099245e6414a99d17d514aab5",
+   "krUrl": "81408ca97d4c6d9c3276640d515abfa328c2dc01244f0845cadde58d4a906145"
   },
   {
    "id": 15,
    "title": "Eidolon Diaktifkan",
    "text": "Berpikir adalah satu-satunya cara yang tersedia untuk mengenal diri kita sendiri.",
    "unlockRequirement": "",
-   "cnUrl": "8e83565ea072e9a26fa59d7220d1d6178d753c34ffecd9e3b1b4900e5df74c6f",
-   "jpUrl": "7a95780ec1e7e16228549baa7e8a4caeb6b532eb6114b28df49984609e0e81bf",
-   "enUrl": "006444b49b75f1246baa0b270771baf3439a88ad4563e1153621e87049e3d331",
-   "krUrl": "61d7c30524cb65d2a2049949e97b5b90ba4f6a356a98b8796ea403ae0d580564"
+   "cnUrl": "4ce6d931541f1fb8ad3f3b68809b902cf6eac783206c351dcdf92bf372abb642",
+   "jpUrl": "1bfe4bf3be0a2c705de4f78addfb0705178e64a53e415593ed5125b1e8966d5a",
+   "enUrl": "369a0b78d134e768bfa034894097da887f414b8b9d5ee297c427694cbfcfb58e",
+   "krUrl": "8783b488c377c3f14770fa1ff9821c0917f7fdff3e5401a16725088d0cd465db"
   },
   {
    "id": 16,
    "title": "Ascension Karakter",
    "text": "Semakin cepat progresnya, semakin besar peluang terjadi kesalahan.",
    "unlockRequirement": "",
-   "cnUrl": "3e68981f0c6eab29f34028ceb2216bc17831c70e7a4c28e6fd59178290c3a5e2",
-   "jpUrl": "a4e7db105d26dbd96dd55c227c7edb143bb044cc0d6755780e04fd0cd986fa27",
-   "enUrl": "7fd072461e86cd3e129b93cbb208de01dfa26ed5abb58cc65b45fe4609ef82ab",
-   "krUrl": "304b47f5e0d9b30f193ea49139d500b084537b36132ee4a9ec5f68159b4dae9a"
+   "cnUrl": "3c3be6961692fe40ec8faaf1fb7bf449efc7dda9f2f70c22a148b210b55927e7",
+   "jpUrl": "4aa7a4b3e4133b4f7205f1566332b8830be18f6ce5bf0ef74c95bd07eb3433bc",
+   "enUrl": "612ddcea697cbc58e5a419c100e0f6d883368a0d041f89d422260b501b330ab8",
+   "krUrl": "12de60a22da0fb771039cc6fc241bf14707b2b27ab7fc5c080c133e83dfeab60"
   },
   {
    "id": 17,
    "title": "Level Max Tercapai",
    "text": "Jika pada saat ini aku tidak mendapatkan pengakuan dari Nous, maka wajar jika aku tidak akan pernah mendapatkannya di masa depan.",
    "unlockRequirement": "",
-   "cnUrl": "14bfebb4e96fcf9db74e2806bf14eec79994e4d4559c379a37d8fe7836866cbe",
-   "jpUrl": "92e6eaad33fa88b4ec712867ac1653cee1032237948496b6d51e9084a0869bba",
-   "enUrl": "964504e53f86cfccdf8fb2759fad837dea1105dbf557962665ccd3020f6f831c",
-   "krUrl": "8c9bd44099d8f97d8567496d331ad8064e6639127187462dec23ba7a5737922a"
+   "cnUrl": "042a0bfbb12dff00e5d11895a31257a0cae7045b65c8a3c69977a939e6ddeb5a",
+   "jpUrl": "04b59f66038be152ed3766447321bc2fccaa2932ef2428a907cb25cadf353ae1",
+   "enUrl": "68df1437569863893e500335350188ec5542714d1c387b6ab80b887a1724cfd2",
+   "krUrl": "c738af6aecc6a785817038338adb1110106eafd514e254ea6bc909d04d1c4ffb"
   },
   {
    "id": 18,
    "title": "Trace Diaktifkan",
    "text": "Kamu mungkin memilih untuk melakukan hal yang sama seperti semua orang, tetapi kamu pasti akan mendapatkan hasil yang benar-benar berbeda.",
    "unlockRequirement": "",
-   "cnUrl": "95f3b87fdaab61855c4201c89249fdd38e615b86a5b021c11a497150a5e7547e",
-   "jpUrl": "c7747f34e649ceecbcb2b640f537d5ad849983fe39c3f76f0a8387e6011e1847",
-   "enUrl": "1b37a8be6a3c405593c594825974085394ee61bd9b7d873fa64c49ba3e7178c2",
-   "krUrl": "c931c64b4ee9b5e7c3dbf7ae05f0f3d136e0abb35487b89715f78c2c3204205a"
+   "cnUrl": "e7c2c608256d288101465e12924ee122e563cf61e9474259ed9a6be5da7260e9",
+   "jpUrl": "ac466160b284bbca49daa1c35063bcc657eee157e1e956fa27caa67cdcb449d3",
+   "enUrl": "9de865f5c9cac6c85e96fb11d1f29dae1c93d3cb0707e8cd0de6c3793e9ad712",
+   "krUrl": "936f92e4918b611326c91b97b62ee0a0af8da678f033dd701a70f9ec2951369a"
   },
   {
    "id": 19,
    "title": "Edit Tim: Herta",
    "text": "Apakah orang awam masih bisa mempercayai diri mereka sendiri di tengah ejekan seorang jenius?",
    "unlockRequirement": "",
-   "cnUrl": "32145c57b1aa21399505f2fcbfc417a7bac6775eed9d2df913b20c1e9457d0a7",
-   "jpUrl": "e9d3a7e97df03be06c431ebce4d5110e35013015feb8794a0316722d46abbfcc",
-   "enUrl": "11ea1ef8d7654e90dec77fb194d96d6397fa93adbd16df2224b6065e3d62472f",
-   "krUrl": "457ad4b0ecd2a856f68d3c3837cbe29a10e73830f64947cc6dbce9c391fb66cb"
+   "cnUrl": "4dca8bdc45b2c9ab1c4bd93cfe7aefdcd2d0db0cee3dc01ed4a176f9a6bd06d6",
+   "jpUrl": "2b0a44c1ab10cc9562480dee4e465cdb663c70ef999328825104b59cf1e214db",
+   "enUrl": "f1954e696d7d759df419b85b8b2ff4b3211bec75d9bf174623e2e82e5a093d4d",
+   "krUrl": "5ff71f6157e1226a37cffff12d7991301431782e47fc5fa137c947a953e65bdd"
   },
   {
    "id": 20,
    "title": "Edit Tim: Ruan Mei",
    "text": "Mengendalikan dan meredakan insting kehidupan ... kamu tahu lebih banyak tentang hal-hal semacam itu daripada diriku.",
    "unlockRequirement": "",
-   "cnUrl": "ef09c7c088355d40d6e68891a73294ee7f83c99c4447b93de57f55e70e224aaf",
-   "jpUrl": "e8fb9c30aec47d97253a4e24526710b9ea831f3ad282004ee509dd21bcbcb653",
-   "enUrl": "a3e81fd7ffe6a51ddf12097d01f829ddd4655aabb0a3943e42fc0d951ffc594d",
-   "krUrl": "4bb536c7c345aeb65fb17f68b18eafc11a39809e62cb373f4055e2b590a3e674"
+   "cnUrl": "8d56edc1126252041fef1b9a51232c930d0535fb98ef7771a1f46f7dd7f25877",
+   "jpUrl": "09cd993062809fb6ec6fac6df7883b51c606f5fbda6b2565d7582085c4c63271",
+   "enUrl": "ac34064f7a33f5657c9b49e3d343b5a8704ca27ff35d9370b67c3f7a99effea4",
+   "krUrl": "361ec711c6deac8f13a96508516c57c4116ca947738e4547c22e5640881e2156"
   },
   {
    "id": 21,
    "title": "Edit Tim: Aventurine",
    "text": "Urus dirimu sendiri, pejudi. Tidak usah pura-pura peduli.",
    "unlockRequirement": "",
-   "cnUrl": "cd1a180528044f88eb03a4591b462c39c6d3bc348dd1c68fce12757cd8dd9b43",
-   "jpUrl": "6496801198960c3189354efeb73b840ed1c99554e5e37f3cbb27ce0c25bbaae9",
-   "enUrl": "6a0193b11854e4852d6bceb810d795fd5dc5f2002eef0063d178e8da01e76fb0",
-   "krUrl": "6f0317cd8e7fbef044c7f7e5289bb1333b46eff4abc150f137d24ea0bb304228"
+   "cnUrl": "9694f6661ecc53cbd122d2e8cdedd95f10e24cc82ba5137e668e886d5f07cd23",
+   "jpUrl": "dbaf7c2dd0181115479127e5208fc092ab5a5661177d65953347564ec7e0ade4",
+   "enUrl": "ba345f4a46e88ea8583ff51f20407400b2d2cdf5c0ec8776196f96a3fc411376",
+   "krUrl": "2d85b0ce01ac3b7e5989bd17ed587cd05fb8ebe265352439b18fc01a6696cf7b"
   },
   {
    "id": 22,
    "title": "Tentang Aventurine",
    "text": "Dia selalu berhasil keluar dari situasi sulit, dan kita tidak bisa menganggap semuanya cuma karena \"keberuntungan.\" Penonton selalu menunggu dia berbuat kesalahan ... mungkin dia sendiri juga sudah menunggu momen itu. Apa hari itu akan tiba?",
    "unlockRequirement": "",
-   "cnUrl": "ca87f4014c8c259c9b38d6c507d791fd55000fa653efea11cba163b53929d26b",
-   "jpUrl": "b7da28bed03f58dc15e926bc99b5287653878bc84f5d7e347a76042aab5c6ad0",
-   "enUrl": "97df29e71e138a635e9c7acf2d8778d06a098f1bb0ffbb49e0a606d50177e8d1",
-   "krUrl": "afa7effffc039124723b1256245490446bda7ca536bd28e01a8ff208f26453f9"
+   "cnUrl": "f483efa33553b8e1ec9f5bcdfbc26d2180eb1b7fcb5a2172319734f9ee48350c",
+   "jpUrl": "996d6add7640fb8b20adc69fe1f250c506f2cc1800b2aa1906d7ae30752a95c9",
+   "enUrl": "eb3354ad4d2b137c994f313d1cde063de3ea97ebcbffd14a232ce12084c0932e",
+   "krUrl": "acd11f32c6958ca79e87b34bcf5b72d298de0bc1cfa801d3d392a8f2908a987f"
   },
   {
    "id": 51,
    "title": "Pertempuran Dimulai: Weakness Break",
    "text": "Itu disebut pertahanan?",
    "unlockRequirement": "",
-   "cnUrl": "6b2d9e376d9a7e98bcf330667767ede178376645d0c55ef3772fd7ad86cd82db",
-   "jpUrl": "d400b7beedbf7faf7d63a83f1d888d435c305406cb2c9e09615d417190726dbc",
-   "enUrl": "7ce580786da59d3f1814460efd29dd91cc6c37c479a955f933bce3651810d3ac",
-   "krUrl": "5b8db841ea6d225fd3f8a5ed86b4ea2c8083ff05d5427ab096c04643271a91c6"
+   "cnUrl": "47981e08d5440110d9ba87e1fe14e0a0be7f1f7048b0c9be3909901f5d1394b6",
+   "jpUrl": "80e0c2a8beeaa386746f6749193257fe4477a5290d2536c4af2da4f7c1e3da3c",
+   "enUrl": "d0ffe02d3f0bdd5f914d4d2aac72c182fc1e2c467cac90bdf836aea0e95a1ad1",
+   "krUrl": "60e6531e245c804192355bf27b054ba82642b1da27dd8406a429b9c89fb9b95b"
   },
   {
    "id": 52,
    "title": "Pertempuran Dimulai: Peringatan Bahaya",
    "text": "Haruskah aku ... memberi pelajaran sedikit?",
    "unlockRequirement": "",
-   "cnUrl": "521c81cc70ec7fb3751952d8fbec9f8fc46fed6804e5242f68c895b0273415dc",
-   "jpUrl": "40c9b76a186be5d883a37f1831f81de9f85f90f4713e0de406601e48d83305c0",
-   "enUrl": "ccbffd6a7f2575e47e30e820f404d85d443dcce6b2b89d13b2f7e1aa346753f6",
-   "krUrl": "50910086e1ee555c353093b201f22180d1485d310174a6224ff7cc2cb4a23e5d"
+   "cnUrl": "7ab154620a70778a68dcaa7b137fc6bbde40a1be25334a08803855679a04a3aa",
+   "jpUrl": "ee129617e745a76812b0270d0d8e5a08116b74c3c9db82cc372ee52ceb2b9714",
+   "enUrl": "4896426abe6411ee8c6af5f2d9a76c2e82cae0c9cb5a0664fbcd1d50bc8840e8",
+   "krUrl": "041d48eaa63409def43cdda1ff9d376e25110bd94637b0f1cc6ab7b815a6d9dd"
   },
   {
    "id": 53,
    "title": "Giliran Dimulai 1",
    "text": "Aku sedang mengajukan pertanyaan.",
    "unlockRequirement": "",
-   "cnUrl": "53a7b74f02a1e5fe7be3d24ce68dd85107f5cacb41e4c8d9912237f6b6792393",
-   "jpUrl": "e62eaf16c92b4847758f85deb4c4c10fbda5788feb77fa514a22fa6aa066fac2",
-   "enUrl": "8cd2d7dd077565a46463b6e240854d48950f0cb279764cc2b37a0247757f829d",
-   "krUrl": "b5ac25e13f72ccb99aae3ccba9a3604bd38aff7f5b60728de3981db72cc9e27a"
+   "cnUrl": "a85bf85c515ef9fb468d5504aba19adb3b17a56c73ab5e87d546aa23fc22b101",
+   "jpUrl": "b0e7d73c007fccfe7eeda64a82a25f619e1cf54f24edb384d7093c0276b3ea27",
+   "enUrl": "58d34b28a8dcb6330358a203f7e3b49cf1c25eab1213a26fd96b73b9126e9b77",
+   "krUrl": "8e57fb859fcc3d25fdd61527057bfea1764bdd20e2b4a68195d4149bfea53715"
   },
   {
    "id": 54,
    "title": "Giliran Dimulai 2",
    "text": "Apa kamu punya jawaban?",
    "unlockRequirement": "",
-   "cnUrl": "efe1426c16ed508bb2f6cc5068dc72d12230f8a654ed0c94b4b7f1752a3aed2a",
-   "jpUrl": "5c005251e07f36ca3beb7a90095235bcd06340c2fbd8036ce3720afc38e359bf",
-   "enUrl": "215046cdef02139c592de0ae7c8d61ada439aa2adf4d2c1c685ce8491568494a",
-   "krUrl": "6340bb371abd574799e17aac2b5a173b42774d36952c53377472fd7973b99715"
+   "cnUrl": "9458af99ba417781c5ed06982de5eae5e3347550ca91b9f8801b75041c9f17c8",
+   "jpUrl": "3632ba5e103c1ebf983b602ef3da54be7828089b0c6afc2f2837da5a9a899c5a",
+   "enUrl": "77abc355179da88bed0fb0ff5de7f310e63c804020b435cdc6daba410f3766c4",
+   "krUrl": "1061c89149384420f6bbd1a848a14a28c3b610a7e64dcb96c6b37c121a150ece"
   },
   {
    "id": 55,
    "title": "Menunggu Giliran",
    "text": "Tidak perlu buru-buru. Kesabaran membuahkan kesuksesan.",
    "unlockRequirement": "",
-   "cnUrl": "535c0583b7a3d0f291dc9b6c1199d1e53bdaad8b91167f85e701a225624911d8",
-   "jpUrl": "3907dcceae40651a680cb5358a6e7480e11e7e05d151ed05fe5f6f88556ce71a",
-   "enUrl": "08744f63b5ad724f0547d4cdb92a9f009bd95ad8f818e415fcb78dd2aed579d6",
-   "krUrl": "62ea692faee9dfae0fe535ed13545f0875411419b9e68eb5350515c49eb6bbc4"
+   "cnUrl": "67c382972b6964433d12bbc325f3e850e982dec893baeb66dab340848b1e1425",
+   "jpUrl": "476700e23905d4189befb47977464967872c92c149401e28d3a45aac0311f8a7",
+   "enUrl": "146623b3038dabde24abbb470c1d05056cc2672c5f129814a9ef1bbfb74a1c3d",
+   "krUrl": "bbda080242ab54584a299ce7415d713ce5d3956cd51407dca5f1b4eb7c195928"
   },
   {
    "id": 56,
    "title": "Skill 1",
    "text": "Biarkan aku menguji pengetahuanmu.",
    "unlockRequirement": "",
-   "cnUrl": "bfc6f2da9ff3e39e2eb54c3ca79669411b6d832e204ee0cec39675e59e8fccb9",
-   "jpUrl": "9cacc1d926f45abc3863760d1b05fa3d43b4d6c5c8dd84319544e3d563f7808b",
-   "enUrl": "7b26ce71cfbbe0b8882e5be0f52c65951279625dce0dcc716cff5d941b93ee6c",
-   "krUrl": "7f0211bb941fcae465c900ffb82f4a4ccda8112ef07657dd75e414f5a1e7d297"
+   "cnUrl": "dca132b29fa190945c5f34e5aff79de0fc7eebb22c2b95040ed092276250f4fe",
+   "jpUrl": "eccc9373d5b922bb665ed15f13ae79ea7d66d3c737d80d2a0b4bb7725f74269f",
+   "enUrl": "8a5854ca91c294c54844f34343b27245779c08a52c2365d1a6ca862c2b5b151a",
+   "krUrl": "fb2b96df2637c04c53625bd4f418b02bad8cc5f5727422c1fa15987916d3f394"
   },
   {
    "id": 57,
    "title": "Skill 2",
    "text": "Jangan pernah berhenti berpikir.",
    "unlockRequirement": "",
-   "cnUrl": "9a4357b2fbfd26b2efe6b0fa65844681af2155c2cfd11a543131b940321bfdae",
-   "jpUrl": "744f22ee908aed71cc8cc3ecd967f89bf229ab690316e779df5143c0cbbea0db",
-   "enUrl": "dba847bd8f51029ce801b19fb70a956937adcf89f5074e18e72d3b5cfb839695",
-   "krUrl": "9e5a71bc76f338cbbd8212177c43665dbc05cc753eef9994532623ccb6af35a3"
+   "cnUrl": "f39a71820aebaf376c30db4593dcbf9688f57c9473b86603ab8889f5cd1cc88c",
+   "jpUrl": "17578bd2b0e0c2268113a49673ba47ca77d01f6adc05b2cb81c1fe1606f59e5f",
+   "enUrl": "81030d86deea5aa5b1912e4380c406d0b9f9dcd38d94b49fc8515d44552371b0",
+   "krUrl": "cf4dd65e83562167c70f389648a3b2194678586012d5f4eaa48b68bd8bc197e7"
   },
   {
    "id": 58,
    "title": "Basic Attack",
    "text": "Berpikir!",
    "unlockRequirement": "",
-   "cnUrl": "6b51a09dbd906d089a0a5f388bb72918c1db16f0b6ef43b2afc66458ffd2e364",
-   "jpUrl": "3af32d58f4e325d75f86b0ff9ecd8c78a4ab7265953ef31ec5b6745ff573a43c",
-   "enUrl": "da1325f83f7a9ff93033f6bb3197a6bd0e8a26af339f962d888c22a3f9f5edc0",
-   "krUrl": "d9e6224f85ba31f04ecf47d275cf7d0e15c74000ec4c7eab790113eca5592747"
+   "cnUrl": "5c27afde46823eda26b1af4169d3856a2a59c5ea2ad2fa4ba6a25a568730b1dc",
+   "jpUrl": "be3dbb479bebdae80bf85988d3072fa9d8009c96837914b0e2fef9386a2cd183",
+   "enUrl": "4dec5d8c1ce5511bf029e45e5c6e4716a7c64173df31cb2911c3f88480f45856",
+   "krUrl": "e52634bc1d158ff7470f058b006db0c150213f63591441752a3d77c6cf474e14"
   },
   {
    "id": 59,
    "title": "Terkena Serangan Ringan",
    "text": "Orang awam!",
    "unlockRequirement": "",
-   "cnUrl": "3ea47d9d86512b5538d73806b0e591c0fb57847bed6e32cacfa9d487240709f6",
-   "jpUrl": "bf0d8afae4aa7ed14d22f9fad7dedd7ed5437feda591b8a58755889841ff993f",
-   "enUrl": "fa116cecd5fba7d40fbe0c2bba8753eb92494f0a6ad3bbf16e052194ecaeec1a",
-   "krUrl": "54d58047c309a3db51c5a8d58e347ec7d3bd255258e46b7b9779b3ab21c8dba4"
+   "cnUrl": "54abca3e102ec6747b3cad098fa3550422a3b0383a8535fc45669839c60939d5",
+   "jpUrl": "f89af48ed1b64607a16a3e92a54c896883e1a7b7160e19c7b9818b58c1b9219c",
+   "enUrl": "7918913d09daf73a165a78c4b0626c0a72b010f264ffb32306400de6c8633260",
+   "krUrl": "a8ccebd60f1d9344e48a8a3cc30d56cbcf5f2b170604be20761ac2ca4163e2e5"
   },
   {
    "id": 60,
    "title": "Terkena Serangan Berat",
    "text": "Kamu bodoh!",
    "unlockRequirement": "",
-   "cnUrl": "d1cc842a7819ed0562120849dbdcefc151f0b349e4bd52d01a4772ccdf46749e",
-   "jpUrl": "02a744246831288a3de112296fa552cdcb73c11565df83b74ee8a54c4bf769ce",
-   "enUrl": "2ea156441d2be28b179be309ebd8f6613905ca26d7e2fe3d95eb86f2f114ee91",
-   "krUrl": "5af8836b115516b02edbd0804f6a52d861bc30d33ae0f839f3982d7d9c36019e"
+   "cnUrl": "5e6441d5c4551350b975ca7107cda7ec2cce94d6438ce9086c078f19933d2bc0",
+   "jpUrl": "46b4a302bbd96a339e4056d1ea46265628b39a72422b604292df6a93b5ca8822",
+   "enUrl": "49cf6637f08fa911d2bbcd210afd56730ec14b764baaede23bf908622c5ba605",
+   "krUrl": "c1f048431098daec4a753627585effcddd7992f41743bc91df31ff1eb5321499"
   },
   {
    "id": 61,
    "title": "Ultimate Diaktifkan",
    "text": "Keberadaan adalah hasil dari persepsi ....",
    "unlockRequirement": "",
-   "cnUrl": "24a456c1244d1a5ed9067668671eb458cbb29fbcd26a2553f6dc59675bdf5783",
-   "jpUrl": "a4a36f568fb3dfcb5e529abde785d4e70e8309a3898f7dfa544ce2fe8baa5fa6",
-   "enUrl": "27f6a261bc4a20ea153d046b73d9c8f6256395ad06f3ea11a49d1684faa95d48",
-   "krUrl": "cea88a45234044a1508b6acc71adc5cac24c57a8a999621f48e8eea2c9d25c50"
+   "cnUrl": "866177e39eab7b120e2478055c6902e1a72f1986207a30672bf37a6957c86c0d",
+   "jpUrl": "8ca097f83d75d8194f2b00c77b8cec0cd0ff2cd24c21f9d41fcd4c9efe718577",
+   "enUrl": "cc0bf24b11723e11f7c06040c678135265b4b137a297d9fbf8d5f2cdd3ba55de",
+   "krUrl": "492cb054651791eafc6fbafb9aed466aa0f12f40e0a94b18a7a4bb2a9bcc310e"
   },
   {
    "id": 62,
    "title": "Ultimate: Pelancaran",
    "text": "Pengetahuan adalah ukuran dari segala hal, mengungkapkan kebenaran ... dan kebohongan.",
    "unlockRequirement": "",
-   "cnUrl": "bb25e907169f9521881e253bd6bcc8f9afddcc35104f417168a1f22db89d73a6",
-   "jpUrl": "9ccb84d400c0813462ecd85afea2b16d93d96511f0fa579c18567f2136bc7aca",
-   "enUrl": "32e7528326b505ce158b6b5a25a8725e61b9c40ae80d95d7eea98061d503c888",
-   "krUrl": "9e7d2340d4b8ad2b211ae06edea1c86904386318f0eabf8d033488c96421b75d"
+   "cnUrl": "3fbe00d5273b102d10cd871784c055520d70654db976169f93b9da4048fc76fc",
+   "jpUrl": "f26c133c925f51e37d307dfd24c696ea4984711ea43e9e07bbb68176b90dd3c9",
+   "enUrl": "c5d197407d3cc29ab955d1351ad8fe60539b81631ec7389005f81106543e177f",
+   "krUrl": "64cb1b6a3bae9f55dd2c86e94e5a232ac4fc937882da67542e2dc67bc7bde7e3"
   },
   {
    "id": 63,
    "title": "Talent 1",
    "text": "Poinnya nol ... selanjutnya!",
    "unlockRequirement": "",
-   "cnUrl": "44fa4ffe15eb42babd8191d7fa8519a47dd18730950d24becbc8fe9979385eeb",
-   "jpUrl": "af4a841ed847acee8d5708ca0c1827b6c2e7de667c4317b49662590612fce998",
-   "enUrl": "08ab2bb38b35c907e4bf7d2a687b2974870f880869d1791c52a217cb39324590",
-   "krUrl": "3906028ae21863fa8c78ef6315c7f87ca9a6af4dbdd85cc8276eedae9ce87167"
+   "cnUrl": "d7a4a901b576299490efcaf1a3358e3a3a3fa6e5f1e5ef01c83c2ee71953745a",
+   "jpUrl": "ad83fed8bebd813a56a5310eef236344db37d0e47a64ce1ee2b40afca09de385",
+   "enUrl": "f14c8beb8cae5f4dbba33fbb079035d5ba1bac173f06695c434a01a20a9e8a9d",
+   "krUrl": "97f4d41cb94773a0898cf1b278f98d0f54e8857e6f29f1a67a138bc9c33dcf44"
   },
   {
    "id": 64,
    "title": "Talent 2",
    "text": "Tidak lulus, keluar!",
    "unlockRequirement": "",
-   "cnUrl": "a925d93b305a8ee26424d6b1e367d7c53ec45b9545250c257370e1d1c967aac8",
-   "jpUrl": "ed8af5f09474fcd3ed1c7404a3a20cd4079307b3f8a7592b07c960eaf93479bf",
-   "enUrl": "5fbdf434dd452c452eb967ad1f027883c3986a9a1c83f431cfdd1ee52408de1b",
-   "krUrl": "d7686182146d4aa2fe5483d4420ecb797d54fc9a5b857edeb535ff1eb5ff1af2"
+   "cnUrl": "0ecba6b08c6cbf6535b4401a47353a4a50eccf1e96ad6c090ed28eae0d6fa58d",
+   "jpUrl": "7813b9092674e2ac04028d8d6b85437279e947f8c99282579946cb4bba25ce63",
+   "enUrl": "2af75cd083470cd219858044b7d76d8902c6af4fd29656dd49c74cf3dffa19d2",
+   "krUrl": "c832050aaa738b219610a5e1785cac226ddf6df18f1238e9ebf47352d4ee084d"
   },
   {
    "id": 65,
    "title": "Gugur",
    "text": "Hanya daging belaka ....",
    "unlockRequirement": "",
-   "cnUrl": "c43e13bb2bf3e8a6a5972ebf1e209fdc22e60e93e59c57928c534d7ffdfb21a7",
-   "jpUrl": "c80dbad33e339fe82bb8cdb10ae5d32f6a46bc084e44a5961a0a26a110773214",
-   "enUrl": "7f0d7105bb3e746404b112936d853ef046aacc57266fcb2df82cde372eb2478b",
-   "krUrl": "2e3ca95afdd0e287e94cc1d3e08ecd8e25dc80e1e584509937062ced06be30de"
+   "cnUrl": "088caa3d8c59d5eba7c60ff6ad0c77dac27c25726f779650651a4141a2fc9ba0",
+   "jpUrl": "a2840828cf0c30dcd8358fd2bf1b22f89dd7700a34bbfc76b812edcb685694c5",
+   "enUrl": "68b1b83015446b4a7b62f7cf210c2caca738f51cb4242e6879e2749e824399cd",
+   "krUrl": "13f117b713b713786a100d906028dc3b7d20e9f325669b93afd8b71c3b1da02d"
   },
   {
    "id": 66,
    "title": "Kembali ke Pertempuran",
    "text": "Bagus ... sepuluh poin.",
    "unlockRequirement": "",
-   "cnUrl": "85288c54ddf237c87e2f1de21d1fa61bd0eef812dc020302db263703c650011a",
-   "jpUrl": "e50faad40c9a30bc58b8040ff9bb754e4e2d3381f7a537d568ace69baef1378b",
-   "enUrl": "25725f04d63f3934839556871c974d50a7c2ca240cf32fcecfd0c43b238ebf43",
-   "krUrl": "cb250484749c98b42257cac10682105d4161ac2bf36fec509fd2c092dd520a24"
+   "cnUrl": "5117dc5b2222a1bd772efdee6f5ba08de7492b4fdc4a2e57fd4d0b5a959d7175",
+   "jpUrl": "41763ed2132db707abe6b5d8d7db9b07a55e48a6b2ac7c937333c017a36f9bda",
+   "enUrl": "5e246616f89d493b666f7e372c052635f4fddc8600a4488beea82e98a25e7219",
+   "krUrl": "7018fedd64f0576cb34adefda144ab34960fd4fc8e351b94855698ab7b9d6b1e"
   },
   {
    "id": 67,
    "title": "HP Pulih",
    "text": "Lumayan ... lima poin.",
    "unlockRequirement": "",
-   "cnUrl": "fda13c9061ec8841fdbd0dcc9ec1af30da8f9f2198db8e7f48f661e4952367f5",
-   "jpUrl": "c6847794b162f59633dcb2fba0abe63d2570be0469b61be3aa6b26917978a950",
-   "enUrl": "4860b52970e8c97e2275e38de81690fbe0878eb4a064901d95d6d8a5fc689d60",
-   "krUrl": "01d162cefa6caebb31e358fd68deae8dd63c6f0a5b4be24b63a3706c0a5acfe8"
+   "cnUrl": "295560836d6a8626e8b33f4ef85ae391e1225b4657d558d6c7bbc0cf2cb65795",
+   "jpUrl": "cc42a8060dc73167682bd3b328fc9452274de257ca02dfc891b4e1d9123abffb",
+   "enUrl": "5cc660f53931c401e9fd77a1d4f95d75df3fb77c5d4c6b93e843be67be3122b5",
+   "krUrl": "58e4b7c805453a2eb81331932c8500ba5f3df449676e772f9c7f2e5db7f74b3d"
   },
   {
    "id": 68,
    "title": "Technique",
    "text": "Untuk teater orang awam.",
    "unlockRequirement": "",
-   "cnUrl": "a551df55c95231303eae0e4ba3564ef9cc2c0fc764b8ccb7e5ded309800b3d37",
-   "jpUrl": "2b616bed41d3c27881cd2210a2358a3868f1bc7555a5f59877387c1220eabb81",
-   "enUrl": "938bf02568c70c79b23e4310fbb1b658ef49bd97eaec96e3427a2e07681959d6",
-   "krUrl": "0fbd7babfc6979c6dca9b7794e51dd43f8f0ca8b7d50563952b2ed54d6a3c409"
+   "cnUrl": "30b5335df33e6c57b45030d24befb0c2317ed5a993c01ddb8e3a0449341fb6eb",
+   "jpUrl": "f1e2503dedf96535a8f988ac4f0c61d0c538ba78bbe105fbeef6f5f4aae3616a",
+   "enUrl": "61815b4bf1ea0aaeb4b27e7cc18a3a5ea89dcda349e44596f75a8e198f7b2439",
+   "krUrl": "f9e4e8bc8869780c31fa873a30b08bb3a5496955b94957d21e31394b24c33b09"
   },
   {
    "id": 69,
    "title": "Menang Pertempuran",
    "text": "Seperti yang diprediksi kalkulasiku.",
    "unlockRequirement": "",
-   "cnUrl": "7eda3674451acdca75950440a2c6e0e816ae735264ee74d4c0e763695f5d7d53",
-   "jpUrl": "917eca6a21b0adb18c2d3ed0ac396241f345e1d5bf8fd58fd4d21b271084c7de",
-   "enUrl": "2605abdaada88e11a41756d5d281aca47fd17d680124a7a9ea29d165bdbf353e",
-   "krUrl": "89a5dd4cce3da9af624fb50f54da3fb8b629ba8614c6b404460338b0a19f3790"
+   "cnUrl": "8ae1ae7ee31cc33c318018469a63f2411a09cf1686560bd166ec89c044819b10",
+   "jpUrl": "8931904e57c87717a297b168cd201e6e807f2633a24de5f1bfe92bd1beecc311",
+   "enUrl": "ff4434d4fcc2240ebfa56c51d63537e0c395c708c5b1234edf8ecb70f706ea35",
+   "krUrl": "159d58622c39854d5bae58880f3c1a5cf72733df92221fcf9ea2ce88e465f0c9"
   },
   {
    "id": 70,
    "title": "Membuka Peti Harta 1",
    "text": "Sejak kapan pengetahuan dan kekayaan saling terpisah?",
    "unlockRequirement": "",
-   "cnUrl": "a1e8f927a530c8a59f82b7df5554a94a8ece914b71d8c9a57578ff699b0bc76c",
-   "jpUrl": "a6bc2af12aee561f87973f59b281b39324ff905ad6bcb6f1fec281d35f3f9507",
-   "enUrl": "d34ae7f5c501e96251ba11a35818f14b0e4c5c4ea4fff82b2703379779bf498c",
-   "krUrl": "291b99e02b88eb35dd873e979021ffb93cdecfdbaec97c809de08f7db244bb7e"
+   "cnUrl": "f28bd241ee294f5c76ff05088a582793d6fd1dac2edd1a1faea7fc11297e6aa1",
+   "jpUrl": "f8efc8a350eb37e967de9b61c814cadd782c9223fee0a96d146be2a339acebc2",
+   "enUrl": "abda1af3b4b2a20e53a3292e1d73757cf5dfc7a02870e8b3dd89d73e61804f26",
+   "krUrl": "3fb9c91630500f15f5ecad41f9d15743d517daabc45c19cf60de198395813e9c"
   },
   {
    "id": 71,
    "title": "Membuka Peti Harta 2",
    "text": "Kekayaan seharusnya tidak menjadi penghambat dalam mengejar kebenaran.",
    "unlockRequirement": "",
-   "cnUrl": "18b6e6b95988399708ecda93bb57b9098e7c4fa72d3e32f5231381e3bdf12ddf",
-   "jpUrl": "196a05c241695994c6ccf8ddfdf173fdc27f280df54a6fc12715fd1551dcecaf",
-   "enUrl": "4d246b3cbf6514e4b8430599510eb8e92c815e263a0f4566a6a39a4473b24164",
-   "krUrl": "ffb0da00be286ab6c532ff0b970e7b9613de31556f946ceff44c55d6df67113c"
+   "cnUrl": "ff5e4011fee6a7129b82eebf46e383a9b35f12ed76cee13bb43491338bb11e19",
+   "jpUrl": "c064502dade680573dd0fd989e60f7857c684e0893530a50eef5868974240c3f",
+   "enUrl": "df387b584aa7688c77207d22276b7b2140f6cb33b09a4b8dc81844b42551891a",
+   "krUrl": "55e857ae6261850e4244c87a7c823096eeb8435917909b68a29f5265fb84dfc0"
   },
   {
    "id": 72,
    "title": "Membuka Peti Harta Berharga",
    "text": "Aku terima, seperti halnya setiap orang awam.",
    "unlockRequirement": "",
-   "cnUrl": "aeedde6efa5a62e6df8f28c2e7b1252cc2264e394ed06499441d6c36e87eb94e",
-   "jpUrl": "7f1407f8457e7141293d7b23036aeb33e3e41d7f3d24bae9befef036f5e8e8b9",
-   "enUrl": "03408dc3965e82101fd7fe3f0ba042dc0784437c122cb3d5ede5f6ae32c7b9c8",
-   "krUrl": "32ec60e5868610ad6a52171ac074c631b3b1da540f4f4a8cb7d4e5e08db22c68"
+   "cnUrl": "0199168d1ad6dc159ff2f18ff7e0190151cbab943aeddf5ddd78b6c743de493c",
+   "jpUrl": "412d527329b9b63a31ae452e6e1d26990a818f37c48793c118fd34c3a84e6256",
+   "enUrl": "7ee24717afe9e6f7af6f5e26f60061974fb305d1e7d1322669bb8556519c7e50",
+   "krUrl": "71ac874c597327fefdca1564f236db83cb081bed4451e7c7113eff99178b6433"
   },
   {
    "id": 73,
    "title": "Berhasil Memecahkan Teka-teki 1",
    "text": "Tidak benar-benar karya seorang jenius ....",
    "unlockRequirement": "",
-   "cnUrl": "f5dbbb19032d431ffb9e462a0e7e51b3de40a3a33f11ae816fa2541a4eadd565",
-   "jpUrl": "62b76eae08f03b9aed1026237d3f343b7721681c53f5aa1885394a9a8f4a5f30",
-   "enUrl": "bb5f3237b7d86cafdc994add2ba6858e9ccc85d444e0f237b70fd486f28d6cce",
-   "krUrl": "0816e49328d67d28e98995a9254bccfb12c6f8e9c94df08f24eca8ad5827ead7"
+   "cnUrl": "62c04e46b7d7e8f208f2b9f3cfd4e129143723b813b34fc0db7929c45d1f70e3",
+   "jpUrl": "31af98e01065906fddcc0dc60619abcf200fbc825f1bd9b371fcd6b132ff446b",
+   "enUrl": "7cd0516a89b01d937c4a8985692ddfa79f0ea4aa46dbee402abbd0554f9cd109",
+   "krUrl": "e7eadde66e7a1c0fb4f0d772efb4edd2086cc958fc8651f500d64375d9873230"
   },
   {
    "id": 74,
    "title": "Berhasil Memecahkan Teka-teki 2",
    "text": "Sebuah tes kecerdasan yang menarik.",
    "unlockRequirement": "",
-   "cnUrl": "cfdd479b6f49f306f059bbd56586cb7128718b2ac2d6ce477948396e4c0ffefc",
-   "jpUrl": "a9c2d5fa336c096a406df25a3cac2f620d0578764092441283799738545f0974",
-   "enUrl": "fa9ce3724b88bf73db766725e64a3b1fcbcf168abb32e494283b35d9f612dbc5",
-   "krUrl": "bc153493793bd0ad125e629b11b29f722c933dd3bad1bd30e60c6cb7ecdda251"
+   "cnUrl": "c397c2e2957c4a4174e9b5ff46d532390797d11c5df7e781affd5fe916770236",
+   "jpUrl": "dee1ba62d2afbd4063738db2c7d39185e0bb897e3761c9d4aa31e3bd9701ee41",
+   "enUrl": "53ac663080a50a22ca1c7cd1e7328bfa68bfc49976f0a3ad214db2d14d4e6f37",
+   "krUrl": "08fd49b66588d855446d6bc07ab4bc72e2a472e4af069c78d30c23502b8647c8"
   },
   {
    "id": 75,
    "title": "Menemukan Target Musuh",
    "text": "Kamu belajar mengenal diri sendiri sebelum mengenal musuhmu.",
    "unlockRequirement": "",
-   "cnUrl": "3bfe90786db7bb039b965949e9fc10233a6bb661e0962be74fd672987d4646b4",
-   "jpUrl": "ea7c1c834b7c9a650b03c2814b31ba2fa2906a67946f98f75f39b0b6c2ba5e8a",
-   "enUrl": "e553315e4d4fad47bb670f8626fbc601477c5303d6ee58f687176db72fe4a7a7",
-   "krUrl": "ee980c58233bca2e348f5957027234ac10ee35b011a8f4392c1e875c19172fc1"
+   "cnUrl": "3700c1f9ce6d0940bd2337bb421cfd464a2c31682c5eb452ff37a9b3dea6d543",
+   "jpUrl": "46c805263af1b8a6a3a630da6d01c5fcd04000533b1c054fce41f300d97a10cf",
+   "enUrl": "f3d1965747447e856b7d0ea5b7effda6fab9e7ea338caeaaa5cfa79e0aab96fc",
+   "krUrl": "0deae3b6d7f598ec543102e65fc86879c57158830702da40f3aea6c99d8c30c4"
   },
   {
    "id": 76,
    "title": "Kembali ke Kota",
    "text": "Siap untuk menyia-nyiakan sisa hari-harimu?",
    "unlockRequirement": "",
-   "cnUrl": "50c9a5209c31c8f24b10560a33588041f57a6d7aa554c37410411d0c96512fb0",
-   "jpUrl": "0a5f77594feecee87c9ace7e9bc3d880f7173f122a04cc71b851c48254048df2",
-   "enUrl": "e88518cc77d91154c96894a9a2a12f53394e69d671e6575a344802845be49861",
-   "krUrl": "786969f8f6e007b3366f7077abf3ffcf93f4f2fb8139702d98b3c5a4f35d8418"
+   "cnUrl": "38863a40f2378407a066d99c299274f3841f926b622a1e6144e76b2c28413b20",
+   "jpUrl": "efc740e89145b09daebf614a44f0cc972a2459295607b188a904b8079678f165",
+   "enUrl": "fd55101bb55b52fb74bd9396286d055e47a86b7e9fa92eaeef8920a4b5a132a0",
+   "krUrl": "8f26d6055ec54cd540403bca80d19483dca8abd30177b4859e712131d71a6850"
   }
  ],
  "storyItems": [
@@ -2700,19 +2704,19 @@
  "name": "Dr. Ratio",
  "rarity": 5,
  "descHash": "Anggota Intelligentsia Guild. Memiliki kepribadian yang eksentrik, mulut yang tajam saat berbicara namun elegan. Wajah yang terdapat dalam kepala gipsum itu ternyata tampan.",
- "artPath": "c2c5a5e9b122d52d5fe87a7cdb66161db56626079f83dd4bd556715ccc1c369e",
- "miniIconPath": "e5aac4b2c9addf2294672643b01e7e63ad3cfe1bd1439411e997476322345376",
+ "artPath": "91314cee8032d8774388596c45953a09e9f40703ec339d8d9f050660390e2fb0",
+ "miniIconPath": "dd3166790871c3d62b03de9bd5511ccb015409b44c29d46dd206113e11c2242d",
  "damageType": {
   "id": 64,
-  "iconPath": "91b47b558df75f608b0a8aa93f35fd2063ed789ec25cbcc7bee926c60fba7ab1",
+  "iconPath": "e2b4f38f1a093eaeb29590634279febc9a6f3a1b5753684b7fffac8e5d23e981",
   "color": "#F4D258",
   "name": "Imaginary",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
-  "altIconPath": "38241d858c120d8a55f36eaab92a34690a7d9add4f3e36383dabf27f5d3f5f55",
+  "iconPath": "d5302975290739e51dc53d919353f47705d836fa6db628c190b1faaf195f7319",
+  "altIconPath": "6faec7d864802e7fc24e83f1693163123b6cdc30f70c445dcfec5c3f71a09854",
   "color": "#FFFFFF",
   "name": "Hunt",
   "rarity": 0

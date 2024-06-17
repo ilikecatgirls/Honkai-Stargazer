@@ -1,19 +1,20 @@
 {
  "spRequirement": 140,
- "iconPath": "0063c1e41293ebf22000b5099c0824ad41a8b371fdadeb2bf819e939bc93dd81",
- "bgPath": "0be5e6455724ff2c76190a47f7f46fe60f1445c744d6b25038cd4a2f5e5bc2dd",
- "figPath": "53bbbae8a5d5ef1d72547feaeb96b7314ca01fdff878ebc07502bc5c69167fcb",
- "fgPath": "b0638ac463e35834764f83a66186cc51e45ea9afcbcdcea040b958acb5c61eeb",
- "splashIconPath": "5385996ae4e46fb5f82ec4a7bf675a140fdd3621b5ebf4da3737b9ccb1569484",
+ "iconPath": "138c5957e193c3c2a11e82628f11324fca99e051e60e37fbfbef5649f82b8be4",
+ "bgPath": "9a4596e434d3fbc1c8343c156e371a311abea0ed0d3b5a124eccf5b44db2f58a",
+ "figPath": "5543744779f5718ac840c3ea28c8a3541bc5a8687d12906c8cf3df53604d840c",
+ "fgPath": "38777ffa37e3b15e609c2a80b05c40cfb03eb5f9e99273a118b10326a53002ab",
+ "splashIconPath": "00223237ac2f89be6024b7cb03d51ff56d6754c33dbbdf3900d5b3e9140adb13",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRswCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSP8AAAABkKNt27FH9/vHtm2zdVK5TRaQdFapyk4WkCpHFqDetm3NVPb3ve89+LGFiJgAmBZwKoezHcwUBgNQPmwz4WZKAIBL97u7k2nAYEQAIVk+FW8/yec2XwjAALgjrKz7hlL+ZmtdKgRgHzm18vTyUdeoJMeqJyFsc48+0rhSkk9V83FwOyGlLqVU6r8v1XN18HxPXZkp+eU8FT67ynyNl/YCRZJmSb5LByqpWxIOZP7gb2mGzk0AefskFc1YFAB8e9ZuKE1IfgqA0RpqZnQDgLCC1w1/aZpUStdlDwQACCS9kKT2i9SZDeMuS7OjfT/JD13H48EmbFwAFDZ0RjsXAQIAVlA4IKYBAACwCQCdASoUABQAPm0wk0ekIqGhKAgAgA2JbACdMoR5n6bwg+QG2A547TAPQr8r72Hv25/Yz2nU8CgA9o/z97AH6mbqAFTqmq5b1AdKFT7vWcErP394AAD8rAI7lPKc1UESdvifR0/C7mKwl4vXQosLmqPEfzbkawc9RL4x3+mbbC61wbNl35Q6Yul9P+hGkTFo85cKMu7QxvC1jVo87tzODhM0tYtUH2BoD/PRLw/vZyUd6n68xxu1BhHLeQ4QDnu0blNOhh+rslv6vPci26ZJ7se3aXefnlXpTh+WROfxp66162f6fntAe4noL3GNkgx7R8/hdfdXD3D6D5WWkwVebmf/8Jg2A3Efj35NsFFMNwp0Pjr86g7jo5klamHEqr3ruk53UjstCDeSs1D4/8E/+xBXyT1kbz9GuiqFL3SB/sU+jfAr5kCSu/NTOutYpu0ZAbN5TgLD4CZW/+eM9gkRfAe6+sqOiZYkmfqUTX+fM5eqPZ+hMH1ePDio/gLvqu7t/jxdJ+BA9He+4nbXPBPJqPr/vROYW62iuaUQzCcbJQytaAAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 2,
-  "iconPath": "db0b64061159f4acfb6a3034911f3b42572d0d8d51723ca888b8ce49b06961c5",
+  "iconPath": "0d032c5312107813ca5b29b0c67980c2d6d6888274edd2294ea5312d21f8fa29",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédito",
    "desc": "Esta moeda, usada pela Corporação da Paz Interastral para acertar contas com seus clientes, agora é amplamente aceita como moeda para viagens espaciais.",
    "lore": "\"As pessoas lutam e negociam tanto apenas por números em um terminal, mas o que é precioso de verdade não pode ser comprado.\"",
@@ -42,7 +43,7 @@
    "id": 67220,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "771ee2d52c420b86a334eedd637788b8610e891840f00c21c696bcbadc754ef6",
+   "iconPath": "f0206bc0518a6c6e69d89a68a7481696dd7399367e9f182a4097c7d87c507211",
    "name": "Quitina Gélida",
    "desc": "Quitina gelada que emite um barulho gélido. Pode ser usada para Ascensão de personagens de Dano de Gelo.",
    "lore": "Quitina estranha que se desprendeu de uma criatura interdimensional. Embora não esteja mais congelada, ela continua tremendo, absorvendo calor ao seu redor.<br /><br />\"Como ninguém nunca pensou em vender isso para mundos onde não há ar-condicionado? Ela parece com um, inclusive no barulho.\"",
@@ -59,7 +60,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Rastros de Destino",
    "desc": "Material avançado para subir o nível de Rastros.",
    "lore": "Sua vitória é garantida por inúmeras falhas, e os pequenos passos que você deu levaram a uma reviravolta do destino.",
@@ -78,7 +79,7 @@
    "id": 270195,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "e45d41312c347a0e92a83719307e7cad0367aa98023d7b4627daa452423892ca",
+   "iconPath": "84cb3b4bee024a0e2c43101da44394dee59e313da5b959c85ca1e9d140e31eaf",
    "name": "Lamento do Guardião",
    "desc": "Material avançado para subir o nível de Rastros.",
    "lore": "A viseira não é a única coisa que está quebrada. Junto, está o desejo distorcido de uma Guardiã.<br />Ela queria encontrar uma saída para que seu povo fugisse de Inverno Eterno, mas acabou se tornando uma marionete de forças superiores.<br /><br />\"Guardiã Suprema é um título passado por gerações de governantes de Belobog. O que ninguém entende é que as Guardiãs também anseiam por cuidado e proteção.\"",
@@ -93,7 +94,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Guia do Viajante",
    "desc": "Material de experiência para personagens. É possível obter <nobr>20.000</nobr> de EXP de Personagem.",
    "lore": "Leitura obrigatória para explorar o mundo. Pressione o botão \"Ler\" para reproduzir uma voz atraente num idioma que você entenda falando sobre os encontros lendários de aventureiros renomados em diferentes mundos, bem como a sabedoria e o conhecimento precioso que eles acumularam.<br /><br />\"A novíssima série do Guia do Viajante, 'Manual de Gastronomia Galáctica do Chefe', já está disponível para compra.\"<br />\"Para fazer pedidos, envie um sinal de sinestesia para ERD<nobr>-23</nobr>θ e entre em contato com um representante da Guilda de Intelectuais. Temos várias formas de pagamento.\"",
@@ -111,7 +112,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Registro de Aventura",
    "desc": "Material de experiência para personagens. É possível obter <nobr>5.000</nobr> de EXP de Personagem.",
    "lore": "Coleção bem-organizada de notas de aventura educacional contendo incontáveis ilustrações e textos com histórias completas, bem como informações valiosas e técnicas de sobrevivência.<br /><br />\"Por que não digitalizamos isso e guardamos em um disco de fotolitografia? Seria muito mais prático.\"<br />\"Tecnologia avançada é muito mais frágil do que você imagina diante de tempestades estelares e erupções de fluxo de neurônios. Além disso, tenho certeza de que o autor deste livro gostaria que as pessoas o lessem da forma mais simples possível.\"",
@@ -130,7 +131,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Encontros de Viagens",
    "desc": "Material de experiência para personagens. É possível obter <nobr>1.000</nobr> de EXP de Personagem.",
    "lore": "Diário de viagem com assuntos aleatórios escritos numa letra feia. Não tem muita utilidade.<br /><br />\"Dan Heng, termine logo de ler isso para jogarmos fora.\"",
@@ -148,7 +149,7 @@
    "id": 549437,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "15365d10ed38771d99d247bc228b03787e29972cc714a655a9b8feef3031505e",
+   "iconPath": "4f72b8f7844978949880397801aefcce237cda7868c4a12e08bfbc01942f4045",
    "name": "Instinto de Ladrão",
    "desc": "Uma pequena quantidade de antimatéria. Material bruto usado para aprimoramentos.",
    "lore": "Uma pequena quantidade de antimatéria que emana do Guarda-Vazio: Furtador como a materialização de seu instinto destrutivo.<br /><br />\"Eles todos anseiam pelo momento de obliteração, quando serão reforjados e fundidos com o mundo inteiro.\"",
@@ -157,6 +158,7 @@
    "rewardPath": "/material/549437",
    "comeFrom": [
     "Legião Antimatéria",
+    "Espólio deixado por inimigos no Universo Divergente",
     "Inimigos do Universo Simulado",
     "Recompensas de Atribuição",
     "Troca de Brasas",
@@ -168,7 +170,7 @@
    "id": 633378,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "3cd4c92ff44d695595377ffc6c0896d6839775f6014e96daf679b256bc0d19cf",
+   "iconPath": "c280dfdd449649afcb43215a3b8a13ac25ada88cac3c214030421be50e954a8f",
    "name": "Esquema do Usurpador",
    "desc": "Uma quantidade moderada de antimatéria. Material normal usado para aprimoramentos.",
    "lore": "Uma quantidade moderada de antimatéria que paira em torno do Guarda-Vazio: Alterador. As partículas de matéria e antimatéria atingiram um equilíbrio perigoso...<br /><br />\"Eles todos anseiam pelo momento de obliteração, quando serão reforjados e fundidos com o mundo inteiro\".",
@@ -178,6 +180,7 @@
    "comeFrom": [
     "Legião Antimatéria no Nível de Equilíbrio 2 ou superior",
     "Sintetizador Omni — Síntese de Material",
+    "Espólio deixado por inimigos no Universo Divergente",
     "Inimigos do Universo Simulado",
     "Sintetizador Omni — Troca de Material"
    ]
@@ -186,7 +189,7 @@
    "id": 635674,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "bbfb88036f821da503753ae4189da74a1586b0b7ee8ec0f234bbf9fb53474d01",
+   "iconPath": "11a70d892dc3b897bc3d714367c18fe413d9538c809eb21c211f322eed806403",
    "name": "Flecha de Caça-Feras",
    "desc": "Ponta de flecha forjada com Aço Congelado pelos artesãos do Xianzhou. Usada para conceder um aumento sutil de nível de Rastros de personagens da <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Caça</span>.",
    "lore": "Presente que os pais dão às crianças que conseguiram caçar sua primeira presa na cerimônia de maioridade. É uma bênção para que a vida delas seja verdadeira e bem sucedida como uma flecha que se encaminha em direção ao seu alvo.<br /><br />\"Que a flecha em sua cintura e a espada em sua bainha continuem precisas e sempre encontrem o seu alvo.\"",
@@ -203,7 +206,7 @@
    "id": 717319,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "3c858c8ff4df238403e5443f57850367e4164a62efb508ce359db9c5b7474a19",
+   "iconPath": "eebc291ef462012e745328f6c1c3e34e603ab1e7d8cd0d11433221be7824a2de",
    "name": "Vontade de Conquistador",
    "desc": "Antimatéria condensada. Material avançado usado para aprimoramentos.",
    "lore": "Antimatéria altamente condensada dentro do corpo do Guarda-Vazio: Pisoteador. O momento de obliteração é o soar da trombeta para a destruição das civilizações.<br /><br />\"Eles todos anseiam pelo momento de obliteração, quando serão reforjados e fundidos com o mundo inteiro.\"",
@@ -213,6 +216,7 @@
    "comeFrom": [
     "Legião Antimatéria no Nível de Equilíbrio 4 ou superior",
     "Sintetizador Omni — Síntese de Material",
+    "Espólio deixado por inimigos no Universo Divergente",
     "Inimigos do Universo Simulado",
     "Sintetizador Omni — Troca de Material"
    ]
@@ -221,7 +225,7 @@
    "id": 836260,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "567e2625dad62dc022ca7b71109c76754e7fc5cc2ac9daa5debb5c65282743ab",
+   "iconPath": "cf5a458a6f5b56925e970a2f6e10ac8fc3034f2b045e7d87e13c0a49e4c8fba8",
    "name": "Flecha de Caça-Estrela",
    "desc": "Um fragmento da Flecha Luminosa Devasta-Céu disparada pela Flecha do Destino. Usado para conceder um aumento considerável de nível de Rastros de personagens da <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Caça</span>.",
    "lore": "Os restos de uma construção divina que os humanos comuns raramente podem vislumbrar. Que tipo de força pode fragmentar estrelas que estão a anos-luz? A humanidade pode apenas imaginar o poder da Flecha Luminosa pelas cinzas que ela deixou para trás.<br />Apenas o mestre da fornalha, chefe dos artesãos do Xianzhou, é qualificado para forjar os fragmentos para quem os merecer.<br /><br />\"A morte de uma estrela continua brilhando por eras.\"",
@@ -238,7 +242,7 @@
    "id": 920201,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "fdcef4e7b19d0d08fb9ea878b30e08be44286d0a6273f29c89a77c6e17ad9572",
+   "iconPath": "cde54d9ea3870506cfb7367e25d2eada09bfe948b459125b5e916d55fa6d4133",
    "name": "Flecha de Caça-Demônio",
    "desc": "Ponta de flecha forjada com Essência de Stellaris pelos artesãos do Xianzhou. Usada para conceder um aumento moderado de nível de Rastros de personagens da <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Caça</span>.",
    "lore": "Uma flecha mais fina que a espessura de um dedo. Pode ser utilizada em uma besta eletromagnética ou em um arco teleguiado por temperatura como munição. Seu poder é suficiente para perfurar as grossas couraças das abominações com apenas um acerto.<br /><br />\"O banido celestial chega de longe, depois de percorrer grandes distâncias entre oceanos de estrelas. Uma enxurrada de flechas cai como chuva, atingindo um elmo que reflete o forte brilho da lua.\"",
@@ -440,8 +444,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "4060248c10d4903a9bff2904ead876d55f38a1c7e0a94965f84ec63d1bc719f7",
-   "artPath": "aae7fb72cb8c4d75e4c2a55f65a346b086c161b0016f5f36458397330a1cf697",
+   "iconPath": "c95122a591ab9a85dcb4c4a243e8a41157659a9a96d909eb11a211d89820b39e",
+   "artPath": "d7332eae1d2cd5180bf1adba48f235143b9d4e1b697f106c702d054ea2434bb6",
    "name": "Sabre Esbelto",
    "descHash": "Quando Yanqing ataca um inimigo com Congelamento, ele causa <nobr>#1[i]%</nobr> de seu ATQ como Dano de Gelo Adicional.",
    "params": [
@@ -450,8 +454,8 @@
   },
   {
    "id": 2,
-   "iconPath": "7d733aded479bd48a9ccadc813d0067935d2f89faae72319836889a848d7354f",
-   "artPath": "ff8ed1343261ae1678f617ce5664bcf5a5be62312bdd53acf6a6d81bd27739e1",
+   "iconPath": "6f286f50f2d880768e939a7b91e3379074f978deaab70e19e8c116ba83b59f0f",
+   "artPath": "1ea92c38b9e92d6399c5107174d0f75a98730e63aace6b0c20afc8aba7a27606",
    "name": "Serenata do Supino",
    "descHash": "Quando a Sincronia d'Alma de Ferro estiver ativa, a Taxa de Regeneração de Energia aumenta em <nobr>#1[i]%</nobr> extra.",
    "params": [
@@ -460,16 +464,16 @@
   },
   {
    "id": 3,
-   "iconPath": "6420603ae57a9533ebf377b546073c8c1513014cb0802116de8203bd3d2dfa80",
-   "artPath": "4b21565dd297078e368eb5d7520204b23e41f4e7afc5c835432bc2c52b63e757",
+   "iconPath": "95b33f7e3c3b8fbc7082aea29118a1a4b1c9f8de01efd705023fe3643b2a2fda",
+   "artPath": "046d4d065c3f196bb4836d053784e98e3b5b3215e7d7ba06b110d8640eeb1f4f",
    "name": "Espada Erudita",
    "descHash": "Nv. da Perícia +2, até no máximo Nv. <nobr>15</nobr>.<br />Nv. do ATQ Básico +1, até no máximo Nv. <nobr>10</nobr>.",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "40ef1830ed668aa36d913add014df9b467ec1fae4f68fb47ba77830b48e2a4bc",
-   "artPath": "362072fb6864174279223173310f94c4b7d9fd364ace09d7e521797898523043",
+   "iconPath": "574a65440206e0ecadce6735f9195a06a6776ba9370a4c200d4004f05293b5ca",
+   "artPath": "375b7572867629fee3a74f9e17ba80e6e750b151a4fe79021829edd5b95e3b74",
    "name": "Perfuração Flamejante",
    "descHash": "Quando os PV atuais estiverem em <nobr>#1[i]%</nobr> ou mais, a PEN de RES a Gelo aumenta em <nobr>#2[i]%</nobr>.",
    "params": [
@@ -479,16 +483,16 @@
   },
   {
    "id": 5,
-   "iconPath": "864468c9e52ed2723c09fb5ca05efeedaae28096f0eb7591713f385962880f80",
-   "artPath": "d3fafda780a06b2a106d21e3b86f0be5dceedbbd3007bdbc4db78d60b326e51f",
+   "iconPath": "5652f0f7d190a9a85e367dae116e703ce80c0a8ace0739a248c40132d337bff6",
+   "artPath": "2f321eb6e01bfff4e9c776e2f1e1be0fd3dd76c97d735af829a23b3daf4f6ada",
    "name": "Conflito Crescente",
    "descHash": "Nv. da Perícia Suprema +2, até no máximo Nv. <nobr>15</nobr>.<br />Nv. do Talento +2, até no máximo Nv. <nobr>15</nobr>.",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "60930140103561b2d74579750cff8d6fc87297aacd6db1c2d5a1e706659315bc",
-   "artPath": "277864872cd071d4ad081a8eb44eeaf6f76b2a67e8964d6825e4d11caa95faed",
+   "iconPath": "d7ba03942f111dea8f54b5daf86ee4ed3594a6d6764ea40280ffa7ae00a32fb2",
+   "artPath": "6ab9229385954678f6d99f76cb21cc37a3d304621ca43e0e852d0e5e054ffa43",
    "name": "Ataque Rápido",
    "descHash": "Se as melhorias de Sincronia d'Alma de Ferro ou da Perícia Suprema estiverem em efeito quando o inimigo for derrotado, a duração desses bônus é estendida em 1 rodada.",
    "params": []
@@ -520,7 +524,7 @@
    "energy": "20",
    "id": 531503,
    "name": "Espinho Congelado",
-   "iconPath": "3417b695baa85b91c59c64a5239f0e64a7520f1c4125766ae0d902bafca42da2",
+   "iconPath": "94b86e53e6a709fec66829acfea0f760ebcd91bce854da28f027adebdac34091",
    "typeDescHash": "ATQ Básico",
    "levelReq": 0,
    "promotionReq": 0,
@@ -681,7 +685,7 @@
    "energy": "30",
    "id": 246976,
    "name": "Espinho de Ferro Veloz",
-   "iconPath": "6420603ae57a9533ebf377b546073c8c1513014cb0802116de8203bd3d2dfa80",
+   "iconPath": "95b33f7e3c3b8fbc7082aea29118a1a4b1c9f8de01efd705023fe3643b2a2fda",
    "typeDescHash": "Perícia",
    "levelReq": 0,
    "promotionReq": 0,
@@ -956,7 +960,7 @@
    "energy": "5",
    "id": 363621,
    "name": "Em Meio à Chuva de Bênçãos",
-   "iconPath": "6b9ca9c78dc12020b32eeccaef85af6c7f42d7a9dde03dde53c8a8eba9610d49",
+   "iconPath": "0485a706698027aea4bacff682d09d3fe2bf996cc71b79ec561f4f6b24c0a23f",
    "typeDescHash": "Perícia Suprema",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1261,7 +1265,7 @@
    "energy": "10",
    "id": 46390,
    "name": "Eu e a Espada Somos Um",
-   "iconPath": "f21e6c87940913400a02e5ba40df701dc1b0e4865350d670c59ee0c242575771",
+   "iconPath": "3e21667bd77ed997a8ba96594c100c412f08945d75f0fe6f8b8e11bd8db04650",
    "typeDescHash": "Talento",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1611,7 +1615,7 @@
    "energy": "0",
    "id": 878508,
    "name": "Ataque",
-   "iconPath": "3417b695baa85b91c59c64a5239f0e64a7520f1c4125766ae0d902bafca42da2",
+   "iconPath": "94b86e53e6a709fec66829acfea0f760ebcd91bce854da28f027adebdac34091",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1633,7 +1637,7 @@
    "energy": "0",
    "id": 962449,
    "name": "A Verdadeira Espada",
-   "iconPath": "7fca6e3bb29e2ef80dc3e7239a2a6140795b9be3340659bb51082b6134362887",
+   "iconPath": "228bc1fc2153530933ae159926b1cbd80af9a1ceccf6cfd165015254bda7d668",
    "typeDescHash": "Técnica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1673,7 +1677,7 @@
         "name": "Bônus de ATQ",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATQ",
@@ -1702,7 +1706,7 @@
       "name": "Bônus de Dano: Gelo",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b",
+      "iconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
       "statusList": [
        {
         "key": "Bônus de Dano de <span style=\"color:#47C7FD;\">Gelo</span>",
@@ -1731,7 +1735,7 @@
     "ultimateCost": 0,
     "id": 968122,
     "name": "Cereja do Chute",
-    "iconPath": "bea7922c19d8a1035cdd5eac5d4b18cbc09a64c4a956420b93acce14087efc7b",
+    "iconPath": "d50d7078e40e4808ef6e98ede676bf1a48cd6f1e8984fbbdf23c33e0d9ef01b9",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1780,7 +1784,7 @@
         "name": "Bônus de Dano: Gelo",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b",
+        "iconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
         "statusList": [
          {
           "key": "Bônus de Dano de <span style=\"color:#47C7FD;\">Gelo</span>",
@@ -1809,7 +1813,7 @@
       "name": "Bônus de ATQ",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATQ",
@@ -1838,7 +1842,7 @@
     "ultimateCost": 0,
     "id": 968125,
     "name": "O Gelo Favorece os Corajosos",
-    "iconPath": "0864ea24ced196d76532a63e93b9a2fefe1a866b5d7636b8fc09a685c740c2f8",
+    "iconPath": "e2fd9d55e0f29713b121c6eb7e8b09178b57e0724328e952a315bd1aca1ac8d1",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1891,7 +1895,7 @@
         "name": "Bônus de Dano: Gelo",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b",
+        "iconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345",
         "statusList": [
          {
           "key": "Bônus de Dano de <span style=\"color:#47C7FD;\">Gelo</span>",
@@ -1924,7 +1928,7 @@
         "name": "Bônus de ATQ",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATQ",
@@ -1953,7 +1957,7 @@
       "name": "Bônus de PV",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "PV",
@@ -1982,7 +1986,7 @@
     "ultimateCost": 0,
     "id": 968124,
     "name": "Lâmina Gentil",
-    "iconPath": "f0e1ddf44234620b198d813f7606db07abd6f6c9228dd99ca3ee305f1d15d895",
+    "iconPath": "39bf4cd8900735a3e4e41e696e1e21bd8a46e87a1bb63eb4b0ee11bce6a37e90",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2026,7 +2030,7 @@
     "name": "Bônus de ATQ",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATQ",
@@ -2055,7 +2059,7 @@
     "name": "Bônus de PV",
     "levelReq": 0,
     "promotionReq": 3,
-    "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+    "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
     "statusList": [
      {
       "key": "PV",
@@ -2088,7 +2092,7 @@
     "name": "Bônus de ATQ",
     "levelReq": 0,
     "promotionReq": 5,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATQ",
@@ -2118,27 +2122,27 @@
   "props": [
    {
     "relicTypeHash": "Corpo",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "Dano CRIT",
-    "propertyIconPath": "98a7bb4717c6f02e6288dc82193c9b741a07dbd4e1e832ccd2e1b6ede3239609"
+    "propertyIconPath": "46391a6239ee475d938d3a37900d041f7fb1ed1f4cf9a487c20a9e0ee7ac3cfe"
    },
    {
     "relicTypeHash": "Pés",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "VEL",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Esfera Plana",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "Bônus de Dano de Gelo",
-    "propertyIconPath": "873bd0d39d583fadfc1427c8fbe603df5c14370368804e2dfebb4f447910174b"
+    "propertyIconPath": "5107ea244e5fad25eb49393ddabc2a2d75f160a37f565b116a4a68378d348345"
    },
    {
     "relicTypeHash": "Corda de Ligação",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "ATQ",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2148,530 +2152,530 @@
    "title": "Primeiro Encontro",
    "text": "Yanqing, tenente dos Cavaleiros das Nuvens do Luofu, a postos! Se tiver tempo livre, Desbravador/Desbravadora, o que acha de duelar comigo? Não se preocupe, não vou pegar leve com você.",
    "unlockRequirement": "",
-   "cnUrl": "2a7a797193e8ac156178f35543ca25a0771ae24702e5a1faa1169c7f1f1b8255",
-   "jpUrl": "037d6b2e3243f177db5b8f9f56ecd16ac8fc9bf3a04ab2c062c5ab4bb6afbc67",
-   "enUrl": "1fd30d423ec8d2a8f1b3a17b86611de85a2e65436fef1733f01cc14a33d87e23",
-   "krUrl": "925ba33edba0225c2784b8bba7317cbe5985193b20e9f61411aff99240eba97a"
+   "cnUrl": "9f411321465654d285371927fd2488c77b711fe87810aa30434af951e1c88718",
+   "jpUrl": "bb993e38980971a287c968a8e882db173830ab0349377e0615ade4744992c58c",
+   "enUrl": "fa3e040201819ba22b95567797ba64b8b95927f291534d55b6ffe618a3c7e416",
+   "krUrl": "31697fa48aca3829a337fca3a9b470fecefeb579860050ff8bb88fa32181fcf2"
   },
   {
    "id": 2,
    "title": "Cumprimento",
    "text": "Que tipo de treinamento de espada você fará hoje? Você quer que eu acompanhe?",
    "unlockRequirement": "",
-   "cnUrl": "c0ef6f4ab3d66b33b784003322b6b8d43527b414d0b2c5b5991ebe033b752be2",
-   "jpUrl": "181c6ea2482d8c46467b1cf6a2d059c9b4b9fd2e6f2d569e5f0eb3488a9ffbf0",
-   "enUrl": "56a306baa471b68ccb12d368f472a91f1202e45f80eb96e3302837ae572d613e",
-   "krUrl": "984dc4785944c977586a4e373bdf36beee5176171eba300405e3274bbe9734f2"
+   "cnUrl": "fd6ad339478b1c3784fef6ee7759fb1891d6cfbb58c800a1ea689e7b748c9b12",
+   "jpUrl": "fe7e7324942f20b17187e817296236cf79b16903884fce9f10996c35aadac2c1",
+   "enUrl": "02c328a61962b0b7bdf8cfb67a8f87f58f6aa9dc54eee2ce261038892aeabff5",
+   "krUrl": "d8bbd729ce57fd1cc869e998c1d063ffc8d5c8d75ce0ef16f47a14c3615449c9"
   },
   {
    "id": 3,
    "title": "Despedida",
    "text": "A espada precisa retornar à sua bainha... Nos vemos amanhã, professor/professora!",
    "unlockRequirement": "",
-   "cnUrl": "1931dc6dff2fb3a53776761b8af6f88746018e5ba75fcd199ea726f715acca0a",
-   "jpUrl": "ad8444d195a848dfcd42ddbbafacbefa7563fb877d255a3fa998e92f668be256",
-   "enUrl": "55c3609bd8c85e7be459217b740cc18097734ff27a8b88c94923a2d8eaa1d512",
-   "krUrl": "4ff3ddf3a3e3345ccfa6a592bc8aa75e9b45fce4f79ba08d7cd18e3530dc40d6"
+   "cnUrl": "465e5f8b4a08441198993e99071c9a2f631b78c9e62252906e410933c8f45252",
+   "jpUrl": "7cd3e0090b4e07a7925d84a0d0f956a2a09d1da5518664edc363562dfb607ca8",
+   "enUrl": "31a16f6bfcfcdf1d62c760755bcd1ea28c69f0a2c0cf72b08f397d0426c7e355",
+   "krUrl": "cc2bfb26c426aeadeb5e25d882a7e4e6f055868a2ef82d952941d1ffc8bfcb98"
   },
   {
    "id": 4,
    "title": "Sobre Si: Oponentes",
    "text": "Não existem oponentes dignos para mim no Luofu, mas lá fora, entre as estrelas... talvez haja alguém no meu nível.",
    "unlockRequirement": "",
-   "cnUrl": "00f5e9c936a13450aa19ec0c25cb53ca65f88729f7504db38bb84c2fbfecc08d",
-   "jpUrl": "568dc772ee967dbb8ae473407bef4d2bf45501c77ccaa61f191d13b6f9a8c5c9",
-   "enUrl": "5e38746efb2fb1d9d9f06a0c3655b412b788e0cd4db5f79cf7b0d1c5813de78b",
-   "krUrl": "33186ec2e2218ec4b2c1bb6dbdc0ac875ea8ef02619410240cafb4e6f48d7d4c"
+   "cnUrl": "47f6990b7d7d233dbdbd72c36ffdc7bf08dd56b35c86cc66659d785a7229e3ca",
+   "jpUrl": "0f37368d68ef30e8160619c5a94dc2cf293b9901f113a3b780a9c8cabe66cc09",
+   "enUrl": "b2c0388e4e542ba0c054a52509277a409a9397b06fd110538245981978616ba5",
+   "krUrl": "39ddc938a23823068c01cf5ae802bf8a3ab390bfce6f58b64d110348a087b619"
   },
   {
    "id": 5,
    "title": "Bate-papo: Espadas da Comissão de Artesanato",
    "text": "Posso passar o dia inteiro falando sobre as espadas feitas pela Comissão de Artesanato. Eu sempre compro duas de cada modelo: uma para o campo de batalha e outra para minha coleção... Mas posso acabar com pouco dinheiro no final do mês. Tenho certeza de que se eu encher um pouco o general ele comprará comida e outras coisas para mim...",
    "unlockRequirement": "",
-   "cnUrl": "931baaa2b2b48360f2324809d7baf399350ef12cef69dddb19860cd8b443724f",
-   "jpUrl": "b460705a449733b5c6b817865c81cde3bc4e008b8fcbfe09552963a937920a4e",
-   "enUrl": "c485e7acb5e2011de082dfb9d47dc4d0b056e22511b5619bd1332d64d4d2709a",
-   "krUrl": "ed4ba41b24cbaea1e1a51845e727b042ea12b2cb41aa0b83000f98be66c3aa3f"
+   "cnUrl": "2621ae92f0c82077b9640af1270939ff7fed7d9734c3fce6b728c7dff25540f9",
+   "jpUrl": "29ff7e6511d355bfa743ef3439c2b10eb026fde1a42e3083f4a214c6936381be",
+   "enUrl": "417f7e51e40bfb6470e96baa47d6488519ca7e5e3e910dff507fd09dcdb6364b",
+   "krUrl": "84f1a951f1e3b730fe734d02ece1b4645a31e474a5cfdb8b7b02f19d72e097e5"
   },
   {
    "id": 6,
    "title": "Bate-papo: Campeão da Espada",
    "text": "Não ter o título de Campeão da Espada significa que as minhas habilidades ainda precisam melhorar, mas o general disse que eu não preciso delas, mas sim de mais tempo... *suspiro* Como eu posso ser pior que aquele Campeão da Espada?",
    "unlockRequirement": "",
-   "cnUrl": "28b9e25c7a35d8846d9a0f34ad1f697fbd9e29d5f8218c0af99dd7cc40e2866c",
-   "jpUrl": "8d6de1e2e9f69af81313de8736b55f52c872566659570133ead95186e9dbedd3",
-   "enUrl": "9e795e8eda24c98911081ad700bc9a1774b3b691c7ce55e6cf4d3aaa87499264",
-   "krUrl": "0f03fdae99c2f1b658fe11d0df8afbf9290bf71101811ec730af016e950ce527"
+   "cnUrl": "a24ef1eeafcb9b523f4417fb27c926aa4d3892f79bd6259344b0b69dcf959a8d",
+   "jpUrl": "e74a53912e62bf8b7ec0220f8f84e1ebded03d1c4bc0a392f0f9d5aa77818e9a",
+   "enUrl": "e888e96526714009fe06536a15beff108d8b45f2d84a83f3bc83339990ab70a8",
+   "krUrl": "d8a83f5195a1e435e545493c51e28104ba4f2df17d1447cf02a4d1fc5b5b7429"
   },
   {
    "id": 7,
    "title": "Hobbies",
    "text": "Cada vez que compro uma espada nova, me esforço para criar a melhor bainha para ela. Será que ela deve ser feita de seda ou de madeira de pereira preta? O encaixe deve ter o formato de dragão ou de tigre? E a ponta? E a decoração? É muito divertido decidir cada peça!",
    "unlockRequirement": "",
-   "cnUrl": "b120fd83397379ef43a928f7101267fbc1c0e2dcab88824745b5604ad35e8183",
-   "jpUrl": "c399a400f725915552e0c5d59a25bb7803363a0e0dc33c54d42d629f07911f9f",
-   "enUrl": "2ac4a24fd694367039afb442bb182dbbbfe177258e64733d65373b3d51f9701f",
-   "krUrl": "5b879f8f3aeca60e1d8f1b0a1b1ff5b1f67d38a580397eb13c7bf13b2b8b3e10"
+   "cnUrl": "a0b46b1df393eaacf34ec71b64edde98112314e1a5fbf4f52fb160298d2b966b",
+   "jpUrl": "8279294a389146239cb2010f7b563a8d6ca772d42c811db2fffcba341080ecb7",
+   "enUrl": "793406843155b54962249b08de91b8df0615e8844ae9f7ea6504a20595115e22",
+   "krUrl": "5826c6176c28231e293b807220d02b6329b53447789da958ff1aa0c5a3087e92"
   },
   {
    "id": 8,
    "title": "Irritações",
    "text": "Às vezes, encontro várias bainhas boas para a nova espada e acabo comprando todas. Mesmo assim, espadas só podem usar uma bainha...",
    "unlockRequirement": "",
-   "cnUrl": "a990781fa6f58ee4942ee037306944e18843e4ac14991af8221a207ddb07b4dc",
-   "jpUrl": "c5db2ff3f43e1618bda91a947896b546b386100d8ee6d4b10099422f7325fc84",
-   "enUrl": "54dbd7c4604606c500b6d733f95fe5943ce73c0f0760d7559192d9b571628db8",
-   "krUrl": "d08b82322cc05f86587ea0acd6172db2b52547e966eb46ca5f2316f60f87ff9d"
+   "cnUrl": "46a5a7a1a2cf7851612fda774ec55d0101450a826f1dc4f74064b0deca0c3167",
+   "jpUrl": "ce343570061cca09dec70c5f4c0241601f1bca75856df03b643737a20db3f2d0",
+   "enUrl": "fbfe1e9a08ff11afd85c24389bbc4bbae8749c81b7a58befdbfcaffec7934a5b",
+   "krUrl": "bbb97c9d7cfe47b8b59c4e1c55d47af1bcd6121d044f82ef3ca63077c65380e4"
   },
   {
    "id": 9,
    "title": "Uma Curiosidade",
    "text": "\"O que alguém pode fazer depois de ter entrado para a história?\" Eu perguntei isso ao general uma vez, mas ele disse que não era capaz de responder porque nunca quis ser general. E completou dizendo que eu mesmo deveria responder a essa pergunta.",
    "unlockRequirement": "",
-   "cnUrl": "e85817f43e23b535297a55f10c32d2d2baca575874349f12d1e4d8cdd4c7ae94",
-   "jpUrl": "5caf93f8646099fa3ca021a29f46f129d8e7049acf46d8b0e439e10cc1844a76",
-   "enUrl": "87fff8ad7b3727f3b20e2f9ad2d3baa31726d7c05674cbd45893ca689e731681",
-   "krUrl": "b2d3c609d923eb7304b64df6a815097df5fe3623e3a739941a15165d0ea92ef3"
+   "cnUrl": "82afb7512b634798a6ec78394582f2abd399633c6c480cea2ae0c09449f41c21",
+   "jpUrl": "0d07a1d79192123b42f588c5e88b4e4bfd1bfd012022cfebaec6ffba4e55da52",
+   "enUrl": "f8fa0f9970b2b161b2b2ba7ccef5358b902330e6b2c4452aff66d76896cf535e",
+   "krUrl": "032364b616d00f307343bfa144324df09334973308bfa687e570aef8a091139f"
   },
   {
    "id": 10,
    "title": "Conhecimento",
    "text": "Como as outras naves do Xianzhou, o Luofu também realiza a Competição Militar Estelar para testar a força dos Cavaleiros das Nuvens, e quem ganhar essa competição de espadas recebe o título de Campeão da Espada!",
    "unlockRequirement": "",
-   "cnUrl": "df6cd9ef8072940276ce51d284d7a1b85c06da5f7e4166e2d313538cc3d98b53",
-   "jpUrl": "0099f16e2f02712c45eb5a3faf19114f73e426a72b9d2d108b1e1d8c51985caf",
-   "enUrl": "40b438556d6d1e8fc642a49545f617084d62887dba6feb5d94d38fb11d217b1e",
-   "krUrl": "acf4b48dca22b25b7edec4aebfb5ff01c8c84b352af9ad4b0a148a406cc3d565"
+   "cnUrl": "5f4fe0061e0dd84e2d426e71f2fb5ea837d76e7f8b6383fa992c21b782719a92",
+   "jpUrl": "6de85a1d3e2355014d3f3bb61f7595e1109496fca8a96aab13f5e236399bd8ad",
+   "enUrl": "9619599027418bea556101ffcb78c97f8770150c1ccd6beb95ae9b11d356e558",
+   "krUrl": "9faefa97fce05683aedc4de65f682ec89fd439acdc555e54e79efde921c04410"
   },
   {
    "id": 11,
    "title": "Sobre o Jing Yuan",
    "text": "O general não precisa demonstrar sua proeza militar quando estou por perto. Como ele reconhece a minha força, eu preciso ajudá-lo ainda mais a lidar com os problemas!",
    "unlockRequirement": "",
-   "cnUrl": "57221f9c85c43f73e6be314c9453fe41e0624c5cd25dd58b29b92ee7ff9710a3",
-   "jpUrl": "ca2709a372b4d8f5093650f1f3d0c5c3c3d4d61f4e6f6df886405c00ca55827f",
-   "enUrl": "d20d5f67fd0a31b21b94d0d060a636933ee9d7277f16af25192320706a96afde",
-   "krUrl": "96453722f9221176785a14b8ccaa43d37cb937da21cd1fc004bcd61a530f1e33"
+   "cnUrl": "ef4552a9abafdd404b9fdc0990a42af3fceeee4a7a45a1bcf14820f9e7364ca7",
+   "jpUrl": "c31fe6bdaf4c168186d0948891102b9de27eed5b8edaefdcbcfc90f584a3a6e3",
+   "enUrl": "5dcd530a8603de35958a43913f43fe9da17b9838ab56f8351df45c992329b0c0",
+   "krUrl": "b749f2f5d1459cd1c7b8e0be81a92d6e079ec44d837debd59df582b71ea40dbe"
   },
   {
    "id": 12,
    "title": "Sobre a Tingyun",
    "text": "Tingyun pede que eu escreva prefácios sobre lâminas quando tem uma seção sobre elas na Tábula das Mercadorias.",
    "unlockRequirement": "",
-   "cnUrl": "d4b6457dc6286036265cef1641adf8be67071abcd1b557e52af68e9cc42d9554",
-   "jpUrl": "1cf8bb48a9dbc2f7d0ef39d7bfe94163dd57e46ba7d37e44aac59afc0bda6a11",
-   "enUrl": "fad6aadfd87ccadaf047a4b5aff74bb53d2133c6c9210ec866f60e52bd67981a",
-   "krUrl": "7ffb41b1e19cc4fbc74064927c12da7c86ec80a79f676a86d050d029c97d631c"
+   "cnUrl": "b7aa703867c01753a39bc263d7ba8350291f4072a8513cd944c4848e041efb2e",
+   "jpUrl": "31951f2b2326c8bb2d5a8744ec3b090a95b055c80c87a207a93ce7862b6e94f3",
+   "enUrl": "b8b9c61fd41c49983f6f78f1369005065a47922e3600fb483876b0a576d61d30",
+   "krUrl": "a2ad837d6988ed9973179926e3b012db850d6bf1c8d2049fa1d7793f0cb09985"
   },
   {
    "id": 13,
    "title": "Sobre a Sushang",
    "text": "Sushang tem uma espada boa, mas nem sempre isso significa que uma espada é fácil de manejar. É preciso dez vezes mais força para conseguir melhorar o manejo dela um pouquinho.",
    "unlockRequirement": "",
-   "cnUrl": "7a0e0188c0bd31f36a78fa0d9634ac3b6949662036bae0fa01977479391dfe3f",
-   "jpUrl": "fb7bcdef4b64039ab985e24f77053b2261587d4ee748c6cbd6d9247db69f7566",
-   "enUrl": "671e137f95d559816c4884aad46b01235c365f738a273e0ca5de210e6bc6e2dd",
-   "krUrl": "24fbae4555c68dcd61debcf1d01365c21f3550c538902f87a67fbb9e0f8a3d96"
+   "cnUrl": "505e5aed07ae96f6e5ea18b8cec2228538ed5bcbfd11cbc2bf3e863c44b7f030",
+   "jpUrl": "a85ad1dd5bf8c34992febb1f3f87d47a457023e73b36f95844d70f4caee55c3c",
+   "enUrl": "07bcaa5c78956f583e4a9c1955336310ad884c34326a817c061005a0f62a89d0",
+   "krUrl": "3b2d21297f74678fb2b865f661dae1dccd065f625040edc2a6821241129aced0"
   },
   {
    "id": 14,
    "title": "Sobre a Yukong",
    "text": "Eu visitei a Comissão de Exploração do Céu certo dia e vi madame Yukong sozinha encarando o alvo de couro por um tempão. Ela não atirou nenhuma flecha naquele dia, mas talvez tenha atirado milhares mentalmente.",
    "unlockRequirement": "",
-   "cnUrl": "911013f6508b85207eeb5f25ca3d233fb7387079429a2bc263354f3e324cea99",
-   "jpUrl": "7c9a98aa3d2d17989ffc90fd6aea0b050166b0fb5d83b176481622dd14fcd50f",
-   "enUrl": "149c13da3dbae4cadb042dbfc92c7d5993f4f00ceb7e9afdb5a4835fa096f364",
-   "krUrl": "7ab54883a6f4fef784b074a887570a6fda0dd05538bfab0185c170d09ae61cd9"
+   "cnUrl": "a93d22afe332b8c4dd7bac59d440549808c687ba929c35a85888a9f5fa75443b",
+   "jpUrl": "33dca7b4f734906c6b8f14d38ff53ffc5ccbd8b532661c036675866b18c98487",
+   "enUrl": "a199022498cfa0afca793d914e0899b3a2dfaefc38e6c1be178309283f9a6af0",
+   "krUrl": "1a3aba893973d91e654b4a570b705a9919a8b66444a831c917193d76f8777136"
   },
   {
    "id": 15,
    "title": "Sobre a Fu Xuan",
    "text": "Então, a profetisa Fu quer ser general... Bem, primeiro ela precisa resolver o problema que faz com que todo mundo caia no sono quando ela começa a falar.",
    "unlockRequirement": "",
-   "cnUrl": "b6a18b768664562c600aab43254c36090890a28ef3b3583868eab8e8e164a5d3",
-   "jpUrl": "db84bc6d9aeaf532e990638ff77a8fbe7a5b525b4681323001401fa6847729c8",
-   "enUrl": "37e0e2a82fa4e1d3864eea29d83667f86bff9359cbe9fa093ea9bb2c67230240",
-   "krUrl": "0f028626133142a41bf92424a06f91b0c9065c2df79e311a0d33958394aceb9f"
+   "cnUrl": "47fe18af96e64e147ee6fe6dc4bd10949a32127f8a82f48eb27af165300a497a",
+   "jpUrl": "6539e9d9eb32db2497cd3d9ac17ad2f033446a89a752f7cb9121f13c82c2e265",
+   "enUrl": "387915a53b34b5251ab1df33e1b8a9559c3e984672404cfedf75642a04fb0978",
+   "krUrl": "f250190a331832029bcba78be8be3800ba5ea092a3bba5f1c4d0c8249a2cebaf"
   },
   {
    "id": 16,
    "title": "Sobre o Luocha",
    "text": "No começo, eu achava que ele sempre lutava usando aquela caixa de espadas, que por sinal é muito estranha... Preciso descobrir uma forma de enfrentá-lo e fazer com que ele lute a sério...",
    "unlockRequirement": "",
-   "cnUrl": "53b3fee42f3cd764e936aa2e4af26202ba63cb561e0ee0831439c62a58a749aa",
-   "jpUrl": "5fac4abcce333830298c3516dfac7d0b2d2acd7ca3f115496b81a9ad1702c17a",
-   "enUrl": "9e115cc514fa18a01f00e04d2824c78b547959a939fa8b6d21919b3b41227fb7",
-   "krUrl": "0336fd66c0ddec473ab8911418b9da6c174c095bf4d556ed0ce84ff3b79a023b"
+   "cnUrl": "e1c87d8e26715c33bc72c9198a2b689a0419fc2d268b18653936c728afbb1664",
+   "jpUrl": "57071567338bceb6ecbddff0533adf4cefa0af333b70283404bd69574d1d914a",
+   "enUrl": "3c354e53f446325bafd99756c128669f1424f65f5ae980bcb97e1c0333e87cc5",
+   "krUrl": "8e31d394a7827886a7641b5a7770c70206d87ca243febaa3a93f4f0779bb1d6a"
   },
   {
    "id": 17,
    "title": "Sobre a Jingliu",
    "text": "Eu costumava pensar que existia apenas um caminho para se tornar um verdadeiro mestre da espada... Mas o general, a Jingliu e eu... todos nós acabamos tomando rumos diferentes.",
    "unlockRequirement": "Desbloqueia após concluir a Missão de Companheiro \"Nuvens Não Deixam Rastros\"",
-   "cnUrl": "c087a4200894575351a10e0a5fd3af825b1fd9934faa095877a8882858ed8c97",
-   "jpUrl": "7686e180db98e75793053d0488562d71e3d27f9a688c7a6866c2ec55ff88ffa9",
-   "enUrl": "67ad01641db9d33645b5ad449e59f457d054e8301af8293e7b4a720588fce089",
-   "krUrl": "9d84fe633353436f280b53b55eda95c956c935c9e406a41553add701da0d9f50"
+   "cnUrl": "b01ce5d3803b585a42939eb926f9f6b1722d13ece2bb03f636f813134b4262b3",
+   "jpUrl": "9e3806727ee09f80ca43f2472e3315acf109407469531f9b9c5b0572b84ee7a8",
+   "enUrl": "e161f509328ad12a160891ed6342687b25a3619fcd1789d83ee4d9e01d9b1201",
+   "krUrl": "e4ad6b348033611143a1ec7a42b67d4215815d955fc30b2cde26ef455d6d4f9f"
   },
   {
    "id": 18,
    "title": "Sobre o Dan Heng",
    "text": "Quando enfrentei o Dan Heng, a maestria dele com a lança foi quase perfeita... mas ele não lidava com ela como uma arte. Talvez para ele a lança seja só uma ferramenta.",
    "unlockRequirement": "Desbloqueia após concluir a Missão de Desbravamento \"Uma Oferta Fúnebre e Um Longo Caminho pela Frente\"",
-   "cnUrl": "24727adf31f37b3201147e182ebed2af1e330313b04f7228bd8a597bd1c2a7bb",
-   "jpUrl": "794c70a4c4f6620422d0ff551086f41b4436c52a47957ba08425cf717cd2d838",
-   "enUrl": "0517c853f95e393529ada6097d1d8a2819aa4877443e0f282e9b20347de765ca",
-   "krUrl": "5be0b50bd9dc96dd0610516dd327928da946a595ccdae265d16ddb342fce600e"
+   "cnUrl": "2f7c5ff733c78fca570b5ae8124cf82a39b17ec47de0705e02c41df9ff86e774",
+   "jpUrl": "c0d1bdac32039f58676b7d9901753e41b140cb65cedfe62244837e859c722920",
+   "enUrl": "84f12d04692f117df6418b14d1f2349b1fbfe93c4a55672918dc95de16698dcc",
+   "krUrl": "49b5a2a407f45bc0ec3426160987caabfc465a95c15888f6e7e76cde6f332542"
   },
   {
    "id": 19,
    "title": "Sobre o Blade",
    "text": "Ele consegue detectar qualquer golpe de espada antes que acerte... Será que serei capaz de derrotar ele só com a minha espada?",
    "unlockRequirement": "Desbloqueia após concluir a Missão de Desbravamento \"Uma Oferta Fúnebre e Um Longo Caminho pela Frente\"",
-   "cnUrl": "47dd6f00492b4f9308a842b0c0d5047c17affdee5ce0877e3bcbc19f10bbc384",
-   "jpUrl": "fd9df435ed1fc57ab80053b1e2906418887527e10f8a558a818e9264a87d71e2",
-   "enUrl": "a1408c7b400e6ea26c9a5f32c406d85e7bf89297bf607429a77e095aafe3d2fc",
-   "krUrl": "eac6490cdd213b588dfe168711e4c8c2eaadc8b054df31827ce01a0fdd742f64"
+   "cnUrl": "0864dc1de68e03e424e2b453fbf61de034016bd0b1f5ac5f0f9782ffa76ad73f",
+   "jpUrl": "ef43e6e176a4a2bbf16fc4b73d636c445e40c2b0103baa4234d1e6dadf8d782b",
+   "enUrl": "e9137eabf19e809f7607634520b72e2e158b9193f45686500d69f386666eada6",
+   "krUrl": "a856f75feef43e422dbf1d46d92f3ae3dc8d90111fa0243bc46e984f71535855"
   },
   {
    "id": 20,
    "title": "Sobre a Guinaifen",
    "text": "Eu me lembro dela... Uma vez, ela estava carregando uma espada linda, então eu pensei em puxar conversa. Mas então ela engoliu a espada inteira! Até hoje, eu ainda não descobri de qual estilo de luta com espadas veio aquela técnica...",
    "unlockRequirement": "",
-   "cnUrl": "254322868b6cf273ff00d65d9dc707a4f830afa63af09bff30aa45abbc2b9d76",
-   "jpUrl": "f3c53e791245976d3217f1467c66a755b4c6c60a438f795e44bc3ff1f6ecc0c5",
-   "enUrl": "7dff070602a7b860fe41bdcc7b2c9d914d741be4d8875e9edbde7d25d8773391",
-   "krUrl": "0c78dbd6277f65847275ca5b48bf59a92ebf6ccbedc1c15a430ae97fbcf6bd55"
+   "cnUrl": "8d83fa5ff03edbcf5bf762f9e9397081713918cb232ffdc1c5f540b79a2d49db",
+   "jpUrl": "e8e21d0035506ea55c20012340cdb281655b4618620931f12d2cae80c463aa57",
+   "enUrl": "5608eecc2119475623eda0bc223eb168a3b3fdaa78f4c418b48580494beaa3ec",
+   "krUrl": "d99798fb0e4a54afc13d7eb2839b2bf54a3c35b98abb59dae28db365f76e22d9"
   },
   {
    "id": 21,
    "title": "Ativação de Eidolon",
    "text": "Parece que as estrelas ficaram mais brilhantes.",
    "unlockRequirement": "",
-   "cnUrl": "4d17e7949d84fe8972c2d16bd8e85778d434b24fd9f0d624e6f3a0d61a42aec1",
-   "jpUrl": "2bdefa81f6aba60404d464f58bb1332b85163ebf4605dc68ab1fafea8f9fce74",
-   "enUrl": "499b226ad580ef27865c538cf0471c82cef7ab5f379b2ad674b2f2c66052e56e",
-   "krUrl": "50f079e238457566182899fccbdd437203c5a3ea31efa5dc7004cef837e53200"
+   "cnUrl": "9dc3f17a89626f1c02c0d481acb6188d26d2e9e29efd7ca3292ef18c0d9b1a07",
+   "jpUrl": "1c524a8917e27f4626c41f79d42cb80c79a013478860fad6b7f3bb6ddd1c62eb",
+   "enUrl": "a277477c18dbab93278e575876a9a51dddbffeb66bd8ef7b69bfbddf16ff0e8b",
+   "krUrl": "83f16bcbb5c2565f195635335b41fa81b390da515bf2ac233512cabc2eeaa764"
   },
   {
    "id": 22,
    "title": "Ascensão de Personagem",
    "text": "Quantas batalhas estão entre mim e meus sonhos?",
    "unlockRequirement": "",
-   "cnUrl": "1b4c2f150c757b0d58154b5adb2635aa98678f88c69b417b5d24958797ff7260",
-   "jpUrl": "5a0b3546cc3c36fd7a4f3a61e97187f06fd31242ffff4ac1962187460ab6b536",
-   "enUrl": "720e763ac03a12c6a7d2a9fa83ef4ad2bf11c45c11e4ccef1b4aba8a980750e5",
-   "krUrl": "214b70195a33ccdf3722838e22867aeeb399dc49f0ef3c4dd162f2efbbcc8fe5"
+   "cnUrl": "fe4ad4f2cd8526cf27bcbaafae404d441e2fa58962e62816aff6b4e10a593cfd",
+   "jpUrl": "a58b8488f7a67ba293bdbd48d69ca1bcde8144e176b1584e6a0aa7db07cb39a4",
+   "enUrl": "c632ac6cfef3edf8d6876e51a0a09a0a6126f5f518525345868caa17e7343d18",
+   "krUrl": "153dca15ada0bf4faf31520d1081a07bef3d5ccb3ca5a1f4ec4651efa0d51c52"
   },
   {
    "id": 23,
    "title": "Nível Máximo Alcançado",
    "text": "Minhas habilidades de espadachim estão prontas. É hora de testá-las.",
    "unlockRequirement": "",
-   "cnUrl": "cdb14b31f43b898cf952a1934bcfb1986287a9b544dc9000733ab051f1e9814e",
-   "jpUrl": "9da001b514779b5ca2cbe32758a987a1a0e8874608eea0b4ff8abf275c4cf6b0",
-   "enUrl": "7178c3afe320630c18a3235b2aecfa226a4915c14d9d53d51083e32439a68f19",
-   "krUrl": "430799612a9be1ee94f8b15b7e9d6a30e6aca704543aa30b0ac6c32daf10e7d5"
+   "cnUrl": "126a82fa8e2632738db15cb458d2525a979a2d054e8714d2676f903079903cb3",
+   "jpUrl": "dc184541a9dcaff0812ffd91e90050c9236a7392f13d70f0f94a7cf42895417d",
+   "enUrl": "2ec0720e4174533d66ee7547f04ef35bb56f0a83f2a8102292b881b8158a970b",
+   "krUrl": "f084b046688154d37cd4360ed4dc0ac99b9bb3e63b2a7473333f30451ba30643"
   },
   {
    "id": 24,
    "title": "Ativação de Rastro",
    "text": "\"Ele tem um futuro brilhante.\" Se eu ganhasse um strale cada vez que ouço isso...",
    "unlockRequirement": "",
-   "cnUrl": "466f30201a356674ca1de25b271f685a3a1a3a173e95040b4ffa6a63f3d339a2",
-   "jpUrl": "dc41b4242b789365e2942fd628cac43e74adad5d0bf714a0ca59a367a87aed91",
-   "enUrl": "e23b90bb602d488f1365fe5d366b3b0e4b5582138b834f6aa2d2029cae16b64b",
-   "krUrl": "ca2a7896d14cc90e8132f553033e0978e6a7573c93610f0b9ef862ef14233516"
+   "cnUrl": "327f06037feefacdd1e10effb2bdf304128c898b926cc95669947464f10724a8",
+   "jpUrl": "b3ea2f0807e1b67f811272dfc5bb788dca030f1a5e01b27c11883de852440f5e",
+   "enUrl": "97aa3971e28e7e74cdae9af230f8ceab8784f782fda77c201bcd34470eb2b8b6",
+   "krUrl": "4a304f073a618623ecd7fd0fdfe19c137544f2232a16b1fb1c17df1f3f11d390"
   },
   {
    "id": 25,
    "title": "Entrou na Equipe com Jing Yuan",
    "text": "Ordens recebidas, general.",
    "unlockRequirement": "",
-   "cnUrl": "e1e7a36dc1a7bcb2af55d9482c119995a1fe31888b2cfe639edb01526d02de15",
-   "jpUrl": "8fcaa03bdf6324df928688d7f0c637dbc23cae51723a20ae3203719379d078b9",
-   "enUrl": "596a715b654ec433debe0301cdaf55ff739980335af0bd1514759d8af87a8136",
-   "krUrl": "8aef884c6f513040c4ac69bb1e5f687ddf22e43cd60f255891281eb10c7f9c95"
+   "cnUrl": "0a2620d4dba03d2683ff62d6cedbeab7e0ab8527c4c608bb5aedf9f39fe80404",
+   "jpUrl": "9eb480b5a940bea17e32be662ced878af67fedf8cb890924b6eee852920d8df5",
+   "enUrl": "2dcfa24afc0ee366646034f0fb13f516b7189aef85d9940a603e2eebc82d72b7",
+   "krUrl": "457ce8e76e8fb190c3ffb273700406f9b99b0c058d69596b98a0c732ba1870c9"
   },
   {
    "id": 26,
    "title": "Entrou na Equipe com Fu Xuan",
    "text": "Qual é a sua perspectiva para a batalha que se aproxima, mestra profetisa?",
    "unlockRequirement": "",
-   "cnUrl": "47a97fb615c909def951def37fc73109471630bf4398b6fc7b87ef26aebf4154",
-   "jpUrl": "d327caf10294ecb5592c4206fee384fdef1a0c0236ea60602638c0bc38e96437",
-   "enUrl": "0ca55c51e05bc12c36a0c9e4183f1a999cd6e334a6da59149ab42127a4ce025e",
-   "krUrl": "e61fdc77c10b1cff65b06f82ced34edcc4e6108be07f132afe658b7c1ddbf17b"
+   "cnUrl": "7f4be9cc246816bded7d2ca65a58542864f869bc1aec7fa827073d7333d77b18",
+   "jpUrl": "49eb82357cf63d51ace889f30f8da3481b5a9b97b0cc2a6669aad370ca8f1828",
+   "enUrl": "1262ffc00159d6cdd5feaafc57099f9632c1319842725f38d3987aae9324dd3c",
+   "krUrl": "6b0ed2119f6275349d941537e3b3a306a4a5eb370fbaaa6901e01116bdeac10f"
   },
   {
    "id": 27,
    "title": "Entrou na Equipe com Sushang",
    "text": "Cavaleiros das Nuvens, em formação!",
    "unlockRequirement": "",
-   "cnUrl": "1e57cfc257d9d9a2b355da3d520ed0011ece0e46ac1d90bf760057937a9cf407",
-   "jpUrl": "cb01f7ab674e83f410fbbaba42dad8d8f77b3d51bf1de698ac461d451f300771",
-   "enUrl": "ac8d174191826094e9f0f3eba2a3a8a3952ac8cc70e052d15fc80d56c790a9c8",
-   "krUrl": "a54d8f71ead09896651975aaea61d64249914d619ed60ba33cd3d07d16d45b94"
+   "cnUrl": "d0b641b524e592fc7308893a87bb0eea8ad03d76f744307e6438f0d0c8b55bdb",
+   "jpUrl": "bf94923299806f58eee366b38bcdb20b8022c7b51fa692d38114a399413d632d",
+   "enUrl": "904e919934c0ae4d71c2e0bf2d90a86a7a4fef46d55e2c08dbc755561215312d",
+   "krUrl": "475224d61e38903c2e233700e194a15e6ca75c1c9474137c6155df20216a1077"
   },
   {
    "id": 28,
    "title": "Entrou na Equipe com Dan Heng",
    "text": "Eu já sou bom o bastante com a espada para aprender com um mestre como ele?",
    "unlockRequirement": "",
-   "cnUrl": "e5a9dbe24aacb66954a56af1f7383a8a0d7e06b32123c633858d4e0c8bb4a6c4",
-   "jpUrl": "79f071725924a12c94f9db4802056a6f11c030c1c3672e0faefb6d7724e99842",
-   "enUrl": "63b8faf78e2352f2347497a9b209884486835d76d64069f803862852b35e5178",
-   "krUrl": "113f80811be35fb6cfae8105456e7addc0c20f9b2cf75745dfa7eb4b462b9d43"
+   "cnUrl": "7a063138c62aa12150467aaeb33a51eeaac5dfdc515e99c0d09c05942264c917",
+   "jpUrl": "58b4f6a43c912d81a9035e5e001ecea76adc912de040f91dcbd82aa3e4cc10b5",
+   "enUrl": "ca2b712cfbf7b20d8ace5a413bef892964eb228854c28b8e9c5574af5a2121bb",
+   "krUrl": "62beb6b58576d175fa6729b1f7b33f6e7aed517b5f0fe81580e7d393487ab608"
   },
   {
    "id": 29,
    "title": "Entrou na Equipe com Dan Heng - Embebidor Lunae",
    "text": "Eu já sou bom o bastante com a espada para aprender com um mestre como ele?",
    "unlockRequirement": "",
-   "cnUrl": "2b89a86e9aa77016a2b5f4596e541422533646e58abf5f5444861e098a569910",
-   "jpUrl": "65367ac828750065022a2263102e779ffb27316c0260558f7333dc3ce286af02",
-   "enUrl": "5c1440476daeb81fe539feca48447ea5fe946fa04f16b812217ad4301ed05dfb",
-   "krUrl": "113f80811be35fb6cfae8105456e7addc0c20f9b2cf75745dfa7eb4b462b9d43"
+   "cnUrl": "621126541da8abe142645990a6d91524043cce0d9ae78c58919301294d396b5c",
+   "jpUrl": "fd806aab2f0eadda747868151139ed319ebcfc8ea56d3397a6d20115f3a7d02e",
+   "enUrl": "79a0595cad61d0e0a19e66dcf42e152d84cd551aab659855d6be0bc27c1e3c18",
+   "krUrl": "62beb6b58576d175fa6729b1f7b33f6e7aed517b5f0fe81580e7d393487ab608"
   },
   {
    "id": 30,
    "title": "Entrou na Equipe com Blade",
    "text": "O general deixou você se safar. Você tem sorte.",
    "unlockRequirement": "",
-   "cnUrl": "8a060876ac184f41efd112f1e133513053ba1a2f4f3b17e7a029169268d64133",
-   "jpUrl": "c5d76c4d955ff321c57d23956c7b1ad747fd620577f6f7885b5744e1c16832f7",
-   "enUrl": "204f70ab378194e06f42492a2819df28018512519fe7881417de95ef8ed2eead",
-   "krUrl": "31c1dc1756484a76bcfe1eaf44c61a5717308a94497d77b33379e1221549b435"
+   "cnUrl": "e45a9160dd86020355c94369d5ca77aa38d91be5c1235f7ddc5d68a7b91f9963",
+   "jpUrl": "f1b15c221aad518939d7001597616d56b85c468b4402a2521b77ecea39374c18",
+   "enUrl": "01635ad57fa585aa2c04908572026066b1d51469f07e5af1a4aa03173e89113e",
+   "krUrl": "17424d8780a96de2be5bc51b12b051c50825e20d505a62a4f6dc954d77966530"
   },
   {
    "id": 51,
    "title": "Início da Batalha: Quebra de Fraqueza",
    "text": "Hunf, um inimigo descartável.",
    "unlockRequirement": "",
-   "cnUrl": "8a86489cc83ac43bc98dd279b435f564cb024389dfe084be98d02ea51783e1d7",
-   "jpUrl": "6ea029bb8d3a7b5150dc07f769a1b127c33f9efa1e2a7b7ef67dfe2dc630b38d",
-   "enUrl": "dcffb0fa7858e01f1aea34431264b0e727ca52b579567f2c6876f5b56a445d1d",
-   "krUrl": "97317d4ab84998c580f3ec5e013068afe0011bb84b420292bd02bf0e11350e37"
+   "cnUrl": "ad7e2da002c3ea4dcc071160e7d63cc3a77a3fc37e7d53b078c5f40bdb1a22c4",
+   "jpUrl": "991c31acf09f9907097ec282845dcbe70889688e1c426c51d7c77021ee24b03b",
+   "enUrl": "8397b36134865c891a00dbfb18c2698d803e7c5c0f0db9215289f0d176dbae80",
+   "krUrl": "dd006a4614a58e4bf200d7740fb836f24e10c54a5b87940e6865d21917adad1d"
   },
   {
    "id": 52,
    "title": "Início da Batalha: Alerta de Perigo",
    "text": "Um adversário forte. Me ajude a melhorar!",
    "unlockRequirement": "",
-   "cnUrl": "0dc25c5fa1fe42f967d05a5c9c87712e8b405801a98bc112aaf8301ed9780951",
-   "jpUrl": "06fa52c39403e59ab2df46eb6f2ab30554d97494514791a2e53a9947310da5d3",
-   "enUrl": "a06d3dd7cdc9c1306691d488cb47c1195ada46dfd07ff8aad8bbad42e45a5956",
-   "krUrl": "05773e17c8a4fc5af94015ba5fba8f5ba669fd91294fccb00a4c77ed02b93c59"
+   "cnUrl": "cbc4f214b0025e37ed1de77cad9b7fbe93b6e8dd432ae5c3f73968701f80658b",
+   "jpUrl": "7045e7077f46ba5dff63d1f973bf99e4b751c27129b00dd0c7617ddd8a55afc8",
+   "enUrl": "ec513a5ecf6754f925b073eb77f2629ee7d9efbb67664a4cc3bceb7c6e695e15",
+   "krUrl": "146843fe0ec9b75a5efd4a7917fc455083d2697b3e5243da900b3d8fddb408ff"
   },
   {
    "id": 53,
    "title": "Começo de Rodada - 1",
    "text": "Então, quantos dos meus golpes você consegue bloquear?",
    "unlockRequirement": "",
-   "cnUrl": "f88207da4b7569eeb3fcc70a673d65de709aa965eae68393bf2a6500fc5a42f9",
-   "jpUrl": "9613a27e52ad9be73de1b08d4a93e2b6118c57f50e272174252f5757dfeba236",
-   "enUrl": "97ed649c2a5e3b4ea06e231af76c51318ea7c8a03cf4c14412236cdebe5c626d",
-   "krUrl": "1ff08210aff526f949ccc2cd5c33f95b6d8a524ce7d2f48176ba30aeddb28369"
+   "cnUrl": "eebe292088641929b6c09120362e0d252fc35fe4322587c3db7f85c632073cbd",
+   "jpUrl": "7a768dece06cf26dae367978cacae1266d4e4e05abf052dc69cdb92ff5707abf",
+   "enUrl": "cb93659da348aa277d53378b5b29a230ad41073bc4ca0f807f3ad0f034f1abf4",
+   "krUrl": "b9b17e1ac330fe414157b5d6d805227d2e0e95cacecfa17e7623ae7cd9f071cf"
   },
   {
    "id": 54,
    "title": "Começo de Rodada - 2",
    "text": "Hora das técnicas de espadachim!",
    "unlockRequirement": "",
-   "cnUrl": "b9d04d06f4b313df081107e39ae765e832cbd7145d7928d0397a8b72fa0b0e66",
-   "jpUrl": "ccc9e95fb3d51139ed60bb63e9d57fa3a7e9565edd1d6a7fce75bb1e174118e2",
-   "enUrl": "4b9277f27d3824cce0c8892ac83b6745ac1e6741d64f7e7cc52d2320d9664aa2",
-   "krUrl": "9d1ac4f1c2213393c9bf548061ef8e2457c593223406c8035fde421307216c0b"
+   "cnUrl": "476e4494e2d2694c2794cf8a5e519a0e8513bd07ea84cf76b0d0d86b85efab76",
+   "jpUrl": "c1182b922eebd2cad4196c43971089fa9511f5c77aab758de67473c4cdae6915",
+   "enUrl": "b13978bd20e755b1a9ed4a25d525236321f221d7e02eaabe70a9a76c09acc1c7",
+   "krUrl": "c621d3549df461e6c36e65e07517c8215cd1c4955cb329cf7a4322957fdc4f28"
   },
   {
    "id": 55,
    "title": "Rodada Ociosa",
    "text": "A espada é como a água: não pode permanecer imóvel.",
    "unlockRequirement": "",
-   "cnUrl": "77160afc2e29e4dc96fcb698e890df590439c66d45c3be1853d48a5f0505f31f",
-   "jpUrl": "b8048f9789377347e380361db8ed7600da51e27747b0c725c66d39dfecce60d6",
-   "enUrl": "364283527337c11117ff1326e518fe88675b455df80fd0267d26825a363b0880",
-   "krUrl": "69dbde9baccd9acce276ec2737cfc6e528f8910ecb1543fc931f4c259f6feaf8"
+   "cnUrl": "ac605c885c5f72ece87b8ad3ec51ceb3635fa0f048d1d64fdd3b968b0e66c33b",
+   "jpUrl": "bc7f98bc4df2a02bf582d77a378ee8b2d7b5c58dbc81dbda259e0e9b2e20ae2a",
+   "enUrl": "2cb436f79df9a296b5385a306f526a70ec8dfac13d1f08704ead91a5bbe9e16d",
+   "krUrl": "c96e356587455a8af6979523e273b206ead2eea8304fefd570fbf7686c4dc92f"
   },
   {
    "id": 56,
    "title": "Perícia - 1",
    "text": "Lâmina, em voo.",
    "unlockRequirement": "",
-   "cnUrl": "d5485130ef5debc291f1f689f42799904da878edbe769f45f29ad74e066d6d72",
-   "jpUrl": "d4477524d3b00d87dcaa04a0697bef68d68aa44e5f351cbec1c6d402bcce66ae",
-   "enUrl": "5909cfcf3278ca4d3e5322abf41b5220e650e1e8667eef63628569eb4c80a833",
-   "krUrl": "741a8870354d873869a761f3fe3346335a67adaf5c8833c899010fa52a6571f0"
+   "cnUrl": "05298ef30394c42cbf9fffff0cccaa887d3ed7d367fa279a5b5a9ef383d552c7",
+   "jpUrl": "6a4c5aaaf65ded2d8b71b383aa1a180485038fe30f3dd03c775e1150109c66d3",
+   "enUrl": "7edc0bce3a08bec4518bbafc516f155ff26a397a8fe63d3ecaf34c747413fb03",
+   "krUrl": "8433dea1dc583661933934760df793778a0883e318d3bba981f53667e5b7b853"
   },
   {
    "id": 57,
    "title": "Perícia - 2",
    "text": "Golpeie... com o coração!",
    "unlockRequirement": "",
-   "cnUrl": "9d86ec5476388c44218df21436bc5157c361969d6b77f66bf90943c993efd7cc",
-   "jpUrl": "d4504ee47425a83267c693fb5657e5a6590ad915d35a7d25942f206e1ef2e1dd",
-   "enUrl": "e82b14348d23dbe28c1ab26b52a39f69ca1a7a40131619983e845a9fe2fb647b",
-   "krUrl": "55eee660689d8952d1d16d73f12d36a97bc20445dc5c8d6799f97e0592787a5a"
+   "cnUrl": "4206c06b5973812933b76e31b2c6f846c5c5b811f3a795dfa621c155902dcb3a",
+   "jpUrl": "d591a63b05bf120521f40f5a2c743ffa65cb9dc67e63245e1a53fb4ff7e26454",
+   "enUrl": "b53871079d0dbfcd430ee4ea5d2ba2ebe43fff2bdb5bf72fa6c4545ee53ca3c6",
+   "krUrl": "beb6a8e80ed19660d1123f408fc95cc60f67fc2ccf37dff3c526037465abd5b8"
   },
   {
    "id": 58,
    "title": "Ao Receber um Ataque Leve",
    "text": "Como...?",
    "unlockRequirement": "",
-   "cnUrl": "d79d8736b7a919ca463f272cbb1223fad5a3b97ea53fe014b46813371f347617",
-   "jpUrl": "a6e73ba12f11b6c293ed950e0ee10701c776542fde98dff9aef9611a91eb7339",
-   "enUrl": "b0e4eca392e426954efc0b893a1375c61e897e402f76aab238cfd346207c070e",
-   "krUrl": "d577bc13f74d8e95dc3c438f17dd79de994bf9544c798dc80682c5fa19547f5c"
+   "cnUrl": "7f90815104031e095568448e3952bb1f9644ba451104a1c17a67966f308a26b5",
+   "jpUrl": "ebafdca858d7dee52d9e4d19714b92d5b1d35a0e3d4ab9f6a80fb0d614a210e2",
+   "enUrl": "eb8a791c5193bc94d7c7c4fca43abc2e56130ad98a687f24d9534131618d9d33",
+   "krUrl": "7a26322bf84112b30314d37d1e53ad1b15f6cbd2e1253105eb4bdb9fbf02a0a8"
   },
   {
    "id": 59,
    "title": "Ao Receber um Ataque Pesado",
    "text": "Impressionante.",
    "unlockRequirement": "",
-   "cnUrl": "45f5e8cce15a860ab046b04c67a38fb579d2ed5630c954244ed5897660386d1e",
-   "jpUrl": "60ca8f5255734541806f39661da3e9cb5eb85f589f92d722654b6c95817d256d",
-   "enUrl": "78309c9f9f633285f39202e863df18774632a90c6b25fedb295f0baf56c84e15",
-   "krUrl": "c9a98c5333197b6d74726476ade130303630e9dc94b32305d6a183d43f2c0dda"
+   "cnUrl": "b23b5ab1b57cf35db473997517e338c0d711a666a01c8d9ec3e918c1d5bc0f63",
+   "jpUrl": "ea0e9cc6edbe70c8ad787fdacf49323bb0faed51840e977c5490b452e223ea90",
+   "enUrl": "a17b60e2812c251104b454244f72d4b828fbeea1b1ad0a110b697240426786d1",
+   "krUrl": "88a11da7968645f8a82098ddcef8c955a2144a6883c8208cca9632314f6aa45b"
   },
   {
    "id": 60,
    "title": "Perícia Suprema: Ativar",
    "text": "O treino acabou.",
    "unlockRequirement": "",
-   "cnUrl": "05708b2296f10c6e824ef44ba516dec5ca3b08408e8889c01e90eaa73a2fb9e6",
-   "jpUrl": "7ec1ae11d24c420c10b2510c95b5ab43074f6a3c64f7adc5e412a578ca06294e",
-   "enUrl": "4d728681450f5f1fb234dd0a716b5bf26d52cb340c5a2f268ced51ce07b95d93",
-   "krUrl": "075563310bdcd8c6e22fa705a0113b8f1c2e741bd91ae9b17a95582bb1e6f44d"
+   "cnUrl": "0657a5e3c1b2f4c28746391333c55eb098b0ee9f88a7f0d8bbc63748e7830bc1",
+   "jpUrl": "089dc14ad1cac85f48a4a922546d1ab3acaaac94665f93f00c062102eabaecca",
+   "enUrl": "6b69660bdccaa6cbaf3f0edccd18fb242231e4496ebb160fc9f45f14e811c27b",
+   "krUrl": "a229fda4b42c6d265037ceccb5f80d32a9c76987d5c97bef3a1c934705f4c6b8"
   },
   {
    "id": 61,
    "title": "Perícia Suprema: Liberar",
    "text": "Espadas, caiam sobre o inimigo!",
    "unlockRequirement": "",
-   "cnUrl": "ce35496d2e4e98f69de65a91d64ec3768872ada34066d488fb9ce3fa0fc50445",
-   "jpUrl": "c5a04a3d683417683bdd74b174359371147283ea23ed9f7d9fb0f36b6537ac7c",
-   "enUrl": "838096a733b97dc8d4d71423b677ecad662f151d578bf872064e901af3479a77",
-   "krUrl": "941ddabbba145ed9d1ce63d5b27e5138386f9e9dc43420d6a58ea127af97d4cd"
+   "cnUrl": "e71261e3e279a06c4e8541e62b2d1938bbbd46a382a870cd910a57f30e5e6ce5",
+   "jpUrl": "83b9a0714425d7add2b29e71a01143fcf859d085f6573a94e2df39d54e29f750",
+   "enUrl": "e048e9c73ce367cd17bc4bb32bea25fccaf9b9a184920398d957ca64bb3f9d3c",
+   "krUrl": "8839ad98bde795051f723d9dbfb052afd01740ff7964d82c9f6b353c47a85f5e"
   },
   {
    "id": 62,
    "title": "Ao Ficar Fora de Combate",
    "text": "Eu desonrei... a espada...",
    "unlockRequirement": "",
-   "cnUrl": "d41a40a33ace20852f8c8d3dbb9271f381971c7bbe586c9d726c0409cdf3fa56",
-   "jpUrl": "2295ca90519cb4fb510b7d4edd09b75f452353851cbce4d4bbc2fddb20f97a08",
-   "enUrl": "db657b7865b158488bf5348cd1aca7b15437ba04d3430e664e3206aff208212e",
-   "krUrl": "a60f196d658cb10978b03e28a0fb277fb5fcc73d43ca049d708debddac1df440"
+   "cnUrl": "aa2c2d4aeb4f78fda0a00d6a8ee76e89779eca3894375c44fe86d544d291b0c4",
+   "jpUrl": "e370520821252582af393e0bbbaf2ecd6491bd0ee76d408a65016c278f63afad",
+   "enUrl": "ac932d8086bc093d39c5cad4feb33ed66fb30a0a02929de1732dc109d8b15265",
+   "krUrl": "4d8d4592338bb6dc9396c7e9a74a0ec03e5fc30866db3a95b55bfd96da8b72d4"
   },
   {
    "id": 63,
    "title": "Ao Voltar à Batalha",
    "text": "Não subestimarei o inimigo duas vezes.",
    "unlockRequirement": "",
-   "cnUrl": "a9823b96e0a60bf51ead9fd866491bbb21a3a941cfdf48a1920e203b837566c1",
-   "jpUrl": "2ec1720d5d9d935cee45c0ae9c54a59671751a4a69f74f1ff61df3040229d3b3",
-   "enUrl": "e6697b3416430c3e6e5f7b9eb365058415dc33c21bc65b6d5e9ba02a99ea298b",
-   "krUrl": "5692647ba41180d8daefea346c991adacaf4404c4c850b5bdaa15cb39ceda3b4"
+   "cnUrl": "71bf15342a00ccdd105cc49b3866dc876ea33a32385dfa1264ba586f2b3993f1",
+   "jpUrl": "84ee9a179d734385ac0146f675a164079b291f98a5e14ee1248567781e31b017",
+   "enUrl": "bc1474374413a6b5fa6064fa57c276f252f6a60fe30361273e5c5169e2248aee",
+   "krUrl": "ce4988ce03d17e2deb2593aea8adc4dfd55d89caac2f64f414aca4cecc6bd112"
   },
   {
    "id": 64,
    "title": "Ao Recuperar PV",
    "text": "Posso respirar novamente.",
    "unlockRequirement": "",
-   "cnUrl": "565351563b5d2b02ced3ef052175982b776747d227af4ed15ca3abdbd9c340ad",
-   "jpUrl": "127e333442c6340a5f827fea7ee229f8db04a89fbb7c5fe99ac0b1865a03be7d",
-   "enUrl": "0f9c8f6cef3bc478359ebf61e5e2319a792e54041dca0bc60cb2b5bb93da3ad8",
-   "krUrl": "20992722174d1372b967ee851ed872899532b4061cfe37645ed9f704915b54f2"
+   "cnUrl": "373764502cf5fe8e69ab051f058a7c5ea49a7f9b957c8961b3faf7abd88f4d67",
+   "jpUrl": "9530cacfdf3fcce62ed75d35364cf262e7d24c4c591daaf73c65197085085681",
+   "enUrl": "58b967a0cfd681aa4b7420ef9de533eeaac8475157c4a52f4f7b6024ca9a5c23",
+   "krUrl": "cc7c28457a4685ece1fb2d721e5d9ccc702bfffc5a69f8d2756d9ffebdb1d7a7"
   },
   {
    "id": 65,
    "title": "Técnica",
    "text": "Troque o ponto de equilíbrio.",
    "unlockRequirement": "",
-   "cnUrl": "cd1d5dcba1e84fb18c55c55dae571d9c2d63ca82addd2a91224f7167029455ed",
-   "jpUrl": "5fe0f4f7df1907a6fd4a5781be7a926abeb9c351348361f5460849748dc407e4",
-   "enUrl": "65861de9903bc08d8a2097928fd86baccd4477089bcd44c125068f6d55a13e63",
-   "krUrl": "e6659f4ad248517c9be189fefbdf4416700cb0028cae577fe75e819c071a8602"
+   "cnUrl": "5326902ce82c579c4edf6bca078cd5b22399a21d1af5d2a9599f029aaa0ebef3",
+   "jpUrl": "7e53c57b71b72bacc69946113aa5429c7865e489ac75c4f75e433bf116a8967e",
+   "enUrl": "2515db6bf4c0657de6721f8150953e890eb250523247c58561c36babe27fa8c3",
+   "krUrl": "aa1b7cdc5c8cce6be1643f1656a60b9ae49b0278896ea4269eb2c71f888f4e36"
   },
   {
    "id": 66,
    "title": "Ao Vencer uma Batalha",
    "text": "Vitória pela espada!",
    "unlockRequirement": "",
-   "cnUrl": "fd84fddb587b5dca2cee8d79588e7aadcdf30576f97655e15c7d8d46261f3446",
-   "jpUrl": "f8ea3b8e89752733f5429cfa15e8f820b860646cc801f160f3b550d2bbdc9e81",
-   "enUrl": "d5916b5288b969ed9649ad3cfbf10b24027b943798a62a90a8302809b3bc457b",
-   "krUrl": "10e44c35fda54a19be62d11097d442f6b3f2c78a8e43ec46d3c7d42ad332ad64"
+   "cnUrl": "d89c4efe00e99f9117758e24397a5415218d886903c4d4efa69f3c5de62cce1c",
+   "jpUrl": "3872f942fd01bbb0d79c080fcaaac724a09d3fb54bafe0bd5c819ac6022a2b7c",
+   "enUrl": "0c88760e02467b6a640aeee7b85726e6836b12fc37c6d81cc5220e66209d6c18",
+   "krUrl": "1145ac4efbbb5bdb309fa99fa11b02f14593499bd1b02066d81dea06629d0604"
   },
   {
    "id": 67,
    "title": "Abrindo Tesouro - 1",
    "text": "Isso pode ir para a minha mesada.",
    "unlockRequirement": "",
-   "cnUrl": "b5f58dd6aaef8d5e49b1231028cc518c3f77fec76f35aeca9488c56cd43a7843",
-   "jpUrl": "c2df12ff7675d287440d787ed5a113260c602606ac008e59b5a7c10d77cf8f43",
-   "enUrl": "16ae109d1413e5566df2f2e5865701724722caae19cb72df65c654cf6e1e7d52",
-   "krUrl": "edcc26821d3734fef1532e8e7ef4db0b798467c9ea228362df0f9c90b6af8d96"
+   "cnUrl": "1adfa5c7372fd54ead491680fa2b7862150732c87b83668492f780a4ce51b870",
+   "jpUrl": "ce16eaa155cb9e6399b998985d83c9800f90567f50c41ece051b69d46150f2f6",
+   "enUrl": "b0f387ea93e4732a7b688f9ecf7937c32e5da91a21bdcfe9c775e6049bcae1f9",
+   "krUrl": "4f859c87e9bab0a2e51cc29a7672710ebf5c9c076acc17e79a801621ae2a5b6d"
   },
   {
    "id": 71,
    "title": "Abrindo Tesouro - 2",
    "text": "Mais alguns desses e eu consigo comprar uma espada nova!",
    "unlockRequirement": "",
-   "cnUrl": "822100a9b8f53e2f8ffe14738e99850f2d8a64c23533282d9ae1d558ce6dd74b",
-   "jpUrl": "9719ccbd474697ee616780000cb383f5ed24842cdf93d7c2c62174618935a900",
-   "enUrl": "cd5af5aadf1c73b432d6939dab004595abbdf613ca96350af5ca296fbfd6b621",
-   "krUrl": "5acaa81f290a014c992da7288cb00d29abfddbee700fccb808c5d860760d6513"
+   "cnUrl": "1667546441944c32bb8768e81e28d2586f882d7eebcf7acce345a5ccf2c57a78",
+   "jpUrl": "f373d8b3174bb7b3acc1d34d09c9fdbc8d16e61689cba49693877582a3db0da5",
+   "enUrl": "fb84b8021f3f1ad0368ae01a889e6e20685aa5f21203c39dfc69e669c0a1dcb0",
+   "krUrl": "ae703a324fa67a6e3995af07d45b1016ecf512bcf3568859c77aab5f78888e8d"
   },
   {
    "id": 72,
    "title": "Abrindo Tesouro Precioso",
    "text": "Não preciso incomodar o general por um tempo!",
    "unlockRequirement": "",
-   "cnUrl": "f6fc0d5d303e114b891e9d2f04b8aa142143b622fb48b9b18d8a8a262361b214",
-   "jpUrl": "489736407dfaa5da333b7fc5f50ccf9351001f08f18a6f1c528381e0b5ff6c92",
-   "enUrl": "bd5923843ca4fbf71243d3de15967dd9af2e8671d23405e911e580c9927b4d01",
-   "krUrl": "9e13e96b98ab05b91b9188f0da9e83f994ebe9cfcced52af6de113db238a9c80"
+   "cnUrl": "d6daaba681468bd8a5532150aefb44312c33a64fc34a516dbe30dcbf8f26694a",
+   "jpUrl": "4d381b29bcf190b16082ff998e5c310fd63551dd75c61fceb09f8c48dcc617fd",
+   "enUrl": "87db88ff005f6fd7e889491c6b3d5300f1c7447667f1d0de023eea94a6721aeb",
+   "krUrl": "76e3e1000be8e73cb169d592b84770dfcaf7b58faa7a6a1676131409489ff681"
   },
   {
    "id": 68,
    "title": "Enigma Solucionado - 1",
    "text": "Legaaaal!",
    "unlockRequirement": "",
-   "cnUrl": "f85b4ba3320d42cefe10f3d7bb4488a3be76e7efb8d6748ac888ed771d11338b",
-   "jpUrl": "e980b551f049b6347b984247b3212d7cf614c5b184e2098da626c6d90a8dd4d9",
-   "enUrl": "53ccba98505f094563f6fde31510a654bc3f9f9ca9171b302d041823b211b425",
-   "krUrl": "b310f44c8e902923199d227efdfcb37a706bbd59991f8eed263c6c1ac44b13ac"
+   "cnUrl": "8118c5817d865e5728d1b016c45ee21d61286f209cf9fc164db3ddb1a79ef2e2",
+   "jpUrl": "981662b07fdd37e8c29802586406595030a086c9682505458119e7f1786de859",
+   "enUrl": "13068a7c18c487fcc67dea05d9e8cb68cb0ac812e806be3ba4a5ef1715d524f0",
+   "krUrl": "1ad529c61553832fc25eb2f4848c64cc186e8a4b92e0fde7c280719e65c842d9"
   },
   {
    "id": 73,
    "title": "Enigma Solucionado - 2",
    "text": "Funcionou! Guarde o próximo para mim também!",
    "unlockRequirement": "",
-   "cnUrl": "817cb836d2b1ecbd553c6a5bba2f7595fcacbb8d51e1b21581519ad74abb36fb",
-   "jpUrl": "8850340583ef1a76f1a57b112e5947bd8307ba79f7256f7726252cfe09f7103f",
-   "enUrl": "de357f89a750de73d8f7a9fd079722e120e4706877e385b5d44bb2d567056c41",
-   "krUrl": "781f6c0074429a687c41285db7514591e5b1486167506c9310cec7bbe0dbbb55"
+   "cnUrl": "29c8b18a4f22742a94dc8c9a568d5d4ed86321a503e2ac65b7e5cf8979512419",
+   "jpUrl": "efa69afbd00fe213840dec60f8565596c3c95bfadfa3d5f0505dd19ef49ecc8b",
+   "enUrl": "9363c6f8def77df28a1d36a95dbd57cde3bf8440c482a93caeb809f07436d28a",
+   "krUrl": "6b6ce1a4dc0838e662091bff8f0b11f2e7a80cfb44cc1c1c07c260f643f6b652"
   },
   {
    "id": 69,
    "title": "Alvo Inimigo Encontrado",
    "text": "Vamos lá dar um oi!",
    "unlockRequirement": "",
-   "cnUrl": "195f7feed823d8a0ee967711da42b4928903da5f9ec9087b4a2bb78d383df00a",
-   "jpUrl": "e7ecf7b92e291ab1560b61b06a731f4d0ef1f937b85fed4cb65df24bff7bad46",
-   "enUrl": "96fd66dd379f903f4191f36da7e548bf27794bbbfc8a8cb1c7675aee5a5ee6fc",
-   "krUrl": "54adcc376000c6bb2ab940c42981ef13978d0eee99682eab63b1b5b1a97b9765"
+   "cnUrl": "517f0569883a6c0d7e65976022af31621c97d619ab66d495de7464434d91d977",
+   "jpUrl": "026e9b94eac7792303c9db751239bc938d09ee46ca6928a48ff3caad056c0ed0",
+   "enUrl": "bc777adb1c77eacc4812c4549b67502a06f06ed09bade74339c466a991551a2b",
+   "krUrl": "d349808d62cd6537e7ba60ef30a38a08383570c3d170e3a98423b5559134c473"
   },
   {
    "id": 70,
    "title": "Voltando à Cidade",
    "text": "Será que vou achar alguma espada rara...?",
    "unlockRequirement": "",
-   "cnUrl": "7e8ef0963cfc5bbc70a036027a0c112eb5981c729ca44997d05a7168ee41f912",
-   "jpUrl": "9a91c464aa78222546c28e1e2e37de46c379fb74ca18da68dcf9d9490c66d4c4",
-   "enUrl": "813cf8fe31f95757b56c692567d67c0438ca7ff787857649ec5175157b5d63b1",
-   "krUrl": "6e5fd7f4a5f1f4bff96afc240a47b822b2f9a13740acad8a166c3c29febda391"
+   "cnUrl": "e5459e13ab63e043e30de2188a5b53c33a62b673d6035a79ff4caa0ccd41c848",
+   "jpUrl": "80f0896ac1b4cc6c392cf7e2af526e3dcf102fce08645145c46343417ad07716",
+   "enUrl": "92b569d842c557b90f2dce64c9c4aef2e38b513b3ed4dfb4c151807ee5154467",
+   "krUrl": "3fe8b7121c498291cefd5ca4f37a8bd7d8cf8db6e985f9175c34931756c2af8d"
   }
  ],
  "storyItems": [
@@ -2801,19 +2805,19 @@
  "name": "Yanqing",
  "rarity": 5,
  "descHash": "Serviçal do general Jing Yuan. Espadachim habilidoso que nem atingiu a maioridade ainda. Com uma espada na mão, Yanqing é invencível.",
- "artPath": "b659b322647073771c900434c7e1f1417b8702e184c535f166ab9ed5ddf3245c",
- "miniIconPath": "9b5157d386417cf7351aa08c175c994b4ff4f1fdc4974a7efff9e385016b1c96",
+ "artPath": "fc94c15af8891215c3286cd8b4b5d97209ad4fd46a16ad5afa90feb082513d5b",
+ "miniIconPath": "801898646506b83890dd008358631493023eb519e2445eac2475546385d0d474",
  "damageType": {
   "id": 4,
-  "iconPath": "c7ca3cbdcd5d26fbfad374f97d58d9152b5a398a5e5bf6d441a29041251fa779",
+  "iconPath": "29794e9afc9365e1dc71ee82d4ed904a1eeb34b1a316d808cdca2e1c0446d061",
   "color": "#47C7FD",
   "name": "Gelo",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
-  "altIconPath": "38241d858c120d8a55f36eaab92a34690a7d9add4f3e36383dabf27f5d3f5f55",
+  "iconPath": "d5302975290739e51dc53d919353f47705d836fa6db628c190b1faaf195f7319",
+  "altIconPath": "6faec7d864802e7fc24e83f1693163123b6cdc30f70c445dcfec5c3f71a09854",
   "color": "#FFFFFF",
   "name": "A Caça",
   "rarity": 0

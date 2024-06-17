@@ -1,19 +1,20 @@
 {
  "spRequirement": 110,
- "iconPath": "14447f3a4f738a9e04f1e6cd0056da1eb7f137fe01f6ee6713bf5d3e1310ce86",
- "bgPath": "68a77f895a46cc17ae3f9be4e85021dcc521b00ba9e41769681aad4be83343a3",
- "figPath": "9de29c1f5795128efc19f690289e71d6638bb48c03fd645a5e7818be969c0d17",
- "fgPath": "7610900abad8e7795a7b89b18adb0412a4b9a4903b81a2088c004f55e7b861cc",
- "splashIconPath": "f318bce244277814b27f02d3223aae1e8c36af327558bd184b92c41fb3b5b581",
+ "iconPath": "ce33ff26cae4f798fa2fba507efae224753cfcf00fefa15cfde2751e8d4df9d1",
+ "bgPath": "ed629ff661b403e42edfa7c010d0065b9380c4fa47550fc2f7127af46314f605",
+ "figPath": "cc5cd3e5ec42d338011e21050bc433bb9e62cc191970b2baf93fea1dfa7be0b9",
+ "fgPath": "01b2e2eb2e9118f7a3d78858f50b320135f0d02ca2a009767acf7e22d4f32ee5",
+ "splashIconPath": "824628a38d77fc58504fa676ccd67a6e274e8f6c320e5895ee7d711747f35f6e",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRowCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSP8AAAABkGtr27E514exPS1LG2fg6YySrarpZmLbSZcylVGldlo7qewXd/HjGCJiAkgMgAAIA9IPWRiqAAjCIKGonRzK3uvbiZJMgCAGqiE6Iiudp6aruQ0Yu3RwdfGKnLfWz+VfftrQuHFXSa333sme1SB3JMnKGe+9l5O0K2x9rleHv336qQQv535pi7y60nh81zM555P+/bKHjJViTv5yPrnT3448oqmiJqdU3mqexBsyPrXRPQgZ+C2ftgYJ6f8ll85/XYOQZdl0nCaB0vLP+mddgjV/tA8IiK9LkjX/naQf9QAhRetr9/9L0sPNq0tEAAGQ2zh3eudgBulGMcmjAAAAVlA4IGYBAADwBwCdASoUABQAPm0ylEekIqIhKAgAgA2JYwC1Guu0ocAasvVuM1n0B+p3wB/qh/ruBVC7iwq/MIiMAvhmN0Nj7zphICKtlGAA/rssi37AfX//TX7atBQzz63hzjdTDJd/oCM6IHYCa4i1fwAnb2y1k9G3xihsE40j4KORODAWs0R9248/3xR+PJKnQfy1EvegOEmLBSruYR/meOcmJD0mk6Ej6XeJMoEZksG5ExqKEuyIrHqx5+K33m+DfP8toCW0dxE040AA4PvfstCOrNhRj+frQf8R8MMX/+ESF/1WWC+1VRW3+Tbt7CrLvNbtKPfDz/qF9XFxZ8eNWS7ZO1F9woCOPbMJjMOtuJjeKVUpaH/P/P97f/hu/2g1/+zkz+CCbquuZ5ELz3l/nety08Cmcmv6/9P/n42Gp39g5NkDh5yToQdMTspSsW6fkiW9j3i7mIr+ibDdbBh+EAkBVByv8GP/cAAA",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 1,
-  "iconPath": "db6e0535800ce9a3dd926342c0481644831ce68b6b6add1f64a6a7fd01922095",
+  "iconPath": "9f28432ac8546f6dd782b5076a5d15201c1906c11fdeaabe48bc845302e47cfa",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "เครดิต",
    "desc": "สกุลเงินที่องค์กรสันติภาพแห่งดวงดาวใช้ในการชำระบัญชีแก่ลูกค้า ซึ่งปัจจุบันได้กลายเป็นสกุลเงินหลัก ที่ใช้กันอย่างแพร่หลายสำหรับการเดินทางในอวกาศ",
    "lore": "\"ผู้คนดิ้นรน ต่อสู้ และแลกเปลี่ยนเพื่อตัวเลขที่แสดงในเทอร์มินัล แต่สิ่งล้ำค่าที่แท้จริงนั้น ไม่สามารถซื้อได้ด้วยตัวเลขจากองค์กร\"",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Tracks of Destiny",
    "desc": "วัสดุระดับสูงสำหรับการเพิ่มเลเวล Trace",
    "lore": "ความพ่ายแพ้ซ้ำแล้วซ้ำเล่าจะนำไปสู่ชัยชนะ ก้าวไปข้างหน้าก้าวแล้วก้าวเล่าจะนำไปสู่จุดเปลี่ยนของโชคชะตา",
@@ -61,7 +62,7 @@
    "id": 270195,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "e45d41312c347a0e92a83719307e7cad0367aa98023d7b4627daa452423892ca",
+   "iconPath": "84cb3b4bee024a0e2c43101da44394dee59e313da5b959c85ca1e9d140e31eaf",
    "name": "Guardian's Lament",
    "desc": "วัสดุระดับสูงสำหรับการเพิ่มเลเวล Trace",
    "lore": "สิ่งที่แตกหักเหมือนกับเกราะชุดนี้ก็คือความปรารถนาที่บิดเบี้ยวของผู้พิทักษ์สูงสุดคนหนึ่ง<br />เธอปรารถนาที่จะเปิดเส้นทางที่ปลายสุดของลมหนาวเพื่อผู้คนของเธอ แต่สุดท้าย กลับกลายเป็นหุ่นเชิดที่ถูกควบคุมโดยเจตจำนงที่ใหญ่ยิ่งกว่า<br /><br />\"ผู้พิทักษ์สูงสุดเป็นตำแหน่งของผู้ปกครอง Belobog ที่สืบทอดจากรุ่นสู่รุ่น ผู้ซึ่งคอยดูแลชาวเมืองทุกคน... แต่ชาวเมืองกลับไม่เคยรู้เลยว่า ไม่มีใครคอยดูแลและพิทักษ์พวกเธอบ้างเลย\"",
@@ -76,7 +77,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "คู่มือการเดินทาง",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>20000</nobr> หน่วย",
    "lore": "หนังสือชุดเกี่ยวกับการผจญภัยที่จำเป็นต่อการสำรวจโลก กดปุ่มอ่านเพื่อฟังเสียงที่น่าฟังในภาษาที่คุณเข้าใจ ซึ่งจะบอกเล่าเกี่ยวกับประสบการณ์การผจญภัยในโลกต่างๆ ของเหล่านักผจญภัยที่มีชื่อเสียง รวมถึงภูมิปัญญาอันล้ำค่าที่พวกเขาได้รับจากดาวแต่ละดวงด้วย<br /><br />\"คู่มือการเดินทางชุดใหม่ 'การทำอาหารระหว่างดวงดาว' จะวางจำหน่ายเร็วๆ นี้ โปรดติดตามกันให้ดี\"<br />\"สำหรับการส่งผลงาน โปรดติดต่อกับ Synesthesia Beacon ERD<nobr>-23</nobr>θ เพื่อติดต่อตัวแทนของสถาบันแห่งปัญญา โดยวิธีการจ่ายค่าต้นฉบับนั้น สามารถจัดการได้ตามความสะดวกของคุณ\"",
@@ -94,7 +95,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "บันทึกการผจญภัย",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>5000</nobr> หน่วย",
    "lore": "บันทึกการผจญภัยที่ได้รับการจัดการอย่างเป็นระเบียบ และมีคุณค่าต่อการศึกษา ซึ่งประกอบไปด้วยภาพประกอบและข้อความที่เกี่ยวกับการผจญภัยตั้งแต่ต้นจนจบ ตลอดจนข้อมูลที่มีคุณค่าและเทคนิคที่เกี่ยวข้องกับการเอาชีวิตรอด<br /><br />\"ทำไมไม่แปลงข้อมูลใส่ลงไปในดิสก์ล่ะ? สะดวกกว่าตั้งเยอะ\"<br />\"เมื่อเผชิญกับพายุดาว และการปะทุของกระแสนิวตรอนแล้ว เทคโนโลยีขั้นสูงนั้นมีความเปราะบางมากกว่าที่คิด นอกจากนี้ คนทำหนังสือเล่มนี้คงอยากจะให้คนอ่าน สามารถอ่านได้ด้วยวิธีที่ง่ายที่สุด\"",
@@ -113,7 +114,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "ความรู้จากการเดินทาง",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>1000</nobr> หน่วย",
    "lore": "ไดอารี่การเดินทางที่เขียนด้วยลายมือสุดยุ่งเหยิงและมีเนื้อหาตามใจชอบ ซึ่งไม่ค่อยมีประโยชน์สำหรับคุณสักเท่าไหร่<br /><br />\"Dan Heng อ่านจบแล้วก็รีบเอากระดาษพวกนี้ไปทิ้งเถอะ\"",
@@ -131,7 +132,7 @@
    "id": 549408,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "28d0ba947e29fa63210d8ae2c432cb80339f98427c8655a9ca050184f69c4819",
+   "iconPath": "66b7af9abc3a5b3a0c397e90ff5b79398ad5f3ed452c3adeb20a467543fd8810",
    "name": "Ancient Part",
    "desc": "ชิ้นส่วนเครื่องจักรที่หลงเหลือมาจากโลกยุคเก่า เป็นวัสดุพื้นฐานที่ใช้สำหรับเสริมพลัง",
    "lore": "แม้ว่าจะมีขนาดเล็ก แต่กลับถูกสร้างขึ้นด้วยเทคโนโลยีที่คนในยุคปัจจุบันยากจะทำซ้ำขึ้นมาได้<br /><br />\"สกรูตัวเล็กๆ ในโลกยุคเก่านั้นแข็งแกร่งกว่าเกราะของเราเสียอีก\"",
@@ -140,6 +141,7 @@
    "rewardPath": "/material/549408",
    "comeFrom": [
     "ดรอปจาก Automaton",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "รางวัลคำขอ",
     "แลกเปลี่ยน Ember",
@@ -151,7 +153,7 @@
    "id": 633349,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "7089e982e18575f3824ab28ae0e91f40c8214edf6253a7162142bdc7fc0acdbe",
+   "iconPath": "eee031381b2ae54c8df870a7c9f5089dfb9b6fa995a2c2ff29efb09bbffa02ef",
    "name": "Ancient Spindle",
    "desc": "เพลาของเครื่องจักรที่หลงเหลือมาจากโลกยุคเก่า เป็นวัสดุธรรมดาที่ใช้สำหรับเสริมพลัง",
    "lore": "ชิ้นส่วนที่ประกอบเข้าด้วยกันอย่างแม่นยำแล้ว หากถอดออกมาจะไม่สามารถประกอบกลับเข้าไปใหม่ได้อีก แม้แต่ช่างซ่อมผู้ชำนาญในแผนกเทคโนโลยีของ Belobog ก็ยังต้องคิดให้รอบคอบก่อนที่จะแตะต้องมัน<br /><br />\"เจ้าบื้อ เอาของแบบนี้ไปให้เจ้าชุดเกราะสีน้ำเงิน ก็เหมือนกับว่าให้กระป๋องที่ไร้ค่าสองสามอันแค่นั้น เอาไปให้ท่าน Svarog เถอะ รับรองเลยว่าเรื่องกินเรื่องใช้สบายใจหายห่วง\"",
@@ -161,6 +163,7 @@
    "comeFrom": [
     "ดรอปจาก Automaton เมื่อระดับความสมดุลถึง Lv.2",
     "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
    ]
@@ -169,7 +172,7 @@
    "id": 635673,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "9fe7d5d3bec56787a53e9acfa89161bc0599ba7b6a3a0d95eb60863ff6dcd006",
+   "iconPath": "c34484b3ccf3e5f1f4113e3c24d465e8d93dd5fcb95446241a8c08d6f65a0d27",
    "name": "Shattered Blade",
    "desc": "ชิ้นส่วนอาวุธที่สมาชิกของกองทัพ Antimatter ทิ้งเอาไว้ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ทำลายล้าง</span>ได้เล็กน้อย",
    "lore": "ตรานี้แสดงถึงลำดับขั้นและความสำเร็จในนามของการ \"ทำลายล้าง\"<br />เจ้าของอาวุธชิ้นนี้ควบขี่อาชาแดง จุดไฟขึ้นในเมือง ทำให้ผู้คนลุกฮือต่อต้าน และทำให้อาณาจักรล่มสลายราวกับฝูงมดที่แตกกระเจิง<br /><br />\"ผู้ที่ครอบครองตรานี้ ได้รับคำสั่งให้พรากความสงบสุขไปจากแผ่นดิน\"",
@@ -186,7 +189,7 @@
    "id": 717290,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "4ef8700321d72ae07d3b931df6b9f6567d87f4035e2afed42d53e7c53aa09ceb",
+   "iconPath": "e57cd777cd6ae2ec9c4d8aa0fa1e9a18f5114a2b78d59db8bcc9231d470f77fc",
    "name": "Ancient Engine",
    "desc": "เครื่องยนต์ของจักรกลที่หลงเหลือมาจากโลกยุคเก่า เป็นวัสดุชั้นสูงที่ใช้สำหรับเสริมพลัง",
    "lore": "มันใช้ Geomarrow เป็นแหล่งพลังงาน เมื่อขับเคลื่อน มันจะไม่ได้เปล่งประกายไฟออกมา แต่เป็นแสงที่กระจัดกระจายไปทั่ว<br /><br />\"มีเพียงแผนกเทคโนโลยีที่อยู่ภายใต้การควบคุมของผู้พิทักษ์สูงสุดโดยตรงเท่านั้น ที่มีสิทธิ์เข้าถึงข้อมูลเกี่ยวกับโลกยุคเก่าได้ ส่วนฉัน หลังจากที่ถูกไล่ออกก็เข้าไม่ได้แล้วน่ะ\"",
@@ -196,6 +199,7 @@
    "comeFrom": [
     "ดรอปจาก Automaton เมื่อระดับความสมดุลถึง Lv.4",
     "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
    ]
@@ -204,7 +208,7 @@
    "id": 836259,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "d9e262af4f143c0b58be9d20f5c04e04a252fb8f05eb675c0996f5b1bc8f6ad5",
+   "iconPath": "da98edf78f23a9c80090c50d9633d6cdf6d43fb74d873ffa5f791126205599d4",
    "name": "Worldbreaker Blade",
    "desc": "อาวุธแตกหักเสียหายที่สมาชิกของกองทัพ Antimatter ทิ้งเอาไว้ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ทำลายล้าง</span>ได้เป็นอย่างมาก",
    "lore": "อาวุธนี้แสดงถึงลำดับขั้นของเจ้าของในกองทัพและความสำเร็จในนามของการ \"ทำลายล้าง\"<br />เจ้าของอาวุธนี้จะปรากฏตัวขึ้น เมื่อสงครามสิ้นสุดลง เพื่อจุดไฟแผดเผาโลก ไม่ว่าทวยเทพจะโปรดปรานแค่ไหน ไม่ว่าจะรุ่งโรจน์สักเพียงใด ดาวดวงนี้ก็ยังถูกลิขิตให้สลายและมืดดับไปในส่วนลึกของท้องฟ้าที่เต็มไปด้วยหมู่ดาว ราวกับถ่านที่มอดดับลง<br /><br />\"ผู้ที่ครอบครองตรานี้ได้รับคำสั่งให้ชำระล้างโลก\"",
@@ -221,7 +225,7 @@
    "id": 866633,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "8e0cd81aa41c7849a5da687f6b40c0b3ccec417ef1924c802b70c03021e69317",
+   "iconPath": "7e62afd36b2314862d8208b2b8eb130f8535f7edeafba247854fd020f67d9260",
    "name": "Broken Teeth of Iron Wolf",
    "desc": "ชิ้นส่วนฟันเลื่อยที่ Automaton ทิ้งเอาไว้ วัสดุเลื่อนขั้นของตัวละครประเภทกายภาพ",
    "lore": "ว่ากันว่าเทคโนโลยีการผสมโลหะของผู้สร้างเมือง สามารถสร้างเลื่อยไฟฟ้าที่ผ่าแยกหินออกมาได้ แต่ปัจจุบัน งานฝีมือที่ประณีตเช่นนี้ไม่อาจเลียนแบบได้อีกแล้ว<br /><br />\"ท่าน Svarog บอกว่าใบมีดนั้นบางจนตัดถึงช่องว่างระหว่างโมเลกุลได้เลย... ว่าแต่โมเลกุลคืออะไรกันนะ?\"",
@@ -237,7 +241,7 @@
    "id": 920200,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e8f74ef086a603eed69945d0872fbbc9776145890808104be58b4d30dca2d7a",
+   "iconPath": "31324efb8271c657d2271c0c656cf3c265165e1b1de5ab0a1355397703472c11",
    "name": "Lifeless Blade",
    "desc": "เศษอาวุธที่สมาชิกของกองทัพ Antimatter ทิ้งเอาไว้ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">ทำลายล้าง</span>ได้ปานกลาง",
    "lore": "ตรานี้แสดงถึงลำดับขั้นและความสำเร็จในนามของการ \"ทำลายล้าง\"<br />เจ้าของอาวุธชิ้นนี้เคยเกลียดชังสิ่งมีชีวิตที่มีความคิดทุกตน พวกเขาฟังเสียงร้องครวญของสิ่งมีชีวิตทรงปัญญา ราวกับฟังบทเพลงเสนาะหู พวกเขาทำให้หอคอยแห่งอารยธรรมหลายพันปี พังทลายลงมาในชั่วข้ามคืน<br /><br />\"ผู้ที่ครอบครองตรานี้ ได้รับคำสั่งให้ช่วงชิงลมหายใจไปจากสิ่งมีชีวิต\"",
@@ -439,16 +443,16 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "8f8790969911e36a227127407eed5042025561069e68c7c2f8c784cf5b134191",
-   "artPath": "7dc619842d808c5593275d784b96e46f901d62d81f4fbdfc9a4fc7e171690187",
+   "iconPath": "8710fb1a0f8aaa2da6d52334d61c6f449b8c7586e7d7c24df717bef8ef632528",
+   "artPath": "4a7c180ec7c961faee21e24fbc057174789723c19f85add6cf47236cbf8bdd2b",
    "name": "A Tall Figure",
    "descHash": "หลังจากปล่อยสกิลต่อสู้แล้ว จะไม่ลบล้าง \"Mark of Counter\" ของศัตรูเป้าหมาย",
    "params": []
   },
   {
    "id": 2,
-   "iconPath": "2c711153bf2d3340bde28061813f7771c0114d1eb69cefd4e0e041830046ef03",
-   "artPath": "ed463cafcb7c40c2aa757f672f983b7ea7f1b3f6ab6a039e3804063a628eee73",
+   "iconPath": "729d6778bb890c7adbdc811a71d74754b3319873c80d5de9b4500ed8226b7f05",
+   "artPath": "eef148752ed1f5a8d070b4f53dfb1dcd68a9d409c63a538724dd425330b11d8f",
    "name": "A Tight Embrace",
    "descHash": "หลังจากปล่อยท่าไม้ตายแล้ว ATK จะเพิ่มขึ้น <nobr>#1[i]%</nobr> เป็นเวลา <nobr>#2[i]</nobr> เทิร์น",
    "params": [
@@ -458,16 +462,16 @@
   },
   {
    "id": 3,
-   "iconPath": "eef0b42db08a04eb0206a268ebaeca9c1d914e08a7a6e0bf80a563f1a39f311a",
-   "artPath": "4564641c96a25463e1b78049043073f99678f2b35720a90bbced9bb0fa5d187f",
+   "iconPath": "b7c2fac77a90b270b1834aa5ffd0362b33f38e5438bae9c521aa3c8de02560b2",
+   "artPath": "4e2c3cf3098eb4b75980adb81c38a07be1474aefe72a4fb56b5316834bded740",
    "name": "Cold Steel Armor",
    "descHash": "เลเวลสกิลต่อสู้ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน Lv.<nobr>10</nobr>",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "74429e4225b09b243be618a3a6d47c880fae99a9224057a3a052619993149638",
-   "artPath": "48b6e3b95e2d61933c4a6a34aa6c78294443f101c4b2b2272df8d1893602fb9b",
+   "iconPath": "d3c37b35a39c199874f5b11a9d7be726c947d802267695b7dfd567d7dc5f58ad",
+   "artPath": "bcc5e475f5f14a2cae5a94cc654c301c00027d5444e838265e234d3a93d9217b",
    "name": "Family's Warmth",
    "descHash": "หลังจากโดนโจมตีแล้ว Clara จะได้รับ DMG ลดลง <nobr>#1[i]%</nobr> และเอฟเฟกต์นี้จะคงอยู่ จนกว่าจะเริ่มเทิร์นถัดไปของตัวเอง",
    "params": [
@@ -476,16 +480,16 @@
   },
   {
    "id": 5,
-   "iconPath": "04b2e80597267a65bb827f1bc2f27a013bf8c29344df95c64ab59bef6cf139be",
-   "artPath": "513fed42413ea6eca6ca17965a1ffa63406f503b653f6a83c6f5fb960e87db81",
+   "iconPath": "c758094e543452a5a65fd6fb469d22aa5547674eee85631d40f6197653c4de6b",
+   "artPath": "c039825cb8396fadd31ba5faf689697494227d463f77f7905dcea398ca74375d",
    "name": "A Small Promise",
    "descHash": "เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr>",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "7d49497cb07360a36461482dc67406825ef9b82e7d8571387a76d3bf4f129ab6",
-   "artPath": "51972ca775d6782cb457b093ce9c9f258993999262c02d5deecd28947c6f9021",
+   "iconPath": "271d3bdfdf8887e71f22f137d2d6fe6b5a6db155aa4b878a352711a6af503bd6",
+   "artPath": "238257725efa29126a176bf6b02954d76fac8bcef1876390b11bb75c2f8063cf",
    "name": "Long Company",
    "descHash": "ทุกครั้งที่เป้าหมายอื่นในฝ่ายตัวเองถูกโจมตี Svarog จะมีโอกาสคงที่ <nobr>#1[i]%</nobr> ที่จะโต้กลับผู้โจมตี และทำเครื่องหมาย \"Mark of Counter\" แก่เป้าหมายที่โจมตี เมื่อปล่อยท่าไม้ตาย จะเพิ่มจำนวนเสริมพลังการโต้กลับ อีก <nobr>#2[i]</nobr> ครั้ง",
    "params": [
@@ -520,7 +524,7 @@
    "energy": "20",
    "id": 310670,
    "name": "I Want to Help",
-   "iconPath": "55c6a54849e53476c885eb944b41b28a3b07a9e74f7d36644f1e73be30e144ac",
+   "iconPath": "d6879870aafb7a9b021225a29304e7998942f1006962ed52d457481a12b7b559",
    "typeDescHash": "โจมตีปกติ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -681,7 +685,7 @@
    "energy": "30",
    "id": 226729,
    "name": "Svarog Watches Over You",
-   "iconPath": "eef0b42db08a04eb0206a268ebaeca9c1d914e08a7a6e0bf80a563f1a39f311a",
+   "iconPath": "b7c2fac77a90b270b1834aa5ffd0362b33f38e5438bae9c521aa3c8de02560b2",
    "typeDescHash": "สกิลต่อสู้",
    "levelReq": 0,
    "promotionReq": 0,
@@ -971,7 +975,7 @@
    "energy": "5",
    "id": 110084,
    "name": "Promise, Not Command",
-   "iconPath": "f385e041cd5df7c91bb75f0068576f3b713b02014926ac408a58948958d10abc",
+   "iconPath": "fcb92a9e6094ff086b9e8db65f58e9e4909c762aed711c5220d785f638a392cb",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1306,7 +1310,7 @@
    "energy": "5",
    "id": 795783,
    "name": "Because We're Family",
-   "iconPath": "ebda0aa747e1d90f18218b542e6e17536f052f543f225f221e959505d30abf29",
+   "iconPath": "26f85f8d4810b601629794ec20b0c93754593f68cd0442b0eb9f3102d9419e86",
    "typeDescHash": "พรสวรรค์",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1611,7 +1615,7 @@
    "energy": "0",
    "id": 595197,
    "name": "Attack",
-   "iconPath": "55c6a54849e53476c885eb944b41b28a3b07a9e74f7d36644f1e73be30e144ac",
+   "iconPath": "d6879870aafb7a9b021225a29304e7998942f1006962ed52d457481a12b7b559",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1633,7 +1637,7 @@
    "energy": "0",
    "id": 511256,
    "name": "A Small Price for Victory",
-   "iconPath": "77d630d536c58a7d2c6c344ce20df335dc5366d1685e9f35718bcd9508bac383",
+   "iconPath": "1ce9b8df95949fa4c834a4ba8cd78ddd940f9abd994bf104d9ba71d09cd360cc",
    "typeDescHash": "เทคนิค",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1677,7 +1681,7 @@
           "name": "เสริม HP",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+          "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
           "statusList": [
            {
             "key": "HP",
@@ -1706,7 +1710,7 @@
         "name": "เสริมการโจมตี",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATK",
@@ -1735,7 +1739,7 @@
       "name": "เสริม DMG - กายภาพ",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+      "iconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
       "statusList": [
        {
         "key": "เพิ่ม DMG <span style=\"color:#FFFFFF;\">กายภาพ</span>",
@@ -1764,7 +1768,7 @@
     "ultimateCost": 0,
     "id": 947875,
     "name": "Kinship",
-    "iconPath": "cc889122f83844dd33a5c8e0bc5ae2efcd1a35140fe1640c6dba5f0710248b09",
+    "iconPath": "98f96714c2348f0980b9ea7053bedea46b50dccf0cbd4cc6adf144b6b4d4c964",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1818,7 +1822,7 @@
           "name": "เสริมการโจมตี",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+          "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
           "statusList": [
            {
             "key": "ATK",
@@ -1847,7 +1851,7 @@
         "name": "เสริม DMG - กายภาพ",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+        "iconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
         "statusList": [
          {
           "key": "เพิ่ม DMG <span style=\"color:#FFFFFF;\">กายภาพ</span>",
@@ -1876,7 +1880,7 @@
       "name": "เสริมการโจมตี",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATK",
@@ -1905,7 +1909,7 @@
     "ultimateCost": 0,
     "id": 947878,
     "name": "Under Protection",
-    "iconPath": "afdcdb87e7c399296d31a032019db6a9a94a4fc0127d9abd44e5feb81f284f6f",
+    "iconPath": "65f62d3091ca7f9b0b851cb90f610874aaf769140880b892b1014a9bb3d2233d",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1958,7 +1962,7 @@
         "name": "เสริม DMG - กายภาพ",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176",
+        "iconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69",
         "statusList": [
          {
           "key": "เพิ่ม DMG <span style=\"color:#FFFFFF;\">กายภาพ</span>",
@@ -1991,7 +1995,7 @@
         "name": "เสริมการโจมตี",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATK",
@@ -2020,7 +2024,7 @@
       "name": "เสริม HP",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -2049,7 +2053,7 @@
     "ultimateCost": 0,
     "id": 947877,
     "name": "Revenge",
-    "iconPath": "cc6e05dc0193ad6499bc5a29d44cfbdd6b0d771611d0bfbc1c2f9d949dc423f3",
+    "iconPath": "4c578310ff03bfc58b7648e4534b98d8cfc408dd7513182e8f62a3c582cb3f6e",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2092,7 +2096,7 @@
     "name": "เสริมการโจมตี",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATK",
@@ -2118,27 +2122,27 @@
   "props": [
    {
     "relicTypeHash": "ลำตัว",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "อัตราคริติคอล",
-    "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8"
+    "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695"
    },
    {
     "relicTypeHash": "เท้า",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "ATK",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "Planar Sphere",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "เพิ่ม DMG กายภาพ",
-    "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176"
+    "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69"
    },
    {
     "relicTypeHash": "Link Rope",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "อัตราการฟื้นฟูพลังงาน",
-    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+    "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc"
    }
   ]
  },
@@ -2148,480 +2152,480 @@
    "title": "พบกันครั้งแรก",
    "text": "Clara: สวัสดี... ฉันชื่อ Clara พี่มาเป็นครอบครัวของฉันได้ไหม... แบบคุณ Svarog น่ะ<br />Svarog: มีฉันอยู่ตรงนี้ ผู้บุกเบิก ก็เป็นครอบครัวของเธอแล้วล่ะ",
    "unlockRequirement": "",
-   "cnUrl": "d0ac6df6c5f94952860076b9d8eca62273bb7ddcc991bfea690f2432a032f8c8",
-   "jpUrl": "7d042ece6dec5a097c3183cb92055e128970658c731be80cef181aea97a1d668",
-   "enUrl": "2e481c6b05b4eb2163de6d8f0ac24e59f598e213fd50dad554eaeba2d04efabf",
-   "krUrl": "7bc729cc6c392ce99c529a0b8bf9afcd07ac8cf19401007836778e9cab8a8ed4"
+   "cnUrl": "d37e1b8fdd689bbf45169fc7f9d47410d501756f37b4ac6a055beb1d55ac7b31",
+   "jpUrl": "16a74fcae1ac3fc2afe5b6d7b03c4b3025de9add2d5d267e9c2b5520568b7aad",
+   "enUrl": "5c744617fb9a9d87ae411b76ab9ab2452ab0bda30ae5c7facdc41562441a9f9f",
+   "krUrl": "420da0cd92c91b85ed4379f46b57b40f394ce1c6ef704d361432986f57e5a8e6"
   },
   {
    "id": 2,
    "title": "ทักทาย",
    "text": "วันนี้ก็มาสู้ไปด้วยกันกับ Clara เถอะนะ",
    "unlockRequirement": "",
-   "cnUrl": "f75f50bab9eb4edfc8f0f511e2830d045bb62c2740c7514bc46f072fb2fc8868",
-   "jpUrl": "7ff0c00bc02ebed561573fb2c57fd5fcfabdd2af559786b91d8d0e44bfdd6f59",
-   "enUrl": "3b1aecbae0dba04f2f4455128912268db17c630cba6daf7ae6433b8d4321bc61",
-   "krUrl": "d4697e89be252957ccb769544f9cd5a2108b8e50a9b8df171dfe72f5d86817bf"
+   "cnUrl": "375ceacea93cfeb75a854e00c82311a19ad911201d2fedff917042043c88a218",
+   "jpUrl": "79016e3a686f320285dd53eb1c5b6d236dd25be13e3c7359dc040b823981fc7c",
+   "enUrl": "31abaadf99a5a2ea976b8818f59474e18e06994dd68dd8e0c36a8d5a19ba320c",
+   "krUrl": "f2c9a44835bfe1bcb4331632325b8325b9db7e441defd1624a4bfc063ae815d5"
   },
   {
    "id": 3,
    "title": "บอกลา",
    "text": "Clara ก็ง่วงแล้วเหมือนกัน อยากไปนอนอยู่ในอ้อมแขนของคุณ Svarog สักหน่อย พี่อยากลองดูมั้ยล่ะ?",
    "unlockRequirement": "",
-   "cnUrl": "0c39761947c982d369f03a2bd7cb4fe4096618a9836f371ef1b0a7a127432617",
-   "jpUrl": "39ff2ac26b92fc9304d1c80110f1470957076e806847ae058c8f66ba1de8afb1",
-   "enUrl": "8a8e737e507998f3532f58cb27cf082e4bfebf719e88e7e7b352ef6f92bda417",
-   "krUrl": "a4fe2fd0d220ded1646b66f41318102638a0b97ba7f2cc342d430bc7c1c4fd48"
+   "cnUrl": "79c043d43278036292aceb718e0bb13c74a250248e357ee230718304c5351e74",
+   "jpUrl": "ecd6f5989b730affacb969a6e829d998451c632f9fb4a2a42d1c7f9724309ee3",
+   "enUrl": "7560c5669f9f1b957aeed2765a270b523fee9d2f9be4fded09c93ead1646f527",
+   "krUrl": "e42283ab5777580e960b9a39ce95e697d113323f5926aca5c8ccfea1a7a23b8d"
   },
   {
    "id": 4,
    "title": "เกี่ยวกับตัวเอง - ความทรงจำ",
    "text": "แม้จะเป็น \"การคำนวณ\" ของคุณ Svarog ก็ยังหนีไม่พ้น \"ความทรงจำ\" ของทุกคน... เพราะงั้น Clara ไม่มีทางลืมทุกคนแน่นอน",
    "unlockRequirement": "",
-   "cnUrl": "bd5a3893da429ea709ec137e93bf762e1f7386487bd4d6560f23ba692e564188",
-   "jpUrl": "ac5b21b57bec83674041016b952efab3e00b04360147827602891b625ef2b0f0",
-   "enUrl": "ab80d932f60dbc8397f67c5fe3c18aeeb043297d45460ad707dae06a7a9dcb24",
-   "krUrl": "c85fdefd2a0ca9506acdf308e5a23cd7a337b457c1899228b034f03284fed520"
+   "cnUrl": "c6fb70fa63955e6f5a8739b92988fe12dea08e11aeee24c2b71fcf7532f8a417",
+   "jpUrl": "0744d2f3e417648ef80ca880e0a27ffeba50a34b54b756f358f2ce3e73eb4f20",
+   "enUrl": "54cc60601692bd85e6c0c02e6b18c9c2803df2a846751ffac7dd59f87c1ceb27",
+   "krUrl": "c60fee693a807e495e96892f0d2e23befdf8947db6b77e13a313f24dba68c923"
   },
   {
    "id": 5,
    "title": "พูดคุยทั่วไป - เล่นพ่อแม่ลูก",
    "text": "สมัยก่อนตอนที่เล่นพ่อแม่ลูกน่ะ Clara ให้พวก Perkins ออกไปเชิญแขกมา ผลสุดท้ายก็มีคนตามกลับมาจริงๆ ด้วยล่ะ~",
    "unlockRequirement": "",
-   "cnUrl": "db6a1a61cb29534eade85f5488e87337250e0f64873a6c1785193d9d6cdda380",
-   "jpUrl": "24b29efad77bf8c50394b11c5437b024bc77e3b945f38e5e9bfa6934764de538",
-   "enUrl": "41d38c257ad5060daba6cc4184bf272dd0384ff83cc3dfcef6e8a924ca99ea2b",
-   "krUrl": "e26717f62f000ce6176e77a7a4b30796fd27a6a0435ca9a11038cd35a7d80c1c"
+   "cnUrl": "44108282c5c2a4f1b2b7f8a550a9aeb732a04aac1503aa1d6ada340723be1357",
+   "jpUrl": "2fdc82dc47d9a117d2ae75fb3a8cf939980d5e55db2fa196aa7369fc41c0072c",
+   "enUrl": "311fbe4395b57dd3d554abf4b5e4b66a708d6f25e8aba10cadc995e956feb607",
+   "krUrl": "cce9742e7b288fc1c18b531478535f0db9c00bbe89f995f9b5612e89c651e8b5"
   },
   {
    "id": 6,
    "title": "งานอดิเรก",
    "text": "คลังความทรงจำของคุณ Svarog มีเรื่องน่าสนใจอยู่มากมาย อย่างเช่น \"ภาพยนตร์\"... เหมือนกับมีคนมาร่วมเล่นพ่อแม่ลูกด้วยกันเยอะแยะเลย!",
    "unlockRequirement": "",
-   "cnUrl": "0a6c68284035eb91fdb21218fa2c6bb3aa7d9087dbb0107531996643450dbc77",
-   "jpUrl": "5e6a2e5f4325010470445ab703ae6a6ca5aad4a0886e92a1cb7f90b2537e1c06",
-   "enUrl": "1680c870bd26e161ece612671cc4e0a076b2859b8c7448f2ac9e5c9ec883cf4e",
-   "krUrl": "b4d5480f3736c991b9a6c32b73bfa94fe3ef2f250e1e9c3d8baa20cdd28bc5ad"
+   "cnUrl": "5d1f46affec3e7b5698bc69afa9d2b20b2201b26bb5bf13ed2fab9893d77db88",
+   "jpUrl": "2de8afe53f2c2eca3bdfa3cc7d0235c3c674c076493884107d0175500ab42d13",
+   "enUrl": "0a34d45e9dfcad766c2f57a13f1f43f8e3e00bc97d4dca7a27c103ea2e689be1",
+   "krUrl": "eb06ab425b34b8b49c22d01a36d1b970e744c7195ca4aac59601fc303b4190da"
   },
   {
    "id": 7,
    "title": "เรื่องกลุ้มใจ",
    "text": "การจะขอให้คุณ Svarog มาเล่นเลียนแบบ \"ภาพยนตร์\" สักครั้ง เป็นเรื่องที่ยากมากเลยล่ะ เขาชอบเล่นเป็นต้นไม้ไม่ก็ก้อนหิน... คุณ Svarog มาเล่นเป็น \"คุณพ่อ\" ให้ไม่ได้เหรอ...",
    "unlockRequirement": "",
-   "cnUrl": "3846b184dae39fee3c5b7c33e99d8160ae8368495461d1c95bdc057d0ad0540e",
-   "jpUrl": "43d1523f120f2fb47c4ae26e1a45422d9a04253b42af8d36ca99aab8958e54f1",
-   "enUrl": "f9dc9e224f512a6157d0e3a464635860f04d48bbf2275a0eb15092d875d544e1",
-   "krUrl": "8b82a13ae12f54e4e3f8a119c1b57566bc1b8a2ebc5e6deb7005106ff551a5d0"
+   "cnUrl": "abe0d8d41abe97f5e26a66d743f4c02898975ceffb03fb2bcefc94c162d18185",
+   "jpUrl": "20c99a725a24861091f489fe84e7ceb16c6940b3d47ec2401f5fa86f5ef28a44",
+   "enUrl": "d7ae83334444f7932fca2a057189bbcf3c9a66b5beeb47a32b1b85dc1348964e",
+   "krUrl": "343c60074e50ce29464d3feb6116f975d00fd2c26e1b5d6f263adcec61073535"
   },
   {
    "id": 8,
    "title": "เรื่องที่อยากจะแบ่งปัน",
    "text": "ถึงแม้บางครั้งพวกเพื่อนๆ หุ่นยนต์ของ Clara จะพูดจาหยาบคายไปบ้าง แต่ก็เป็นเด็กดีที่ไม่พูดโกหกทั้งนั้นเลยนะ",
    "unlockRequirement": "",
-   "cnUrl": "229b5a2126f52250cae81d7f18c048d78fb1285db868d8b15f658a1807d88f4b",
-   "jpUrl": "f5e2fe3a76a25072dd4301f80f38fa1a2ccdf59a65ba1e6af879a5f7994796a0",
-   "enUrl": "ea472dc0dcc00aadb134b0549eca6a79cb890cd58ad6cbe22499bd6d6b5504bd",
-   "krUrl": "68a3da56e61a03b01396567bb5473bb0fd1535640d5e3f548718ed7482c215c6"
+   "cnUrl": "e2777e6d3ec3f708f6c79f5d47ac32fee87997acfa87bcef141f2fbdde895484",
+   "jpUrl": "1fd5a4befeb709f21d688f76e646ee13a8c822f728a1040cee448772309c909f",
+   "enUrl": "b325ed37ba0fc665253b65ee5fe1cadf0e9997d691c1b91aa645efdcc396d8d4",
+   "krUrl": "17f67538c171088cf2881aaceadbdab74f0db6c621c143494d018798e8b5bd69"
   },
   {
    "id": 9,
    "title": "ความรู้",
    "text": "ตอนที่คุณ Svarog กำลังพักผ่อนอยู่ ร่างกายก็จะส่งเสียงออกมาด้วยล่ะ เหมือนกับ... เหมือนกับกำลังกรนอยู่เลย~",
    "unlockRequirement": "",
-   "cnUrl": "c93bc27987ef107fe05b3ab804ec998a73fb3f477124eb6c83a2129dfc957e74",
-   "jpUrl": "cdeff275ab959b9691dbaa2d9f06dda3213ae4e5cf3f0942b8616dd915e4447f",
-   "enUrl": "e6d09d5ed89591029e29cfdb0cb94655c4c261704433f212f68f88896ce0c901",
-   "krUrl": "039e44d8da1e8f619515d003c61c14bf56f496fa4f283bd83781ba8d662b8bed"
+   "cnUrl": "4829c2674850d7e125de2487c23c8c4a429578aa06e0ff1a6492ab1946109645",
+   "jpUrl": "940f650d81adf1f36b9dc3884509e99902b6da7de35cefe6462ad9d2e5e5de91",
+   "enUrl": "9b5d79bbb3b11b10c3a69c38bdf476d263bc0d3a26fd1e4fd35c5fca51583bf9",
+   "krUrl": "4e31a92a9229c9f9981f58ef0916a067ce2940b255dfde628b6a603559ff8356"
   },
   {
    "id": 10,
    "title": "เกี่ยวกับ Natasha",
    "text": "พี่ Natasha บอกว่า Clara ก็เป็นหมอเหมือนกัน แต่เป็นหมอให้เพื่อนหุ่นยนต์น่ะ",
    "unlockRequirement": "",
-   "cnUrl": "c688ab4b33f5cfdc138ef684322e5d147ccd3be8a940f8d30247484c4d206cd9",
-   "jpUrl": "034387b2378a767f5320f85af7943af8314084bc45eb38bf38405618f799dd1c",
-   "enUrl": "73af0cd5e2c83d15933f188f5b83497d6667379d4a6f1c2a4986bc2fd9c6070f",
-   "krUrl": "90bbf65b1d30555d985298bd073a6831f4d52a74047172b6fbcb3dd06f3e292d"
+   "cnUrl": "c16811cd5f4ed417b117835578abac4aa9feed8deb1a7ff51ea537c1e4cb5510",
+   "jpUrl": "627f4cdb45fac661ea4e1a6e712865553774f4d8871047b7fc36cbf177133a3d",
+   "enUrl": "2b53147d0cf257fb8a8a16a474f4e25550e4251727d6bfd1c316c1f2f3382ecd",
+   "krUrl": "5295cec8d87a59db9b967716fb1ff86ac82fa63e89eea9fbe8c6cd8d8e60ca2c"
   },
   {
    "id": 11,
    "title": "เกี่ยวกับ Seele",
    "text": "มีอยู่ครั้งหนึ่ง ชิ้นส่วนที่ Clara ต้องการติดแน่นอยู่ในก้อนหิน แล้วพี่ Seele ก็มาเห็นเข้าพอดี เลยใช้มือเดียวทุบหินจนแตกเลยล่ะ... Clara ยังไม่ทันได้เอ่ยขอบคุณ พี่เขาก็เดินจากไปซะแล้ว...",
    "unlockRequirement": "",
-   "cnUrl": "8f1f6feaa4f4d1412b9c51ee7ea3204795c491a21f9d90ca4228f9e1580140a2",
-   "jpUrl": "727528661790ca3e4baa225de0994e5520a4e851104249374c7a734bca643aae",
-   "enUrl": "ef7ea256d64b07cfead361e9cc065d308924244e46d34655cad4db28fc81b2cc",
-   "krUrl": "8622c14f30002486c713aa484aeffcd1eee27869b1b91e92051b9e7b6609fd7c"
+   "cnUrl": "abbb5fb3af7e37b5d8bc6e78e9ac6474f5f487a9c9e8855873159b3524d36227",
+   "jpUrl": "c796a1727b6fe9cd9a539e35bd964fca6a2ccf5c7cf8c6504205aaec7b3013dc",
+   "enUrl": "cd9f8d516bcd3611a6eadfeef244ae89759f8b717d3d7a9e606a3bc9406a9d9a",
+   "krUrl": "4e05e2ddd20ae8738d673f0d408e12595fb1e81b1447c55b2d4caff44c55035d"
   },
   {
    "id": 12,
    "title": "เกี่ยวกับ Svarog",
    "text": "อันที่จริง... มือของคุณ Svarog สามารถเป็นเครื่องจักรที่ช่วยเป่าผมให้ Clara ได้ด้วยนะ แถมยังผ่าหินก้อนใหญ่ๆ ให้เป็นโต๊ะกับเก้าอี้เล็กๆ ได้อีกด้วย...",
    "unlockRequirement": "",
-   "cnUrl": "e311e8f5d49b4045beb1783f51a53c23830e15445c6faa51d44649b521851190",
-   "jpUrl": "b67e2fd79cb5fb9ca5e72135276be0ca103d192339c76b40587702934830d7ac",
-   "enUrl": "fd3a07f870c769991aeadf38a70b5055b48612a0e603f1c076955bb6f99533cc",
-   "krUrl": "03dc1237906135a9e7d196797c6024ac134b07403cf349c270a0536e4d0219be"
+   "cnUrl": "032d6dcd1047161b0704299d037e8177539ecb485ca37985eff8e679679e62b8",
+   "jpUrl": "d7d1a472913402e3dfa5bf67a862adf45ef8adf674fd1fd41ba5d77ebeed374b",
+   "enUrl": "cf073282af6eff0b0e5377d060312d99efdd0b98acf57185291b1708bacdb21a",
+   "krUrl": "3c2036d974fde5befece2e0dcbf0aa3bc46fd03ffbef52da750053f2801e334e"
   },
   {
    "id": 13,
    "title": "เกี่ยวกับ Hook",
    "text": "Hook ชวนให้ฉันเข้าร่วมแก๊งตัวตุ่นด้วย แต่ว่า... ถ้าเกิดต้องเล่นซ่อนหากัน แล้วคุณ Svarog จะทำยังไงล่ะ...",
    "unlockRequirement": "",
-   "cnUrl": "bca5f9efe9aef71bbe4886da970314ad43734b5b96fc6c82687fa67ac187e65d",
-   "jpUrl": "9dfd901ff0de0694d5d3e3e6053c1f28ddfa78795be93f7fd7b676e197f57ddb",
-   "enUrl": "a9cfac0de75d13613d771bf89d810bf69d84ae28497f4511a709af4b1fff2e8a",
-   "krUrl": "2bbde96f362f79573df763d39929bbbf7055de7caecbf2a3e25a9757330917e0"
+   "cnUrl": "d8801242ed7df8b768276c12d2e708892619da526c42dc603c0ee1eb34e0c827",
+   "jpUrl": "06eacbbd7f0d14d07554094447c2a8e5113e5bf2cef5f07c5fdaf41b8ac7aba0",
+   "enUrl": "dcef5c2182a0244190140b9ca9cdb590ce9842691e206c991aeadab554c22ed3",
+   "krUrl": "1e02d147b720b19dd21fd4a1b6408460991ed95fa2220c52fb12e164e7ba7fce"
   },
   {
    "id": 14,
    "title": "เกี่ยวกับ Luka",
    "text": "พี่ Luka...เป็นคนที่อ่อนโยนมากเลยล่ะ ถึงแม้จะดูมุทะลุไปหน่อย แต่จริงๆ แล้วพี่เขาละเอียดอ่อนมากเลยนะ",
    "unlockRequirement": "",
-   "cnUrl": "ed986264922493c56a06ba4ed6b59e7003089dbfb3a34e952d870b2006eec902",
-   "jpUrl": "52af0795701016ce62a2bc2645e834386f07faa9017546c7b7250b73b65670d8",
-   "enUrl": "4831c01211eb65565efce7c33b2e2699d74b356378d053ce3bd53f89729457b7",
-   "krUrl": "e8f986e6816c0ba52a11571058558b8b12e68eff503a5246ad0ccb8ab773dd59"
+   "cnUrl": "7f157a7cf5fb286b2397e887775f28319c78c6ad1d3814e25444eae954194eb7",
+   "jpUrl": "083b93a2e3e9ad1b3f0dc2364bc9fa81a7d9f3b8717b2fdfafd16364f532eb36",
+   "enUrl": "716ee0dcc32f870cf37c0dc8a2623513acf9ca4e2d31e6f3badac3ade26764b6",
+   "krUrl": "984bd2a8b528722cba04ae0a86d604d9a3c39537732b72c538c29345c8f31354"
   },
   {
    "id": 15,
    "title": "เปิดใช้งาน Eidolon",
    "text": "อนาคต... จะดีกว่าเดิมใช่มั้ย?",
    "unlockRequirement": "",
-   "cnUrl": "522acd2bd9ba7cf306f6f12285280e44f6b6eaf3cafc8d97489fffc80d1236b5",
-   "jpUrl": "2bce73f567adc6ffcc3c2756efb388b1f304d388d9125c4e17d6238002fd3ee6",
-   "enUrl": "ae185e6d1176df93eb1682c9e33e48edab47b5ffb1cdb051604db79e38b49df0",
-   "krUrl": "0468d0e47df6529e9da1fb8f7b69a9e4701c8d3907ca85022d9eafca2d0a131f"
+   "cnUrl": "ce44a7dfbb36387644a65dd8b347b5b38ac04833ab92e0e4d349d545c19c4943",
+   "jpUrl": "3c3561daf624c8bb27906129412b4552c7bdf8815c4e9a51b1deb431f68f8f87",
+   "enUrl": "da1643fa62a5c1534b03f3e6fb7c229ecb5488ef17f721976d372f1ee8d41384",
+   "krUrl": "61e2eb84f68d485f1ce0dd3d26401101bf590c600f43142a3861b6bf09b0af00"
   },
   {
    "id": 16,
    "title": "เลื่อนขั้นตัวละคร",
    "text": "Clara เองก็ต้องเก่งขึ้นด้วยเหมือนกัน...! อื้ม!",
    "unlockRequirement": "",
-   "cnUrl": "83bad18d207d956ff6f3d37dd65cfb63ce3abbec680278483c5f46421a7640f7",
-   "jpUrl": "2bd0a2a24b2b89f4db3045ad32b18d04481823bd71fe2e4ae9efbaea7239ec9c",
-   "enUrl": "bdeb849d083cfdc1fe48772bfea48cf1cb6fb5f6b2a9ba8052768e965656cf20",
-   "krUrl": "d34dc6eff7ff4903e31841841fe9d976790901229976c46af52ea37268aeff52"
+   "cnUrl": "bdf7349f2cc0ab5920eaf662f8e55b201802264d5e769f83a6d790b2f8c51850",
+   "jpUrl": "8093ecc9eaea189a5c78de40726e96f2b7b03996b184dce59cda3abf9927fb8a",
+   "enUrl": "61ffb26428d03fd4584c190c4d737e51b516673cc68bf576ddea51ca5f8a48bd",
+   "krUrl": "622888945a4b54978ca233a1b3329c0dd452751fe0183b167cdbecb5cd5e6878"
   },
   {
    "id": 17,
    "title": "ตัวละครถึงเลเวลสูงสุด",
    "text": "การเดินทางของ Clara กับคุณ Svarog เพิ่งจะเริ่มต้นขึ้น...",
    "unlockRequirement": "",
-   "cnUrl": "f797a8bcc35b29be6e8b7f52b356ee26b54945c81194eb5d8bef3bf30cd39686",
-   "jpUrl": "047f302c1aa0adb7086611959124a853d621d4c6eedf95184036bf89d19bde2c",
-   "enUrl": "58ee6e9c6bccc5e840005cf7f4f291cd94a86d01189209a8c6e992f168c29072",
-   "krUrl": "a2547b2dff3e16c2a6a031fb7ed6f5ef94e593bd99e254e8cedcb520dc7a673a"
+   "cnUrl": "3e6ee9f4378571079e792f0295cf89027e67e752d864f1837f6e7445b209b0eb",
+   "jpUrl": "fc3ec3ddda8c774fe426e19260d46c1fbcc8e8133081e0582b11ed8cf97f2f87",
+   "enUrl": "5917fa6527337c7d1730af38eecfb99ada1136fffb8642a0ace4e790e4ccddf3",
+   "krUrl": "b71024a7a0c600e936a864d298458a50417b7cc910c389f52190af0db8138253"
   },
   {
    "id": 18,
    "title": "เปิดใช้งาน Trace",
    "text": "ในคลังข้อมูลของคุณ Svarog มีหมดทุกอย่างเลยล่ะ...",
    "unlockRequirement": "",
-   "cnUrl": "e1a9a28ee3e1de6da30184d078a5da3ddb7bcd6646025062f1e2534c1888cfed",
-   "jpUrl": "26210d138f8ca2dd55c8fd4756f4a87d0b0555f8a427cc2f2b6ad32639eef4e6",
-   "enUrl": "492115c07bb4e50719f4a19e06e59f4a5b33bfb50fd1fa120dea7b2db2913423",
-   "krUrl": "b544369882efb5d8f70171d796b8320ab3e840269feee4cdc7a9309fef9d188b"
+   "cnUrl": "e5078130f6276d76f8047e0e02cb70f2f9d1bfb9104e6bf7d5b17f9024559578",
+   "jpUrl": "c36bbbf5eb83fab21fc343d305a8e24e66a66e5b349d0504748c676676ddcebb",
+   "enUrl": "e84f48644099cde92db1ddff45b43a8a996cf344b1c24c4f27c03646428baa06",
+   "krUrl": "4fefb04a3b26cc5a524c4e3765dc9d58a9b52bb9f160279af3cc57a4fb7dbbfb"
   },
   {
    "id": 19,
    "title": "สมาชิกทีม - Natasha",
    "text": "พี่ Natasha... เรามาพยายามเพื่อ Underworld ไปด้วยกันเถอะ!",
    "unlockRequirement": "",
-   "cnUrl": "c93422f7ab54a90bd3c2828aa09d6433cef745f60f05790f5fabeb2bf21a4e08",
-   "jpUrl": "dee5db76d64bc031ce4f940d5491616c30a1a71988e2e087e21f0d26845050f8",
-   "enUrl": "e69cb18e3aeabcb452fde485d0ba0f3cb9485ea01c426aa3747946e5d32abe71",
-   "krUrl": "b5e149f08a6690f9495508f331eb734d72fc9135744f6be8d80ec9a46a266895"
+   "cnUrl": "d8de06cca9dbd7c856385965fd4eeb12fe2b1965b60d908d45b8f366fb749ae8",
+   "jpUrl": "819fdb70d096fa26b628c909610a2cfae66cd1450af82a740b0fa44984805c10",
+   "enUrl": "235409891ef1c17fcda786d66ccd8a8c8e28288692072e81bbd8d7c3440c913b",
+   "krUrl": "091c85ddcbdba56ffbc901d3233899fead5172e14b37b1da17f6e2462a8a1992"
   },
   {
    "id": 20,
    "title": "สมาชิกทีม - Hook",
    "text": "H...Hook ก็อยู่ด้วยเหรอ... Clara จะพยายามไม่เป็นตัวถ่วงนะ!",
    "unlockRequirement": "",
-   "cnUrl": "0091ba0c47fb0536187bb305f6e5a842a38f248d15ab575839853ccc860a71f4",
-   "jpUrl": "f2e5d2042271ec1c89a371c5cf8b70e0e5647f85e8b2a902de3b0f44b4e74b88",
-   "enUrl": "7b97dd23a4159ae9d77a8cc8ff1ffb579de35c0a0f370bb387b0bac0cccc6c31",
-   "krUrl": "eef4a87cf3ce7275efbb34d88131c3a0887430b0b18dd101073daa609791aa69"
+   "cnUrl": "5d639a4d24d52a5275637b5500e56c28d60e0d296d8c1dca3659625bcfdacccc",
+   "jpUrl": "bddd83baf234606822e88a269543e97552c369a6918a2c2229303e19fd72787d",
+   "enUrl": "fe5290ad779a54eb7f46c9a582457700ae1d2f7a6deb931bec906f024e469b12",
+   "krUrl": "6323bc3efa2d7d94e7d027d524022035e1eb4be86a0c7ff5330d9ae78aee09eb"
   },
   {
    "id": 21,
    "title": "สมาชิกทีม - Seele",
    "text": "นั่นพี่ Seele นี่นา! \"Wildfire\" มาด้วย... ช่วยได้มากจริงๆ!",
    "unlockRequirement": "",
-   "cnUrl": "a8c30b9bb92b65ace19664b5ffd753be7fa6b3e1fe9e30ac89c558d180e1e8d2",
-   "jpUrl": "f9a79e9968139c8f63e13067a591f920415edda562887e891ec2fec68ecd05ef",
-   "enUrl": "11e15b4b80528ca078e1ecd73ab18988682581a360d03e7285c26d41e6b5e47c",
-   "krUrl": "2c926e98ae36023068968b537547c5b3ccbc004830ff4aae67a5f8cc86c4923e"
+   "cnUrl": "abb513bb53ef9ebcb30f30580d49d55c591e10deb32488256d38424f8f389182",
+   "jpUrl": "bb5008a1ff8f7d9ff40728f4c62b69bd371316c8923c75a75fe518bb7034548b",
+   "enUrl": "be0d6538c7190a7b07ee5411388a4ad872280749e2639f4e8728236c057c0788",
+   "krUrl": "ce539a222c01427a86d3e380dd349893e5da84f76945ca98cfde08b3951d536a"
   },
   {
    "id": 51,
    "title": "เริ่มการต่อสู้ - ทำลายจุดอ่อน",
    "text": "Svarog: ระดับภัยคุกคามของเป้าหมายลดลง",
    "unlockRequirement": "",
-   "cnUrl": "5cdbf270e0057d1e76da91e1d10d606057b0bee9cfddf0a0c4761041f30b90c6",
-   "jpUrl": "47331a8ea0a98c5ddf2916676b0cdf6480eb6558b345e66e6a192cd0b6789681",
-   "enUrl": "e2254d5ad1e329e59c6943e620d3f01eace481911c76a59fedc2c72164a02ccc",
-   "krUrl": "ce3bd547198b9f1717b0b239cd7eba73aa1df7c68c55521cc31d9f97fc46928f"
+   "cnUrl": "aa64441f80215f10f49636476b2344c24f9d3940ffb8a85fff30efa97c51505f",
+   "jpUrl": "56a76a3e16f252cd923b267c6ed6840ef10da3b26c4dcdeb8305cf000f265a10",
+   "enUrl": "0ea1ca5d23a87795069e1a3853139611d5fb95adc16f58d4274b436455615ba8",
+   "krUrl": "a3a353ba95448def15609c4ab85e8ffa56b478b18e4f1a456478c0631a4e2131"
   },
   {
    "id": 52,
    "title": "เริ่มการต่อสู้ - เตือนภัย",
    "text": "Svarog: ระดับภัยคุกคามของเป้าหมายเพิ่มขึ้น",
    "unlockRequirement": "",
-   "cnUrl": "36ebdb2d2baca47dfe2fd9e983e8aef11a83131b797ea3f8e6041e074eabe45a",
-   "jpUrl": "1248d243420bf31f675116825d3968121b6406fc3c3969dc1ba319a92bfbd4d2",
-   "enUrl": "9dce70aa3862da813fbc2645f90ec7ffe5e39121277a0e481c1fb238875b9df4",
-   "krUrl": "28b063e669cabd19d4b3cf112ab1c0b7f0386c3081a0b594147e642747adfd02"
+   "cnUrl": "76ae6ba74a9203a7ce5ec5cca0cf56ddf04e9360d07882e8b6f02945c562df34",
+   "jpUrl": "2899a04851a55ba76a291f995a52b1e83e33083e1e36a6a322e15817a0a54873",
+   "enUrl": "da81840e90adabc191eb6e45dd425d04724db9d8aed2c0e2268e1de934cddaf0",
+   "krUrl": "d28944e21fc809cff330e814982e592aa2da9256d48f4ba1ce80216e3ba05d98"
   },
   {
    "id": 53,
    "title": "เริ่มเทิร์น 1",
    "text": "Clara: Clara ต้องกล้าหาญเข้าไว้...",
    "unlockRequirement": "",
-   "cnUrl": "e09fa58f1eff35dc562d92e3011c52111409439e678eae8a6d8616c307921400",
-   "jpUrl": "98171ef782eb7571fb620b930d2b556c6496f6e143a74ecd8abf607e230b154d",
-   "enUrl": "bf6b4e617dd7be98b32ccc76e0427e409ba6ae0b1c5020bcd53722e5b8a55d92",
-   "krUrl": "dde92661c8904b54513fa23b2de43442d793589c77758485fec5a2971d4f3098"
+   "cnUrl": "e5fcec98bbdd3f175d1a7f2b8250f341d8ee59b1fa8471d6b20ef040ac765174",
+   "jpUrl": "93c0e3a968c33e125b2ed06d75f6699cca77112b04be2d7ef33ccfb9be4db415",
+   "enUrl": "db4cef19df66d38264ebefc1a430399a07bb6cc209ff535aee0a7096f0d24d3a",
+   "krUrl": "b7b6f586d179059bd338178eba804c446fc99932d8d30f160cfa7480c9a11789"
   },
   {
    "id": 54,
    "title": "เริ่มเทิร์น 2",
    "text": "Clara: ฉะ...ฉันไม่กลัวพวกคุณหรอก!",
    "unlockRequirement": "",
-   "cnUrl": "a585fe2fcec97b898d6f798e9e3e192f7d6347e22af75e82fd47c9319c4a34f7",
-   "jpUrl": "51603dcbf6e24f7b206046c4edbd1b036aa0de492a4df5f81d727dbb7e1a32e5",
-   "enUrl": "fe8ce09cd3154c65e418671f62b2913eb82f5d7b1148e0d3bd3bde4ffbe2441b",
-   "krUrl": "ebdcc638eb1560636eb5463031091ba670c8745561ba394e2fde5066ed0bc81c"
+   "cnUrl": "9f96160b9b93789682dd6c325d135c64dca62c947a29040aa2bea5de6478c174",
+   "jpUrl": "e3a29dcc12ffe9d6cbf5d22ffd83f12d208a35635185d956f9bc614577b5e326",
+   "enUrl": "3b85725c6ebec5333e165d1f3498b16ccb54108af6541863aea4ee4f57f45f0b",
+   "krUrl": "859d4e4b74e7aa7d1fa3621ff98e0ce202fcac74ce943b68c4c4054ae0988357"
   },
   {
    "id": 55,
    "title": "เทิร์นสแตนด์บาย",
    "text": "Clara: จะมัวลังเลไม่ได้แล้ว...",
    "unlockRequirement": "",
-   "cnUrl": "a5633e46c4969272b3b9d3545e433342671944e4ccff711b2bc3026e585f773c",
-   "jpUrl": "c6e9b8848c46f36cfe77efd19ebd99d961128be873a2b21b09dab4cb4f2dfcf6",
-   "enUrl": "83a747adb6915c3079c8867208d8df8308784f810cc5766abf9c196ff3283283",
-   "krUrl": "669b42ae8b5ee7393624948ac1635572c390157d229d536d3ce58836d2539e79"
+   "cnUrl": "22a6ab92b844806a19466a1206c8da1c32f9a1ae4530fee1932c11e19e1f94a3",
+   "jpUrl": "7ee906d7d6816718be79bd0409b60330cf1afe00d0b3d0e01a3d35a39e483b3d",
+   "enUrl": "4e1504dc297088ef6ee1cd15b98af2e7788b851c20ceab01a0d282d44a6ba250",
+   "krUrl": "8f50aefea60b382356da9d1874e66fec75c436bcc09bc48788d4bc7282203d05"
   },
   {
    "id": 56,
    "title": "โจมตีปกติ 1",
    "text": "Clara: คุณ Svarog ระวัง!",
    "unlockRequirement": "",
-   "cnUrl": "e9df0bb8a3a2e033fc7ff2ec633290ade55345274840f0d19b1b04c14b71912f",
-   "jpUrl": "61331f0e27222f722220fba6b38e8e8433468bd3f1e76b6cb1408f177205ab09",
-   "enUrl": "a03495d7ab7af362919f469ec2e9e74fb42c15d05a6040da776eefabb7687295",
-   "krUrl": "d52b9a74b451e4d1ec496b84a0b8256c52f48b6748805978fe40ece258327c27"
+   "cnUrl": "b8c8ab530aaee314469eaa3a6d98e785d73fc878be935250bb333f99222eafab",
+   "jpUrl": "9e4877d980ec946b30ab9f124a6c65afe0880a05657a97538707ef5c3a527002",
+   "enUrl": "442e6e436f6d4add9737edcee159d72e13a6e663613cbe2cbf4ccd2f34ef4709",
+   "krUrl": "824101554c1d972f15caa7fb10d34c5e53c9a4a814bddf38f3a110d28892f736"
   },
   {
    "id": 57,
    "title": "โจมตีปกติ 2",
    "text": "Svarog: กำจัดภัยคุกคาม",
    "unlockRequirement": "",
-   "cnUrl": "3a39a061c4ccd86b83faf59c0df4529b8bbf050272bc5a52ed58920e9cbbc029",
-   "jpUrl": "06c22b0ae865ad3d1a96d98a76e1eb1a10c3a189748c2c768df153fca6d0f8c3",
-   "enUrl": "47c21f9c1f29cd0c52d4063ef03319c5d73ca53804e873a2fc8ae0ce918f2939",
-   "krUrl": "1250c2ff2fffa113752db980d47ddd317665a82c8814ef7bc2b56363f958f1df"
+   "cnUrl": "29dbcd8dd6e030e094d69a0f172117772028547bb75fa3d097b3c74b75058389",
+   "jpUrl": "32585d20a064c8a7a4d9da334c88e8dd8d9b0666417f4e167e37fd7cc660116d",
+   "enUrl": "d21eb350dc0e60b915493c26f30275f39383aa79b7f4841cde90bac143501eba",
+   "krUrl": "0c70d2ff3c0a3f461f5a7f72a3b0f623cd18d47f98de181b6b13f6fe4dc2d3ae"
   },
   {
    "id": 58,
    "title": "สกิลต่อสู้ 1",
    "text": "Svarog: หลบก่อน",
    "unlockRequirement": "",
-   "cnUrl": "a0afc94b27b95f8db6dbde3973ad21edc56b0fdcaa0d9a2411f590cc5c6f6688",
-   "jpUrl": "302206bd642711e88630932669f6e4bc01c2da9e107c813062f08538d8572486",
-   "enUrl": "ea3617a1f26d716d401ee75fb009f59407b37d589812e188e158edd14ecbab7b",
-   "krUrl": "587dbe80ec24c2317ac70b794b5a5fbdfb4e179457fcb6138348c9311992b97a"
+   "cnUrl": "9ce6e3ade12679b74da9f7753a8761cf62e0ebd3bba6b428ede7e8420f2a5f5e",
+   "jpUrl": "b597efcbbdc9b4c0ccef61dab2903aff5b4b91351a6e9cae687df60546e2edc8",
+   "enUrl": "ec547613878b6339c53e2a9320c74a7c25339199cfb28a67fbad21db5658fe96",
+   "krUrl": "db3610d843b2a52271273792c2331ef6337d150662cfae91221b271436116603"
   },
   {
    "id": 59,
    "title": "สกิลต่อสู้ 2",
    "text": "Svarog: เริ่มการกำจัด",
    "unlockRequirement": "",
-   "cnUrl": "6de15932d82d352cc6124c4ae788333aa3126dc60b907b40acc9af80a4338b79",
-   "jpUrl": "60b77cd381ee1a3f4eece40851c3a338e281baee372a3e4f1237d0da6fce1ed8",
-   "enUrl": "9967d0c306678925dc92aa853ca029d5e319c12074feb1f562064d00f4f21bb3",
-   "krUrl": "7906b0a65e45d108831c3986db72efdcb97fcb5507ef2bcd0f40a97e2baf6bd2"
+   "cnUrl": "dab4d7b902e366de840bf616ab402c0c7ab8f03fc4d75bf643cb94e8d84860c2",
+   "jpUrl": "84156f810a7407a62b4dcf9bae852ed619e323f7fcd0736e6defd4c98f22e1cb",
+   "enUrl": "0e4c23840295c22acca8f76c25847aa8fd9c3d8569d5fcc957cb7c8288b0b39a",
+   "krUrl": "29b700d202d8e192f2ab6ff0f60d539dc0bf7d8a079e67c65024cf84c6c81995"
   },
   {
    "id": 60,
    "title": "โดนโจมตีเล็กน้อย",
    "text": "Svarog: ไม่เป็นอะไรใช่มั้ย?<br />Clara: ฉันไม่เป็นไร",
    "unlockRequirement": "",
-   "cnUrl": "16f9f6d0d55ed6f76d1811f6c92baa8067ec818cfb0e171a119c2df1620602b3",
-   "jpUrl": "06c4b15c38dc3330eefa2b7502924cc4afe2f769064f35e320e3e50dc419c562",
-   "enUrl": "d82a53815e38ba1ba2e0fd376368622508889f98d4417bbcf8d6c6f1a50dda03",
-   "krUrl": "c4dcbaca3d6c43a71909a7f08686368bdc757647c395ac2f81cea4f088b564a7"
+   "cnUrl": "f2a007a82b9a5bd3599c9a3db5ebef314ad216847fad19ea50c3ce222957bd6d",
+   "jpUrl": "1114de8f594da96edfe4181dfcee91808be1dd9784bd9d917f64778ec1d38489",
+   "enUrl": "8576cf88e36fcd61f202ba2b4963dd320b1ab2a6aa96f47e0fc02f9b07020fa1",
+   "krUrl": "f1cfced115dce50639244b5f8bde8ce8afa35891e69564e40517cbe0241986a5"
   },
   {
    "id": 62,
    "title": "โดนโจมตีอย่างรุนแรง",
    "text": "Clara: ...เจ็บจังเลย",
    "unlockRequirement": "",
-   "cnUrl": "5bbb872e791410383ffc5b6625abaeb03f8ca8851a15427bc992f20daae4b74a",
-   "jpUrl": "2b8581e485617810dc4b384bb1781b3d4fc4f259f9c92c2bde552b7357eab9b9",
-   "enUrl": "2f187bb200987e97c5e2049e99a75d4118bce00459b771dc7377ad6ab58d8e21",
-   "krUrl": "a725242536db30ee33ec8c10d5c5268bfc02dafd2462cfd827499603eccc0a65"
+   "cnUrl": "5072976b76c8e8addd364962010e30736c17d542f90fb9bd582bdfb0bd9a23b2",
+   "jpUrl": "0658400557d5cccd105c082faddd3011606595a96433ea5a53bce7ae133da7d5",
+   "enUrl": "a2ac8bd72d9cb78edd87245269233c617640c2fda9a61b03b7c4c5e45974e8cc",
+   "krUrl": "8513f3a14a57e077efda1d05bdf223da31a09becd77db01fbf0f336d815753dd"
   },
   {
    "id": 63,
    "title": "ท่าไม้ตาย - เปิดใช้งาน",
    "text": "Clara: ฉันก็อยากปกป้องทุกคนเหมือนกัน...",
    "unlockRequirement": "",
-   "cnUrl": "7f9950edb467f2fabb289ed99398c70bf34d3d636b20e4726b47eb81fc440406",
-   "jpUrl": "d37928b32a79254c6d565c98caad0884bc38df919df82008c1a70fbfa84435e0",
-   "enUrl": "2f5b4aa374fb179212f4934a8e83a3d6cbabf5e50f38714f78b5cc8c65bbae2e",
-   "krUrl": "8f792e64fb9cbf411861f8727ce076184ec8a9909b3d698ecba9a6adff746097"
+   "cnUrl": "25fa7aca98b48972516f560ae86a27ce3d8ac2e752cbf03300919ea9cfa8dc71",
+   "jpUrl": "c1507880b382aeb1eb85a852066fcf781368867ab0a13ec3fb85a51c0ed6ae1a",
+   "enUrl": "b38774e0365341c5d408d868bf20e2b767c06f57853c258a3132c15a79171796",
+   "krUrl": "604675412abb0f10019236f3cbeee8423afb3e6ea7ab4da6d9f1a0751ae693f0"
   },
   {
    "id": 64,
    "title": "ท่าไม้ตาย - ปล่อย",
    "text": "Clara: ช่วยฉันด้วย คุณ Svarog!",
    "unlockRequirement": "",
-   "cnUrl": "e1486724ce707240e675323e4d7c901f9d70ceb2817799f72267a144882dff2b",
-   "jpUrl": "afca9774ac901d04ae91c537923c0f08345ed1f40bb65186b33e2c148418ee57",
-   "enUrl": "52979c7cf1249282e0a903d99d5569af5faeb49e582edd4d232f540da23f90b3",
-   "krUrl": "8b871266eda040322f78cad578290af563a51451d9ca81e89d58c94918585223"
+   "cnUrl": "dd8a722dfa7ea8ab636e208c447592022c740408a0200ed82b1b977a6a60a4e9",
+   "jpUrl": "54da86a5dc0d5e139c9776f5dc35231b448947a79ba9a1d2f0c5ae45a98708ef",
+   "enUrl": "2b034b4fba4b9db5a92b7a1d14672ba60b1e63de10f348479b03805b275c63d9",
+   "krUrl": "964e8b8eabfc2686a633ee3d5f43550f030e9d81fefd26ddfee57abac2739340"
   },
   {
    "id": 65,
    "title": "พรสวรรค์ 1",
    "text": "Svarog: หลบไป Clara",
    "unlockRequirement": "",
-   "cnUrl": "3e669d019e0e05a8098e05a1214014f4ea54017823f3421341803f73f41f9bbd",
-   "jpUrl": "62bd8534a6949dcfe9e021625d3bbcd4be11e18acee9131b382524ca4e960155",
-   "enUrl": "ed2420f47f588bbb3f947f22ed0f9319f350d7fb6809713b5596223cd244036a",
-   "krUrl": "a056436b677af0bd3ce85083b17fabd09431fda4bef0dba151488c147e250ee9"
+   "cnUrl": "5f0ba4c843e1cb23f011c9ddb6e8d86de2a593ce0fa5cf1ff93c0eeeb8e69999",
+   "jpUrl": "8aa38fd9494faed3f27ee3e9416aa8ec589e55175c9232eb9b004289f0edee37",
+   "enUrl": "19ee3914314737d4885e8fa627a94ab477d164fae61d59173306d27c1e299eca",
+   "krUrl": "8de64a2e20c3fbd98c2444ec520e5361b1eddbb7a1a570cb5befc62d3e4b988f"
   },
   {
    "id": 66,
    "title": "พรสวรรค์ 2",
    "text": "Svarog: ดำเนินการตามคำสั่ง",
    "unlockRequirement": "",
-   "cnUrl": "258de769c636d99a3bf14496fa37ff02012777f001ac291312a43050891829a1",
-   "jpUrl": "9bde939983894a4c688ffa2ed3c18e35dba59967ae9f0ea4d013f6598d099085",
-   "enUrl": "8afca7b53efb396db2ffe0c14509dcc71d760f9140c1dbdf2f57fa08032dc3c6",
-   "krUrl": "446cf8a257aa12801b619e7c8b2d73306e4cc62a1452d86da00216d31dab830f"
+   "cnUrl": "b85a52420314633b324d52ded65693ed63b3f94c156bc0433d33bdf9833a531f",
+   "jpUrl": "8f316d71cf2debaaeee0e7a94b386b00b2a6166df665ed6a3a5e359daca58267",
+   "enUrl": "46e7706326eedb5aabe2137185a155e268dd8cb870d5e3633f33513c66a4c6ad",
+   "krUrl": "cf77cb832fc22f5cd84337b538e308f04361949830cb8e403d82ba30780a82ce"
   },
   {
    "id": 67,
    "title": "หมดสติ",
    "text": "Clara: ทุกคน... ยังโอเคอยู่ใช่มั้ย...",
    "unlockRequirement": "",
-   "cnUrl": "d3cc30067c6773087cc6e6272da465500c641f48069c1848c5d48501b1e7c37c",
-   "jpUrl": "aec6aec0559c4d770b44a7dcb49b0da677aecc14b571e0074684ab654a259ed1",
-   "enUrl": "6019c7113576002c7ae2df78ad9afaee4c2798aa08e36e86ad8cf21790f1684d",
-   "krUrl": "acfba44ec382fe6c530bedb8dd39c73ae226d8393dd7820f772d0c34557a634e"
+   "cnUrl": "92718884b4fd6f4c081362e9cc5fb5037b60852a2ba875d70369f88eafe65c1e",
+   "jpUrl": "3302ff46968a165ad399c517dd8a377982820bae37fc4b98ebd0be77b99af66b",
+   "enUrl": "ec3efbd908c4c7d1434e822b7e66fd208ec916f3adf1e6fe436b7fca1b1a1f9e",
+   "krUrl": "0a32b742ac5eb8b23a963ec2c77090fe9ffc15dd7d53095b333c4272f3f3a273"
   },
   {
    "id": 68,
    "title": "กลับสู่การต่อสู้",
    "text": "Clara: ฉันกลับมาแล้ว",
    "unlockRequirement": "",
-   "cnUrl": "5722c56b0d08e6a714b1c4b7d4696987773f762715236b0c7fa675583f914522",
-   "jpUrl": "adf231c4ddf05294c918e999e58260680910d2c35512962e0343778444e4b462",
-   "enUrl": "8252b72479371b9361d585694a2b57b4f156355731d77b7a304a26d24d892846",
-   "krUrl": "6a623c18ddffd52a39544aa7cd51ab481416f328a9e9393c81d5a6ced58e984b"
+   "cnUrl": "40960fe4fe7c11d8bfc7b20310359ec8c108c3de0c948d97758c3e157c7d9426",
+   "jpUrl": "bb4d698d05ccd09a8872a397b2054a0d421255e69ef2f5b6010f6f9294213aac",
+   "enUrl": "abd48fb7a730f0b862ba0791560f7023eae6be1e4f5564115c3dfb5116f6946e",
+   "krUrl": "61384bbe3767043a65c23f8afd8516c1f2f2ae3b19c5b2a22158dc085e71a13b"
   },
   {
    "id": 69,
    "title": "ฟื้นฟูพลังชีวิต",
    "text": "Clara: ขอบคุณนะ Clara จะไม่มีวันลืมเลย",
    "unlockRequirement": "",
-   "cnUrl": "ea16587de4544beda7c3de99198c3c2cc5c2c0bfa90dcce60e2412b2d5d332a8",
-   "jpUrl": "1b0cf8e6378c9655e0b87e30adaad4832aab8b7d5958a83336c2143da6a158c7",
-   "enUrl": "c89d1317f387e5de5170577089e04a76a380ab9bec8d5c73a0f8d4c27f2c1cca",
-   "krUrl": "7c0d111275ad2d96fa53510ad8dacee3201085427df68d9a70d02d07b0b86d81"
+   "cnUrl": "0c2a2f9d2a3173326c9d0c85d395d4273407f330d7a85a0daf387ed5cd5aa745",
+   "jpUrl": "a3fe19ce4fbc07780695cc2903de4c811c7737a66d562785f997b864fc01530d",
+   "enUrl": "2ffc4edc67ecb7390ee5fef02972fa7d495f0921fc2a51c40a271be2acc4d1fe",
+   "krUrl": "a44b1f78b6f3f2da86c6ceaae8d86f9d32d3ff19cdd544c57a2056a3cd7cedf6"
   },
   {
    "id": 70,
    "title": "เทคนิค",
    "text": "Clara: ย๊าาา",
    "unlockRequirement": "",
-   "cnUrl": "a01bcf8fef2b43d794dc2ade271dc57e97f43184bb80496e95e8be8d4b00425e",
-   "jpUrl": "343ccdc7e2cfbbd9c5aaa00dffb4cc0181845e90c14399b371370144c5dce543",
-   "enUrl": "a0565a64b74d6c7d3a69f3ead488241222d4c9d9808c6984a57b58a69f8e697d",
-   "krUrl": "e837e458d389c34dfc91a0082ef93802ebd5ec130038f6823c4084bb0b49516a"
+   "cnUrl": "d3c8302f2a3494a7c72bb275ccb7afcdb55c87971e83095a292f073d47d9127e",
+   "jpUrl": "c201fb399cba4b8c9ccc6baa089f17ed7e29e0b8a28f351d871ba45ed74718e0",
+   "enUrl": "1b0e82adeac1cef2fde381d154fbba13ba013ef495ef4c87f0edea07af2684fd",
+   "krUrl": "4777e003275d7969260cf0ba6f3940088b4037c57f41e0236c7d37e09c3ed65b"
   },
   {
    "id": 71,
    "title": "ชนะการต่อสู้",
    "text": "Clara: ไม่รู้ว่าช่วยทุกคนได้บ้างรึเปล่านะ...",
    "unlockRequirement": "",
-   "cnUrl": "58d32403f7fbdce90e0d18f42f8851524715e3cb61f53d77c1cde7acb5ca3a41",
-   "jpUrl": "85ee88a947f71513563b0e745dc2dc3546cd471f848100827d97bb6832be6c86",
-   "enUrl": "7e3711060f47591cba5563b16484941ba18fe79cedf037e29b8f6a806bc973e3",
-   "krUrl": "e8c5de33fafff3923b10034b2fbd6963f9ae76a72a9091c5e72ad2b5b10f5dbf"
+   "cnUrl": "d89514b9af8daec60e21428a7028ea55f407eb35b0b602a24dfb3151f7a85e48",
+   "jpUrl": "16abe144696be999e764317cb2a0a65010034683315398509728974514b83640",
+   "enUrl": "d5f8e9130aad16fe36b493935cd35609abc3103523f6e7abe4b80a493cc3c8d7",
+   "krUrl": "09cc6f38ca583a9d10fc8a0567cc6f5c1808a284d1cb21c7181a9e234a1e4abd"
   },
   {
    "id": 72,
    "title": "เปิดสมบัติ 1",
    "text": "Clara: Clara อยากได้ชิ้นส่วนสำหรับซ่อมแซมเท่านั้น",
    "unlockRequirement": "",
-   "cnUrl": "66f0a75470c16e9c15aa04d92f734f15f3a44fa89dc43cb7fe010d66f347d6ba",
-   "jpUrl": "b9a0ec031b286a567afbb9ece0b816c7d5550f91c86035dd828870b8bef7b1b4",
-   "enUrl": "5ee640d1be7540f73228189b37eea039482b8ec3a3854a7e6db74774bdc21900",
-   "krUrl": "957b32ad138bfb596893e16a40ab94b32888dc024019799de774fc240a9d37bc"
+   "cnUrl": "4f476922fedca05372b2487cfffeb71140af58d1cf0f9d2f4b55fe6fda5ac47a",
+   "jpUrl": "8ff0187ec263f9e3c68cd12d1664dbd651232af93e58d65abc77218e58af7a2d",
+   "enUrl": "a0ca71d9f476000ba0106fec07a3d9dd1b9edc9aa0ceecd149dbd2286e56daa1",
+   "krUrl": "b4f8c7e38db1eea8ff62bb72a0060d7b3b8694280f2212b0ef51b1f7ca6fe14e"
   },
   {
    "id": 76,
    "title": "เปิดสมบัติ 2",
    "text": "Clara: ฉะ...ฉันขอรับไว้ได้มั้ย?",
    "unlockRequirement": "",
-   "cnUrl": "c620a5f75a245bc80e1f0dc9d84f0f2512ca5132fafb2315dfe71c4e1e2cd8f6",
-   "jpUrl": "8611cacd7031df9aac960c79107d64fe358b036763d83e455473e66f550ed436",
-   "enUrl": "4d0ddd10162bff7636836af228efafcb50efbda0888f371a7849951a239a8064",
-   "krUrl": "98fea30de78d9c1d75ed832718e12c0048751bcc67f990a35ea0ca2971265e95"
+   "cnUrl": "ee5c6ae1208af848213930dcaa213e4f2701dae3616e86b3975c6bbf3748930f",
+   "jpUrl": "3077c8483311fdb88dfc86a8dd253de12e6abf0ad01f7a34f72cd1ca251130dd",
+   "enUrl": "a5774d826fdda5be135111188a8fa69ca98c71cd5c9925e16c82b948a9b894d3",
+   "krUrl": "5b1bda94449ac42869748e83c8a67ff2a137e32eb97557ae40ced144a18b0d31"
   },
   {
    "id": 77,
    "title": "เปิดสมบัติล้ำค่า",
    "text": "Clara: อะ...อันนี้แพงเกินไปแล้ว!",
    "unlockRequirement": "",
-   "cnUrl": "6665569482dd9881b9844cad076eafb505e442947ff1bd7ecd004f42e5c18856",
-   "jpUrl": "507b95bff2bf263cf0d73bf0262ecbb145d25cda767867f9cf96e745d3c4bf28",
-   "enUrl": "aa3132798e269259cadf77dcf24c47e1c90aefa1a62397b38b8dad808a874885",
-   "krUrl": "a247a02da55b4269c5715d94551b2ac4914231d3292e2ca3c81b2716cb8c030f"
+   "cnUrl": "9e238b13cdddfdfedc2c024fb3ecd0498934d9797636c432fc00deb2486a008b",
+   "jpUrl": "3897f91631fe062a63d583b0f5b4295c9be8888180114c6955d0eed1d23659bb",
+   "enUrl": "7a3c4891e3a7db4887be642d6b3b50ec1229d04bcabd06130bf993db7e51e4ef",
+   "krUrl": "10252634b55a7aa87adda76e18b3b0101d5d8fc56a259e8fec8d8cb4df508fdc"
   },
   {
    "id": 73,
    "title": "ไขปริศนาสำเร็จ 1",
    "text": "Clara: สะ...สำเร็จแล้ว!",
    "unlockRequirement": "",
-   "cnUrl": "1379c221a750dfa3bb2c076f37e0ff2ab5a433c1defba497bb08f59b5f3fe95b",
-   "jpUrl": "ecdb0a99ec776760aa1af059f56ecc3f9e170471bc601e654370a500cbccc8ae",
-   "enUrl": "8fc1d74095483524c9862ac990ed68b40cf31a7d3e1e3bbba02c5b942cf45a1d",
-   "krUrl": "691c545d56849ee10c95d28394726beb6ccf4d0577f4f012243740d8ddbb9b12"
+   "cnUrl": "010f865ee4558946c4319b5be69b9f7f806e9fb53fe471a8618a8175138148ce",
+   "jpUrl": "ed55cba83a718a42a149f9f3aa883cb8306e1732b719a63fb3445a3279ec9eb2",
+   "enUrl": "a47e981e9ef6fe28678251e0fdec50463aae4843bb4dc70a9db38519f6013159",
+   "krUrl": "6c66ccdcd7109a31726a08d8809cb3fc8c50bce410535b7259ee865853838066"
   },
   {
    "id": 78,
    "title": "ไขปริศนาสำเร็จ 2",
    "text": "Clara: Clara... ทำได้ดีใช่มั้ย?",
    "unlockRequirement": "",
-   "cnUrl": "63e27b7c374be40d8f330b253620f12a850d98d4be79d5c605da38ab986b493f",
-   "jpUrl": "11730bb7b7e1eb4448b5038de5be9ff6c48cd30f7583149d479696079c2e49d5",
-   "enUrl": "d74e8aabe2a94053df815a1f5b3f86add1580562adbd2879cda6650191345a7a",
-   "krUrl": "9dfcb31a6a2ab684af8b9b31fa47006934011251dec1a645478d57f47bca2c98"
+   "cnUrl": "f110ca1b16cd47fcb7057022cbf405eb97eca0611e4059198f1dfe5898852a20",
+   "jpUrl": "0caa5e7d8dff0fce3bce6776851d27d3808c72c96e03448f4e31339c1e17ed42",
+   "enUrl": "41c7898e3b686adbbe0a7e67463b4d948f701d0aa4f33753d67ca7498da4615c",
+   "krUrl": "668916b352cc078e0927cef3be5c5fdefea4940137150e9fbdd203f770a9646e"
   },
   {
    "id": 74,
    "title": "พบศัตรูเป้าหมาย",
    "text": "Svarog: เป้าหมายที่มีระดับภัยคุกคามสูงอยู่ข้างหน้า",
    "unlockRequirement": "",
-   "cnUrl": "7e15b5f848bf640a14b9108514566797b51902fc09991ab95331bcb0f6ddcdd7",
-   "jpUrl": "4bc12472167aa0752f3aa8ff91a44784ccccec0f453b65c9033df02cb0bde036",
-   "enUrl": "66fced0169ec7e7222e3225c0cd138d8b598bfeff90b8b8b0dee2c02dfec6c41",
-   "krUrl": "2d00d367fee25e72d9e933848c8f46f24e8432ee86a679f78414b95de002579b"
+   "cnUrl": "41b43ca39134d5050863b8d8a594df1209d5aa219517520aa440d7c29cd24a05",
+   "jpUrl": "311671f588d48252cb111d192bcd48528e1a65bf8dba72cc85bc4df8ede33132",
+   "enUrl": "d419535bba118b71a10cc816d58af311fd48742eb19af8428995725e0103e053",
+   "krUrl": "9a64d7af126b9d2ea7414f5394a78fa362e77862e256d6b7155bb67beb4922de"
   },
   {
    "id": 75,
    "title": "กลับเข้าเมือง",
    "text": "Clara: ไม่เป็นไร คุณ Svarog ที่นี่ปลอดภัยมาก",
    "unlockRequirement": "",
-   "cnUrl": "daac1de273c4dfe4594eb1f05dcbc65356076170081dc158a752f0e58e61866c",
-   "jpUrl": "58601dda95d6b330fc9d8e3158e7c42279bcfbb7406e93fa3a4e0910f669b60d",
-   "enUrl": "2c17daa05e0c299e65d8fcbab3350b6a588d409b467c500eb781f5b52f76a48d",
-   "krUrl": "cda1a66ddc7fd4a82824b487afc4763b1318bcaa2bf9ccbbab9a3ced379556c1"
+   "cnUrl": "3fb5872249ae30ede9a62972ad1dbe416a5a628715c457d174ba50838497b66c",
+   "jpUrl": "2be82fd2a2a46d413c942db82eb31d7bcad633b7d9f3ec7f0d5bd40f217cf47f",
+   "enUrl": "35db1e8acddc1107f8ff03ae3f7545bbf8b975973882b266e4893f205bbeeb6a",
+   "krUrl": "6f9efcb01bc29ddf9a7896dd0077ce80bf4853ff877aa5ff0dbae9cd80a1d2c3"
   }
  ],
  "storyItems": [
@@ -2751,19 +2755,19 @@
  "name": "Clara",
  "rarity": 5,
  "descHash": "เด็กสาวพเนจรที่อาศัยอยู่กับหุ่นยนต์ เธอเป็นคนเก็บตัว อ่อนโยน และมีจิตใจที่บริสุทธิ์ เธอหวังว่าทุกคนใน Underworld จะเป็นเหมือน \"ครอบครัว\" ของกันและกัน",
- "artPath": "3fb2fde418a1556d1b5625b2641c704aaf11fa35901027f8187193ef9b960784",
- "miniIconPath": "c0bd56eb715d6fbee0fcedadd5ed52af0e71985cf072eb7606d8030b8d0cd6fb",
+ "artPath": "b178ef06b4fc13c23874efd5f55ab4ab2f316d676214817c99e699a2b8d398fe",
+ "miniIconPath": "fd382e979eca6438177ab634531faee5695c15a4b57d012ac2c95dbe61a48c31",
  "damageType": {
   "id": 1,
-  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "iconPath": "e21edc60ff709336831c1f18a58ad77fbe2cd85ceb630f7e87463545a4057bbc",
   "color": "#FFFFFF",
   "name": "กายภาพ",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "673136d8ba64c836e77a0084380bccea317250a93f866ddfcb0d64682b543970",
-  "altIconPath": "9093f5a5aa958c0fe5a14267d9fe5101a95a033e08898ba40b35994c1a3a8d81",
+  "iconPath": "e2b380aede0faa68b817597cd40abe7dd90c14a08c11f2b65fd7b56d9fa8212d",
+  "altIconPath": "951cb2c1f37a5a634ba690168cca2f5d0f36f2850b2d4b9afef9922106d0075b",
   "color": "#FFFFFF",
   "name": "ทำลายล้าง",
   "rarity": 0

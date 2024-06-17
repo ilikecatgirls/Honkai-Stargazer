@@ -1,19 +1,20 @@
 {
  "spRequirement": 160,
- "iconPath": "eda9eb4d611aebbebc76c9f36463222444d78b763bf41c52f57301da25bfd43d",
- "bgPath": "7f423fac5a5055f2795b0a2e3aacd03d714016fae7d64991f12ec5397920da3e",
- "figPath": "73b48269ce73c11adb7b3bf9dd758f5619ae10f0a46b767f8a662dea8d0f4b14",
- "fgPath": "f2b4f2314295c89f822dc40b202f97035dfaae5abb9ec788d125981ae36c5179",
- "splashIconPath": "d3f0beaa9b190826b041eeb4bc03404547818b4de65040064e41aa2032712099",
+ "iconPath": "a9647cebc1811a7489a340d3519e0b2c819817096440a6c199b1f75bb1a28d52",
+ "bgPath": "129a9bed756d49fccab4a2969208730d269a76ed8b96e9086849e214d377d03d",
+ "figPath": "2b5f74f53bdc64c0d5847da85dd9372580391f9771ef8fcf2aa1ca9c70081f91",
+ "fgPath": "199052ea2050053e5d19ae259643dee68513663c3a7848e1f49b5dcc9b35770b",
+ "splashIconPath": "0a4f893f6e7bdb5065acfe8a5a258c1b2f2df98541c93f4751105bf927c4fe93",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRmoCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSPkAAAABkGvbtmFbc9+6ts3IDG1bmVJGxg/42bZtK2Nk27ards2g8A0RMQEwCgAFm5qSAQFzgbig0r4f5L8hQJgBnVdJqhq5UYEwCNR8oJRS1+V/LoLRAVlvqOqmGh8EQhhqqOmWkrVQDHPtqLwAQCD8mm5T8nM0BBB8itLOPR/ADVhJ1UrjIUCMNzhfo2Yl+a0uE/GrR/9Styl5p9UdoTv/2NJ5rc0b2EFph18uTwiHiPNUpZ1/PAoM0ahS16SUVN/8OxACp7otj19IajRq//myAQCUnJHxrqlje+7eeE9er3IFBNr6XQDH1LQFF59fmR8Da6GgaPma8WgACgAAVlA4IEoBAACQBwCdASoUABQAPm0okUYkIiGhMBgMAIANiWwAsR80PiLK64DTAP0A6xfymU8B7VCBx1gyU0hFyloiPWfNmX99o2/KEgAA/vhjMDLs+pz+KaIRBJMan1293Ht+38hkL5AiNTDaHd+iDBaUI4RnL4Ndseqgdaej0DswbRHJdnJA3ecTBe9EE+yX+3fZamMN5/LWr29UkzU6bgBKYFH5h85sMQ51g0o9Xl4nxQl2G5PC61c1OqdxVkpz/MrYO1LjCMz23sQAYd61BfiN+gF7f5oOEmEDIklI2aogHy9gqT87Hn8VgLfcJfn9HJiVGArGbtUVP2x3kbnXnfkxZhxOF98W+a22/ZSmomK8HM1Fl89L0ttWpT0kozvjzF52Nbi9w3G6+9I979mU/3+6D5stNprG/rwCbbZzv1uKtQj8urwj+5aqQdxcBXLRAAA=",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 4,
-  "iconPath": "55d5339b99655abd5d47c976596bebf22e6e522614fef628f7c875606f3e1abd",
+  "iconPath": "d6c1c12a1f62066392fe6f146eae9d08e62f5c4f46bb43d21b63469820f5c281",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用点",
    "desc": "星际和平公司与客户结算时使用的货币，如今已成为太空旅行的硬通货。",
    "lore": "「人们奔波、争斗、贸易，为的不过是个终端里显示的数字。但真正珍贵之物，公司的数字是买不到的。」",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "命运的足迹",
    "desc": "行迹升级的高阶素材。",
    "lore": "一次又一次的败北成就了你的胜利，一步又一步的前进让你抵达了命运的拐点。",
@@ -61,7 +62,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "漫游指南",
    "desc": "角色的经验材料，可以获得<nobr>20000</nobr>点角色经验。",
    "lore": "跨越诸界必备的冒险丛书。按下阅读键，充满磁性的声音将以你能听懂的语言讲述知名冒险家们在不同世界间的传奇经历，以及他们在各个星球上获得的珍贵智慧。<br /><br />「漫游指南全新书系《星际美食烹饪导览》开售在即，敬请支持。」<br />「投稿请接入博识学会联觉信标<nobr>23</nobr>θ联络员，稿酬可以以您接受的任何形式支付。」",
@@ -79,7 +80,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "冒险记录",
    "desc": "角色的经验材料，可以获得<nobr>5000</nobr>点角色经验。",
    "lore": "装订严整，一看就颇有教育意义的冒险札记。图文并茂地描述了冒险行动的始末、有价值的信息和生存相关的技巧。<br /><br />「干嘛不数据化放进光刻片里？便携多了。」<br />「面对恒星风暴和中子流喷发时，高科技比你想象的还要脆弱。何况，制作这本书的人一定希望人们用最简单的方式阅读它。」",
@@ -98,7 +99,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "旅情见闻",
    "desc": "角色的经验材料，可以获得<nobr>1000</nobr>点角色经验。",
    "lore": "记录旅途见闻的日志，字迹漫漶不清，内容随心所欲，对你并没有太大的帮助。<br /><br />「看完了就赶紧把这堆废纸处理掉吧，丹恒？」",
@@ -116,7 +117,7 @@
    "id": 470781,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "iconPath": "021510fda34098d12f31549a6dfc2257a20b8c51087684e3585392122b8a07ca",
    "name": "蛀星孕灾的旧恶",
    "desc": "行迹升级的高阶素材。",
    "lore": "作为虫皇亲自繁育的子嗣，它的唯一欲望便是扩张族群。它以巨镰收割星体为巢，不倦培育无穷子孙，涂炭万千生灵，直至陨落一刻。<br /><br />「破碎星球之上，巨蝗遮蔽天空，群虫涌出地壳。锹甲将这颗新巢穴举起，向它的虫皇献礼…愿此番惨状只存于史料中，永不复现。」",
@@ -131,7 +132,7 @@
    "id": 549209,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "iconPath": "e0c990b0eea70425d86a217aafba0a3a7e8bca023ae176d8d1a04c96017cea2a",
    "name": "蓄梦元件",
    "desc": "梦境造物的储能装置，强化所需的简单材料。",
    "lore": "储存碎梦的筑梦容器，为梦境造物提供了基本的能源。<br /><br />「如果装上这个玩意儿，就会得到一位美梦剧团的成员。」",
@@ -140,6 +141,7 @@
    "rewardPath": "/material/549209",
    "comeFrom": [
     "惊梦剧团掉落",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "委托奖励",
     "余烬兑换",
@@ -151,7 +153,7 @@
    "id": 589819,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "9dcc37e0e0903af3108640d694d154e4d9c54670d5b1de405adc1c283ef3186f",
+   "iconPath": "e85f4354349d3ed12bf55533ca0f134f3066a134380a7d6b07cc2129f41edad0",
    "name": "空际小节",
    "desc": "自天穹上飘落的乐句小节。可中幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">同谐</span>角色的命途行迹。",
    "lore": "由秩序之中散落的一段音律。从天边悄悄坠落，掉进嘈杂之中，就像一抔黄沙散落在荒漠中。<br /><br />「无人能注意它，直到它被灵感捕获……」",
@@ -169,7 +171,7 @@
    "id": 633150,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "iconPath": "16ae6e8e6b251c084b4281d8dd2cf628bde9c0b356cca2036d18eb80dcc281c6",
    "name": "流梦阀门",
    "desc": "梦境造物的控制部件，强化所需的普通材料。",
    "lore": "调节欲念的筑梦装置，控制着梦境造物内心的情绪。<br /><br />「如果这玩意儿失灵了，就会得到一位惊梦剧团的成员。」",
@@ -179,6 +181,7 @@
    "comeFrom": [
     "突破至均衡等级2后，惊梦剧团掉落",
     "「万能合成机」- 材料合成",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "「万能合成机」- 材料置换"
    ]
@@ -187,7 +190,7 @@
    "id": 673760,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5c7b57df6d6628dc837cc7761256c3a3c5b4d964820177b62f191c7469360e36",
+   "iconPath": "778df6f9b3a5c48680127dfa6bd63fcfebdac7e64ee2ca6e214ef1ceebf6fa76",
    "name": "天外乐章",
    "desc": "自宇宙中传来的交响乐章。可大幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">同谐</span>角色的命途行迹。",
    "lore": "由秩序之中散落的一曲乐声。于天外静静回响，被巨大的沉默淹没，就像孤星闪烁在星河中。<br /><br />「无人能感受它，直到它被所有人遗忘♬……」",
@@ -204,7 +207,7 @@
    "id": 717091,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "iconPath": "3ec7df71c4478ad9ccdff86f63ab9fd8e7dcf2bc435e8fbdf17874307dfa7d70",
    "name": "造梦马达",
    "desc": "梦境造物的动力核心，强化所需的高级材料。",
    "lore": "创造幻想的筑梦机械，赋予梦境造物灵魂的发动机。<br /><br />「如果发现这玩意儿出了故障…朋友，在陷入噩梦前快醒过来吧。」",
@@ -214,6 +217,7 @@
    "comeFrom": [
     "突破至均衡等级4后，惊梦剧团掉落",
     "「万能合成机」- 材料合成",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "「万能合成机」- 材料置换"
    ]
@@ -222,7 +226,7 @@
    "id": 866635,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "e77713aac9f0dc8efb0047a1b9c918d14aaa40589e0472f557374cb53d06818d",
+   "iconPath": "4e457e358310644ce3054344cad365762765bdab9d96076b3cf54c545406d598",
    "name": "星际和平工作证",
    "desc": "星际和平公司「资深员工」的工作证明，物理属性角色的晋升素材。",
    "lore": "在星际和平公司，只有项目组的小组长级别才能拥有这个款式的工作证。对于这些以工作为傲的资深员工来说，哪怕忘穿衣服，也不能忘记戴上工牌。<br /><br />「它不只是你走入庇尔波因特的通行证，更是一种社会身份的象征！」",
@@ -238,7 +242,7 @@
    "id": 874346,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "0b9599c040d16b07324d2f3ea37854bbe9d3d22cb80a43b3070662e562738a04",
+   "iconPath": "fc04cb34a709ee9feb6e3664e524dc88ae28e382d7ce1b9fe5cd6943fcbf8d03",
    "name": "云际音符",
    "desc": "自云端上散落的零星音符。可小幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">同谐</span>角色的命途行迹。",
    "lore": "由秩序之中散落的一枚音符。从云边悄悄坠落，掉进凡音之中，就像一滴泪水融化在海水中。<br /><br />「无人能听见它，直到它掉进一首歌中…」",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "21e336b48e11c1463a129146f02e24d165410eec5c3fa7ae30a491423a408a1f",
-   "artPath": "1c33f658c3f7ea19839b361bd1b6c60f23756e6e7efbe314eaf692b7415e17b4",
+   "iconPath": "4b3d3622457f545f671a810fd503e10041dd5a9fe9f5439195e8b41f0be7b998",
+   "artPath": "61cd3ea66e680b638ba79d68afd13a688388821c1695592c5e6f779b6f7917b1",
    "name": "微笑的国度",
    "descHash": "处于【协奏】状态时，我方全体全属性抗性穿透提高<nobr>#1[i]%</nobr>。",
    "params": [
@@ -449,8 +453,8 @@
   },
   {
    "id": 2,
-   "iconPath": "978b1491f0216e5f8cd91fb1b801e0b687d41604b8589c1d35e9b5923770e086",
-   "artPath": "3a9d06c608b882b7d476157e76df564b7280a7810d5ea0944a56e25583d4b86a",
+   "iconPath": "f5c6f569ef764934a9a1868a2e2ec499dcd4f7b2e849c3baa99cbe204121e1a5",
+   "artPath": "a9224a77a494bb2964de55ba8c28ec776adec42144e85b060e713b5655b1aa0b",
    "name": "两者的午茶",
    "descHash": "处于【协奏】状态时，我方全体速度提高<nobr>#1[i]%</nobr>。天赋的能量恢复效果额外提高<nobr>#2[i]</nobr>点。",
    "params": [
@@ -460,16 +464,16 @@
   },
   {
    "id": 3,
-   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
-   "artPath": "76c2551ec34702bdb41b20a6771cde591c75c4a8a32870acaa7af258ecc5d72c",
+   "iconPath": "765f18ac1c6d6c2d232012a38ccf6f361974749bd21ccd7df86dbaa251702783",
+   "artPath": "3aff806b13da88dd1b6543a999863611fde6163a58ed4deb37fd47225985950b",
    "name": "倒悬的弦宫",
    "descHash": "战技等级+2，最多不超过<nobr>15</nobr>级，终结技等级+2，最多不超过<nobr>15</nobr>级。",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "c8b5f11986362057fe659a391ec3eb193a8c266a90e790c260ed339fa5494040",
-   "artPath": "50350af0d85d5eb9439a3b141315f3cc0e1dd538eb538a8018415888e62ee028",
+   "iconPath": "98f66425dbe82b85d0e121daa38d8da8fab82931bd52d8bb1673bec36e173001",
+   "artPath": "33d99e989eb7e8ed85e8daf5633899bc28b262ae232116107d8a948f9b039aac",
    "name": "雨滴的钥匙",
    "descHash": "施放终结技时，解除我方全体的控制类负面状态，使我方全体在知更鸟处于【协奏】状态期间的效果抵抗提高<nobr>#1[i]%</nobr>。",
    "params": [
@@ -478,16 +482,16 @@
   },
   {
    "id": 5,
-   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
-   "artPath": "2f2955b5d7040846379b487d53001fb63c189026173ac24e62cbb057515c4e4f",
+   "iconPath": "326ab8d7ff6028737c0f154a75497f0aff8a44ad06dda27c887adf05eba30d7f",
+   "artPath": "e57da73825b15597490e12db16cfd6f9fe4ec1d7e8c66ae4d7b02eccf7224a29",
    "name": "孤星的眼泪",
    "descHash": "普攻等级+1，最多不超过<nobr>10</nobr>级，天赋等级+2，最多不超过<nobr>15</nobr>级。",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "4859dbd0db6c3f43054a37aba1cbe0c886d83963babe02a0ec70792608a7440c",
-   "artPath": "b91d0398e090f093b5ebd0c922961e628b15b979938e64398d9c118b6acc91c1",
+   "iconPath": "b61ad75e3906a365e1c5eb9dcddebdeeba58aa0a341046fb67cb8598f7ae3cd2",
+   "artPath": "f2d4dec226574cbb3f8787e19be0810ba9fc7092b51295ae5d7aeac9f4d94c17",
    "name": "月隐的午夜",
    "descHash": "处于【协奏】状态时，终结技造成的物理属性附加伤害的暴击伤害额外提高<nobr>#2[i]%</nobr>。【月隐的午夜】效果最多触发<nobr>#1[i]</nobr>次，每次施放终结技时重置触发次数。",
    "params": [
@@ -522,7 +526,7 @@
    "energy": "20",
    "id": 758858,
    "name": "扑翼白声",
-   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "iconPath": "326ab8d7ff6028737c0f154a75497f0aff8a44ad06dda27c887adf05eba30d7f",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -683,7 +687,7 @@
    "energy": "30",
    "id": 642213,
    "name": "翎之咏叹调",
-   "iconPath": "214ce5570eae21c6f3b54e39dc3366d4b8c48e285815fa3d34d0a5dffa613c37",
+   "iconPath": "765f18ac1c6d6c2d232012a38ccf6f361974749bd21ccd7df86dbaa251702783",
    "typeDescHash": "战技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -973,7 +977,7 @@
    "energy": "5",
    "id": 558272,
    "name": "千音迭奏，群星赋格",
-   "iconPath": "8c18f6a980650b868e7d8544dc55b66266f713ba779ef9d0ffee778366d8b800",
+   "iconPath": "400cb01eb34c6a74f3dd7dcbc79f7c8cc6be6e381f640d4319768426a0d07c40",
    "typeDescHash": "终结技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1323,7 +1327,7 @@
    "energy": "0",
    "id": 474331,
    "name": "调性合颂",
-   "iconPath": "641a4d2b6c02e2c482e8f3f9e4abd3218e4450d9572b0b7e4311a473a7bdddc4",
+   "iconPath": "2e7493ae66f5eb13468ec1e7594219acb4f4242b5c1ececcb999a73ed573878a",
    "typeDescHash": "天赋",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1613,7 +1617,7 @@
    "energy": "0",
    "id": 273745,
    "name": "攻击",
-   "iconPath": "43882252372746f998bfd3fd14bd5e99004d13b2a80fc0ad4f2d874ff815f16c",
+   "iconPath": "326ab8d7ff6028737c0f154a75497f0aff8a44ad06dda27c887adf05eba30d7f",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1635,7 +1639,7 @@
    "energy": "0",
    "id": 157100,
    "name": "酣醉序曲",
-   "iconPath": "27ed98d04302103286581f7ffa736edd301561bc6ff2fb9cadc5ae97ec4148f4",
+   "iconPath": "f3cdba0886ab80329fed4a763ec8024713977a093c2955d4c580e737e6615a5f",
    "typeDescHash": "秘技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1674,7 +1678,7 @@
         "name": "攻击强化",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻击力",
@@ -1703,7 +1707,7 @@
       "name": "生命强化",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "生命值",
@@ -1732,7 +1736,7 @@
     "ultimateCost": 0,
     "id": 363359,
     "name": "华彩花腔",
-    "iconPath": "c4d2f5cc476f3512e459714a55ecfd4ca18c450af273734de91f55b6d11ba8fe",
+    "iconPath": "0cfab90370c9070475ae4fffc406419d352450d0784910807ce868e43c039755",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1781,7 +1785,7 @@
         "name": "生命强化",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
         "statusList": [
          {
           "key": "生命值",
@@ -1810,7 +1814,7 @@
       "name": "攻击强化",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "攻击力",
@@ -1839,7 +1843,7 @@
     "ultimateCost": 0,
     "id": 363362,
     "name": "即兴装饰",
-    "iconPath": "73a8b04c935054e24f9433a44c751dd3956335aeed2bbba2abbd0f49170b1c20",
+    "iconPath": "46b6866927bfb98ca704f4b072739b05366b1c6cc108d668219346e255dba8ab",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1892,7 +1896,7 @@
         "name": "生命强化",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
         "statusList": [
          {
           "key": "生命值",
@@ -1925,7 +1929,7 @@
         "name": "攻击强化",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "攻击力",
@@ -1954,7 +1958,7 @@
       "name": "速度强化",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
       "statusList": [
        {
         "key": "速度",
@@ -1984,7 +1988,7 @@
     "ultimateCost": 0,
     "id": 363361,
     "name": "模进乐段",
-    "iconPath": "1b682ac043a69e0e67e377b998430c71e7f9dc506dfef5c6a6e14513b5e04e96",
+    "iconPath": "55871a8769a347fd299883a89c5706168dca9a051de399878ce4b58ada83f2a3",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2032,7 +2036,7 @@
       "name": "速度强化",
       "levelReq": 0,
       "promotionReq": 3,
-      "iconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079",
+      "iconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94",
       "statusList": [
        {
         "key": "速度",
@@ -2066,7 +2070,7 @@
       "name": "攻击强化",
       "levelReq": 0,
       "promotionReq": 5,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "攻击力",
@@ -2095,7 +2099,7 @@
     "name": "攻击强化",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "攻击力",
@@ -2121,27 +2125,27 @@
   "props": [
    {
     "relicTypeHash": "躯干",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "攻击力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "脚部",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "攻击力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "位面球",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "攻击力",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "连结绳",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "能量恢复效率",
-    "propertyIconPath": "75627c696d3e9763c0b4feeb4a8e2baf594ac73214c6227b3a125c032be090c8"
+    "propertyIconPath": "8c5a4db52cfac2feffe8b75a8338d234e63c43d8de841f826aa9af08f261e9bc"
    }
   ]
  },
@@ -2151,460 +2155,460 @@
    "title": "初次见面",
    "text": "晚上好，我是来自家族的歌者知更鸟。不必拘谨，这只是一次舞台下的私人问候，能为我抽些时间吗？",
    "unlockRequirement": "",
-   "cnUrl": "163097ee1c36e14e4f0988edd057d3f96289ac15992d0add187759540955556c",
-   "jpUrl": "24d8018a55d0126717920d218bd2ef1783e408f8167b190a92fd5445bdad2517",
-   "enUrl": "23950a9cd93277faaee89a9236f6e188200a625d2a207ba0d167187199fdc63c",
-   "krUrl": "f71747b2c9352d3336dc1e52540f027e15f5fd4f784f6926e8961a67f79c49a3"
+   "cnUrl": "2c0fe61ab531842352f76341a3a3628b8c060cf685f2b0f571ee4b2fd68f04a8",
+   "jpUrl": "539db1506b8705dfea4990de2593157dd178f82518ea1327f6480b63d839398a",
+   "enUrl": "16e7de2104d30d48a043a74f8c5fe28cab248cc8c73e8296ea537b96863376dc",
+   "krUrl": "723da8d182db8d17c0de1a7ca05ed3118ac3a18348196b8f2b4b4dd0033819ff"
   },
   {
    "id": 2,
    "title": "问候",
    "text": "又见面了，这回想听什么歌？",
    "unlockRequirement": "",
-   "cnUrl": "9b51cbd95e26a12327596799913283cbc60336f106f79bf38bc3f0354a9bde64",
-   "jpUrl": "ae322d661f66b697ba13aa67980ef5b0fb26346e1fc0bc70a792da6b71826077",
-   "enUrl": "c22bb76807f3919403dadee8a2cf7162cc9396176984ccb74bf9b1bb34e742b4",
-   "krUrl": "b4fc09da0191ec99f2d96f960ca39d1bb24b4a5539ff37f73d2c174e698bcd99"
+   "cnUrl": "91c40c0d9f3d3ae41b283cb29503e67a5d7938369b0a83c0ef529a842ee8dd0d",
+   "jpUrl": "d140764ebdb89fd0f7c9b3decd126b9f92c17319e4179fd1815a1f75198c334c",
+   "enUrl": "8f3a1c56eca4dbf7598c8397e3c3fe2949021d3699420687c442389ba81124af",
+   "krUrl": "6cbe2b16e249c692b1b388cf40e12dac657668e89fd81caa53e10f9407e91c7d"
   },
   {
    "id": 3,
    "title": "道别",
    "text": "下次再见吧，希望我的歌声能为你带来一夜好梦。",
    "unlockRequirement": "",
-   "cnUrl": "4f11de1a288051c9a5b9486c5829bc19c4d2752f51caf827fabc84daa3fa84ba",
-   "jpUrl": "05b93daf746fac9bc7f131d3abbac4b5e2d8c824703ade6acc5502afd6ea954c",
-   "enUrl": "36ac96ff54d335e7e4bbf748007015d93d1e0d829e692329da2cea8b79eeaabd",
-   "krUrl": "d77e7a9532883093bfadf69bf2ae28af040d5710781831556580988035a645d9"
+   "cnUrl": "c2c035a24e9eee6d56e90dc1712326c69f105efa48c73c3f79e5b2a06912e69f",
+   "jpUrl": "25b1bf381be2bcd81f77d533b20b469dd13fba103c9d8ce6f75de1ade2b6d058",
+   "enUrl": "2a22264ceb835717655ce99c6269ecd0e180c7aac22e9d77f8d332d2608cf285",
+   "krUrl": "b6b83ad8262f8d54ef03ac17a3ca676929cc2270f24793d66c53e86a14fed746"
   },
   {
    "id": 4,
    "title": "关于自己•创作",
    "text": "音乐或许有所谓的创作窍门，但歌曲之所以动人，除去技巧之外，引起共鸣的总是歌声中蕴含的情感与决心。",
    "unlockRequirement": "",
-   "cnUrl": "688b6fceff94a18dbf92a052fc3646c85e2123a061e4453739dd449cc32b49b1",
-   "jpUrl": "47379f1fbfffb9a2e6c2960aa1abc258ae7e3784782fb820f4907e935a3e56bb",
-   "enUrl": "6300ac0662c79bb4f4cb94b5eca1ed30ea598ace1b298fdc6ec8277b0efa4c59",
-   "krUrl": "830c7f8966004a5b9aa6d8bb6bf05f29a0e2ba48f31c478019ba26a25788059b"
+   "cnUrl": "71fa4eab5b383fc110e378a70b1baf787d53a35a0dc9182e54498456905bb177",
+   "jpUrl": "a8b77725b2ba9ecd527b9be9272b7918970bada26d00e2f55e187b4c5107e492",
+   "enUrl": "0fc84e347d0317563354594f6eceba7225dbe5ac0ad1b7472fd6b987a938bcf5",
+   "krUrl": "672f98bee9cfeb01e6a7e2e7724a3e2cd8f6b027121f3adf3ad95ecfcde712de"
   },
   {
    "id": 5,
    "title": "关于自己•歌声",
    "text": "人们常说食客的口味越刁钻，厨师的技艺才会越精湛。不管别人怎么说，我自己永远会做那个最刁钻的听众。",
    "unlockRequirement": "",
-   "cnUrl": "2339f4577df934b8595a936459d8640b854a696b00cdef52984102c0cdbb627a",
-   "jpUrl": "f285f93414e97d622d1393e2ac59197e24f0eb04e5ba736aad15693f1ae9fb69",
-   "enUrl": "73dbd75d59bf1f0f7d63a700e63153223b23db05a4dc4dc3e1158eed6a6f9287",
-   "krUrl": "df892291b56570c7a62f4f69876a63a3babe0610b3376daeeb9b7319494df21c"
+   "cnUrl": "20164a347ddf94a777185c395812843756b9ebac52e53f65fa2592783215c7f5",
+   "jpUrl": "69266e40fb63fa561c5cb33dc8caf4e0b95879e38dc57b8d6dae78b9c6336672",
+   "enUrl": "b95d96cdd946eadeba263d4a0186d1483a7e8d42a1f3ed73742c9c32efde85f1",
+   "krUrl": "9bbbca805764164a6598d57ba419786f7b8cd36c32b706089cb09fb3ed7e8b57"
   },
   {
    "id": 6,
    "title": "闲谈•唱片",
    "text": "为了留住那一首歌的触动，前人将音乐封存于唱片。我的收藏来自于不同的星球，甚至部分唱片的文明早已消弭…但留下的感动将化为永恒。",
    "unlockRequirement": "",
-   "cnUrl": "cc7105037e3aade3c7be84908fa6b77867448c7242a6bea23301d7625a0ebe77",
-   "jpUrl": "91cf48e514af59ac2c06a1277211f854fcb36c442ebd4d883fa0ba51e0a1e295",
-   "enUrl": "c472be66924d397bca6e35cf27e8b44b6b0c935ec9fb67210a55753f66fbbed3",
-   "krUrl": "5d067936271fb81b04fff176b6f7011d2886fc64e2507fbf645a8102437cf887"
+   "cnUrl": "b5ba29d15e3c2daab76d50583946f9cb0a105203ddd1b2a92992a4cf54f7c31b",
+   "jpUrl": "781827d335780a10e26f0ac6d964e76b4ae2dca4dae9afc452ba6b68de70c9e2",
+   "enUrl": "2f9af1b86e58a64882deb97a5798b1a18a42fe81dc495ee7e43830479e2d76fd",
+   "krUrl": "4fcb58754fdfae0d763e197e5b0dae13923cf0fc7ddd57459afb50b39664ba90"
   },
   {
    "id": 7,
    "title": "闲谈•第一首歌",
    "text": "小时候哥哥常常会哼摇篮曲哄我入睡，那是我学会的第一首曲子…虽然它没有歌词，但依旧是我最喜欢的一段旋律。",
    "unlockRequirement": "",
-   "cnUrl": "f2e82cb57484fc489ba3ff7f87e83b04bdf315cd430db9bf5eeb9ffdc23c3eea",
-   "jpUrl": "6c088ee98b648b7acbb3ebfb203011106fd1ab935a276154282ae5a96787f323",
-   "enUrl": "07c924b1e2df6b8f6ad3962db37ea0d66f2a8968f08613b5689a623795431a95",
-   "krUrl": "8971245c67cea31dd7ae78169d8d1de73f744ff6d9e7d0304d90cd3aff59a20c"
+   "cnUrl": "5872718dfdc41a3ed522924eeccec7a5d05ce9973c1332adbd4c38859a58ed41",
+   "jpUrl": "576ec204da9218f7347e33b233ceecb47f132b4a3dcf12c4a3ae86835ce0b128",
+   "enUrl": "b73cc34e4c9ffc9ba6fcac03ed57bb2771dc487eeee3509b8e10b115549b7529",
+   "krUrl": "2cdd23e84470903f673cf43528023ff362e042b463e0755a59fb4b63e0085737"
   },
   {
    "id": 8,
    "title": "爱好",
    "text": "偶尔戴上假发，换个妆容，再戴一副眼镜——这样去哪都不用担心了~",
    "unlockRequirement": "",
-   "cnUrl": "486cf60e5a8ca30b2e75b89065c5cde9ccaa660fd9473510f7fc79e8867f902d",
-   "jpUrl": "b4bf6d08424c8b0c3765cc5e27973f562f1e3388afad696d2a02928452086dda",
-   "enUrl": "73eddd42c8d0995c610ba593619cd206685b828b4685bd76ca5b9cf2813707db",
-   "krUrl": "38b1fc299c988e35e6aabd907811b9c18e641ab414daf8b84dcb1466b97d131f"
+   "cnUrl": "c3cb501a2c814b52ecab4ed00183307b0b0f8cc7aac13527a37f92b2bf443557",
+   "jpUrl": "8b7d9e82e84ad0724f43d63f91e044a47fa979e6715753b6b4b58d8da8fc6c07",
+   "enUrl": "5052e654da15ec535183d59ee0d0decda4dc94a9d4a5701eb96586748c202d69",
+   "krUrl": "ca0df51ff712b41c25a07732ad7239d52dcf3ab59fc8983ab874a82491129442"
   },
   {
    "id": 9,
    "title": "烦恼",
    "text": "没有巡演的日子里，我更喜欢离开都市去感受自然的声音…可惜，匹诺康尼的梦境中没有真正的森林，我也只能和梦里的「小鸟」聊聊天了。",
    "unlockRequirement": "",
-   "cnUrl": "3e7344dbae6b546fe379f4dc1a73f6e00971aee0675c47578b12ab04c14caff1",
-   "jpUrl": "e6cc186707f64b993fa5bff134c8f67baf001c8e6fad12273103ba6465d69d41",
-   "enUrl": "e76a2d3cab7c2c1232307c69b90383ed90756bafe085e1b6954dea11ab38f191",
-   "krUrl": "335bfef4e14f4ef2898d23979e8616c4cc37289886343d2d057220b5848421e1"
+   "cnUrl": "2451935b2b10f2cd60af86b23c8e92e6120f4cb147231ef280e3d626a35ab3c3",
+   "jpUrl": "79d5b4368d8b27b9ec7e9f1f9786603352c5dfbcdad6beb33912f500a1d6957c",
+   "enUrl": "60ebeba43fb8a36e81d5852f2cdcc611700b51507613d616cb2acf31ac77a883",
+   "krUrl": "aff26051811238a1c4db8214e829f722a3231eb5a60a41b9926e5cefcd66ec8f"
   },
   {
    "id": 10,
    "title": "分享",
    "text": "「同谐」的家庭中并无尊卑，所有人都能沐浴在千面神的颂歌下，我们共享一切苦难与幸福。希望我的歌声也能为所有人带来安宁。",
    "unlockRequirement": "",
-   "cnUrl": "bd9170ca1103d3b7b096a33aa749bbfdbf83f139263b694259544d448a5691ce",
-   "jpUrl": "eab2266363c6c7ba7b93e9c87c03c777da008c46518e861ba88ead5f87457c27",
-   "enUrl": "b50dd8c8054712fcb737abf5c22c14726c3c101ba36105a013d269a0ea25f5c6",
-   "krUrl": "6948c6fa75e3d8b0b7b1270d6751aebf2ff7d251543896ef8b063697788c003d"
+   "cnUrl": "19ed97193c9c0fcac7f5167d96a5fb7fc048e86333e4da01c7dd12cd073b89b8",
+   "jpUrl": "f4b635f0bbf71e6125441fcaeb9e71267a2b1eeed291242075fefa4b45936150",
+   "enUrl": "7afa7c68e0d74ab7e52577b37278d4e8655547c26ceb101166baeae43258edc4",
+   "krUrl": "e9250f6771acd5e5997b0de7f4b569e0ff888d2ee0aa9dff7dd33c877bea3652"
   },
   {
    "id": 11,
    "title": "见闻",
    "text": "艾普瑟隆的发行商为我出过几张专辑，也邀请我过去住过一段时间。那颗星球的氛围很像匹诺康尼，但比起艺术，人们似乎更关心艺术所能带来的巨额利润……",
    "unlockRequirement": "",
-   "cnUrl": "de4049aacbc622aa90f398cef6aa98136be654969a26e9ae8170a2e211c69945",
-   "jpUrl": "4bb34c6121053c32c912c2b872d9af8350756a644193110a9e0723aaadf542c2",
-   "enUrl": "1c6a5fd11874d540879c58980146b1df38b2a136f337b3f554101a80579d44bd",
-   "krUrl": "307c1199a1514c43c4f416a60af30c371bfc7e5dc2317fbbe3a9c176306dd402"
+   "cnUrl": "a4e9350f7fb4f038c6c825d4f90992377c737d409c9830e8373f83d6164e7710",
+   "jpUrl": "ddc5eb74658e59045d8e9e01beb9f8ef7735d7e7e8e1c070da448986e979ce42",
+   "enUrl": "05b8ac8fc752d005759206ab05b10dbe4efbf5ebd55237b54d9feadc1524a867",
+   "krUrl": "b790ffac97565ccc528f5d0d1dca7e2e86af06fb8da2ea40b5e99d454f1d60f7"
   },
   {
    "id": 12,
    "title": "关于星期日",
    "text": "哥哥或许认为，自己要承担起更重的责任。他总会认真倾听我的烦恼，却很少向我吐露心声…可能在他心中，我仍旧是妹妹吧。",
    "unlockRequirement": "",
-   "cnUrl": "031976c85774b81e38e4b3d196b2d168379229eb0b4d4292cc8f2d0f4ad2fe54",
-   "jpUrl": "22240df81aca424f736d2e923c4089a5fdc2e318f9803717777cee6aeefa1462",
-   "enUrl": "0a70106fb5e67d17d38d1fac21d7663eb51b515e007cd78af31a3370453254af",
-   "krUrl": "2e4b14b161718fd1af731b6b028fb3697b89367d8a20988b1375bc7e98862cb9"
+   "cnUrl": "bf5cd8c235c684e1f1009f83e873c6c2ac9ef9c0757a762a6e57a44572c054af",
+   "jpUrl": "b55d4f0db8eba3f1d8c5c6b8fb8f83ad7ea66006552302f6e37506315cac3f2f",
+   "enUrl": "53bc16dad2c1a287290cd51ff753f02abfbd6f0c9ce8e8cd9bcea91c7f9adaf0",
+   "krUrl": "6584f5d63596359030728ff27979b7cda842894aa95ae459a000abee7c1ed387"
   },
   {
    "id": 13,
    "title": "关于星期日·二",
-   "text": "Coming soon - Stay tuned!",
+   "text": "哥哥一直在保护我，但我也没有想过挣脱他的保护…纵使我们走上不同的道路，我也…仍旧是他的妹妹。",
    "unlockRequirement": "完成开拓任务「然后，在第八天…」后解锁",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "2d1285df07ab2e685a97e96f2374d4aeee67e8b87e95b8a3fea7b87747ac6699",
+   "jpUrl": "d12714360e6199459033ce5458f6e408f8b18b91e14698ebac41ffa67637bf53",
+   "enUrl": "0ef159e450bfa8e7c57d253641f8fd6d8c93b13968f87b40c66652456ba6cc69",
+   "krUrl": "514727e34eb9e64d611306bfab3c46fc4e084347737c4971e22091337c8a3ac8"
   },
   {
    "id": 14,
    "title": "关于加拉赫",
    "text": "加拉赫先生总是将自己的温柔藏起来呢…虽然平常看起来有些散漫，但关键时刻永远会站在同伴身侧。",
    "unlockRequirement": "",
-   "cnUrl": "094e1e6a1b5f106ce4096fcfaff51c550b9cd91feeb48118f30b3db57f007072",
-   "jpUrl": "3816c421e68adc45232e14852d665f7eeaeaa873be79ab730bb2cc4ff6aedf71",
-   "enUrl": "5218eda77365ad468cde6bf6dee33a8397a315fea8f4b1c244edd35aa78d5ed4",
-   "krUrl": "dc32f45e0e78382197ea35bfb31b6248fb17b69490308f6744c8d90ef1de9062"
+   "cnUrl": "edf5cb2dc82c658cf1b6b63890f9e16f28d613f98e2aee7347c6d62e9f8f0f3e",
+   "jpUrl": "ab5e7d7f943155d1fcdd5767b89817738d0fb80c157c99adf858bd4c8ac960b5",
+   "enUrl": "ccdf471e577261223cb80d867567f4e4c87983e4c740482dbbf3554dc1ead028",
+   "krUrl": "f3c7d8140b336b133e98cc2e3e73c74f90112ddf12d25931232117f493a3c323"
   },
   {
    "id": 15,
    "title": "关于黑天鹅",
    "text": "黑天鹅小姐的谋略与手段，就如她的舞蹈一般周全曼妙。期待未来我们有共舞的那一刻。",
    "unlockRequirement": "",
-   "cnUrl": "e6377d6382f3075753a702bd405d7bb08da167d74465be0077d71d55db34cdc6",
-   "jpUrl": "9c6d53abbdb152060e5a5f0fe18d70b7f9a0301221a5a525b91cfcb84793229b",
-   "enUrl": "5e7429d3a0772780ec058009c35b6adf69813805e8369cfb7268ca40f19dcc40",
-   "krUrl": "62a80228b83571581c86c40a7c7c467e824a6e639bb141fc957b2ee7fcabb430"
+   "cnUrl": "8b034236d926a5431193c823f905cd35beef0745644cd5d2b6c82a38bf8e4bf0",
+   "jpUrl": "73ff7d1583bfa8f4a96993180be38819e9d78199718a80790326e793ddbd1fd2",
+   "enUrl": "14cd9197df171bd3321effd437f724c448a27fbd1fff7aecf4bd8caf67d67ac2",
+   "krUrl": "4f56f0e73dd63d0ace34346ba731ea66c5fbb88cc7675f7b2fc50626ad4ecc6f"
   },
   {
    "id": 16,
    "title": "星魂激活",
    "text": "听，谐乐的低吟更加清晰了……",
    "unlockRequirement": "",
-   "cnUrl": "722216acf341257a7a120e7873798d38fe7b3c5a733cd0b6b37595ada8269780",
-   "jpUrl": "c9391701f57ee5437ad90bbdd3215f46121af7392489e802acee1634111f0bf0",
-   "enUrl": "6050f1c16c7070c473e4799dcc2ed0d5bbe76600ef6df2d0ab3aba2f6201df4e",
-   "krUrl": "a73c5f61f877c9ed6281c7a320fafd684851e135a55b22df2e6bcc1e451f7e8e"
+   "cnUrl": "19d271ca4aab78e35a6af5961164ff0d91fa9594b39d2c84c747a6aca366a850",
+   "jpUrl": "00c6cc6650b642273e0b17a2cd3821742790d9e80e0160c6b2f6ee41ee20faea",
+   "enUrl": "8a6b7aacc481889e41448e485700836304c5684f32692e5a89215d7ced7e6fd8",
+   "krUrl": "7eb5ef2ef50172e32d7f7bcb19071e5da31d1215144447f941a4fcebc6610c36"
   },
   {
    "id": 17,
    "title": "角色晋阶",
    "text": "坚持练习才能保证最佳状态。",
    "unlockRequirement": "",
-   "cnUrl": "71101847ee71d418cd681d507515e3892e49a5b964fe63c6bc467853a7704ab9",
-   "jpUrl": "a7790bb108ceceef132cba9131e91b99acc050022ca2ee261c36d1d6f979217f",
-   "enUrl": "edd80ccc9713259dd2b0f51f9b9c50c372350cfe604a08e65174a649c1fb89a7",
-   "krUrl": "786f09667b399a2afa85caba530af9beafacbfd588c5a1b1e654248839801929"
+   "cnUrl": "16d5fece052abd44221449bdd687f1ea1ce2c8c0f9aa0f8acf373229f1b236cd",
+   "jpUrl": "8f4da2c28863a8f4b75b831908a60af3b2fa20f293cb45560ed09669394d1396",
+   "enUrl": "d18ab5d487ef868db637c3392f9b66ba48d324177e501bb638cc79142307c700",
+   "krUrl": "5d6270a62ec8abe77294b37caf93a4782cd7f6b75615e7f5ca2caa17a548921e"
   },
   {
    "id": 18,
    "title": "角色满级",
    "text": "万事俱备，到了登台演出的时刻了。",
    "unlockRequirement": "",
-   "cnUrl": "b4dd940589635b52c57e85227283185ba8fc551eaf5174c8d72772d81c12a345",
-   "jpUrl": "f311fa7da2f76eda8f8356605a4ccb54ae430ad80bffd7d7e3533fd92ac27cde",
-   "enUrl": "4b9231fdc94685cd852cf8d46b45705f8c7955535f67f30756fbc931f0ff45e3",
-   "krUrl": "4327a458028a630804c91b12dd07a577ad5d67115d0f446300f1ef5c0f36565c"
+   "cnUrl": "1af55029896cb816ddb063e19e924cf81a56713b41eb3d73848de0b23f82d61c",
+   "jpUrl": "f221ade3e6615e2227a4d60ee9ab4c48dc0ab11b1a1589201ed4f9088097d41c",
+   "enUrl": "c999d6cdbfb631e885b7d2a8cda0e890b13a337c0961635025a91b3eab84903d",
+   "krUrl": "2f83e678ac38ad22bdcc5b4f84bf275462ac482ce96a4be58bec8807ddd58d25"
   },
   {
    "id": 19,
    "title": "行迹激活",
    "text": "乐曲之外的准备也不能懈怠。",
    "unlockRequirement": "",
-   "cnUrl": "9a311550fb4453065f464239b38df23c75c1d0f73d18a1f7a3d221b06ae32d8c",
-   "jpUrl": "ce831fa27460b176512431cde2ede263d4517a9a3835b9311a6df8555a55c2cd",
-   "enUrl": "37b99801eb27e1912cf98c02f2a9e48c79d2e7140331a0d1913353678a8b27fb",
-   "krUrl": "c288f20e889e5123ef91e0d9ae801a5f6e07531dce1012fdf6a1de57d38eda49"
+   "cnUrl": "4efe1d82e59d28e174a5ce41014482f0e29c92f4442599e2bf9b19335d8af8a0",
+   "jpUrl": "5ba70a830b98a76a02873f4b19251ca60595e6b8f9113febbb8ba8a835fdf5be",
+   "enUrl": "cb4db498c6e016add38421f096992f551353a8b0bdf6707a30d94d6bd033e694",
+   "krUrl": "aceb4ec50bf21d1706d714b78e3253d4ff7f68beab1c9e79430109343f412314"
   },
   {
    "id": 20,
    "title": "队伍编成•开拓者",
    "text": "别担心，我会一直陪在你身边。",
    "unlockRequirement": "",
-   "cnUrl": "ac10aec6dc3851699b43acab717e0f898bad6f96fec889f6bcbba7380b66c859",
-   "jpUrl": "80e5a40574f15eba484404473a5631b38124bb8e7de604c75b61fb613ab8e3ea",
-   "enUrl": "293f81588619f67b00f49ef386ec988045b0471140f0befa5bcb0430004e238d",
-   "krUrl": "d6004796b1fdbae17a715f826a91ea815c9d83b29582d8aab8b2bc4f10e29842"
+   "cnUrl": "30867a87b4b407f246843c8399cec5f0e514b8c77c50f7c0b8708d3873aaf557",
+   "jpUrl": "7ae486d5c4584d092e42baa9fe0540149804b0908be030a97f430e3b316359d6",
+   "enUrl": "71c3f7fba613b8432dc994f443bd6e289d6b1c5cd6df4d1cd22ce2f19d1ec171",
+   "krUrl": "b9921e78346de62f4b6c3246dc2d347b54a83a6a2b017a8cfd293dcc7cb15b93"
   },
   {
    "id": 21,
    "title": "队伍编成•加拉赫",
    "text": "背后的敌人就拜托你了，加拉赫先生。",
    "unlockRequirement": "",
-   "cnUrl": "435217d55a9b18332bd4f9d33b08f13967357281ac059b566a357961c8edc913",
-   "jpUrl": "4e5965f2daebdfba4c133016fe0dd0b357b991dbbfc636987c1db2be5beba7b4",
-   "enUrl": "f9250f7ab1e263e0ab96f49e6bf0b232b7fe6967f0cb3e9a8ad9b35bdaf3ccdf",
-   "krUrl": "44d5936c9d20217906d5f76da708dca7ebe66500b0c2eb8ae16004bcf6862f8a"
+   "cnUrl": "ff069b79f49b65d7c9978c84f5af824d9fde20935187202bc2560cd137028b81",
+   "jpUrl": "027dfa6c4104dc91eeec02b47f4ed5a91103e514b6a0cc9fcf35c9b7e9c3bae2",
+   "enUrl": "2bad5d246c5f78e5373130617397f653e8e63dc724a11bef3b8df45a8b90a843",
+   "krUrl": "08310557626d73d386b5920329eaa5a619ba72f161bed649b013239d2e69e975"
   },
   {
    "id": 22,
    "title": "队伍编成•黑天鹅",
    "text": "愿这首乐曲，与黑天鹅小姐的舞步相称。",
    "unlockRequirement": "",
-   "cnUrl": "3543edb6170f41eb7b7d3db482511b12b97a6b3e2a903d9e492b9193ffd590f8",
-   "jpUrl": "ebdf81f0702e6bdf88189a11c21bf9e8268d305cf57f6ff055ab18a5e80a044c",
-   "enUrl": "18ecbecb721b31d6f20bb00e57cfa7b2e0b338254231904b69f04c913bf121cb",
-   "krUrl": "eb19abfff0ff428d7ad3d30474a83fd340066dcb33ffd9713f9b1848cba4af28"
+   "cnUrl": "fa4f8da8b4fae59e21e5f66c9dd23e4855d96a009c56b6029c0f6bd573a48b34",
+   "jpUrl": "fc75e5477963b466cb083f12ba8ed1ff55bbf8b5424a07c0f2dd3fa862ae01a4",
+   "enUrl": "2f8e359af339284d99dc718605662f913b78db743a6a5a1d2e52da9d209c0988",
+   "krUrl": "0cd0d2c704b431e948adcae547de6074b2cb6c17ed10684b760f464f58c3f3f1"
   },
   {
    "id": 51,
    "title": "战斗开始•弱点击破",
    "text": "聆听生命的终曲。",
    "unlockRequirement": "",
-   "cnUrl": "2e1bdbf8d71f7db85cb161b3e54e37bacbcadb3ab9955ff8e5ab21de1c1c096b",
-   "jpUrl": "b2da4684936e58f3917b62f5f68a196984b9b71328da792623ed69c3f26fe8f6",
-   "enUrl": "7d4c2bc8272c2d5696ab86ecfd88a68a4271af4cf516c72e6fc1697dbfbe2291",
-   "krUrl": "f80ce3b2d39158efff4c5879fa71d7dbc4e41e7c02cc2de262cd2f5ffb0cbbb8"
+   "cnUrl": "044d7300b327020137fb3dbd6add02126ef77e205688699382e90292e1fff66a",
+   "jpUrl": "16ab01613db7b37c2578394357ae5fd9240f5cc1edd420064c9b3658bd9eb1f7",
+   "enUrl": "b6d1d24bff4629f54df3d64f4bb668798d154d37c8aa21e985cc7786022d2b6d",
+   "krUrl": "102f9cb6326dc047a3a58ed26afd7f13bea694b9c1f439abdf4274600e940683"
   },
   {
    "id": 52,
    "title": "战斗开始•危险预警",
    "text": "危险的心声。",
    "unlockRequirement": "",
-   "cnUrl": "27f67972476542e12b4ddb56d51c087961665d6fd7fa988d3ad4065c4ab7bd74",
-   "jpUrl": "4ccfe3672b4123be9585ae55e9a17d8e0e304fe2f86387bdbab04073743a78b8",
-   "enUrl": "b6fc1cea0a520030e9f5d639e6b334b15e3d174b11bd598770f6cc6e3b708436",
-   "krUrl": "97346ba2956f630c59744bf47f8ca136df22f6c0efaa4bc80dcdcb7117665fad"
+   "cnUrl": "0cadcb2b8bbbb87f21ec54a2ce587149ace4d655af9ceaf84683406c4dfad8fe",
+   "jpUrl": "522a4734f7c2be422be80e190f87c7752221df55b7273d70bf34baf5757b658f",
+   "enUrl": "7a21dc3246356dd4140b2969a6a5ddef3aeadc8000694ca0a74a424579636568",
+   "krUrl": "4910a3faa125486c8feaebcf1577c5a64f6a02c25cb6b3268deaee0f2cb398ff"
   },
   {
    "id": 53,
    "title": "回合开始•一",
    "text": "愿歌声为我们带来胜利。",
    "unlockRequirement": "",
-   "cnUrl": "f7225b89de2b2a4e48112fa36301ef7d0c605332ff0240c4ae095a3a78af2131",
-   "jpUrl": "7a5d0cfa241c3a2c61eb8400102a79dd2453b326f8cb3be90751666993a44ea3",
-   "enUrl": "745768793edc0708e4f48808ecd6cbd2c0b70268a392079fa85c32b4ccb1b73b",
-   "krUrl": "714205e1f88b6d0371531e91142206bd541ab1628d96036122de72af1079d190"
+   "cnUrl": "4d5711408618c17fbac47ba2b9a537829fe47947f79aca64e5f0fef31c2ed5b2",
+   "jpUrl": "1292abfee3e75a6b669fb727d0de6726a07d05512bf16176fea540cd0bee93c8",
+   "enUrl": "0cf9a2f242421fa9b6363202e53a0e25dc157933df2a73875097341b170d2791",
+   "krUrl": "feea93c59d4247e397208ac15fed9cfb5e7a73bcd469a132b1e0e9b96a7203c4"
   },
   {
    "id": 54,
    "title": "回合开始•二",
    "text": "希望世间纷争不再。",
    "unlockRequirement": "",
-   "cnUrl": "37e1764a88cc303867629152f6414e321d48793df87bb1b158c3ee8263ea1fb7",
-   "jpUrl": "ad290960ba6b33447789ddb465cb12a7dd1997f98455e074cfe3302a9a6e904e",
-   "enUrl": "84eff91000ed7accbcb8b351dca5abb58c358d6910ad86ef10ce2f5916e53cd3",
-   "krUrl": "c12a026653edb28d6037c64f7cdcf02a813b128d04b121472fb9980a5d7056e5"
+   "cnUrl": "c2fc7008726fdd652a9dd8a04e616691b23b3980a0819fc10b3d32453225db43",
+   "jpUrl": "6cde741015f523497b8a482a3bbb6089c78f0473c4fff0591ddc603c21ec3304",
+   "enUrl": "7fe9f721eb6def12b6918032727d45f6d5f9b8fcb8b64ad75014dbf29619053a",
+   "krUrl": "6671a1a37ce78d09678cba9e750069875186c3750469299ec0caccdbfd45724b"
   },
   {
    "id": 55,
    "title": "回合待机",
    "text": "该进入新乐章了。",
    "unlockRequirement": "",
-   "cnUrl": "dd81cba252fd8885f7eff4936640ff44f2394e8bf92b619b6fa2a48225866d4c",
-   "jpUrl": "af3e2dd84040c0157063b58a3e67e5ffe217847fac1098f2536abdb9a961c766",
-   "enUrl": "587ad6acbee703f3fd9cb961c2fc39904052bd85e8e5dca6b1c67ad4c4738e04",
-   "krUrl": "2a59f4cc6b0c88da2a85db55a080df2f8fc5d7a711af05db456340b86ad7ee92"
+   "cnUrl": "f3699bfe497c178fe1b57034ddd0727c59fb14291146caf4775e31f3b963a88c",
+   "jpUrl": "9bd4c55158406b1f2ea688f3c93f11c58191d0fa10535f5ec48f8a652adde60d",
+   "enUrl": "155423ffdb9e77147a769a270758deca4be0bba32b7d60fa6734fde8bfb8f11b",
+   "krUrl": "58951f0d0985394fc58c62e4672b249e8e4e012401de27ed47b49e60ac16ad0f"
   },
   {
    "id": 56,
    "title": "普攻",
    "text": "请安静下来。",
    "unlockRequirement": "",
-   "cnUrl": "5f42def6c467791bbbb85216fd64b4276fc81017773d20cffdb15cbacd07eb9e",
-   "jpUrl": "aa97384e0434af80389896fc0698bc90b617e7354083a7621b9cb53ea031745b",
-   "enUrl": "743afba9034af96be91a6b37bd515a0e07844ed1b1ae7c25957259cec2abdbd8",
-   "krUrl": "8281284d7eeca909eb76b073f170b2d78d9de2002af675bc2d6e5f5ef5ee5678"
+   "cnUrl": "3752c4b021c98a93cce12aec558cffccb7e94aa918425b3c85d8abf755d6d363",
+   "jpUrl": "08d93be151fc5c0a4456615bd4ca87833aacbee3a438d89851d526515b31c9bf",
+   "enUrl": "0396d43d9ca99a9a5c75378c534ea1fe531eeaa079275c4780d727ac2d73c63f",
+   "krUrl": "e00165e8eea9a4a2e84273ffa55af91f36f081641402c96665e6ce3e6c5c3c93"
   },
   {
    "id": 57,
    "title": "战技•一",
    "text": "谐乐，即将齐奏。",
    "unlockRequirement": "",
-   "cnUrl": "0330b2961f5a38dc115830d7992e2d009cdbd0b6734e8d81136a43a61a9a97ed",
-   "jpUrl": "28693e29fded0b6c61a3733a6897702ca6043288fbceff92fa54b72b9128b109",
-   "enUrl": "47fe307826102b6e07e9bdd24b4ad85917f0592e26f1907ac90d487a4f840e6d",
-   "krUrl": "7a6b5475ed74de66ed71766c4e1cfaa748964c7619f43728028e222b15f4799f"
+   "cnUrl": "b121978f618d4f2b03aebe1067889f89d91cb6e3d87a8f46da8914a3ea614525",
+   "jpUrl": "6c6832c526c60e9938f8caddfbfcc98ee8232e6f7bb752da1e2381a6fc9a3f54",
+   "enUrl": "260fbd0fd4ccbb5ba31ba7443e1db38f11b0950d74b42cb4d403be44b6ad1290",
+   "krUrl": "ce9cdeb5869c78615bee14e3845688a687a00ac3cb27f4823231f8542c7f8da3"
   },
   {
    "id": 58,
    "title": "战技•二",
    "text": "万籁，再次共鸣。",
    "unlockRequirement": "",
-   "cnUrl": "3812779efa3c3f34e77fb495180e5596d277ba3baab932c891f4ea8719896697",
-   "jpUrl": "8c878ff1d82c60863f61d3f48302245310e707a7eb95110653be6659c8b98a9e",
-   "enUrl": "7f41a837fb37a3ebc2b8d91a951c819d3b2d9dbb420dabce0d38e6ba8252174c",
-   "krUrl": "011c29b129095579b55388ca6c4db0b75ccbf15d9ceadd83c20a932f830111ad"
+   "cnUrl": "d6af420cabc8f9ff032f4a347d4a4620d61ff4922f48243b329c6764b3aa2761",
+   "jpUrl": "aa9f157d5e92b76bd47ad2d90a368c551e07e83212fc087b960c7fcf46ea7a75",
+   "enUrl": "8c02494802f6da32a9954a0c962451df5faa96148732d04bbe31fe68b0e49d57",
+   "krUrl": "44a9f8a73ce2dc498175fe9534d7a34f6e0e1ab4e8083de652b420e1f63f5c25"
   },
   {
    "id": 59,
    "title": "轻受击",
    "text": "没事，没事的……",
    "unlockRequirement": "",
-   "cnUrl": "3405186fbcee5cfb0591eab32663a77ba39447b9e9f4263fbf53718b6943d8fc",
-   "jpUrl": "1efe1ccf74a850eda68198b0fdd238522bcdb2063f35dfaeb3d10f8db773913d",
-   "enUrl": "84bbdaedc87366625d1d3675177af38cdf40f523bf839437a72382a9d849c7f6",
-   "krUrl": "201687398a8223ea735d0c9634b5baa11474b9ffa09aa44baa1811d7ea1921bf"
+   "cnUrl": "b6bbc0ab5a6830db5f76e9e1db6e2add4248b699461d61b1e117a418e786f12d",
+   "jpUrl": "0f95dcae222035915a27f845719bae84c21474d3325a860d9d9f18ddf054efd9",
+   "enUrl": "f4388ad138fcb284b68525fccd34e445ad80b012c368cd3a0255e8807b45f818",
+   "krUrl": "6e54f824e71a9e3db76940adb25f7f9f63edc1418f6d33008c851d00c4c31935"
   },
   {
    "id": 60,
    "title": "重受击",
    "text": "有点…疼……",
    "unlockRequirement": "",
-   "cnUrl": "094cd10dec1021f6c6c6078f294be75a99f089828a082235fe9a74288bd9ba87",
-   "jpUrl": "ccc350814422973673ce7425f9dccd6d2ed41a8ff674f119be7e221deb98eba5",
-   "enUrl": "6aed96ce70b81b98c73e9ba9e187ddd412c60b0f519dfec50ab1dc3b6b59a3c7",
-   "krUrl": "c1cda97a915142c0e9172c3b14d5a972c3cb4aacd5211d305300404440df19b1"
+   "cnUrl": "2037d2b36aa03652b1efb6e524e8fba30131bafb78646a008c29c8d0ca9d1a43",
+   "jpUrl": "2acf9d2358048c1d652290eb6535a483a9ff043c29be837e4a60ed0417a33454",
+   "enUrl": "b363188276d2dfa5a660c38a67a594a24ea7f2b5fdfb07c251626ed20f2c8035",
+   "krUrl": "e3bfe7be2418a98ea7e30d1187c2581349312d5dcd9f447345b7cd84d70cd982"
   },
   {
    "id": 61,
    "title": "终结技•激活",
    "text": "今夜，灵魂彼此相拥。",
    "unlockRequirement": "",
-   "cnUrl": "629acad382e51ec28f3ff19a0f20ba57f7127b520c59c7c4c9b06bb022a78155",
-   "jpUrl": "cbdb4d49403c32f4664e631f1376da9163c22278fb4620c34446ffcf716ae79f",
-   "enUrl": "55d83534d262c072cc824fbdeb3ac15ceb86f96000c3560433e8157d3687e22c",
-   "krUrl": "09afb296c68577c5de9ac5f6e1704c4ac11b5f824399dd1a376aaa721d342927"
+   "cnUrl": "9c738a60c44aa0d01ac189eead26563a74a54274b32653e29c68c47bef25891b",
+   "jpUrl": "21bc19da1ffa2c28126dd600e3e9e2996d99d22ead61167f1ff48a2e15ee4be1",
+   "enUrl": "38bc5be8bb4fe672e9e427b82d70647bcbbf38e27af315561e83df1bb6d7648f",
+   "krUrl": "eba60c09063bd7d2db48a32a59fe752065f46bad5e8980a5089096d883b2c181"
   },
   {
    "id": 62,
    "title": "终结技•施放",
    "text": "今夜，群星因我回响。",
    "unlockRequirement": "",
-   "cnUrl": "ff0fc27c48d9203c00ed9651d126d0a6cfd3d9efb1ac4b4691e76bd0276dba54",
-   "jpUrl": "a15855eb547ea84f789fa6b22396572ebf35b8f05a3fea713b0632edbc90478d",
-   "enUrl": "5e5597fbbc012ec3985361f454172cb731651d29b4073596e31d06f384465358",
-   "krUrl": "20cca19902fddb1bded9c0647d4e35361a0a2c4842e67367355c1cea35f95307"
+   "cnUrl": "5918b96bed6763f410d3f5c2697dc9a9fa2a46626cba7eb0013c57036945a9a0",
+   "jpUrl": "e499b027f6e5fa44d970b4f21336f193727b5d5297435253a5e655a8130427a7",
+   "enUrl": "88378c2ec03379c2935567e342e9df8a0761915149bda0efb7566ac652289129",
+   "krUrl": "7cdd6a735546c6295130ae7cf97b9abbd8266c875d88baded9a7063485928643"
   },
   {
    "id": 63,
    "title": "无法战斗",
    "text": "演出…还没…",
    "unlockRequirement": "",
-   "cnUrl": "553ce56e56a39b5338ccdbea468b743a02d4c3cfe458be36c60dce5db7d80f6b",
-   "jpUrl": "f78ba2593d114bce30dfc8d28eed04ac3fd653b880edb2f64567170ebc702ec1",
-   "enUrl": "74ccd2efae074ddc3e6384e707fad7cfc830fafb13a072e8ccbd4a521eab18be",
-   "krUrl": "782d1d8580fb9cb64ab52dd227ac881dbfc40269ac298740087714999c6572e6"
+   "cnUrl": "699ebc6967d3e84304843f45e2d6e8532b006d5a5516051ba3c912f5940eb649",
+   "jpUrl": "368a3bb95ffaa5ef30154d7a517441352b5939090f037f02685fea07f9578f37",
+   "enUrl": "3a16f1a03b417f38bc38972f97315b46e4017a32126a675ef2a55145cad63d65",
+   "krUrl": "00e01c9317085486efab5c31a9925355252b9dc00f2416992e8eff7048a3256f"
   },
   {
    "id": 64,
    "title": "重回战斗",
    "text": "我还能继续。",
    "unlockRequirement": "",
-   "cnUrl": "06a1d247db237608ee8e6f9a723d67970e5cc50b569efe8e5b39a378eb98c6cf",
-   "jpUrl": "2e0a05b6b237639cd354707b0f49f5525e0ae2f7ee4c1fd1dd5e09d6f4e84284",
-   "enUrl": "5993c06a1849276f094f3d531dc2b840a11d4f1e7e157d5f33bc5ddd2f81fcd7",
-   "krUrl": "5addda09e80f221ad83e652f0d805093f70ead56ac889e95d13c369a71a0d3f6"
+   "cnUrl": "cdeb3a26f5468c77232ff14bd930cec1d2db50ce51ac9b13798c3f38f0dc93cb",
+   "jpUrl": "8587fc1e4004af1f1a4938109b81aed01ad9d81c08313922a06ea57f6613251e",
+   "enUrl": "8aa8f384bd20fc52633be93b1c4eb0d609694568a6a99c70f8dce9cd9318abdd",
+   "krUrl": "bf5c56459f9beedb05795f13dffcea8e37dc891fa308d1ca5d4112830d02e359"
   },
   {
    "id": 65,
    "title": "回复生命",
    "text": "谢谢，喉咙舒服多了。",
    "unlockRequirement": "",
-   "cnUrl": "641af788dc9a5c6bdf761d7e40f6dcbb493e1e9e1c4b16921e2fa261d60f3593",
-   "jpUrl": "506d453e8260b372d1be7983e336744862ebe5a285ce7ee34a2e82e52960aa4e",
-   "enUrl": "27098ef1d1e94b924d8ba4b3043e3d242f695176a0e6f4d3f0a7bf1e90823aef",
-   "krUrl": "436c37d10005c486888978553a4df12022254e7a9d7888922f182309e75a4efd"
+   "cnUrl": "24b8fb3c7e0b2470f328f617cb7ab30ae2d6a39e4db2585ed7fe0e1ed0a43fa3",
+   "jpUrl": "42211ee0496c0e6a6673dd26157bf1f25d09e149a263dd13222f19c81bc3c038",
+   "enUrl": "913feadf4c841183bb3ba05f107711e9216ded679e082fbb6522f477df079577",
+   "krUrl": "4c180c9d46ef07263c3bafffff150cc5322b4490a9aa880c5a4f639395931c37"
   },
   {
    "id": 66,
    "title": "秘技",
    "text": "演出开始~",
    "unlockRequirement": "",
-   "cnUrl": "ae4313d5268b0af84c52c2d3c904ad5ef548ecbc70d069d835cfca6aab688927",
-   "jpUrl": "af37dd347c9b722ed38e459a2b4995a7ea6a64f9f47cbf34251a24d178256941",
-   "enUrl": "595a43a8d08d9df9380372621656b312705d001fb874aa40d59ad5b5d65f5493",
-   "krUrl": "e8fbc2af858be306842ab0b1c266c77855a0cb81ab48553dc1460608865e5653"
+   "cnUrl": "7c87b9987d100fc5eeba5c7310b8373005750a3e8abcc4b49000b969229f6fdf",
+   "jpUrl": "1efc1422846af56601b344ed5a45faa044b887740358dd93082ec5b9957ac2ad",
+   "enUrl": "c23e1387a7d2cdf42ba867229a93d2a7c521da32252c120ff1e36bbb9adb8382",
+   "krUrl": "4dd747aef9d7b7657d01bb7bea05387a4da3be735f4b4f93e3cebb0414072ec8"
   },
   {
    "id": 67,
    "title": "战斗胜利",
    "text": "愿你能在歌中寻得安宁。",
    "unlockRequirement": "",
-   "cnUrl": "88521e0610b438ff5931a4886fd449e8e76fcc803116abadd94ded7c4eca24fe",
-   "jpUrl": "ed02862de0512baa630d91ad855fd5b256519991e32f8c78bf9465e1cfadda4b",
-   "enUrl": "c037f54ed9ed2b04464e5d69b4720993971431e15fa960f1e73fda258a17b044",
-   "krUrl": "e9a81b882f826ed9e38e3cef8df179c51e52106548eb4e837725d07968a51cf1"
+   "cnUrl": "01927ae48d9001119a1698d40e10f4c48cf87bfa5a944d0b030e67568dfeed78",
+   "jpUrl": "395ffd6cc5745e43def977b433854c993ecd5ae107dd492557b385103701e92b",
+   "enUrl": "ff6f14639788204e713770597c5d0536b699b281756c9a266ad0c3ea5325f9ff",
+   "krUrl": "cd87d2e3b4d065f7898b6f7575e740e28ce7bd6dabfdb97bd954856f6220b848"
   },
   {
    "id": 68,
    "title": "开启战利品•一",
    "text": "嗯，不错不错。",
    "unlockRequirement": "",
-   "cnUrl": "67af6959f2f48c52933ffc6368966f508fb75d6fae4dc30d7b1b48e980c2c6e2",
-   "jpUrl": "53e81979f484dba9adf673fbcf6ad4f6f478f7fe711f1b81635e8cf9aad574d1",
-   "enUrl": "9694afa29fc1e6de78582e23d013eb08c4dfcfcf6b11345e5d3a38f4bd1bd8e0",
-   "krUrl": "f503303ef0a8177402633595b6f6e1e087f4536d0aee4dc90a54f8fc13ddbb49"
+   "cnUrl": "a6f721bb8e8d53cae7c841bf386f6b30b0410fd72735d43c3c1946fba99cd608",
+   "jpUrl": "85c63b29886dbfb95ee296aae2ad271b7bf63b531153d780009e322a0d7fbc42",
+   "enUrl": "a8a6791eac3c1d9038b36bed8b62d5e9ecddd779e10e6737cdcf0d3a51b4d033",
+   "krUrl": "e157ea5467378550321d9720ba7e42800176e0ab5babdfc3462d157d922618b4"
   },
   {
    "id": 69,
    "title": "开启战利品•二",
    "text": "我喜欢惊喜~",
    "unlockRequirement": "",
-   "cnUrl": "66080e1866d98958baf234090dd3f29c8d6f0f896b11f8ec383a852b63f9b30a",
-   "jpUrl": "dcd6974b03b18d0d84528a73859ba19d188a6923de9d8f1df57f7c67068d032b",
-   "enUrl": "de1ca4551bdbf20ad1e7ba1a179d842ff84c9eea446dfc334f4b975d23c609da",
-   "krUrl": "cb217c816899d8e9f74f7c7ad3d2db7dadac5c06f0f7cedd1a93c9546f8327fe"
+   "cnUrl": "27f2e490e171e96cc2e73ea929da3ad3ea5edfea57799253b9cfe6346177bea7",
+   "jpUrl": "66abbdb58a0506a33b2d86d9622145176010f1488208150348bebbd66d9ad398",
+   "enUrl": "0928652bd1307cc826f7affc660533542b7698d4a79deca833de0c3f7a94d30a",
+   "krUrl": "d597d57f28c7084bf6b078ec64a16c42d5419392f927cdfb2eafc1aa8c9585a8"
   },
   {
    "id": 70,
    "title": "开启贵重战利品",
    "text": "坚持就有回报，对吧？",
    "unlockRequirement": "",
-   "cnUrl": "20141e4ab9a2676c8130627b1fdc9e5c1477e5e6c0979d4319440d028a3cb714",
-   "jpUrl": "c9a6aa4c72a6a8a66d2385a9863da050183d3c58e33bc7870a557801fff41a02",
-   "enUrl": "17303478d8ef3bcac8588922c9da68f19d851b9a5e3186baa580becb354364db",
-   "krUrl": "c61967fda53de89cb02e80171f64d7a17e9d0dd2bef829cc9493a155886b3faf"
+   "cnUrl": "fec0cb894ab5f6e3e3761c31f78ae5f67be18b61e8d2ff355b9a703fbfb3e59e",
+   "jpUrl": "4a09d8827f3aec3b369b94aee9db3457c04ccef0f6ea89aa765c58fffb532cfb",
+   "enUrl": "7c4354ff2edae5109ca543d09826e5d1732109398116ff3917a0fe968fe04341",
+   "krUrl": "d381aaba0a007548d50d5995768d55c27f33edddfd7bf62a410ad19b3ad6c6cb"
   },
   {
    "id": 71,
    "title": "解谜成功•一",
    "text": "就像在拆解和声呢。",
    "unlockRequirement": "",
-   "cnUrl": "73eb12e9ef252adf078146d3d5f044ee2da271b7a6915c357a6fd27f35afc297",
-   "jpUrl": "02444b665af8419f4f420f43e3caad166b09cc60ec853f30790e3d0ac7071bc8",
-   "enUrl": "163dc950dae283072543154faf17900933d06ed07836049446159bd40f8252c6",
-   "krUrl": "240ccbaa0498299a747c1ca7b8e8842ec508768598726987729222e89fa704ab"
+   "cnUrl": "22eaeee2db47ec3ca7115997353ae653696b2cb6bb5070a29df3d73b216f3ff0",
+   "jpUrl": "24af65aa2504b33a9721c06a63e8c11f33baffb7cbbb4fcd4d319d1c80e1cc83",
+   "enUrl": "c050c5c448ab9c4b5685dabcbc87528a12c14f91014d8f8d2d90f4943e3c046e",
+   "krUrl": "53c823edf6d6aff3a7ee5331b0023fb519d239180169880f838e353ab5f8e930"
   },
   {
    "id": 72,
    "title": "解谜成功•二",
    "text": "有没有旋律构写的谜题……",
    "unlockRequirement": "",
-   "cnUrl": "7936734fc40d116c351b1e3d514bda6d0ccd62ff3a0c8c7949c0b292036e1370",
-   "jpUrl": "73a4d948a267fd4721300775750ec3c901af706fca2ab154c2cd933a1a47802e",
-   "enUrl": "ca690b4e309c9f3ed98ceccf93e29b00ab377835c975c152f558a4921932b233",
-   "krUrl": "c70016305b37e7e3f8c4800c8d4e2775b980b4231ace2ebfbaac34ec546c35b9"
+   "cnUrl": "2827fd4080cd5862031a3a93445c881f0a83395e4e16566141f0860f5ee362ec",
+   "jpUrl": "5490b5b3e6e290b5e80928c45f52cfb848dafa36745fe2343421f9a89e06bc49",
+   "enUrl": "9e206170ba139dbacf10562a4a4e9a904248d966dc66a1e40d21a1aa8bb76c60",
+   "krUrl": "5bcf59f0be3e4e038a64ccdf514d3f74f929205165157b8cd9cc930e06e2fe14"
   },
   {
    "id": 73,
    "title": "发现敌方目标",
    "text": "似乎听到了不和谐音。",
    "unlockRequirement": "",
-   "cnUrl": "98f7a7eca45af109be6e0ae299aab7633ebdebddd702ca8afdad2feb4d28c319",
-   "jpUrl": "00aa292c9dc5a41906678d50bc4f53ef3a75a63ad9378d9b6ee0ca18f441c002",
-   "enUrl": "c6db049d6d9021969cef2b7720fc80263fd1658ad1332093a891a28b68e08056",
-   "krUrl": "43c9eee74b172402683a3e665e09cf5e4002975c9645ef491d633eb2ca09f294"
+   "cnUrl": "fc8c9fec03d2b8054240cc2f07186b9a3dcb26d7fcd83bfef940bde39564cdd0",
+   "jpUrl": "05307582b3a040b786d0c59d48e5c6ab01566f12a5f660db135c2ce68506a1d1",
+   "enUrl": "3a638ee2b2da9a9f8b8e98a8b721dbfb746fc7334dac60fcc9b2609ba01684af",
+   "krUrl": "53c41bc14934e19a6b0c9aa86364a6ee074a2bbd8f6ae2a50fbf607437981532"
   },
   {
    "id": 74,
    "title": "返回城镇",
    "text": "巡演结束，该回去休息啦。",
    "unlockRequirement": "",
-   "cnUrl": "c285e6db8c4f51cf463edd532de7409e8d7bc22e9aed82a0655c73ab845b8418",
-   "jpUrl": "3452ba16e8792e3eebffd130c92fe402ee0c0ae7f2636d2c6e7e8ae5f12bcae8",
-   "enUrl": "1d20a858e9412920f4fe764c73bfef441b5979e67a5675588721c3eb3a3ba380",
-   "krUrl": "57c3b258585f4255fd710dcde991b9719bf32650ce81a808a9d6f58cbbd2574a"
+   "cnUrl": "9c3aec6f2d44936ff4b8a98a9633c9265aaadbcddcbef0443287180864fc2ffd",
+   "jpUrl": "ce48565b67a10f63ef023618609cdf6fd266b2025317d93b833771a0f0a6418d",
+   "enUrl": "55340ae6a0cab14c97658ae51286888dd6947cea4c2769a606bdaf24f56e9a7b",
+   "krUrl": "27f1592ae5078f817a88c8282f02400d3ed9a3b7b30c2e34f19a11297d3f9604"
   }
  ],
  "storyItems": [
@@ -2638,7 +2642,7 @@
   "cvCn": "钱琛 / 歌：Chevy",
   "cvJp": "名塚佳織 / 歌：Chevy",
   "cvKr": "신온유/ 노래: Chevy",
-  "cvEn": "Alice Himora / Song vocals: Chevy",
+  "cvEn": "Alice Himora / <br />Song vocals: Chevy",
   "camp": "匹诺康尼"
  },
  "calculator": {
@@ -2734,19 +2738,19 @@
  "name": "知更鸟",
  "rarity": 5,
  "descHash": "出生于匹诺康尼，闻名银河的天环族歌者，举止从容优雅的少女。 此次受家族宴请回到故乡，在「谐乐大典」为众宾献歌一曲。 可以依靠「同谐」的力量传递歌声，在歌迷乃至万界生灵之中展现「共鸣」。",
- "artPath": "0138e78111a7211d884e5ac86d8745f7d556b3d769edc541724ff94c9e7f8a84",
- "miniIconPath": "92edd6c32fa7d7899058fa5d263158536da5b0afca1bd6779bda7bfd53360c6d",
+ "artPath": "8bc6607b600885cca6f3d283de3eba485e046122ec75ce9dc3046ed6225efbfa",
+ "miniIconPath": "250ca8c4170ec4cd4472037dab4508c4736e38f63c391aa69d7b2ad1c7318a7d",
  "damageType": {
   "id": 1,
-  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "iconPath": "e21edc60ff709336831c1f18a58ad77fbe2cd85ceb630f7e87463545a4057bbc",
   "color": "#FFFFFF",
   "name": "物理",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "fd3dc153082117a49b1d8eb7d166dd32d65d636463e15c604b583d5945a4ca69",
-  "altIconPath": "691e6c36e7f71344352e4ed80941938d7dc5722b23cef7a18f7fa8722d8c0523",
+  "iconPath": "c0712011803bdb1229240f7c73e2b79b3a8d2c906cccf9c3f339366c0154827a",
+  "altIconPath": "39ee1c5a1d79036797346d3a863a964d63038749cc9944d66ca80ed22dca6029",
   "color": "#FFFFFF",
   "name": "同谐",
   "rarity": 0

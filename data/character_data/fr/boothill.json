@@ -1,19 +1,20 @@
 {
  "spRequirement": 115,
- "iconPath": "90d0035612b06602d9388edc3a59de88e763ddd04f3a330242ec09ee2a283c4f",
- "bgPath": "aa3f48d3cb5ac64baa003915a129d7ce49d4da76a9ed390423dd7feb075236d4",
- "figPath": "812805d3f29860a6c581580d1bdedcaa577b99f500edb01558990b8b9506a80c",
- "fgPath": "1f6972ba8145bdbb48ad377d2b8d30593cb31499496a6def7bdc5d8a7dce8657",
- "splashIconPath": "63e130d4b87be10b89be4db5bbec6b1ca5d49ec0bd3dd04670f0087117c90cff",
+ "iconPath": "ff811590878f08a772f8652f1e7370abee155e7b98f439bb9c73e7d1517296fe",
+ "bgPath": "99dc2aa7d7654a0c8070b24c58fa658833819d78f0dd82ba0723c6aff51816fc",
+ "figPath": "4abea4fa9187169c9bbad1f4c220b26f67aedcac9d23bb1261f805db659bfc88",
+ "fgPath": "a243fb4b058665bdb0152e4f9a95c0c54ee4f6b5fb794d7797868c5c511725e8",
+ "splashIconPath": "352a27d0ca1fdc80d21f54b79659ed937dc23848943e61cd05eb5a4e84050e60",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRsACAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSC0BAAABkGvb1rE9+3l/27ZZ2baddLaTKq3tyrZt34BTmZXN932fs39fQ0RMAIYO8gY8U71gOCoMVk7A2GSMubO5PhqAAhz8gc0ZYy5teT8vBm4T52dBKWRu2sc9ZaR+ezlxEhkNZcDrokW+Fy3k4388HQwF1P57/5MUobbIz9c+JSLRGE8xqWWwLbbmHZc5b99RU4aniNWBbTQpHE74pArAPtoyUm1NArBwEIfR/NjonjiDpkXKsCQfFY+WpcdpfuEgipj6XDGc/Atf3FvzgDZFbJIzAcNAbjtOkNRC/v3LE3AE0t1csZ83H5D/Hkw90riyFwbcWptURHHAfXI61s8H8t0BeE64uyOw6emET5MWPiyHAUcAfp297VkTW7Dg/NgloVAKAAwPAFAR1YFurhgSAFZQOCBsAQAAcAcAnQEqFAAUAD5tMJNHJCKhoSgKqIANiWwAnTKEdXCwsz4wG2A54bTVd5UIg/0AArffWkXKyzoKrKEEvm3a5ROVw+gA/uwlOKvojUbP9iD/b3XxOR+yjOE8irqe6gUg4rC0qVCnm/f9nvyiHHzxmVk0+2T51PYHS6oUdqibVMSlvk3L7rMnCHx8qpcLwJzcyV2GZpWk8MobOb7Gf2XifM2OPFFcr4IZfrZ52fIO+J7VDMJx+C7PuuZeaIYvAYnYKegWAOKa/7r1vUGK6G9gp6/wMh5j5pKOOey1CN2GHfCgldFMIk9NPKTX2rpPIUQJgsR7x+0KRxj+INkE0AN2CR4HMP4lBHRxgdU7Y323FkbynU9J4GqXbAyOSX8UFdu3gGYz3o9mBW8QAzp6P5JPB2dglhbl1XFPTmdH5C6Mj9jA9MR3QDPTwEH//x638dXL9v4N/uBEIOnfz4AzG+Qev//h6WgPK2Uq+AAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 2,
-  "iconPath": "db0b64061159f4acfb6a3034911f3b42572d0d8d51723ca888b8ce49b06961c5",
+  "iconPath": "0d032c5312107813ca5b29b0c67980c2d6d6888274edd2294ea5312d21f8fa29",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "125435": {
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Voies de la destinée",
    "desc": "Matériau avancé d'amélioration de Traces.",
    "lore": "La victoire s'acquiert au terme de nombreux échecs, et chaque pas conduit à l'instant décisif.",
@@ -52,7 +53,7 @@
    "comeFrom": [
     "Récompenses de points de l'Univers simulé",
     "Honneur des Sans Noms",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Lumières d'étoile",
     "Récompense d'événement à durée limitée"
    ]
@@ -61,10 +62,10 @@
    "id": 386840,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "eb2da34af7a3e9102c1aa020c17a5ac861f14473cc9992d1b11ff59ab2fd9590",
+   "iconPath": "fd3a5e6b318a5a9f8dabd54c0767a6eaedee125a264fe171d2d602e5449355a0",
    "name": "Écho perdu du vœu partagé",
    "desc": "Matériau avancé d'amélioration de Traces.",
-   "lore": "C'était le seul Aiôn à jouer la mélodie suprême jusqu'à ce que cette mélodie soit absorbée dans ses chœurs.<br />Mais son auditoire refusait de se taire. Lorsque des rêveurs imprudents ont saisi la corde du vœu partagé, les interprètes factices rejouaient les mélodies oubliées.<br /><br />« Les étoiles dessinent les doigts, guident les règles et les droits de tous les êtres vivants. Les doux rêves d'aujourd'hui deviennent réalité, et les anciennes lois des masses sombrent dans l'oubli. »",
+   "lore": "C'était le seul Aiôn à jouer la mélodie suprême jusqu'à ce que cette mélodie soit absorbée dans ses chœurs.<br />Mais son auditoire refusait de se taire. Lorsque des rêveurs imprudents ont saisi la corde du vœu partagé, les interprètes factices rejouaient les mélodies oubliées.<br /><br />« Les étoiles dessinent les doigts, guidant les règles et les droits de tous les êtres vivants. Les doux rêves d'aujourd'hui deviennent réalité, et les anciennes lois des masses sombrent dans l'oubli. »",
    "purpose": "Matériau de Trace",
    "rarity": 4,
    "rewardPath": "/material/386840",
@@ -76,7 +77,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Guide du voyageur",
    "desc": "Matériau d'EXP de personnage. Confère <nobr>20</nobr> <nobr>000</nobr> points d'EXP de personnage.",
    "lore": "Lecture indispensable à l'exploration des mondes. Appuyez sur le bouton de lecture pour activer une voix agréable, dans une langue de votre choix qui vous racontera les rencontres légendaires d'aventuriers de renom à travers différents mondes, ainsi que la sagesse précieuse et les connaissances qui en découlent.<br /><br />« La nouvelle série du Guide du voyageur, \"Le manuel du chef de la cuisine galactique\" est désormais disponible en magasin. »<br />« Pour toute question, connectez-vous à la balise de synesthésie ERD<nobr>-23</nobr>θ et contactez un représentant de la Guilde de l'intelligentsia. Facilités de paiement disponibles. »",
@@ -94,7 +95,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Journal d'aventure",
    "desc": "Matériau d'EXP de personnage. Confère 5 <nobr>000</nobr> points d'EXP de personnage.",
    "lore": "Un ensemble bien classé de notes d'aventure édifiantes, avec d'innombrables illustrations et commentaires exhaustifs, sans oublier de précieuses informations relatives à des techniques de survie.<br /><br />« Pourquoi ne pas les numériser et les sauvegarder sur un disque photolithique ? Ce serait tellement plus pratique. »<br />« La technologie de pointe est bien plus fragile qu'on ne le pense face aux tempêtes stellaires et aux éruptions de flux neuronaux. Et puis, l'auteur voulait sûrement que la lecture soit la plus simple possible. »",
@@ -106,14 +107,14 @@
     "Calice de Passenuage",
     "Calice de la Frontière des rêves",
     "Entraînement quotidien",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "409962": {
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Rencontres de voyage",
    "desc": "Matériau d'EXP de personnage. Confère 1 <nobr>000</nobr> points d'EXP de personnage.",
    "lore": "Un carnet de voyage parsemé de commentaires et de contenus divers griffonnés. Il ne vous sera pas très utile.<br /><br />« Dan Heng, dépêche-toi de lire ça pour t'en débarrasser. »",
@@ -131,7 +132,7 @@
    "id": 549210,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "ae1751bde54881f61c4a931b60e2923b8032ce91241561aeb6ed88ac8ee27797",
+   "iconPath": "83140650a75f68acd3c464f5c9f3e2a37fc4c9cf00cccc7df9643bf9535a8d4b",
    "name": "Lambeaux de pensée",
    "desc": "Fragment de pensée passagère. Matériau commun utilisé pour le renforcement.",
    "lore": "Au sein de la Zone de mémoire, des milliers de pensées flottent telles des grains de poussière. Les pensées brisées s'accumulent, et servent de nourriture et de composants pour les créatures mémorielles.<br /><br />« Les pensées passagères peuvent se dissiper dans l'air ou s'accumuler jusqu'à devenir une obsession ».",
@@ -140,9 +141,10 @@
    "rewardPath": "/material/549210",
    "comeFrom": [
     "Butin de Créature mémorielle",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemis de l'Univers simulé",
     "Récompense d'affectation",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -151,7 +153,7 @@
    "id": 633151,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "d76fcb744e5bf3574f3fa68b6e66adfefdf41b1652d1dd788b0dbe68407b1e0d",
+   "iconPath": "0192ab0a5e3d02fe26ee8da7fe31b07c720e715bd225ae56d7ced9bb556fe9e6",
    "name": "Fragments d'impression",
    "desc": "Fragment d'impression profonde. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "Au sein de la Zone de mémoire, les souvenirs formés flottent telles des lueurs passagères, et seuls les fragments profonds et mémorables peuvent être condensés en cristaux.<br /><br />« La mémoire n'est pas qu'une réplique des moments vécus, c'est aussi une reconstruction des émotions passées ».",
@@ -161,6 +163,7 @@
    "comeFrom": [
     "Créatures mémorielles au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemis de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -169,7 +172,7 @@
    "id": 635681,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "4d41db3fdd9d25351202ba113297b0120b2fe75c9812979f82fb9fe9699a79c7",
+   "iconPath": "1339acaf76f8117d50c0fe005ad137e4e1f8ed9b560b45ae8f5e497de7e014f6",
    "name": "Balle météore",
    "desc": "Les balles de fer forgées pour la chasse aux monstres. Chacune porte des marques, semblant indiquer le nombre de proies qu'elles ont abattues. Permet d'améliorer légèrement les Traces des personnages de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">la Chasse</span>.",
    "lore": "Les archéologues armés ont découvert ces balles de fer au milieu de fossiles et d'ossements de différents monstres. La datation radioactive a confirmé qu'elles ont été tirées à une époque où l'humanité n'existait pas encore et que les créatures qu'elles avaient abattues étaient les derniers vestiges d'une certaine tribu de monstres.<br /><br />« Mourir de vieillesse n'est pas différent de mourir par balle. La voie du chasseur ne mènera ni à une fin sacrée, ni à une fin pécheresse. »",
@@ -178,7 +181,7 @@
    "rewardPath": "/material/635681",
    "comeFrom": [
     "Calice : Salle d'audition Félicitâme™ d'Écorchesable",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -186,7 +189,7 @@
    "id": 717092,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "ac85858f27838b734365e77343aabcdbaf56463c492b153cfb4ebd64c04f659f",
+   "iconPath": "1de5e10b7e00fdd60f28fb4a6523889456248f633ed770cdcdf128f5e4987151",
    "name": "Fragments des désirs",
    "desc": "Fragment de désirs obsessionnels. Matériau avancé utilisé pour le renforcement.",
    "lore": "Au sein de la Zone de mémoire, la bibliothèque des désirs prospère. Elle absorbe les pensées et les impressions, alimente le miroir des désirs et reflète les ombres mystérieuses des créatures mémorielles.<br /><br />« Les souvenirs pointent vers le passé, tandis que les désirs pointent vers l'avenir. Lorsqu'un désir s'infiltre dans la mémoire, les rêves se déforment et, peu de temps après, les démons émergent des profondeurs de l'esprit. »",
@@ -196,6 +199,7 @@
    "comeFrom": [
     "Créatures mémorielles au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemis de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -204,7 +208,7 @@
    "id": 836267,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "851c201a74315dde58ba432e418f95ed5289cfd4247d1689d787bbeea2627a44",
+   "iconPath": "115d108599f5562b60e29b8be50ccf23d27f4c8cec491fbedec36e4e52477927",
    "name": "Tir contre-temporel",
    "desc": "Une balle en spirale qui se heurte toujours à la flèche du temps, comme un chien de chasse qui poursuivrait éternellement l'immortel qui défie le temps. Permet d'améliorer considérablement les Traces des personnages de <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">la Chasse</span>.",
    "lore": "Autrefois braises d'un Seigneur ravageur, autrefois bouton de destruction massive, autrefois dernière complainte d'un ancien mastodonte... Combien de morts ont été nécessaires pour forger de telles munitions ? Et quel type d'arme à feu peut les propulser dans le passé ? C'est la réponse à tout, pas une question en soi.<br /><br />« Vous aurez beau courir, vous aurez beau fuir, il vous retrouvera toujours, pour vous clouer dans le tissu du destin. »",
@@ -221,7 +225,7 @@
    "id": 866635,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "e77713aac9f0dc8efb0047a1b9c918d14aaa40589e0472f557374cb53d06818d",
+   "iconPath": "4e457e358310644ce3054344cad365762765bdab9d96076b3cf54c545406d598",
    "name": "Permis de travail de la CPI",
    "desc": "Un permis de travail appartenant à un employé de longue date de la CPI. Permet l'élévation des personnages de type physique.",
    "lore": "À la CPI, seuls les responsables d'équipe ont droit à un permis de travail de ce style. Des acharnés de travail comme eux pourraient oublier de mettre un pantalon, mais jamais leur matricule !<br /><br />« C'est bien plus qu'un pass pour accéder à l'Embarcadère, c'est un symbole de statut professionnel ! »",
@@ -237,7 +241,7 @@
    "id": 920208,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "f10357d7a1a6625ee12b9be735f07e201970a32df33ba4e430311573d23a6f3b",
+   "iconPath": "76a5e35d28e371eb95809e8975b54e6be3c6dfecd363669e615f5d50ade7824f",
    "name": "Extinction destinée",
    "desc": "Enfoncée dans le front de la personne décédée, transperçant la fente de la matière, cette balle réside à jamais à l'endroit où son trou devrait se trouver. Permet d'améliorer modérément les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Elle traversa les chemins sinueux au milieu des légions de soldats, transperça le point faible des casques les plus solides, pour finir par s'arrêter en plein milieu du crâne du tyran invincible, en émettant un soupir semblable à un murmure. Son impact se fit comme une coïncidence fatale. Un point final que tous étaient condamnés à rencontrer.<br /><br />« Parfois, l'impact de la balle précède la trajectoire. »",
@@ -247,7 +251,7 @@
    "comeFrom": [
     "Calice : Salle d'audition Félicitâme™ d'Écorchesable",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "af56813aab04a5ffc7be18a0ebb51c2e3eadf6113f343f34d1a0b97df33309e9",
-   "artPath": "0faf3581533d89e5e76ead46d05b47c85ccc92616634568100aeab2d4fa20e33",
+   "iconPath": "867913a8bb48f08fed02d45ef791d7005ec81b38faf9f64d292afc504ad82429",
+   "artPath": "b716c0a6981d4ce67aa740176876250f683bcf189251789e4eca021d535031c0",
    "name": "Sillage de l'étoile solitaire",
    "descHash": "Obtient 1 cumul d'Avantage en poche en début de combat. Lorsque le Fossoyeur inflige des DGT, il ignore <nobr>#1[i]%</nobr> de la DÉF de la cible ennemie.",
    "params": [
@@ -449,10 +453,10 @@
   },
   {
    "id": 2,
-   "iconPath": "a99b32529608c02797eddf881230538499e25bb43824208af1ecbcf2f374add5",
-   "artPath": "30ad75299cdf10ce6ac046c689ee8d6e6277fbfcdc48c6f3708ccb4a799506ca",
+   "iconPath": "484637be231f49225003b50ca81a091a8113ba78a79c89918902e6c223fc76a3",
+   "artPath": "4ec551a007da46e30b0b786e85df20e2b702aa0a141bb69b57d2e85a92db7c65",
    "name": "Baroudeur",
-   "descHash": "L'équipe récupère <nobr>#1[i]</nobr> points de compétence lorsqu'Avantage en poche est obtenu en Confrontation, et augmente l'effet de Rupture de <nobr>#2[i]%</nobr> pour une durée de <nobr>#3[i]</nobr> tours. Cet effet ne peut être déclenché plusieurs fois en un tour, et il se déclenche également lors de l'obtention de cumuls d'Avantage en poche qui dépassent le maximum.",
+   "descHash": "Lorsque le Fossoyeur gagne Avantage en poche dans l'état Confrontation, il récupère <nobr>#1[i]</nobr> point de compétence et son effet de Rupture augmente de <nobr>#2[i]%</nobr> pour une durée de <nobr>#3[i]</nobr> tours. Cet effet peut également se déclencher lors de l'obtention de cumuls d'Avantage en poche qui dépassent le maximum, mais ne peut pas se déclencher plusieurs fois dans un même tour.",
    "params": [
     1,
     0.3,
@@ -461,16 +465,16 @@
   },
   {
    "id": 3,
-   "iconPath": "6a5b855790917c58a079333f43d016d9df92adce7d01c3e0b70cd53824c6e8dc",
-   "artPath": "11555c453b690152b79b1c3780755d2ce447a09d5e31169c53e98e283c674673",
+   "iconPath": "08f9f5b040f74cf7c2014976fbe0ef57aae1c36699cc9cc437aab3677a5aedd8",
+   "artPath": "f14a7fc570c2485f28ddbe02049b93b22a989176e3f1f577542bc2f7574d0606",
    "name": "Gardien du verger de marbre",
    "descHash": "Niv. de l'ultime +2, jusqu'au Niv. <nobr>15</nobr> maximum.<br />Niv. de l'ATQ normale +1, jusqu'au Niv. <nobr>10</nobr> maximum.",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "4e9937a0dffb546501439405931358c89f62d24e90fe73130c4d246233538684",
-   "artPath": "eb41591201008bafb381a3259a0c16f088f0b959d119c43d12fa4a66ac066115",
+   "iconPath": "de902d3ca680f3d2029f68b80d4f91ddce45c4adcb7d1f4e487f23f73a795677",
+   "artPath": "fe9c6b5889d025cc404f3d9f9b70244adbd7462007b88d0544062056fbc53957",
    "name": "Spécialiste de la viande froide",
    "descHash": "Lorsque la cible ennemie en état de Confrontation est attaquée par le Fossoyeur, l'augmentation des DGT subis est majorée de <nobr>#1[i]%</nobr>. Lorsque le Fossoyeur est attaqué par la cible ennemie en état de Confrontation, l'augmentation des DGT subis est réduite de <nobr>#2[i]%</nobr>.",
    "params": [
@@ -480,18 +484,18 @@
   },
   {
    "id": 5,
-   "iconPath": "3998db06ac06890ae3f3dc290f6e55983c005e0db8ee0d14f75250daaa97cc03",
-   "artPath": "16538efef4796c3ec0413be35a3f13e968b34788372d9876b4adf6990e0e2cba",
+   "iconPath": "37f166054cec99c4fc9c73742cc10f4be1c605418d5fda1cbaab7cc5be8ef8a4",
+   "artPath": "0cae18938ef0766f063634f11adf78ee0c53bebaf499d899afecc03ab32bec1c",
    "name": "Discours de la souche",
    "descHash": "Niv. de la compétence +2, jusqu'au Niv. <nobr>15</nobr> maximum.<br />Niv. du talent +2, jusqu'au Niv. <nobr>15</nobr> maximum.",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "c682159413b2165fc539fa4345804b0f23b1bd90efb7e1749c7d57e8aaaeb9b8",
-   "artPath": "3930b492bf61c59b53eb4e50019fcffe8d0785408ed5a5262128b145204cc181",
+   "iconPath": "db2da3c5c6c82b5966ba42031bf12e9d42dad0c48dd0bb133ab52fe953e64fd4",
+   "artPath": "7e28a238da5b032a16f8b8ea542b951441faeb1ad39f9b8224647c6e285be03a",
    "name": "Raton laveur du Motel Pied-de-biche",
-   "descHash": "Lorsque le talent du Fossoyeur inflige des DGT de rupture, il inflige des DGT de rupture supplémentaires équivalents à <nobr>#1[i]%</nobr> du multiplicateur de DGT initiaux à la cible et des DGT de rupture supplémentaires équivalents à <nobr>#2[i]%</nobr> du multiplicateur des DGT initiaux aux cibles adjacentes.",
+   "descHash": "Lorsque le talent du Fossoyeur inflige des DGT de rupture, il inflige des DGT de rupture supplémentaires équivalents à <nobr>#1[i]%</nobr> du multiplicateur des DGT initiaux à la cible et des DGT de rupture supplémentaires équivalents à <nobr>#2[i]%</nobr> du multiplicateur des DGT initiaux aux cibles adjacentes.",
    "params": [
     0.4,
     0.7
@@ -519,13 +523,13 @@
  "skills": [
   {
    "tagHash": "Cible unique",
-   "descHash": "Inflige des DGT physiques équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> de l'ATQ du Fossoyeur à un cible ennemie unique.",
+   "descHash": "Inflige des DGT physiques équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span> de l'ATQ du Fossoyeur à une cible ennemie unique.",
    "ultimateCost": 0,
    "break": "30",
    "energy": "20",
    "id": 776239,
-   "name": "Sabots brise-crâne",
-   "iconPath": "577473c743253e00ea0ef159043e4f1fc637b1150a735dd587e69568e835e2ae",
+   "name": "Coup de talon brise-crâne",
+   "iconPath": "372603116df32f9bb66320cdfc5a39b263e7bf6d835d248db36608c800b796e0",
    "typeDescHash": "ATQ normale",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,8 +689,8 @@
    "break": "0",
    "energy": "0",
    "id": 692298,
-   "name": "Tango crépitant",
-   "iconPath": "3998db06ac06890ae3f3dc290f6e55983c005e0db8ee0d14f75250daaa97cc03",
+   "name": "Tango endiablé",
+   "iconPath": "37f166054cec99c4fc9c73742cc10f4be1c605418d5fda1cbaab7cc5be8ef8a4",
    "typeDescHash": "Compétence",
    "levelReq": 0,
    "promotionReq": 0,
@@ -990,8 +994,8 @@
    "break": "90",
    "energy": "5",
    "id": 575653,
-   "name": "Rodéo de poussière du crépuscule",
-   "iconPath": "1dccc41640b6beb6bb192605b03affe29b957fc4ef84dec83db27ad47ae307fb",
+   "name": "Crépuscule des plaines du sud",
+   "iconPath": "dd43914a4bc74ef5b7185a558220109a180a7817046d89004c69acb80fa2cc9d",
    "typeDescHash": "Ultime",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1290,13 +1294,13 @@
   },
   {
    "tagHash": "Renforcement",
-   "descHash": "Chaque cumul d'Avantage en poche accentue la réduction de robustesse de l'ATQ normale renforcée de <nobr>#4[i]%</nobr>, cumulable jusqu'à <nobr>#5[i]</nobr> fois.<br />Si la cible est <u>en état de Rupture de faiblesse</u> lors de l'utilisation de l'ATQ normale renforcée, inflige à la cible des <u>DGT de rupture</u> équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>/<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>/<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> des DGT de rupture physiques du Fossoyeur pour chaque cumul d'Avantage en poche. La robustesse maximale prise en compte pour ces DGT ne peut pas dépasser <nobr>#6[i]</nobr> fois la réduction de robustesse de base de l'ATQ normale « Sabots brise-crâne ».<br />En cas de victoire, le Fossoyeur peut conserver Avantage en poche pour le prochain combat.",
+   "descHash": "Chaque cumul d'Avantage en poche accentue la réduction de robustesse de l'ATQ normale renforcée de <nobr>#4[i]%</nobr>, cumulable jusqu'à <nobr>#5[i]</nobr> fois.<br />Si la cible est <u>en état de Rupture de faiblesse</u> lors de l'utilisation de l'ATQ normale renforcée, inflige à la cible des <u>DGT de rupture</u> équivalents à <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>/<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>/<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span> des DGT de rupture physiques du Fossoyeur pour chaque cumul d'Avantage en poche. La robustesse maximale prise en compte pour ces DGT ne peut pas dépasser <nobr>#6[i]</nobr> fois la réduction de robustesse de base de l'ATQ normale « Coup de talon brise-crâne ».<br />En cas de victoire, le Fossoyeur peut conserver Avantage en poche pour le prochain combat.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 261352,
-   "name": "Cinq balles dans le barillet",
-   "iconPath": "31e1d0c552c4a9ab387ca3922c324da778779d997bc2eb0b3f7d0f9d1d01cb06",
+   "name": "Barillet plein",
+   "iconPath": "5ce47056d1c1afd6e6fa4336eb98f5df5c0143b44bfc68466fe7ea478155533b",
    "typeDescHash": "Talent",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1646,7 +1650,7 @@
    "energy": "0",
    "id": 60766,
    "name": "Attaque",
-   "iconPath": "577473c743253e00ea0ef159043e4f1fc637b1150a735dd587e69568e835e2ae",
+   "iconPath": "53b5e6f980625730c19948339fe20a8bf888628d50cbc9f262d1f4b072b70f7c",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1664,11 +1668,11 @@
    "tagHash": "Renforcement",
    "descHash": "Après utilisation de la technique, lors de la première utilisation de la compétence au cours du prochain combat, applique une Faiblesse physique équivalente à celle appliquée par l'ultime à la cible pour <nobr>#1[i]</nobr> tours.",
    "ultimateCost": 0,
-   "break": "60",
+   "break": "0",
    "energy": "0",
    "id": 976825,
-   "name": "Sourire de trois sur neuf",
-   "iconPath": "70993f817a6a2d3438f425a2432785c142b34823e7a8cad01cc34ee5f6cde1c2",
+   "name": "Sourire carnassier",
+   "iconPath": "d810c6b3cb8a88fa7a6cb9ca6ca35855443ee4715ba8dfbc5396a04cdee71b6b",
    "typeDescHash": "Technique",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1691,8 +1695,8 @@
    "break": "60",
    "energy": "30",
    "id": 629820,
-   "name": "Martelage en série",
-   "iconPath": "fdc0bb290bd93c91cac13ad7fa8941041d48f404fd1b68ef4e8237aca162cbf7",
+   "name": "Tir en rafale",
+   "iconPath": "0788f801fa3cf50080e6c5b0d45aa2edcc1d59d9fb996148f1052b0caa34fbbf",
    "typeDescHash": "ATQ normale",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1867,7 +1871,7 @@
         "name": "Renforcement de Rupture",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+        "iconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
         "statusList": [
          {
           "key": "Effet de Rupture",
@@ -1896,7 +1900,7 @@
       "name": "Augmentation d'ATQ",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATQ",
@@ -1925,7 +1929,7 @@
     "ultimateCost": 0,
     "id": 416484,
     "name": "Recharge fantôme",
-    "iconPath": "06eb81390bdfc99ede74a9dfd209ac392bfdf39930373f15f4e59b0131d31884",
+    "iconPath": "2cf39824232d47d8cbf0bf39142944c4d1ef09f1f93ec55edc6522e7f6d02b53",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1977,7 +1981,7 @@
         "name": "Augmentation d'ATQ",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATQ",
@@ -2006,7 +2010,7 @@
       "name": "Renforcement de Rupture",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+      "iconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
       "statusList": [
        {
         "key": "Effet de Rupture",
@@ -2031,11 +2035,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "Réduit les DGT que subit le Fossoyeur de la part des cibles qui ne sont pas en état de Confrontation de <nobr>#1[i]%</nobr>.",
+    "descHash": "Lorsque le Fossoyeur est en état de Confrontation, réduit les DGT qu'il subit de la part des cibles qui ne sont pas en état de Confrontation de <nobr>#1[i]%</nobr>.",
     "ultimateCost": 0,
     "id": 416485,
-    "name": "Au-dessus des serpents",
-    "iconPath": "8f7bb66426d484de5c41146ab4d3f20b77bff921e0fcc1b1c46b53b5ef20ebe7",
+    "name": "Panier de crabes",
+    "iconPath": "4f7f2aa4d13dce2a6049146dd1b619f5c5dad4a61b28139c3bda0871eab7e249",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2069,101 +2073,6 @@
    }
   },
   {
-   "id": 1315201,
-   "anchor": 9,
-   "type": 2,
-   "children": [],
-   "embedBuff": {
-    "id": 416645,
-    "name": "Renforcement de Rupture",
-    "levelReq": 1,
-    "promotionReq": 0,
-    "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
-    "statusList": [
-     {
-      "key": "Effet de Rupture",
-      "value": 0.053
-     }
-    ],
-    "cost": [
-     {
-      "id": 29328,
-      "count": 2500
-     },
-     {
-      "id": 549210,
-      "count": 2
-     }
-    ]
-   }
-  },
-  {
-   "id": 1315204,
-   "anchor": 12,
-   "type": 2,
-   "children": [],
-   "embedBuff": {
-    "id": 416642,
-    "name": "Augmentation de PV",
-    "levelReq": 0,
-    "promotionReq": 3,
-    "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
-    "statusList": [
-     {
-      "key": "PV",
-      "value": 0.04
-     }
-    ],
-    "cost": [
-     {
-      "id": 29328,
-      "count": 10000
-     },
-     {
-      "id": 920208,
-      "count": 3
-     },
-     {
-      "id": 633151,
-      "count": 3
-     }
-    ]
-   }
-  },
-  {
-   "id": 1315207,
-   "anchor": 15,
-   "type": 2,
-   "children": [],
-   "embedBuff": {
-    "id": 416639,
-    "name": "Renforcement de Rupture",
-    "levelReq": 0,
-    "promotionReq": 5,
-    "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
-    "statusList": [
-     {
-      "key": "Effet de Rupture",
-      "value": 0.08
-     }
-    ],
-    "cost": [
-     {
-      "id": 29328,
-      "count": 45000
-     },
-     {
-      "id": 836267,
-      "count": 3
-     },
-     {
-      "id": 717092,
-      "count": 3
-     }
-    ]
-   }
-  },
-  {
    "id": 1315103,
    "anchor": 8,
    "type": 1,
@@ -2183,7 +2092,7 @@
         "name": "Augmentation d'ATQ",
         "levelReq": 75,
         "promotionReq": 0,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATQ",
@@ -2216,7 +2125,7 @@
         "name": "Renforcement de Rupture",
         "levelReq": 80,
         "promotionReq": 0,
-        "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+        "iconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
         "statusList": [
          {
           "key": "Effet de Rupture",
@@ -2245,7 +2154,7 @@
       "name": "Augmentation de PV",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "PV",
@@ -2270,11 +2179,11 @@
     }
    ],
    "embedBonusSkill": {
-    "descHash": "Quand Avantage en poche est obtenu en Confrontation, il permet de régénérer <nobr>#1[i]</nobr> points d'énergie. Cet effet se déclenche également lors de l'obtention de cumuls d'Avantage en poche qui dépassent la limite.",
+    "descHash": "Lorsque le Fossoyeur gagne Avantage en poche dans l'état Confrontation, il régénère <nobr>#1[i]</nobr> points d'énergie. Cet effet peut également se déclencher lors de l'obtention de cumuls d'Avantage en poche qui dépassent le maximum.",
     "ultimateCost": 0,
     "id": 416486,
     "name": "À bout portant",
-    "iconPath": "ed201157ff38829920d616636e6f559deda3855aafefe6675e5428d5b27d5056",
+    "iconPath": "d38d83d9e75bf77cec802ba58f834a4494165c0964ada9dd9c4f61cedf72f81e",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2306,6 +2215,101 @@
      }
     ]
    }
+  },
+  {
+   "id": 1315201,
+   "anchor": 9,
+   "type": 2,
+   "children": [],
+   "embedBuff": {
+    "id": 416645,
+    "name": "Renforcement de Rupture",
+    "levelReq": 1,
+    "promotionReq": 0,
+    "iconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+    "statusList": [
+     {
+      "key": "Effet de Rupture",
+      "value": 0.053
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 2500
+     },
+     {
+      "id": 549210,
+      "count": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": 1315204,
+   "anchor": 12,
+   "type": 2,
+   "children": [],
+   "embedBuff": {
+    "id": 416642,
+    "name": "Augmentation de PV",
+    "levelReq": 0,
+    "promotionReq": 3,
+    "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
+    "statusList": [
+     {
+      "key": "PV",
+      "value": 0.04
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 10000
+     },
+     {
+      "id": 920208,
+      "count": 3
+     },
+     {
+      "id": 633151,
+      "count": 3
+     }
+    ]
+   }
+  },
+  {
+   "id": 1315207,
+   "anchor": 15,
+   "type": 2,
+   "children": [],
+   "embedBuff": {
+    "id": 416639,
+    "name": "Renforcement de Rupture",
+    "levelReq": 0,
+    "promotionReq": 5,
+    "iconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
+    "statusList": [
+     {
+      "key": "Effet de Rupture",
+      "value": 0.08
+     }
+    ],
+    "cost": [
+     {
+      "id": 29328,
+      "count": 45000
+     },
+     {
+      "id": 836267,
+      "count": 3
+     },
+     {
+      "id": 717092,
+      "count": 3
+     }
+    ]
+   }
   }
  ],
  "relicRecommend": {
@@ -2314,27 +2318,27 @@
   "props": [
    {
     "relicTypeHash": "Corps",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "Chances de coup critique",
-    "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8"
+    "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695"
    },
    {
     "relicTypeHash": "Pieds",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "VIT",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Sphère planaire",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "Augm. des DGT physiques",
-    "propertyIconPath": "17a936e642ddc644dbb666c4a1279dd2386321a74cf73b0332a33c7f209c2176"
+    "propertyIconPath": "62d2adf7a844bf1a7fe99366820249feb0b8a9ebab432a2acc2c44122be2cd69"
    },
    {
     "relicTypeHash": "Corde de liaison",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "Effet de Rupture",
-    "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f"
+    "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f"
    }
   ]
  },
@@ -2342,572 +2346,572 @@
   {
    "id": 1,
    "title": "Première rencontre",
-   "text": "J'm'appelle le Fossoyeur. Ceux qu'on déjà entendu parler de moi savent ce que ça veut dire... Et pour les autres... bah, disons que pour sauver vot' peau, mieux vaut en rester là.",
+   "text": "J'm'appelle le Fossoyeur. Ceux qu'ont déjà entendu parler de moi savent ce que ça veut dire... Et pour les autres... bah, disons que pour sauver vot' peau, mieux vaut en rester là.",
    "unlockRequirement": "",
-   "cnUrl": "9cc1c0082d6497a65f2958e04e2e1f144dbcbde7818d15eb6a5d04baa821ff0a",
-   "jpUrl": "a327a7b019bb3e85a5ec82cc7aae7bb53c892a2dbaa91334027783f3bf1b6b3e",
-   "enUrl": "ac8a053e1f48f536255b6ecf8a245c8e24f12639d8bf06a20f1ced078084348e",
-   "krUrl": "baa27f9202489000096dc0ee6b7708fd21089cddd7b5572b9c67001e8f7c2338"
+   "cnUrl": "60f308af7b91b0996d2fe0eefb26ac2dfafbc7ad4ea45e44662b7d44c0a76ff1",
+   "jpUrl": "775582f417485961bd4efc161df9d67266e03e1171528980373a1a1ef1514793",
+   "enUrl": "1248fda0e7f892f654d129b4b68a1a54dbcef15b6707455529e229ee743ed051",
+   "krUrl": "780b62ae58e13cb0ab359f6f13deac9d37ed6f88bc2f254635de4c1bac3142c3"
   },
   {
    "id": 2,
    "title": "Salutation",
    "text": "Alors ça c'est un sacré temps qu'on a là. Je me demande quel fils de poule va manger les pissenlits par la racine aujourd'hui.",
    "unlockRequirement": "",
-   "cnUrl": "4ee016a20472d0aac965d3787d59a1b50cd6a04569396becbcd0b4bdb2236577",
-   "jpUrl": "0a650382b1eb7041433c0a82f11681e6a63cdce90394c45ad73176dfefdd208b",
-   "enUrl": "561fb44b697629d39b7f6e6390bad57a86593744c0a8164795b37f800de44c29",
-   "krUrl": "a8ef817ae1ccaaa9a393ad5e07c238440f7f0ec6306e1d47a0dcfea117041a52"
+   "cnUrl": "fd4d1768c8868bd88e9f275a2b086959570ea26e4c231d4c91f67b413bcd8e68",
+   "jpUrl": "c6c8a4cdaba83d79bd5bb452476e73e6db1d63aaae470486502e77be365355c2",
+   "enUrl": "3ac365afcd81d07b3eef675f10caddc7c347179ea6a01b14edabf4968ff947e7",
+   "krUrl": "fa91cdbb7dffc1fd71fe9a6b0f7b02a919206166aa2e6ecfc5ce6186b9c308e0"
   },
   {
    "id": 3,
    "title": "Au revoir",
    "text": "Je vais pas me voiler la face et te dire qu'on va se recroiser... mais si c'est le cas, j'espère qu'je mangerai pas les pissenlits par la racine.",
    "unlockRequirement": "",
-   "cnUrl": "4fb4831fae235a904e35d53d657c630ea9f4ce1984c48855ac62b279eaecc4b2",
-   "jpUrl": "298faf93248bc4d9a3da1a2234d783600eb4e91f6f9726e230f816b7a86cbf41",
-   "enUrl": "8cd2bab0093f961ddb917055f2d5d0326694e7e36892c04032fcbe1abb703ae9",
-   "krUrl": "5f08eeff24695e0f3f7aeb1348bac0458f08b3c0166191c6c5c9e53165f1500b"
+   "cnUrl": "28d0af310b1cd6a1a13795b25d295d7b9d8d5568c6a8defe96077e7ce517cd03",
+   "jpUrl": "69a3dc820b9f545ab6297cbc7fb047278c53339d6d19fe48b3a8f58bd2792083",
+   "enUrl": "718b16fac40b39db9562ceda2c57ae21c3741776e1c553f1f3d149263429a022",
+   "krUrl": "3e7d46cdb529cec9a0f73156fadd924c73df28913c0107a089c8e09c7d015c70"
   },
   {
    "id": 4,
-   "title": "Connaître March 7th : Nom",
+   "title": "Anecdote personnelle : Nom",
    "text": "Y a des milliers d'années, on appelait ces pistoleros assassins les « Fossoyeurs ». Tu parles d'un nom, on va pas le refourguer aux vivants. Mais bon, on peut pas dire que je respire la vie non plus, ha !",
    "unlockRequirement": "",
-   "cnUrl": "1a425b7162123a67903d9924b17affaa024c1a0b12b299cc83544d30206165b9",
-   "jpUrl": "25cb15ab63faa6c8fb83b7a4913c9c31a131f55ec0c2a02814c1be2878e89e3f",
-   "enUrl": "9b9c3cbd6358b11a924b2694757477621dadafeca0619a0d4c1402054ea66600",
-   "krUrl": "ed70b4fb28f7f7dbb8867501b71cd2fd0186c2e5e74cafe211f4718071a34048"
+   "cnUrl": "3ece3ec105783c4bf33a99b71a8ba23c8575d05395e8e500adba0cd1b83d199c",
+   "jpUrl": "68c3621217c89ac6e58b8edfc3ea3e4526dfef3db9edba28e5e784cdc78e55d9",
+   "enUrl": "fdff8d33feeec9837dce68774bf9622cb2ea5f089b3f8d99b710036f690e1399",
+   "krUrl": "2391002e863bc2fb67f782e0966c07b74d98bed2c0b3f96a230a385c0ee7ff39"
   },
   {
    "id": 5,
-   "title": "Connaître le Fossoyeur : Balise de synesthésie",
-   "text": "Bon, voilà le topo : quelqu'un a bidouillé ma balise de synesthésie. Du coup, dès que je me mets à jacter avec ces trublions du cœur, vous n'entendez que ce genre de canaris sortir de ma bouche... Merle, merle, merle ! Punaise de merle ! Vous voyez ?",
+   "title": "Anecdote personnelle : Balise de synesthésie",
+   "text": "Bon, voilà le topo : quelqu'un a bidouillé ma balise de synesthésie. Du coup, dès que je m'énerve, il n'y a plus que des canaris qui sortent de ma bouche... Merle, merle, merle ! Patin de merle ! Tu vois ?",
    "unlockRequirement": "",
-   "cnUrl": "81447ae7b272a22d446f5e67145136cde49c056a3a1ce1c64ddbce92c23f710a",
-   "jpUrl": "cb4085c537550912c71c8193300440cb17c1500fb24aa62ad1da4e1123ca9e05",
-   "enUrl": "930979140dc0f03c3248bdf94d0acf2c7a5d1a590a2b86f8836a10d503cada64",
-   "krUrl": "c92c539f844d51236ba1755030364410bbdfea1235f296780529b480c96c9b84"
+   "cnUrl": "9f44a9f448d540da5fcba8439df847997c9891bb52b72b20531909f32aaf919d",
+   "jpUrl": "dd0fe1a608a496edadee8de05c87e4901322c6e246a62a250dd2e63ca0338191",
+   "enUrl": "7993d5298db7273a296f1b1b1a0e4e391fb2d0f430ec86205c1e10855806dd22",
+   "krUrl": "fe1142ba50f6af4c2c7aefa835ac343259e7a157f5a8d86adaa5ba354cd293e1"
   },
   {
    "id": 6,
    "title": "Bavardage : Jus de malt",
    "text": "Ce que t'as sous le pif c'est du « Bart <nobr>17</nobr> ans d'âge », celui-là il vient direct du système Cuhvallun, vieilli en fûts, un arôme de tourbe carrément bestial. Si le jus de malt c'est pas ta came, arrose-le de milkshake à la fraise par-dessus un peu de terre labourée toute fraîche et bim, te voilà avec le classico arôme de tourbe. Bon app'.",
    "unlockRequirement": "",
-   "cnUrl": "51bc9153f37a3bf4357de91daaa8f2d1410d1812cb14fd20f32138d704ad939b",
-   "jpUrl": "417546329ce617b80a7d91fcc3af773a72cca51e2dfb66bd335f67b1e9e6cdc0",
-   "enUrl": "83e63cebf1951e2e6accb233343c9112b4b6e98e45291800be77610a81c04408",
-   "krUrl": "fdecd15899249cb367eb42f120ff98e49cd7aba4b73448161df15b3234de47bc"
+   "cnUrl": "13145f9253fe98f6d16d708820a4ea7a107642af84544e3d3802e588a94d00ea",
+   "jpUrl": "9273143a9492152eeeb9c32d6f5fb5c15198172572afd53c2a030a38f6e35733",
+   "enUrl": "8b5fbe5ab821675609e60517313ade8a00fba5caff7b2b8c48a9c1fd69aa1dda",
+   "krUrl": "e83b4aa5f966df347f09057064e270cd4fc74c6a1005271fc525448bc467254d"
   },
   {
    "id": 7,
    "title": "Bavardage : Voyages",
    "text": "T'as déjà zieuté les brochures de voyage qu'a pondues la CPI ? Tous les coins qui valent la peine d'être visités ont une étiquette « Voyage risqué ». Bah, v'là le bon côté quand t'es un type recherché, c'est que ce « risque », c'est bien MOI ! Alors tous ces lieux là... j'y cours aucun danger.",
    "unlockRequirement": "",
-   "cnUrl": "c1630548885b4d1ea6a6f8cab29458f5661f32b9621ea2b294e329c4e12dedf3",
-   "jpUrl": "982eea26c490836582882b7945d72b1ffd5b8e81fa8c7acece2924cf9702f349",
-   "enUrl": "da4c46dd4e3890d586ab8eab3029133b598be366b0535baf0db7fcfd16bc5899",
-   "krUrl": "53d567d24fe570fec62c13a8dbe2e7835083beccf91fc3756cb3b61ccfa06beb"
+   "cnUrl": "b9792ebd9736caeaf1a5c0b55a9ac99cb5998ee3a83e89be8fad5023f13ae811",
+   "jpUrl": "7001ca12b5c0bd29e221949e3a836cf7f859b3471703fdc3233c582d76edffba",
+   "enUrl": "55d90bff5194e886e6a57b0723a86bcd086df1638a1b37072a03b0057f8a8e1d",
+   "krUrl": "742e1f8fff647b1cfc83186d68a70cdacdd87245fe28aab084ddbe67730a0d16"
   },
   {
    "id": 8,
    "title": "Bavardage : Principes",
    "text": "J'ai peut-être les poches pleines d'argent sale, mais moi au moins, j'ai des principes ! Règle numéro uno : ne jamais claquer son argent sale pour le plaisir. Deuzio : les crédits, c'est pas la même chose que les biffetons. Et tertio : s'amuser un coup, ça compte pas comme s'accorder un petit plaisir. J'ai jamais enfreint ces règles !",
    "unlockRequirement": "",
-   "cnUrl": "4831e49928ef3771f2ed18b95c4bb949b9b3a34cc3d54e834c6eee0f81443fde",
-   "jpUrl": "1aa854e3d43599b3ce6cc98b9e2c498e824d1ad4ced5f8f7cdfa20f3dbf3939d",
-   "enUrl": "a0ae1618168cc77c29c05bb008d5e477c84cf10cab523208c36dc2dd4634739c",
-   "krUrl": "158fd3a2e71616f159fc74ba3ffc2c3e7caa5d1c690986379e0cf12e6e68c900"
+   "cnUrl": "194008e97dad06c6b2f39aafd1c670fca4adac1a8fbdc30d3e1f0a372355d541",
+   "jpUrl": "6231255cc342a3ea73a4c9b519826948b695508a139ab5aa6c599fd0898faa23",
+   "enUrl": "ce672371a8c8770d720c35325dd2a418b6e6666de6b95236fe15aa214bf81710",
+   "krUrl": "b4618b9c268fdc455f94694b710d2b1c447dea6777c951733f0b66782346ccc2"
   },
   {
    "id": 9,
    "title": "Passe-temps",
    "text": "Le neuf millimètres, c'est un classique. Avec une bonne balle traçante au phosphore à l'ancienne, t'as entre les mains un bonbon explosif, avec une extra dose de pétarade. C'est quoi le proverbe déjà ? « Les balles traçantes frappent des deux côtés de la clôture... » Ça veut dire qu'elles suffisent pour filer la trouille au menu fretin... mais qu'elle attirent les gros poissons par la même occasion.",
    "unlockRequirement": "",
-   "cnUrl": "d650b9335bea1a377528f951223e51bc22467966addcecef25cd49512750c74c",
-   "jpUrl": "c780241a8b19447bfedc2cd1854b94cb187b492656fb5a29f8689c525ca34349",
-   "enUrl": "56f21736aadced624e0435bf8e9ad110515105c167fc4814591729a6fcbaf2be",
-   "krUrl": "18571a0b9528a0942a1964ff42728a93c748faff9d3675d88e3452f10ede4b73"
+   "cnUrl": "fa689c90fe3fa7c90c2c3763fb7a67043d1334362196f5bfe9cb2c5aaff5f47c",
+   "jpUrl": "4ca8aed326aba5f4931ea5cd312be163ad3206bcd2e22d5dd0dabbe20116daa0",
+   "enUrl": "9021e82c1718a76b21cfe4f6cd50eb9678bd80331dc4aba3681bdbe94d817f62",
+   "krUrl": "aa5ad020d52934e28a846705dd0b6c22fd33c2e273a869edb3dc600a8a6c54b1"
   },
   {
    "id": 10,
    "title": "Problèmes",
    "text": "L'univers, c'est comme une cuisine de malpropres, on peut ouvrir n'importe quel placard, y aura toujours un nid de ces cafards ultra corpo qui grouillent de partout. C'est signe qu'il faut remettre de l'ordre dans ce bazar.",
    "unlockRequirement": "",
-   "cnUrl": "b6acb67d582382ad479d012a3d98489506f534437034df9cf298f21a7e965a99",
-   "jpUrl": "e42a101692c9c784bc5c38c7c0d72f1f3cd73ab9dd2bbe29a5557d4e3d83a63f",
-   "enUrl": "17223d7ac6d2b71bcb9faacd9bdb9349bbd2ab2ceaa8ae6990d06ebbb708d3dc",
-   "krUrl": "68d7ca5a0bee62ec4f6338b29563a5ed5b15602137f40bbf2f7c49867ea8c751"
+   "cnUrl": "a1046ae3af506790e9bdbe5a4ad415f6184b9b71ab59515f4c1480973017237a",
+   "jpUrl": "b8a52efa2055f4ac6adc3aeafaeaacb34143ad0a354794aab0d855ea92b8b32a",
+   "enUrl": "4c0e2f9c0155fabe85dd5eb267b75e2bd32434765b3deee3b97ba978bed47317",
+   "krUrl": "949d9aedd28efff2f8692da2366946fc9565b46257886f5dfc5d1b5a3436280f"
   },
   {
    "id": 11,
-   "title": "Anecdote",
+   "title": "Fait notable",
    "text": "Dans ce monde, faut croire en certaines choses et tiquer sur d'autres. Fais confiance aux gens avec de bonnes intentions, du courage et tout l'attirail qui va avec. Mais tu te mets le doigt dans l'œil si t'as gobé que les bonnes choses tombaient du ciel. C'est à toi de faire en sorte qu'elles se produisent.",
    "unlockRequirement": "",
-   "cnUrl": "7b853108a3f8e02d933e135668324c4d3d8d7b5b99999fba3e19c77832ce64b6",
-   "jpUrl": "c530e73687cc8a4c77fcfb04d78a65504dc9734400c9dffb807dd7bae69f460d",
-   "enUrl": "43b8cea0ef0547d172813dcea31be655b1080af2a455f306e0e01bcc7f8d9eec",
-   "krUrl": "e0653da0fdc2180edc091a3f334ddb3296f5329efe9e7b2c9304d65899d55619"
+   "cnUrl": "d144d95303078b2362a350dd6c2c07abdb4bf350ceafa24c0962135392b6cef0",
+   "jpUrl": "c4dc6d29ad86457450fd2532b857d99cc995946134e4ba34e5e1a69e3e6a22f8",
+   "enUrl": "b31311eaec18685ca1c0c05b476747e16284d32b679969532fbb250fb2807e96",
+   "krUrl": "c1427732662c79e274800680683695ebb6b075e5706d555378171aeddde0a1e6"
   },
   {
    "id": 12,
    "title": "Connaissances",
    "text": "T'as déjà vu la Flèche de lumière de la Chasse ? Si ça t'arrive un jour, la regarde pas directement... J'ai fini par y perdre mon œil droit et me retrouver avec ce corps... Hahahaha, je te fais marcher !",
    "unlockRequirement": "",
-   "cnUrl": "f8e2e4cf6843ecfc556a72fc57e7f36835b85e40869b0c2adc4e6143c59d60ec",
-   "jpUrl": "6574585d839bc4f19e738ed5407be62cd4cc56994380c674274c7d6abc5a58a3",
-   "enUrl": "f0da17f432aa65318ad69cf8b0701707bdd2c8747d2b25e01fbf2e85d2a2790b",
-   "krUrl": "25199863c73c28e406bb0c3968eaea238142ff0d9855eabc93e479e94f11cfc1"
+   "cnUrl": "dd0634c22b2efbd4c5ee1b8f292000ff0560b4a4f227ea674cbef111adc67374",
+   "jpUrl": "acf0f69479101373e4d557954ef92fa6cb46bad4f3434cf9d7c6faeead97fb89",
+   "enUrl": "4f205ae3222ad82420dcb54f334127a9d5e200da7ffc948727f60230f229fde4",
+   "krUrl": "e61df3d1000fe5049120800d4a78db6fa0899d7255443742cfd2fd5002ea8a45"
   },
   {
    "id": 13,
    "title": "À propos de Dan Heng",
    "text": "J'ai toujours vu d'un bon œil les gens de Xianzhou. Lui là, il est comme moi, un brave gaillard qui cause pas des masses et préfère se la donner avec des armes. J'suis sûr qu'on peut se tailler le bout de gras !",
    "unlockRequirement": "",
-   "cnUrl": "1b04f4b01701994d1f1f07b86c3760cfb5c002ae8fc3ab7dae1f6e9c1fcf42d1",
-   "jpUrl": "2cf6a0df402317dd154d5b7a4266902a95bde41cf48fda69f559432fb1b9de94",
-   "enUrl": "e782dcb444e83449570093523834254c41e14ba72e068494d52adc47a256f78e",
-   "krUrl": "ca8ff296fc03a7e1d096b3bd6ae21e9761f51cd32217850b7a5f60dea516c37a"
+   "cnUrl": "3b003204bf1cc0cc91583522f9e87c438f054daab1cf03e3377d2b49c68d1ba9",
+   "jpUrl": "a9232a33c06ca8e12b610cb5d181345c3839f380b7ab6db7e10f8a1cefa53719",
+   "enUrl": "f87038ea4656b6f68dda90482c582236643738be45c77486c43aa49745992da9",
+   "krUrl": "ee98d55f24746213bde0d42b81591c884a3d0c65f42cab4b05eaa37af1cd3e3c"
   },
   {
    "id": 14,
    "title": "À propos d'Achéron",
    "text": "Alors, j'ai toujours été à la ramasse sur son histoire à elle, puis pourquoi elle roule sa bosse comme Ranger de la galaxie... m'enfin, y a pas de lézard. Si un type comme moi peut jouer les justiciers, alors toutes les routes peuvent nous amener à faire le bien !",
    "unlockRequirement": "",
-   "cnUrl": "3d88547974c7c3d69636abba62d6049e492fb32e415a18216856f2b552bddfe6",
-   "jpUrl": "a33ff71c27ddf90f84775f2e5ad2568ef7b30ae23e3c336b54e3e785692720a7",
-   "enUrl": "242539b610f6ec53261c8956eaa7593295f34c029511141b2d6dc9ea4cf2f934",
-   "krUrl": "b3d2e380d97c2f4488f7a74ee2b43a9b93646d7c88ce3c6f1fc7f74a2ee4dc8a"
+   "cnUrl": "9a840b48ab15cc77213a59e66f2c16886915d3c0c683afc08df4b6e5bc979169",
+   "jpUrl": "975619e019dfc62fdb35bf6702adf8ae2f3d341734c7a008efd208e4d2080743",
+   "enUrl": "e94db3c66d3bd66f9fc22582868164790812f7ce63aa932de0700591d211750d",
+   "krUrl": "a678bebb472c056d369b162e1d8d2f1b8035fdaba46ade9430ae5d25a5b9f5b2"
   },
   {
    "id": 15,
    "title": "À propos de Cygne noir",
    "text": "Retrouver la trace de cette copine protectrice de la mémoire est coton seulement si on se dit que ça l'est. Si tu perds ton temps à pister les infos, c'est comme tirer à blanc. Mieux vaut poser ses miches et cogiter en se disant « viens me trouver ». Qui sait, elle finira bien par rappliquer.",
    "unlockRequirement": "",
-   "cnUrl": "a08fe43241ab4e8bccc45c7025185f9aa37665726d52c850dcd6b32f3fca5190",
-   "jpUrl": "38ceaf1646551a63631d2f7453fe51f2110b9e7f57487313085c17bce6f06b02",
-   "enUrl": "36d79618bede7d3a578f1e296a2b7b49d8302bf086be130fec910dadd758df08",
-   "krUrl": "6f5e947a81a51c6d24b891a15265152255f0ce17e6c38762949aebdbb117da7b"
+   "cnUrl": "eb14938aac31e2f3b3a8e20ecf7eb1629167cd787c2e10403b96089a5ecdc62e",
+   "jpUrl": "3f2446692e5e6820700ed6e47397ba22b07c6a0085c27d95477bcb040597d00f",
+   "enUrl": "9c58191405529d8e0beaa9f0bf078c142a0e40c18884dac6bedb3019db026b0c",
+   "krUrl": "40a95dd984f0e5622a0b61a90736a818b90edcc4c387824e438f9a705b4969f2"
   },
   {
    "id": 16,
    "title": "À propos de Sunday",
-   "text": "Coming soon - Stay tuned!",
+   "text": "C'est quoi encore ce vieux dicton ? « Le fer est pavé d'indigestion...? » Eurêka ! L'enfer est pavé de bonnes intentions ! Dans le mille !",
    "unlockRequirement": "Débloqué après avoir terminé la mission pionnière « Et durant le huitième jour... ».",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "3f353d0ed02ae0f61e3fa46920bffe48aab930e4f779ce25746f4cb688fb348a",
+   "jpUrl": "090cdb8189439266a29721e8750d771220f476e6f2f0cd7bddbf0c921d5a0210",
+   "enUrl": "adc35170d4e806bb1484dad0f8ca40da1bf6398f7e1bda3018a6cc4dbae36f2c",
+   "krUrl": "a61b120ef9b5ec19da6ad955c0cd5c83b227c2b7048b08606476add820bea8df"
   },
   {
    "id": 17,
    "title": "À propos d'Argenti",
    "text": "C'est un sacré blagueur le destin, vu que lui et moi on s'est déjà croisés. Et que dans ce vaste univers je tombe sur un compère aux mêmes penchants que moi, c'est pas une mince affaire, tu saisis ? Tous les deux fringués en argent, armés jusqu'aux dents... Et cerise sur le gâteau, on transpire l'honnêteté.",
    "unlockRequirement": "",
-   "cnUrl": "58d74e37cab77b0d0c5ee3a01d396702102f30266a78d9dc060899557e620b17",
-   "jpUrl": "f622ae3f85fadd4c647dbec657990eb90d16510ede3e92114c2aad4165eae3d3",
-   "enUrl": "b0e67b47278b9ca62508fb87eba1b875c2cfc77445039f96cd9704bd6f957da1",
-   "krUrl": "f26aeeb99bdc6ceff861eaa29df0dc8a1d31b47b61d53f4bb951acbe1da6d6b4"
+   "cnUrl": "bc21b98f46cbe768334c56a20bd3b2bd52643b6aad8b4fa2c63842ff691f87c6",
+   "jpUrl": "8283084e685c42402dd913bb837981b145a7765fd42673aa376cf866ad74e93c",
+   "enUrl": "987b4dbb6c5904c5a88e9f0464bac9253d49cec4d680e33b49168a26d3e3b4af",
+   "krUrl": "aad253e901a0bcdb99a4975c22fb7c4e3e7bc7773b697ac66985d7fb55a89ab9"
   },
   {
    "id": 18,
    "title": "À propos d'Aventurine",
    "text": "Ha ! Ce coco est vachement célèbre, aussi fada que moi, il joue pas la carte de la prudence. Peut-être bien que je devrais l'écarter de ma route, l'envoyer valser vite fait bien fait... Haha, ma mise à prix doublerait illico !",
    "unlockRequirement": "",
-   "cnUrl": "890e9269396c02cd22a383c8d9ba8a37d9fb805abc3cd944d941f098aba96bea",
-   "jpUrl": "2230190bbd9f168da1ad3235f85874fdc6cac5bb5b2c47197fd4b066d8cc207e",
-   "enUrl": "e4d8a9e3f1e111e31c9326d2b9d7f4e87957a0abcf5535fa50b46f9de3aacb5f",
-   "krUrl": "d76fb80c19b8467d3182d65db53ac8d0e468d5ab59a07d18c504b4294e548ca5"
+   "cnUrl": "0d1076a3988155ff607b6080b65a892ea22ae3b989f20cf7f1445e7d5e1ac4a9",
+   "jpUrl": "382ebe84eadf504b4522e960a97b7133bdc721ed2e9510a3b8a7e031bf14b7bd",
+   "enUrl": "55d3f857f4a6e1aabb6787a11272f4b0dd83ccc1ddb981b26187b3d6ae4aab2d",
+   "krUrl": "78aaa51ce93feb8e7d739ab6cd6f21ab36cac81a50af189f85de82da1083ba29"
   },
   {
    "id": 19,
    "title": "À propos de Topaz",
    "text": "Dans cette boîte finie à la réglisse, on la considère comme une des meilleures, j'ai raison ? Mais tant qu'elle est acoquinée avec la CPI, elle reste pas bien différente des autres. Tous du même acabit !",
    "unlockRequirement": "",
-   "cnUrl": "3e3d8eb10785f5acef313a5564e00d2a67e3836e42bcf7e66c56fc7f0f138335",
-   "jpUrl": "08bd4cafe2a0d83b927b563fa976d60263895843600f044a4c8c9ad9b86ba84e",
-   "enUrl": "43b7dfa8d7ecc200c94d2480ac84e149841bf7e1a42d98033ac2afbe8eaee09e",
-   "krUrl": "c439daa639ce1a137395812c53b70171fc6c81fc3103e3b78ee5660557b1bb6f"
+   "cnUrl": "0ba40a64aefc9a90a3ea12735990ee5eabe6cd1c0f517fc86eb6e5fe6c9662a7",
+   "jpUrl": "4b8d529ef9040ff0040040df632bd5e808cc12442a27b661d1b9e7f128504566",
+   "enUrl": "5b5cbbb47986f8fb98c34740309b25d42e7d2d5cb87f49d4bb1edb84a89d33e6",
+   "krUrl": "e7018cc73667228c29d7b76e2e5bbc2c146ab4db246099b650ac90a5dadda134"
   },
   {
    "id": 20,
    "title": "Activation d'Eidolon",
    "text": "Tu te souviens de ce « code moral » ? Oublie tout !",
    "unlockRequirement": "",
-   "cnUrl": "fd10e6408092c32f0aca9414df6bb5433a32faa078389a5e0a59af0a9a3c8cd9",
-   "jpUrl": "8f4e246a8408e7a03cb8ceb95786795f28e02789c8806888a8f7bd58c0d962c3",
-   "enUrl": "6edd1a0cfc7194b3c5028e0b8ed053d808277385f53c74660f606cedab5d5465",
-   "krUrl": "882cf238fdc19a137bbe088f8834b73a16d046e9416c6b2a095b09bf50503b8d"
+   "cnUrl": "b024a1de52e6dfe38abc0b426edb5045d9d8426b7735398e10062325bfc2c488",
+   "jpUrl": "581666d32d64b3ccbe9edaf7152f6ad28d30951c4200d30373a7380fd18e3e3e",
+   "enUrl": "ddf14a062aa982819c0441dee8255d0e93b0e418184b962badb9f5e4365c80d7",
+   "krUrl": "83256c8ccb028d114124339a0851f1d9210bff8f74c618864286c02a69356fce"
   },
   {
    "id": 21,
    "title": "Élévation de personnage",
    "text": "Patin, c'est ça que je voulais entendre !",
    "unlockRequirement": "",
-   "cnUrl": "435a995a6b0e0a6ecd15a0b452e5a4f7a8d8cb81800e23aa7d72ad7e72217e64",
-   "jpUrl": "6cee8b9200777cda074f4590a650937edd7bda7adaee643cd2349137910a38c7",
-   "enUrl": "859ec59a01e21072ec8ceadf0b6f0d77d12f198be13f7c37bc565873b953578d",
-   "krUrl": "2a0a097faa2c31dcbe3d4d39b07b2019e36f56d44df9bc5d7781a7ab9ffca910"
+   "cnUrl": "26de025576f5a69448b7e9286a62d274126e2af0fb6aa1e8e9f53c16496c23a6",
+   "jpUrl": "91785645797b7aa6ea5a685c834eb27c921d4b39ba24b9878ac5f84478af9bb8",
+   "enUrl": "c53db8cf1e2ebef2e3ab4ba854df1723addc6b2f01e5d640b8740436a2ea2c8a",
+   "krUrl": "54b87b1c562d0db49e5e4343ba60dd4eae5476d31bfe9f95318ed399786b1fad"
   },
   {
    "id": 22,
    "title": "Niveau max atteint",
    "text": "Les temps ont changé, mon chou.",
    "unlockRequirement": "",
-   "cnUrl": "85486cc283d8b64dbd98bda329159fce5aa2e9684275d86592b3b1cc7e4d8fd1",
-   "jpUrl": "d693f9480a2094ea9630b666771c803a47452848cabaf836f9a5a0c7000d9677",
-   "enUrl": "2b7df5a854d54cd2d872af63d4228eec85ed56b323f40fd67e5bc348dd250c42",
-   "krUrl": "482445e5d4caadc620d8a0fe108d606df6f0da4e0c78fbe9711113a6ad139957"
+   "cnUrl": "dc971730fd5e64ac7f4d24499bb65acbafaba53b4122ccaa28dd5748047fd639",
+   "jpUrl": "1e509b39a3e1e86d33352db7cd44bbc74449d5291117498339b3edd6ae09fc01",
+   "enUrl": "c8fec378ee92c4bd972b4102bc3dcd5b65c4f55d8ae46fad77669aa7dd73cb1c",
+   "krUrl": "329c0d49d32aa7c64841a5dc69e1b723cdeaa8ef71758b5c89f52d05cd12636e"
   },
   {
    "id": 23,
    "title": "Trace activée",
    "text": "Notre survie en dépend.",
    "unlockRequirement": "",
-   "cnUrl": "64d97c8614c933bf6254d3e537426a47f25c2b081662ad8620c144aff489b957",
-   "jpUrl": "166d8aa9673b232e24157af986cbc518da6110cbe67114d9ad1b1c2e0b8d53b7",
-   "enUrl": "f601d90314979501b71291b2fd79d04f005cfc6790a8345a34792c0a799688d4",
-   "krUrl": "74056af9b57a06d8c6686551328d5a91262ea3c297048935e76fa27796b3033d"
+   "cnUrl": "3be5aa34f053c51e4b45e37119a5044e5ecb16c0223ad4857a4a96708b723c24",
+   "jpUrl": "1145c61698b89003b37b04a2b46636d54bbeaf5d76683ba6b7888c6cce6b6c5f",
+   "enUrl": "63b1ed35bd533ca249e0422eb9de5ec8150b178b313d31b393ddc2649e539748",
+   "krUrl": "dbcc22897e853d277a4f5872258b061bccc7e30a0c5e06bb9519c4c2a34522dc"
   },
   {
    "id": 24,
    "title": "Rejoint l'équipe avec Achéron",
    "text": "Ha, encore heureux que tu te fiches de ma prime. Je serais déjà six pieds sous terre, sinon.",
    "unlockRequirement": "",
-   "cnUrl": "d68d1444171c0038a38a62d3308920e9ff267e0b7894cddfb40b6e728b95c8aa",
-   "jpUrl": "2af27d216ad39dee4d4c4888b9151db96bcc1cad6e5b6ada0a86248206a04934",
-   "enUrl": "dcce70285d87af2d8c117896c102091459664ff1e27e7d5c6a54c715c907dd7b",
-   "krUrl": "ad20b7e2bcd35dc759bb0123f7c05248697647635bc3fe0f44231e5a575b5456"
+   "cnUrl": "753ae9f4fde059a4711dbae11caf084ed15b4d2d2939dd0b29c13a73eba671ea",
+   "jpUrl": "dc6a8883e69c1241d58c8e4550d09e122663e7be324ec3357d3563587684600b",
+   "enUrl": "e7e7023c2943bfb71f1a53514e92105754e3e4591b92c6e199008c91451444f6",
+   "krUrl": "45e4b32eae77f5a7b86fe45e80a3badaabbad7f8a174343c7445927a28cd6e58"
   },
   {
    "id": 25,
    "title": "Rejoint l'équipe avec Cygne noir",
    "text": "Je pensais justement à toi. Ce que t'es rapide.",
    "unlockRequirement": "",
-   "cnUrl": "015468782670d264bac96e873eed43d5dde5b3f98b71230f49fc5942eeaf946b",
-   "jpUrl": "204c907975bb926ea71ca2f7898b452199fcec672cae4bbdc7dd5cec9dd6f8fa",
-   "enUrl": "3d883862c2d7dbf7e696991ec533f57fae81f3b014a8e5d713b2ddaaf30ab3fd",
-   "krUrl": "7e1ec405c69f7ec1923151d4f14b69930c35ddc75e1eb19365f1293cade83702"
+   "cnUrl": "854d33820ee7014e7ae139b3da3b0361806dd2226462f4217516d8e4bd0957fe",
+   "jpUrl": "626286f82f1a53691c69b69c98c950820cd17158914c579829f383d2714bcc2b",
+   "enUrl": "b3c5d0e4c3fa7ae694698c0b981644228267d490e819e75d582d3b5c260c0b0b",
+   "krUrl": "3f7bb4fb320f83988806cda000d9b5e988056ac296a82b79323a17be4a5db972"
   },
   {
    "id": 26,
    "title": "Rejoint l'équipe avec Dan Heng",
    "text": "Aaaaah t'es là le sang, enfin, ça fait plaisir !",
    "unlockRequirement": "",
-   "cnUrl": "11ba66a89ae8f3235ded8885cbb164fd6fe38fa6272db100474a159953d8c93e",
-   "jpUrl": "2e04bc413ccb8686e345d54ffb77c64a80e6219046468e049f7ba0979b88991f",
-   "enUrl": "85dfdfc6402117dbcde18a119a27e0e15707cf0efd6028f98bbba297f625ac84",
-   "krUrl": "b0e646225325cb006e34917ae6b5e9f3865bd95378685a132a77c8c9762db5c0"
+   "cnUrl": "32b1e65785a5b91f84e1bcba749fae13e25da7bbf4d52176d84bd1ec7daaa5b6",
+   "jpUrl": "e37aa82d39dd20ad294c2dfef0837948739a9a896bd66feb810ae95b9d69c58a",
+   "enUrl": "591bd9d936b2a7121f3fcf56b8002c7ad658fbd19e9d006e128a0b211c1b6440",
+   "krUrl": "73769fdf291bf2fa779962c983526116afd68190fc129cdc2b679d2fd28fec4e"
   },
   {
    "id": 27,
    "title": "Rejoint l'équipe avec Argenti",
    "text": "Un Chevalier de la Beauté et un Ranger de la galaxie, qu'est-ce qui nous poussera à unir nos forces ?",
    "unlockRequirement": "",
-   "cnUrl": "3e10646dadb0589b39b18fe45d75b4d29820c0275d7d43288cb0fe23d7687db5",
-   "jpUrl": "dc207bc132e086cb72e125766a4dc8d53c62c783798ff199e928f8e8d5a786fa",
-   "enUrl": "4b189f7afcb219e77bc4d474673ef20c8601d33a286e41e28e733136ec42776a",
-   "krUrl": "f4373500de872e12285ac5140ea24f5d9ebd49bfedb65e569acf6261c0a9eb84"
+   "cnUrl": "969679e89eff78023ecb635a82b53d0a165e0f7ca118d00e99723e949cbabbf8",
+   "jpUrl": "4398ec93c0a119c25b4d9d3759676e782b9c99860ae3859238d615df3fc21feb",
+   "enUrl": "1ceef4026cbf07681c5f93201b6e6908d14fa6fa315696f98ed4d8d699c8c980",
+   "krUrl": "ffdc3542812dd4383fb353048a2c54d5326155af1711ee3e27bc74daecb30ee4"
   },
   {
    "id": 28,
    "title": "Rejoint l'équipe avec Aventurine",
    "text": "Allez, on tire d'abord le portrait à ces canailles, puis on parlera de ton cas, ça te va ?",
    "unlockRequirement": "",
-   "cnUrl": "6285d3f6dad49b70cd2da341b54d44b3910fb3d0d3bad17e4c28662aac24ef98",
-   "jpUrl": "6e5c70a5d8808afcd26d100eb84af640fee29f59da5233c9fe778141599cc09e",
-   "enUrl": "2f81205610a50bbd0d48ec62569b8830e953bd0914f027c474084b0430e31121",
-   "krUrl": "5a6c01c71124b53045bbf7086a01fd974a1703cded3e81fcb20513ebab49d404"
+   "cnUrl": "66af762feb569593e58ac37f478a500587984dcb94dc1a1246a5d0fa1495bc19",
+   "jpUrl": "14917884817c95458aefb60b57180e333181c719cb86e35cd4db7061abe6aa2e",
+   "enUrl": "b2511c3bc4e2f174933241d080ea022ef2bc4f9be353a16c20d8de97b361c53c",
+   "krUrl": "09e1c464f01701741e10493c2dac0394dce3bff881e2ad9bd515b74eeffb04e7"
   },
   {
    "id": 29,
    "title": "Rejoint l'équipe avec Topaz",
    "text": "Y a un gros morceau avec sa trogne mise à prix devant toi, et tu restes têtue comme une mule. C'est louche.",
    "unlockRequirement": "",
-   "cnUrl": "b26e8874d3d06b85d5db3e3fb2153e31ffb788e0fe62847a3f36198b826910cc",
-   "jpUrl": "2c342a9b94c39018c9d1a8891c49d8fd000e958a55c9d334008086964642d7de",
-   "enUrl": "8b8f28edaf2ac0009b134b038f97a2b0230e4c1c5041d98a9d0aa18524ba8aa0",
-   "krUrl": "3ce2dd18fff271d3a1b0869964c9a717675d5cd04e5af1b245df0e5bba23ff8f"
+   "cnUrl": "80cb8665a0ce1112c6464014c2b508a25d43c98a982494dce6bf2599fc0ea9e1",
+   "jpUrl": "1a7b5467bfa1e171311457d0d4e0c7e817d37ff0f7a0236750873ceb4cc59108",
+   "enUrl": "15687bff03fabe63ad7e7757877863e280aab251decdd18224f9c68006f4c9ef",
+   "krUrl": "6d4489a0bac5fb11fd453771a20b27daec8bbc5566b8f694667cd71386afb493"
   },
   {
    "id": 51,
    "title": "Rupture de faiblesse en début de combat",
    "text": "T'inquiète ! C'est bibi qui régale !",
    "unlockRequirement": "",
-   "cnUrl": "954dc2844bc5066d515abf6a6ee385e107ec4a6d1157096144f05806f7bbcb0e",
-   "jpUrl": "ee09a25814fa97ad6b63d484372d1416c92f46d0c0433f8277ff679f3a9f0cd6",
-   "enUrl": "7540a5ab39e31e4d0e860a6b1b60f9e0c94919f5890977cda7dfe5864a84fd45",
-   "krUrl": "a009ab7870b8ecbe87f707353d190ec73301db8f5d338167756812051d77f138"
+   "cnUrl": "71494b93eba11c25028050f8de29aa7e50dbe1f07816950d48da0063e61fb3ea",
+   "jpUrl": "74b14a64046fe266f625b83282cf4ea54d9644f8a67ed22f599b4d3f561209cc",
+   "enUrl": "69aca9c17acfa8e0c1be71987cfbe1a1c6b1ef8a7278a2247c9af28d78587bf1",
+   "krUrl": "81372324dcd9a4548c60c50df1bc88f113b3cc5bc3ef88703290754b8d74d829"
   },
   {
    "id": 52,
    "title": "Avertissement de danger en début de combat",
    "text": "Allez, on se lance.",
    "unlockRequirement": "",
-   "cnUrl": "45c1fb56da1c1c37845c1b18f152f640d3c015e9de015a17b20b7146261ddbff",
-   "jpUrl": "ba9ae7be37a53b25b340ee93daacc71d2bd009c0896981e92c70cb6af4845093",
-   "enUrl": "2cd8a0fcfe44a55df871af60a0499799027878970822df20f1a08b1c6f3df745",
-   "krUrl": "dee7fbc8728aed074b162a7b5b938a697e0213ef92f6b360aee798ea535d2919"
+   "cnUrl": "6bff745fc1e520efa6f87045fbbb16ce051a2b4384f937e0b5c8b9564bfe6a77",
+   "jpUrl": "6ab2c39f79cde14a0d8629e2434485bd9279faf0d1f8fca0486c42431fb8a686",
+   "enUrl": "9ce0a2079fd72b49d1e3cb97bcb5c6a3299ab83208555e53722504d3348584ac",
+   "krUrl": "9ace6267f719eae482d804457c08c90102bf34a4ad9738f23ca5d8cd0623c3fd"
   },
   {
    "id": 53,
    "title": "Début du tour 1",
    "text": "Vous faites la queue pour vous prendre une balle ?",
    "unlockRequirement": "",
-   "cnUrl": "a10a7cd353390eb5e3913683ee37bcd36ea527be6f75e1e3f2c8fa10a646f1d1",
-   "jpUrl": "19b042895a51526d65d19bf5a631de5400a0850bfc40d1560f977636f2e24e1a",
-   "enUrl": "0ed8556e01527f7a51bea4e1c3ea655c8c6cc1e65258c9f7a60bb28579ad3016",
-   "krUrl": "52c3a292efda306bde433348127a1d2f3a442bbeb7e7ded1003c26fd9348849f"
+   "cnUrl": "642ef79194dfdc36fe4607243c59b443e3053a500a37d083742c701369b9bcb0",
+   "jpUrl": "c03e39c5819855bfa048582e8247a4a2e3edf3b548ab79a6a8eb5a413bb3bb4c",
+   "enUrl": "b1c8b41f3028ccb7d57448847f1a4a418d55434e0d672b0377eff0719797e8da",
+   "krUrl": "bd0f9a835d782434b307277996cae6fbe3ee6b09920406b7f788f37d4c3f4d80"
   },
   {
    "id": 54,
    "title": "Début du tour 2",
    "text": "On ne bouge plus !",
    "unlockRequirement": "",
-   "cnUrl": "2f24d612d59e55a453eb4efc017a7097be28f53d7c0eb8ec1d256b389c6e791c",
-   "jpUrl": "81a24a4b97a5b862d186f6691d1e42c83af857561699fc86af14ebe6b518db24",
-   "enUrl": "4c213932beb42e10854d2941603174f346eb99e1aa58e6971b56a0721ab9cc96",
-   "krUrl": "53d379e725963a038f0255794d6fb53aa031d0b570b147f1c16812bb96c7a1d7"
+   "cnUrl": "f8e1b7f441312c8c784dae6b06e2ad30262cbcb5e061ca718de4bb813b142809",
+   "jpUrl": "3666dd7cf159ed48e356bc1bb4dedfff0af2590255d6c0ce06fc66788ede0027",
+   "enUrl": "c9752df1597cbbaef308cdbe7efebc5d0eea4ef36ad95755b08745ec644b646f",
+   "krUrl": "5312ff49ccecc2dbaa35433627fc34212f42f90660f8d01981229bdb8f0634f9"
   },
   {
    "id": 55,
    "title": "Tour inactif",
    "text": "... Toujours pas prêt/prête ?",
    "unlockRequirement": "",
-   "cnUrl": "2416d1ace3e76533c208d12f170282d41379127bca28a850f5577ea9e063fed7",
-   "jpUrl": "dd726da0c27c8488750675f7e49ccc9198c305489f2581475a5129c17d8cfd46",
-   "enUrl": "b66be1ce6f6ce024857845054b800429a5ddf863dc63e921d21bb61332146d0f",
-   "krUrl": "949e9836ec474fb3580818e928b16c457be19f57db78cce3019913d82d24596a"
+   "cnUrl": "782732717dcddcd78312d6d5de2c5a9a6ffb6385e89fd52ec51c22c5cdf2bf23",
+   "jpUrl": "50d60b24c9f8f6f0055907278a638e5cd24b207c7f31652c6432b45b2f7a07fc",
+   "enUrl": "7960c2492d11db56917f07adfd78775e9bfaf12fd140497d639101ddfa7d6bac",
+   "krUrl": "32b7b0a33b3ff76eaac7eff3b0f9a804ebf9d3053112809033f9d031dd60c673"
   },
   {
    "id": 56,
    "title": "ATQ normale",
    "text": "Ouais, cours plus vite !",
    "unlockRequirement": "",
-   "cnUrl": "2dad30e5ffe8cb5933fe5625a9eef1b2c1f99b20dc07ba7cece9f7e0e2b0bac7",
-   "jpUrl": "1babac73b21c9f2586bd1a510374e047f2fcac16c411a5d5a2b20920f8ef83aa",
-   "enUrl": "16741196bb38176303764b50eeeb33aef6e655516822aa7933a7bf987ee7f173",
-   "krUrl": "15b918204fbe64af16d39f04a8e51c4cb34468749fe15f21ab7d5d390f354d1e"
+   "cnUrl": "2bfe8bb281c6e0c1a571a2df91ed5293d77098bc2779f4f2dd679e2009552400",
+   "jpUrl": "c3db3647540df16df77b6d329f948cc20e46bcde7147b6ecb37b353ec141fb1d",
+   "enUrl": "ddcda215d11b0605564ae814c6930cc2006978e8d7c825afb2a9283c2e245402",
+   "krUrl": "6e9786067c886368eb3b50c52540f5ed3d0b67c4650642ae82249da1f352b0d9"
   },
   {
    "id": 57,
    "title": "Activation de l'ATQ normale renforcée 1",
    "text": "Sors ton arme !",
    "unlockRequirement": "",
-   "cnUrl": "a940a9ab0032149e44915629b7e5c9818585e90c560fc6a65b2f8eec94a861fd",
-   "jpUrl": "ad86072fe5af2d730972bb0e6c46c22378ae7c1e932afbd43cdcaea3e7e89dfd",
-   "enUrl": "0fbaebb78c3cc7105f2fb1dd399fd2b070cb5ac570f7f4f223e8fef67d642f94",
-   "krUrl": "e5956d58861ff19349cc20917ffa9bfc5281f07dfb2fe56eb5c32daf83f0051f"
+   "cnUrl": "4188f451deb98ffcbea232ff19f8432045f170a34054cdcc4d315af7144988a6",
+   "jpUrl": "dc03e4a5ad3d28bbbb8d6d3b9d775140de66bd6beae84616e876496eb6e6396e",
+   "enUrl": "aa1427c2a9da76ec41ac4dee8bc317fb378e2dc969d5563a583d404d51b764c2",
+   "krUrl": "33b6eadae5d021749b1b11c1056ef31524a0348785a91ea4910b8596dd23b68f"
   },
   {
    "id": 58,
    "title": "Déclenchement de l'ATQ normale renforcée 1",
    "text": "J'ai jamais dit que j'allais compter jusqu'à trois !",
    "unlockRequirement": "",
-   "cnUrl": "8a2355d95a047f70dce2ea40effc6cd8009ead38625bf26d843aa869bb9068d8",
-   "jpUrl": "9ea15cfc1b41a2e86c75b33ff53e30fdc9457640c1d669b3afc1c2936c57a09b",
-   "enUrl": "136a75803a3a2b4467792db151cdb4791068ab6e4737151aa3fa51eae19764b6",
-   "krUrl": "fb956358ed0e56c5847fc87c8bebe06efec672067162c21066c11700c46377e9"
+   "cnUrl": "48adcdb9fb74fc7cf8a425ba5c4e8608b10b8a4c9ef4844dc97ea29237f1cd65",
+   "jpUrl": "40985dd90073f6ef2ae0dbb44d635b53b64f2d6406c0d7332f90d20392ec5fb6",
+   "enUrl": "1758424ae695dc0be8e5ca1d6ea46219adf3b2f0970b95ddaf45e76f9da081cf",
+   "krUrl": "46c57439d7fa925aec3f94e2efa5c630dbc9f6e511b08585fed0f879c524aef9"
   },
   {
    "id": 59,
    "title": "Activation de l'ATQ normale renforcée 2",
    "text": "Feu !",
    "unlockRequirement": "",
-   "cnUrl": "6603a88e867d066a29ece9682ca235173e2f65ca011e3a49e5f34607120ced54",
-   "jpUrl": "b51fde3b968f14b7ecc95668aaee1dd267649d47d1f96054a8c6260756380602",
-   "enUrl": "67fe3f4c5b468aa2e0d399d4f210942223bffaefa3c69f8d6618d2193f88f539",
-   "krUrl": "9450f02e2ab9d838bab56b7c87ee7e11480565d6b20bf5939448fd52f167c67f"
+   "cnUrl": "ac7ac47c0070b442dddb6043ffb4dfd7df813212e440935435684afc4cd3606e",
+   "jpUrl": "a4f1df11606754175f6c6b4aa237f5527e31a514a454069a068e5266a8fe96e8",
+   "enUrl": "80066b7619c884a4bd388f9f6f3bf87d46edf5bbbaaac2fc6d5903290e9cbbff",
+   "krUrl": "c81f0616c41f12d6e260c72436c6ed1dbacdf7c944426c29c2decb17f67a7288"
   },
   {
    "id": 60,
    "title": "Déclenchement de l'ATQ normale renforcée 2",
    "text": "Voilà ta prime !",
    "unlockRequirement": "",
-   "cnUrl": "bc7f8807cb1ff8ffb7a361798354b9c38699fb605c6b72e61f61bde3fa3729cb",
-   "jpUrl": "c7304a4e5ec02e1e57113f5e4d2ed45aebb7258baec1013c03e863431d493f14",
-   "enUrl": "13d04c10e1d6f6e6c549fb8c9b85e47c38ecc65ff82479652d5149e7cd08117b",
-   "krUrl": "715ba23293a1bdfb0a322f365c2315935446ba6c1f74d2dfc60af8d9682f76e3"
+   "cnUrl": "4a38724b366402bb7d579bcf7eabe3681b8088ac7b793b6d021e0378500440ae",
+   "jpUrl": "7246bf81e5005622d87377a78e4586a0174de12a23f961b89e09a9de56e99f4f",
+   "enUrl": "d011fa09de70986ac832dbdd452742370e40486f924c09b64e8810344e36ed68",
+   "krUrl": "95849a5ec43f8ea039ba661078e28c88625721628e8d7d88a7e938ff38b86096"
   },
   {
    "id": 61,
    "title": "Compétence 1",
    "text": "Place à un duel, à la loyale !",
    "unlockRequirement": "",
-   "cnUrl": "489b9a3cf00f1bcbe96fefae2ccc0d4bb95cf5db86ba898591da63af8ce0f57f",
-   "jpUrl": "23281df345f947364ec626b5bf61dd034b5f12e149d9cd15ab3933a8b6c62998",
-   "enUrl": "9863aa44bc7f7d63a60990b08a9fb249328c72af501798e4d88d4d7e89572c4e",
-   "krUrl": "a31d0b0c9056b7fca7c5739d023aed68e8fb1da2405709f961f526beef1241e1"
+   "cnUrl": "0e0ba910e40d145949fcb864486d52a28c6f072aaaac5c0d3e4d180b5c2cfd8d",
+   "jpUrl": "02eb3f0bb01bf29c8f8ecca804e29cd6d0638d1c1b6296471d6ad66feb4e8100",
+   "enUrl": "e76cfe5ce1bb6242caaaac93b09deffb981b2e5fe407235edb58751cacc329b4",
+   "krUrl": "b0bdce44c2ce87e5cc655831f681ac0b207f487948aced9e8b1b40d3abd1a52e"
   },
   {
    "id": 62,
    "title": "Compétence 2",
    "text": "Ramène-toi !",
    "unlockRequirement": "",
-   "cnUrl": "f9f38998bff097747548a12c246f50dac15349ea350554a0afd5a69aaf0689c0",
-   "jpUrl": "fab77ef976c0c2a95f4f11b03e7c8a3f72d6c4b1bd4f9cf8542dddcb091040e5",
-   "enUrl": "9104c09c7db55208a3c92b621bb2100bba0961a55b376ffc3eb4ffebd6010567",
-   "krUrl": "35ab0c492abb3271fabe35c0641e23cb8158153fa7df6d6a84c0551186876535"
+   "cnUrl": "56fa29e3aa37d2de93c6cbd0293b2e0f159dd8a7d670117dd1ae83d75d522731",
+   "jpUrl": "8f89da7d9ea9835087df2e1d81191cb8685c394ade70377bc20dc67020551969",
+   "enUrl": "2e774a471ccc65a89afcc5f4d144042a152165a2e73c4ef344eaf889a71f7383",
+   "krUrl": "39c3c7332278fff7bb8891322ae9b46a19f155fe7e14c0500908ca131d893066"
   },
   {
    "id": 63,
    "title": "Attaque légère subie",
    "text": "Hmm ? On a les crocs ?",
    "unlockRequirement": "",
-   "cnUrl": "48d6ebaf2ba073c3f2b4e2da885da7e7e182104a424fe41652eee3e03d4941f6",
-   "jpUrl": "e6c9e01d86a306f2da1286693f38fe66d46906256cf92d200441e116eda79184",
-   "enUrl": "ee5760e4fc726ee2fa45ad4897e0fd84851e7f48af8a258d852cbf1178211fdb",
-   "krUrl": "7258e10a1ae2ae6a411164eed769c847b950f5116eb0ffefd09840a038057386"
+   "cnUrl": "42f939fe27bf9e3a1d5ea4de182345dc41bb4f59978e6463e5304e8b494c1eab",
+   "jpUrl": "d3d46f8c53d4df380684845ff8c298594ee0feb81ee7c507659414235c645d9d",
+   "enUrl": "3d8ff84e14623e44dfb1e595a3f1220ccaf7b1636187640d0019f0b3116c4413",
+   "krUrl": "53817dcde1edf89333bdd9396745ad7d2bc7420c3c8a77f552cc16df8ff2822a"
   },
   {
    "id": 64,
    "title": "Attaque lourde subie",
    "text": "Oublie pas de viser le cœur !",
    "unlockRequirement": "",
-   "cnUrl": "4d9d63daf56142cd2f9895121e15fbff5275a7ff26cffb10d9c86141e6c448c8",
-   "jpUrl": "475b4bb46160e52b969674826ae311c45773e5ccbb5510dca5bd0cff9b714936",
-   "enUrl": "66e4a0755ca55b47d5f73265fbc2a4248d6ea4e3b14394c1a0189454c0da48a7",
-   "krUrl": "2e4a79dd15b0ec3ecb62a7196f00b905af9e8a8f7059ce02c959803ff42406ac"
+   "cnUrl": "a876211046200439b76d7f8d11d51959811c99329911e3ab899fb4819d92902d",
+   "jpUrl": "48a4eebfd5e436969bed1e03b56e1b1f5e2693759c857aa73329b553391c04e9",
+   "enUrl": "46a96c9ac6898ab5d573d0a97b59b82f62a61543351376ef7da2df21c193d539",
+   "krUrl": "c8194e7e5c0a303f7501c72bfade9782e4733f741d27fe4e9c216216107ab782"
   },
   {
    "id": 65,
    "title": "Activation de l'ultime",
    "text": "J'en ai ma claque de négocier avec vous.",
    "unlockRequirement": "",
-   "cnUrl": "00e1321611845d837697caef054aba75fe26dc104f740c3c80c6e2415b466dff",
-   "jpUrl": "ea35e52dd7a38be68340ac9f9aa333186204a62262cccb1e08a98cae7dd552ea",
-   "enUrl": "487f3f1f5c5d99a10473c37df4d7c20e8059bf7f5f26137822f1fc791dc39ced",
-   "krUrl": "574f977390eeebf64bc3404157f3b15f47a6c847ba02bbfc63882a802c2c8fc0"
+   "cnUrl": "702967fdde1aa7305356a851c3aeecb2ded01b51dece0e0cc5e535f28b33bd6f",
+   "jpUrl": "dc60e030d43775f0ae0722aa9ef6f39d931d489841ecce58ad210b07b74bad47",
+   "enUrl": "d0195f7d0b6f66534c7d07db112c8bdc7910cc30625361b58ee01599a9f8da12",
+   "krUrl": "e890eb52e02baf0e5c04bfc7e6bddae8ca212fe8d5cc676d560935b068044d8f"
   },
   {
    "id": 66,
    "title": "Déclenchement de l'ultime",
    "text": "Y a deux types de personnes en ce bas monde : celles avec un flingue chargé... et celles qui creusent leur propre tombe !",
    "unlockRequirement": "",
-   "cnUrl": "866cbcfc5e17405f372bb6f9bf7c08513ec834cf1409c68e79597ca65bab9f03",
-   "jpUrl": "e73b75620c20fd3b3ba23f27db93abbcf178c0d6547f37aac4721a0323d1d2c3",
-   "enUrl": "74b9af41629976cc33b8462a0aa9730d330dfd1dd1ab54b1e7ff5ab757a57eef",
-   "krUrl": "4da05b5bd3268dc7063cb4ab9dd0569fc6a82012e71783d1744f2314042017da"
+   "cnUrl": "d2b908bda48b979701bbeb596c222043951ad5ef994f196ee0fc7596856c7015",
+   "jpUrl": "ec7233313a6318d66460bf543f8ee26081fad90eae13777988704df051c29d08",
+   "enUrl": "2c9e3e60d4f68c9e90c3975af8e9c37258a1b96f03bf114c63404b617c849479",
+   "krUrl": "d3c685ccd6779f3025663785766de5cdbe8f41ffd2499118aa2cfd0df1e7519a"
   },
   {
    "id": 67,
    "title": "À terre",
    "text": "Haha, quelle gâchette...",
    "unlockRequirement": "",
-   "cnUrl": "eb7d2838e55a0de48ffa14cbcf3fdc750dedda65a4e8e12d683c8540298d547e",
-   "jpUrl": "5b040cd2db8be6374ad11b7dae68955ba1c8a8ee12a8db7493626e2004034b62",
-   "enUrl": "dd482d9ff223708972013847d71af0ab1fa20a67ac3e9988d861736f40e0292e",
-   "krUrl": "0f368d5f39391afa40a7a7ca760c510aee71c8e48446e50687ce985d370146f5"
+   "cnUrl": "1741602865fdecec4bb7841490f3d9b74ae07a561dc59f94f054716d128bfa2f",
+   "jpUrl": "4097bfce4737db572e63df9f65354e10007da5b60c708b186341e0fd28c293d8",
+   "enUrl": "e85f99565b7e15454ee3e7a055584a0e9455dfc7ce512bdcbf0744194db28b77",
+   "krUrl": "06695be76cfbd98dfff1ec304841f6f134d294d3b6d59ea0629b0198d46ae6f0"
   },
   {
    "id": 68,
    "title": "Retour au combat",
    "text": "Pfiou, j'me voyais entre quatre planches.",
    "unlockRequirement": "",
-   "cnUrl": "07bda935b3358c269c4525b2b93075f66b4e88473f7adc2f26f28b2a00d32d2f",
-   "jpUrl": "5d8c090e0bd533dfab836c77f225ae5ffc538243a6eefcd2232b443d7f061590",
-   "enUrl": "673b869608687cc47e883a2df71af6286c36f1d508eeef42395d506f979e2340",
-   "krUrl": "22ebcd881e9f14fe4e87a66adde10e5675643d8fdee64c6f35fc773cde74cfb6"
+   "cnUrl": "5ac88cfbf4921cc081f026dbc2cf6377e674e51cc913ce96e9c0e89b8d82137a",
+   "jpUrl": "a7b401aa03201f815d08a4a45478cc5931f34399b41ec294a893b04c40000b21",
+   "enUrl": "6e194a7504740b436e706de73f4218f9d099790c63f603ce9cb20311b69ce4f2",
+   "krUrl": "a565e0610046bab4016a3425ebfec3b8cbb4aedd7a1329315c8bca7dbde92510"
   },
   {
    "id": 69,
    "title": "Récupération de santé",
    "text": "J'imagine que c'était pas gratos.",
    "unlockRequirement": "",
-   "cnUrl": "8a80643943f27748eac1310de8afc8c47f471b6028abe9964eaf4c69a767bbba",
-   "jpUrl": "ef552e3cf1c599484103cb1d116cc5b4e69f70f686eea61d1f2e8132db531d06",
-   "enUrl": "1e3085e704cb834c8cd2c6841fb3afc4c9f90bf034f46bea6fabe473d4d308b8",
-   "krUrl": "f7528cf9e4dc2af55cb5169eb409c8434ac0532e732ad380b1e3ead64667d27f"
+   "cnUrl": "1b3b9911804e9d2171969cf9ffac59ba087947d9fa6dde10a212e036633d94db",
+   "jpUrl": "88e85800505872603df2709999d8b0d7ac26c550c574691de8a162c9358effd6",
+   "enUrl": "b37cd745ee54ac49a262e82b19c5d9a9710b2541756aafab4207922093d788c7",
+   "krUrl": "cf56f176c1058033e41f972b4867b4ded4abd5faf492d170558ee98d409411af"
   },
   {
    "id": 70,
    "title": "Technique",
    "text": "Cible verrouillée !",
    "unlockRequirement": "",
-   "cnUrl": "6bd91f21fe98da32e34be61e05d240c026d8aedddc3eb4599f5a0ed30d298fce",
-   "jpUrl": "d52936274d232e0245c98c2f388dff665922df4cb11b097e894a8d158096addc",
-   "enUrl": "37bef9bef2c1265727a221769d106a7d856aa444b98c660c2e8173beb61fbc98",
-   "krUrl": "26e0af0ba37eabce31e1b3c6a1742a383575f87e9fc7e180a1ce67bbb8ee03a7"
+   "cnUrl": "9d8c34e33507477525b55b3865f7e31e8262d757efb657bddf0bd0527f7e12c7",
+   "jpUrl": "946dffa14a44bf4d90fd44409941210cc149f266a6e9ecf3afc69d45f919d86e",
+   "enUrl": "435472ceafa22cb1185f0b88639a4a51702ad9590db5cfc3eda01f49fcc961b2",
+   "krUrl": "fefb453a97f9fb39e74a73b85b90a35def4b8b1f8b5050dfc5bae7f47d8937e2"
   },
   {
    "id": 71,
    "title": "Combat gagné",
    "text": "Bourre-toi ça dans le crâne : quand il faut tirer, arrête de piailler.",
    "unlockRequirement": "",
-   "cnUrl": "3e7b1f14dcc347e1ab11aaa317110b6e13997d27bc2ca1f41b2a77aae73b1b94",
-   "jpUrl": "8c8f6b950420cb8277acd14a3e8f9e67e59161a1544085d6a3c3620f49390421",
-   "enUrl": "beeec2bbfb9a63a89cdc4290947ec1ceaab6c582e9060bd6f84d9369198d49b0",
-   "krUrl": "d3faa840787370d774b4fb7972ce2071657ad1e3b4398096adbe79dc47ddd529"
+   "cnUrl": "ae65c6bc83fac4e4e33acaa13b67705b49fa7d0cd1223c3cfe8572c472e5f5d6",
+   "jpUrl": "74adbf1bc5586bf5903ed2baadc4c0cb311f6e6bd5830b21b7b5fa89bdaed779",
+   "enUrl": "958b6a97cf8e53665d9ed78af921fdd43c3541e58455f77ebc3e07fa2f2768c5",
+   "krUrl": "dc19e28632427700042839109f1f20cf032811c9a92d12870e7eac272b30ca0f"
   },
   {
    "id": 72,
    "title": "Ouverture de coffre au trésor 1",
    "text": "Pff, c'est de la gnognote à côté de la prime sur ma tronche.",
    "unlockRequirement": "",
-   "cnUrl": "fbed61f794a9490d0d2a31f669fada82bf23340655c2c1bd21c7ffce076cc050",
-   "jpUrl": "132c9a3107b839506be14ca3f4ad9aa14fa2511bbbe6c6f47d3b35b09e7cb18a",
-   "enUrl": "c29e0f8aba42f0e453f516ded662f2cf7ba8ebb99bf006077dbf50cc2586c811",
-   "krUrl": "ecb4cc6e1154b9fe05d981935d7440ad91dd3a43d2bc773053908b4ccb120231"
+   "cnUrl": "dfdb475865765916820e5b2819207d26558238adf26b9cfa3b695efd8b6286ff",
+   "jpUrl": "952507f0984a7d0afb783626b52e9d9971d0c4160ffb564aa774310ffe07e308",
+   "enUrl": "512a0c04dace13be67832a44e3941ceb51c22a8e4a7ef53f58f5d17ed391743e",
+   "krUrl": "b17508ce5e3648b08a0dfb3630aa8a5ae320fa480090253c4de371a023a1cb75"
   },
   {
    "id": 73,
    "title": "Ouverture de coffre au trésor 2",
    "text": "Pas dégueu, ça pèse combien de crédits ?",
    "unlockRequirement": "",
-   "cnUrl": "89843ddc866112370ad8764ad5274bc5e2c6e937d1b95afaec63973af90905f5",
-   "jpUrl": "d59ffa07201d2b188e68d3e862cdd8bd87adf33242a027bcce22166f3f66df0e",
-   "enUrl": "abcf66eeb1934a6fc64d9e3327b0d6b06c446211ceb90ef77a34eddafa0a31fe",
-   "krUrl": "c646bc8e051c373022f3c137467adf971cc91924e7c96da24a9e69b46a267b73"
+   "cnUrl": "f0ca57618787e616d7f67321ced7ed785994455d259753c3cdfaa5673a53df67",
+   "jpUrl": "d1131cfae84fd30d2550485a2dcc78c81fd2515b8755147b059b3b71b42eb58c",
+   "enUrl": "a0e3cd1d6ed78d6ffe38a67c3f474a7aeaf92bc2ed48e453453d1d7688ae9bcc",
+   "krUrl": "b5c6435675567a9acb6f97ff929bbdef1eedd073e99e9fdbfd30610c82571721"
   },
   {
    "id": 74,
    "title": "Ouverture de coffre précieux",
    "text": "Faut jamais se laisser embobiner par l'argent... Eh, surtout celui de la CPI.",
    "unlockRequirement": "",
-   "cnUrl": "bc5f8e00b29372f57b2dca72305fd3f4eb066d1e656ce6354b9d9367d36b54bb",
-   "jpUrl": "880b7113f31b0bd1d96235f016ea92aa280797fda96b48d931efa96fda1cde8c",
-   "enUrl": "defc8896024df86eb5cbbd5d5e9877b1531c9668fa6807efec7970e2f608c9b6",
-   "krUrl": "cfce5336af8615c4044ae0a26a788c2e95b53cd7b5e872ccfe3feb42c4f3e8fd"
+   "cnUrl": "c1702fa4b37424809151dc183e351aa4952911d8febd56230b42241cee825d26",
+   "jpUrl": "69372c4a8fc6698aa749021378ab99ed829096bcc89ed1a39b17108944939fac",
+   "enUrl": "36b1ac569997905cb5c90ad83393a3d5b6d2226e17afab357520a9930e47d35e",
+   "krUrl": "516daedb87c8f6448387731402b5ee48a086d9eed96da7aa42cd41cbf9c006d7"
   },
   {
    "id": 75,
    "title": "Énigme réussie 1",
    "text": "C'est pas à ça qu'elle sert, ma puce neurale.",
    "unlockRequirement": "",
-   "cnUrl": "e7d081ba4cdc8d641500e918e589248c2af7963bf5f843e4deaceae3f74195a7",
-   "jpUrl": "2bca3e9eef9068e32f58fdc5da59796f82b20d3d9ca8631321645e9c2a4c73dc",
-   "enUrl": "cb602e9f5236fd17f59f2d6556478e32fe1d1bdc1562782206f657a14e642225",
-   "krUrl": "7555438f10d6e03e329deff686bbed298db223927a27ad1946e7250c6cbeb6aa"
+   "cnUrl": "d42d2035131b852b7ff726d2c99ec40128b76435ccd01e7c1a071c35d219d6b7",
+   "jpUrl": "502a8f538afe8162b99eb167b92b60c3d20efaee2a14d2980782a5b895bcee8f",
+   "enUrl": "0b4fec1f254247f9920ab393ea7a76e6df2a996e34605efae58481f7f2cedb11",
+   "krUrl": "590dc87da3146e8ca2a943ec29aedd166c3cf1b5090a552ea42b1e9f1bf37dcb"
   },
   {
    "id": 76,
    "title": "Énigme réussie 2",
    "text": "La barbe. Je préfère encore tirer sur des cibles.",
    "unlockRequirement": "",
-   "cnUrl": "ab88b9ccfa7819b8bb76d71aa4864e531474fe9debda9f4659255d76aa996b2a",
-   "jpUrl": "465f813f8b786585cde57b0731fd13360fefde0930d5ce07a7b91ec597655f7e",
-   "enUrl": "579ce59329c4382142f643ed87603c4d1fd206089d0e3bfd9d8f7de73f6bdcd5",
-   "krUrl": "8da8d92b5d3ccb146e0366e3d84b7b755961729c2d0accc249838234c163a66b"
+   "cnUrl": "3a939b93f0bf3e023fcf30dee44f605487fc5591fb166c6f5f0895e1cbd837f6",
+   "jpUrl": "feb695555572a37879075d4ae85c6a0357793377a3ca754d2725eda7979e40a3",
+   "enUrl": "bd34eba3686ec01519bd4febcdaeacfc73145feb29341a394b469c64518c7019",
+   "krUrl": "7adb9c32c5ce0a78d55def0092f65915064adda1df7cd7bded8953cddca56242"
   },
   {
    "id": 77,
    "title": "Cible ennemie trouvée",
    "text": "Ha, regarde un peu qui se pointe !",
    "unlockRequirement": "",
-   "cnUrl": "e1864cda5b7641a67023e7c6d04c72f31d6c942359ded1e94feb6b8af15f51c2",
-   "jpUrl": "7dfcccbc385d1c098a9a86ddb4dc1d707048d7fe3095fd3ff6915592da1c90ff",
-   "enUrl": "528ed9f1a1887d17fb98ed19917ad58dfbde2cacdb3b12fa2bbe4888f7e6d4f1",
-   "krUrl": "30d64e7e78f76304bc3155f4fb99f5944d787a311ad24664d98dbc2fa0dd7bf2"
+   "cnUrl": "e2a9509d8d65a1d5e566697f09390a60f5c7d95f1f89feb34affebb12482389f",
+   "jpUrl": "e2e5647b775ee3b6616e74d9dc43c24d99c18297be36a7389206e4b624991c95",
+   "enUrl": "8f50f807a7c8dc09d2bfd67c2cd72163f1e932ae655eaec029aeebda820ffb09",
+   "krUrl": "9d299c1a4ea9bdb7354e99f7c4196b27eeed8acc274237c0a611bc54c6739227"
   },
   {
    "id": 78,
    "title": "Retour en ville",
    "text": "Tu sais, je suis vert quand je vois ces gens qui ont un toit pour vivre.",
    "unlockRequirement": "",
-   "cnUrl": "841e0988814c805f5ddf371f061967ba8e0b0d64ab6ca0b1cb2b90fd6816809c",
-   "jpUrl": "d346e3af7e0fee2cc2058556cd3b90bb89e826afa6bd1834d7d25834d86370d0",
-   "enUrl": "6a9c9217bee3264eb6138632b4934cce42952d40e21b87f016f882880ff0e0c1",
-   "krUrl": "549b7e1e138fe90bff0031836af30067b79be18d2a757a3145e836bea97206b7"
+   "cnUrl": "2bca3804e0ab95994a50cd33f72cd45472ef52f4279cdab27aed637b7a309813",
+   "jpUrl": "963adef05fad3a309f19402ee1c402848411db5c0edffdb66b38331e6e3fa3ee",
+   "enUrl": "98dce38b9f57d0fa4d58231371a27f4dc07a9922eaf22d3317ed54ed8b75a564",
+   "krUrl": "942c2e0bf6e3cd4acf1972fceb5af3642294455372cc6221b3fa72dcc46be77a"
   }
  ],
  "storyItems": [
@@ -2918,22 +2922,22 @@
   },
   {
    "title": "Histoire du personnage : Partie I",
-   "text": "« Gray, il y a un enfant là-bas, dans la neige ! »<br />Gray et Nick s'approchèrent prudemment et prirent dans leurs bras l'enfant qui n'arrêtait pas de pleurer, le visage rougi.<br />Il portait un très beau prénom pour le moins étonnant, qui dans la langue ancienne d'Aergan-Epharshel signifie « pistolet chargé ».<br /><br />Il eut une enfance heureuse sous la protection et l'affection de Gray et Nick, aux côtés de ses frères et sœurs. Bien qu'originaires d'endroits différents, tous appartenaient désormais à ce vaste continent qu'était « Aeragan-Epharshel ».<br />Gray lui fit étudier les plantes, les animaux et les rivières. Nick lui apprit à dresser les chevaux et à s'occuper des moutons. Dès son plus jeune âge, il sut traverser les ruisseaux sur le dos de son poulain, et mener de bon matin le bétail vers des champs riches en eau et en verdure, aux côtés de Nick. Ce dernier chantait toujours fort tandis que les rayons du soleil perçaient les nuages. Dès qu'il entendait la voix de Nick, il ouvrait lui aussi la bouche et se mettait à fredonner d'une voix claire. Il donnait un coup de pied dans les flancs de son poulain pour le faire galoper, et leurs rires résonnaient dans le lointain.<br /><br />Gray et Nick élevèrent ces enfants comme les leurs année après année, le dos de plus en plus voûté.<br />Depuis qu'il était devenu cow-boy, il maîtrisait l'art de la chasse à la perfection. Ensemble, ils combattaient les bandits dans les terres désertiques, concluaient des accords avec les marchands et luttaient pour leur survie parmi les bêtes sauvages.<br />Il avait déjà frôlé la mort, pris sa revanche contre une bande rivale, vu ses amis tomber sous les balles et des familles brisées en un rien de temps... Il avait tant perdu, mais tant gagné également. Sa bravoure lui valut respect et statut.<br /><br />Désormais, il ne voyait que rarement ses frères et sœurs, mais il savait qu'ils vont bien.<br />Il observait le ciel nocturne et pensait au vaste monde extérieur quand des cris retentirent dans le calme du soir.<br />En les suivant, il découvrit une fillette en pleurs, au visage rougi. Il ne savait absolument pas quoi faire, mais il finit par prendre le bébé dans ses bras, comme Gray l'avait fait il y a si longtemps, et le ramena chez lui.<br /><br />La voix rauque de Nick résonnait à ses oreilles...<br />« Ici, l'eau est aussi douce que du bon vin,<br />la neige froide est aussi coupante qu'un couteau,<br />cet endroit est...<br />le monde parfait. »",
+   "text": "« Graey, il y a un enfant là-bas, dans la neige ! »<br />Graey et Nick s'approchèrent prudemment et prirent dans leurs bras l'enfant qui n'arrêtait pas de pleurer, le visage rougi.<br />Il portait un très beau prénom pour le moins étonnant, qui dans la langue ancienne d'Aergan-Epharshel signifie « pistolet chargé ».<br /><br />Il eut une enfance heureuse sous la protection et l'affection de Graey et Nick, aux côtés de ses frères et sœurs. Bien qu'originaires d'endroits différents, tous appartenaient désormais à ce vaste continent qu'était « Aeragan-Epharshel ».<br />Graey lui fit étudier les plantes, les animaux et les rivières. Nick lui apprit à dresser les chevaux et à s'occuper des moutons. Dès son plus jeune âge, il sut traverser les ruisseaux sur le dos de son poulain, et mener de bon matin le bétail vers des champs riches en eau et en verdure, aux côtés de Nick. Ce dernier chantait toujours fort tandis que les rayons du soleil perçaient les nuages. Dès qu'il entendait la voix de Nick, il ouvrait lui aussi la bouche et se mettait à fredonner d'une voix claire. Il donnait un coup de pied dans les flancs de son poulain pour le faire galoper, et leurs rires résonnaient dans le lointain.<br /><br />Graey et Nick élevèrent ces enfants comme les leurs année après année, le dos de plus en plus voûté.<br />Depuis qu'il était devenu cow-boy, il maîtrisait l'art de la chasse à la perfection. Il combattait les bandits dans les terres désertiques, concluait des accords avec les marchands et luttait pour sa survie au milieu des bêtes sauvages.<br />Il avait déjà frôlé la mort, pris sa revanche contre une bande rivale, vu ses amis tomber sous les balles et des familles brisées en un instant... Il avait tant perdu, mais tant gagné également. Sa bravoure lui avait valu respect et statut.<br /><br />Désormais, il ne voyait que rarement ses frères et sœurs, mais il savait qu'ils allaient bien.<br />Il observait le ciel nocturne et pensait au vaste monde extérieur quand des cris retentirent dans le calme du soir.<br />En les suivant, il découvrit une fillette en pleurs, au visage rougi. Il ne savait absolument pas quoi faire, mais il finit par prendre le bébé dans ses bras, comme Graey l'avait fait il y a si longtemps, et le ramena chez lui.<br /><br />La voix rauque de Nick résonnait à ses oreilles...<br />« Ici, l'eau est aussi douce que du bon vin,<br />la neige froide est aussi coupante qu'un couteau,<br />cet endroit est...<br />le monde parfait. »",
    "unlockRequirement": "Disponible au niveau <nobr>20</nobr> de personnage"
   },
   {
    "title": "Histoire du personnage : Partie II",
-   "text": "L'ombre du vaisseau éclipsa la Lune qui éclairait les plaines.<br /><br />Il sauta du train en marche dans un bruit sourd. Quand la poussière fut retombée, il était déjà rentré à la base avec son butin.<br /><br />Il leva la tête vers les intrus au-dessus de lui. Des individus vêtus de costumes noirs sortirent du vaisseau et posèrent pied sur la terre du cow-boy, sous une escorte de gardes armés jusqu'aux dents. Il aperçut ce que l'un des hommes en noir appelait une « balise de synesthésie » tandis que d'étranges visions l'assaillaient. Il découvrit alors l'existence de mondes lumineux et sans fin au-delà des plaines, des forêts, des ruisseaux et des routes qu'il connaissait.<br /><br />D'énormes pelleteuses s'activèrent au loin, ignorant les protestations des habitants. Du minerai noir se mit à jaillir de la terre. Les gardes lourdement armés insultèrent leurs croyances, les chassèrent de chez eux et salirent leur honneur en ne leur laissant qu'une piètre compensation.<br /><br />Comme d'habitude, le cow-boy et ses camarades entreprirent une guérilla pour repousser les hommes en noir. Mais face à leur puissance militaire, les stratagèmes, l'adresse au tir et les étalons des cow-boys semblaient bien ridicules. Alors que les membres de sa famille trépassaient les uns après les autres, il se rendit compte qu'il ne pourrait clore ce conflit qu'en mettant la main sur l'individu qui avait tout déclenché.<br /><br />Il revêtit un uniforme de travail qu'il avait volé et s'infiltra à bord du vaisseau sous le couvert de l'obscurité. Son instinct et ses sens aiguisés acquis au fil des ans grâce à la chasse lui permirent de neutraliser tous les gardes sur son chemin, et de passer tous les points de contrôle discrètement jusqu'à atteindre la cabine principale.<br /><br />Il vit la silhouette d'un homme qui semblait s'adresser à ses subordonnées.<br />« Aergan-Epharshel comporte des ressources stratégiques cruciales. Le premier à s'en emparer aura un avantage indéniable sur la concurrence départementale. Étant donné que ces sauvages de cow-boys refusent de coopérer avec le Département de développement marketing, nous n'avons d'autre choix que de prendre le contrôle de ce monde à leur place.<br />Le temps presse. Vous avez la permission d'utiliser toute force militaire pour civiliser ce monde. »<br /><br />Une pensée terrifiante lui traversa l'esprit et il s'enfuit, pris de panique. Autour de lui, les employés riaient et plaisantaient. Il retint son souffle pour étouffer sa rage et ses larmes. Sa famille avait encore besoin de lui. Il ne pouvait plus renoncer.<br /><br />Des tirs d'artillerie tombèrent du ciel. Lorsqu'il regagna la ferme avec difficulté, il n'en restait qu'un tas de cendres, et Gray, Nick ainsi que tous ceux avec qui il avait grandi étaient morts dans les flammes. Il s'accrocha au mince espoir de retrouver la petite saine et sauve. Elle savait tout juste marcher, elle aimait bien jouer avec la petite guitare en bois qu'il lui avait fabriquée, ça la faisait rire. Mais aucune trace d'elle... Il n'y avait plus rien. La terre était calcinée. Il ne put même pas ériger des pierres tombales pour ses proches disparus.<br /><br />« La Corporation pour la Paix Interastrale... Le Département de développement marketing... »<br />Ces noms et cette scène de désolation hanteraient ses pensées et seraient gravés en lui à jamais. Même s'il devait mourir et renaître, il ne les oublierait pas.<br /><br />D'après les archives planétaires d'Aeragan-Epharshel, une mystérieuse catastrophe aurait balayé les habitants qui cultivaient ces terres depuis des générations. Les survivants, en majorité des vieillards et des jeunes, se sont regroupés dans des réserves de plus en plus petites. Aujourd'hui encore, le minerai noir est très largement utilisé dans la création d'un arsenal redoutable. L'exportation du métal rare vers d'autres planètes sur les vaisseaux de transport de la CPI s'intensifie.",
+   "text": "L'ombre du vaisseau éclipsa la Lune qui éclairait les plaines.<br /><br />Il sauta du train en marche dans un bruit sourd. Quand la poussière fut retombée, il était déjà rentré à la base avec son butin.<br /><br />Il leva la tête vers les intrus au-dessus de lui. Des individus vêtus de costumes noirs sortirent du vaisseau et posèrent pied sur la terre du cow-boy, sous une escorte de gardes armés jusqu'aux dents. Il aperçut ce que l'un des hommes en noir appelait une « balise de synesthésie » tandis que d'étranges visions l'assaillaient. Il découvrit alors l'existence de mondes lumineux et sans fin au-delà des plaines, des forêts, des ruisseaux et des routes qu'il connaissait.<br /><br />D'énormes pelleteuses s'activèrent au loin, ignorant les protestations des habitants. Du minerai noir se mit à jaillir de la terre. Les gardes lourdement armés insultèrent leurs croyances, les chassèrent de chez eux et salirent leur honneur en ne leur laissant qu'une piètre compensation.<br /><br />Comme d'habitude, le cow-boy et ses camarades entreprirent une guérilla pour repousser les hommes en noir. Mais face à leur puissance militaire, les stratagèmes, l'adresse au tir et les étalons des cow-boys semblaient bien ridicules. Alors que les membres de sa famille trépassaient les uns après les autres, il se rendit compte qu'il ne pourrait clore ce conflit qu'en mettant la main sur l'individu qui avait tout déclenché.<br /><br />Il revêtit un uniforme de travail qu'il avait volé et s'infiltra à bord du vaisseau sous le couvert de l'obscurité. Son instinct et ses sens aiguisés acquis au fil des ans grâce à la chasse lui permirent de neutraliser tous les gardes sur son chemin, et de passer tous les points de contrôle discrètement jusqu'à atteindre la cabine principale.<br /><br />Il vit la silhouette d'un homme qui semblait s'adresser à ses subordonnées.<br />« Aergan-Epharshel comporte des ressources stratégiques cruciales. Le premier à s'en emparer aura un avantage indéniable sur les autres départements. Étant donné que ces sauvages de cow-boys refusent de coopérer avec le Département de développement marketing, nous n'avons d'autre choix que de prendre le contrôle de ce monde à leur place.<br />Le temps presse. Vous avez la permission d'utiliser toute force militaire pour civiliser ce monde. »<br /><br />Une pensée terrifiante lui traversa l'esprit et il s'enfuit, pris de panique. Autour de lui, les employés riaient et plaisantaient. Il retint son souffle pour étouffer sa rage et ses larmes. Sa famille avait encore besoin de lui. Il ne pouvait plus renoncer.<br /><br />Des tirs d'artillerie tombèrent du ciel. Lorsqu'il regagna la ferme avec difficulté, il n'en restait qu'un tas de cendres, et Graey, Nick ainsi que tous ceux avec qui il avait grandi étaient morts dans les flammes. Il s'accrocha au mince espoir de retrouver la petite saine et sauve. Elle savait tout juste marcher, elle aimait bien jouer avec la petite guitare en bois qu'il lui avait fabriquée, ça la faisait rire. Mais aucune trace d'elle... Il n'y avait plus rien. La terre était calcinée. Il ne put même pas ériger des pierres tombales pour ses proches disparus.<br /><br />« La Corporation pour la Paix Interastrale... Le Département de développement marketing... »<br />Ces noms et cette scène de désolation hanteraient ses pensées et seraient gravés en lui à jamais. Même s'il devait mourir et renaître, il ne les oublierait pas.<br /><br />D'après les archives planétaires d'Aeragan-Epharshel, une mystérieuse catastrophe aurait balayé les habitants qui cultivaient ces terres depuis des générations. Les survivants, jeunes et vieux, se seraient réfugiés dans des réserves de plus en plus restreintes. Aujourd'hui, le minerai noir de la planète continue d'être exploité en grande quantité pour fabriquer des armes redoutables et est transporté vers d'autres planètes par les vaisseaux de la CPI.",
    "unlockRequirement": "Disponible au niveau <nobr>40</nobr> de personnage"
   },
   {
    "title": "Histoire du personnage : Partie III",
-   "text": "« Ce chemin n'est pas pour toi. Va-t'en. Trouve-toi un travail ou... retourne à l'école. »<br />La petite doctoresse posa son sandwich entamé et s'essuya les mains sur un manteau blanc manifestement trop grand pour elle.<br /><br />Sans mot dire, le garçon se déshabilla, révélant d'innombrables cicatrices. La doctoresse poursuivit sur sa lancée.<br />« Un jeune homme comme toi mérite mieux. Seuls les plus désespérés choisissent ce chemin, ceux pour qui le renouveau n'est plus possible, mais qui veulent quand même se venger... »<br />Le canon froid d'un pistolet se posa sur son front... ou ce qui lui faisait office de front.<br />« Si j'avais voulu qu'on m'fasse la leçon, je s'rais r'tourné à l'école », la menaça son patient.<br />« Je sais ce que tu essaies de faire, mais les armes n'ont aucun effet sur moi... Peu importe. Allonge-toi », lui répondit la doctoresse, résignée.<br /><br />...<br />La table d'opération fut soudain baignée de lumière.<br />Il eut l'impression de sombrer dans les abysses, le corps enveloppé et fusionné à ce qui l'entourait. Arraché à son enveloppe charnelle, son esprit se débattait dans le néant.<br />Étrangement, ses émotions... terreur, anxiété, solitude, ténèbres, colère... n'avaient pas disparu avec son corps : elles étaient bien là, sensiblement différentes et plus pesantes encore.<br />On brûlait quelque chose, il le sentait. Il percevait même le souffle léger de la doctoresse sur lui... Elle respire ? Cette idée lui paraissait bizarrement incongrue. Des machines ronronnaient à ses oreilles tandis que le nouveau sang bleu refusait de couler vers son cœur assoiffé.<br />Il aurait aimé s'endormir pour ne jamais se réveiller.<br />C'est alors qu'il entendit une chanson rauque aux paroles simples, qui ramenèrent à la surface des souvenirs enfouis. L'inoubliable haine éclaira à nouveau faiblement les ténèbres. Dans un effort surhumain, il suivit la lueur jusqu'au bout du tunnel.<br />...<br /><br />« Bravo. T'es pas facile à tuer, toi. »<br />La doctoresse essuya ses mains ensanglantées sur son manteau blanc avant de récupérer sa moitié de sandwich.<br />« Parce que tu croyais que j'allais y passer ? »<br />Il serra des poings désormais non plus faits de chair, mais de métal glacial.<br />« La plupart des gens y seraient passés, expliqua-t-elle l'air dégagé, et pas parce que je suis mauvaise.<br />– J'vais te dire un truc : ça fait un bout de temps que je suis mort.<br />– Comment tu t'appelles ? »<br />Il hésita une seconde. Les voix avaient disparu, les bonnes comme les autres. Plus personne ne l'appellerait par ce nom tranchant.<br />« Le Fossoyeur. D'où je viens, c'est comme ça qu'on appelle les porte-flingues morts. »<br />Il sourit, révélant une série de dents aiguisées.<br />« Mais c'est que le début. C'est un petit prix à payer sur le chemin de ma vengeance. »<br />Il se leva maladroitement et sortit en traînant les pieds.<br /><br />« Alors bonne chasse, Fossoyeur, le Ranger de la galaxie ! » lui lança la petite doctoresse en le voyant partir.<br />Il ne put s'empêcher de lever les yeux vers le ciel constellé... Une nouvelle étoile venait de s'allumer dans le firmament.",
+   "text": "« Ce chemin n'est pas pour toi. Va-t'en. Trouve-toi un travail ou... retourne à l'école. »<br />La petite doctoresse posa son sandwich entamé et s'essuya les mains sur un manteau blanc manifestement trop grand pour elle.<br /><br />Sans mot dire, le garçon se déshabilla, révélant d'innombrables cicatrices. La doctoresse poursuivit sur sa lancée.<br />« Un jeune homme comme toi mérite mieux. Seuls les plus désespérés choisissent cette voie, ceux pour qui le renouveau n'est plus possible, mais qui veulent quand même se venger... »<br />Le canon froid d'un pistolet se posa sur son front... ou ce qui lui faisait office de front.<br />« Si j'avais voulu qu'on m'fasse la leçon, je s'rais r'tourné à l'école », la menaça son patient.<br />« Je sais ce que tu essaies de faire, mais les armes n'ont aucun effet sur moi... Peu importe. Allonge-toi », lui répondit la doctoresse, résignée.<br /><br />...<br />La table d'opération fut soudain baignée de lumière.<br />Il eut l'impression de sombrer dans les abysses, le corps enveloppé et fusionnant avec ce qui l'entourait. Arraché à son enveloppe charnelle, son esprit se débattait dans le néant.<br />Étrangement, ses émotions... terreur, anxiété, solitude, ténèbres, colère... n'avaient pas disparu avec son corps : elles étaient bien là, sensiblement différentes et plus pesantes encore.<br />On brûlait quelque chose, il le sentait. Il percevait même le souffle léger de la doctoresse sur lui... Elle respire ? Cette idée lui paraissait bizarrement incongrue. Des machines ronronnaient à ses oreilles tandis que le nouveau sang bleu refusait de couler vers son cœur assoiffé.<br />Il aurait aimé s'endormir pour ne jamais se réveiller.<br />C'est alors qu'il entendit une chanson rauque aux paroles simples, les souvenirs du passé refirent surface, la haine profonde se transformant en une lueur dans l'obscurité. Il suivit cette lumière, utilisant toute sa force pour remonter à la surface.<br />...<br /><br />« Bravo. T'es pas facile à tuer, toi. »<br />La doctoresse essuya ses mains ensanglantées sur son manteau blanc avant de récupérer sa moitié de sandwich.<br />« Parce que tu croyais que j'allais y passer ? »<br />Il serra ses poings désormais non plus de chair, mais faites d'acier froid.<br />« La plupart des gens y seraient passés, expliqua-t-elle l'air dégagé, et pas parce que je suis mauvaise.<br />– J'vais te dire un truc : ça fait un bout de temps que je suis mort.<br />– Comment tu t'appelles ? »<br />Il hésita une seconde. Les voix avaient disparu. Plus personne ne pourrait prononcer ce nom haut et fort.<br />« Le Fossoyeur. D'où je viens, c'est comme ça qu'on appelle les porte-flingues morts. »<br />Il sourit, révélant une série de dents aiguisées.<br />« Mais c'est que le début. Parmi tous les prix à payer pour ma vengeance, c'est le plus faible. »<br />Il traîna son nouveau corps et sortit par la porte, titubant.<br /><br />« Alors bonne chasse, le Fossoyeur, Ranger de la galaxie ! », lui lança la petite doctoresse en le voyant partir.<br />Il ne put s'empêcher de lever les yeux vers le ciel constellé... Une nouvelle étoile venait de s'allumer dans le firmament.",
    "unlockRequirement": "Disponible au niveau <nobr>60</nobr> de personnage"
   },
   {
    "title": "Histoire du personnage : Partie IV",
-   "text": "Il revint à plusieurs reprises sur Aeragan-Epharshel dans l'espoir de découvrir le nom de celui qui avait ordonné l'annihilation de sa tribu, mais celui-ci avait été effacé des archives historiques.<br />Il parvint à se frayer un chemin dans un Jardin de la mémoire et tenta d'y déchiffrer les bulles mémorielles liées à sa planète. Celles rangées sur le présentoir tombèrent en cascade à ses pieds. Les protecteurs de la mémoire se ruèrent vers lui, mais préférèrent sauver les précieux trésors, négligeant pour un temps l'intrus.<br /><br />Alors qu'on le traînait hors du Jardin de la mémoire, il l'aperçut enfin dans le chaos d'une bulle mémorielle liée à Aeragan-Epharshel.<br />« Oswaldo Schneider, directeur du Département de développement marketing de la Corporation pour la Paix Interastrale... »<br /><br />...<br /><br />« T'as entendu ça ? Un mystérieux cyborg a attaqué la flotte de la CPI au portail interstellaire de l'Embarcadère ! »<br />« Le Département de développement marketing a perdu un paquet de pognon. Le spectacle va commencer... L'heure est venue de leur faire payer leur arrogance... »<br />« Tu rigoles ? Je rentre à l'Embarcadère demain, j'ai pas envie de finir avec un flingue sur la tempe... »<br />Des ouvriers en uniforme de la CPI traversaient la Place de la fontaine par deux ou trois, une tasse de café à la main.<br /><br />Le cow-boy souleva d'une pichenette le bord de son chapeau. À l'ombre de l'arbre, il lut la mise à prix publiée dans le journal tout en sirotant un jus de fruits malté.<br />« Le Fossoyeur. Lieu de naissance inconnu. Ranger de la galaxie. Coupable des crimes suivants : 5 attaques contre l'Embarcadère ; 3 attaques contre des entrepôts d'armes appartenant au Département de développement marketing de la CPI ; multiples attaques contre des ouvriers de la CPI, classés P<nobr>40</nobr> et supérieur. L'individu est sans doute aussi responsable du vol du système Marie-Louin, d'émeutes dans l'anneau de Kongea, de la grande explosion survenue sur la planète Galileo et de multiples incidents sur des planètes placées sous la juridiction de la CPI. »<br /><br />« Sales gratte-papier... J'ai bien failli y laisser la peau de mes chicots, et ils en parlent comme si c'était rien... »<br />Il laissa tomber le journal pour regarder défiler les vaisseaux à l'arrivée et en partance du bureau de la CPI. La prime pour sa capture ne cessait de grimper, mais Oswaldo était une vraie anguille. Il ne laissait jamais de trace. Il n'avait encore trouvé aucune mention du directeur dans les annonces officielles et les cadres eux-mêmes ignoraient où il se trouvait.<br /><br />Les Omnitrons peu gradés faisaient transiter des marchandises sur les quais dans des navettes de transport banalisées. Il venait d'en compter <nobr>359</nobr> lorsque les ouvriers se découvrirent pour saluer un magnifique vaisseau flanqué de corvettes de protection, en partance pour la planète des festivités. Il secoua la tête d'un air de dégoût devant le faste de l'appareil et attendit la suite.<br /><br />Quelques minutes plus tard, un petit biovaisseau gris quittait silencieusement les quais avec une flotte commerciale<br />La cible était enfin en vue.<br /><br />« Aucune forteresse n'est imprenable. Si je peux pas te trouver, Oswaldo, j'aurai moins de mal à mettre la main sur des chiens de la CPI qui peuvent pas te pifer ! »<br />« Je repense à ces types que j'ai butés pour avoir rallié l'ennemi... Je me demande s'ils se foutent encore de moi, en enfer... »<br />Il jeta la bouteille vide et esquissa un sourire carnassier.<br />« C'est rien. On se verra très bientôt. »",
+   "text": "Il retourna plusieurs fois sur Aeragan-Epharshel dans l'espoir de découvrir le nom de celui qui avait ordonné l'annihilation de sa tribu, mais celui-ci avait été effacé des archives historiques.<br />Il parvint à se frayer un chemin dans un Jardin de la mémoire et tenta d'y déchiffrer les bulles mémorielles liées à sa planète. Celles rangées sur le présentoir tombèrent en cascade à ses pieds. Les protecteurs de la mémoire se ruèrent vers lui, mais préférèrent sauver les précieux trésors, négligeant pour un temps l'intrus.<br /><br />Alors qu'on le traînait hors du Jardin de la mémoire, il l'aperçut enfin dans le chaos d'une bulle mémorielle liée à Aeragan-Epharshel.<br />« Oswaldo Schneider, directeur du Département de développement marketing de la Corporation pour la Paix Interastrale... »<br /><br />...<br /><br />« T'as entendu ça ? Un mystérieux cyborg a attaqué la flotte de la CPI au portail interstellaire de l'Embarcadère ! »<br />« Le Département de développement marketing a perdu un paquet de pognon. Le spectacle va commencer... L'heure est venue de leur faire payer leur arrogance... »<br />« Tu rigoles ? Je rentre à l'Embarcadère demain, j'ai pas envie de finir avec un flingue sur la tempe... »<br />Des ouvriers en uniforme de la CPI traversaient la Place de la fontaine par deux ou trois, une tasse de café à la main.<br /><br />Le cow-boy souleva d'une pichenette le bord de son chapeau. À l'ombre de l'arbre, il lut la mise à prix publiée dans le journal tout en sirotant un jus de fruits malté.<br />« Le Fossoyeur. Lieu de naissance inconnu. Ranger de la galaxie. Coupable des crimes suivants : 5 attaques contre l'Embarcadère ; 3 attaques contre des entrepôts d'armes appartenant au Département de développement marketing de la CPI ; multiples attaques contre des employés de la CPI de rang N<nobr>-40</nobr> ou supérieur. L'individu est sans doute aussi responsable du vol du système Marie-Louin, d'émeutes dans l'anneau de Kongea, de la grande explosion survenue sur la planète Galileo et de multiples incidents sur des planètes placées sous la juridiction de la CPI. »<br /><br />« Patin de merle, j'ai bien failli y laisser la peau de mes chicots, et ils en parlent comme si c'était rien... »<br />Il laissa tomber le journal pour regarder défiler les vaisseaux à l'arrivée et en partance du bureau de la CPI. La prime pour sa capture ne cessait de grimper, mais Oswaldo était une vraie anguille. Il ne laissait jamais de trace. Il n'avait encore trouvé aucune mention du directeur dans les annonces officielles et les cadres eux-mêmes ignoraient où il se trouvait.<br /><br />Les Omnitrons peu gradés faisaient transiter des marchandises sur les quais dans des navettes de transport banalisées. Il venait d'en compter <nobr>359</nobr> lorsque les ouvriers firent leur salut à un magnifique vaisseau flanqué de corvettes de protection, en partance pour la planète des festivités. Il secoua la tête d'un air de dégoût devant le faste de l'appareil et attendit la suite.<br /><br />Quelques minutes plus tard, un petit biovaisseau gris quittait silencieusement les quais avec une flotte commerciale<br />La cible était enfin en vue.<br /><br />« Aucune forteresse n'est imprenable. Si je peux pas te trouver, Oswaldo, j'aurai moins de mal à mettre la main sur des chiens de la CPI qui peuvent pas te piffer ! »<br />« Je repense à ces types que j'ai butés pour avoir rallié l'ennemi... Je me demande s'ils se foutent encore de moi, en enfer... »<br />Il jeta la bouteille vide et esquissa un sourire carnassier.<br />« Peu importe. On se verra bientôt. »",
    "unlockRequirement": "Disponible au niveau <nobr>80</nobr> de personnage"
   }
  ],
@@ -2942,7 +2946,7 @@
   "cvJp": "小西克幸",
   "cvKr": "김단",
   "cvEn": "Andrew Russell",
-  "camp": "Ranger galactique"
+  "camp": "Ranger de la galaxie"
  },
  "calculator": {
   "expCost": {
@@ -3037,19 +3041,19 @@
  "name": "Le Fossoyeur",
  "rarity": 5,
  "descHash": "Un cow-boy cyborg qui erre parmi les étoiles. Extrêmement optimiste et sans retenue. Membre des Rangers de la galaxie, il s'est juré de punir par tous les moyens ceux qui ont enfreint la loi. Derrière ses coups d'éclat et son audace se cache le désir d'attirer l'attention de la Corporation pour la Paix Interastrale, véritable cible de sa vengeance.",
- "artPath": "ee8f28dd390d35f3a2bf4b0351dee5aa0a74e356beffd5568f1d4003854ffc69",
- "miniIconPath": "f1832ecd6d06f69ac34bf2853f88616945c05c2e31a47bc6e1b04d79ec16bcb2",
+ "artPath": "22dd793d15f82ec60e3f06326ce6c3530a3d36da6f889e06ef8c1b936e14f30c",
+ "miniIconPath": "7ac7ea9eba59a8f6c65478f03ba547e3d6a42d2517bda6d5516f2019ab411cda",
  "damageType": {
   "id": 1,
-  "iconPath": "9b77aa4b13a80228e6db8023c086a6dd43ffe89e318aa52e790528beb4e5ea20",
+  "iconPath": "e21edc60ff709336831c1f18a58ad77fbe2cd85ceb630f7e87463545a4057bbc",
   "color": "#FFFFFF",
   "name": "Physique",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
-  "altIconPath": "38241d858c120d8a55f36eaab92a34690a7d9add4f3e36383dabf27f5d3f5f55",
+  "iconPath": "d5302975290739e51dc53d919353f47705d836fa6db628c190b1faaf195f7319",
+  "altIconPath": "6faec7d864802e7fc24e83f1693163123b6cdc30f70c445dcfec5c3f71a09854",
   "color": "#FFFFFF",
   "name": "La Chasse",
   "rarity": 0

@@ -1,19 +1,20 @@
 {
  "spRequirement": 110,
- "iconPath": "66ef641eac0db8e9f18ee0e6fee3f2ba5bc8d8eb8b5b53397c5da876e1c68787",
- "bgPath": "2a2eb647f215910dabac50b08cb33f79ebccb47e174fdba935a4aae0843aa555",
- "figPath": "97cc402e5bac4cde5a97f9138332fb4d4239b87ec5a8cc426fd8305e8f7d403d",
- "fgPath": "fc4cd3ece56b1e04d6fb0b61ad38abd25f0c03437b35b93aa232a854e6fa0045",
- "splashIconPath": "fec4c21cfb55059d506ad72c169042c83ebbbf369772e167b43fcbd2ed5bcf86",
+ "iconPath": "d45295bf005a49469e372e90f0bf1da599235c90dc3be6de3ca02aa18dbb9f78",
+ "bgPath": "0352b19ae5a5f3be81d35055c1ce2b0a26af718bbd5e1023057542fcc0e172c7",
+ "figPath": "d08c60af18f1bd1b4147bd24958b12497cc86e537fa45b12bee4e50765137c32",
+ "fgPath": "14394284dd23573f55c7a6c1ee4f0835b82292ecb85c0ea5069e3cf8dfa2fe63",
+ "splashIconPath": "77f2a9afcdada915448ad42df53b0cf47846bd6684cad6f9aaed31350130edff",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRpoCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSP4AAAABkGtt26E7z3yzbdu2Ktveu0VvdDyAWG1Weru0k9q2k8qcD08w/xxDREwA3AUAhMa15MK3BYiArKmbr1QfhA/YaxdvfSTJftgudox9giSVMrIC/gAEhnefoVJKG6O5Nxn/B10nlXHXfLqeAYHW35TGt0NTBoEW41lyC4SNEWoPmk4RBKyTVB6M4gps1P+m9qL5oQaYp/FkJOfR9VBJai9Gf5kYo1YH3lNro90cbojao83SNTo0VP9pfipE3K4bZQfJz/xI6v++lAm0TUaO31nP7Gq/+ZuOUvxdAaQIIB4iDqnHfpDkg1QAsADLPxxA7fLpL3Ib3C0AsAD4pSdFAVZQOCB2AQAA0AgAnQEqFAAUAD5tLpNHJCIhoSgKqIANiWoAnTLiGDXAbYDnjv7BqGfkAemT7Knk3XLlBAauJMr/WYLUhUvJK55RQ++S5F6xR4Nter7QSAD+8rO3t4VfzavdTe1OMAhFENrb77+0tiQ9188d145EBtqh43N2x9+mF1R/JYZNzEd2h9n8NHSycGr4+9Sxxe7iXu/1r4Gl9+FJIXC70+f0PIAuDfjtPVKO/3PCDDz5qN2QflkW7BHiti9K8WdOWNm50jV4nlXndBou3GHbFy3gJcvrqa3OnvTCv7h52WEFfdPtjatClN6bcbKB9Z/xlwW23nZFmzM2zRjtiolvM++VofTz2FNzb8nIp/PVKsNqY1WSw92/0y2O/phqjzBGf2Qb4IfjNXFEdfKMBJAxjpbIPCXY0f+OZY7Wf1mhoDQ8oE2woAbD7LaF0xLzktj8ykFP5OjwJR8mnMwo/xNM5dL6HP5XDChxNK3I4cM564kTXWwOzCLLuAA=",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 7,
-  "iconPath": "232bc80b207d7be892c4e0c41ea43b44080e51373e3c4f6f0f2f9e0eb4e03194",
+  "iconPath": "f54e3ffa38baa511bc4cc66b3da1288637334270877ebd5c2dafb56090c5ff0c",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用點",
    "desc": "星際和平公司與客戶結算時使用的貨幣，如今已成爲太空旅行的硬通貨。",
    "lore": "「人們奔波、爭鬥、貿易，爲的不過是個終端裏顯示的數字。但真正珍貴之物，公司的數字是買不到的。」",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "命運的足跡",
    "desc": "行跡升級的高階素材。",
    "lore": "一次又一次的敗北成就了你的勝利，一步又一步的前進讓你抵達了命運的拐點。",
@@ -61,7 +62,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "漫遊指南",
    "desc": "角色的經驗材料，可以獲得<nobr>20000</nobr>點角色經驗。",
    "lore": "跨越諸界必備的冒險叢書。按下閱讀鍵，充滿磁性的聲音將以你能聽懂的語言講述知名冒險家們在不同世界間的傳奇經歷，以及他們在各個星球上獲得的珍貴智慧。<br /><br />「漫遊指南全新書系《星際美食烹飪導覽》開售在即，敬請支持。」<br />「投稿請接入博識學會聯覺信標<nobr>23</nobr>θ聯絡員，稿酬可以以您接受的任何形式支付。」",
@@ -79,7 +80,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "冒險記錄",
    "desc": "角色的經驗材料，可以獲得<nobr>5000</nobr>點角色經驗。",
    "lore": "裝訂嚴整，一看就頗有教育意義的冒險札記。圖文並茂地描述了冒險行動的始末、有價值的信息和生存相關的技巧。<br /><br />「幹嘛不數據化放進光刻片裡？便攜多了。」<br />「面對恆星風暴和中子流噴發時，高科技比你想象的還要脆弱。何況，製作這本書的人一定希望人們用最簡單的方式閱讀它。」",
@@ -98,7 +99,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "旅情見聞",
    "desc": "角色的經驗材料，可以獲得<nobr>1000</nobr>點角色經驗。",
    "lore": "記錄旅途見聞的日誌，字跡漫漶不清，內容隨心所欲，對你並沒有太大的幫助。<br /><br />「看完了就趕緊把這堆廢紙處理掉吧，丹恆？」",
@@ -116,7 +117,7 @@
    "id": 470781,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "c63b922af281d49c4d1e5ee84aa4a5cb7027e4a16e96fe8f683c9f50a4bcb921",
+   "iconPath": "021510fda34098d12f31549a6dfc2257a20b8c51087684e3585392122b8a07ca",
    "name": "蛀星孕災的舊惡",
    "desc": "行跡升級的高階素材。",
    "lore": "作爲蟲皇親自繁育的子嗣，它的唯一欲望便是擴張族羣。它以巨鐮收割星體爲巢，不倦培育無窮子孫，塗炭萬千生靈，直至隕落一刻。<br /><br />「破碎星球之上，巨蝗遮蔽天空，羣蟲湧出地殼。鍬甲將這顆新巢穴舉起，向它的蟲皇獻禮…願此番慘狀只存於史料中，永不復現。」",
@@ -131,7 +132,7 @@
    "id": 549209,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "iconPath": "e0c990b0eea70425d86a217aafba0a3a7e8bca023ae176d8d1a04c96017cea2a",
    "name": "蓄夢元件",
    "desc": "夢境造物的儲能裝置，強化所需的簡單材料。",
    "lore": "儲存碎夢的築夢容器，爲夢境造物提供了基本的能源。<br /><br />「如果裝上這個玩意兒，就會得到一位美夢劇團的成員。」",
@@ -140,6 +141,7 @@
    "rewardPath": "/material/549209",
    "comeFrom": [
     "驚夢劇團掉落",
+    "「差分宇宙」中敵方掉落",
     "「模擬宇宙」中敵方掉落",
     "委託獎勵",
     "餘燼兌換",
@@ -151,7 +153,7 @@
    "id": 589812,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "3004d26bebcef0435b0763480acc500f00a86770da78f7de060b4350882b1f67",
+   "iconPath": "e34be5197b27ac4e4a19cdf97ac35771105513b2155996ce7c0a0359d1864c41",
    "name": "滋長花蜜",
    "desc": "催生生命成長的蜜液，自翁瓦克聖林的心樹花汁中釀成。可中幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">豐饒</span>角色的命途行跡。",
    "lore": "魔王自肥沃的土壤中破土而出，不過是一腕尺高，圓滾滾的果子罷了。不知爲何，只有在擊敗了同胞兄弟姐妹們，它才有資格飲下花蜜，發育成形。<br /><br />「你能痛飲這林子裡任意一棵樹的樹汁，唯獨那棵樹的汁液你不可沾脣。」",
@@ -169,7 +171,7 @@
    "id": 633150,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "iconPath": "16ae6e8e6b251c084b4281d8dd2cf628bde9c0b356cca2036d18eb80dcc281c6",
    "name": "流夢閥門",
    "desc": "夢境造物的控制部件，強化所需的普通材料。",
    "lore": "調節慾念的築夢裝置，控制着夢境造物內心的情緒。<br /><br />「如果這玩意兒失靈了，就會得到一位驚夢劇團的成員。」",
@@ -179,6 +181,7 @@
    "comeFrom": [
     "突破至均衡等級2後，驚夢劇團掉落",
     "「萬能合成機」- 材料合成",
+    "「差分宇宙」中敵方掉落",
     "「模擬宇宙」中敵方掉落",
     "「萬能合成機」- 材料置換"
    ]
@@ -187,7 +190,7 @@
    "id": 673753,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "98956c7191b34655e76f1351f86d05cfe180bde1c7ad81b960c2d3198b4b4d0c",
+   "iconPath": "da3b74a5d9ab68a941a193dd5790b40d753ade2715ded52f49b83fdff3c00924",
    "name": "萬相果實",
    "desc": "蘊含衆生萬相的果實，自翁瓦克聖林的心樹枝頭培育生成。可大幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">豐饒</span>角色的命途行跡。",
    "lore": "飲下聖樹花蜜的一個晝夜內，可笑的球狀果實膨脹成了身披纖維鎧甲，手執樹矛和葉盾的「魔王」。圍繞着它的足跡，林間生靈紛紛獻上自己的基因，供王者品嘗、學習和變化。隨後，魔王將開始向翁瓦克的海洋與天空發起挑戰。<br /><br />「藉由此法，古老的先賢們將最恐怖的事物囚禁在了最可笑的遊戲裡。」",
@@ -204,7 +207,7 @@
    "id": 717091,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "iconPath": "3ec7df71c4478ad9ccdff86f63ab9fd8e7dcf2bc435e8fbdf17874307dfa7d70",
    "name": "造夢馬達",
    "desc": "夢境造物的動力核心，強化所需的高級材料。",
    "lore": "創造幻想的築夢機械，賦予夢境造物靈魂的發動機。<br /><br />「如果發現這玩意兒出了故障…朋友，在陷入噩夢前快醒過來吧。」",
@@ -214,6 +217,7 @@
    "comeFrom": [
     "突破至均衡等級4後，驚夢劇團掉落",
     "「萬能合成機」- 材料合成",
+    "「差分宇宙」中敵方掉落",
     "「模擬宇宙」中敵方掉落",
     "「萬能合成機」- 材料置換"
    ]
@@ -222,7 +226,7 @@
    "id": 874339,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "c519892f81f8c3ee1c23884973d15c1c4884dec6cebcfd44bd6cb35bce604c84",
+   "iconPath": "bd4573a363ee88ed33d57eefa26a8317a49d6d3df94d9e50171e293514014ed8",
    "name": "異木種籽",
    "desc": "攜帶各色物種基因的種子，自翁瓦克聖林的心樹果實中取得。可小幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">豐饒</span>角色的命途行跡。",
    "lore": "翁瓦克的神聖林海中，巨大的異木聖樹耐心記錄着無數個生命周期裏生態圈的演變。它不斷以各色生命的基因爲種子培育出理想的「魔王」。<br /><br />「切開這堅硬的果實，從果肉裏掏出種子，然後埋在神聖的土壤裏，來年你將收穫數十位王者，靜待它們決出勝負吧！」",
@@ -239,7 +243,7 @@
    "id": 983280,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "0151bb6ca157095e4b12ac1516b05ce890c064d6738032a67eefe492162ff0fd",
+   "iconPath": "2f3600f83be422a695b07487ff158f1b9f6f35e146523f4d4d6f9c52534cd9a0",
    "name": "忿火之心",
    "desc": "「狂怒褪去之殼」的憶質核心，火屬性角色的晉升素材。",
    "lore": "憤怒之火終會焚毀憤怒自身，忘卻憤怒的本因，只剩不甘的餘燼，以及一顆不滅的嗔心。<br /><br />「關於憤怒的憶質會因恨意長存，但也會因恨意失真。」",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "a6815cab69cdf8215c1015fbd8afb8cfbe6e874690f14c13cd09049ed2809e1e",
-   "artPath": "06ec5979cd3faee0259917c4277a3482c61fc21583cfc68a7801eaa82fb56a3c",
+   "iconPath": "6b92e3a72506150f24877c8ddad186057e28a7182a707377a902e56d986b34ce",
+   "artPath": "0b4fd244837d03a9d7eeaff585fc96e407649774922869f359d276fec3677b3c",
    "name": "鹽與犬",
    "descHash": "加拉赫進入戰鬥後會恢復<nobr>#1[i]</nobr>點能量，效果抵抗提高<nobr>#2[i]%</nobr>。",
    "params": [
@@ -450,8 +454,8 @@
   },
   {
    "id": 2,
-   "iconPath": "f826cc6880d90b1638995727f9842aaf92e55844275821b850f9678d7bec650b",
-   "artPath": "ded57e58a83be469fd8bc1744197764e5065f70e4a2c6570244066ddf5e3efbe",
+   "iconPath": "08d92cf93959274f881f28691d7688ff7b1cdd9b0a2a0d1f68e4a2f9fd63d382",
+   "artPath": "4f2e7ed59ffac8797f03eb87ff4d9616838d1c8bf30b35a90bc6460ed4599971",
    "name": "獅子之尾",
    "descHash": "施放戰技時，解除指定我方單體的<nobr>#1[i]</nobr>個負面效果，同時使其效果抵抗提高<nobr>#2[i]%</nobr>，持續<nobr>#3[i]</nobr>回合。",
    "params": [
@@ -462,16 +466,16 @@
   },
   {
    "id": 3,
-   "iconPath": "66506d57a314cb46a24df8d3eb1f3bd09fe89bd1345da59246d8aaf909de3a87",
-   "artPath": "36eb269de21bb98b287d2d099d742874a7d6b9ce650d373464c2027232bd7141",
+   "iconPath": "a763beb75b46b4e170fcaa47f8c10c519c8e4e9988c2420d4bb405375364797c",
+   "artPath": "3ff7b1ffcc03196d63d44db13a6a76e8d96fe7b195db2495c982a8068638b24c",
    "name": "逝者的新生",
    "descHash": "戰技等級+2，最多不超過<nobr>15</nobr>級，普攻等級+1，最多不超過<nobr>10</nobr>級。",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "150811799b4c3e0b61078521022a8549bca30ffd1839ad0569a59bbf6bcd120b",
-   "artPath": "5bedaf59fb700ad0c8b2b49fd1d4bf463c3399177ca4afaf6be3bb2a8cd14b22",
+   "iconPath": "064a6b6537ad84bbb1401bfaf8162ab57c6ef9dac1fcb2b043c83ef8d8c4bde9",
+   "artPath": "1a1b01fbe5e8d8e6806b641e3b7ce8ff711a3eedd8e3d660ad8c7ab2a47ce48d",
    "name": "臨終的輕語",
    "descHash": "加拉赫終結技造成的【酩酊】狀態持續時間延長<nobr>#1[i]</nobr>回合。",
    "params": [
@@ -480,16 +484,16 @@
   },
   {
    "id": 5,
-   "iconPath": "5bb3bcf775d9025cc8a4545fffbcc0711b6e705f1b8710fab39ebd255234f2b6",
-   "artPath": "1fc609b3622445a163df19949106991915a3002f4f13ae3bd6c3fe85e6e9adcb",
+   "iconPath": "05a604b143a5b19475b64f6075ea775a4a6f3de3db376e9e9aaeeae916b222e4",
+   "artPath": "35a5ded2a11136b16b986cfe3bd12ce8e9a3b82a6dd68a9a87bd8e84a65a5b25",
    "name": "午後之死",
    "descHash": "終結技等級+2，最多不超過<nobr>15</nobr>級，天賦等級+2，最多不超過<nobr>15</nobr>級。",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "be93375a51e55caf188d75fcd5bc56ae1343b55bccacd33b5d7989489de86a8a",
-   "artPath": "9eb1f3131de5313ed323aba03f32fe28eb650194cade404055eb5ccce661cb96",
+   "iconPath": "e4bb5df7c0681219c9952c896ad2bc3742b1f99696c6e5ca97a1999bd96a226d",
+   "artPath": "928766514e105303224390a758da5239ba58563e59fa5717f58ddfb55d546c21",
    "name": "血與沙",
    "descHash": "加拉赫的擊破特攻提高<nobr>#1[i]%</nobr>，弱點擊破效率提高<nobr>#2[i]%</nobr>。",
    "params": [
@@ -525,7 +529,7 @@
    "energy": "20",
    "id": 426146,
    "name": "開瓶費",
-   "iconPath": "d7e1005512962c6e7618f48564fe8271bfb975599e826ed0eceac6d417417fb7",
+   "iconPath": "ac8d657c305b6ddff0735e3e513ef8eedca9b6ed56bf829dc628a6148c83eb56",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -686,7 +690,7 @@
    "energy": "30",
    "id": 342205,
    "name": "罐裝特調",
-   "iconPath": "66506d57a314cb46a24df8d3eb1f3bd09fe89bd1345da59246d8aaf909de3a87",
+   "iconPath": "a763beb75b46b4e170fcaa47f8c10c519c8e4e9988c2420d4bb405375364797c",
    "typeDescHash": "戰技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -957,7 +961,7 @@
    "energy": "5",
    "id": 258264,
    "name": "香檳儀禮",
-   "iconPath": "af66914c3bf9726553eaecc0dadb86904327b00f631ea74eed784165db04a7cc",
+   "iconPath": "63b96d1ddc3552ded3ae8ad3e7c26ae1b377a5121c22149abf3848c8bf453cff",
    "typeDescHash": "終結技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1243,7 +1247,7 @@
    "energy": "0",
    "id": 141619,
    "name": "鏖戰正酣",
-   "iconPath": "125b563450c04a008ebaf5b7c1006044c798c3cdeb307e62a4c98327eb9cb945",
+   "iconPath": "dc5219292b8bde3ac58b4ce842264dcff9e94255d2fcf1b2267013f6ce782774",
    "typeDescHash": "天賦",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1529,7 +1533,7 @@
    "energy": "0",
    "id": 973737,
    "name": "攻擊",
-   "iconPath": "d7e1005512962c6e7618f48564fe8271bfb975599e826ed0eceac6d417417fb7",
+   "iconPath": "ac8d657c305b6ddff0735e3e513ef8eedca9b6ed56bf829dc628a6148c83eb56",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1551,7 +1555,7 @@
    "energy": "0",
    "id": 857092,
    "name": "親啓佳釀",
-   "iconPath": "c7c87d29b4475a190138c950a3dc7052be8c56e57a179ca25b2efd5cabfd0e1a",
+   "iconPath": "5de1a8317adb3f7fad1fd1ccd58ec6c694e3f32066b5621c30993894bda464a1",
    "typeDescHash": "祕技",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1576,7 +1580,7 @@
    "energy": "20",
    "id": 312431,
    "name": "酒花奔湧",
-   "iconPath": "459ec8b0eaa2512f7da264037b0b9e3483d7a0e1520c224fb96859e8f0800a63",
+   "iconPath": "8f973704da85bac90d247184d98ae5820b9ec16a4352f5db9b11791a3e194883",
    "typeDescHash": "普攻",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1774,7 +1778,7 @@
           "name": "生命強化",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+          "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
           "statusList": [
            {
             "key": "生命值",
@@ -1803,7 +1807,7 @@
         "name": "效果抵抗強化",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+        "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
         "statusList": [
          {
           "key": "效果抵抗",
@@ -1832,7 +1836,7 @@
       "name": "擊破強化",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+      "iconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
       "statusList": [
        {
         "key": "擊破特攻",
@@ -1861,7 +1865,7 @@
     "ultimateCost": 0,
     "id": 63351,
     "name": "嶄新配方",
-    "iconPath": "ee47d1da06e734287b6ca33d050ff9f853ac1006aa82b06c1f0bb6a8740db109",
+    "iconPath": "0b26d86c7619e2a72dd156be6730433ea082f3e56a7a8ad438b379b724a00552",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1916,7 +1920,7 @@
           "name": "效果抵抗強化",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+          "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
           "statusList": [
            {
             "key": "效果抵抗",
@@ -1945,7 +1949,7 @@
         "name": "擊破強化",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f",
+        "iconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f",
         "statusList": [
          {
           "key": "擊破特攻",
@@ -1974,7 +1978,7 @@
       "name": "效果抵抗強化",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+      "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
       "statusList": [
        {
         "key": "效果抵抗",
@@ -2003,7 +2007,7 @@
     "ultimateCost": 0,
     "id": 63354,
     "name": "天然酵母",
-    "iconPath": "d0f52a86a6b7671f36cbf368dfa92dc702a4d9000a4beb2c5f9ee76bc9fd3b52",
+    "iconPath": "eb160f20a128d28f9ec0b22a193eab703833d09b04303aacfa8b0628bcc06ca5",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2049,7 +2053,7 @@
       "name": "生命強化",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "生命值",
@@ -2082,7 +2086,7 @@
       "name": "效果抵抗強化",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+      "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
       "statusList": [
        {
         "key": "效果抵抗",
@@ -2111,7 +2115,7 @@
     "ultimateCost": 0,
     "id": 63353,
     "name": "敬請乾杯",
-    "iconPath": "f4820a18f90d0ba15509551d075885ff53211a52cfc00a5be778a6aec054feb3",
+    "iconPath": "000c94fbb92f25e88d2d0c50ac8072cc683a8c37095ad998e826fc75376969c6",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2152,7 +2156,7 @@
     "name": "效果抵抗強化",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+    "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
     "statusList": [
      {
       "key": "效果抵抗",
@@ -2181,7 +2185,7 @@
     "name": "生命強化",
     "levelReq": 80,
     "promotionReq": 0,
-    "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+    "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
     "statusList": [
      {
       "key": "生命值",
@@ -2211,27 +2215,27 @@
   "props": [
    {
     "relicTypeHash": "軀幹",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "治療量加成",
-    "propertyIconPath": "57726150eaa27c675743fe08b88bd04575a0e76b5014dcfbc073c105aa1c7e44"
+    "propertyIconPath": "149abd902573860d5d76b5f79ad182f95a92f1f0533fc48d870a54028b25ec8b"
    },
    {
     "relicTypeHash": "腳部",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "速度",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "位面球",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "生命值",
-    "propertyIconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf"
+    "propertyIconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61"
    },
    {
     "relicTypeHash": "連結繩",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "擊破特攻",
-    "propertyIconPath": "5a45f69adc0f8e5199b51b683fa7d30e52be092a956d087bc3e9c01e2cd7c10f"
+    "propertyIconPath": "bb107dac9985a6025c3207d0e3ec331dfcd4aa226ca148265e186dd9e8889c7f"
    }
   ]
  },
@@ -2241,480 +2245,480 @@
    "title": "初次見面",
    "text": "我是加拉赫，這兒的「獵犬」之一。歡迎來到夢想之地「匹諾康尼」，新手無名客。",
    "unlockRequirement": "",
-   "cnUrl": "495221d21da5779a1a37579d4d3a5f1a62ac4e6e08ddb1cbade27b1b093b9838",
-   "jpUrl": "65ea30b62112b1f5330f01e40aeb71c4e4090b516f73a610ee81ff059b5b237e",
-   "enUrl": "67d240fbd2dbd209ce6dccd6b8b745c916ecf5d26a03e0b4824852f0ea683b7f",
-   "krUrl": "9ba7cbb38ad06c92bb553d5f14877e4087bb55cf94d170b5fb11759bc287198f"
+   "cnUrl": "57820d00b782f07ff2557ca4f067badbc33e9e60bbadc6c318264b512abbf760",
+   "jpUrl": "2cf95a421da7d341a76c448fd24027dedc0583ad4b3b36e8a5887e72f843ddbf",
+   "enUrl": "50c0f73918e7da647bf2e7a39b3bc433fc4ea2573310e3a4bdf23dbee41e4f3f",
+   "krUrl": "2e9091a6282deccf6d41a3590bc5d62b9c174d3ab0b91fcd66dab3bcd7da2b77"
   },
   {
    "id": 2,
    "title": "問候",
    "text": "晚上好，大忙人。要來杯調飲嗎？",
    "unlockRequirement": "",
-   "cnUrl": "0956ac391b16a31f055a4d341ac2ee134679f8d30af3db64cf82ada29f306aae",
-   "jpUrl": "d9a117fc607e27062de6f824356cff98502e241dcfd2ec52687a6544fe49f2ae",
-   "enUrl": "34609ce464aefd86f96bbb2c99c95d702cc308981a1c5aca5d26c226b5113fbf",
-   "krUrl": "597a28b55ebbd0fd9fda46bb783e92a8f1a2afce6834c18dd28aa4ed7eabca16"
+   "cnUrl": "5f5af66afaf9e06c60a43be3bb7b54cc451f470236cd8d324aaf3946e12c150d",
+   "jpUrl": "389bff445a45e6794f7387770b484e7b9d2c439c0b66090bb0936cf4b16ff708",
+   "enUrl": "1051372736b17f1b02d1af662ede81dc67b6ad23cb970fcc585ac0f0c6d05846",
+   "krUrl": "fd70ab6bf238b454b4ad5716273ecdb02bbfdab8a5e5c77eea0880d658df3d80"
   },
   {
    "id": 3,
    "title": "道別",
    "text": "好了，成年人還有工作要做，自己去玩兒吧，開心點。",
    "unlockRequirement": "",
-   "cnUrl": "492842235abf14868a290c8cafb4bed4a98364e54f8e85dda9452c6414ade508",
-   "jpUrl": "2f798021a12d1abc0e658de5ae3661c1e556d276ecd684fe6f978b18a6a31554",
-   "enUrl": "c76e4b534e95e9a3799c16f0f5db77cb2eb877df14d17cca8453c8ce965983c8",
-   "krUrl": "0230aac9edbce08bae3c96ad9ca61abb4056a9899769a0ce5089ebf4534f81f1"
+   "cnUrl": "2d9b1afe22271ad6594a35c57e82da0eefd86aaa52937e9562ec1353b39797d7",
+   "jpUrl": "41f154b3f3a9e43bd4dc01c5d72ba2aa8c892e3520db3d966e9f6145bcd95330",
+   "enUrl": "79a429c1dad5ea67a0fdef4d243365bfb3892c5accde4693a90a06ef57760951",
+   "krUrl": "fcaea3397e9b4cea811d183d5ad6877da3d241a909501d940b4b1d599c6a2a4c"
   },
   {
    "id": 4,
    "title": "關於自己•領帶",
    "text": "領帶亂了自己又看不見。在匹諾康尼，沒人會在乎別人穿了什麼。他們甚至不在乎對方到底是不是「人」。",
    "unlockRequirement": "",
-   "cnUrl": "726d621a25fbf640d88e0b287e7179a15232358896e36984c48b9ad409de5c9a",
-   "jpUrl": "94284647ebe719a50960a22e9bc8d8d46d7fb5b3f81e17eacf4bd35ce3573aad",
-   "enUrl": "dd4e74e26f3e902246ba99a60d4eeb9b3fdd1b95fe95050c119caaead7ad6529",
-   "krUrl": "71b38402eb24ef96e1454aece41d26d68281e1ae805f27d6dc757b35a4d97d56"
+   "cnUrl": "6d9393e249ad307df46c4dcde478c78d76b99a304f41b156868bf55c01e0321a",
+   "jpUrl": "ebcfa797093782ca7aad0fe9d4ce3013ef428634fe51f76ab98539e24c534622",
+   "enUrl": "308c6b043fbdeaa033f6a8d87fdd7d7df73952aba25c3c9e38c85410cb5d4dae",
+   "krUrl": "09d264488d9d7be91e78e167eba1450b01c3dd74d43c7874ac66703b66fc91f6"
   },
   {
    "id": 5,
    "title": "關於自己•身份",
    "text": "「獵犬家系」的名頭算不上好聽，他們都叫我什麼？走狗？真本事沒多少，嘴巴倒是挺毒的。",
    "unlockRequirement": "",
-   "cnUrl": "6d229e6262a8c6be051669fdcc0bca82ca873d53931ce380670535597a5316fe",
-   "jpUrl": "2884b57f9af07fb3468f51d0aa2a9c44ff6c7f56b0061c814e89ca081f668691",
-   "enUrl": "fdb95f11358600eb96dd3adeba7af3e546e5e0e565aba7a3d7cf66b662aa95cd",
-   "krUrl": "c8fa6ae89b1687d2eb7c30d21711e13b0902a385dc9e11e17f4d820ed3368a1c"
+   "cnUrl": "4dc36c935be47bd74b9d5594b4b082fb72e4fb53c4ae81f2bd2ef0d80adbcc4e",
+   "jpUrl": "5f4194990f845e1796845f6e3d7178f6a9362a8e8adc834577ba4478cdf617ee",
+   "enUrl": "8eccb734b0250b0d4c958abd07b5f510b1b01a6cb6e4a469a6c4715949a653cb",
+   "krUrl": "ee710a828ba511f4052ba49be02fd6037cae56a43b366c8039e9c91dbf8e5370"
   },
   {
    "id": 6,
    "title": "閒談•蘇樂達",
    "text": "無論經過多少時間，蘇樂達的口味始終穩定如一…這就是添加劑的魅力。",
    "unlockRequirement": "",
-   "cnUrl": "7da6f936e5caa40d2ba0d0c655fc9a71bb7e88a4eeb40c626f85eea4e44d5191",
-   "jpUrl": "dc63524ff0c5f51f3ed90aa726b223e8a99eecd0d0a2ba18ea2a5e6d7a475d57",
-   "enUrl": "7887af868177cd760326a5c421976519af9d09373003a71d8228d30c223f6c99",
-   "krUrl": "ddf85926733a9b9c53e458317a1a65464ecb592c4a4ceb76db55cc4ed243c621"
+   "cnUrl": "5b7932a2fc1d2ecd9202338b6907f92e682efede4ca301b516a2994eb142d2b2",
+   "jpUrl": "09ddf1e5fe760962b2b8ee7e2b7cf4cc0d5f20633afe30395682c0ec40bf999b",
+   "enUrl": "3e1d00f375801a1e0218ecfb43cfbe52598779a0b5369d132cf5398b98b07929",
+   "krUrl": "fd66de31cc4d81d9963fe54699197f99979f58068672113c370fe053cfb93c6f"
   },
   {
    "id": 7,
    "title": "閒談·白日夢",
    "text": "我最喜歡在匹諾康尼的街上閒逛，看這兒的每個人做他們的白日夢…我也曾想過去當個星際大流氓，狠狠大鬧一場，大不了就是蹲公司的牢子…哈哈，現在還想着呢！",
    "unlockRequirement": "",
-   "cnUrl": "1d8e994fb506bb1387130b44488066c715d1ded377534f1da38a9c72f295793a",
-   "jpUrl": "b23ed7d60f83fcc3999ae436238e9f59de5ffc7f8bd7f69d1de83cf2ab362215",
-   "enUrl": "8ed2cc7e409175d4ad7058f483ed014b6e33db8afc642347233d913e7eb542eb",
-   "krUrl": "7c4e4d3fbd2f8b3e01eaec74e38743265724a9042dad51fcf4e21dc33b9d8258"
+   "cnUrl": "3c5f8de7eef8e53ffad0eebedfd5ce817f8bcbbc74c95fec8d0e814d537b7122",
+   "jpUrl": "8d8645dba18c8e399eb0bae83de3af57469f03641523b70cbbafb7eaba930ae5",
+   "enUrl": "2e72c76197b2180abe494a6d210d22a91c2c3855237453e877cbffae91d56240",
+   "krUrl": "7bc4e108cbc9a68b865823921d98cc648515a0e4f54febad60f47456bfad3a2a"
   },
   {
    "id": 8,
    "title": "愛好",
    "text": "調飲是一門關乎感性的技術，在夢中調製汽水需加入當下的心情，如果煩悶，就濃鬱一點；如果快樂，就甜蜜一些…調製飲料，也是調製人生。",
    "unlockRequirement": "",
-   "cnUrl": "1615f622a3fba8325fd4a61927215209096498d19f1dc6e4226f78ff5df526a8",
-   "jpUrl": "4b6666d273295a5f8f176c870917eac4c6b152df914a05da08d69e0ab43d5ace",
-   "enUrl": "7e24a2ac2e64c50290b5fac4d56bac0acb09b10f886538a53855a48706d86804",
-   "krUrl": "efa47619c43c44441bea093b1f2f5cb28ff79978ea5a8f5c1cb33e5b76a20fbe"
+   "cnUrl": "3810a3c83d88fc4815ee90244904729aaf2580b8f8becf89ade4df2b47b618fb",
+   "jpUrl": "a67ce6dbf75bfe3455d9b5440b67b2e0a58763c52b153f0df45e296ec6f7f65d",
+   "enUrl": "8f990c68473d74ee9f222378e102703bc40e2ef9a28d119172aa151d01b18518",
+   "krUrl": "fc57f4afe5019b95dd527c3189fe4aabf61872ccf08040dcf5e62fc7b8878212"
   },
   {
    "id": 9,
    "title": "煩惱",
    "text": "配方差勁的飲料和甜點，經常用巧克力來掩蓋劣質口感，可惜騙不過我的舌頭…誰讓我最討厭巧克力。",
    "unlockRequirement": "",
-   "cnUrl": "24a5fea3bd357f11d2b4761afecd92627396cf947aaf02007297a190937e9758",
-   "jpUrl": "c26cc4018951137edc1ede71078302aa7684edc7aeb23645c9051ddef7137dcf",
-   "enUrl": "ed1902392c199503bed141a77c236513da392729a88f06c0a4d5ba9ae82c029a",
-   "krUrl": "de0f368c07c79499545a5bf7688380cece68b3ab836c5851eda996e50947c5f9"
+   "cnUrl": "837d0e7368f062a6e9c96475b92693d7c59622012cbd89f74d2af5655cd0bb39",
+   "jpUrl": "70a34f2016d1513657d1e80f40a890f92ab4b4c889c459cc86dedbb14aeac863",
+   "enUrl": "f78340411bedd047119fbe11fae24db328679470d1169d5724dc4e61c8f07a10",
+   "krUrl": "784ed96d4007f1fd103bd347919ab4f491cc66a465d22bf44f0813fe9ccfad9f"
   },
   {
    "id": 10,
    "title": "分享",
    "text": "五大家系中，「獵犬」擔負着守護家園的職責。也就是說…所有犯事兒的傢伙都由我處理。要讓一個人憑空消失，可比讓他憑空出現容易多了。",
    "unlockRequirement": "",
-   "cnUrl": "bc577f079c02bf64f3c844293fad78f846ea397cff8e2f65e7943c04173344e1",
-   "jpUrl": "3b3a523a3b2683a8c34160307e8859f2f06c953203cf1380456f6abb8a882056",
-   "enUrl": "ced38297aaa09157f3cc8da2abce8eff698494aa7a566313bd14498423cc3099",
-   "krUrl": "cad9c5429c1f62cc4151bcad129320636684d22d663810bc439f14e3f166e260"
+   "cnUrl": "c77c4a3c36b0e6437d6781ea4daf0b56c6fdecdc8d9890432121a85b1d55464a",
+   "jpUrl": "3089e75694cde4babaca6ad2b9e43413fb5ab34a82c0744818f8592decedaee7",
+   "enUrl": "3d6ad53287d3cdc27b34857fa6bec9de04d6e40850719f1ab54254c4a45d50f2",
+   "krUrl": "3e92e82b6fb74a504227104e5f09be8063fb31f8f0201b1fd110c79ac8ffa348"
   },
   {
    "id": 11,
    "title": "見聞",
    "text": "如果哪天你看到一隻發瘋的茶壺，或者一臺到處爬行的電話亭——那多半是遇上了「驚夢劇團」的搗亂鬼。別擔心，死是死不了，最多脫層皮。",
    "unlockRequirement": "",
-   "cnUrl": "ed1c2b11499c43f57c50525175a3e999e310755b4efbd4372560fbdfe37ec34a",
-   "jpUrl": "20d1fa2f42c6f3d221d93858bca975d27c5a67c7e9b86cbc1807aee640d31a0b",
-   "enUrl": "a61990b5b765372ecd878145de973fb122be61bf8d86fefc3de5472703768233",
-   "krUrl": "e9f5290a0e25f505ac2424999f0bcf54a34e82c0e98b7c5f8d0cad6f70184d8c"
+   "cnUrl": "0e6558abe80d361c8f83685c5a044b35a38a285c30cadd11ae2bd94ffe330080",
+   "jpUrl": "e187b56ba6956642e6749c6540c5f301d9e40145e80ca17513e311b2934b8661",
+   "enUrl": "01c199206b991e7d421a5e41cf1e4f96701faf29dc36f88ed70b19dd2086edb4",
+   "krUrl": "d277de6e07e94f9f9c92e48a227cb5824f25e9751014c0f1c82183b356fe8c7a"
   },
   {
    "id": 12,
    "title": "關於無名客",
    "text": "在羣星間仍有通路時，這個世界也留下過無名客的足跡。只可惜，匹諾康尼到底沒能記下其中任何一個名字。",
    "unlockRequirement": "",
-   "cnUrl": "969aa5a11653142c65ab7b4e16220df0cea439539a399c720627e4793c643c1f",
-   "jpUrl": "55e6e31a72802922629083e0922be06dc1ca38e164cb2495cce6485adec702b5",
-   "enUrl": "341bf44b526a467ba0eac3e42243aea972414cc045ca57cb178da581eb5272b4",
-   "krUrl": "f586291f9cac9af0732d72ad0b5801e5a38478860d3b20074ce6637c797233bc"
+   "cnUrl": "11e2bed6aee0c8a5527a86ab627b6143df603fb1d8d277ab6134e37f5fa60606",
+   "jpUrl": "decba9604fdd9943af480bd8e4f0aa43e0c1efebf08057193aab1061f5d02265",
+   "enUrl": "ac54c0c831f0991fff557438890ed30fd49a03608be26b838720788f4de73128",
+   "krUrl": "ea6e9bc1d7d302540caeb9b6b12665cc9dbaebecead59c56986a853688ac4758"
   },
   {
    "id": 13,
    "title": "關於米沙",
    "text": "米沙是個懂事的孩子，我在他這個年紀，還只知道到處咬人呢。",
    "unlockRequirement": "",
-   "cnUrl": "1a41f73805a3414150c7e5fd2980de4210edd39beeb7fbb71035eedc6584a366",
-   "jpUrl": "c5ecaf899a833a7bd9c99c658303ce6e93a18e9694ddb39f776175bdd4b85cf0",
-   "enUrl": "46f2e9ef8ac3d285f4958e57b9e52fbedbee26a32f08ec520a0cd419bc3669fb",
-   "krUrl": "236b24019c223b258047cc5ed3e415f2142eecf825bb00c06b84b029751e4f3d"
+   "cnUrl": "bba94821320522fc8deb2d72605c60315d1e83e575cc27ce606c2b6dbd2df348",
+   "jpUrl": "f901f21c86271e1f83b781caee5b2f05d3ab5d4d261d697aae6ad94d3d7bbb51",
+   "enUrl": "e8c3f2c44f68a650765e7dbc45010de372fabaf40cdd579edb49c75bbd2494f1",
+   "krUrl": "326f3c1c67f6a5eb20ec2e4f611e333fa2c897882a3e61a191f9235c096fe123"
   },
   {
    "id": 14,
    "title": "關於星期日",
    "text": "他的氣味與「諧樂頌」相似，但我聞到了被掩蓋住的…更真實的一面。",
    "unlockRequirement": "",
-   "cnUrl": "c09240fb0d334802defeca1824e543fc9e41c6d5268e43c0594f1f5fecc15b29",
-   "jpUrl": "98f4ddd0db84572ec21d1fe79d22e193be747c083e5cf6bcec4075487ac41019",
-   "enUrl": "970c3feaf914df9be97c61b0535dff91c27b358e1518f8d771e942bc868b4c9a",
-   "krUrl": "e00784f481147198491b7cdb2a192ca53710ce0a244c13e15efd2d0afe6d1e60"
+   "cnUrl": "946e45fe04359b55de3146f27adcfa10058c553011203dc9361488934018c988",
+   "jpUrl": "9317b972d428cccb949623ccbba33b83c769ce82cdc7a491f4737734eac20c0c",
+   "enUrl": "5e6e379b023d31a45d7ca0da6b3f9c75097f123207dfa4a01c3ac16e163d80bb",
+   "krUrl": "18f8f1b71312bcefb2f06a7212e3d9c5db78b353315075142146cee0bc577e08"
   },
   {
    "id": 15,
    "title": "關於知更鳥",
    "text": "來到匹諾康尼的外人不少，從匹諾康尼離開的本地人卻不多…她會做出這樣的選擇，想必另有隱情吧。",
    "unlockRequirement": "",
-   "cnUrl": "b87d9dde15f5cc03c22fb5a8a22d1df162316a46206bca686e34a5a2f7019bd8",
-   "jpUrl": "9c3367cc9a289c10c127fd9a26b4e7ef61e1d87790fe6eed505ae525a63e0c9e",
-   "enUrl": "904ef28197523ea579ab260c4e7cd813bf293e1a891d597055c24b6570de25f6",
-   "krUrl": "30720c8d20db246948ebcc30d83b3c92ce64ab246c054b82740b6e179fc350ea"
+   "cnUrl": "d4d6522ac1e0b1c5b24de984107a56937b53e23795ba646ce6df77b8b9b45b4f",
+   "jpUrl": "d6e4c923e1287f830f488aeb67b86a0032166ca582bb27c7ce757af35773c8a4",
+   "enUrl": "298bb6432a47bca28d6e3ddee0696f389a22f5ae9ee5172499644246637cd24c",
+   "krUrl": "702df9d68d4e8358512d1e0f6f5cbe625b560834d55a7a5e0a06b1246f392127"
   },
   {
    "id": 16,
    "title": "星魂激活",
    "text": "小心，別在美夢中陷得太深。",
    "unlockRequirement": "",
-   "cnUrl": "eab5bafefd2cc56091030450a975b122e3d912073eb7cae3963d0e27dd9c11a9",
-   "jpUrl": "5a54b5c487ffc0c5b358bfdcde93a5e42c24c3d84b210b7f26593d6062c17251",
-   "enUrl": "cf9877b8d489472728c04c00033f16452ed83c3be5d08c84c2c52f18d79d26e1",
-   "krUrl": "a4389ce2752ff01f8bbfef33882f40ce9571e1d1b764430428e0bca1065dd9b1"
+   "cnUrl": "221fe3c32357a968ab48cdfd0af422e2a07e9d26f69e51f00f01fb9ce4c7469a",
+   "jpUrl": "e51b77149fe1f938fa0fcb69dc2ff39c88b45cdf9d905f95a7b315dd7797f7fd",
+   "enUrl": "630e52b13980c4768f3c69cfaaf42fe21b8638583fffada4044d562565cd806a",
+   "krUrl": "cb4fc6e59d929129226f5cd4d7e0d11ac65630fbcc5d4574fb91f75f166fd87f"
   },
   {
    "id": 17,
    "title": "角色晉階",
    "text": "直覺、本能…都能通過訓練來提升。",
    "unlockRequirement": "",
-   "cnUrl": "8fdd6187987f5647f08d971b257c79a784f8c55e5285b9513580714b5cb6c482",
-   "jpUrl": "cc10309a2b6540f392b13dca5e50b3b3cd461477e1cb84b49517329d2e2377cd",
-   "enUrl": "27cd9d9271265e94db533faff334a71dca02b7d7e2ee568092dc41f74e1ae06c",
-   "krUrl": "51c4a703a29a3c2fdd0ebd021d93c541408ae6aaed94ee38558d37b4d422ae6b"
+   "cnUrl": "4733da606f39e3cb2f7dae97eb9b5a7da3ac18e1639f86e8e5fe847967cfab26",
+   "jpUrl": "df9b1f8d0e4782663fc8484399c589c5186b16a793d1d389ab96647b143338e8",
+   "enUrl": "dc4d4624baed3f659d4cbbddb59aaad82307783ebbb88b527713d775cf0e1122",
+   "krUrl": "e08fc7e9653c37c37c0a84afa7e552624e849a356533da7cb3d33e3441da6a6e"
   },
   {
    "id": 18,
    "title": "角色滿級",
    "text": "時間不多了。",
    "unlockRequirement": "",
-   "cnUrl": "a50b4def07ac8d324e4ea74dc26ddc33c1e14333f28a2ac5c2fcddde6d8c9496",
-   "jpUrl": "251283b65ab1a0720ca51e85fb4b62e493112922a43bbdf818e245a702f2fbc6",
-   "enUrl": "86f547e0e82fc00157fdc90417a055c751b3aa374e5a74ce9be39a2d099904c4",
-   "krUrl": "e4b073ce46a302272965198056f4ab565ad75825c1e3b9500d7d0f588fe21f3d"
+   "cnUrl": "684103dac3fbae61a74c084e00d95cfe002b254ad9a41dfb6829bbb25e095a8b",
+   "jpUrl": "02789f4e379d9eeec8e14add15229b14884f2f3861903d92d9ed354d0f714a25",
+   "enUrl": "3c8f80a84ca8981bd19a4eef4e52e9613f9132e5be77b39845bc2cb870d7188f",
+   "krUrl": "558cbd7cdaf9c8e8477e0f14b96637fa564cc55aa392199ec3fbe842dfb10254"
   },
   {
    "id": 19,
    "title": "行跡激活",
    "text": "還用說麼？我當然更相信肌肉記憶。",
    "unlockRequirement": "",
-   "cnUrl": "c7b4d050a30c1bcf1e721152aceda26f0695e681e3eb0eb66f2c7d168440d715",
-   "jpUrl": "7d0c72800023128cfdf8a7e48c6a19321de5c85e15f5fc201e726b9c4c9f53f7",
-   "enUrl": "0a563b18768499bca6e1db47689627cb4cf34842c46e8df59877719479ee7f10",
-   "krUrl": "a91eea16b58ffe20f7caefe7a816b1ed3fb1ec71feb94281788a82600cad5fcc"
+   "cnUrl": "56a341e4ba626a650485519b466e4980630e3c6b4bc37dc86b5fac3c893471e9",
+   "jpUrl": "96daed242000660a379a0d854d9a6f225e1abfa3a567857116abef02ecb268a4",
+   "enUrl": "60eb88ca03d628b00e6e62b1fa5d4013c3aef89c3f72d256ee69b61ef530e2bc",
+   "krUrl": "a3da6763fd2ed0a92af22c559b8ece743bd9cf2fab1d377cb46ec78751b7c5bc"
   },
   {
    "id": 20,
    "title": "隊伍編成•開拓者",
    "text": "再讓我見識見識「開拓」的力量吧。",
    "unlockRequirement": "",
-   "cnUrl": "4571613c4a2177e02fa1339148c2e3c25668fc05a0de14986f486cf030511169",
-   "jpUrl": "2844fa4f9d232dbb843e6e362657bd39338dde0ddfdc5a32b9ffd65cb04981fa",
-   "enUrl": "5212bb1fdbfc6e283ce8a4ca04715254606e14d1e2b1ce0065720a12537044cd",
-   "krUrl": "44605d9d1d4b3fa3254cd3c3050d5aba2d37d3781992a0c35c559249e92b87e7"
+   "cnUrl": "ebba5748c81524b6282a48ad59ab4d4a0a6306a01308b5861dbfb0591d4281a1",
+   "jpUrl": "1fa635e0c66aef49282dae2758c9ad971247844cbfababf984cddf9bc64a9031",
+   "enUrl": "fdc8ebaaf64be7a66baa2151f2181b99da9b05de9189ebbe82333c70fcfb6a66",
+   "krUrl": "950b9dd23911d3e00893bc4f19e99f1e0c98ed2035157b784331f2fe66fb4875"
   },
   {
    "id": 21,
    "title": "隊伍編成•米沙",
    "text": "別溜達了。小孩子早點回去睡覺，不然長不高。",
    "unlockRequirement": "",
-   "cnUrl": "ddd17a91be0559e73115919f68fd7f27b9dbea251c2cb78c8d401792c18d0284",
-   "jpUrl": "573d7cdbc815a715f8e3078f4112b9470af64245b617ad5e426eb149bfc7e2b7",
-   "enUrl": "5527d201d7fe5b8fbc3ffd1d2b83dee849294040aa72f1f7b2e97719651c3136",
-   "krUrl": "e343711f45694dc8460f8d6e3010a25bc2856881033a79ebc095c0edfc8e5973"
+   "cnUrl": "1e592bb2239dc39d76691617e52f275b2c14b70b9a2ee4aefd73f9567486acb7",
+   "jpUrl": "53d1ba0d34922d80628ef9a5c07fdfa1cc22ace704a7d2286a48e59235037466",
+   "enUrl": "fd8c85c3ada24cbad073c9791a48a1b7dbf74485b75d26dcf72472f3357374ed",
+   "krUrl": "1b2b98bf151fc813017d90683967cf815bed50dfea4afc9f70dc17cfdaf4ee42"
   },
   {
    "id": 22,
    "title": "關於米沙•二",
-   "text": "Coming soon - Stay tuned!",
+   "text": "認識米哈伊爾的時候，他已經是個大人了…但不管怎麼說，我還能見到米沙，也算陪伴過他完整的一生了…該知足了。",
    "unlockRequirement": "完成開拓任務「然後，在第八天…」後解鎖",
-   "cnUrl": "",
-   "jpUrl": "",
-   "enUrl": "",
-   "krUrl": ""
+   "cnUrl": "488a9f25d15a7375ff64c46aef8eff1d3f5fef82a71f414692a9d1dd1116aefc",
+   "jpUrl": "90259ab4ba56a1c6ab90c8792e22683010ee04ceb5e26e6cfe14bababec4aa10",
+   "enUrl": "3fa2930d735e1da372c16082f8b0b97c170f174372d0ce447bb5105628c4d285",
+   "krUrl": "cd274d4171c9d25ccc1781cbe9bbcc1f2c10692ffc48a1cc6507e81e4663e169"
   },
   {
    "id": 23,
    "title": "隊伍編成•知更鳥",
    "text": "不管我未來會在哪兒，一定還會聽到你的歌聲。",
    "unlockRequirement": "",
-   "cnUrl": "2f3add232ef4d1fb4aa74d761a4b9c20cfbbb44ed78c8279a735c0096f6134aa",
-   "jpUrl": "b94f072015ddfccc77cad8d6a36355ffb91a1b0ba701ace6cdf47a816db615a3",
-   "enUrl": "20b71043013b91f75dfd27f9fff80f6a3af4de90769538b051f7df96a882f0fe",
-   "krUrl": "7a6c6a21597407ba54450c4218553eb5db34b85e224afff9bc6fc140fabb4754"
+   "cnUrl": "456b312b833d0937fdd7e0cab1408a95cd9ef0ca151e8602c32ba4976b22a279",
+   "jpUrl": "163a2f870556f963fd49d8bc9311c01ec8ae46c64fa4e3b72e9bf90eac070de2",
+   "enUrl": "2e49bf4570cbadc185c2c3d35e6b199b0da842b968842b6059cd39e472fe90d7",
+   "krUrl": "8b3ed6ce03eb4c447bf60505abd8b10e7ee68d4b07f4128af59bf432973d26d5"
   },
   {
    "id": 51,
    "title": "戰鬥開始•弱點擊破",
    "text": "就這點水平？",
    "unlockRequirement": "",
-   "cnUrl": "d499d8058215dbb5199493d3095a5f31e5de8416280eee6d1cc2164bed508fee",
-   "jpUrl": "22d3d949c1a9090b37cf88d5c3db7172a4cd2dffe61a08156d7bec980c3c7e74",
-   "enUrl": "915dcc83ce9f08907280ff420ebac8c2e0f21439bb433297ef6f3eada5555fc4",
-   "krUrl": "601db81c458e7c6863de9e9e76124b64b0c1a44925387813b746ad7622cae009"
+   "cnUrl": "3cbeb3abd96d84e02aca1603cd27ffb4c9cf103e0ad9e1b6041e019e4fc20c51",
+   "jpUrl": "042fffda67a37ab131b205bf0b155f8f281baa458306442a9c13e5bf48b68ab8",
+   "enUrl": "7d80a2e93679a4171e5c66cfc30bb8a0c84b97aeb44c4e6849143c3772228148",
+   "krUrl": "02bd7c7e14b75ceda7269003c4229fcb1ecdcf739a4824fa3f0e87ccb029a654"
   },
   {
    "id": 52,
    "title": "戰鬥開始•危險預警",
    "text": "喲，拿出真本事了。",
    "unlockRequirement": "",
-   "cnUrl": "dd98e4e7c70f90cba59251bd5f4ddf719ad4eb47f2609fd798d689fde6c993d8",
-   "jpUrl": "5475430715260f1de69285d6b8003e83bb1df13aad2920abf0aeee75c525a13e",
-   "enUrl": "a3847970c41ac84800ce46a1ce450f5608aae48e69fea4edcec1260acabcf228",
-   "krUrl": "45d81c8ff31769a967de9078d7c733238a76813fa4b5a53443184a3f8c5db427"
+   "cnUrl": "ea0bd6c7faf97668414906e5344a82ff7092989d76bf5c8ccb5b2618ff5eac23",
+   "jpUrl": "8eb8330d470546a90052b78618bdd97470014387e88c919d01f65c82e1f3021f",
+   "enUrl": "dbf15f0fe90975b43f9afb10ea503ac00ffc9b34ab55393bb0d4d8cc6f7e6586",
+   "krUrl": "c60c96d4414a7d7fc8e4d8590f41fd714208b2473f1c3f0e55b1eda04859fff3"
   },
   {
    "id": 53,
    "title": "回合開始•一",
    "text": "怎麼？又想被揍了？",
    "unlockRequirement": "",
-   "cnUrl": "3481abab0feea95d56c73aded0a446dd202e59618d35e6c4c6bfce1f21be3084",
-   "jpUrl": "d55cc1859a68a3dc144c1e0a0d1985f890a6cb1f94f4483c71ee57e651e9e08d",
-   "enUrl": "b0da3c0ec82d2f2a823b438675b429fe0c50763226d97db539bc012574229d99",
-   "krUrl": "ada55c0679bc4592827fd4e450862661aa84a6a65112b6d9e5eddfb3405c8c2e"
+   "cnUrl": "419dc33cde854994cfe73492f17c970b12537b39c9ef945aaca07f291c797fe9",
+   "jpUrl": "74d51d3c879d3defcd540d547f4f54c6205aebc671bbad34942ecf4317ea96dc",
+   "enUrl": "4cc2e0cba4eaf2446c037d80b7c3ae6ed5af1cd5af3214570020ab57b219b3bd",
+   "krUrl": "01fc3ef00151568abaa27911cf0236f9c855947f7bca069c4e6ddd59dc6af301"
   },
   {
    "id": 54,
    "title": "回合開始•二",
    "text": "來了啊，走近點讓我瞧瞧。",
    "unlockRequirement": "",
-   "cnUrl": "b9e6d0a8ac42c2d0c2575d4564939af454695d3afad9faff3c6f4b342a240a21",
-   "jpUrl": "65dfc974c0bb03a2552b5abb53e1a95a7c6d63dc90e277960c16b97f953c87be",
-   "enUrl": "1836c60e0c5274d90ff0eb7d3ef4bc4a6cddb269e8f568fa5abcca919153c8fb",
-   "krUrl": "8c0930574baa71af649c89019c8285f71cceec6eec9ed3eff8bd2e50264071ca"
+   "cnUrl": "35ab9bd071d91d16d9b751365ec75dd3f0d664b4cc6d54f3394437fb7b585810",
+   "jpUrl": "f168305295fd65534125ec0b614834eb4c58e75ff79de8e1ec3502060414c342",
+   "enUrl": "792f852725d70e4e958337b49085ea49ef0bfc1f4de6eab9b047cf066b9cdfca",
+   "krUrl": "b0270202d11bcc2705f60de0a01ef83bebb9bb475234c96ae882d913349f7f5f"
   },
   {
    "id": 55,
    "title": "回合待機",
    "text": "還打麼？不打我就歇會兒。",
    "unlockRequirement": "",
-   "cnUrl": "c49b43d93e30b54ef98333380c3056cc9ca14c79ecbe57254ee7e34c491504fe",
-   "jpUrl": "b323e104551acfd794b09376eee07b766b90874e369f1bf91e7dea25c6d38d82",
-   "enUrl": "0f27daedc8f21c7ddba49dd54a0bdf3ddb9ab747c8da2c68ad371b6fc5991f47",
-   "krUrl": "8704f8954b4cc77695278bbcd4c03507588eb72d72655507037e0ba86c7bd60a"
+   "cnUrl": "f7e758104b7d1cdba8ced2375ca2425253c7114bb30b57515fe1b9d07b0b6c6d",
+   "jpUrl": "1c715ddccace967a2046b366d78f9d8c8e128d89af2f8ca56acc110a9292c37b",
+   "enUrl": "bbe0b1d5bfa50f61ff3a017557319a06b8e6ff5e5980485ea9c85f6f124a11a5",
+   "krUrl": "bf6c318b387dc63d5d6acd15a88c358ca383cb11f2ddf445050ea386a84e9b50"
   },
   {
    "id": 56,
    "title": "普攻",
    "text": "從你開始吧。",
    "unlockRequirement": "",
-   "cnUrl": "edc9bf5d88424adc11acf93af03ee4a619eb027ff8abdc787ff3b97f4acf7a03",
-   "jpUrl": "c4ee4ebf224d547eb5206207ec5ca491f295aa24d6ded213b937ee62e5a91432",
-   "enUrl": "e50d101d7d8d4de40a78b417673abc96cc16b5b0da343c890c9bdbd2d98db957",
-   "krUrl": "477166861b5a541f099be05ae189104546946c264e2d07237413920eead725c4"
+   "cnUrl": "6aabb831c64eb71ba5d7839a98567d77c347285e5cb99caefe2e889076c093ea",
+   "jpUrl": "e8c1ba75e87c4bd11f6956e1399e590cbba5b73e476abb53963b4e0a050b4e73",
+   "enUrl": "31d65f8f2264084f06697b4e7dc2b4af0ed9b72f721d12069acf2395fe91f697",
+   "krUrl": "1e43883e7ce01dcc8532b46d755952f8eb1e8f78a93085df74346d8497b253a7"
   },
   {
    "id": 57,
    "title": "強化普攻",
    "text": "還沒結呢。",
    "unlockRequirement": "",
-   "cnUrl": "ce88335b78d8882da57ac030baa4482deb235a78abdf8d6ebe74a59b1a9666bc",
-   "jpUrl": "84b7f6c38de6aeb234a4c8a0fef33932227f3861ccd0d424373a5f9b8d808061",
-   "enUrl": "8837c73c6c2f679922af2990d21f83512e7e758f4e751e0f2499e4da595999e9",
-   "krUrl": "09d570801c88f81cc10bf6c32a404a5e23e7943f9a42f39dfdcbd05d069b3c55"
+   "cnUrl": "39c6386e4e1f68d0f56c2b659422cf950870ab61e936aa609374902a016e8503",
+   "jpUrl": "63f2bb839ea907b5a1257fef25f37114fe1c47d24b777b9fc577f4c22410c063",
+   "enUrl": "3328e2c61bf3aa1f732b99572aad9dee01b1447abaead31bfa44c888d0668dc4",
+   "krUrl": "3db8c570e3c6d031ac880efca36e5f4f658b6fce46419edc1a829e1183fd801d"
   },
   {
    "id": 58,
    "title": "戰技•一",
    "text": "調劑一下。",
    "unlockRequirement": "",
-   "cnUrl": "9863a7fe70be4209c9a8baad9e18581ea43d79ea60044bfd1e410c717598a773",
-   "jpUrl": "95595633bd063b5405a76440231884c90116e0453db5ba4ee57e2f90ddec8f6d",
-   "enUrl": "1e813626070d3ce94ff58f701398a484498660b83cdabbe290a68daffeb189a8",
-   "krUrl": "c7a02eaa0c9db71ca00c3732e83d4ddd02a3b6fd71462c5d3a1362e2908e5a23"
+   "cnUrl": "8a69054b97dddab483b83fcf24f89e1466bb94edce9ea099d00151dac45fc6b0",
+   "jpUrl": "c4dc197c99cbc11f551424ac65c8838321617447293fb2535eba0d8677af9b16",
+   "enUrl": "f043d0d157a735e4a81cd4b61a34c2e16928bb738d12a4ae3578852824c3f7d4",
+   "krUrl": "cc8a728473783f58e9b8562efdad69608a8d0f786a6ca0c8bd8f860872533c74"
   },
   {
    "id": 59,
    "title": "戰技•二",
    "text": "來一口吧。",
    "unlockRequirement": "",
-   "cnUrl": "244c20e3910239bad1ec0ffc07ed4de563edbad4291807b084e182147dc2bd2b",
-   "jpUrl": "59a63854a3fd455cca4cea8d7981990f045c6d562da1c7ebfd4bfdd97399bb5b",
-   "enUrl": "c85ba27a8c1030af8edbe278644f40cd54032cd1c3f835e048ce850d7a6cd24c",
-   "krUrl": "398a4cffb4f6f221b76d282132a7af00b15e6e6c38c7598b26bf604d1723d8c7"
+   "cnUrl": "204dfc3ec91ca98d563df8c5d6e1f923140422fff51c150cbaa4c93a7c2634f2",
+   "jpUrl": "68125e50185d2a4303328b9ddfa7974a551bf3d6984a7c72ea90a97adc152600",
+   "enUrl": "f33581f0fb52dab21d61f8506934a8c50252495ab5f0078ffb703b4ed4018676",
+   "krUrl": "308954a2938316f4820fc5c30bcb3fd6cd9961e44fb593e3f937ea1a1437e170"
   },
   {
    "id": 60,
    "title": "輕受擊",
    "text": "挺有自信麼？",
    "unlockRequirement": "",
-   "cnUrl": "fcf8a7f9c61c0e5b6c70e1041d690a325251d64ce964987507b2da5eaf0e28ea",
-   "jpUrl": "19b71596fc389368043c53c8a25f4415e1a54c492865755740a3403156b6a80f",
-   "enUrl": "d262eb7a0489f555b40dabe4bf88a2427f743b4f63194ec12d621d44af4bd0f4",
-   "krUrl": "214646be89b2b33edf9f992736497720f87816573be921876720ddcce1738936"
+   "cnUrl": "96cbe1b90c58e6caeaa5b05a1f7daefc7dcc1b85b99c1a4825e35f1d1d64bbc7",
+   "jpUrl": "cd6de11769902e348bb88fb797b8ad8349af350b0af37862e9c6b065c0c5f412",
+   "enUrl": "107ac86077711bc5bfd741b047512574160391ec731f2412a0e2bd7791f9a115",
+   "krUrl": "41d3e2fe45c5a8c783059a1b6b358de302840e935217907759ea2e23e97fc058"
   },
   {
    "id": 61,
    "title": "重受擊",
    "text": "...不用管我。",
    "unlockRequirement": "",
-   "cnUrl": "7170d08dcb5465d08f482daad6ea9aae04c12150644c98c0646ceb4557ad08f7",
-   "jpUrl": "103d81c9ca8d9bc50111157c52389853ddc8d328afe1609e1afe25adb579c59b",
-   "enUrl": "bf08fae66b8dcb8b711d0307727f87d2e40bb61083c3c5ff70e29fb96ff33853",
-   "krUrl": "1e90ac578c803a8a5e6fe6840cf4d4617e0bda4fb2d67e9c4ae948caabd35427"
+   "cnUrl": "d2ba4c16eadfeff4165d11aa6eb8a8e1b418d5026300ae135ea4832e626ee528",
+   "jpUrl": "60a990d95d9049c8e099bf54a886cf10376b6b3a598486e2e8f447eb73f0a701",
+   "enUrl": "45f9c0ff03214e2f4ddaed6c1c18b9b5123792fb89fefd474f9af45421b7fa0e",
+   "krUrl": "2dbe5f19ac51920c2738ef87471ef4788c2edc6d0b624ea374ec83dfebb37594"
   },
   {
    "id": 62,
    "title": "終結技•激活",
    "text": "生命醇美如佳釀。",
    "unlockRequirement": "",
-   "cnUrl": "88a24b6df6cca07ca5528526a73f00af8d9d960ba407106ad74f651f0cf95fbf",
-   "jpUrl": "900ced0cdc54454171b5e21e1b3818800dfe8f47878d2b464b44036163a322df",
-   "enUrl": "0aa778c97d8f6e9bbdaa4fad00356e63bd338c4e3add8b198c18abadcbf05c65",
-   "krUrl": "7056bdb8c41248269ab80af09df51472df081350d4248af79be8a7d93cbcec2d"
+   "cnUrl": "227e7b2bec9c7eb1b0b4e7bc36f8e4f11ddb5d2436cfcc280dfe7c799e22cfd0",
+   "jpUrl": "934662519ab2bc6c1865fb7a233b1d371768aa1a8dc1fa0e1bbed1c23a715d16",
+   "enUrl": "e4757287e2be321f93dc5b41961d1dd3e3ae137dae251da7cfaf9847f80379cd",
+   "krUrl": "e3e8bedcc710fca11b6f44d8e3f26f53657f534b8e2fb72a2c1b60a8d5cff4f7"
   },
   {
    "id": 63,
    "title": "終結技•施放",
    "text": "朋友們，盡情享用吧！",
    "unlockRequirement": "",
-   "cnUrl": "0f918f2777fcae11538667e49eec40cc0045546e5746e139a81b1e61457eb8ae",
-   "jpUrl": "f7a9987bf81f6744e12d2038770387186ac04c4379a22f96325b0ce85a74c09d",
-   "enUrl": "67f0c60dfa8fc42c76a3efc527dbb7d5693837ea800ebea15c72b7fcf62a5e55",
-   "krUrl": "3a917d5d5bb947e7af54cfd9d82d2646d3c0937fdfb1a6527fcabf4c7c08c1df"
+   "cnUrl": "a025799dd75791f6772db0fcbad79753b46345d7084c90ba98a8d93819de4c10",
+   "jpUrl": "b60804ea801023f37919e7b722c39299070bf6391c17eab29d6add35a9054b14",
+   "enUrl": "ece0187241b9a517425a615842e228af4faec55b8284c2e6970722f20cb5a433",
+   "krUrl": "bf24f989829b499e1cd8a2f220b398560d86d919e314546e1777dcbc3128b1f6"
   },
   {
    "id": 64,
    "title": "無法戰鬥",
    "text": "如果能重來……",
    "unlockRequirement": "",
-   "cnUrl": "acee257e69dcbe88d9cd55c5227362a422bc63c4d731e83fd03bb247135fea40",
-   "jpUrl": "315ae81a900014b419e1dd4d100a6922996002c3133fe7af211d77ce9d9ff76f",
-   "enUrl": "8aa0bb4c575e3951d0caecded5474f99d2cf9bdaf304f5fc144db0cbcb035290",
-   "krUrl": "9f00881dbb735f97c101ec77a1fea3e3554a0dfc4de8247925b79902ddfddef9"
+   "cnUrl": "dbb350398df03497a66e7ff1656b0d16ce6575a47b35e3a158d45f06fb2d1f68",
+   "jpUrl": "8a953b202f091723bf964f9adb933351c4f043f2162665c241758dd6ccd1ae0d",
+   "enUrl": "e04e363bb9f11acab319f9406049ac007a6360b055ba083bd05a3397dc5a70bb",
+   "krUrl": "822cd489f8e3e899ee3ec1c73e44c03ff3aad0ea2e43839d50e560d93487661c"
   },
   {
    "id": 65,
    "title": "重回戰鬥",
    "text": "我的使命還沒完成……",
    "unlockRequirement": "",
-   "cnUrl": "596064fb6d679b2d04021c1c0ca48a96fc076127ac20a7754448e148ed54ea5d",
-   "jpUrl": "df5e6496a4122116d45655b7afc16ebc33d60f6065e60c0f727c55c81cbd4e4b",
-   "enUrl": "d0bb6596b97819214fa553e21db580c0c6d2bccc68b73e5647f4ede0181a2eb1",
-   "krUrl": "f1c9f0da135663799a15f7dd9a7edc819d593ddb6604163084bd346ccc7db62b"
+   "cnUrl": "1fc8e437f5bcd9fefb2735c0189653f9c2e9d86b40f485efde254dacdeb44ac8",
+   "jpUrl": "9e8fa65ac063b7ce42d2990bf2137f677e672b6b425cbcd769462bb6e3f755e5",
+   "enUrl": "7035318fa7c0b6fb36f7f6eb64a4e9651d2b545be1ccba67328a9420060a872b",
+   "krUrl": "aa7ee5e6d5317ceae595cedcd8f1a95a9624b4b75f1ba442607750f7be487e4e"
   },
   {
    "id": 66,
    "title": "回復生命",
    "text": "謝了夥計。",
    "unlockRequirement": "",
-   "cnUrl": "12b5f13b56b95f7704630c70c6da40e23e838c20fc3533ffcd104bc0cbeeaf01",
-   "jpUrl": "6a4d8a48078d764d3e0d121dd552dfc949627fbe4a2d874ac4e226c68c69521d",
-   "enUrl": "a138d3ec2c7e059ab84cb08388857922c03ee573520743a5d2e0254c3a2cd242",
-   "krUrl": "193af1adfbc6423dc48348937f05bd2590478314e9515b0c1c9bcfd78a8833a6"
+   "cnUrl": "214200c3547e0e3eedeedc2844907417a3f79d1005e4b30e7868ea14aff8dd03",
+   "jpUrl": "6b9d031929aa7caa18d02703904e637adf579eee7564297dee4d4772d233f02a",
+   "enUrl": "2e2e607cdda0a6363090864bc5213e0fda14f9b8db54611f54d1968d16627427",
+   "krUrl": "2fa3a8206df4e3d41f5b3d8b2e1ddb5e01e157723d750853d51faefaa58594cd"
   },
   {
    "id": 67,
    "title": "祕技",
    "text": "瞧着點。",
    "unlockRequirement": "",
-   "cnUrl": "da6a9ccd798ffa617362a99706e5e0d806fddc3333e98748f5646c4a55163818",
-   "jpUrl": "c52c172afa911fd5d0dc8c4adea370b9473db4bf14f15c7e31687b5f77f2b992",
-   "enUrl": "37c4cf9354ae25b089d1883a7d805024d799b56aad47fbebc71756bc44ba05e5",
-   "krUrl": "63a1ee803b84d7cba2c28a313476f7cd2524b033a7a41854bb564c02b0727cd4"
+   "cnUrl": "52d16290e3af7fb8f2acaf5dac5c89d149ae726eb7e95f6212919f57bcaf6ae4",
+   "jpUrl": "2e7ea7b9390190702832f81ecab70307db9a85bb6530cdb6169b69922de90312",
+   "enUrl": "8942c640bcc059b7c912758d184d7ede06fe5bd6e38d0fc9edf1a96dfc7a192c",
+   "krUrl": "6e979c21dd839891df81d90f8e51f76fc8e35be1f0ea9e2ecbea8dda74bceac2"
   },
   {
    "id": 68,
    "title": "戰鬥勝利",
    "text": "你們都還好吧？",
    "unlockRequirement": "",
-   "cnUrl": "85a4ac625157a968206303cdd3d6c34e2835a77e7bc5312648d83795fcb2ccc3",
-   "jpUrl": "9dfa1a28c144f0f777512e124af07592770abe948e29c450ef94b24b14b08aa0",
-   "enUrl": "5149fb7e1bd2b7af9be3182ae3cb8e94adbdaf01f47edcea9b42bf449479bc03",
-   "krUrl": "287fbcadc6ac86645c6925709bf9f3bd15ad65cca14a2ec9b86b3d3bc40e8e62"
+   "cnUrl": "bcecbf29eb0349284d550de132f652298a265a3c3f61e0323ee42e174ba2d79b",
+   "jpUrl": "5d8b55ebe867b6ae42a1192cacc7ace360ea61e1a9194c610e205e7a05bc7ed0",
+   "enUrl": "5b61deb7acec8f19c8ed79d2ab5c4dbfd430f5fc4d75daec080a7967409f7b86",
+   "krUrl": "7f62d6a6b72997535e13390c370ba105652da98bbfb868ed72e968f53345c828"
   },
   {
    "id": 69,
    "title": "開啓戰利品•一",
    "text": "聞起來不錯。",
    "unlockRequirement": "",
-   "cnUrl": "38585004636c42dcb83417b8e35c6bff299180b632caca26f7af4c5b53706ea0",
-   "jpUrl": "7d6cf53712c9290d3ef89da6f9ced4b5f15cd7680c21367b98f766e0e9b99fcb",
-   "enUrl": "469f42b02681df4753dd5fd1c4c5b293d829bdcce684bc2e114b3dca16e98751",
-   "krUrl": "a442bab1cdcabce6655bde29bee28f21e6614893afa53e8722cc7da19cf5f328"
+   "cnUrl": "13e58e08586898d7a9f2588d87529da6e9c51cb1267ed587a42489d40c9caeed",
+   "jpUrl": "f56f18073a24bfe2bfde40d0c4516de68cc06444a2138ca409ef0dd4bf8d41b5",
+   "enUrl": "6866485be1a03dfc499f33f2fe18465b83079bb6f92796f81045c2104719faf8",
+   "krUrl": "fd69e045a3b17528394f3b47d40ffb0104540f72abb04db26b52c71edc4aaa3e"
   },
   {
    "id": 70,
    "title": "開啓戰利品•二",
    "text": "哈哈，見者有份。",
    "unlockRequirement": "",
-   "cnUrl": "07f61d5b49baef6a5726418c07be041083a52fdfb6190bfc32c0132399adca0b",
-   "jpUrl": "5fbf8d8668b1c62dd7a521fef4ae408796390c4db3c323aa344789cfca9ba7a1",
-   "enUrl": "0f73d275b1873b6bfe7f483e10dc1718255fe44c89fab443907b19679b8688cf",
-   "krUrl": "1b5636fb760a241862fc2423256e8d25f2f09fdde96604b9011c6f22d64902cc"
+   "cnUrl": "600206ae0e7e21f01dd9cd7ecdb8c1c33cad029f7e4727923d22cff207fd57bf",
+   "jpUrl": "949971f85aa3360fd852f1063145102bf48b73b1b90d5a2119320f009d3285d9",
+   "enUrl": "2ef701452839b89a1bfec83e15c3efa29db8af925ce941817184ca68022ab02e",
+   "krUrl": "77eae94d690bfe17f4644440e002775ecff720e91e3c532d03c307648453bb2f"
   },
   {
    "id": 71,
    "title": "開啓貴重戰利品",
    "text": "生活就是如此美妙。",
    "unlockRequirement": "",
-   "cnUrl": "43802a15c1395244d837cd4e5fd67bc453aed9c11d24bef5dc3de80b191309da",
-   "jpUrl": "2694d546ddf9d7581beea796b8f3fa4a98cdaf9cfb4182ed2a61d9b15b1d188b",
-   "enUrl": "f2c1c24bbfb5449c7187d0d51d07866a3e3501bbd36bff840deaa5c3ded66be0",
-   "krUrl": "d771869a4576b94097c249b0e056f11db26a9cf221e32d1f95d844525321383e"
+   "cnUrl": "89f6515f869d2fbc3dd179aa531a7dceb364336470e07702f022412dd6f0610e",
+   "jpUrl": "744443e2d7c457a2acba0355813493565700c33fc4cec29ee4cd6024b8275a96",
+   "enUrl": "0b980474d6c7b4135bea1bea2959e4653a2a6d038ba7473e454501982e9e23b0",
+   "krUrl": "b4c8147a6b869856fe1dc5f5ed19e34cfbd0be20047997ac7b4ff49d140c549e"
   },
   {
    "id": 72,
    "title": "解謎成功•一",
    "text": "人生嘛，總是充滿謎題。",
    "unlockRequirement": "",
-   "cnUrl": "93b2471629519d2f4a2a4c9850046dc8cccf5d5f7671dfff05e1f54649126769",
-   "jpUrl": "2861427a35a565cd812a062d2435372150fac05383f826bce15a46788b97a15c",
-   "enUrl": "3f9a1e453c6cd49dd6c0f1a1586180441075b28197f456c2fc0daa99fe380015",
-   "krUrl": "2205329e9dd9fb643bfa977529c1064b3cf483440fa84a4757e60af40dcef7f1"
+   "cnUrl": "5d074b790c68541ae7da5494c2b9a9ce8ae8b0ae51bd8e3fc4821dee76f42244",
+   "jpUrl": "a72a9ebd7e7ba0a07168756713a281bfc570cf9aac2dfdc9b33ec64b17b76dc3",
+   "enUrl": "255822df431d02c6cf9f88ac76803570518c5f284403d84a4838e598fea86939",
+   "krUrl": "d03206db6dbd94894f66fe44f628b74f5dabd4943f34e09ac4f409e9e57b79c3"
   },
   {
    "id": 73,
    "title": "解謎成功•二",
    "text": "沒想到我還挺擅長這個。",
    "unlockRequirement": "",
-   "cnUrl": "2eb1ef2136670f422bc3fcd78698eb4dc613ffccb0d5c650f5edc7b05a54062e",
-   "jpUrl": "43ce2eaef552cd6538374a7cf9a15a03c71b52151cf083aec1c3c550130cb5b2",
-   "enUrl": "6f254b65ca71ddd37c8492131d129dab0e17491acb63eee5e6001f26e119c2c8",
-   "krUrl": "dfad06cb349e55d9ad241bb9b8b5866aae43228d9676300c37fe58ff1701a429"
+   "cnUrl": "ebd237194d4d1f06a6aedb905718d85e41ff036d3f9edbf602c938becd6f4880",
+   "jpUrl": "5674b6d809477438ceb27f8a797d39bd197b351198f03d0deac32e4f4c68bd11",
+   "enUrl": "e605d9ec08302e0b537bc4ef2121aca01f9c4af9764ef18fc41f0ff68914d21c",
+   "krUrl": "925b1e407ea7e279ca4bd808e725e2e1343b8549417eebec1ecd69b65870e303"
   },
   {
    "id": 74,
    "title": "發現敵方目標",
    "text": "我來打頭陣。",
    "unlockRequirement": "",
-   "cnUrl": "c9ce22b891924965d3db331d48f7c756a1466e1af57349b81d459342b0ed94da",
-   "jpUrl": "34bce4630294f5b8e7601f1202df5bedbd4ae661707982637cfde233a905f1c4",
-   "enUrl": "fed64f625837abae6b6e3d9e2f72423fef26c1ee2b758ef2710ab318db13f931",
-   "krUrl": "de6d29dad5d1890901da66cd8172f066f3d9554e393bb278d572ce4c91fc8c57"
+   "cnUrl": "12b7e745db20304fdc9c585d3d48049cf4926249a7bbbace04dd755f525b8e27",
+   "jpUrl": "5b67e7796caf3d4cde5840a23d33886469454fdb5810480838526a7267c3ceb8",
+   "enUrl": "9cead8cf9e4f306639351ffe2bdfab6ef5c5dabd2f5a80974e59f9194107611a",
+   "krUrl": "df72bfeaaaa12d8888cfb97c0936f981a049239f2578c26df0ebcd76bf15c85d"
   },
   {
    "id": 75,
    "title": "返回城鎮",
    "text": "累了就上哪坐坐吧。",
    "unlockRequirement": "",
-   "cnUrl": "25f49920cbaaa50100a7821de4a8d8844f9ef8637c417b16713e32c54cdae55e",
-   "jpUrl": "9d8a6e7a8bf3b1d101949a55a70818c3eaabe222d26531a36b75756acc07a722",
-   "enUrl": "ccc5f25ef7d80f72b77597de19c0ad76178eb33f319e065257b7f39009bd39df",
-   "krUrl": "3289b1e1f1feb44ec4db80bab47ef6f2313bd4fe5c3b6bd14d8974ca4b178fef"
+   "cnUrl": "1a8def6eca02d78e5c81d334c7a5439e56a535368111b9c0452f3543027f95f8",
+   "jpUrl": "1d2a34616c4373e1519eed9826aaf8d50a94d4b5d9364057b662ddced95977e8",
+   "enUrl": "e97a21c7b32374fed0eab24d3e3518864dad2aee68a6f451286750a20fe8f520",
+   "krUrl": "793c09791ed5e406df2a58b54c414c8e96a8598b2f7cae73c9383f6fb39e3d02"
   }
  ],
  "storyItems": [
@@ -2844,19 +2848,19 @@
  "name": "加拉赫",
  "rarity": 4,
  "descHash": "匹諾康尼獵犬家系的治安官，對來訪賓客以禮相待，但保有戒心。似乎有着諸多往事，卻從不主動提及。",
- "artPath": "d478212eceda00d9dc262c5f54902b368626c3faf35ca1934ed34d22c84d4663",
- "miniIconPath": "a2638f3f1da2fbb43fc46719739143a403658b3b53704b9b23e505cb7292b0eb",
+ "artPath": "beb248e221a8f03f84944986944d65ab0fd77e590e42e54e09163157a51a0604",
+ "miniIconPath": "fde7f801a02bd20a611f74ee289c661b032272a05609705889aa45687ba3d529",
  "damageType": {
   "id": 2,
-  "iconPath": "bd8329d02d7ecfee2a1f565e89cf3bf7bf6aaa60bea29cec2b4f7192626a0311",
+  "iconPath": "3db4afd1325bfbc8556d408d0a891e86c7aa6c578b5930e059ac9289401312ca",
   "color": "#F84F36",
   "name": "火",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "81e58cfdc0c8a9a026c2c3111a6bdf663d572fa71524907b004fc5eb7f34fade",
-  "altIconPath": "c825fa86e9a217db6e704916b2d5aeb22c5733b2776a0ea16c558c29e6c5c92c",
+  "iconPath": "099f836bb82a0db5555a593235596f78b0afd634e500ed415da9f15b9b74a6cf",
+  "altIconPath": "4ae54818a3ef9c3327e9f885631cf822027493ad6c541701f20810664969295e",
   "color": "#FFFFFF",
   "name": "豐饒",
   "rarity": 0

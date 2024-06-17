@@ -1,19 +1,20 @@
 {
  "spRequirement": 120,
- "iconPath": "6e86f1c70372acadd6ef8855481078b1ee1de30dd26b5b1f54e2c24325025c98",
- "bgPath": "11e7a4d1b06ecb8218810a30173053de3eb6e9d2ab046d23da771002dcb646de",
- "figPath": "81afe1f5d1fa6de0c46252ad624e884fa9a15637ebe6ce94f8bd578e010fb868",
- "fgPath": "76a37ba038822f8fda392993a41ee578b920fb86c65210be6f0f5e44daa0fd31",
- "splashIconPath": "db18175911897d8585a05cf721f62105b4ca31adfdb979089258427bf6a33947",
+ "iconPath": "334701394355c74a444840926e49cffe198c7ad5a212c9e07dd0a762b5c09db5",
+ "bgPath": "9a3f91a8eee17167d08af8694b10144c1aabccf6dedb2bd0bd0c24e4ed22094b",
+ "figPath": "c933382bf952b11f2679f25d226cd70bd4c70d9bc1d345018b4191a1d7a61ed8",
+ "fgPath": "ce14ccf8ce018ef76e9d9f39a5182f7d40d29159874c9cd8ebc5dbb1e330410b",
+ "splashIconPath": "f190942d3f870ebaed94f7917bf644519e2b3de88cd084bfbc9f6f68b5b4dec2",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRoQCAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSOwAAAABkLJt/2LFG3r/c4Dm7g7JneTa3LW5fACiOzSHTHbPJHfbrdvcd878/+/KnImICYCpcPV2ydrNgUWB0M2zq4d3xvlJPzRHzfxfkUdBoWbOM++pG4ZUhs4XH4j/tCvqylTyd9V/Aj4vNMyU5NtQCGiI/kZp4WsCBATKJZVjqlTYNAyQyqLkthtQSEorys4hoIO6sizV50g0UFmlsnNDAxYoLSiDuwGwoV23IskuOGkYoVQ0k3w7HwcBET/2kdJM6dwUADQknf6mmeSPQQ0AbMi+oaHb7b+lPEiGY99zmrfB2RE8asfXl4fL8orxP1ZQOCByAQAAUAgAnQEqFAAUAD5tMpVHpCKiISgIAIANiWwAsR80PJrKa++gA8TP1w9MA3mn/cvoDcu80qoH0dP2ADWzf6R73Sxq6cqy0Btq95gAAP6Tut8dyM7G8jH65IXa++TCfzn+/hqBzMXK/e9SD9LaD1srRjF/yzHRkXYNnHavIzbQ/dupSY63uFem/f2zxdujOoh8wARMqCj8S3KjEX2cHPZif616H7gYNL8j1F18/xHT8hlM9NcGQZZuaEcRbQpQB6cFxX77xdAF7ZCsaohQUxdeuMlNKefWsd7GzCX4Z/USD9Gvf+1SJkED5ldtdGUG+7NIH61VmpJI1pp78CVDZn9GP8pGQOAfHOKTQ9jhd34WX1QFW4+jkrBSo1CYP0PHgKKoXBV5FaGpMtrsjAZ3L3z/RQvnqrZ/YpP0zTrTcY5X4Qv62/jS9VN/vFWKUF8fgQn/RwSzGEEt/93GTnjHy7OPgFtFodTbAbBDp5DrwZbkcIAAAA==",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 5,
-  "iconPath": "4b4b5f13f6588e7fb1c030c28f9b9b67a7a8c4bab77c05e38d5c9f64eb0d99e7",
+  "iconPath": "28571bec548b7a0a6b24ad8825c718a27732ae7c72c79d9288924e1258360ada",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédito",
    "desc": "Esta moeda, usada pela Corporação da Paz Interastral para acertar contas com seus clientes, agora é amplamente aceita como moeda para viagens espaciais.",
    "lore": "\"As pessoas lutam e negociam tanto apenas por números em um terminal, mas o que é precioso de verdade não pode ser comprado.\"",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Rastros de Destino",
    "desc": "Material avançado para subir o nível de Rastros.",
    "lore": "Sua vitória é garantida por inúmeras falhas, e os pequenos passos que você deu levaram a uma reviravolta do destino.",
@@ -61,7 +62,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "Guia do Viajante",
    "desc": "Material de experiência para personagens. É possível obter <nobr>20.000</nobr> de EXP de Personagem.",
    "lore": "Leitura obrigatória para explorar o mundo. Pressione o botão \"Ler\" para reproduzir uma voz atraente num idioma que você entenda falando sobre os encontros lendários de aventureiros renomados em diferentes mundos, bem como a sabedoria e o conhecimento precioso que eles acumularam.<br /><br />\"A novíssima série do Guia do Viajante, 'Manual de Gastronomia Galáctica do Chefe', já está disponível para compra.\"<br />\"Para fazer pedidos, envie um sinal de sinestesia para ERD<nobr>-23</nobr>θ e entre em contato com um representante da Guilda de Intelectuais. Temos várias formas de pagamento.\"",
@@ -79,7 +80,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "Registro de Aventura",
    "desc": "Material de experiência para personagens. É possível obter <nobr>5.000</nobr> de EXP de Personagem.",
    "lore": "Coleção bem-organizada de notas de aventura educacional contendo incontáveis ilustrações e textos com histórias completas, bem como informações valiosas e técnicas de sobrevivência.<br /><br />\"Por que não digitalizamos isso e guardamos em um disco de fotolitografia? Seria muito mais prático.\"<br />\"Tecnologia avançada é muito mais frágil do que você imagina diante de tempestades estelares e erupções de fluxo de neurônios. Além disso, tenho certeza de que o autor deste livro gostaria que as pessoas o lessem da forma mais simples possível.\"",
@@ -98,7 +99,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "Encontros de Viagens",
    "desc": "Material de experiência para personagens. É possível obter <nobr>1.000</nobr> de EXP de Personagem.",
    "lore": "Diário de viagem com assuntos aleatórios escritos numa letra feia. Não tem muita utilidade.<br /><br />\"Dan Heng, termine logo de ler isso para jogarmos fora.\"",
@@ -116,7 +117,7 @@
    "id": 468391,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "136670876f348477c67386d9e545f587913faf2a699b983d967b670be1c1a35c",
+   "iconPath": "3cc2affb44dd151c097d84ddde38ba3a682b7b9f312b03ac9339cf3c26f28c30",
    "name": "Coroa de Ouro de uma Sombra do Passado",
    "desc": "Acessório de cabeça da Sombra Decadente. Pode ser usado para Ascensão de personagens de Dano Imaginário.",
    "lore": "Acessório deixado para trás pela sombra de uma Guardiã do passado, que contava histórias da cidade de Inverno Eterno.<br /><br />\"Alina, a Amorosa: sua bondade é tão elevada quanto o céu e sua compaixão brilha tanto quanto o ouro.\"",
@@ -133,7 +134,7 @@
    "id": 549407,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "d5bfc95d74fab56f9c9be440028051ed2a9e02f4ee968c8d3db170d5b55dd931",
+   "iconPath": "a72fcf2954997ca8c5928ceaf5a1627bb831e3c8632cf048466d7885560c65be",
    "name": "Distintivo Crinalva",
    "desc": "Distintivo usado por soldados das Guardas Crinalva. Material bruto usado para aprimoramentos.",
    "lore": "Está cheio de arranhões da erosão do vento e da neve.<br /><br />\"Em tempos antigos, só tinha uma maneira de um Guarda Crinalva se aposentar: morrendo.\"",
@@ -143,6 +144,7 @@
    "comeFrom": [
     "Sombrio do Inverno Eterno e Sombra de Incineração",
     "Guardas Crinalva e Andarilhos",
+    "Espólio deixado por inimigos no Universo Divergente",
     "Inimigos do Universo Simulado",
     "Recompensas de Atribuição",
     "Troca de Brasas",
@@ -154,7 +156,7 @@
    "id": 633348,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5be2ad896306c15eb63529806cc7e0175b2c2111e3a6f175accb00a85cf9b90e",
+   "iconPath": "ba6bf0222b2d45356ef4505a36cbe77c7a9b780b174dba76a2ee29427b344447",
    "name": "Insígnia Crinalva",
    "desc": "Insígnia de patente militar usada pelos capitães da Guarda Crinalva. Material normal usado para aprimoramentos.",
    "lore": "Pode ser uma prova de heroísmo para se gabar dentro de casa, como pode também ser um amuleto da sorte para proteger você de um tiro.<br /><br />\"Os tempos mudaram.\"",
@@ -165,6 +167,7 @@
     "Sombrio do Inverno Eterno e Sombra de Incineração no Nível de Equilíbrio 2 ou superior",
     "Guardas Crinalva e Andarilhos no Nível de Equilíbrio 2 ou superior",
     "Sintetizador Omni — Síntese de Material",
+    "Espólio deixado por inimigos no Universo Divergente",
     "Inimigos do Universo Simulado",
     "Sintetizador Omni — Troca de Material"
    ]
@@ -173,7 +176,7 @@
    "id": 635669,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "271b1f9a291c44b698190683f224996bae3b49e8e596c227b819b72c3a2b82dd",
+   "iconPath": "825865adfbcce2087595f3e3f5f83074ff634bac538fef3447ca92d001377dd8",
    "name": "Obsidiana do Temor",
    "desc": "Um fragmento de matéria escura capturado do vazio. Usado para conceder um aumento sutil de nível de Rastros de personagens da <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Inexistência</span>.",
    "lore": "Nada pode provar o seu númeno.<br />Toque suavemente para ouvir um murmúrio obscuro do fragmento.<br /><br />\"████ ██ █ ████\"",
@@ -190,7 +193,7 @@
    "id": 717289,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e5c567b0d1a069f86d1fa35a17b282346606c69e5f8cab4028224ece84c8ad58",
+   "iconPath": "0f804f4f5903741a391df7dca374c8f9a80e5a258e74bdebf04d9f811b23ba67",
    "name": "Medalha Crinalva",
    "desc": "Medalha de honra usada por soldados da Guarda Crinalva concedida por mérito e serviços prestados. Material avançado usado para aprimoramentos.",
    "lore": "Uma prova de honra concedida àqueles que lutam contra criaturas do Fragmentum, Subterrenos e desastres repentinos.<br />Geralmente seu portador não a carrega no peito, a não ser que esteja dentro de um caixão.<br /><br />\"Lembre-se, jovem Gepard, isso não é um brinquedo: é o destino e o sangue da família Landau.\"",
@@ -201,6 +204,7 @@
     "Sombrio do Inverno Eterno e Sombra de Incineração no Nível de Equilíbrio 4 ou superior",
     "Guardas Crinalva e Andarilhos no Nível de Equilíbrio 4 ou superior",
     "Sintetizador Omni — Síntese de Material",
+    "Espólio deixado por inimigos no Universo Divergente",
     "Inimigos do Universo Simulado",
     "Sintetizador Omni — Troca de Material"
    ]
@@ -209,7 +213,7 @@
    "id": 836255,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "34d88252515cd13ab58b6f5aae7329794a4a330a0147e1c5f755c8a2f4444bff",
+   "iconPath": "a006d01f6dff4b81ed47879eec1b9c3513644d0677c4815bc3c8530882c4be21",
    "name": "Obsidiana da Obsessão",
    "desc": "Um pedaço considerável de matéria escura capturado do vazio. Usado para conceder um aumento considerável de nível de Rastros de personagens da <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Inexistência</span>.",
    "lore": "Aqueles que tiverem personalidade e mente fraca passarão a eternidade no caos com apenas um simples vislumbre neste prisma.<br /><br />",
@@ -226,7 +230,7 @@
    "id": 920196,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "1a896480b5f6ee84644db112069845e85930f6dbc0f428a3f8a6de2b187702af",
+   "iconPath": "eec42c153a07330e42c7c9d85fb5fd5e1dc72c10e1912f3f825bc4f853ae4bd1",
    "name": "Obsidiana da Desolação",
    "desc": "Um pedaço de matéria escura capturado do vazio. Usado para conceder um aumento moderado de nível de Rastros de personagens da <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Inexistência</span>.",
    "lore": "Nenhum reflexo pode ser visto na superfície deste prisma preto. Ele não somente suga toda a luz, como parece absorver as emoções de seu portador, deixando apenas uma leve sensação de vazio.<br /><br />\"...\"",
@@ -244,7 +248,7 @@
    "id": 985668,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "c92e008415ed578b02aeeebec3e4303f0e6c56d05fab48f2cfd79469b64f222b",
+   "iconPath": "04088e0733990d7a0c884c42641a26089c8376f465104345af368511bbcedbac",
    "name": "Rota Final do Destruidor",
    "desc": "Material avançado para subir o nível de Rastros.",
    "lore": "O coração do Leviatã parou de bater, mas sua mente continua viva apesar de estar dentro de uma caixa. Contanto que a tampa esteja fechada, sua mente continuará viva e morta ao mesmo tempo, impulsionando o núcleo da destruição.<br /><br />\"Besta do Fim dos Mundos, uma praga criada na Forja da Guerra usando ossos de milhares de mortos e o que foi deixado por um Leviatã. Ela anseia pela destruição do universo e de si mesma.\"",
@@ -443,8 +447,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "620bb8bd06273fe84fe17e956db86c3c656e5186b101495f8fe6e57a8168858a",
-   "artPath": "8112b292f712d9cc687c7248d708348ad9c2123bd48b6e9c1dc1d33c5d7366df",
+   "iconPath": "a1d1b419dfa2f345585ed33edaaaffd09649a7cfef1a3ea5a19d1580b14716eb",
+   "artPath": "74a4c38f0b18576adef9f83b63d4d6123045c88945d01bae0d17cb2f26e13d2a",
    "name": "Legado de Honra",
    "descHash": "Após Welt usar sua Perícia Suprema, as habilidades dele são aprimoradas. Da(s) próxima(s) <nobr>#3[i]</nobr> vez(es) que usar seu ATQ Básico ou sua Perícia, causa Dano Adicional de <nobr>#1[i]%</nobr> do multiplicador de Dano do ATQ Básico ou <nobr>#2[i]%</nobr> do multiplicador de Dano da sua Perícia, respectivamente.",
    "params": [
@@ -455,8 +459,8 @@
   },
   {
    "id": 2,
-   "iconPath": "60ac47892ba9e1f5c19824c2d7e077561f18e64f7bdb0638aaf69bfedaf327be",
-   "artPath": "747f03e3ad456f7dfd429d5bcbd37f5a7c9d9d964e4dbbda7a2773ea8027893c",
+   "iconPath": "4dc2823911be6fb60678a948571c14c17c6cd9fd4baa22efc95ed5b54441fa71",
+   "artPath": "278203a4bba3464b54bbf52c0f4ed6bcc419368d6569142c4868edf03f80ed63",
    "name": "Confluência Estelar",
    "descHash": "Quando seu Talento é ativado, Welt regenera <nobr>#1[i]</nobr> de Energia.",
    "params": [
@@ -465,16 +469,16 @@
   },
   {
    "id": 3,
-   "iconPath": "fdb5e587650372e681c720c6f4ac4f9dcec2a5ba4426a3b5ed970a64bf141520",
-   "artPath": "ad7db2242deba9c9dc1da1250c4e8654658dad9d3a00b01fa2291d19b45c466a",
+   "iconPath": "2c3004f709d1a21f8d62ff388a4b55656eca2df8fec9f235763b2c04fc9444eb",
+   "artPath": "4f5b75ec3cbcba5f38c7013d6f113057ced8ce01c9f55a930c41c50d22f8eb22",
    "name": "Prece da Paz",
    "descHash": "Nv. da Perícia +2, até no máximo Nv. <nobr>15</nobr>.<br />Nv. do ATQ Básico +1, até no máximo Nv. <nobr>10</nobr>.",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "34c5cd172421ed8bd28bc6c845f9b93cb02a6ee13b09cb242720a163cf46c93e",
-   "artPath": "f91c8eccb44253225998308b55477f6f520dd92772a945a3b12bbec9c56dd1bf",
+   "iconPath": "c03806156f8eebca9d0dba716a0f1b31ccf49d7515641621a12dc5bd788a1d3d",
+   "artPath": "8ccbb790bfa1a3d9a4a5181abd6e9be84c476b27ad68b75fed51a02f5c384239",
    "name": "Apelação da Justiça",
    "descHash": "A chance-base para a Perícia infligir Redução de VEL aumenta em <nobr>#1[i]%</nobr>.",
    "params": [
@@ -483,16 +487,16 @@
   },
   {
    "id": 5,
-   "iconPath": "9d6fd725f883d09675f0d1258f0fa38f3d4621df37325d08fdbd08f228a3e051",
-   "artPath": "f32ff1810b5962a380c326527d7e22a93974bc44c0bb7873c76eb64e4ced00cb",
+   "iconPath": "13dd3e15ddff2a2626159f3b833bbcf4ba6fc232991f73846e3a01a6065514b4",
+   "artPath": "60499953206aeb7368d645e7beb6ee5d4a91ce6908a183c77b5364843d97b4dd",
    "name": "Poder da Bondade",
    "descHash": "Nv. da Perícia Suprema +2, até no máximo Nv. <nobr>15</nobr>.<br />Nv. do Talento +2, até no máximo Nv. <nobr>15</nobr>.",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "03525e6b52b8a7e56e7ba1fc5aae584ed441175cc631b784dbaa789b4e0fb4bd",
-   "artPath": "e6fa873b0d6d80727ec1be4f1e4dfd4c4ed3f327b1a61376e3ba2b261a627aab",
+   "iconPath": "d5eb83682cece968235751a09aed2102435795fcec0d3827d73c771edd24939b",
+   "artPath": "62213bc928310f53b4517686cfb0c67fbc8857db37367eed80acc9992037aa15",
    "name": "Perspectiva Brilhante",
    "descHash": "Ao usar a Perícia, causa Dano 1 vez a mais a um inimigo aleatório.",
    "params": []
@@ -524,7 +528,7 @@
    "energy": "20",
    "id": 628516,
    "name": "Supressão Gravitacional",
-   "iconPath": "4391b6267d10bc02697cef2db2c16dbbcf9d38f30b57b0565ebdba020d432335",
+   "iconPath": "fd26215d1da85d3271c16280081fbf66ca47de63f0f36ddadb6126c18df34021",
    "typeDescHash": "ATQ Básico",
    "levelReq": 0,
    "promotionReq": 0,
@@ -685,7 +689,7 @@
    "energy": "10/hit",
    "id": 913043,
    "name": "Borda do Vazio",
-   "iconPath": "fdb5e587650372e681c720c6f4ac4f9dcec2a5ba4426a3b5ed970a64bf141520",
+   "iconPath": "2c3004f709d1a21f8d62ff388a4b55656eca2df8fec9f235763b2c04fc9444eb",
    "typeDescHash": "Perícia",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1005,7 +1009,7 @@
    "energy": "5",
    "id": 796398,
    "name": "Buraco Negro Sintético",
-   "iconPath": "99f23cef2c0752b9e3d3c52bb44a23e1613ebd35a53ac1cd6280f01164315e69",
+   "iconPath": "283d91e90d7b74270b79aa582461b103a66bfdf87f893ce35460100958a5fff4",
    "typeDescHash": "Perícia Suprema",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1325,7 +1329,7 @@
    "energy": "0",
    "id": 80925,
    "name": "Distorção Temporal",
-   "iconPath": "bf8ad76cc141c55a3498d4ca5348817618f9aad21efc580c5425e57b849446ff",
+   "iconPath": "d254947ba1312505b218d27da6344ca623235b35b40e8a1f5ceafbf31f55326e",
    "typeDescHash": "Talento",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1600,7 +1604,7 @@
    "energy": "0",
    "id": 281511,
    "name": "Ataque",
-   "iconPath": "4391b6267d10bc02697cef2db2c16dbbcf9d38f30b57b0565ebdba020d432335",
+   "iconPath": "fd26215d1da85d3271c16280081fbf66ca47de63f0f36ddadb6126c18df34021",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1616,13 +1620,13 @@
   },
   {
    "tagHash": "Incapacitação",
-   "descHash": "Após Welt usar sua Técnica, cria uma dimensão que dura <nobr>#4[i]</nobr>s. Inimigos nessa dimensão têm a VEL de Movimento reduzida em <nobr>#5[i]%</nobr>. Depois de entrar em batalha com inimigos na dimensão, há <nobr>#1[i]%</nobr> de <u>chance-base</u> de Aprisionar os inimigos por 1 rodada.<br />Inimigos aprisionados têm <u>ações atrasadas</u> em <nobr>#2[i]%</nobr> e a VEL reduzida em <nobr>#3[i]%</nobr>. Só 1 dimensão criada por aliados pode existir ao mesmo tempo.",
+   "descHash": "Após Welt usar sua Técnica, cria uma dimensão especial que dura <nobr>#4[i]</nobr>s. Inimigos nessa dimensão especial têm a VEL de Movimento reduzida em <nobr>#5[i]%</nobr>. Depois de entrar em batalha com inimigos na dimensão especial, há <nobr>#1[i]%</nobr> de <u>chance-base</u> de Aprisionar os inimigos por 1 rodada.<br />Inimigos aprisionados têm <u>ações atrasadas</u> em <nobr>#2[i]%</nobr> e a VEL reduzida em <nobr>#3[i]%</nobr>. Só 1 dimensão criada por aliados pode existir ao mesmo tempo.",
    "ultimateCost": 0,
    "break": "0",
    "energy": "0",
    "id": 197570,
    "name": "Aprisionamento Gravitacional",
-   "iconPath": "f27889106a4deb51acd593f2326884d035bfeae2029ed3a8de6b275f5439200d",
+   "iconPath": "985d5b58ec293f50f5f9e56da6e2e21eb9e8d19b8d5657a98f3ab14ad19f3378",
    "typeDescHash": "Técnica",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1669,7 +1673,7 @@
           "name": "Bônus de RES a Efeito",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+          "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
           "statusList": [
            {
             "key": "RES a Efeito",
@@ -1698,7 +1702,7 @@
         "name": "Bônus de ATQ",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATQ",
@@ -1727,7 +1731,7 @@
       "name": "Bônus de Dano: Imaginário",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+      "iconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
       "statusList": [
        {
         "key": "Bônus de Dano <span style=\"color:#F4D258;\">Imaginário</span>",
@@ -1756,7 +1760,7 @@
     "ultimateCost": 0,
     "id": 233017,
     "name": "Retaliação",
-    "iconPath": "045d76435bbf85c10e541fc22a1615cccc20e2e094cf750b9356f9d57ef48ec4",
+    "iconPath": "95524ba0b95df7befd1f46f9d76f84925d09632392a8d5105eaee0bc688857b9",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1812,7 +1816,7 @@
           "name": "Bônus de ATQ",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+          "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
           "statusList": [
            {
             "key": "ATQ",
@@ -1841,7 +1845,7 @@
         "name": "Bônus de Dano: Imaginário",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+        "iconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
         "statusList": [
          {
           "key": "Bônus de Dano <span style=\"color:#F4D258;\">Imaginário</span>",
@@ -1870,7 +1874,7 @@
       "name": "Bônus de ATQ",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATQ",
@@ -1899,7 +1903,7 @@
     "ultimateCost": 0,
     "id": 233020,
     "name": "Julgamento",
-    "iconPath": "6a12a0b1387f35eec54456e6fedde8569687ec910b654273bb0c75c093f5c414",
+    "iconPath": "98035c3030a5285f2c4177ac598e34d0ff74c6e5ac7161e9471d94f7837f10b9",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -1947,7 +1951,7 @@
       "name": "Bônus de RES a Efeito",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "fa7136a4b04e91ff341669c85c9a698aaf08a8d07aea80644e6e71ddbe2808c1",
+      "iconPath": "9fd554ab9916a645c0badb618498ad3c76f58e6fd09005f69990a7d6bfd0c625",
       "statusList": [
        {
         "key": "RES a Efeito",
@@ -1980,7 +1984,7 @@
       "name": "Bônus de Dano: Imaginário",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e",
+      "iconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068",
       "statusList": [
        {
         "key": "Bônus de Dano <span style=\"color:#F4D258;\">Imaginário</span>",
@@ -2009,7 +2013,7 @@
     "ultimateCost": 0,
     "id": 233019,
     "name": "Punição",
-    "iconPath": "4307aa4b34becc23f3743bbbc81e32cd5da37e8a445b4c2d872471674b76d50c",
+    "iconPath": "371c108327727436ca6c2c08ecc20647c3f977c7d37161ef1346450081ae039b",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2057,7 +2061,7 @@
       "name": "Bônus de ATQ",
       "levelReq": 80,
       "promotionReq": 0,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATQ",
@@ -2086,7 +2090,7 @@
     "name": "Bônus de ATQ",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATQ",
@@ -2112,27 +2116,27 @@
   "props": [
    {
     "relicTypeHash": "Corpo",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "Chance de CRIT",
-    "propertyIconPath": "97553a857187ab8a25e65909410dc29a20eaab31f016af86419a971c0887e5b8"
+    "propertyIconPath": "fe4e1f43ad0ba2ccbd2b8682c52f8b482fa982ec6f1cef3dc386bc0787393695"
    },
    {
     "relicTypeHash": "Pés",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "VEL",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Esfera Plana",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "Bônus de Dano Imaginário",
-    "propertyIconPath": "939478539b7b35b55ee48b2e19d6994455dec3403493edcc082140d3a061b14e"
+    "propertyIconPath": "f8c06e18c87cc064c37d3cd55387680660f5a7886d4075d970ac56da0ea0e068"
    },
    {
     "relicTypeHash": "Corda de Ligação",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "ATQ",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2142,480 +2146,480 @@
    "title": "Primeiro Encontro",
    "text": "Olá, sou Welt Yang. Se precisar de ajuda, é só me procurar.",
    "unlockRequirement": "",
-   "cnUrl": "6a347b84a90875881a10f8fd84508d6dc653efcee7d1b9177c3e747d56f7313a",
-   "jpUrl": "cadd1179cf4d85df4b3433b19d066ce6ebc3f53ab85cc65327c4d73040e3f071",
-   "enUrl": "68a7326273658bb975c8fac6aeb2837b2634b2e89ce91076b2b3c7309d290b7f",
-   "krUrl": "9054bb26a512634792cfa6256232e99f44f152775eae42fcbdab8a3b73935f1a"
+   "cnUrl": "e445a8bca3104c64f138f706233b8e02931521ca5034a6e4f5afb80863d5fc18",
+   "jpUrl": "d0d9bf4428c7b952c4baf6d273aaac809da9cffe0f1120b883d06aa31dcb27bc",
+   "enUrl": "f5de7a8f8c43cd35401679872c2554fdcd5c995e7dd2075101755f44779e6bf5",
+   "krUrl": "03126050d1396d43c269e21a1d76e3f94a10c4cee50be59f1e0c4f26e1b589cc"
   },
   {
    "id": 2,
    "title": "Cumprimento",
    "text": "Hm? Ainda não acordou direito? Não force, é melhor descansar.",
    "unlockRequirement": "",
-   "cnUrl": "0dadf015a735c842bafff8cfc702dd049eca76eb19c6de7475ecbed63119a5f0",
-   "jpUrl": "8e638381f33a43f41a4ec59d628237475bd8e6c6a212ec7a69b6f69211bb4fe0",
-   "enUrl": "700e6f4454fc40b7c49687dbe0f3699d3595d1cff73ea95c88e80c75ab26beb6",
-   "krUrl": "b5f6de32d743002ed2d2ba1e0245ece55a3ab5efb1009b3000286e0d44b50c4a"
+   "cnUrl": "a5a3b62b49f4dd4aaa54ba96d5be02bc286075a034dabbb4c0c9e96b9d9668bf",
+   "jpUrl": "9cc105542eeeae4b7b1d8f40ff87f2ea267f7f1ac8602b14dc34e851a2ae9589",
+   "enUrl": "d1696a5573fd79a68917d6b8e03ad927eb732afd505064b31e45b9b9875898ca",
+   "krUrl": "7362ce5e5d5c1f697d21b3afbb72691649015ed7ebffdc35757b5db50d3cc732"
   },
   {
    "id": 3,
    "title": "Despedida",
    "text": "Não consegue dormir? Eu entendo. A inspiração sempre aparece nas horas mais aleatórias. É difícil ignorar, não é?",
    "unlockRequirement": "",
-   "cnUrl": "4445c9b483059615a374703a2f813e03f5fccb34027f638d302bcfa9d77b97fa",
-   "jpUrl": "ffe6e40bf21243f4ccfb8eedaa57e3e6348251fa56fe3313efc44719ff5b9aba",
-   "enUrl": "d47db4090b257ecf21f260c37ebd82feb6a17c59e5ef59975868de9b4bae91b4",
-   "krUrl": "e8258979b586a4f7147dbc031d5ea030258b4b1376061bffa926d732be4984c1"
+   "cnUrl": "4eaa6f8466d1f777dd4996bdad2310b5b22b575a5646cbb3f5029d834c919e21",
+   "jpUrl": "7c775785bd412c7bcfef9f3a47f5bc12649f7b2860c102ff76b651ad8ba0c2f6",
+   "enUrl": "2a1d1c08efd5e1eaeb593248b4df08c04193df349c2c068bc2aca6e1eb24a028",
+   "krUrl": "7172abcd4a8d3a5d6f3440b48d5981b6fb701a781d26cfa784d740ccab7e592d"
   },
   {
    "id": 4,
    "title": "Sobre Si: Antiga Profissão",
    "text": "Fui animador por oito anos. Minha vida era uma bela rotina. Acho que era meio parada comparada a aventuras, mas o trabalho era recompensador. Transforma sonhos em realidade.",
    "unlockRequirement": "",
-   "cnUrl": "3f9371e252f540d43a4e7f819318dc9d1a2f105d5ee71d56c23ea2f00d2acfaa",
-   "jpUrl": "b050b7927ae80eb61c6ad417b8f5c8aaed45e85dac949108241178d58dc9ad48",
-   "enUrl": "e30d218845f1d63c4626600697a54138de8450fab94c0dc45a9a399cf646db9f",
-   "krUrl": "8eb3b61fcc39a9eb77662d291fc6c23d8b00da43efa175abb14a0144d7ce3bc9"
+   "cnUrl": "cd0031a07e38f87138fdf80b94109aed2174c6eaa88605ffe2c9abd0d89c0d94",
+   "jpUrl": "a332f646c5e966eb030cfa010d171ad9959f1bbea013654387f53034092d07f5",
+   "enUrl": "79dabbf51da24d48ac512968ac6aabecbc59caed0f9d9332327ff2ed5e597914",
+   "krUrl": "8bf64f44a430f64480e189c97d88d789350eb23ea4a2450365eaddf8be4d02cd"
   },
   {
    "id": 5,
    "title": "Sobre Si: Motivo Para Embarcar no Expresso",
    "text": "*suspiro* É uma longa história e envolve pessoas e incidentes que todo mundo quer esquecer, haha. É melhor não falar sobre isso. Resumindo, me perdi no universo, mas tive sorte de encontrar a Himeko dirigindo o Expresso.",
    "unlockRequirement": "",
-   "cnUrl": "58496aa8d9c72780625d27045a939e3504ec5609432591d21be34188c5446e6d",
-   "jpUrl": "25bf06a6477da2ccbbc3551654c2b5c98ed70a0713a5b9ddf64538c20dfcc540",
-   "enUrl": "e80802999f9df0e10456336271ca4bbe7a0fccae461c568f2ceef36ff13645bb",
-   "krUrl": "d7398c44058485a9215127b9331d281bbc7016bb78aefa6bcfdea697927b94c3"
+   "cnUrl": "430b78de48005d1a4217b1d86946ac4c051baa13e64a79c074e191a6b64400eb",
+   "jpUrl": "c3dde4fc2a2782fb23f28d6c8fcb6a8df07ceb26e2c040cb9efef1c150ffc3b7",
+   "enUrl": "d180e958caf62d32d2e03bcf934cfd0aa0a09edad842a3a5e3e5d46d0e28fcce",
+   "krUrl": "16f2073bf551e2fd4ada16f8a0dd5fd45c7c655aed1f1a805297d290ed10318c"
   },
   {
    "id": 6,
    "title": "Bate-papo: Arahato",
    "text": "Ah, tenho muito a dizer sobre este assunto. Só transmitiram esta série no meu planeta natal, não sei de outro lugar no universo em que passaram... Posso usar meu poder de mímica para mostrar alguns episódios, mas não posso garantir uma boa resolução.",
    "unlockRequirement": "",
-   "cnUrl": "e9279722f2b31ba8aab71c2f6114548c0179d1d9a5fc25b1cb55a64de45a2021",
-   "jpUrl": "9b86a40ad633b0cdfe49f64ce0de4223df8f7f702c514f5139750462a13f5303",
-   "enUrl": "abf099ac047f4072e4ba5bebf9b16f06cf00c60ab694871ccc78fb8bf4e5d969",
-   "krUrl": "b537b76ecf0c751027ccc5534b424ee0ab80ee5f24819ad9f4e26bdea81b030f"
+   "cnUrl": "613267ee01e5d4c2ac75125f10426e0f55ffaaa4bf356fbc52008f0fe4f32c3e",
+   "jpUrl": "de119b5f4d06c15aa98825bca75017d656ee75c8264b6dc4a4ec0b6ac42f969b",
+   "enUrl": "370dd9632bc6a7b78122af344cffaeab0f9d142292072d14514586806082d50c",
+   "krUrl": "06f8414265b0cf7201207355bb7f12615059c73c0b6836c9e821ceba8bc3ae2d"
   },
   {
    "id": 7,
    "title": "Hobbies",
    "text": "Pesquisar história e produzir animações... Acho que andam juntos.",
    "unlockRequirement": "",
-   "cnUrl": "475d0f7dc84beecae56d42ed3b56c74de02e3a8ea0430bc0b24fb75f6e6adcb8",
-   "jpUrl": "85072404a44291f6a76714e861758ce804b2b63e78928322e81da43ece91db33",
-   "enUrl": "0d5a11eaafd1b678e01572376589ab690d2fad5822a423db50f53c84878b57ec",
-   "krUrl": "b2318074083d41e8c3346af1d116c7b727240fe675cffe54ab997f1db07228dc"
+   "cnUrl": "d0604f63e0fb6511211a3f7d66046881746714c05c9f07d2105072cf730ca3d8",
+   "jpUrl": "cbd7092da56ccf2a7e3ff07b9d95691e5e17568ffb9ceb6cc735412f4aeb7126",
+   "enUrl": "05e066f53330ab13ecc310e8e23c2a97ae8a110dc0881f6b46e29806015c2487",
+   "krUrl": "87f02a80c77146b1e1b51f7ea31a85943b41a2498707841604e91677528b451f"
   },
   {
    "id": 8,
    "title": "Irritações",
    "text": "Sabe, Desbravador/Desbravadora, você me lembra um personagem/uma personagem de desenho animado. Parece que você atrai companheiros do nada... *suspiro* Espero que não ligue para isso. É só que... parece que minhas chances de partir em aventuras sumiram de novo...",
    "unlockRequirement": "",
-   "cnUrl": "fc76cf66d5ef1ad556b8610b434c575bda90f0dac6cc325a9768eea57d96bb04",
-   "jpUrl": "ca3ae750b498cf44e29af4ff83fe041b59b04f51718a1708877c5fb4d5e1f9a7",
-   "enUrl": "bea5e969368b0f5e7230e2b5821c3a15a1245f95e91dcc36fc33b9df6634112a",
-   "krUrl": "319874d56e6cb9067b2285316225633f353acb36a73dd3b8624a68645f5563d2"
+   "cnUrl": "8491652ab7c9080dc40b6dbae64d022532d5afdc82a618f6fe54d908067c9a00",
+   "jpUrl": "1361e636ed8b8a06551d60a321c29118931853d2b49b1814024a5668e853ed49",
+   "enUrl": "039dffeb53081e817a765534684c8b86b44dc281d4c47ba2099390d320fb20a3",
+   "krUrl": "eb9b147d3d7948c5dd09875bdb7fdc6a410c6b29a87dc93e5fd8d387af797a22"
   },
   {
    "id": 9,
    "title": "Uma Curiosidade",
    "text": "Meu lar foi corroído por uma força maligna conhecida como Honkai, mas mesmo assim era um planeta lindo e aconchegante.",
    "unlockRequirement": "",
-   "cnUrl": "5a31cdf081369ef1a8359d841415900bf2f9cc39ff064f676b8fc1b827518ec3",
-   "jpUrl": "990b395b90c0e4e5be2579fa4dec98c062d3b0e03df54a7f06249234f4f5fffe",
-   "enUrl": "95227aac14993f55096d170e04ad102618466abcdf9e6adb7e9631338e39acae",
-   "krUrl": "e29c629695ced00531758b613eaca7183a1bb2dc5dd3c95d9cbf8a8e270f5ff5"
+   "cnUrl": "8cf2252c54e7f628883773cee7a057bf09a8617067bd49537b93ccddc0223d10",
+   "jpUrl": "f4939af270cad3640acfb993c80683afc98c29b6f727acdee1644e7cba9ee06c",
+   "enUrl": "81e9f5802e0426b51ccdd691d24a46beba4e6b534c183b5e618fbb0a864a9f27",
+   "krUrl": "bd8ebaa15c2db60c69df7c217e56f2a10864fa392bd169d6417dfcbbdc1433fb"
   },
   {
    "id": 10,
    "title": "Conhecimento",
    "text": "Sabe como os seguidores de Qlipoth, a Preservação, viraram a Corporação da Paz Interastral? Aeon queria construir um muro, e a humanidade começou a procurar materiais para seguir os passos de Qlipoth... É engraçado pensar sobre isso.",
    "unlockRequirement": "",
-   "cnUrl": "5e2176f9860275d8b76973f50906236464f7b95cd206bbea6ae6b07d0f098711",
-   "jpUrl": "2aa5e1e00e9959abbbb5ae51792d5930f17af368765ae26618246209be2c781e",
-   "enUrl": "f0be35890406939e082d082e2269c708da161a425b853840a23d79a2ac875310",
-   "krUrl": "6001de2d9152df4d207ec54e811c6ceac50f80136e8be0db60e069f039ed5e1b"
+   "cnUrl": "12c7e453a1d0f8e299d7b56143661b13d9fee79798d5a28f788ceb23fab06ee1",
+   "jpUrl": "ac8e3aac28fe6d808a97f0ca00b84cc982c77899d475f9bfe0915d09e3d57d0a",
+   "enUrl": "d9a4a53c49b700c885393da9d9d977f5a01d93ede2750b09ff7fa1c64345ca3d",
+   "krUrl": "c2b29460ac3ee271c5e8223a15a20391bb8d44f3a9d2a6f5e99442f0da0a79ba"
   },
   {
    "id": 11,
    "title": "Sobre a 7 de Março",
    "text": "Março é muito curiosa e sempre me pede pra fazer poses de combate. Aparentemente, ela acha que eu faço isso muito bem. Você também acha? Hm...",
    "unlockRequirement": "",
-   "cnUrl": "218237b9c3b1896da87ff769265ef2e90d1472f3bc44a3fa7d7482a4e657631c",
-   "jpUrl": "91d493fcae888be78c3a2d4e9679da1c8d826e4419f97768b996b44b5143d48b",
-   "enUrl": "b7f54636975c3a66ee4d916024caefafe54f2f279291a6a301adbe21cd7debb7",
-   "krUrl": "04159acf0a94749197ad7dcacc36d213f0f4809eb371c0b55ace3be73f0c97f0"
+   "cnUrl": "f61a05c4aecff4cd7ff7470c9c7d2b065c5772f16e55f518c2bf995cae48efc8",
+   "jpUrl": "aff4e0e927109689266300772ff8620b7d2086b97467ed67c7cd6c9ddc494fb6",
+   "enUrl": "4b281591276fd33ed39ab164e0da8ce85f223f797925faf3e3a7418df0f76b41",
+   "krUrl": "bc88597816a144551d568c296b8d065bdcb9e7873e01c3070f0e1fd6c6ab9ca4"
   },
   {
    "id": 12,
    "title": "Sobre o Dan Heng",
    "text": "Tudo bem com ele. Acho que ele tem suas dúvidas... Mas agora é da Tripulação, e Himeko e eu não vamos deixar ninguém machucá-lo.",
    "unlockRequirement": "",
-   "cnUrl": "56c5d4a4d454da77581becf0a758891b7fa6fb6163b0e6a6de697dbecd918457",
-   "jpUrl": "5445df41114a11b621d05ac680c55615b8c44a2c3262a4516abc5ed495de663f",
-   "enUrl": "8b4a40b66f6ea1751fe960dd5b95e4b8ae6462629eb0c0ae92b4e7ee142b0b01",
-   "krUrl": "565e3d0c354e8bbca6b32565a251ac61c44fe9d27c1f98820212b0902a8a0c33"
+   "cnUrl": "60fac66ad86e146b192bf6a4fd44ceaee1561b7b56498ebdc33188815f72862a",
+   "jpUrl": "268417db98fcac76f9797b2c788c806bb44de1732e80d4cbd936a0ec101a1318",
+   "enUrl": "996bc39049c813e23a2738b9356c087a71825820b09bf3db92718bbc776d8c88",
+   "krUrl": "7409fdcbafd69c489b12848d1f75f90f2961f20972b8b7f7fcb0cc97b9d7f6d5"
   },
   {
    "id": 13,
    "title": "Sobre a Himeko",
    "text": "Himeko é o tipo de pessoa que... tem sua própria luz. Apesar de viajarmos há muitos anos na antiga rota do trem, dá para ver os sonhos de Himeko no olhar dela. É como se ela estivesse no trem desde o início, sempre em frente.",
    "unlockRequirement": "",
-   "cnUrl": "404a39ed8fdac9561fb320931c40a5c147bcb35069ce1061149ce5cf6e08de21",
-   "jpUrl": "4d70fa77007df776dea8de132240b6c49d62d3fb3adda2a14097dea537ed08b6",
-   "enUrl": "b96e0ca963f6c593711a58ff4d7342b986806aff8bb1b8b2b466c5e637d2958d",
-   "krUrl": "ba2b6f79bbd0c574e2dce0f2ec958fe38c70444e244d7aa78b2ed16b84fa5035"
+   "cnUrl": "7a7b0ee392924ae1366be4b929ae3b0842197ead08300708abde09b1ad6def9b",
+   "jpUrl": "f4efbefd845d402a4934aa27567ebf889e455d3b3a75a3b28ac9e97aa9772461",
+   "enUrl": "4a5fa1bf2ceb6d4642c5c9c640b23ee3dcbb24a193b3de6399f84cf09aba0552",
+   "krUrl": "f663d1d82b114545941c9888db075b0f8b4a4b33601c33a99d29009969048b58"
   },
   {
    "id": 14,
    "title": "Sobre o Pom-Pom",
    "text": "Pom-Pom é muito prestativo, mas eu não o irritaria se eu fosse você. A última pessoa que fez isso...",
    "unlockRequirement": "",
-   "cnUrl": "eda6e77429184497072bdd54b82b15b3b005e3c72486746e4b5b04b851486aa1",
-   "jpUrl": "f8f352dcd7384111d8d20806cf2e147fc0b822985662f23829c74521630d8429",
-   "enUrl": "14378f07fd75a60b6f841cb1962e7097c3fb88e264b68ebade50be74bd3ce12b",
-   "krUrl": "4e058f572f53d629239a7fa659f02ceb8d7d0947a30e768fa02caeb5392b7192"
+   "cnUrl": "8b66102d572a23d8a1a58feadd549a9b206d38c0b73ceb7ccfa15284c1301f86",
+   "jpUrl": "0d800d4ef142453a152cad0016e762464be461f5a05faf8b08a9226841b5b05e",
+   "enUrl": "2e83d6819db6bc3d668071bfb81aad0063fb7b7041cf5204521596b3d3abc07d",
+   "krUrl": "69af555df604d8073402631c9506113b64331b21c707ae9c97bfb00311428a29"
   },
   {
    "id": 15,
    "title": "Sobre o Dan Heng 2",
-   "text": "Existe uma citação que eu gosto muito e que eu gostaria de compartilhar com ele: \"O cosmos é incomparavelmente vasto, contendo um infinito número de possibilidades. O destino de um indivíduo não deve estar limitado a um único caminho consagrado pelo paraíso\".",
+   "text": "Existe uma citação que eu gosto muito e que eu gostaria de compartilhar com ele: \"A galáxia é incomparavelmente vasta, contendo um infinito número de possibilidades. O destino de um indivíduo não deve estar limitado a um único caminho consagrado pelo paraíso\".",
    "unlockRequirement": "",
-   "cnUrl": "3c503fa0ee2bc9007a7b147b8a5d6aac52bccac407a1c82fe9144e7bb9a44534",
-   "jpUrl": "94469c5890235e04d13f88e62759709d285f61276e630d028bd2188ff3ce4377",
-   "enUrl": "37a888dd9d75ffca2acdb9e5f6fdf4099283471fd71d7eb574f2ae42933c4f6a",
-   "krUrl": "e420af9ec792a50a908f3679b05cb3caaaa138d7074693537d93296a2a9c6a8b"
+   "cnUrl": "a6befedea42e9ac66fbbf97ddadce5cd9829303b1ea330c714e59294bb1d32fc",
+   "jpUrl": "bca654dd434b22a77b349264a9de23d1ef611d5767c97a08859490cff2ece64d",
+   "enUrl": "0f1c7f274be7e6980d5ea818ff5217a43f8de4cdb889c2e4e263ed38bda094c9",
+   "krUrl": "ad41ff51e3fa497898b021a1c6d27570bfc666bc508be2f167f43beb8d2dbb5a"
   },
   {
    "id": 16,
    "title": "Ativação de Eidolon",
    "text": "Novas aventuras, novos amigos... É ótimo, não?",
    "unlockRequirement": "",
-   "cnUrl": "43f9e3c66e3db984b6d96a0192ad425215ebe71500aab35889dbdad794974d9f",
-   "jpUrl": "1170a49eb9e21f119b61447a08d5b52f76f812213d3291f354ee0dd7ad355ae5",
-   "enUrl": "0b0664a1f35d169d7e4e4cd8bc3b0c062f25b7e1e81e2b0c3ad7f157597e1999",
-   "krUrl": "3e562bf378533028efc75165776996904a0e2f4ded79bf50992e2ba8351995ff"
+   "cnUrl": "a10707984cfe1de58cb9bfc5700b724b2675a08533909be576c65446ab45d390",
+   "jpUrl": "1dec8e36cf8f5c85418c7768ca22e3d6245ca26ca043f6a6e92d7a7e813b3660",
+   "enUrl": "eb18736449fbff19324a6ffc4353ed379af89e824e85f4890c8ff904a19dc653",
+   "krUrl": "f6c30f49fc7651efeddec41201c0a8d99f4de7eec8ee22e70b3ad4840333e8bd"
   },
   {
    "id": 17,
    "title": "Ascensão de Personagem",
    "text": "A paixão de ontem não é tudo que voltou...",
    "unlockRequirement": "",
-   "cnUrl": "622566bffe2a3c2132d069315708d611ccfcc7e5a2aecae8906b8fa81acff158",
-   "jpUrl": "b38cade661d38326c637d93fe9705686e9be7aa2d61390b102d8da898ff4f5d6",
-   "enUrl": "e340b3a174b3c61e63c870b846fc9bd9f6f0d1dd3c439ca5bbd60c7aa35881cf",
-   "krUrl": "3a9826fed4cb69e9311a2e65074ecd80db3ebe8a8a645144d0173d95220c26d0"
+   "cnUrl": "ffb2f98182d71f9c7bfbb1e91bae282273de0f22e23c7cd7b8cc9f013b12b014",
+   "jpUrl": "ed194c2d5131de550ad427d942f7602a08a0cd498a51fec1b6cd66cda182f054",
+   "enUrl": "e09ca63e56813e3add53512c163c4b32b744eb8168d2edcc093b452792456dc4",
+   "krUrl": "7bab1bc35a8af36e7addfcb8547180484df0fe49850d0a8c15e812c3a117ae37"
   },
   {
    "id": 18,
    "title": "Nível Máximo Alcançado",
    "text": "No imenso mar de estrelas, nós também deixaremos nossa marca.",
    "unlockRequirement": "",
-   "cnUrl": "3aed0c4be2c8cfaa00e407c756491e62b6fec09cd989cca1e7f6a5aab3e21066",
-   "jpUrl": "e419893cdbfbbac094826423006781e226bf18331b94f5efaeded94523eb4a92",
-   "enUrl": "d451ed325362ecb33253d340fa345963177f35f546236dd53623bb770b47d9b3",
-   "krUrl": "517256bd972c6f725a83bd05dc934316c50c10a4da551b78bbb029a9cbfe3dbb"
+   "cnUrl": "45d42a886d220319494fbecd54b6922abbce9521e1795d6a89f76109f35ac803",
+   "jpUrl": "962431eb3f863abf0977c34ecdbcea4ea67c38d284101518cbdb5ed106635bc3",
+   "enUrl": "ed94e25c5a80d8585b4fdf4e4e77fa364dd7b7bb9c8eaed448d2701c76daedaf",
+   "krUrl": "d7937f3039e0ddace90ea567b4a3645f7b4b52f036e522f32dd0f7dd9d6e0583"
   },
   {
    "id": 19,
    "title": "Ativação de Rastro",
    "text": "Após passar tanto tempo com o pessoal, sinto que estou começando a ficar mais novo.",
    "unlockRequirement": "",
-   "cnUrl": "297ab260b24b3033476fa3d7bb764df442e2ff1954e0a07cf30a09ba5a74cc55",
-   "jpUrl": "20a74b16a6c359558b11fce203f3946a74afb3bcd5e2d99ce766d9f6c8ef18b0",
-   "enUrl": "a3da5ae0761566bc7bde07fc0ca1f613e1a1964606763cd832c58e346d020850",
-   "krUrl": "2d777975e085dea468e381707d2aeebc3398644cac42771db13c23be52c1983b"
+   "cnUrl": "c3375e48300f6ce122fbfc58d651caa47e8cebc48016a1bc9f8ce0f2c01fc9f7",
+   "jpUrl": "980324f88f655bee735a97ee768b45003ef82d7696b58b13cec5110fe48fd2e9",
+   "enUrl": "9c78967ef425d9b35a3d0a8d56cbd0d4a244a93b1eec4f3b11af7590dd9c94bd",
+   "krUrl": "a5e93d2c819d88ca7e262e738b236fcae65a333f93ce024850f5d01f3d1d0a33"
   },
   {
    "id": 20,
    "title": "Entrou na Equipe com Desbravador/Desbravadora",
    "text": "Como protagonista da sua própria história, cabe a você superar e seguir em frente.",
    "unlockRequirement": "",
-   "cnUrl": "c4d90292a0012332b431e5d1b133b230be0564b0787664ad5b59b5cac7499800",
-   "jpUrl": "af4fb4e4fe7b78c2a3646403b916bfde57458ad506ca84876e1cf94ffc6a8496",
-   "enUrl": "0ccefcf62b5e5b48167949f17fb30b00416665add829a57c2a5afabae99b85b5",
-   "krUrl": "b1fbe3e75829c248abf414b50b4daf538200b2f9d59c0f7ba0a96477894e4829"
+   "cnUrl": "c78c3d04381d6f7f6ef17a526132b8ec52eab3091c99d6420920fcc2829207bd",
+   "jpUrl": "61b8b382c1647c7be27d72a17c60fd12ce07236eeeb9c77ccbb8f8786f30258e",
+   "enUrl": "bc5728b422a37cd407cc3ca2fb24f6a80b7f0313518ff0f86aec075d20e9461d",
+   "krUrl": "8c8e2080c9d27fd021fc7f1862450b0f0948e67b7640c6ec4a9cb393759990d5"
   },
   {
    "id": 21,
    "title": "Entrou na Equipe com Himeko",
    "text": "Eu não costumo ter a chance de lutar ao seu lado, Himeko. Está na hora de mostrar a todo mundo o que podemos fazer.",
    "unlockRequirement": "",
-   "cnUrl": "87526b56c39905b5f8e7e61545852ce83681931b74242362a559742dd1177117",
-   "jpUrl": "fa859218b976c0b0665a1da04d7b9ed84e79166dca79544ae8b706110a6571be",
-   "enUrl": "33f9e057caca8e087375e176b51abe7cdf9679b0fb7ecd648ce2d950d7ccb19b",
-   "krUrl": "8bad33bbd77220858e06957185428b6c5020a6b9759dd051a72cbc61d7ad5376"
+   "cnUrl": "4661747f6974fbf890bf140dea50b45865769fc37022bac44ab0993b02389560",
+   "jpUrl": "13402717069f44437a632e4f7c9b29393d0cde70d69c51150137ede8e1eedec1",
+   "enUrl": "0d958e531a41169e87e3b3971f9ebc483db0a495cd63088e9f2f070d9992af22",
+   "krUrl": "ae5e303b14f70484e8ebfb3f7f6ca2afa9c7180e2085916408aec008032173a5"
   },
   {
    "id": 22,
    "title": "Entrou na Equipe com Dan Heng",
    "text": "Ter você aqui me dá paz de espírito, Dan Heng. Ainda assim, é melhor você não se esforçar demais.",
    "unlockRequirement": "",
-   "cnUrl": "df8e7ea91ce95664ac394878a75aa9b8322d8627f3c813e14cdeafff56e59288",
-   "jpUrl": "438544fd148dd2290fd5966a00e35a02e521cc34e9e8a0ac33a717a7a849bbc5",
-   "enUrl": "145be21b3255f6bbc19ef9b2f9c2fca4f3d63217377d29ba4e163f2d84811dad",
-   "krUrl": "8651c406844fb970f96ecb7b7ce924d674bf07b66e047e423795a91e6763125b"
+   "cnUrl": "0b439b4df40669fbbc58da56f4cbbdf9b4504fa967ed20f3fa1892d0e21e8b11",
+   "jpUrl": "e7ebcf6fe8ccbd011c8488d2a1d6d15344e0f6c650351008e23d52a5e0c54932",
+   "enUrl": "86eab12703657ec49e8ae439056d25ca8fe8b6a165425a292a20e6773a525bcc",
+   "krUrl": "3a392dcac476c283bf1225a8ae1c17b2f35821f1f4aafcfdc1540c01bb540ca8"
   },
   {
    "id": 23,
    "title": "Entrou na Equipe com Dan Heng - Embebidor Lunae",
    "text": "Ter você aqui me dá paz de espírito, Dan Heng. Ainda assim... vou parar de incomodar.",
    "unlockRequirement": "",
-   "cnUrl": "a9d5d20a9d903d1fdca7fb69e17aa38aa3cdaaee59851a95b5f8fb68cf1bfa4c",
-   "jpUrl": "386ead38f5e2ccc02e9a978dd60a3b2ac23df2024133f2207c500a40bbc9b441",
-   "enUrl": "3685091d1bb87d75203021781869a153574e929d32e6ed488ced4ac4bcf530ff",
-   "krUrl": "0e2bbcb9c6c77942244caa09a0ff4d8a0e871a5e1afe9d0de611687c6a8eda3d"
+   "cnUrl": "c8ea33c0f97adb311e312ce9e8f06b941e2a1ddb0303d0e190a45df44fca9c06",
+   "jpUrl": "bd836fafcab99c008ead2978c3b052d369c494bbab0a4da9ac9df78bb3b03449",
+   "enUrl": "530505b0389d8b0005ad66e891af8786b2f801015ed36d2bb4c445dbaedde433",
+   "krUrl": "109caf2579c119fbbf7ca2044b78db00530ecaeb8bbcbbd86b93a39d1494ddb7"
   },
   {
    "id": 24,
    "title": "Entrou na Equipe com 7 de Março",
    "text": "Energia jovem é algo ótimo... mas eu apreciaria um aviso antes de você fazer alguma coisa, Março.",
    "unlockRequirement": "",
-   "cnUrl": "d4ea612cc217f556ab91c33d2b19fd31247f6592d710c6d6739c6a38432be1bf",
-   "jpUrl": "4b66d70a1a899daeffe14d2629118af98777a0d8f9707ec36237fc5b5d4bd0ff",
-   "enUrl": "5109e4dfb0714fc6b69fc3fc1d00b672f36ef73f130e72609d186f8137227168",
-   "krUrl": "dc38de95ceb219319ad6978f5e56d43c0ea87f90af6f0bc44b21432f9f14158a"
+   "cnUrl": "d22477f4595cc441a5cef8be9ba954a70a7ffb578109c64433bf9eb69f5e20e2",
+   "jpUrl": "971b0253aa7c402fcaa3a7bd20491c94df6fc2eb44ba31697176d5457e12fb14",
+   "enUrl": "cc8bcf51459804015a2b409876957a7ffffae0f69face6a85332b084bbbe48df",
+   "krUrl": "7df0321d603900451049e46ea5040aeff25251da2f5d48aa426f5ddbec244c42"
   },
   {
    "id": 51,
    "title": "Início da Batalha: Quebra de Fraqueza",
    "text": "Parece que você precisa experimentar o que é dureza na vida.",
    "unlockRequirement": "",
-   "cnUrl": "d666122a43e08abbbf4e027e1a5626505edee3bb978ec3da21b9afeaa4cbcf8f",
-   "jpUrl": "f50229ab3de686125625f55997957efd5dd810129a5ca737bd800ef0ad874f20",
-   "enUrl": "1b24dcc036107d99b443bc799bffc441175c800c764e8b85f9660dd55d0ce7f3",
-   "krUrl": "eb53d61e595b4ed55fde9dc266920c4ed8760152e3bc5828560a18ee87c23bcb"
+   "cnUrl": "0642305aa9fdfaa84ffc965cb586ca0cfb447c0363f839e3c1be95b96fc8ed48",
+   "jpUrl": "8770e194f700e1482a82dc48f7891b273277e0f74551197b830314ef0c9fcb67",
+   "enUrl": "106e2fa0b58510585fd0237eb7a324c1a31a50f39077b9f8ba2f712abde2a8c5",
+   "krUrl": "0c7944ee18f0ede65f769cc6f102e9f96bbabcf1dde7693e64cd5c7dd2bf5119"
   },
   {
    "id": 52,
    "title": "Início da Batalha: Alerta de Perigo",
    "text": "Mantenha a calma.",
    "unlockRequirement": "",
-   "cnUrl": "b6a1756ffde111871834ce64754bf2799bd586bd2b0a551bd6bffc7c5e4c146a",
-   "jpUrl": "48933db2f1c00069bcdad790cf93602e550a0900ff345655f4a0067336d7374f",
-   "enUrl": "10d851ad4d84c76ce48cc67e2776ae1c2791e0669cc9368c6a44e123cdec4c84",
-   "krUrl": "00885cb12229c035bd861d4cfb585f0b0e0ce86cecf08ec6954948a98f22b04a"
+   "cnUrl": "c855b1bc86717a49fd99734e03c3b464507acf98da61e159bb623dc7ba08b9b5",
+   "jpUrl": "f44532fbbafad6e11c65ef6f1cb3007e0b8918f06a78562a7043119be0433ee7",
+   "enUrl": "23f4e250159db1b3ff8c0db1b19aae91b12b41122f802d9be9ded0f400004311",
+   "krUrl": "f6574d1cd93664ec602c85b823077aee4e42cbef402bcb978a0f6961d5f29fa4"
   },
   {
    "id": 53,
    "title": "Começo de Rodada - 1",
    "text": "Deixe o resto comigo.",
    "unlockRequirement": "",
-   "cnUrl": "6f27a209f900c41cdac592febc4485fd58eea93dc86cdeb21579849abe565168",
-   "jpUrl": "f667377b5cf8897101c0c31b0d97599b2c1c5775d017d905e729b2222c3595ab",
-   "enUrl": "8829272b78edb1547d48b4c78b8f622b7a6df34cf5905da045d67984b6ed526c",
-   "krUrl": "ca1544335140129ca437b74a1aa367706d20aa38d3a631d4604875225fa73d20"
+   "cnUrl": "8decc8a2c18fbe6bfef87e2bff08059965762655c9ecfbc5f9f2059add1bb2af",
+   "jpUrl": "4f4cf63ffa83a5569bf1a33765ca1b060d6e668cacc4dd7de0348246ed0bd276",
+   "enUrl": "eae5fb61955e75fd5fc489f71a538f8750e8001a19a9d5d5af011be901259292",
+   "krUrl": "8c221ea79252cc14637afdd89556c3c1f700149e05cd41979974f4bb7368ceb0"
   },
   {
    "id": 54,
    "title": "Começo de Rodada - 2",
    "text": "Você ainda pode recuar.",
    "unlockRequirement": "",
-   "cnUrl": "cf490f601b9b9255532ac9a47fa6c1ec2779a224df9565756cc3f66a50c1a218",
-   "jpUrl": "322f390e0f60f93d53947267142ce13244a64fbee1df82fdc0b5166cf2ff27d7",
-   "enUrl": "0085be382f953a6e3756c9b4d20c0a034867ca0e52e85484f7e989c748ba6842",
-   "krUrl": "e0623c3ccb38f6c5e98e18e58ee0d5124c22f177f97400737d9b438e5d8e54af"
+   "cnUrl": "8efb8df88df29f54d969fd353146925761f65b6bd8a1c7b2f24dd0a70a04a426",
+   "jpUrl": "4f9c6495ba4827129249776b25fd745bf2b62a0dbe300e25fcaa409e53a4eb59",
+   "enUrl": "732a013fd838c59fe87983cb3ed62a6fda8f3eebf01c9d3032ce69b92a57a20f",
+   "krUrl": "9f3ab5f17369385a831f547c379630cb912f98779f4d83494b66e5263de253e6"
   },
   {
    "id": 55,
    "title": "Rodada Ociosa",
    "text": "Melhor fazer uma escolha.",
    "unlockRequirement": "",
-   "cnUrl": "92d69838318c6493a1fa698f906490291a12d65015ab24ab87d87372a2474135",
-   "jpUrl": "a14a24e7bcc53cbf01ae2cccf9d9dd25f04629588cb9e90336537238ad5db24c",
-   "enUrl": "7789b7f545c785d1c6e0fd98f312b8208b44921cb30e417368fa9c59398eb0e4",
-   "krUrl": "1510251f54c8ed5066b2df4ddf1010dd711780390dea954816c70fef5529a502"
+   "cnUrl": "4d33bf3b5f6a8ea0eb34671b1ca01faaf4d83d1915f0a7f46f35b33a6f5645f4",
+   "jpUrl": "33668ae3a5ff397099a78578a2cc30134ea764678391eda74fb9c3e153e50960",
+   "enUrl": "a4eb5675c4435c4931ec8edcffb28cb4732cff9b9ceb14ee65c3f9555207477a",
+   "krUrl": "2ef4352890bbd868087afb76acc3cf9693daa15da9074baa222fb1ee9ab58bf7"
   },
   {
    "id": 56,
    "title": "ATQ Básico",
    "text": "Abaixe-se!",
    "unlockRequirement": "",
-   "cnUrl": "02bba673ddb7f2725a491081358d89104ada37354adb4ed5e33cba6a6b0dca85",
-   "jpUrl": "9fea0b7617ee82bd8657571ae910bb24c626582230606f1a9dbcb91ea51bbb2b",
-   "enUrl": "8b69bd8f4472b9c810b4194a29e774bebedce4b9353d56875f61fb22bdd98115",
-   "krUrl": "ca85ddbc58de1dba157708510681c6d22233dbab01ec0690aee9d7b2a8daf06c"
+   "cnUrl": "c10c0ccb6ac6be945fcc9109c4bde051c47898ac4e83086d410f7a25df8669ed",
+   "jpUrl": "b1891704cfaace104eb8a8bb1736a4fdbcf7ae7eda4fac32675e790ea0d6ab65",
+   "enUrl": "a76b60690787f6ac1cfed9cd74ffba927e791717262287d25c43e4c994295b95",
+   "krUrl": "3536a22214d2399810116c934269f23524ccde0b8eb5566bcbeeacdfd9ba17ce"
   },
   {
    "id": 57,
    "title": "Perícia - 1",
    "text": "Relaxe seu corpo e sua mente.",
    "unlockRequirement": "",
-   "cnUrl": "5f8d51123a01cda6b93b79514cef0acfb9bf444e2b01d9f05ed69bbe87a13095",
-   "jpUrl": "4337d93f8e72a574a733b93c833ac5aafed236b94f6554580140ca3ddb74bc9b",
-   "enUrl": "21b7d752da4210abea21e5fdded67e01ec109ab59bd11a2b793872ca6367877b",
-   "krUrl": "e7902eb42eebd83de7843fd366aee12a7678db00c3131cbd1282f59632805065"
+   "cnUrl": "9dfe32abf7182713aaf05ccdec57ddefd6e9d90c304dc1bb2fe044f7b6da3512",
+   "jpUrl": "fa1eb04656cc2a1c4980227c414c13e6ad385da4633c4ad1a46eff963f75cd5c",
+   "enUrl": "968c2226bef01b744dfb401059fcc72c22da64acc1c7e566984764fcb04d42be",
+   "krUrl": "d54ffbd621247a1bcc34d8188ea8f9fc78be174a33cdc7481e73a4260514217d"
   },
   {
    "id": 58,
    "title": "Perícia - 2",
    "text": "Não vou pegar leve com você!",
    "unlockRequirement": "",
-   "cnUrl": "35aeb8b71d8d07857c50b7c089d1eafb762753c014e1858c16d5a55f5343f2e3",
-   "jpUrl": "62602c2f00aff57a73a16df99a624e956a376216a39e494b7767494f16b9462f",
-   "enUrl": "9b3f9ceaabc1a7bf8a66e346dc661d4cd906bf31b7fd9cce7059bcef726bebe0",
-   "krUrl": "1497bd98de4ae1c890b900c3c4e0106b811cd374bf2097a74a032cce1870636b"
+   "cnUrl": "e75f2be3af6a50d64206c3d757c3d89b4cb0971c0231c4cb5c1f7f519ac9f7b8",
+   "jpUrl": "cb8eb9fbd9cbbf1491cd3de302f205df2b5d3d7beff558526384be3f5e2efcb3",
+   "enUrl": "7165ec565b6ce6f65f93ce78042c8c56437d2ab627b1174c563e36a8d1fcd38b",
+   "krUrl": "5d2627d21cec917c0d995f4b31ebb1379291f483f8d1da608d51781c0e1502ef"
   },
   {
    "id": 59,
    "title": "Ao Receber um Ataque Leve",
    "text": "Eu estou bem.",
    "unlockRequirement": "",
-   "cnUrl": "42768873fa1c15d89107d06d5b03e3ba01b48026f342f453694bc8c0b4f8d557",
-   "jpUrl": "f38e86a0820f0fda2d3c815d32d744c717266ea724cae007bb6404475aaebf6b",
-   "enUrl": "3698c5d175561a112e772418a3cea19556720e09952dae46d8e0218b6eb76e94",
-   "krUrl": "519ddf789e7013db1c7ca6760593093f589c672d56305af6531642fa79a40f35"
+   "cnUrl": "9cb3274ef3f1fa3c8d20330b65cb426f06c6b0f83c3a666e8061292bcffddd79",
+   "jpUrl": "988c696b6ce2558da508c6fbeea1256ab6b42944cf8af6e0f4c1605789325497",
+   "enUrl": "c9e09f1f8dc1f965429dc2da15f100088db21be9db9c68c7278a1cb84c360f70",
+   "krUrl": "dab65dc51c335bd5f5fde5fcf63bbd30829c4896579a2103f33f044995886cca"
   },
   {
    "id": 60,
    "title": "Ao Receber um Ataque Pesado",
    "text": "Isso não vai me parar...",
    "unlockRequirement": "",
-   "cnUrl": "a31a3924a7b12fe76229ca3f4f7eb8ce80b1b7e27047507047d949c954f780b7",
-   "jpUrl": "bd7f65d5486359d15ff98ae51c405449daafdb7e44375cf542241c64662b6335",
-   "enUrl": "c725fded28309ac79612b7b3299f69cd310ad5e6dff80969b3c149ad4f8a485a",
-   "krUrl": "fbc92d62f779857d8ed03937231522fe68e4eef53aa9ee6072f47d819870e169"
+   "cnUrl": "a6c56c83f0f6b0992868ab7bbaa89af7c2759ae9843f6974cf0ac3a93e859aea",
+   "jpUrl": "3fa399344a884950cf8338c5b75d225ac4b2de379c92ad14d1218c26f11a39d4",
+   "enUrl": "e3027642a1f3fc113c9072d29a3c962a1d65a414d2b18bd61a69e0769f0bde17",
+   "krUrl": "12c646ab35e195b15ccb4a6fe32bd1fd7f8bce3b03053578869a2ed843c28d6e"
   },
   {
    "id": 61,
    "title": "Perícia Suprema: Ativar",
    "text": "Você não faz ideia do fardo por trás deste poder.",
    "unlockRequirement": "",
-   "cnUrl": "c5d2bb0e3c9774155f90a603668671526d6db07e145354250d5ce1d7736c9cb5",
-   "jpUrl": "2dfd2bddb1edf5432e7792139bf7e6717187821c96af6be1178b2c7ea05a977e",
-   "enUrl": "33e6bfbc897fc126dd1050ea53c8b244de6dcb2c78a174f211ecac2df2b5fee0",
-   "krUrl": "ac39a60fa3874b2fa330a6e49effed3e1426e4a078a717aa08018fd189e33306"
+   "cnUrl": "0db7f46859c84fd863f8660171c23c228a8ba06cc0206f725f0003e175904252",
+   "jpUrl": "30d9e15d5267cef90cb897d0624f437d0afe22577793014c91607f77e991c3c9",
+   "enUrl": "abdd07554b7f1c10989a00f8f0092fb217ee755622c84e2041781eb4dd5849a0",
+   "krUrl": "cb73e0ca9939fd739b994147016bc938ad950fef658fd02fcb6fd0c3c9a6234e"
   },
   {
    "id": 62,
    "title": "Perícia Suprema: Liberar",
    "text": "Testemunhe as estrelas despedaçarem diante de você... Sobreviva ou pereça, não há outra escolha.",
    "unlockRequirement": "",
-   "cnUrl": "db8bb4d61a3ace38bbdff06c159a166c2b76403fff34adf498b8d13badc34170",
-   "jpUrl": "49282756130f50b55438ba55e45ca8bc0b3a5010df7642253fca134cb57cbcf0",
-   "enUrl": "492275d6f79170c6a8012e4c0d4507faed01a78b7bcc83bfe871797622543ec2",
-   "krUrl": "60191a5bde09a46b770683dea01e3ae958aa5a6c08529e816bc21193220b7b2a"
+   "cnUrl": "1077644ae2a159380ee90016a1575af2313032bc9bf20fb91eb99154427a3622",
+   "jpUrl": "bb693e066cd72f22273d6bffb7951ce5533c9374e7219b12f04582129a7d5467",
+   "enUrl": "a7414600b4c130a7332c8c7337fe704ba765691b4f53816e28e52b1ecac1955e",
+   "krUrl": "593a4d068ac010408fe6a1dfabf8c051c89d4d4993c4c45a275809208036c679"
   },
   {
    "id": 63,
    "title": "Ao Ficar Fora de Combate",
    "text": "Eu deixo o resto... nas suas mãos...",
    "unlockRequirement": "",
-   "cnUrl": "dc592491cf2ea116725268b3570d1e275fc6085c23fcec6a1264494db6bbdfd1",
-   "jpUrl": "85c05f7a2f83e12f1b41f1b06db39f0d5cacd1f6b4471a0e25edadaffb3a6ea5",
-   "enUrl": "1c4fc44fd68c3a7afafc5c82bfd9692e3c1cf2b868fbe8046ed11e22a54cd21d",
-   "krUrl": "dc1126730053aca82c674708ac21e46652fb574d5882a0791365cf4e0728384e"
+   "cnUrl": "2d2a8ccffb2437bbf8c1dc026da00b91cb168c6cab043f68d6dfb0c9bb468202",
+   "jpUrl": "e5c5155205afaf10ef2e1f8e518d831eea510e925b12eda923f52d34c08e7fc9",
+   "enUrl": "1c8ade16ae093e5c0e04275925917301c64f91643048e127f6456e9accff288b",
+   "krUrl": "915dbcdb2e5fe6ad4e974cb9d2f3e507f8153a6e880dc0ce8290fb9df80d5747"
   },
   {
    "id": 64,
    "title": "Ao Voltar à Batalha",
    "text": "Não posso relaxar agora.",
    "unlockRequirement": "",
-   "cnUrl": "0c0f2355041b94c081eff93cc3e1af83f8cdd1388ba75c92e6590ea0f95b93cc",
-   "jpUrl": "62ca01cab6c5a26d6332860ab1628e3f8b76f967b1f02c1dc708d590074c389b",
-   "enUrl": "497620637525dbd5d8f7ac820d723ed2b56d1ded5502d8ccc12c99d777fe2a47",
-   "krUrl": "ef1a44b05a7c756ec64c67f30a1e9b0c732f52a89ef37ffe39e326b5f208c5ee"
+   "cnUrl": "f72053c554d38e81d0e72660f78559a98f328be959d5e73efb31426d78120f59",
+   "jpUrl": "9be330a5354478ebad68f5772ccff292457df9b3a1a9fed133c99308e061238a",
+   "enUrl": "35222917b5d83696c6a24c56d83779fae15a459c443393c97d82adc145b18d4e",
+   "krUrl": "ca9540ba61184c49733e2ad9a404868e8ed23bf3d7a316ef4dbdd8ca75895f32"
   },
   {
    "id": 65,
    "title": "Ao Recuperar PV",
    "text": "Tratamento providencial.",
    "unlockRequirement": "",
-   "cnUrl": "b7a1ce49fa4f2086630f7e594666af28a28517fa82334f02cb9160735418677b",
-   "jpUrl": "9ff5cca11407109965996f55bdc7c79845f5be81ba0dc70ab5bf01a75b9fa7f7",
-   "enUrl": "8008bc3f5892a9fcf6bc61282dd53930cef9955136ea2a0908239d2fa25ac335",
-   "krUrl": "e65216d7ba9fe838e71c39caf6b46ca8fcf0b7be57f9d6a4f57a20883fb185b6"
+   "cnUrl": "340cfa9381ea38762a0e208e0f4e224758cbf3b0d688f0230ce940d22b3d082e",
+   "jpUrl": "98b0e37e6131dcfb8fb60f30d922743ff0f7aa8e68b0617b7eb753eace659fe1",
+   "enUrl": "5ddd51aa424e5ba3d5820c3c84611a88426c43aedfe0a71c5109a532687d9de1",
+   "krUrl": "8d4531eaed0f55923bf3671fa05eae79c588532959f021b7b0524d6dbac0f6a9"
   },
   {
    "id": 66,
    "title": "Técnica",
    "text": "Fique aí!",
    "unlockRequirement": "",
-   "cnUrl": "ef48e36ca72b5d464340e0dd9cfac8c3be744ba9fa8806507eaf4633fc269928",
-   "jpUrl": "dde88948c33e9f38b16c0f9ca4e150c0d9b65751e9e712feb5cab848d27182ce",
-   "enUrl": "161ca48e6bf08a34a56be85ef2fca98b20fbc8f8b173773b07f453d9fb462dbc",
-   "krUrl": "c47db05a793511c13fa95a6436110efe3373be29016453f10ffed801ed378afe"
+   "cnUrl": "9bdfc757987cfdd3c24c8d94095c82a401ecb7ff7029f3c749803706d85cbeda",
+   "jpUrl": "4df7d49e90f9f3e8042f9361b6823f5a26d45ec24c6efa9c5fe26a232332ddd4",
+   "enUrl": "1d1b9432e16c221e70caa249b5677689a9d965eab7f7a4c83922ba6f8967a5c1",
+   "krUrl": "1c08d07f0f5a826b819cdfa29ec28aebeaf12a4ba7c803d7697d00d14df680d4"
   },
   {
    "id": 67,
    "title": "Ao Vencer uma Batalha",
    "text": "A vastidão da galáxia é incomparável.",
    "unlockRequirement": "",
-   "cnUrl": "67e5512e529f234292834ac1af46e00ba3a8c914a7f0caa0d33493dc38dd9e41",
-   "jpUrl": "ddc884f199fb2719aea3fe30fc04f8e76b5e5e7d84183aed7e11cee57a7e81b0",
-   "enUrl": "49e4075a0655443232404bf112e1cd1698bc2312a7f82b8be6395f7dd6b81e1e",
-   "krUrl": "7368dbf6a2775e0819d88ba822136eeaa1718594d9ac0743e18ff5abacb1d1e9"
+   "cnUrl": "520733958312640d7bcf7fcb16d27d0289639a30f30d64d8193a4dd88f5db76c",
+   "jpUrl": "125f3a4c4d43e11affdec7cffa0ad5c8568a86276460ec65bdb8a02c0805b41e",
+   "enUrl": "9e3f22bd4132e9ac0cedb6d53f823e65625947306bf5f797480d202e076fc888",
+   "krUrl": "125fe2df6f6af0e42fc33e59efbcc0d4035b0e8d51fdeee01318fce30db76100"
   },
   {
    "id": 68,
    "title": "Abrindo Tesouro - 1",
    "text": "Interessante.",
    "unlockRequirement": "",
-   "cnUrl": "b2d20939beccc396c2a13f4e5ad4dca661a6eb1e4ed1818c041965f05e5da151",
-   "jpUrl": "1cfc81851f3279a735136c23429a744ea1122fe9ca5c662459600bc925e9172f",
-   "enUrl": "5bd06ae8a70318e3f6fb1ca3c1feb4c9e62ea30f52887f9542c3b1e73551e83c",
-   "krUrl": "1925c2326bad640359703a17be5f92a3a1fdf3cadb3771c868c44b3f4fa76746"
+   "cnUrl": "6a90bf57538ada6b19f290f10fe2012deed918ed6542f92606c22b42c8098637",
+   "jpUrl": "cf860876605c550a36436746fc00d1c4cd42ed7af8f705d3db2f0b9f84a8436e",
+   "enUrl": "cdcbbde35cc3d507188d02c1ba739c9528b56368a35b6d4c1c6842bd90a74c68",
+   "krUrl": "1271a0e8493812a00884b0e639bd5db2837f7911c11785a065e6a802152addf8"
   },
   {
    "id": 72,
    "title": "Abrindo Tesouro - 2",
    "text": "Isso definitivamente será útil.",
    "unlockRequirement": "",
-   "cnUrl": "ff25df30f36058cb592cce42c8b7b820ef4a9b4ad5f5c2f5e92f18044efdf80b",
-   "jpUrl": "19ecd235e7e826313c50de68e4d533b7941831946aaa06f2e1e1c445df19c22d",
-   "enUrl": "8a59f27a2f3fecdbda8022aad971d73edb2ee75fec769dc373efefdd7ced34f8",
-   "krUrl": "b91d37e4923dac04a807efddf73ece8c21890c8fbec93381a5de286c16b5343e"
+   "cnUrl": "d7283ca531a2ae79fe9c998a3f83462a6aef63e333f094f4c33b0880219b4753",
+   "jpUrl": "74afc7f8635aed3e3c0b2b96ba26b23df66592f6bc5ff6be7fc15495432c8847",
+   "enUrl": "7522298de8bd7ea92f1c6cbf439b414dd63c2b574b019d5fb3b245a2a7f44d02",
+   "krUrl": "e76665f0d575a2a9f456139665e4286901d71bc1f9164fc1df6c351777e9f52a"
   },
   {
    "id": 73,
    "title": "Abrindo Tesouro Precioso",
    "text": "Não se vê essas coisas todo dia...",
    "unlockRequirement": "",
-   "cnUrl": "f234b2624ce0b233eb4bb00e58c20ecf37e72c6afabf6cfc25c16f9005a02355",
-   "jpUrl": "bbd86c5001a80aee496d68469f0f9dddbfa3b51d8f974d5e6895eaeed3e9fd43",
-   "enUrl": "1a6e7f91962a711d8c555f13c8d15c69bc3d381ad6507d8c6b7ec800462c3666",
-   "krUrl": "b5c2ebe3488b959f27c74720596960746090becb0187a4f13df8b66dfc31ad44"
+   "cnUrl": "653c143ed852dcaeff90ae1d351e39d88bcc48bc0257dea9fc954cef7840cba7",
+   "jpUrl": "a828a44ca7cd9f78f03c8c1ab8b24c3e56774ed671d09356c3e95c8e5ffd023e",
+   "enUrl": "40e7b8dee7600bc0dc8f253d0be49c4ae29250bd70f49e029d075b7334df2baa",
+   "krUrl": "fa46cf45406d2728d41d413a41247f3072a9564219bb47a89458d9a03634eab5"
   },
   {
    "id": 69,
    "title": "Enigma Solucionado - 1",
    "text": "Bem pensado.",
    "unlockRequirement": "",
-   "cnUrl": "32377d4cb5ed1e9e4b17a7fc54f6a57844328bd5e63c185bda2134db9922cfe5",
-   "jpUrl": "d5d5c6b73e5fb30d7d55cfaa690367f6730ac67c8f2836fbe96a1a4fa7d2a26a",
-   "enUrl": "4b4836888a0fbbe459f6cbe904c8df8fdac9b0925e3013e1a7415b3f187bed08",
-   "krUrl": "436507d9623ca69bcd26bd4a95d621309a8b13503878fa6b728306d12b25106d"
+   "cnUrl": "66fa75d8ed8b74d9aa731ffdf969063fc5cf703c84160384e06bb9585b696a51",
+   "jpUrl": "8cb51a25c05ee2b52391b264b1ddff53dff332cbf7076cf330a346d2e8f926b7",
+   "enUrl": "3315b9bd9fe8eb7d5b15bc29d24dfacea19394e6f6e30c7c3b08ec6236f3c512",
+   "krUrl": "ee348657f69c8bffdbded30b401200ab8ff3d0f310628e69b0b20a21b614b809"
   },
   {
    "id": 74,
    "title": "Enigma Solucionado - 2",
    "text": "Isso sim é talento.",
    "unlockRequirement": "",
-   "cnUrl": "77e00d21fdb5484115373aa5f2be02ae900c91e87b2cf3ff9e4ed5014a0778d4",
-   "jpUrl": "cd54f14bd068cb84a4a7ccf0758709598f3f648a1ad62660da69757f6db3136c",
-   "enUrl": "aeb28136f9ce1c314f99a436abb99b5931d95248775558a1717bb05a414adb34",
-   "krUrl": "bd3bf00a7b65c4c35f26187ee5ffe18279002b519ae35b8b517889783dd1bff0"
+   "cnUrl": "c197af864cb4b8710035005fad1c8b00e7ca997a723b90fd1c7230bd26e9f2ad",
+   "jpUrl": "837003089c66d28794dedfa083459bce5d86ba24660c96664bda2baa298fd4b7",
+   "enUrl": "192c240cf275b667cd4b369e6949d12477ba2c839670261bbe444ad57c5d9ef0",
+   "krUrl": "77082111fd4a27dde8894cc7515dd9b159883145da9cb0a2ab9533473e72368d"
   },
   {
    "id": 70,
    "title": "Alvo Inimigo Encontrado",
    "text": "Inimigo à frente... Tentar não custa nada.",
    "unlockRequirement": "",
-   "cnUrl": "ee3f184b25c0d289922cb4ada5b0e710b83c32af87e80ed0bcd9fb23ea2f70ff",
-   "jpUrl": "04d4bb6885328ae28a50b32e1b42aa8516c5b5bcabb6d7ea814c54109cd73666",
-   "enUrl": "83585a9ecd63c4732fb09ef2494c8969970452649df3cb4a256b67b9843df27e",
-   "krUrl": "2e11de2d4a1f8d476956e2c2bd1c090c63e3143548ccd7ac0c2849c3cbd048ea"
+   "cnUrl": "76dca37b75cd9277c8b71fae7af9e6dcd7b6509e043909812c5d21004d65f71d",
+   "jpUrl": "c6db8af7353b4fce6f1f49ece236e2f3833f0cfe5d21db128a8f8815669bff87",
+   "enUrl": "2e4db96164ab4d4488bea1a6a0832eaf40acf5ca631d12f7fb097832a99e6567",
+   "krUrl": "f8a4004be141630da8543141982d721580a5c65087e758a1d65f853bee88994c"
   },
   {
    "id": 71,
    "title": "Voltando à Cidade",
    "text": "Próxima parada...? Você é quem decide.",
    "unlockRequirement": "",
-   "cnUrl": "b66e4611015a801685c991fbe83f93546965fb515ce142ed3712edd209ba9cb0",
-   "jpUrl": "a6595c1f14ef620773cc9d4fee5ed6fc3e26d087a30f1c90b877cf7e2b0638ad",
-   "enUrl": "d1fb46a0fb1ac8195f7d209d911e0f29e9ce455439dbbb529b0802991b8690aa",
-   "krUrl": "fabf40347d383c3b9cfe6d25d3410e2f15c85e213b2a8a2a04b4f8ad0814be35"
+   "cnUrl": "62c340538aa398e1d567edd040c1083c306193eef276656d15d698ccd61795c1",
+   "jpUrl": "ed0380c427733e276e99e5257183af69d3afb3a853ca25bf04c6d370903eec12",
+   "enUrl": "534bec05792c9ce5db58ecd33d6b632f984114541275be39bc55552daaef9b9a",
+   "krUrl": "56c20fbce4a96991a01e96353686a79dffa9e43068763c56d667440a1d690e23"
   }
  ],
  "storyItems": [
@@ -2745,19 +2749,19 @@
  "name": "Welt",
  "rarity": 5,
  "descHash": "Membro experiente da Tripulação do Expresso. A paixão escondida em seu coração arde novamente ao aproveitar esta nova aventura. Às vezes ele esboça as experiências vividas em um caderno.",
- "artPath": "8ec4cb699ea975a6c44c8faeb3de63a276b2d037a497973bedf5cc3c04b57439",
- "miniIconPath": "efe43d610c9b822ba1ba59f2d3c12850142c1efff8f87e6a0740ca20fb91efc9",
+ "artPath": "6d4e97aa3408569f9de6c514e1e6e5c2444f168db3fc9627c07e51e9f98b3d0f",
+ "miniIconPath": "1c518edbc6e9c8208bc19f613850a34f2404aad9fbda98ca2246adf345c5f0ed",
  "damageType": {
   "id": 64,
-  "iconPath": "91b47b558df75f608b0a8aa93f35fd2063ed789ec25cbcc7bee926c60fba7ab1",
+  "iconPath": "e2b4f38f1a093eaeb29590634279febc9a6f3a1b5753684b7fffac8e5d23e981",
   "color": "#F4D258",
   "name": "Imaginário",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "96c3b8dd457b98955d440531986a23d509f705c13d7aa794d1e97bcfd03d5701",
-  "altIconPath": "b55d340138ed77756cd939d0d9ee2103a5398f999202c1ed19d092ac87333155",
+  "iconPath": "2e8dee1b2516e0376a0ff1ec3cf5cf7d2d37bd482cf5efb5cf79367f9d2be218",
+  "altIconPath": "61e195ac81b36d68bb63480397b0f78505a2cd8c8970b059540187a975563a72",
   "color": "#FFFFFF",
   "name": "A Inexistência",
   "rarity": 0

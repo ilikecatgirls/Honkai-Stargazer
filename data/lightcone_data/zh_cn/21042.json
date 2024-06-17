@@ -2,16 +2,17 @@
  "name": "铭记于心的约定",
  "rarity": 4,
  "descHash": "风尘仆仆的过去，守护家园的责任，开拓世界的梦想——<br />一双粗糙的大手，将这些递给了不谙世事的少年。<br /><br />「不久之后，我们就能去往更广阔的世界了吧。」 <br />男孩欣喜地接过传承的信物。年幼的他，尚未感受到那信物有多沉重。<br /><br />「一定会的。在那之前，米沙，守护好这里。」 <br /><br />他将那约定铭记于心，直到——直到永远。",
- "iconPath": "6e2911dcc90e759ac38fb18af9d4e1e999ab1c9f6ccd2e821bd136f9f3694900",
- "artPath": "4c6a6ade71600cdcb159046610e0547d8f63f958037be45f4cb8cc2648e73a4b",
+ "iconPath": "1c7bfe0a6ce63711eb960152cbebd16e3eefc5468fdb57424d41c2eb7e7fade3",
+ "artPath": "88c70cf5198ab6934b87b3d0d21ea5fbacd62b93013c5d0713b7c56e48b64883",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRoABAABXRUJQVlA4IHQBAADQBwCdASoUABwAPm0ukkWkIqGYBABABsS1AE6ZcQ8KwINLLJ+8o1jnnlO2hfNb7egUblK3oAob8FN7IXaP7giDzkV2qO/AAAD++xhJKnT/Hvxyi9B/LK1V4XCqJb2iD31PvXGKDPIz2svz4Q6EUg/+Mh7AoHBFTIm1KHnkuPOPpaicp67Q+Z+UP+/rLUfLvNpN8R3ZP0fmSKhzb0101WgZgbnzvooIauOricY6S7xMP/ha3Y+VkWi7j8RIMvt/Pxvbi+8kecYVHvX/zkhevWrh+AyPk0+xxfmHZOg3RR1zmj+Fmg/xax/g0P6HJiD7SRvQrgeqJUxgJkolYxKapk04N1pC525n6pDQEfZ5s1zijv34FFfuZs2ktu3byrAWPEZv6KrJnFQNXXUl90GESrM6wsPlOoZNrPlwXhilixcVM9jEtX6mi9Tx7WjZ7L+QEpJODCE8PkKYfI91mYZygJho6nf2ZzPqyAdbVwFB3Kt+hp78jgA=",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "ec8e6252b08c472a01fe71907dfd0b0fab48a0b2bc8f91fad1add64bac3b674d",
+ "mediumIconPath": "9c88f46ed802bc0a9e205970d27f51cb83155eb9207dd0dbd398d61e9f9d7e2d",
  "baseType": {
   "id": 0,
-  "iconPath": "673136d8ba64c836e77a0084380bccea317250a93f866ddfcb0d64682b543970",
+  "iconPath": "e2b380aede0faa68b817597cd40abe7dd90c14a08c11f2b65fd7b56d9fa8212d",
   "color": "#FFFFFF",
   "name": "毁灭",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用点",
    "desc": "星际和平公司与客户结算时使用的货币，如今已成为太空旅行的硬通货。",
    "lore": "「人们奔波、争斗、贸易，为的不过是个终端里显示的数字。但真正珍贵之物，公司的数字是买不到的。」",
@@ -42,7 +43,7 @@
    "id": 549209,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "iconPath": "e0c990b0eea70425d86a217aafba0a3a7e8bca023ae176d8d1a04c96017cea2a",
    "name": "蓄梦元件",
    "desc": "梦境造物的储能装置，强化所需的简单材料。",
    "lore": "储存碎梦的筑梦容器，为梦境造物提供了基本的能源。<br /><br />「如果装上这个玩意儿，就会得到一位美梦剧团的成员。」",
@@ -51,6 +52,7 @@
    "rewardPath": "/material/549209",
    "comeFrom": [
     "惊梦剧团掉落",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "委托奖励",
     "余烬兑换",
@@ -62,7 +64,7 @@
    "id": 633150,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "iconPath": "16ae6e8e6b251c084b4281d8dd2cf628bde9c0b356cca2036d18eb80dcc281c6",
    "name": "流梦阀门",
    "desc": "梦境造物的控制部件，强化所需的普通材料。",
    "lore": "调节欲念的筑梦装置，控制着梦境造物内心的情绪。<br /><br />「如果这玩意儿失灵了，就会得到一位惊梦剧团的成员。」",
@@ -72,6 +74,7 @@
    "comeFrom": [
     "突破至均衡等级2后，惊梦剧团掉落",
     "「万能合成机」- 材料合成",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "「万能合成机」- 材料置换"
    ]
@@ -80,7 +83,7 @@
    "id": 635680,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "000c9b7fd1e06bc049904dbe29cde77df866803d5273f717e8d07d6edc45e67c",
+   "iconPath": "580522b463b9b6a2004a416da1470dfbc8b1233ae6661baa3613705fa8876f4b",
    "name": "步离犬牙",
    "desc": "步离人征战时遗留的零星碎牙。可小幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "步离人将锐牙视作征战者的砥锋白刃。<br />步离人崇敬拥有至高力量的战士，在弱肉强食的「猎群部落」里，任何龋齿之流只会被族群遗弃。<br /><br />「巢父大人，赐予我等尖牙锐爪。」",
@@ -97,7 +100,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "提纯以太",
    "desc": "光锥的强化材料，可以获得<nobr>6000</nobr>点光锥经验。",
    "lore": "一罐经由特殊技术精炼而成的以太。<br /><br />「忆庭盼望重现往日的辉煌，但那是由他们所选择的『往日辉煌』，明白吗？」",
@@ -115,7 +118,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "凝缩以太",
    "desc": "光锥的强化材料，可以获得<nobr>2000</nobr>点光锥经验。",
    "lore": "一罐经由特殊技术精炼而成的以太。<br /><br />「小心轻放，勿压勿摔。破损泄漏后请参照《流溢灾难应对手册》第二章内容进行灾后处置。」",
@@ -133,7 +136,7 @@
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "稀薄以太",
    "desc": "光锥的强化材料，可以获得<nobr>500</nobr>点光锥经验。",
    "lore": "本不应存在于现实的假想介质，创造光锥的基本原料。<br />将之注入光锥，能令封装其中的事象更为清晰。<br /><br />「原来如此，流光忆庭的『忆质』就是这东西，怪不得忆者能携带记忆进行星际旅行。」",
@@ -151,7 +154,7 @@
    "id": 717091,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "iconPath": "3ec7df71c4478ad9ccdff86f63ab9fd8e7dcf2bc435e8fbdf17874307dfa7d70",
    "name": "造梦马达",
    "desc": "梦境造物的动力核心，强化所需的高级材料。",
    "lore": "创造幻想的筑梦机械，赋予梦境造物灵魂的发动机。<br /><br />「如果发现这玩意儿出了故障…朋友，在陷入噩梦前快醒过来吧。」",
@@ -161,6 +164,7 @@
    "comeFrom": [
     "突破至均衡等级4后，惊梦剧团掉落",
     "「万能合成机」- 材料合成",
+    "「差分宇宙」中敌方掉落",
     "「模拟宇宙」中敌方掉落",
     "「万能合成机」- 材料置换"
    ]
@@ -169,7 +173,7 @@
    "id": 836266,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "bdd46b1026059a8d458c4b2ad165608360b1c51edfc47430ea836af6f1b925be",
+   "iconPath": "d71cc2db54ff50b5a43a8f6ff291ae634698f4e92e3bd83413019640adedbc67",
    "name": "月狂獠牙",
    "desc": "步离人征战时遗留的骇人长牙。可大幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "步离人通过与生俱来的「月狂」进一步强化身躯。<br />战狂们自拥惊人的愈合能力，伴随着骨质与肌肉增生，在血雾中摧枯拉朽。<br /><br />「巢父大人，赐予我等通天神力。」",
@@ -186,7 +190,7 @@
    "id": 920207,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "2ff2777d6f3abdd88bed93864e6b37ce1bfddf0c8982113629eccaff1928a985",
+   "iconPath": "e0e78c82a1d2b9bfdbe5892412ce0f0fce67e7c6b1336f9edc1c3c5009eb7ffa",
    "name": "狼毒锯牙",
    "desc": "步离人征战时遗留的吮血尖牙。可中幅提升<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">毁灭</span>角色的命途行迹。",
    "lore": "步离人将锐牙视作征战者的砥锋白刃。<br />步离人血脉中流淌着疯狂的冲动，在狼毒催化下，他们啮噬吮血，无往不利。<br /><br />「巢父大人，赐予我等铜筋铁骨。」",
@@ -357,7 +361,7 @@
  "skill": {
   "id": 21042,
   "name": "传承",
-  "descHash": "使装备者的击破特攻提高<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>。当装备者释放终结技时，暴击率提高<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>，持续<nobr>#3[i]</nobr>回合。",
+  "descHash": "使装备者的击破特攻提高<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>。当装备者施放终结技时，暴击率提高<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>，持续<nobr>#3[i]</nobr>回合。",
   "levelData": [
    {
     "params": [

@@ -2,16 +2,17 @@
  "name": "Le long de la rive",
  "rarity": 5,
  "descHash": "S'écoulant le long de l'étroite frontière qui sépare l'« existence » du « néant », les flots glacés se heurtent sans cesse aux rivages et amènent toutes les choses à leur destination finale.<br /><br />Dans ce lieu résonnent les appels à l'aide des noyés, le chant du deuil, les rires, les doux moments, les râles d'agonie et tous se reflètent dans l'eau... Même si elle ne peut pas ressentir ces émotions, elle peut les comprendre...<br />Il lui reste encore tellement de chemins à parcourir, de voix à écouter et de choses à changer avant d'atteindre la fin.<br /><br />Elle tend la main et sauve les noyés des tentations de la Nihilité, brisant les illusions une à une derrière elle.<br />Elle continue à marcher dans ce monde infini, vers une destination qui n'existe pas.<br /><br />... Tandis que la pluie continue à s'abattre...",
- "iconPath": "cf55ed1fff64802cc29f62bd2f58d516e362a7e6fb4faa2b6fc266c26633e1fe",
- "artPath": "48fba474105fd0e1339ba798e7af0d5860e9eb42ce68dfe40f4f9419963f35d5",
+ "iconPath": "a2ff429afde1a22e742b7ef3fbcae79c3a62ec61b0a59ef9a7b50f251f3d479f",
+ "artPath": "50bedc9b844ae8ded040542b470239434471132509c9779b5398eaaf83a7f5e5",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRuQBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSCUAAAABD9D/iAgoiiSpccBKRgoSEZD6RZAQ0f8gZyGfXdxrtBAzRngDAFZQOCCYAQAAsAcAnQEqFAAcAD5tLpVGpCKiISgKqIANiUAW31xH/86tkgFe0GEeQPUF/VzrABr/5Bj7FTGu8k9eAioNnTp+QoAfXaQPgAD+mxoF/lzg/I5eDxpJluVBKVAuNTH5AXN7u18Vyv4my6W0wNKnueIIiMaUy409i76ZgMVTwIxXz+zLak++j6pyEKAgeF9/tcFnJkvrDp/5WcmM8Kjt3huEGROe7rQvxxFqDNi1cyaZ2gPbvREPDJgK9bTBUuZOQDVk5X+5v24/29/4xf/0ufAer+0xLn2xM9vwPbVtjJka/9FC5rZD5lwIK3XVP2l0J+bPxT54H609rEMHc4JUXKAeu7Tb57kgG+jxivpAqSeinb0owV7IbMY+NlIarinZa/FVc2j3fIlllgQNWXmxjo6vZHhWxiBy+e+GvP/fXB+9u8tygmWpHGiHYwPXrz8gjD40N+Utvz/sgnxYDfCbrNAsMvCHGHHQll2fPK30NIBpLuPw73xw/faatZPds7kgJ3TvyEB4W/GnrcPWoNyFEyNjgARNM/zyAAAA",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "9aaa1a594e70f5a3adbf4c5c208e959fdfe67a24b66466d260d69ec1da419a8e",
+ "mediumIconPath": "80db0a0c2d69bbac69b76a63eaa14fc3fb22def45c2f3720080e4e15700698ee",
  "baseType": {
   "id": 0,
-  "iconPath": "96c3b8dd457b98955d440531986a23d509f705c13d7aa794d1e97bcfd03d5701",
+  "iconPath": "2e8dee1b2516e0376a0ff1ec3cf5cf7d2d37bd482cf5efb5cf79367f9d2be218",
   "color": "#FFFFFF",
   "name": "La Nihilité",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549209": {
    "id": 549209,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "iconPath": "e0c990b0eea70425d86a217aafba0a3a7e8bca023ae176d8d1a04c96017cea2a",
    "name": "Composant de stockage des rêves",
    "desc": "Appareil de stockage pour les créations du Pays des rêves. Matériau commun utilisé pour le renforcement.",
    "lore": "Appareil de stockage destiné aux rêves brisés. Fournit une source énergétique fondamentale pour les créations du Pays des rêves.<br /><br />« Installez cet appareil pour obtenir un membre de la Troupe Beaux rêves. »",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549209",
    "comeFrom": [
     "Troupe Chocmar",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 589818,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "daa3e2f0fc9cc9bcc2da489f1a17ad0adfa1ce552e27b1f294fc4acb245de673",
+   "iconPath": "7c6f5358c112aaee034dfcf277129fb03c3b23acdad032ea86bb8d940a9f9559",
    "name": "Essence de feu d'étoiles",
    "desc": "Héliobe mature qui a fui après la Guerre de la Catastrophe des flammes. Permet d'améliorer modérément les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihilité</span>.",
    "lore": "Héliobe agressif et antipathique avec une flamme complète.<br />Lorsqu'elle se matérialise, la taille de la flamme d'un Héliobe illustre sa force. Cet Héliobe flamboyant est doué de raison et a hâte d'absorber les désirs et émotions de son hôte.<br /><br />« Absorbe ses émotions et influence sa volonté... »",
@@ -72,7 +74,7 @@
    "comeFrom": [
     "Calice de la Commission d'alchimie",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -80,7 +82,7 @@
    "id": 633150,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "iconPath": "16ae6e8e6b251c084b4281d8dd2cf628bde9c0b356cca2036d18eb80dcc281c6",
    "name": "Valve de débit onirique",
    "desc": "Composant de contrôle pour les créations du Pays des rêves. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "Appareil de construction de rêves qui régule les désirs et contrôle les émotions des créations du Pays des rêves.<br /><br />« Si l'appareil rencontre un défaut, vous obtiendrez un membre de la Troupe Chocmar. »",
@@ -90,6 +92,7 @@
    "comeFrom": [
     "Troupe Chocmar au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -98,7 +101,7 @@
    "id": 673759,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "f11dd326fbfb4a1a66e7e8807c44a70a648b773365a75cbd532d7e444f9b52ff",
+   "iconPath": "d0d9f657c8aed8ea463ffb2a299173de7d94d7a4e67017343520f54275dd1e15",
    "name": "Incinérateur céleste",
    "desc": "Héliobe bestial qui s'est homogénéisé après la Guerre de la Catastrophe des flammes. Permet d'améliorer considérablement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihilité</span>.",
    "lore": "Héliobe puissant et ingénieux ayant pris la forme d'une bête.<br />Lorsqu'elle se matérialise, la taille de la flamme d'un Héliobe illustre sa force. Cet Héliobe de grande taille s'est homogénéisé avec de nombreux pairs inférieurs, il va progressivement stabiliser sa forme. Ces êtres immortels sont tellement dangereux qu'ils sont considérés comme des calamités.<br /><br />« Inondations, incendies, glissements de terrain et orages... »",
@@ -115,7 +118,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -133,7 +136,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -144,14 +147,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -169,7 +172,7 @@
    "id": 717091,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "iconPath": "3ec7df71c4478ad9ccdff86f63ab9fd8e7dcf2bc435e8fbdf17874307dfa7d70",
    "name": "Moteur de création des rêves",
    "desc": "Noyau d'énergie pour les créations du Pays des rêves. Matériau avancé utilisé pour le renforcement.",
    "lore": "Appareil de construction de rêves servant à bâtir des fantasmes et accordant des âmes aux créations du Pays des rêves.<br /><br />« Si l'appareil connaît un dysfonctionnement... essayez de vous réveiller avant de sombrer dans un cauchemar. »",
@@ -179,6 +182,7 @@
    "comeFrom": [
     "Troupe Chocmar au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -187,7 +191,7 @@
    "id": 874345,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5bcb3a328152515e073bcf4072d659b4725ab9ae271ee6aedb5cb60fec84a7e1",
+   "iconPath": "7163c8b123f6a71726593ec29688538db75b232b3dfb0a50245eb8a6f4eb28c8",
    "name": "Esprit flamboyant",
    "desc": "Héliobe faible qui s'est éparpillé après la Guerre de la Catastrophe des flammes. Permet d'améliorer légèrement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Nihilité</span>.",
    "lore": "Héliobe innocent et incorporel.<br />Lorsqu'elle se matérialise, la taille de la flamme d'un Héliobe illustre sa force. Ce petit Héliobe naïf et innocent pourrait facilement être consommé par un Héliobe plus puissant.<br /><br />« Sans forme, sans racines et sans limites... »",
@@ -196,7 +200,7 @@
    "rewardPath": "/material/874345",
    "comeFrom": [
     "Calice de la Commission d'alchimie",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

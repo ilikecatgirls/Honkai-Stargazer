@@ -2,16 +2,17 @@
  "name": "流れ逝く岸を歩いて",
  "rarity": 5,
  "descHash": "「有」と「無」の狭間を流れ、その両岸を永久に洗う冷たき潮水はすべてを終着点に連れゆく。<br /><br />溺水した者はここで助けを求めた。悲しみ、喜び、幸せ、そして苦痛がその中に映る…彼女は、そのすべてを身をもって経験することはできないが、そのすべてを心の底から感じられる。<br />最果てにたどり着くまで、歩むべき道はまだ長く、聞くべき声もまだ多い。そして、変えるべきこともたくさん残っている。<br /><br />彼女は手を差し伸べ、溺水者を虚無の誘惑から救い出す。すると、一つ一つの幻影が、彼女の背後で次々と砕け散った。<br />彼女は歩き続ける。この夢幻なる世界の、存在しない終点を目指して。<br /><br />——そして、ここではいつも雨が降っている。",
- "iconPath": "cf55ed1fff64802cc29f62bd2f58d516e362a7e6fb4faa2b6fc266c26633e1fe",
- "artPath": "48fba474105fd0e1339ba798e7af0d5860e9eb42ce68dfe40f4f9419963f35d5",
+ "iconPath": "a2ff429afde1a22e742b7ef3fbcae79c3a62ec61b0a59ef9a7b50f251f3d479f",
+ "artPath": "50bedc9b844ae8ded040542b470239434471132509c9779b5398eaaf83a7f5e5",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRuQBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSCUAAAABD9D/iAgoiiSpccBKRgoSEZD6RZAQ0f8gZyGfXdxrtBAzRngDAFZQOCCYAQAAsAcAnQEqFAAcAD5tLpVGpCKiISgKqIANiUAW31xH/86tkgFe0GEeQPUF/VzrABr/5Bj7FTGu8k9eAioNnTp+QoAfXaQPgAD+mxoF/lzg/I5eDxpJluVBKVAuNTH5AXN7u18Vyv4my6W0wNKnueIIiMaUy409i76ZgMVTwIxXz+zLak++j6pyEKAgeF9/tcFnJkvrDp/5WcmM8Kjt3huEGROe7rQvxxFqDNi1cyaZ2gPbvREPDJgK9bTBUuZOQDVk5X+5v24/29/4xf/0ufAer+0xLn2xM9vwPbVtjJka/9FC5rZD5lwIK3XVP2l0J+bPxT54H609rEMHc4JUXKAeu7Tb57kgG+jxivpAqSeinb0owV7IbMY+NlIarinZa/FVc2j3fIlllgQNWXmxjo6vZHhWxiBy+e+GvP/fXB+9u8tygmWpHGiHYwPXrz8gjD40N+Utvz/sgnxYDfCbrNAsMvCHGHHQll2fPK30NIBpLuPw73xw/faatZPds7kgJ3TvyEB4W/GnrcPWoNyFEyNjgARNM/zyAAAA",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "9aaa1a594e70f5a3adbf4c5c208e959fdfe67a24b66466d260d69ec1da419a8e",
+ "mediumIconPath": "80db0a0c2d69bbac69b76a63eaa14fc3fb22def45c2f3720080e4e15700698ee",
  "baseType": {
   "id": 0,
-  "iconPath": "96c3b8dd457b98955d440531986a23d509f705c13d7aa794d1e97bcfd03d5701",
+  "iconPath": "2e8dee1b2516e0376a0ff1ec3cf5cf7d2d37bd482cf5efb5cf79367f9d2be218",
   "color": "#FFFFFF",
   "name": "虚無",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "信用ポイント",
    "desc": "スターピースカンパニーが顧客との決済に使用している貨幣。現在は宇宙旅行をする時の決済通貨となっている。",
    "lore": "「人々は、端末に表示される数字のためだけに奔走し、戦い、取引をする。しかし、本当に大切なものは、カンパニーの数字で買えるものではない」",
@@ -42,7 +43,7 @@
    "id": 549209,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "9a1cf43cc4fe48465c1a6a97d23a061fa43b6ab00796881aeaa8c3da2bb8fe73",
+   "iconPath": "e0c990b0eea70425d86a217aafba0a3a7e8bca023ae176d8d1a04c96017cea2a",
    "name": "ドリームコレクションパーツ",
    "desc": "夢境の創造物のエネルギー貯蔵装置。強化に必要な簡易素材。",
    "lore": "砕けた夢を貯蔵する、ドリームメイクに使われる容器。夢境の創造物に基本的なエネルギーを提供することができる。<br /><br />「これを組み込めば、スウィート・ドリーム劇団のメンバーが1体できあがる」",
@@ -51,6 +52,7 @@
    "rewardPath": "/material/549209",
    "comeFrom": [
     "ナイトメア劇団からドロップ",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "依頼報酬",
     "エンバー交換",
@@ -62,9 +64,9 @@
    "id": 589818,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "daa3e2f0fc9cc9bcc2da489f1a17ad0adfa1ce552e27b1f294fc4acb245de673",
+   "iconPath": "7c6f5358c112aaee034dfcf277129fb03c3b23acdad032ea86bb8d940a9f9559",
    "name": "星火の精",
-   "desc": "「火劫大戦」後に逃げ回る旺盛な歳陽。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虚無</span>の運命を歩むキャラクターの軌跡を中幅アップできる。",
+   "desc": "「火劫大戦」後に逃げ回る旺盛な歳陽。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虚無</span>の運命を歩むキャラクターの軌跡を中アップできる。",
    "lore": "ずる賢く、イタズラ好きな、炎のような形をした歳陽。<br />姿を現した時の「炎」の大きさで歳陽の個体の強弱を区別できる。この歳陽は初めて意識の味を知り、宿主の感情をすべて貪ろうとしている。<br /><br />「悲喜を吸い取り、意志を左右する…」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 3,
@@ -80,7 +82,7 @@
    "id": 633150,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e27598c02b7aed5cb9b255fe0958340dbf3598f33ee10667848cfeed7fdd4815",
+   "iconPath": "16ae6e8e6b251c084b4281d8dd2cf628bde9c0b356cca2036d18eb80dcc281c6",
    "name": "ドリームフローバルブ",
    "desc": "夢境の創造物のコントロールパーツ。強化に必要な普通素材。",
    "lore": "欲望を調整する、ドリームメイクに使われる装置。夢境の創造物の感情をコントロールしている。<br /><br />「これが壊れたら、ナイトメア劇団のメンバーが1体できあがる」",
@@ -90,6 +92,7 @@
    "comeFrom": [
     "均衡Lv.2に達した後、ナイトメア劇団からドロップ",
     "「万能合成マシン」- 素材合成",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "「万能合成マシン」- 素材交換"
    ]
@@ -98,9 +101,9 @@
    "id": 673759,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "f11dd326fbfb4a1a66e7e8807c44a70a648b773365a75cbd532d7e444f9b52ff",
+   "iconPath": "d0d9f657c8aed8ea463ffb2a299173de7d94d7a4e67017343520f54275dd1e15",
    "name": "焼天の魔",
-   "desc": "「火劫大戦」後に融合した獣の形をした歳陽。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虚無</span>の運命を歩むキャラクターの軌跡を大幅アップできる。",
+   "desc": "「火劫大戦」後に融合した獣の形をした歳陽。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虚無</span>の運命を歩むキャラクターの軌跡を大アップできる。",
    "lore": "思慮深く、それなりに獣の形を持つようになった強力な歳陽。<br />姿を現した時の「炎」の大きさで歳陽の個体の強弱を区別できる。大歳陽は融合した後に段々と形を成す。不死不滅のそれは災害とも言える程に危険。<br /><br />「水を押し寄せ炎で燃やし、山を砕き雷落とす…」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 4,
@@ -115,7 +118,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "精製エーテル",
    "desc": "光円錐強化素材、光円錐経験値を<nobr>6000</nobr>獲得できる。",
    "lore": "特殊な技術で精錬されたエーテル。<br /><br />「ガーデンは昔の輝かしい時代を取り戻そうとしている、だがそれは彼らが選択する『往日の輝き』だ、この意味がわかるか？」",
@@ -133,7 +136,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "濃縮エーテル",
    "desc": "光円錐強化素材、光円錐経験値を<nobr>2000</nobr>獲得できる。",
    "lore": "特殊な技術で精錬されたエーテル。<br /><br />「気を付けて取り扱ってね。潰したり、落としたりしちゃダメよ。万が一、破損して中身が漏れた時は、『流溢災難対応手引き』の第二章に従って処理しなさい」",
@@ -151,7 +154,7 @@
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "希薄なエーテル",
    "desc": "光円錐強化素材、光円錐経験値を<nobr>500</nobr>獲得できる。",
    "lore": "本来なら現実に存在するはずのない仮想媒体、光円錐の基本材料。<br />光円錐に注入することで、中に封じられたイメージがより鮮明になる。<br /><br />「なるほど～これがガーデン・オブ・リコレクションの『憶質』ってやつ？だからメモキーパーは記憶を持って星間旅行ができるんだね」",
@@ -169,7 +172,7 @@
    "id": 717091,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "aa55e0e2abb0564d8d470280ad864c1c7a4d9f14cfe0427092a26075fcc86b94",
+   "iconPath": "3ec7df71c4478ad9ccdff86f63ab9fd8e7dcf2bc435e8fbdf17874307dfa7d70",
    "name": "ドリームメイキングモーター",
    "desc": "夢境の創造物の動力核。強化に必要な高級素材。",
    "lore": "幻想を創造する、ドリームメイクに使われる機械。夢境の創造物にとって、魂のエンジンのような役割を発揮している。<br /><br />「もしこれが故障していると気付いたら…友よ、悪夢に囚われる前に速やかに目を覚ますんだ」",
@@ -179,6 +182,7 @@
    "comeFrom": [
     "均衡Lv.4に達した後、ナイトメア劇団からドロップ",
     "「万能合成マシン」- 素材合成",
+    "「階差宇宙」で敵からドロップ",
     "「模擬宇宙」で敵からドロップ",
     "「万能合成マシン」- 素材交換"
    ]
@@ -187,9 +191,9 @@
    "id": 874345,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5bcb3a328152515e073bcf4072d659b4725ab9ae271ee6aedb5cb60fec84a7e1",
+   "iconPath": "7163c8b123f6a71726593ec29688538db75b232b3dfb0a50245eb8a6f4eb28c8",
    "name": "熾烈の霊",
-   "desc": "「火劫大戦」後に散逸した微弱な歳陽。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虚無</span>の運命を歩むキャラクターの軌跡を小幅アップできる。",
+   "desc": "「火劫大戦」後に散逸した微弱な歳陽。<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">虚無</span>の運命を歩むキャラクターの軌跡を小アップできる。",
    "lore": "天真爛漫で固定の形を持たない歳陽の星火。<br />姿を現した時の「炎」の大きさで歳陽の個体の強弱を区別できる。この小さな歳陽は思考が単純で、より強大な歳陽に呑まれやすい。<br /><br />「形なく、根もなく、天外を漫遊する…」",
    "purpose": "軌跡素材 <br />光円錐昇格素材",
    "rarity": 2,
@@ -357,7 +361,7 @@
  "skill": {
   "id": 23024,
   "name": "渡し守",
-  "descHash": "装備キャラの会心ダメージ+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>。装備キャラの攻撃が敵に命中する時、敵を「泡影」状態にする、1ターン継続。この効果は装備キャラが攻撃を行うたびに、敵それぞれに1回まで発動できる。「泡影」状態の敵に対する装備キャラの与ダメージ+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>、さらに必殺技の与ダメージ+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span>。",
+  "descHash": "装備キャラの会心ダメージ+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#1[i]%</nobr></span>。装備キャラの攻撃が敵に命中する時、敵を「泡影」状態にする、1ターン継続。この効果は装備キャラが攻撃を行うたびに、敵それぞれに1回まで発動できる。「泡影」状態の敵に対する装備キャラの与ダメージ+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#2[i]%</nobr></span>、さらに必殺技によるダメージ+<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\"><nobr>#3[i]%</nobr></span>。",
   "levelData": [
    {
     "params": [

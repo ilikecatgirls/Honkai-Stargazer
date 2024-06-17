@@ -1,19 +1,20 @@
 {
  "spRequirement": 100,
- "iconPath": "0cb56c510a9bb92002dce472ba8ef9b4a64e8052f84f86269209d9991951f5a6",
- "bgPath": "5986fd23be9958a3a67e358855348aba653c0abbaf99417f1b6c6649208202d8",
- "figPath": "8095125b1386302ee5cc69330519ceaa2633a4ee258af08a7b81dc358184f434",
- "fgPath": "059cdf4ec1eab9c4a8825c49f4b58d40771de7a63af005c59e1b3df04f51f40b",
- "splashIconPath": "6822455c0a99b390bc06cf51b668e540037871a57795dba58518d99689e71425",
+ "iconPath": "a40e6c429108e106d995ea5eb4c6ce99504a68d8a9f431cb38c37bac9709aec5",
+ "bgPath": "dce0aad580b366aff402f1a4628a73d41ca3a9459028ec811b360471ab7e414e",
+ "figPath": "19e18399cf28afe31fade902af6dff0668a58ae55ac15f661068535de31438ee",
+ "fgPath": "cdfb14d4a7a25b0a4430f239a4c8d6641e36ee3d174f32c00daac53efc283a41",
+ "splashIconPath": "2f7a938797eca40554fa7380dd2372195cd89285bc83c62532ccf867799a37a8",
  "splashPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRlICAABXRUJQVlA4WAoAAAAQAAAAEwAAEwAAQUxQSOQAAAABkGNr2yFI71dtW7GRWrF2YNuI7LwX0aFtLMBhjz2hPfV/9Q6qa7YQEROAe8WyLHgWEfyvAEBAZH52cbLcI/BNCm17/IifF6uCIZYAgO/It/ckDefhKkBM80dSjRq+q4tGaE4pBFNUVcdxqOSXzRdcDkPJLdVxVyVJux31pONRjSo/pmKUxsO/ymqU/aQ35UUWKul4t7kUAFzQeOJbu9NCqaPGg+F6GgDs0bbVTfVnLwSCiDNSfxljftkOV2EBsOBfukj3H8eJEAAQAI1r53fXC/1ZgMDdRwD4CAAIPPoIAB8fwb9WUDggSAEAAHAHAJ0BKhQAFAA+bTCTRyQioaEoCqiADYlsAJ0yhHpqy+EBts/0z8zP1gNOA3kklTHjCEq81SvTmW6JncjEDjgE2NzgAPn2opt3zY89inYuJpv/UPVtPXtllWLQzudio6aICgA9RH4x5FRXHLghsWRrmhtxmvqYwikOxFoY1iPeQ5zzvX+le5uXyu7+rqG9/mjw1UVbFx9LakWCeBOf18D9/P+anQNftRreQPfO36v1anwHWZR0cHVIr2zRVANzy8mwCOv2dOc3e0fAVvOKVsu1gltYjvTQ/pMLC1MEj0dGShiwNUf1brsrhfKELI4Afufbbgi/oGT0kzFsKaWjIYT44COz+G/daKpEYGAp5CWvJyjLIX5/5jufY1GS4/nADM84Wag+Is+B69+YswQrfdRVHH2/mCWh1FETQ/AP95snNn+piQsAAAA=",
+  "w": 2048,
+  "h": 2048
  },
  "damageTypeId": 0,
  "baseTypeId": 0,
  "baseTypeTraces": {
   "id": 7,
-  "iconPath": "232bc80b207d7be892c4e0c41ea43b44080e51373e3c4f6f0f2f9e0eb4e03194",
+  "iconPath": "f54e3ffa38baa511bc4cc66b3da1288637334270877ebd5c2dafb56090c5ff0c",
   "color": "#FFFFFF",
   "rarity": 0
  },
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "เครดิต",
    "desc": "สกุลเงินที่องค์กรสันติภาพแห่งดวงดาวใช้ในการชำระบัญชีแก่ลูกค้า ซึ่งปัจจุบันได้กลายเป็นสกุลเงินหลัก ที่ใช้กันอย่างแพร่หลายสำหรับการเดินทางในอวกาศ",
    "lore": "\"ผู้คนดิ้นรน ต่อสู้ และแลกเปลี่ยนเพื่อตัวเลขที่แสดงในเทอร์มินัล แต่สิ่งล้ำค่าที่แท้จริงนั้น ไม่สามารถซื้อได้ด้วยตัวเลขจากองค์กร\"",
@@ -42,7 +43,7 @@
    "id": 125435,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "999db0943876bc45d70e793bb21b7368b799f16b9b9b5ec98f87ab3a999ca059",
+   "iconPath": "a13a7372ac0adb820a562ba21ce6f48c8c05f59f5577f55583601af8e972cf54",
    "name": "Tracks of Destiny",
    "desc": "วัสดุระดับสูงสำหรับการเพิ่มเลเวล Trace",
    "lore": "ความพ่ายแพ้ซ้ำแล้วซ้ำเล่าจะนำไปสู่ชัยชนะ ก้าวไปข้างหน้าก้าวแล้วก้าวเล่าจะนำไปสู่จุดเปลี่ยนของโชคชะตา",
@@ -61,7 +62,7 @@
    "id": 270195,
    "type": 601,
    "purposeId": 4,
-   "iconPath": "e45d41312c347a0e92a83719307e7cad0367aa98023d7b4627daa452423892ca",
+   "iconPath": "84cb3b4bee024a0e2c43101da44394dee59e313da5b959c85ca1e9d140e31eaf",
    "name": "Guardian's Lament",
    "desc": "วัสดุระดับสูงสำหรับการเพิ่มเลเวล Trace",
    "lore": "สิ่งที่แตกหักเหมือนกับเกราะชุดนี้ก็คือความปรารถนาที่บิดเบี้ยวของผู้พิทักษ์สูงสุดคนหนึ่ง<br />เธอปรารถนาที่จะเปิดเส้นทางที่ปลายสุดของลมหนาวเพื่อผู้คนของเธอ แต่สุดท้าย กลับกลายเป็นหุ่นเชิดที่ถูกควบคุมโดยเจตจำนงที่ใหญ่ยิ่งกว่า<br /><br />\"ผู้พิทักษ์สูงสุดเป็นตำแหน่งของผู้ปกครอง Belobog ที่สืบทอดจากรุ่นสู่รุ่น ผู้ซึ่งคอยดูแลชาวเมืองทุกคน... แต่ชาวเมืองกลับไม่เคยรู้เลยว่า ไม่มีใครคอยดูแลและพิทักษ์พวกเธอบ้างเลย\"",
@@ -76,7 +77,7 @@
    "id": 409960,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "93e57927857330492588a5988471221f81a568e9405e453a4ec1a35e080e58ab",
+   "iconPath": "becaa9417d3a40db16e3d16da7b2864bd92c804f9b6062824c49aae61bb6b7a1",
    "name": "คู่มือการเดินทาง",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>20000</nobr> หน่วย",
    "lore": "หนังสือชุดเกี่ยวกับการผจญภัยที่จำเป็นต่อการสำรวจโลก กดปุ่มอ่านเพื่อฟังเสียงที่น่าฟังในภาษาที่คุณเข้าใจ ซึ่งจะบอกเล่าเกี่ยวกับประสบการณ์การผจญภัยในโลกต่างๆ ของเหล่านักผจญภัยที่มีชื่อเสียง รวมถึงภูมิปัญญาอันล้ำค่าที่พวกเขาได้รับจากดาวแต่ละดวงด้วย<br /><br />\"คู่มือการเดินทางชุดใหม่ 'การทำอาหารระหว่างดวงดาว' จะวางจำหน่ายเร็วๆ นี้ โปรดติดตามกันให้ดี\"<br />\"สำหรับการส่งผลงาน โปรดติดต่อกับ Synesthesia Beacon ERD<nobr>-23</nobr>θ เพื่อติดต่อตัวแทนของสถาบันแห่งปัญญา โดยวิธีการจ่ายค่าต้นฉบับนั้น สามารถจัดการได้ตามความสะดวกของคุณ\"",
@@ -94,7 +95,7 @@
    "id": 409961,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "5bc0f70fa042018eea0146f55ad54f669516480a6c85e57e3a7d15596ae23894",
+   "iconPath": "519019265755cdebba3968237a9ed2399097c89086d762698f9314ffc3180578",
    "name": "บันทึกการผจญภัย",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>5000</nobr> หน่วย",
    "lore": "บันทึกการผจญภัยที่ได้รับการจัดการอย่างเป็นระเบียบ และมีคุณค่าต่อการศึกษา ซึ่งประกอบไปด้วยภาพประกอบและข้อความที่เกี่ยวกับการผจญภัยตั้งแต่ต้นจนจบ ตลอดจนข้อมูลที่มีคุณค่าและเทคนิคที่เกี่ยวข้องกับการเอาชีวิตรอด<br /><br />\"ทำไมไม่แปลงข้อมูลใส่ลงไปในดิสก์ล่ะ? สะดวกกว่าตั้งเยอะ\"<br />\"เมื่อเผชิญกับพายุดาว และการปะทุของกระแสนิวตรอนแล้ว เทคโนโลยีขั้นสูงนั้นมีความเปราะบางมากกว่าที่คิด นอกจากนี้ คนทำหนังสือเล่มนี้คงอยากจะให้คนอ่าน สามารถอ่านได้ด้วยวิธีที่ง่ายที่สุด\"",
@@ -113,7 +114,7 @@
    "id": 409962,
    "type": 601,
    "purposeId": 1,
-   "iconPath": "210df022ef9d45e28825002eae2111550ad34186eae4cefed470e45f6ec7c563",
+   "iconPath": "1895aeac789646d78ca7843ce780b8ac9baa5ccb50a135aafb1042a8fe0b0337",
    "name": "ความรู้จากการเดินทาง",
    "desc": "วัสดุประสบการณ์ตัวละคร จะมอบ EXP ตัวละคร <nobr>1000</nobr> หน่วย",
    "lore": "ไดอารี่การเดินทางที่เขียนด้วยลายมือสุดยุ่งเหยิงและมีเนื้อหาตามใจชอบ ซึ่งไม่ค่อยมีประโยชน์สำหรับคุณสักเท่าไหร่<br /><br />\"Dan Heng อ่านจบแล้วก็รีบเอากระดาษพวกนี้ไปทิ้งเถอะ\"",
@@ -131,7 +132,7 @@
    "id": 468391,
    "type": 601,
    "purposeId": 2,
-   "iconPath": "136670876f348477c67386d9e545f587913faf2a699b983d967b670be1c1a35c",
+   "iconPath": "3cc2affb44dd151c097d84ddde38ba3a682b7b9f312b03ac9339cf3c26f28c30",
    "name": "Golden Crown of the Past Shadow",
    "desc": "เครื่องประดับศีรษะของ Decaying Shadow วัสดุเลื่อนขั้นของตัวละครประเภทจินตภาพ",
    "lore": "เครื่องประดับที่เหลือทิ้งไว้หลังจากเงาของผู้พิทักษ์ในอดีตสลายหายไป ราวกับมันกำลังบอกเล่าถึงอดีตของเมืองแห่งฤดูหนาวอยู่ที่กลางฝ่ามือ<br /><br />\"Alina ผู้อ่อนโยน... ความรักของเธอกว้างใหญ่ราวกับผืนนภา และความเมตตาเปล่งปลั่งดั่งทองคำ\"",
@@ -147,7 +148,7 @@
    "id": 549503,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "54d4c5dedbef6b70f526e88708669e94b6a214431c0c9ca55edf9b28b3413fcb",
+   "iconPath": "5e2438c9abc4e21c52edcc5bb581746c26d2327b4a4f5d92cd3133180be28bde",
    "name": "Artifex's Module",
    "desc": "ชิ้นส่วนของเครื่องจักร Xianzhou วัสดุพื้นฐานที่ใช้สำหรับการเสริมพลัง",
    "lore": "รากฐานของเทคโนโลยีเครื่องยนต์กลไกของ Xianzhou มันเป็นส่วนประกอบที่เล็กที่สุดในอะไหล่เครื่องจักร การแยกชิ้นส่วนออก ก็เหมือนกับการทำลายโครงสร้างเซลล์ของสิ่งมีชีวิต<br /><br />\"สถาบันแห่งปัญญา จะมอบเงินรางวัลสองล้านเครดิต ให้กับวิธีการทางเทคนิคที่สามารถใช้รื้อถอนหุ่น Xianzhou ได้โดยไม่ก่อให้เกิดความเสียหาย\"<br />\"ถ้าเธอรู้จัก Screwllum ละก็ เงินสองล้านนี้ก็จะได้ไปฟรีๆ เลย...\"",
@@ -156,6 +157,7 @@
    "rewardPath": "/material/549503",
    "comeFrom": [
     "ดรอปจาก Entranced Ingenium",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "รางวัลคำขอ",
     "แลกเปลี่ยน Ember",
@@ -167,7 +169,7 @@
    "id": 633444,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "7b31224c48190eebf224b39e2a9df9477f9c67018bc63cb1b20569e6186041c3",
+   "iconPath": "5f91efc0ee18af4671cb38cea4ff3fb506947cf2406fef284133a5711b2e9397",
    "name": "Artifex's Cogwheel",
    "desc": "ชิ้นส่วนของเครื่องจักร Xianzhou วัสดุธรรมดาที่ใช้สำหรับการเสริมพลัง",
    "lore": "ชิ้นส่วนที่ใช้สำหรับเชื่อมต่อในเทคโนโลยีเครื่องยนต์กลไกของ Xianzhou ฟันเฟืองที่เชื่อมต่อกันอย่างประณีตนั้น มีขนาดเล็กพอๆ กับเมล็ดมัสตาร์ด แต่กลับเชื่อมกันเป็นกลไกที่ซับซ้อน ทำให้เครื่องจักรเคลื่อนไหวได้ราวกับมีชีวิต<br /><br />\"รูปร่างของมันกลมกลืน ขนานคู่ไปกับผืนฟ้า การเคลื่อนไหวเวียนวน กึกก้องไปพร้อมกับจักรวาล\"",
@@ -177,6 +179,7 @@
    "comeFrom": [
     "ดรอปจาก Entranced Ingenium เมื่อระดับความสมดุลถึง Lv.2",
     "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
    ]
@@ -185,7 +188,7 @@
    "id": 635671,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "8e1b0a1a8ab4a806daac48e2e5de6c69a9a1aad87f950c5a4c92c9513dd9d6b9",
+   "iconPath": "9c646329c4d4e9b8cb867e7864ce74f4ca6d18e611b748c516c1a5f3334d04b6",
    "name": "Seed of Abundance",
    "desc": "เมล็ดพันธุ์แห่งพรที่เทพดาราแห่งความเฟื่องฟูได้หว่านเอาไว้ สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">เฟื่องฟู</span>ได้เล็กน้อย",
    "lore": "ผู้ที่สัมผัสมันจะค่อยๆ ได้รับการรักษาบาดแผลและโรคต่างๆ<br />ผู้คนที่สวดอ้อนวอนขอพรให้กับชีวิตในขณะที่สิ้นหวัง มักจะได้รับความเมตตาอยู่เสมอ<br /><br />\"คุณย่อมได้รับในทุกสิ่งที่เอ่ยขอ\"",
@@ -202,7 +205,7 @@
    "id": 717385,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fcb869b494268ac2b7320d4a3795736698f3a3c5e9bad9c0182c6e11bd343c55",
+   "iconPath": "bec9f9969fb8f8f3b25d35f908959831e8d967d7df19a2aaf48dd68855a8ca75",
    "name": "Artifex's Gyreheart",
    "desc": "ชิ้นส่วนของเครื่องจักร Xianzhou วัสดุชั้นสูงที่ใช้สำหรับการเสริมพลัง",
    "lore": "แกนกลางของเทคโนโลยีเครื่องยนต์กลไกของ Xianzhou วงแหวนดวงดาวจะหมุนวนและสั่นเป็นจังหวะราวกับหัวใจ ทำให้เครื่องจักรมีความคิดเหมือนสิ่งมีชีวิต<br /><br />\"ผู้เป็นใหญ่ตื่นตกใจ จึงแยกชิ้นส่วนจิตใจของมันออก และทำให้เขา... เอ่อ เธอ? ไม่สิ ทำให้มันสูญเสียสติสัมปชัญญะ แล้วกลับคืนสู่การเป็นโลหะดังเดิม\"",
@@ -212,6 +215,7 @@
    "comeFrom": [
     "ดรอปจาก Entranced Ingenium เมื่อระดับความสมดุลถึง Lv.4",
     "\"เครื่องผสานสารพัดประโยชน์\" - ผสานวัสดุ",
+    "ดรอปจากศัตรูใน \"จักรวาลต่างมิติ\"",
     "ดรอปจากศัตรูใน Simulated Universe",
     "\"เครื่องผสานสารพัดประโยชน์\" - แลกเปลี่ยนวัสดุ"
    ]
@@ -220,7 +224,7 @@
    "id": 836257,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "e08699257c4a96a135b4467fd8eba3917d5734b2c943ac631d2a39ae3c4ccb37",
+   "iconPath": "969a6d57c217f2b43cb2d1be96d5fa06a30b8ca9834ec984f0649d019d666b13",
    "name": "Flower of Eternity",
    "desc": "ดอกไม้สุดงดงามที่เบ่งบานออกมาจาก Sprout of Life สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">เฟื่องฟู</span>ได้เป็นอย่างมาก",
    "lore": "เกสรที่มีพลังแห่งความเฟื่องฟูควบแน่นอยู่ และจะไม่จางหายตลอดไป แม้จะอยู่ท่ามกลางเปลวไฟ น้ำแข็ง หรือสภาพแวดล้อมที่รุนแรง ก็ไม่สามารถขัดขวางการเจริญเติบโตของสิ่งมีชีวิตที่งดงามนี้ได้<br />เมื่อเวลานั้นมาถึง กิ่งก้านของมันจะใช้แสงจากดวงดาวเป็นอาหาร และส่วนรากจะใช้เลือดเนื้อของสิ่งมีชีวิตเป็นดิน จากนั้นจึงรวมร่างกันเป็นหนึ่ง และกลายเป็นอมตะ<br /><br />\"เรือขนาดใหญ่ที่แล่นข้ามผ่านภูเขาและล่องลอยเหนือความว่างเปล่า หากได้กินต้นไม้อมตะที่อยู่บนนั้น จะทำให้ชีวิตกลายเป็นนิรันดร์\"",
@@ -237,7 +241,7 @@
    "id": 920198,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "365bf3a80928eea605cbefd72636c62eb0c1887b4652520c3e9c3f99a55f0cb9",
+   "iconPath": "e53b293c86a90843e4eac0cd4649e1b7f94b3aa93adec45d9fcadf0a4532d8af",
    "name": "Sprout of Life",
    "desc": "ต้นกล้าที่โผล่ออกมาจาก Seed of Abundance สามารถใช้เพื่อเพิ่มเลเวล Trace ของตัวละคร Path <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">เฟื่องฟู</span>ได้ปานกลาง",
    "lore": "มันแผ่ไออุ่นออกมา สภาพแวดล้อมรอบบริเวณที่มันหยั่งราก ล้วนอุดมไปด้วยสีเขียวขจี พื้นที่รกร้างกลายเป็นดินอุดมสมบูรณ์ ต้นไม้ที่แห้งตายฟื้นคืนชีพและผลิดอกออกผล น้ำพุใสหลั่งไหลออกมาจากผิวดิน<br />เมื่อเข้าไปใกล้ กล้ามเนื้อและกระดูกของคุณ ก็ราวกับมีชีวิตเป็นของตัวเอง พวกมันเริ่มดิ้นพล่านและเพิ่มพูนขึ้นมา จนเกิดเป็นอาการคันยิบที่ยากจะทานทน<br /><br />\"ชีวิตยืนยง ทุกชาติภพไม่วางวาย\"",
@@ -439,8 +443,8 @@
  "ranks": [
   {
    "id": 1,
-   "iconPath": "d2507ea9c2e9643d603310500489a0306930550c71bf7e87c5c18e6dd76c75cf",
-   "artPath": "5512eb8a88233b499cf99dc9b3dd1d7ad360a96b4bcc60e0c9ef52fb9adec685",
+   "iconPath": "8eae6f7faee2960cabd18b91b36bccb2e6690e6289fb8dfc3f6f6ed94b726c6d",
+   "artPath": "eb4ced326ce1d4e20374e21c8fcc79c290def6ac3ab6ae9daaa4cbda99922175",
    "name": "Ablution of the Quick",
    "descHash": "เมื่อเขตแดนมีผล ATK ของฝ่ายตัวเองทั้งหมดจะเพิ่มขึ้น <nobr>#1[i]%</nobr>",
    "params": [
@@ -449,8 +453,8 @@
   },
   {
    "id": 2,
-   "iconPath": "471567f145711957f3278d6cb5e737231f9b34716a31d0410618d655ff78570c",
-   "artPath": "19ce981225c04a0ca629b8fbc36c8db0407067420492167fb4cd0a3bcaf84a04",
+   "iconPath": "cbb65805cb3dedfd07ffd6d32af4b5b7cd0b90c2ca7ab20242eacbd001892ffd",
+   "artPath": "bdb37aa787990bc103c4e1968a6e3bdbc0bf0647011cb526dfc42e75d0a9e1fd",
    "name": "Bestowal From the Pure",
    "descHash": "เมื่อปล่อยเอฟเฟกต์สกิลต่อสู้ หากเปอร์เซ็นต์ HP ปัจจุบันของเป้าหมายฝ่ายตัวเองที่กำหนดต่ำกว่า <nobr>50%</nobr> จะทำให้ Luocha มอบการรักษาเพิ่มขึ้น <nobr>#1[i]%</nobr> หากเปอร์เซ็นต์ HP ปัจจุบันของเป้าหมายฝ่ายตัวเองที่กำหนด เท่ากับหรือมากกว่า <nobr>50%</nobr> จะมอบโล่ที่ดูดซับ DMG ได้ <nobr>#2[i]%</nobr> ของ ATK ของ Luocha +<nobr>#3[i]</nobr> ให้กับเป้าหมายดังกล่าว เป็นเวลา <nobr>#4[i]</nobr> เทิร์น",
    "params": [
@@ -462,16 +466,16 @@
   },
   {
    "id": 3,
-   "iconPath": "425aa73abcfd4742b38b091fd3e454c0b7f6b9e43e7ea4dbe82176eecd858ae1",
-   "artPath": "904925cd697685f303cf4cc2cea5b37df894571c20a727f55e38527ea68bd4ce",
+   "iconPath": "2bb301dee18ddf399f347678ccdc0f2344104fcc93000321d5fa33cbcac4657b",
+   "artPath": "f0180be38a3f7c49571e6b5bfa5565b95042bdceaf92abee9219bece0612a6c1",
    "name": "Surveyal by the Fool",
    "descHash": "เลเวลสกิลต่อสู้ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลการโจมตีปกติ +1 สูงสุดไม่เกิน Lv.<nobr>10</nobr>",
    "params": []
   },
   {
    "id": 4,
-   "iconPath": "f439af006113f0ee25bdde71cc5a24c2f5ac48f86bf7e24a836b8fc789c40286",
-   "artPath": "cc315b9e7bc77e4c484d5f33908411b4ab43dda29bb779493f7e6f95462b413b",
+   "iconPath": "60a297921d2949cff12271c3b1a5bed54e482d4a15c1963689690f58ed09a5ad",
+   "artPath": "8b78518196d7398f7fc2359566c6097d17ca9632224c0bbb6bb73df6a5840474",
    "name": "Heavy Lies the Crown",
    "descHash": "เมื่อเขตแดนแสดงผลแล้ว จะทำให้ศัตรูเป้าหมายติดสถานะอ่อนแอ และสร้าง DMG ลดลง <nobr>#1[i]%</nobr>",
    "params": [
@@ -480,16 +484,16 @@
   },
   {
    "id": 5,
-   "iconPath": "5bf38c7dd7d41ada7135d82f36d85e4cacb7fdf95a3ac8b310c7ae51f369c814",
-   "artPath": "8dd9c1e9e1452977105c316c78856445c0c6511f0d2c25b0389fc6c4a6ee5e1f",
+   "iconPath": "06db7cc97be95950a8308b0ad2ccf220531352d0ef5b70661533a777062dbff5",
+   "artPath": "fe514a62f40253539e37ee070bc3fdcfb37748e5cb655d4ab43aae9c4c81cc13",
    "name": "Cicatrix 'Neath the Pain",
    "descHash": "เลเวลท่าไม้ตาย +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr> และเลเวลพรสวรรค์ +2 สูงสุดไม่เกิน Lv.<nobr>15</nobr>",
    "params": []
   },
   {
    "id": 6,
-   "iconPath": "0d80e385e207c140efabf788c696329cf7377002358d3e3994bf7822a8decc0b",
-   "artPath": "960a1aba0737e6d5e210ebceba29d8ea47acf31947adbd98d89053a7433d53e1",
+   "iconPath": "0642ef4a05469050e66c4a82f5486ebee33b20567afdfe4239f7e1f0c123aebd",
+   "artPath": "e9b2e3c3c6b3fc5c9d947da05a18ca9f74189d400099f5fe76f1110f1238f9b1",
    "name": "Reunion With the Dust",
    "descHash": "เมื่อใช้ท่าไม้ตาย จะมีโอกาสคงที่ <nobr>#1[i]%</nobr> ที่จะทำให้ความต้านทานทุกประเภทของศัตรูเป้าหมายทั้งหมดลดลง <nobr>#2[i]%</nobr> เป็นเวลา <nobr>#3[i]</nobr> เทิร์น",
    "params": [
@@ -525,7 +529,7 @@
    "energy": "20",
    "id": 906493,
    "name": "Thorns of the Abyss",
-   "iconPath": "3f6989274a6bb1d7f6f15a6d99bcb4fe8f5e6d56e199bbc0f575057ce49014b7",
+   "iconPath": "e44cb8af6db246e8a2c47ab58504ccf2e8094b4200f582b6e3701b3602f7b30f",
    "typeDescHash": "โจมตีปกติ",
    "levelReq": 0,
    "promotionReq": 0,
@@ -686,7 +690,7 @@
    "energy": "30",
    "id": 990434,
    "name": "Prayer of Abyss Flower",
-   "iconPath": "425aa73abcfd4742b38b091fd3e454c0b7f6b9e43e7ea4dbe82176eecd858ae1",
+   "iconPath": "2bb301dee18ddf399f347678ccdc0f2344104fcc93000321d5fa33cbcac4657b",
    "typeDescHash": "สกิลต่อสู้",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1006,7 +1010,7 @@
    "energy": "5",
    "id": 107079,
    "name": "Death Wish",
-   "iconPath": "e50431b849252f2b35e72413014753ce3a28b5022534897a88135a9b46390bb9",
+   "iconPath": "7df7706779149bda00233f0d7c31928644d2eaf36d3960eeb6d769102476d3cb",
    "typeDescHash": "ท่าไม้ตาย",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1296,7 +1300,7 @@
    "energy": "0",
    "id": 421380,
    "name": "Cycle of Life",
-   "iconPath": "095e0e023199d3288b9ddbb95e86c39360912cfacc6e9d910702dd61587398bd",
+   "iconPath": "864e2f4a864cfdfd2529a8e0cf0efe5525615f0bf4b63526d5c7a8bdd872632e",
    "typeDescHash": "พรสวรรค์",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1616,7 +1620,7 @@
    "energy": "0",
    "id": 621966,
    "name": "Attack",
-   "iconPath": "3f6989274a6bb1d7f6f15a6d99bcb4fe8f5e6d56e199bbc0f575057ce49014b7",
+   "iconPath": "e44cb8af6db246e8a2c47ab58504ccf2e8094b4200f582b6e3701b3602f7b30f",
    "typeDescHash": "",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1638,7 +1642,7 @@
    "energy": "0",
    "id": 705907,
    "name": "Mercy of a Fool",
-   "iconPath": "6f8e33ace151be6a36883c4573f8b0d91adc0671ff0893597c37e9d71a1e3cb5",
+   "iconPath": "8534c45eaf16081dff0dca818d8280053feb940b56f4044c268fdbc2a2dd8704",
    "typeDescHash": "เทคนิค",
    "levelReq": 0,
    "promotionReq": 0,
@@ -1679,7 +1683,7 @@
           "name": "เสริมการป้องกัน",
           "levelReq": 0,
           "promotionReq": 3,
-          "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+          "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
           "statusList": [
            {
             "key": "DEF",
@@ -1708,7 +1712,7 @@
         "name": "เสริมการโจมตี",
         "levelReq": 0,
         "promotionReq": 3,
-        "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+        "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
         "statusList": [
          {
           "key": "ATK",
@@ -1737,7 +1741,7 @@
       "name": "เสริม HP",
       "levelReq": 0,
       "promotionReq": 2,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -1766,7 +1770,7 @@
     "ultimateCost": 0,
     "id": 343112,
     "name": "Cleansing Revival",
-    "iconPath": "347254f98849df5eb5dffde122e5b9f99d3b851535fe3f1f2bb1ed5fbc3db3c1",
+    "iconPath": "50e003d6b24e575bf4321303215927aa0a745df126cd7d0ece74709bb9f62815",
     "levelReq": 0,
     "promotionReq": 2,
     "levelData": [
@@ -1805,7 +1809,7 @@
     "name": "เสริมการโจมตี",
     "levelReq": 1,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATK",
@@ -1834,7 +1838,7 @@
     "name": "เสริมการโจมตี",
     "levelReq": 80,
     "promotionReq": 0,
-    "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+    "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
     "statusList": [
      {
       "key": "ATK",
@@ -1882,7 +1886,7 @@
           "name": "เสริมการโจมตี",
           "levelReq": 0,
           "promotionReq": 5,
-          "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+          "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
           "statusList": [
            {
             "key": "ATK",
@@ -1911,7 +1915,7 @@
         "name": "เสริม HP",
         "levelReq": 0,
         "promotionReq": 5,
-        "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+        "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
         "statusList": [
          {
           "key": "HP",
@@ -1940,7 +1944,7 @@
       "name": "เสริมการโจมตี",
       "levelReq": 0,
       "promotionReq": 4,
-      "iconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c",
+      "iconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d",
       "statusList": [
        {
         "key": "ATK",
@@ -1969,7 +1973,7 @@
     "ultimateCost": 0,
     "id": 343115,
     "name": "Sanctified",
-    "iconPath": "f23e8629d856f4243741d5ed167d1d4527f70121b98fe29fb8d97496b120d08b",
+    "iconPath": "187c4733da49d7285b8007fe0b1a32166de93beef89674f309d9e49f9d363215",
     "levelReq": 0,
     "promotionReq": 4,
     "levelData": [
@@ -2018,7 +2022,7 @@
       "name": "เสริมการป้องกัน",
       "levelReq": 0,
       "promotionReq": 6,
-      "iconPath": "4145abc71eb094c43193b14852a3911acd6c31a8794f0926333d40591d47e68a",
+      "iconPath": "004fe0783f194cb505c834848f4471149984b629ea93819a36dc60a38c528c28",
       "statusList": [
        {
         "key": "DEF",
@@ -2051,7 +2055,7 @@
       "name": "เสริม HP",
       "levelReq": 75,
       "promotionReq": 0,
-      "iconPath": "164d0d1c7ba81c2ae0af472a7c7bf7954292f201a3a6a59de801043466ab5bbf",
+      "iconPath": "bf90f90a1846d695bb7c7e30daf58d306c7d68475227cf8ae8c406d9a7c30f61",
       "statusList": [
        {
         "key": "HP",
@@ -2080,7 +2084,7 @@
     "ultimateCost": 0,
     "id": 343114,
     "name": "Through the Valley",
-    "iconPath": "da732eec4303fd6b7f09c776b80f77d702c0dfe46b063d0d710ec54047a122b6",
+    "iconPath": "a2cd38b75ac17f55a804978ad5310497edb3faeb2f4508203ccfe900958c8ce1",
     "levelReq": 0,
     "promotionReq": 6,
     "levelData": [
@@ -2120,27 +2124,27 @@
   "props": [
    {
     "relicTypeHash": "ลำตัว",
-    "relicTypeIcon": "7cdd73c69d57cff12ca459e477351d1ec645014fa575a833c1fb951817406ded",
+    "relicTypeIcon": "d20ecc1ab7faa188a97a5efa00ed3d8cdc5b0eec5f816dd163c042ec1536b8de",
     "propertyName": "เพิ่มปริมาณการรักษา",
-    "propertyIconPath": "57726150eaa27c675743fe08b88bd04575a0e76b5014dcfbc073c105aa1c7e44"
+    "propertyIconPath": "149abd902573860d5d76b5f79ad182f95a92f1f0533fc48d870a54028b25ec8b"
    },
    {
     "relicTypeHash": "เท้า",
-    "relicTypeIcon": "6c3a335a5f0dd4656c1ce0372050b402c9f976ad41c3fb2081c32cf4d9fe62fd",
+    "relicTypeIcon": "b3a1dd0fd3208b4aa3a3e9d194d9eee05302518d525aa75d6f8ffceb382d18e7",
     "propertyName": "ความเร็ว",
-    "propertyIconPath": "d2b176adeb8097fc3f01d478f82fff261dad429779f39f086ef41d70055b1079"
+    "propertyIconPath": "8644da0614c2e7f1fee80f5cf1c301bf2b2374f0692a8f632f7ab0f9e0b61c94"
    },
    {
     "relicTypeHash": "Planar Sphere",
-    "relicTypeIcon": "209a5985c2f388410b60f750db551f9989b98ede3ff461400699529ea782d7bf",
+    "relicTypeIcon": "1949766874109dc95d0de9f21598a19bcb6772b08807b3ef345d3f21409e3244",
     "propertyName": "ATK",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    },
    {
     "relicTypeHash": "Link Rope",
-    "relicTypeIcon": "90b4e54c05e72419429deb45cee82a6a39f3ac5eb45cc98b4684c9ea262bb578",
+    "relicTypeIcon": "8d48e32c3a2eadffdb7eaa9475f9c6e580ba1a9fc2de6c66480b845b17b0325e",
     "propertyName": "ATK",
-    "propertyIconPath": "f98c343064155d89d324fd80f64152aa2c08db8bce64460cb81fd2322458bb9c"
+    "propertyIconPath": "bcda5fe73e12a2d13d72e7a19e964c9a15b53168a893147c8984523daf5a7e7d"
    }
   ]
  },
@@ -2150,500 +2154,500 @@
    "title": "พบกันครั้งแรก",
    "text": "ฉันคือพ่อค้าที่เดินทางผ่านมา เรียกฉันว่า \"Luocha\" ก็ได้",
    "unlockRequirement": "",
-   "cnUrl": "2241c85ab63daea9c3013b8ce6cb6555d3231fd2990683add3d7f57f99df85c5",
-   "jpUrl": "725681121340f495b6eec5382ed0bdd553f447472b06412f1e2f9b818ab5d74e",
-   "enUrl": "613aa80fe4a7cea920f5b59a1478392f76c89edc96af6f13ad631ba1b7d0863e",
-   "krUrl": "7399446c46cf4500330f4a8ec3257ee2d2344bc351c28de1bd27d5b4711bcab6"
+   "cnUrl": "0fc3fd9bebc2bafed3081b5315ee5d5680f4a4965962d49021090c81b8d59924",
+   "jpUrl": "46a565ecb4e5fc90aa25a517257eba343d61ae50e0e23021b7406fc25606d036",
+   "enUrl": "bc97ca3e8b0899c84d1e95e4a46ebea96f0be7ddddbe92f9b2119f830816dd87",
+   "krUrl": "33bc89943873bd311b86b09a04361b48f2c209555dd8058b4b3e88a4676effef"
   },
   {
    "id": 2,
    "title": "ทักทาย",
    "text": "ตื่นเช้าๆ จะได้เดินทางต่อ ว่าแต่เมื่อคืนหลับสบายดีมั้ย?",
    "unlockRequirement": "",
-   "cnUrl": "cf1a6940052be796c8b54bce4aa903a04b624e808130e6c42f768279125c1d9f",
-   "jpUrl": "2a4e67c2f33031e20c6646ca9bd83877db6f5a40398843b129a3300fef3c1649",
-   "enUrl": "185abe76055e37713255c6eaa42ba705928a3939c0720178a052d069949e6938",
-   "krUrl": "6378f3c1d574a03579d5fd7697564a89b4a1d703d9dba88cbb725328fc35881c"
+   "cnUrl": "ce761155af28b8f506fa0ab09ef122b3cceac325d31be1f765a19befae995f0f",
+   "jpUrl": "233fb6b171273326c8ad315ebd9b8f9a2f1bf47eef6a21ee670b385ce5571ca1",
+   "enUrl": "81af23234a50b37c4ca9acee5c9322797b97098e80c7eafaf89958eeea87d7a4",
+   "krUrl": "e617b4e20c0301dae3403d6616dc8c396670a8ef09846ad440034fb569412f14"
   },
   {
    "id": 3,
    "title": "บอกลา",
    "text": "รีบไปพักผ่อนเถอะ เดี๋ยวฉันเฝ้าที่นี่เอง",
    "unlockRequirement": "",
-   "cnUrl": "5cf85bdaccf259db1a1cf443942bc1442421a088aa9ffda57f721b00fdf8d9f9",
-   "jpUrl": "1c09d9d5023738a7d30db323f6062901efe85ce3b97382dcfb15ffdfcbca8bb9",
-   "enUrl": "a64de5bcc1315548ea912f92d21e19109f37c771e85b8e7176a42b31e5ef3bba",
-   "krUrl": "ecefb921d6a8e8f71f801334aa2b32f1ecb245073cd1618f503dd5687b4f0535"
+   "cnUrl": "235048ddfc4d7518ac5224686a64c323c3224db49529ddd988434f009f26d97e",
+   "jpUrl": "cb4250d272353b42c9160c9439f8f0cb9b4f412507c4d48299ab9df5cc01edcd",
+   "enUrl": "0610c37b9b6bdc0130df6d342d1137edec0859ae930a4b96593d793aabf22566",
+   "krUrl": "d899f7555bf0215d8c52686f7c4e0addcf3f0a1dff805e0454d2e8f29a8a9763"
   },
   {
    "id": 4,
    "title": "เกี่ยวกับตัวเอง - ทักษะการแพทย์",
    "text": "เพราะพ่อค้าเดินทางรอนแรม จึงไม่มีที่ให้พึ่งพิง การรู้วิธีรักษาตัวเองเอาไว้สักหน่อย ก็ย่อมอุ่นใจกว่าน่ะ",
    "unlockRequirement": "",
-   "cnUrl": "3cffc07b17a9a2561ef7f916039af522b54204172d23c9d4679b68bb781e9b77",
-   "jpUrl": "45b0c531b905e150bd3eb5f96ebc31facdd4611e9408542d53f9ebdf58deba23",
-   "enUrl": "3feb4537b123db7c8d77591b877dfc17602ad034031352278635b7e4c3539d14",
-   "krUrl": "1a207998ddb0114d0b2c543ab60a25fba562053100900335d7541d98a75f6e00"
+   "cnUrl": "81c1db44f787d77c7d94e2e14cf25be90df94f12cb2a63e1fcdd3b4a245cd58e",
+   "jpUrl": "eec838fc94ba4b544628f36876b406a7aae8813bb1cc542689cc81c052c2f72f",
+   "enUrl": "2ca9b8c4d581d87dd645cda7e396e2b017e29851f96ba6dc3b90479c6d74b857",
+   "krUrl": "279203ae2265fc215e7f850a6b27314ecb867affe066b3040258c250ead4076e"
   },
   {
    "id": 5,
    "title": "พูดคุยทั่วไป - โลงศพ",
    "text": "โลงศพเรียกความสนใจจากผู้คนได้ มันช่วยพ่อค้าอย่างฉันได้เยอะเลย ผู้คนที่สงสัยเรื่องโลงศพต่างก็เข้ามาสอบถามฉัน แล้วระหว่างที่ถามมาตอบไป การค้าก็พลอยสำเร็จไปด้วยไงล่ะ",
    "unlockRequirement": "",
-   "cnUrl": "c3ea51265493d9f21b59b0ac4f5031b954d894883c1308140b519f7130c3917b",
-   "jpUrl": "0a4d2ddd5eeeccced82d2a4735aa6990d28eb918fdffc247cba9981666134cc0",
-   "enUrl": "8e32cb8dfc9cc5968d8615817179ccaf89aa65fdb261e61266e965b1ceb87bfe",
-   "krUrl": "0c902d0a8893b86e8a770b290f6089d28b2e4387049826f88cbbe8f697079a32"
+   "cnUrl": "51f3382e8378e739a5e551d9ed765fb509a7f91fb7fad06e8b32020005170170",
+   "jpUrl": "d91c639f6531fa38529a3b06608ba64206895a52a0b31fd48acca5216f766f99",
+   "enUrl": "66535f2779b372f3d102e56b815a6d242517af07348fe71698774ebf4a98b9ec",
+   "krUrl": "e12693aad4ef1b4a4e32ab1e90f423e992fec1d800d1386fd585ba8f6593dffd"
   },
   {
    "id": 6,
    "title": "งานอดิเรก",
    "text": "ผู้คนและประเพณีของสถานที่ต่างๆ ที่อ่านเจอในหนังสือ มักจะแตกต่างกับสิ่งที่เห็นด้วยตาเสมอ และการหาความแตกต่างของมัน ก็เป็นเรื่องสนุกสำหรับฉันเลยล่ะ",
    "unlockRequirement": "",
-   "cnUrl": "b0f9846bfc8506cbda22aba3394d5069105dd7b3902e405968dbea4df54646ce",
-   "jpUrl": "1effea7bfb9193301bf2380e475e650e25cd306eb568e3d0ff1c2710263aeb48",
-   "enUrl": "de7753c9769243418559d3a0e726b27854a77410137eda31c9c033928b749b0e",
-   "krUrl": "81d02c85babe7684563104e81e8673df68d896160d3bf30738e247bb46d3c092"
+   "cnUrl": "ddcedff382de6514897caa046e7ddc172a49df2f6e9940fd3fcadbfefb022744",
+   "jpUrl": "4405115c155990096281cec319b30b565df9ae30c9d506f468b64812d6069e1b",
+   "enUrl": "ac0ba501f4766c2d8c468e16e52c63d3a1dbabac794036d1d6886d3f6c7bdfe3",
+   "krUrl": "d2a017e16b04a3de746af60bb242acd205680a62db092acf7bdab6a0a8035a9f"
   },
   {
    "id": 7,
    "title": "เรื่องกลุ้มใจ",
    "text": "เมื่อถูกดึงเข้าไปพัวพันกับปัญหา ตนเองจะคิดยังไงไม่สำคัญ แต่สิ่งที่สำคัญคือ จะหาบทบาทที่เหมาะกับตัวเองได้ยังไงต่างหาก... เฮ้อ พูดจากประสบการณ์ตรงน่ะ",
    "unlockRequirement": "",
-   "cnUrl": "4a0f078ba99e9f1c70bc35c69309416d531e29597ac4a02f2ced5cd113312911",
-   "jpUrl": "64f621cf963c3e65da695c5618fa8f0f8589a36f0886f6ea0d1a7a6e94a2f2ce",
-   "enUrl": "b7e92079bbfaef74f9bb1be9e714a37b355db30908b279171f99bb8788dbff05",
-   "krUrl": "df9ba1866444ed399878e043020c3660e713d4da9100c4a9271b72f88256c3ca"
+   "cnUrl": "397c0f15ed04475b332d89535326aeb64f43e6eb5575140fd3e2b4622173a519",
+   "jpUrl": "cf3f7a933e5ff47a918b2ea025a1f73a5377e487eb26ab829381c867162bc4a7",
+   "enUrl": "1852d1a09da715aff051cb16d50a96a7affaf53301099c4374ed759f2bca8f8f",
+   "krUrl": "f916c6fd30a221e5e0216ea25bdd26b56d13cd4a3927d87216e156250622480a"
   },
   {
    "id": 8,
    "title": "เรื่องที่อยากจะแบ่งปัน",
    "text": "ความหมายของดอกไม้อยู่ในยามที่เบ่งบาน ไม่ใช่อยู่ที่กลีบดอกไม้ กลิ่นหอม หรือเมล็ดพันธุ์ที่ปลูก",
    "unlockRequirement": "",
-   "cnUrl": "e194805f812d037f33a4abe0f97a2ff559618cbad4c962b13bbbdd0331f158cc",
-   "jpUrl": "f1eeb73baf7eee15801d609c7b2999a76e27f8d48234a94180b346b2db95f467",
-   "enUrl": "c412c57592e3d128817f277c1161aca52254a188482b26cc1e2ca0608509052b",
-   "krUrl": "771223c017522b099fe0796112c061f79ff38064c890d46fa7919a707cedbce9"
+   "cnUrl": "49d095af37002fa1aa0dc264d07bc07bfa6750d6713ce98772f55a23dd33eb21",
+   "jpUrl": "1f5e5b332e18992105419122900009fe5eae281db395de3626e6ccdfe2664672",
+   "enUrl": "50789bb818d37f508091497259a7337351312c7962ef1ea3460d5bd23940f7ca",
+   "krUrl": "d5b0162f3b7e51e4d6e0bf494d8314d4687997e1409bb4dcd3b9001a7a762dfa"
   },
   {
    "id": 9,
    "title": "ความรู้",
    "text": "ได้ยินมานานแล้วว่าชาว Xianzhou มีวิธีคงความอ่อนเยาว์ไว้ได้ พอได้เห็นกับตาก็พบว่าเป็นอย่างที่เล่าลือกันจริงๆ เพียงแต่ว่าพวกเขาหลีกเร้นไปอาศัยอยู่ในมุมหนึ่งของกาแล็กซี เพื่อรักษาความลับนี้เอาไว้ ราวกับนั่งอยู่บนภูเขาสมบัติแต่กลับไม่แตะต้องอะไรเลย... ช่างน่าเสียดายจริงๆ",
    "unlockRequirement": "",
-   "cnUrl": "73acf105486832c893962cff112838362bbd903b24226868786a78a544e073b5",
-   "jpUrl": "96fbd30425f5ab8e138c7cab86326292b71f6377485b307c8c935819dd9fc73d",
-   "enUrl": "886f92207150cace9eda6994a03a5912e0976d92834c3184e678193fda9186bf",
-   "krUrl": "4bd843aeb85d84616e787b8c71bb47b9e6f60b42f41c909fee7ef4cd8fdac1de"
+   "cnUrl": "9a7bb16f243c26cd98ce66a57554192ad1536a1c8dd6e10ca73b98ec6cf109b3",
+   "jpUrl": "33991545f3c4ff366718980509e855f0e64063149e0d405ce381484a974ed871",
+   "enUrl": "fe99b0a1183561bab8d30f71f22ad8ab61110e767e396c4e36b9ca36dfb432b4",
+   "krUrl": "7e9bb90f203f42252ae8e77a901502b17357cb4ad940aaabf8c072253e0deb36"
   },
   {
    "id": 10,
    "title": "เกี่ยวกับ Jing Yuan",
    "text": "ท่านนายพลมองคนได้ทะลุปรุโปร่ง ทั้งยังเชี่ยวชาญศิลปะแห่งการ \"ปกปิด\" และ \"เปิดเผย\" อีกด้วย เวลาเขาจะ \"เปิดเผย\" อะไร ก็ควรระวังตัวให้ดีด้วยล่ะ",
    "unlockRequirement": "",
-   "cnUrl": "428a7625522bfecd964c3cc009d4463c04f26c251390a683337c3d2f7eed3d31",
-   "jpUrl": "77ea8b6b4d055bd803e45a90c6468e28a0788b7e081e292e6930a2471d276d15",
-   "enUrl": "b2e0b71e77d7e3b7ee6a4d3c1e7c4879ec0d93f3f72f9c14cac185b495727887",
-   "krUrl": "44c100a5f7ccd9ed73b05c2714090aee09b6f22d21971f323911f4fdfaeec26d"
+   "cnUrl": "37d5167851cedbb24cc63d3ac5bb7e2ec6b6e4e124217b68a0385d64311fd581",
+   "jpUrl": "ce9cdd9ab58a6bc72f83b6062ef3d92ba7d5cfc9bcf97753874d986a2ce2f22a",
+   "enUrl": "e21f054e73fb7687fc5b5597bf23a64a21c60ac4806796bf1cb71269616b7d52",
+   "krUrl": "8ffb2cd9463dcc4bf75cd43ee615882cac5de57ed01da742430feabfc397ec54"
   },
   {
    "id": 11,
    "title": "เกี่ยวกับ Yanqing",
    "text": "อ้อ หมายถึงเด็กหนุ่มไหวพริบดีที่อยู่ข้างกายท่านนายพลสินะ ฉันไม่รู้จักเขาหรอก...",
    "unlockRequirement": "",
-   "cnUrl": "21b5f0a075573b63c86ca175204367390c6b5cffe52e497c1c07e72b73b10b88",
-   "jpUrl": "d361f43361c65b2ee0f9f149b994c507c2e6b97daa4fb72137d667f445bd8320",
-   "enUrl": "849385cecaee1f29bf45d28d70235fb8f97b0ecd5a9e3826fe6c2050e1a18c25",
-   "krUrl": "c0724ac873478e46dc1d73fa52c34f92a1a9217c815d6ac88777fc2b47043335"
+   "cnUrl": "9493208ea7008a63ccf4c0d0cba71426560a99f75f29bc5cda0f3a102798abc3",
+   "jpUrl": "09b33762ec1e88bbe6f7a560eab58e2b3dd83abb5116f668f515d425daad81d5",
+   "enUrl": "5b6d7dbe9762f0004a2dd1e83d2056c16ad4938fde9866a3bb95e5c93e713707",
+   "krUrl": "d85117f7985b89718d65d156bca9b11a3527f4aaf0a361fc0d9a8da7c3a6bfa8"
   },
   {
    "id": 12,
    "title": "เกี่ยวกับ Yukong",
    "text": "น้อยคนนะที่จะมีความคิดเหมือนกับเธอ ที่มองว่าแท้จริงแล้วตัวเองเป็นเพียงสิ่งเล็กๆ ในจักรวาล... เธอช่างน่านับถือจริงๆ",
    "unlockRequirement": "",
-   "cnUrl": "08c09c9470650a354da55fa04ed3db915dadc91007f3c5b277fbd463fde7b7cc",
-   "jpUrl": "59940a43e66db87d1fa6bcaa4fc75723af3d95417010e68c03a587be8ff0b2ca",
-   "enUrl": "a4dcd06ad444818b9c92ffc81f69929be3504102156e0babe08539288b398078",
-   "krUrl": "e3209efe2d187c3345a55807952a9c6abe9bb53cda2f7a1d927171ba3810ed78"
+   "cnUrl": "961e5e82099b9b8074f538ca79ddbf01cc6db25a43fe22df044fd02302110831",
+   "jpUrl": "c95d0f65a17e5b7152ddf02e92e897c1ad77038fdd038fdaafd29f44f6917383",
+   "enUrl": "a5a0c3f343414785ae182acc2839dcb369b08f7355c639a27fee944eaf749289",
+   "krUrl": "8bfcb71d90294af72051acdfa4c6e434f7b59544b2e3d8867bb6c4b19811185e"
   },
   {
    "id": 13,
    "title": "เกี่ยวกับ Tingyun",
    "text": "ไม่ว่าสาวน้อย Tingyun จะพูดอะไร ก็ทำให้คนฟังลืมไม่ลงทั้งนั้น ในเมื่อมนุษย์จิ้งจอกมีพรสวรรค์ด้านการพูด ก็ควรใช้อย่างชาญฉลาดไม่ใช่เหรอ?",
    "unlockRequirement": "",
-   "cnUrl": "51c6f9bce2f5722ffad73b802f18f79e1b8b291c793d1f7f7e3809dc26fbdc25",
-   "jpUrl": "cd5b32fad269ffef20388c62691a49e947e7c79e863b1cbbfd128e61f6b22750",
-   "enUrl": "32ebc2789a49e2be8816889f354c0883dd31432ea7f3a42dc169e08ca4c16c1c",
-   "krUrl": "0347217d79496ff7435acb176c90c9d780b2abeb9bbc4687dbc73aa912dbb0ee"
+   "cnUrl": "f070a9626a95c0274c7ab65747c2c2247388d05ec5197e150c37220e766b0ccf",
+   "jpUrl": "712aade51bab5483c29cfd18558dcc48caf948782a21560390da6236a3a28067",
+   "enUrl": "1bf76fcb8a96336ac2cb84943f9df5e453555d20dcbf4f596b23f45ccfc281db",
+   "krUrl": "b8326566969d1651ecb9120082dece3ed6ad27682a6268f74ff27368d1efe067"
   },
   {
    "id": 14,
    "title": "เกี่ยวกับ Sushang",
    "text": "เธอเป็นสาวน้อยผู้มีน้ำใจ แถมยังบอกอีกว่า ถ้าฉันมาที่ Xianzhou อีก เธอจะพาไปดื่มชาและฟังเรื่องเล่า... แต่ฉันขอไม่ฟังเรื่องเล่าแล้วกัน ท่าทางจะใช้เวลานานเกินไป",
    "unlockRequirement": "",
-   "cnUrl": "6e247954b56ebd03baf30d9cd0442a51e70db32cbdbc538c968ddc3058d7eb2e",
-   "jpUrl": "492a17768c0e1bbfdbb641ef735bc26c7afeca0e720dd45fafaa35335133762e",
-   "enUrl": "6ed5a16ab9f6603cc9b3df1ac2e29eefef5925984cb323f21e61536242e8cc71",
-   "krUrl": "e83f76863464445d6a2d288db62cbf51a78e16ba6ffc9deabf6d6a1903915673"
+   "cnUrl": "cf15800f219e8881d93082a005f6f75ce7d9724a1af02d76d7157f7742463ff5",
+   "jpUrl": "ac25becbb5919564f7b29cf36dddd31f902d332e0c4358d8db72a204b2d4ef0a",
+   "enUrl": "33b5f5ed216a08ae5fbcfdfea743cf4751c0495705aa5345ca55bd624d791f74",
+   "krUrl": "6536ab7feff40bb06801d44a57276ac1005d2c7b0e62c5ac5b25be4a04b145cd"
   },
   {
    "id": 15,
    "title": "เกี่ยวกับ Jingliu",
    "text": "ดาบในหัวใจของเธอ ได้แยกสวรรค์และโลกออกจากกันมานานแล้ว แต่เมื่อมีพลังแบบนั้น เธอก็ไม่ใช่นักดาบธรรมดาๆ อีกแล้ว",
    "unlockRequirement": "ปลดล็อกหลังจากสำเร็จภารกิจบุกเบิก \"น้อมส่งวิญญาณ ในหนทางอันแสนไกล\"",
-   "cnUrl": "5e1c0fde1d7ac586fd7b82d7df7f3e021debfc76e31d0a170ed3c1a72591fa93",
-   "jpUrl": "88ccbf9a5af313ab72dd64165419a33923b03f8267b3ee420c682399fa6c7a76",
-   "enUrl": "289adca645abdae894d77687a3d857499cc98b407bea8c43520cb5763deed3c3",
-   "krUrl": "f2847211579b4a6b3252b7274c9376ce891d751d18fb882463dfc467ecb92b0a"
+   "cnUrl": "dc93ecdd9e04f0e45d4377b9169dee6bb01ead7c72b85b811a1bef72f50c1577",
+   "jpUrl": "bcbb877a8363f8930949311731c5ed339d57962e63c21380255c710114986a1d",
+   "enUrl": "18c38efb4a7ff6a76394a825b0fadc1f2b9b5b77a50a788e1b0f34b3a7a62e64",
+   "krUrl": "6d16743dfce30a40497c6a73bc308adbb1109889cf66f16e57a6580076943fbd"
   },
   {
    "id": 16,
    "title": "เปิดใช้งาน Eidolon",
    "text": "ใต้แสงดวงดาวนั้นไม่มีอะไรใหม่ แต่เพราะคุณแท้ๆ ฉันถึงได้เห็นมุมมองใหม่ๆ ขึ้นมา",
    "unlockRequirement": "",
-   "cnUrl": "e57cec751d879bc07bf87c76d6d787a694e0a0d7ce68eaa9c6b3eff23bd6d83b",
-   "jpUrl": "251005f4b14ef6c5d22f31a1a8d3fa01d65c0ba52803455d3f8c29b5d1da0403",
-   "enUrl": "70b04b4d76297f7843ec731239504402ffff6e85a7b7d749cc8ae14f57d37a67",
-   "krUrl": "e7d7cd1955c8c98fd77608727e402d1fe0033f8f41acc7cec92ef2d4cb4bf762"
+   "cnUrl": "9bcd7d6118a3bb1769754d60533e45d94a4199149d606df2c72285979759daa5",
+   "jpUrl": "507b50624019e39a1a94c9bce5621680f8c2658a928165f5a0b1b81d6532880a",
+   "enUrl": "a50efbc0efc043ed18953bd5787e0af8d778934bc9a4a3e61c6cc59060c21ea3",
+   "krUrl": "dacb400a6151cd72a9928ff397ecc30566925f35d48078d57bc0b154d7cec6aa"
   },
   {
    "id": 17,
    "title": "เลื่อนขั้นตัวละคร",
    "text": "กว่าดอกไม้จะเติบโตขึ้นมาจากเมล็ด ย่อมต้องใช้เวลาและความอดทน",
    "unlockRequirement": "",
-   "cnUrl": "ca385fa60efbc03d9e5b7ceda0ec98c9efc36b15cd55533d57111e3543e4f68d",
-   "jpUrl": "d025201f806e15f9e50a940dfcfe600d43eac4a0c15a92104301f497741d0e1a",
-   "enUrl": "40c72f751f792ddcfbdbeba3d4198eb90a9ff0842491ed29aada81e6cabca6ec",
-   "krUrl": "12513b16c36e215a6e5996f0447867317fc0b4cd6fb3f59ce588875d5c167ffe"
+   "cnUrl": "f973013a337a77bae8d9a86a1cf569f917c6b373b3c8016b98b55500fd3e7d1a",
+   "jpUrl": "78851f36c3b2e0780f88eae169ff1224e89301cfe3c329645146ff86b4517439",
+   "enUrl": "bf30551d187b243424c468444165f55b6258afa86f2927f4f762cb19673b3e5b",
+   "krUrl": "66aae24f203c54bc37ed6c54d6a1bcb25a786661d9080e19f4130cef7f274d66"
   },
   {
    "id": 18,
    "title": "ตัวละครถึงเลเวลสูงสุด",
    "text": "ถึงแม้การเติบโตของมนุษย์จะเป็นแค่เรื่องเล็กน้อย แต่กลับน่ายินดียิ่งกว่าความสมบูรณ์แบบของเทพเจ้า",
    "unlockRequirement": "",
-   "cnUrl": "439aefe292a1d2aa20f94443d15cff5cf3c0adc653b03d7ca3a1fe224dd3faf9",
-   "jpUrl": "90d396c5a13fa5728a11854bb5e355e244c8c190fff9d9245b3e1f058aa562db",
-   "enUrl": "78c1d673791c26ab71ba64c8061ddd3e47cfbd23bdda968757cb509cf2e0c5f1",
-   "krUrl": "b301280edb0b7b39850221ef263b5e3cfa3ce5ea719bf7fca15fce4794b8c04f"
+   "cnUrl": "15c28468ffe5a2107a1767ef5baabe53453bdbb9b2ac281b4220aece15661aee",
+   "jpUrl": "02f38a4096ec751b0116bd10f70e16beb30fd193bab53fbc11bb3c575f20ae9c",
+   "enUrl": "1126339a544206ed3c893034117656b7de044b013ee009a736e58c3c65ed8e2f",
+   "krUrl": "b41fca621cf7aa30a155d32e95f14d1621da12f27828a18fc7ea6ad2668703d0"
   },
   {
    "id": 19,
    "title": "เปิดใช้งาน Trace",
    "text": "สิ่งที่เกิดขึ้นในอดีต ย่อมต้องเกิดขึ้นอีกในอนาคต และฝีเท้าของฉันจะไม่หยุดลงเพราะเรื่องนี้แน่",
    "unlockRequirement": "",
-   "cnUrl": "0d4c6a5212a4d8028c98cf5dfb3e773dcc92d413f5ff0bb3277b39c1d6b86c4b",
-   "jpUrl": "b749e2606e2e8e3bac7e1844cbaf3eaffff7e4508745a2c9abd1ac708803215f",
-   "enUrl": "c2993018efda601b0034118782f9dd3d1a2686c8370ec0563d95074a6e7e9e97",
-   "krUrl": "cc2fbb34643c551e1cf0ee8ba46063e06eea023abda7026c255f324722443e3e"
+   "cnUrl": "cec519d8db40ddd3049eb57fdb3abf6a7325bb2c93410f31532853e7134d835f",
+   "jpUrl": "a9c1034c819829b2a968bc9440ea2a77fd4d0cc1edaae0e4d83d5f6298c73367",
+   "enUrl": "9a1a503e54a3ab1acd1672ace1b7bf116016c8aa31e21339050fdbabd5e0f72b",
+   "krUrl": "18882e9680b776e4b567e355530b1e9f4f7755990cc06aa2da62da52868bb6c8"
   },
   {
    "id": 20,
    "title": "สมาชิกทีม - Sushang",
    "text": "Sushang ฉันไม่ค่อยชำนาญเรื่องการต่อสู้ คงต้องฝากเธอด้วยนะ",
    "unlockRequirement": "",
-   "cnUrl": "1a4e05b65876a88711a0c7afc193c21c94e49894452f1bc60c30ce19e26a10cf",
-   "jpUrl": "ab2b2bfb7c326cf14618077c4bee738999b2e84127000070defec960e9a19387",
-   "enUrl": "76c5c70905243673fbe829928cb8ebe372dd5419c65d112e94901d3373a077ad",
-   "krUrl": "05cb65c2fffe599ffd2d5d539b42c215d93c67a9ec80a7d8a7d70332d13fddc5"
+   "cnUrl": "1a4a74b5dd7bb14a52f11fcfdba7cdb530d5677eea0b35cc1ae67742b1d24381",
+   "jpUrl": "4bdbdb6cee84f2eaf1dc37c8245814e6e33cfc11d4921851ec32fdbeac287de7",
+   "enUrl": "e800d2567c851487b756c1d6c87d91d27799bd77a90f26eb22e067a3053a63fc",
+   "krUrl": "c2832e92126f842a4dce3da5a02a1336fdb6b556f0307b00afde512960a767f3"
   },
   {
    "id": 21,
    "title": "สมาชิกทีม - Jing Yuan",
    "text": "ท่านนายพลอยากให้ฉันแสดงฝีมือ หรือซ่อนคมไว้ล่ะ?",
    "unlockRequirement": "",
-   "cnUrl": "9e3b43ad3044e53892b8245651db0f5c094d0117a9d7c82f2b572812ac11688b",
-   "jpUrl": "2e607459e2f212636d57dd654106d77807328e5f6c54e349aa7a4e2a5856a13b",
-   "enUrl": "2aeb3bd3b5f0a48ce023a1894030ef6411dca25240808a2fb21ca8ac65d3f50d",
-   "krUrl": "19f6b5e79d88da086c25e0dfb03010f6f97ee0b2ef6e7e85e02dd8ac4d973e5e"
+   "cnUrl": "ed0f1b4d8f964365f4741f798caff4900819e4e416e6866df1006e21312e5bea",
+   "jpUrl": "e721777bd368b955509628a6c9621c86eb6f236aa89aac73d65109988ba8f63d",
+   "enUrl": "8cdf56e3ad14816c22de854bec43fbc43ca96f656ea2dad94897ee49a94857aa",
+   "krUrl": "60ef30012362b1a10e5fa0503c0d51e57c3a95682c7386ebcd3bf877f3e3fc14"
   },
   {
    "id": 22,
    "title": "สมาชิกทีม - Jingliu",
    "text": "คู่ต่อสู้ที่ทำให้เธอชักดาบได้ คงจะไม่ธรรมดาแน่",
    "unlockRequirement": "",
-   "cnUrl": "124eaa44ea9b1292321fb4b0193c0d56a5a74525bbe070b461ebf903d8a56b50",
-   "jpUrl": "a29a05ae6480915f0d5750c5b1c888f5ffe349806da31148b2c9a21db3f05049",
-   "enUrl": "483e601e0d86abe2a772122682ea2cfaaf894861eb8db9c027585ae30550aab1",
-   "krUrl": "b2faba19e3bee5e4c35d1f0e546a0273307d783e35e1ec3c8d0c8658e0a90824"
+   "cnUrl": "a8db97a86e114ed62f7d87cf1985bcea0bffd0d4269cb170fd4a39a718e92687",
+   "jpUrl": "cee3a9d972fea4f49395f0c1c19cea335e6cc5d2e038482e80c4f0a46dccffed",
+   "enUrl": "7c5f32a0b31a483b1f31c19c38706b9a0a9697adfa8f9fc4c810989ed94c3e53",
+   "krUrl": "b35952207a65ba337734d94e3d8c303d073dc5a0aee667afa1fc1d15e9368abd"
   },
   {
    "id": 23,
    "title": "สมาชิกทีม - Dan Heng",
    "text": "ครั้งนี้ คงต้องร่วมทางไปด้วยกันอีกแล้วนะ",
    "unlockRequirement": "",
-   "cnUrl": "5dadec3f9bf6e75c1d52956782695c1210427195dcb84c9fafe37017e403db81",
-   "jpUrl": "0b237da88667d127dde8cc75e42c843ec82c64972fc6cb5305e5db9b86aa6dd0",
-   "enUrl": "444bdb5d359770777936d46aa0e77217bf30ad697925f56a18d7c7e265b12b55",
-   "krUrl": "20fa950201eeda0c16b5eb3a4bf1f724b032b64488c0d90a1bcaa4b069f55e11"
+   "cnUrl": "047b9a6ac270aa6aa0610111aa0408d8d4f492074b79d67cf6670d8f67d47ab3",
+   "jpUrl": "8fb96c1c5d42620e366e1921e38657e747e0fc7270b920de5cbfe0cf29aae3cc",
+   "enUrl": "7a4e21ee6727e6bdc55ac4198166d9d645aff4e6fc0fe41b90ebcde1056097d4",
+   "krUrl": "2542a3e30c037c2b15d46f987353f0bfcfc08ba92452df5de9c9af88aca8b5cb"
   },
   {
    "id": 24,
    "title": "สมาชิกทีม - Dan Heng - จ้าวยลจันทรา",
    "text": "ครั้งนี้ คงต้องร่วมทางไปด้วยกันอีกแล้วนะ... ใช่มั้ย จ้าวยลจันทรา?",
    "unlockRequirement": "",
-   "cnUrl": "4e4bcbc036020779748010026ed7708143e20e416da767e0af9b022cc9dcdc09",
-   "jpUrl": "c75405e32465d95f570cf9b4cfc2324b787659853dc41040357b471463ec043c",
-   "enUrl": "e85aa3e310b3c04af8f89a79a2779b8afcc8caa2458264e6244201a935734c4c",
-   "krUrl": "25f724165835d9c80d88844245c4a015a468f1793af30f1ce0c515060a7272bd"
+   "cnUrl": "87f5fcffec3e0588980f980946b53d309ee44f4263f491973bf642f8912d3609",
+   "jpUrl": "e50fa9c938ed4287159ea2ab211f65e042a702e8ec46b649b397e691ed2d466d",
+   "enUrl": "69298b6e43c411aa8fb07014425d796988380019e3ebbde3d64d2ba85162c87d",
+   "krUrl": "c84480db0394fc4232447eff1e2f92eb88591f9fc599ee7fffe2d4e8da7611b2"
   },
   {
    "id": 25,
    "title": "สมาชิกทีม - Blade",
    "text": "น่าเสียดาย ฉันไม่อาจจัดพิธีศพที่ผู้เป็นอมตะปรารถนา ให้กับนายได้",
    "unlockRequirement": "",
-   "cnUrl": "2ad57c3bf8873d002b29cc9b3937f3e7df4259511d50ce6f03ef2de6bbd53b51",
-   "jpUrl": "ad3b5c3ff68d1c1052c27d7cb88ed82e9a4ac365447b0f8587faabe39e71b668",
-   "enUrl": "e00bf5dd0cf8b553e4f50a11210432201df375c65e654d4455ae2bf6ccba33d1",
-   "krUrl": "c541edf5b31257df3a821b2eac55339659efccdd27e777455a1d8a5981dedb41"
+   "cnUrl": "4ecb335a8c32283298f3625d3884687084a4a24ad25f82b3a649c9e5eed291b9",
+   "jpUrl": "e1331ca20ae8f3e2dff715920c06df43376643634e26fc5e9d7e9e0f94549a46",
+   "enUrl": "f7e12fb9d1f4a997ed2be7cb4ae46b8672c9160f001c281d1f2b9f04d1882836",
+   "krUrl": "b0d730be1b5764d90763b13bb146747d21cbf7a74ee97cf0d7cb9dae6e5821a7"
   },
   {
    "id": 51,
    "title": "เริ่มการต่อสู้ - ทำลายจุดอ่อน",
    "text": "ได้เวลาคิดบัญชีแล้ว",
    "unlockRequirement": "",
-   "cnUrl": "052177b046a7ee889d5b2ccf945d2b61fd8e4290a76b95d087afd8437781016a",
-   "jpUrl": "745ce9394734a8e43491a3f1ddb09cd2faebf78350b586aa688f968e424c5be6",
-   "enUrl": "160a92d0fe7bd7c6546b3991dba850d1a1d45800472aa8ab7f861ba1ec20a851",
-   "krUrl": "aa90cd3a394d12f46ba6acad7cf9c5fd6e62542295f80a3f00dd710fba6c2fee"
+   "cnUrl": "ad0bcbab7df6a9dba8c5e1bce6a1ddc2b4b62eb0ebe97dad0830e3e68a236071",
+   "jpUrl": "77cee43acea58f87ad138620b9e1afee2b31840e010553688dcf7a340cedcfd0",
+   "enUrl": "ebfaf7ce56b462c1049c28217d5a865f2f03b3f1c920f31acb4c32554841bab2",
+   "krUrl": "dae50a521b4f614ee88594f19508cfab7b8687fa8e45bee3780b3e04fd1fca43"
   },
   {
    "id": 52,
    "title": "เริ่มการต่อสู้ - เตือนภัย",
    "text": "ประมาทไม่ได้เลย",
    "unlockRequirement": "",
-   "cnUrl": "525a55bde54ef4efce55f8562ea3a561ee62f61d2dfadc5d97844176da3d9731",
-   "jpUrl": "4ae81ed1547d9d456846d20323f7ae57d18d38310fd32d906983ebecc8a2a50f",
-   "enUrl": "7742551bde2aa78b8a521d24f74719779fe93fc13d48aeae951db2b78a4aedce",
-   "krUrl": "d34d3e2b61d40e5cfc0ffeb006f9d3a1d6e71131ab4a3032ca9da9a4e98e705e"
+   "cnUrl": "881a258aa74bc78c3fa755f9876ce13c93f484c7c93e38fe3403bc5e2630abd4",
+   "jpUrl": "50514fa4ad326b8e3690eeb6cc1ed72cd07da7a4c17ce5569d4be39d02b92d71",
+   "enUrl": "bd494362e3b7a82d13940d3a5fcbe172742db86c93dbbd544a7fade5a322863d",
+   "krUrl": "9d10d66a72b95c07669c35ab42c3e4aed9cf1f401ce3aef95a8a39acbb820c8c"
   },
   {
    "id": 53,
    "title": "เริ่มเทิร์น 1",
    "text": "น่าเสียดาย พวกแกเลือกคู่ต่อสู้ผิดแล้วล่ะ",
    "unlockRequirement": "",
-   "cnUrl": "782e0f2d47265b4140b67db0c3633b80a3b6d54c723df11f645cb6cce989c503",
-   "jpUrl": "070ea01cb8340c87134316bac4dbb85636791d9e6ae63bb8b4130861726045fe",
-   "enUrl": "be489f0929a35f2f31ba26860c262d016d2618aa785c6c278044b13fe09433f0",
-   "krUrl": "b5cbec294254e5d5ebea2c5c0471aed29b6d6fc3cb9a073cd31370407a285d29"
+   "cnUrl": "0210dc4f056b427e436c2cb5d887dc9240f49b6dd8dea54e6b47f865d70c8104",
+   "jpUrl": "5dc7f74135bf7b76647f2ca691fe2051a212aeb4a2e54d73d4e9dce65719b138",
+   "enUrl": "03e4cab459ef7b7bc73d52cc9f50d7dcf92c2ee712af3a3ef4891ffe14990299",
+   "krUrl": "8d82bc8a0cb29be1f49e15c73191a72312c33f85c6531b3ab040bcce6556b082"
   },
   {
    "id": 54,
    "title": "เริ่มเทิร์น 2",
    "text": "เดี๋ยวฉันช่วยส่งแกเอง",
    "unlockRequirement": "",
-   "cnUrl": "601a9ec5fbd5c9a264c0f009f3483b4a9eaf3e92005806167045effa93883b8d",
-   "jpUrl": "1b5d15987524151ab9cb336e1760eece99b1939db63f1c0a5693f7ceb40efe9b",
-   "enUrl": "a13b62623876777aca9af0b4dca9688958a2091dc72ad128b75008176208d1e7",
-   "krUrl": "1093f546534a3f56d9600565d33cbaeb20572c7763ef2d54f9ad612cef7b0cd4"
+   "cnUrl": "ce628afb2f19a14ccf4ba82c958a3cf0b5cc321a14b432332f11cc14d87c340f",
+   "jpUrl": "d0919c31117f46a5adddb582730c9daae8595e906a5c587777c2812f40fccbd8",
+   "enUrl": "dc5fd52fee53b25b42c55ef91ad5ed4c2484682d0c23a8bebc811d6b6f7dc51f",
+   "krUrl": "9bb93219848cc1e3e62c5d1c17201339fc8b22c55b719c8763d7ad6a5e688195"
   },
   {
    "id": 55,
    "title": "เทิร์นสแตนด์บาย",
    "text": "มัวลังเลอะไรอยู่?",
    "unlockRequirement": "",
-   "cnUrl": "424e8dea3d448ad9e078535eaf097f7261fdce10938d148197652b3ac97baee5",
-   "jpUrl": "e14e214b8e675499dc32f85af3bd9c8c28989664460c29c433499c456174a754",
-   "enUrl": "003db6c624729b93d10f5c10f47570067725728ffd8f3d83b41d0c1610ded90a",
-   "krUrl": "cfe27d7a1fd125a8fdbf99dc0853614044bddf7f1c53e9faf000d4a84ac81e50"
+   "cnUrl": "cf80ec1721d920810453fc97a587832023647a21449054040ebc3d23f6d16fbf",
+   "jpUrl": "c1b2af66d313bc743ff65c0b175a9a4385d941789086613e275b9c752b1001a4",
+   "enUrl": "68fd7179f0db2670ef89b3f9a2898d84d7cc0f57ae2cbd130d747c702034aabb",
+   "krUrl": "e5cd4a0d8db6963b84e6bc351a48ff72405a8ab072854b0f3cf396a185fe0ede"
   },
   {
    "id": 56,
    "title": "โจมตีปกติ",
    "text": "หึ",
    "unlockRequirement": "",
-   "cnUrl": "d78a63d269d12359088d99e8c30f6b668f214963ec191aca07cc623dd5d9e973",
-   "jpUrl": "011a76fac9d81e1cc92d0f0993ba3ab102d216ca71a518fceab5539cd01cecc5",
-   "enUrl": "d81d72a120b1275d6d5eaeb2279dd4d473b388f5f8afc3e26e475ea94cd7fc8c",
-   "krUrl": "399d1ae0028a5529338c31ba52941225d318fc8714069427154936f331b10986"
+   "cnUrl": "34e23030feaadcc85dba030b662c38c9cd7c21fafdcab5ba4b63e888278dda1c",
+   "jpUrl": "e2289323e4bd5dfd27a44e65ce5265da5e17f46623cbecee8bfbef3d89daa9e9",
+   "enUrl": "e5e2fba58df86870494893ad1a590faf4cf9f1a2505740cf1f22cd5e7f91d0b2",
+   "krUrl": "907f4fa3203dedc32afd302ed5d3229a61385875ec4f00a862effc3c746e1a34"
   },
   {
    "id": 57,
    "title": "สกิลต่อสู้ 1",
    "text": "ดอกไม้ขาวจงเบ่งบาน!",
    "unlockRequirement": "",
-   "cnUrl": "476f15ec749d775cdde2ffa100049040749a22aaebc4b861bfa9c423b8912ac1",
-   "jpUrl": "95f9d00ea03147427cfd1f290ac61d66a8dba0c27bee376e6296feff8575f22d",
-   "enUrl": "69947b4235278e896ff59f057575cf1928f5700865c7c66415c089ce5477a753",
-   "krUrl": "4d79f8d071c5d358fd295b79d0d18aa6c5892f73299b95c4d6c43f2ddf431dbb"
+   "cnUrl": "7900f3b5936bfd3c33edcda61c76effcbdf0c2972671e1c3644a60689944c461",
+   "jpUrl": "a36dc391d8bc1e296e5b8c9854fee4faaee8ad4e8105552b1dadb9f7a84ad0ba",
+   "enUrl": "6c4b9efc0c94dc423467ea89e44c61137695bfe1431d24acfde7607b216d506c",
+   "krUrl": "b70c7cd68395e3f5d362febf27c9331f41c25ea256ade8f28011ac2b2e67fe64"
   },
   {
    "id": 58,
    "title": "สกิลต่อสู้ 2",
    "text": "รับพรจากสวรรค์!",
    "unlockRequirement": "",
-   "cnUrl": "efb55a89dd61663f3cfd69d34fd63fbd8ac791ac8823bd99785b02ab92849316",
-   "jpUrl": "8f66d128e132cf37e292d0e82635ec478a8540cef70a90b4add70f802dde3239",
-   "enUrl": "6dd1aaf887cb4d4af942395108f71165c741f0d31a1b9d48b9a88c9c7cc9fba8",
-   "krUrl": "7de7578180b0155af0288cb68da318c2fcc0ff4817a90e43eff274f33ab3efca"
+   "cnUrl": "891b0326958f5b70002461c2daae022b325810e19b107973980b2f40e6d9fd0d",
+   "jpUrl": "1d4b5a353543c255975358598426c20222882ac0687180cb43a8eb26d55fb810",
+   "enUrl": "0507fe2c1e75231a6de3be80d3fff8b3b296000fe327c47d33105c0579f7c488",
+   "krUrl": "7f0bad0ca5903185948da40f9485a07a1cce0df05fe8b36707dcc881df71b218"
   },
   {
    "id": 59,
    "title": "โดนโจมตีเล็กน้อย",
    "text": "ยังดีที่ไม่เป็นอะไร",
    "unlockRequirement": "",
-   "cnUrl": "736ada97628e3a66f781227db9538f4512a808dbc4c27d5565f6ad46f7622fa7",
-   "jpUrl": "8401dc485f5d5fcfd21d9afb85a981e151ba3b1aa7b4e27e9fa2aea2f822a5cf",
-   "enUrl": "b55e3595951f257c6b5e73db89bb3bacf1004d1ee4d7ddacea51e1e2340aeb7c",
-   "krUrl": "6384f3a4272ce2eb8c71620a47802a3f96b62b6f0f851db4355b340f0ff01606"
+   "cnUrl": "fee18b197ae2fceaa4d60cdefc92658f2ec69ee8b765e53dec93946a948a2250",
+   "jpUrl": "462066045cc6e5608bd6f098892c167e12308bc2919df0cb8721501a84150bc4",
+   "enUrl": "28d9a66323c7000543a6a607bbe28a2d31845b6ef7b87edc4d185fc04aaf4d33",
+   "krUrl": "27b96cbe22694fd7822f34acb40c03ef81a0501b19e4cd34d5e409e25bcd7436"
   },
   {
    "id": 60,
    "title": "โดนโจมตีอย่างรุนแรง",
    "text": "ฉันประมาทไปหน่อย",
    "unlockRequirement": "",
-   "cnUrl": "1d3c19dfec60d12e1386cbd651e5859f376a512e564852b18b23eebdb026cc3c",
-   "jpUrl": "80d434cb5e19441390cb572e6729d884dc537f877ee2cbb89cb4a2d50b82f770",
-   "enUrl": "5ebd0414de630e7272b43b93f3adaa808eb16a68c8501277a8f9078e71a2da48",
-   "krUrl": "464016bd0566c8a7f44f35f920485a6bd6d78a8d8fbfc25120e0b188f7df569c"
+   "cnUrl": "bb6ac1b1e45e32f863ca0570495848d6c374de103ed622a708db056744babd21",
+   "jpUrl": "0c5ee9fbc2bc785cf136e5aff082b6cfeaee44a39b126ba29e9e943c055e1a42",
+   "enUrl": "1bdbed6a52a2c1914068542d55ab740107a0bfcdf73c0602e026513ed65da87d",
+   "krUrl": "044ed685bca7786042801ab9e1bcbc5708e2ec6525fe40f3cf0235013ae7a1e1"
   },
   {
    "id": 61,
    "title": "ท่าไม้ตาย - เปิดใช้งาน",
    "text": "การหลับใหลชั่วนิรันดร์ไม่ใช่จุดจบ...",
    "unlockRequirement": "",
-   "cnUrl": "1547b92ed7763be28d7f1137238ca002735920e746778606d4412832fe2010cf",
-   "jpUrl": "8e8a39959aa2f6981ee0077614d22f9babe183eb441229a90314112fd08b528b",
-   "enUrl": "d39fc0ad7aecd08cfd6db7c65bea3aec6180a218ef6eeccf28786b3e9143128a",
-   "krUrl": "9fb30f75fee66df42ce1e6467bdcbe6faee051c0df9597e984af1c99c2025e2a"
+   "cnUrl": "bb9ffb0d4b6199f8a0361d06e3bac2fe1379ec26ee7a2a6836d2340e88caeb14",
+   "jpUrl": "1288b8b9c10516256ad3bf5c0a776ad31b49c1af3dbef1926c05a01b809b2f5c",
+   "enUrl": "00e99bbb692a957442ac73013db6afabbe7f3b261c0e5c7cba93a46459169829",
+   "krUrl": "15e96293aafcc8df1aa9b75bef30a165cf01fa66089353b52a59a6e7f501cc64"
   },
   {
    "id": 62,
    "title": "ท่าไม้ตาย - ปล่อย",
    "text": "ผู้วายชนม์จะหวนคืนอีกครา!",
    "unlockRequirement": "",
-   "cnUrl": "5bd6aeabc7d83b37c3dfc7a9295816b79488de8b0addd4023d1fb155bbf94cf0",
-   "jpUrl": "8e852951ad690ea4bbddce19ceb439f63de6c58e810f47a735f4fa3418a84c0a",
-   "enUrl": "26368dfc97e257dc1792d1e4b2b4b2db66453ff79a702e72443783fb6ced5823",
-   "krUrl": "9b6a198085d662f75043a4bfa37fef11d6bc8cc8ba0d147df0fabfa658ed241a"
+   "cnUrl": "ccf47350e2c30f8f371f09e16be6f3010440645b9e710859e68e6cd089c63193",
+   "jpUrl": "8e4136a6c09ef2559848e104aa8d737947f6789b1a10c7e2ac83cebbff340a3b",
+   "enUrl": "b333cc664b8bc3019cb40edb47945eb12d0fe53062d37cd8312a6a058fc39e78",
+   "krUrl": "7a529303213eef5bb283353cef1233aba6e020680329c02fa0db8b905c879dc6"
   },
   {
    "id": 63,
    "title": "พรสวรรค์",
    "text": "สิ่งที่ช่วงชิงมา ย่อมต้องชดใช้คืน!",
    "unlockRequirement": "",
-   "cnUrl": "a54f65b3e05d5f1d630ca3d5b12afe37d917631cba782bb5923e6207f495f71f",
-   "jpUrl": "c859d765de9ed76f9a7e6f8b77cb1ffc9913d50106738e1a0bb9dba1fa18cbd0",
-   "enUrl": "80bcb6bf4e9c14ee5fc75fba1800cc3ea61fdf99c39dbfe6341a0651dd93ae6e",
-   "krUrl": "cdcf48a7e23fdd28f0423c2905b729ce2b59e9e150f8302e67b3b0caa1746926"
+   "cnUrl": "5196fe75989bd098caeba6ff8c56aa4d9b48fef95185fa24b2b757796ce05cc1",
+   "jpUrl": "aaf7ef6993b5dfb002aae5d30030679fda42f9c771994a2b209b784ab2db177e",
+   "enUrl": "3fb125db7d851d9ef557efe804275a7dff561e2cf65fe5efe21535ae5581ecd8",
+   "krUrl": "1f76a100cb14bde1cea2d063a3245836166d1f59ff9214a3005a1a2e7834b8c1"
   },
   {
    "id": 64,
    "title": "หมดสติ",
    "text": "ทำ...ไม่สำเร็จ...",
    "unlockRequirement": "",
-   "cnUrl": "b2adc0ef276ceb2ef4ff8f5c17ce325c135987c85d8cfaa5c9103f9ff313d56c",
-   "jpUrl": "58f68c83467f37b5c6a32666eefac0014085a8036b17bc00b6d6271417cd64d5",
-   "enUrl": "9343faa560fbd1060a6792e6750cf74d38e364715af2242ddb3790dc93af1e4f",
-   "krUrl": "5be8c5468fbe2cb1c78ee8d3c9ace54d182124003f8f48e54f5a8d486d0a02d3"
+   "cnUrl": "3e0c2625c75c353d0211ac5f711ba2c0daff49a15a77b297720aeed3a96e2541",
+   "jpUrl": "15d2fbde523b660227f8c4cf22b407bf8429fc460b2a21af3e5a7e62bd605d93",
+   "enUrl": "2e73c29d826f4b6ab64423efb44108f3559762b1eb98f01b3f6e09a39ccbb040",
+   "krUrl": "a7712132ff743a22ffd72620f069d8657ee47dd0c25781cdb20f6bf1e62c2de8"
   },
   {
    "id": 65,
    "title": "กลับสู่การต่อสู้",
    "text": "ดูสิ ฉันกลับมาแล้วนี่ไง",
    "unlockRequirement": "",
-   "cnUrl": "74764ac5d427a26bab78005520b8233126c1f780fa8ea38a1e354b7f8cbd7fbe",
-   "jpUrl": "8c8b87e3a296774017dd2c93e437681a9200d9fcc3226282fa095b0443f2025b",
-   "enUrl": "88141ede659992a5a636b24eff9ae6ea474f4386625b1683a4e83129a9136905",
-   "krUrl": "f6b8aad7c3c1461c284f1cac05fa40bc0a25379c383a9eb1ac517f015dc01cad"
+   "cnUrl": "02b69b2dda9c3925929b289ac8bbac1f9a99660a6e948f6dfb12e7596b537445",
+   "jpUrl": "e78f79cbcdc0852baeb64dfe1f4517931e2b460f0af0e0ea235cad6b0aea998b",
+   "enUrl": "1f6661fe0b3f615000c9f3c3b004cb1c15766e0d3e2d0d0b18608cf236e9c7a3",
+   "krUrl": "3b2c0e8107c1665685b790d3764f82fca60fbb82467cacbce8b480f97d3e0b55"
   },
   {
    "id": 66,
    "title": "ฟื้นฟูพลังชีวิต",
    "text": "รู้สึกดีขึ้นเยอะเลย",
    "unlockRequirement": "",
-   "cnUrl": "b99ad27959448cd533629166bbb23bdeb9e9abe514f07ea47062346b17b7c879",
-   "jpUrl": "0cc0b9c5e44e20a22b1d221edce18ca4971ec8149574057dff11118c404b4764",
-   "enUrl": "cbbf1550efb2f9f88e9b6c4fb19b87c5d0fc9e8b7b589f4bd4f48cfeeeea56d2",
-   "krUrl": "3935e7f7910ba24a547a784ddd5e1a1a76d6e6462de4abbab38f5c420dcfd5ef"
+   "cnUrl": "2aed75c4e2530add98ca16442a709f9d0d4d0f39b53e93f8805eaec9964fc23b",
+   "jpUrl": "2dd77c3bc53a9523c2ffe163b3ac04863bbfc9d5304a43e5852d46aca8ee2cfa",
+   "enUrl": "f42ace80b9ccc78982a1281bec1edc7e61af2a6925fc9f155f2f7d81f816e9ba",
+   "krUrl": "f46aa711d350be12ec14d39e666c761436b5eaebc1476d477083a77c78f99473"
   },
   {
    "id": 67,
    "title": "เทคนิค",
    "text": "รอดูได้เลย",
    "unlockRequirement": "",
-   "cnUrl": "b54938b3badff31eb6fa9efd34c6732e9be75ab62aafed81edbbaf599436c5c1",
-   "jpUrl": "411a9e5487dd6e0b3a639fe6bc72a0e2e5818bcfdab0ddd7375c9c0e8b514814",
-   "enUrl": "961749f8c320504228f942184a4d6231fee681b8b5049f1e8548f1b362f900d5",
-   "krUrl": "c3a5c60ea77acaf06f2396c8936b963968004255e5bac5ef8f2fcb1f747d7910"
+   "cnUrl": "9068ce32ab68509572e1544f69a9b409fb73afb038e639bd6cec68490dc1e66d",
+   "jpUrl": "69d13156a64a0e9ab508adae586648e478a08b6b3fdab29108284b33012412a3",
+   "enUrl": "f6bec9fb0c76f39bd547117ff997a6dbcb476d6d26e74d54b89e0c81075812ca",
+   "krUrl": "11b0fe6390d814ee27bb1c14dbefce3744f97918f5bc19dc7f639f7d7c506583"
   },
   {
    "id": 68,
    "title": "ชนะการต่อสู้",
    "text": "ก็แค่ความตื่นเต้นในชั่วขณะเท่านั้น",
    "unlockRequirement": "",
-   "cnUrl": "cb7bb1cfa5994c37f803fd366df648428bbbd3b7f9fc9ab80d9f883b76ca586d",
-   "jpUrl": "1638a82ed82072cb555e5edcbf7659b95c915bf84ec5fbd551f4296252a25495",
-   "enUrl": "1f2b464b230c0cfc05c365cea83f030d5ae91b19e1d83d4aaddb99d75e6735dd",
-   "krUrl": "1bd2fd9761e41149af65cd2ebd78f3561d0e6ae54e26d45d4ac52c5d68610578"
+   "cnUrl": "edc22e592b11e44db5870d572802a959ce5c8417f93665181024ccf4288aef5b",
+   "jpUrl": "4db3363b5d3ce8fea02da41be8d959b8c9a6ebce973238beb05bdaed9d1a6ecf",
+   "enUrl": "15fcdbcbed4566838882631ac39a2da28a5c94c8d62ed3de37cd226d6d4fb89a",
+   "krUrl": "c3ee9a94a6a95710e6aed88823e0721796617554af0b0d191beed1ec315ba2d8"
   },
   {
    "id": 69,
    "title": "เปิดสมบัติ 1",
    "text": "ถ้าชอบก็เอาไปได้เลย",
    "unlockRequirement": "",
-   "cnUrl": "cbf77b56d3fde42983e8bdd8772d78131bd32f2c68c2ffd0f5df1073ab39a679",
-   "jpUrl": "6ae4a015281c09bde2e2b9550ac0be0a7804c5ed763669ff60d2f5bf5fb78e98",
-   "enUrl": "fffd7c90651d2cabf3b3fd33b6f1b71f54336b031f30beee9ed26925c501964c",
-   "krUrl": "25bd876104219a9f529cda1346071f769bc0af12e6796147ce557d5f33750787"
+   "cnUrl": "d697fbce61dac5e24279b166197c6db8f95ea71cceb7f5311e7073dcc9694d52",
+   "jpUrl": "475a838ef437915c0dd2fa7382ab9ce8b4311ebab097c00949853e73eee84eb1",
+   "enUrl": "5ab0cf9e5e9f02c1982ba8d034d2efbdd0ce6db69253febadba1cd1bb0ea31ec",
+   "krUrl": "5af5f9731673432e19354f9bc1adb99d16f28711c7a54416a7f27633bc2ca970"
   },
   {
    "id": 73,
    "title": "เปิดสมบัติ 2",
    "text": "การเก็บสะสมก็เป็นความสุขอย่างหนึ่ง",
    "unlockRequirement": "",
-   "cnUrl": "3c2a2896cbfc5753d041d618994a6e054120d71d9767a3375bc61bde6dd6c7b8",
-   "jpUrl": "4e50bcacd0ac2381e15e999597efb3113bf9d79bcb8137584d8ac6de499c340d",
-   "enUrl": "68e48f2bc54d3966b2afc333cf4bcb8907457cd69d14e78d9c5d1eb195dc9a70",
-   "krUrl": "e8b5d7a39431f5dd4c0433129a1490ec437d070ce11e02db976f72fd229fe023"
+   "cnUrl": "2eefde423dae92cec71aacccf93dacfb5bf311faacfad7d0e5284a2c98cf8e4c",
+   "jpUrl": "60bbc092dd1d64d0513edb1f49f0895a7598501932b4a446eb2a3f6b34c73493",
+   "enUrl": "256557324638419fadfdad80f62c3c51259528a972c6d70db7da4f7e0080bce5",
+   "krUrl": "0d38e32979850d247132af365dd517cce759e6ac57873f8445ba1a32a90cf2cb"
   },
   {
    "id": 74,
    "title": "เปิดสมบัติล้ำค่า",
    "text": "สินค้าชั้นเยี่ยม",
    "unlockRequirement": "",
-   "cnUrl": "9d3a9b6fe56346d7983c799c9f3337a19c1967b28470a369b2b8a3209d388a9c",
-   "jpUrl": "81193754e9dfc14e7f4bc916b99aa7a7cbfbd5c21660562ecd7c0b76d73c9445",
-   "enUrl": "ec083c11e809900ae9cc778156257d2dda13570bc4822b635c6de91e58ff4bd7",
-   "krUrl": "8015542edca9082fc2d456d74ebdfb40d7443508c19aeaefd2824367a0a069a4"
+   "cnUrl": "c2dcc065837714d8c9b533506c9994bcc7af65c5d994a6b7a6a479325e05ae36",
+   "jpUrl": "498a9186e7d927f851b114c8b702faa58c10cf85a72b4ab6f1839f5a96f273e5",
+   "enUrl": "d0cce5836b2ecc5a874555aefc3e93ac2fb400941afc6612200f0bed33c3f984",
+   "krUrl": "c78413357f3a81a407ba8b5aa372479cc2678257c0d5afa195e575177cff17a0"
   },
   {
    "id": 70,
    "title": "ไขปริศนาสำเร็จ 1",
    "text": "ก็แค่กลอุบายธรรมดาๆ",
    "unlockRequirement": "",
-   "cnUrl": "55a4d52f792579c2426175842273d4302089abf664c9db130828b4893b368d39",
-   "jpUrl": "a05b210e781eb382e3de3beef93a11d0d99cf2da8eb932f520947dba04af9d2a",
-   "enUrl": "eb6a5a6fc5133f2ffe18c009c8aad68fcbd0440476f2c480229f45ab191f436a",
-   "krUrl": "90a8820e577fbffaa07f409259cab56e9a3a87bc98da8a35e6adb4ef4a561260"
+   "cnUrl": "e6646c6093b338d805057d317e3bad67596d4b12b6dfd20e7a62b1b516a4801e",
+   "jpUrl": "643608d6defb9ec5d6dcbc9ed435395518f2db3e1af1fb4cd90be67d9431b725",
+   "enUrl": "889853a60e5b535c4cd38d607cf2b01a75c0a397476f8530af19f2eac8c43e93",
+   "krUrl": "49e04a3082e2183278b2b51ab3405b5ddf2e8a1a55f5a30abf332dbfca6e0967"
   },
   {
    "id": 75,
    "title": "ไขปริศนาสำเร็จ 2",
    "text": "ทำการค้าในต่างแดน ยังไงก็ต้องหัดเอาไว้บ้าง",
    "unlockRequirement": "",
-   "cnUrl": "ce20d6b4564d72dfdbddcc001dd650fcece928defa40d5e064d2da2ed2e05331",
-   "jpUrl": "c27c75902db5319bcc4ec067f3e2da652c8a625e9ea1f815065ac635a49df7a2",
-   "enUrl": "5960eb522e4fdcb93f084d732f23f377b5e51cfc0a102992612b81025134a0fb",
-   "krUrl": "91137c30f80ef30f513b1fbf909911453d08ae9abfdb67693354d3155e701075"
+   "cnUrl": "25b375b9b69641a1b0ec5522fa03ac438e10886b6878fbb12c3aa6ad0708920c",
+   "jpUrl": "5af708bc56e773296cba95035568c184f1587e23a3452f4f1c586c9162b2d6eb",
+   "enUrl": "5191aee7d3363c68b52fc2ef04cdf4385fc17f629881006276b89e6ba2fb5a07",
+   "krUrl": "b3091bc57d4e2b9877492e20630edc153dc68ef2eeb5b6c973b6bb6208216e75"
   },
   {
    "id": 71,
    "title": "พบศัตรูเป้าหมาย",
    "text": "เจองานช้างเข้าให้แล้ว ทำตามที่เธอ/นายคิดได้เลย มีฉันอยู่ทั้งคน",
    "unlockRequirement": "",
-   "cnUrl": "f2e27eca60bd9fe39a0c7fcb3092e9199cdc0a7a579edd90637c48ed4dc65263",
-   "jpUrl": "a598047496f257be6ab0be4a039edea65159b386bc007be77820e2468cbb145f",
-   "enUrl": "eb0508539c1d3089277521aaab950c8ce8602b9170e07639a41b7ee6e91f8dc3",
-   "krUrl": "9cc13cc9b2420c9e050ecfa5a36099d2e3d65fb8ef7fd5bc7fa0276455486eaa"
+   "cnUrl": "5498d205415f8de328c2cd6e55c3eaa2b34374272e8bfcd0b3b242da04799827",
+   "jpUrl": "921fff94e4379b10800bd49f10b97e88c11477080904fd2b57cfb8ca48234dd3",
+   "enUrl": "0c8d9a5dcf0cd15a7ef52608dbd8c0623c014229c0c527b12b85e36b2999661d",
+   "krUrl": "22b2654623cf784de3b63af6370a5a1731da5a76224411c08f42277b63d76dd9"
   },
   {
    "id": 72,
    "title": "กลับเข้าเมือง",
    "text": "โลกนี้มีแต่ความวุ่นวาย จะไปพักที่ไหนได้?",
    "unlockRequirement": "",
-   "cnUrl": "c7a9fbda89b2a9e0a079688e1bd2140639933e7aa720024120a3b97dc5d06a09",
-   "jpUrl": "a52aff054043d6f8211d672f1ab9262a5ad5696c41a9680961724598fc087a73",
-   "enUrl": "6d0afff95dc041c762a3ab3200b1daebb2251506c84217e11bea88862b47d4d6",
-   "krUrl": "372782af01105ba62981c053a1b5cb7dde0ba2216bf1b081b56bef2443cd3337"
+   "cnUrl": "2a29be68c456e5b8272076f6a82497c04e3536acdd065273a4653121ad736e94",
+   "jpUrl": "dd56620e4753c6b2685c6b891d4548285ec41f07dfbbe09932025bb94c8e95e6",
+   "enUrl": "0ecbf8f9b4ddceac194a193ae4c481de04b6d4bf52a6045f31062389ceb082c9",
+   "krUrl": "91e4c99d77399b1c600169a9778e7d24537069bade861c9661b1ebdf2a94fe2d"
   }
  ],
  "storyItems": [
@@ -2773,19 +2777,19 @@
  "name": "Luocha",
  "rarity": 5,
  "descHash": "พ่อค้าต่างแดนจากโพ้นทะเล ที่พกโลงศพติดตัวอยู่เสมอ และยังมีทักษะการแพทย์ชั้นยอด",
- "artPath": "d3cf545d05cc41aba752df251deab8b5285ed7c3fabdca4f943a5e6b9118e999",
- "miniIconPath": "0e81df15dffd85559e6c53ab2fc58e092e68d368a2d7b2d7431347637ec263e9",
+ "artPath": "aed260aa7dbaf740bdc12bf6c877e8eaa695a31e362a3c1e169d9462eead049a",
+ "miniIconPath": "807b558ebafd59597bdbc235ced8200c3bed8d8a7c7c70b299617e59a02c2639",
  "damageType": {
   "id": 64,
-  "iconPath": "91b47b558df75f608b0a8aa93f35fd2063ed789ec25cbcc7bee926c60fba7ab1",
+  "iconPath": "e2b4f38f1a093eaeb29590634279febc9a6f3a1b5753684b7fffac8e5d23e981",
   "color": "#F4D258",
   "name": "จินตภาพ",
   "rarity": 0
  },
  "baseType": {
   "id": 0,
-  "iconPath": "81e58cfdc0c8a9a026c2c3111a6bdf663d572fa71524907b004fc5eb7f34fade",
-  "altIconPath": "c825fa86e9a217db6e704916b2d5aeb22c5733b2776a0ea16c558c29e6c5c92c",
+  "iconPath": "099f836bb82a0db5555a593235596f78b0afd634e500ed415da9f15b9b74a6cf",
+  "altIconPath": "4ae54818a3ef9c3327e9f885631cf822027493ad6c541701f20810664969295e",
   "color": "#FFFFFF",
   "name": "เฟื่องฟู",
   "rarity": 0

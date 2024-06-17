@@ -2,16 +2,17 @@
  "name": "Avant l'aube",
  "rarity": 5,
  "descHash": "« Ne prenez pas cette décision à la légère, Général... Réfléchissez à la façon dont on se souviendra de vous... »<br />Le général des Chevaliers des nuages écoutait son subordonné parler, les yeux mi-clos.<br />« L'histoire se fera son propre jugement, je ne me soucie guère de mon héritage. »<br />« Si je réussis, on dira que tout s'est passé conformément à ma brillante stratégie. »<br />« Et si j'échoue, on dira que je préfère m'occuper de mes oiseaux plutôt que de mon peuple. »<br /><br />Un pinson sauta de son épaule, et il tendit la main pour attraper la petite créature.<br />« J'ai pris ma décision. »",
- "iconPath": "74222d551e0b8cf4d79f82e8f3f12a308720e7d24404eec5ead32eba3833db93",
- "artPath": "95d7726c284d6d53c31cb91a3c71c3323cdf1121fce9d40c88e9b8ae75ba6b02",
+ "iconPath": "e1721c5d20fa7321daa097b303abdd6d152bdcda08c8d90456cef1b372d629b4",
+ "artPath": "264323ea1475a0b705c59cbed87a061206418157c7343db5529a8acb561c272e",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRsABAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSAoAAAABB1D/iAhERP8DVlA4IJABAACwCACdASoUABwAPm0wlEckIqIhKAqogA2JYgCdMoPM5yr8Btq+eV0zneR64Cql3jtmf9jAoMcrDH/OF6shs1shym8W5E+Cc50u7glraIAA/raNk/VR20fG6FIcCp/x7Z4NIPei51XSfjgWPPLN5qXrQGAkx+EJ2xmTABtT8fWY3i8SM4NTkZkfFTtqcWPF/LDU13nd04mJWu2Ge0oq9Z+MFgAt3sWn/6lpVHxiwACYodWl4bFUgHm/r1rTKkAuPHvA95aTjwZKfueiIWbNEhIyH4A2C5aNxPFx2w1x4JsxAXe7bWx3i58RvfHKvI3iT5mKq2P5kWt/15CNk8d5j8vEknoE0uvvvP7uDXIUow3IJAPv5sghLFctbkKvXhD7J2JrBGx+pshaJzQ/I5fykbV9oXwG+B65uvvdCbyF1vM9Ir7F64B9nNzC0m1ThYvDFpx5ga1VkHqRgJBPPi7suRap51g0m52+wTALeKDWRSGZflw4DTVL3uzQ6g6rKy1FNdja9HJl29zlWWlo+ZmfPAAA",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "6073051055a1a1b4d091c0f94d0aff937dc713de67777a7262d8e5f017a4d01f",
+ "mediumIconPath": "6e475fdf5de5c06c3f3b466eeff964e7a74b63ade9d01be3649cff5f9ac50326",
  "baseType": {
   "id": 0,
-  "iconPath": "a1916e75aa6a99295aa01786a946ae601da457b578603446740cbe30bc5fba5a",
+  "iconPath": "666728a6ff62e1312e1a1fc35ef8beb21f55310b14a5b76c94fbbdcaf2cb9a89",
   "color": "#FFFFFF",
   "name": "L'Érudition",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549504": {
    "id": 549504,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "71d58f084522c87e93327e3e7fc1db8fb4abb65e9989b163d4a348c9a3761329",
+   "iconPath": "6c179a11ddab366162a8539ea956319bacacb460c375d4b3d7f4ab3637918e75",
    "name": "Jeune pousse immortelle",
    "desc": "Jeune pousse ayant bourgeonné à partir d'une ancienne construction divine. Matériau commun utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Il y a de très nombreuses années, le désir orgueilleux et démesuré d'un souverain pour l'immortalité a mené la flotte de Xianzhou à lever les voiles en direction de la mer cosmique pour y rechercher des remèdes divins.<br /><br />« Nous voulons vivre jusqu'à des temps sans fin et maintenir notre empire pour l'éternité. Malheureusement, la vie humaine prend toujours fin, et les capacités humaines ont leurs limites. Par conséquent, nous avons envoyé neuf Navium Astriger pour naviguer au-delà du ciel, à la recherche des recettes divines de l'immortalité. »",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549504",
    "comeFrom": [
     "Abominations de l'Abondance",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 633445,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "fc1f8e93b552510a719e96df3c4e48ace4f905d262668303315d785b951a7c04",
+   "iconPath": "d1124c0146a84ca0b7fea540fdaf95e66dc3e8f128ec5a9f9250b388c8183db8",
    "name": "Aérofleur immortelle",
    "desc": "Nouvelle fleur ayant éclos à partir d'une ancienne construction divine. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Après d'innombrables tentatives, la flotte à la recherche du remède de l'immortalité était capable de contempler le visage de l'être divin. La divinité envoya ses bénédictions sous une forme matérielle, et l'Arbre d'ambroisie étendit ses feuilles.<br /><br />« De nouveaux bourgeons descendirent sur la lune, où des fleurs divines se mirent à pousser entre les nuages. Le temps de la floraison, le vieux bois retrouva sa jeunesse. »",
@@ -72,6 +74,7 @@
    "comeFrom": [
     "Abominations de l'Abondance au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -80,7 +83,7 @@
    "id": 635675,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5d1c50902cff0d2be1eb952d08078e3134c231cdf0c9142c1ef475ec07c42b50",
+   "iconPath": "0558df3e5e5ca8710ff54542568bf59d21e7ffd5fd542d4ce0b64236047cc80b",
    "name": "Clé de l'inspiration",
    "desc": "Clé mythique conservée par les érudits méditatifs. Permet d'améliorer légèrement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Érudition</span>.",
    "lore": "Elle est capable de débloquer des inspirations enfouies au plus profond de la conscience.<br />S'emparer de la clé, c'est saisir les braises de la pensée qui éclairent la voie à suivre.<br /><br />« Eurêka ! »",
@@ -89,7 +92,7 @@
    "rewardPath": "/material/635675",
    "comeFrom": [
     "Calice de la Ville de Rivet",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -97,7 +100,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -115,7 +118,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -126,14 +129,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -151,7 +154,7 @@
    "id": 717386,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5708b196a8af89740ced588d98dc414c791d209879957fb0bc8644cc2dc84adb",
+   "iconPath": "fd7a32682f691044c47ac3a898e66880b2f442ae41c7264f87c4101558550161",
    "name": "Branche-lumière immortelle",
    "desc": "Branche à feuilles caduques provenant d'une ancienne construction divine. Matériau avancé utilisé pour le renforcement.",
    "lore": "La source de la « vie éternelle » des espèces à longue espérance de vie de Xianzhou. Les vestiges de l'influence de l'Aiôn de l'Abondance. Après les Trois Souffrances, Xianzhou a été en proie à la dévastation. Les Homo celestinae se sont retrouvés au rang de démons, et les catastrophes se sont enchaînées sans discontinuer.<br /><br />« En vertu du décret de la Commission des dix seigneurs, quiconque sur le point d'être frappé par le mara sera saisi par les juges infernaux et envoyé à la Prison des enchaînés. »",
@@ -161,6 +164,7 @@
    "comeFrom": [
     "Abominations de l'Abondance au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -169,7 +173,7 @@
    "id": 836261,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "36e68603fbc67d4b69c02e01d7d5d41a80446ea6c49b1d828b47320f6225825c",
+   "iconPath": "f20dcddb7d5f53ca8e31f98f97f55ba2c8ebc935e110471bb9e1d913fa53025e",
    "name": "Clé de la sagesse",
    "desc": "Clé mythique conservée par les plus grands prodiges de l'univers. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Érudition</span>.",
    "lore": "C'est la preuve d'une invitation aux salles du temple de Sagesse.<br />Trouver la porte qu'elle ouvre s'avère être une tâche bien plus ardue que d'obtenir la clé elle-même. Ceux qui franchissent les portes comprendront rapidement l'impossibilité de revenir en arrière.<br /><br />« L'Érudition n'apporte pas les réponses à l'univers, mais elle vous apprend à poser les bonnes questions. »",
@@ -186,7 +190,7 @@
    "id": 920202,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "489f5c80b6f0de258e076634803c9540b0504c32e55f556748095c334780289d",
+   "iconPath": "26f9f701e21f71fb607d18470b7aee7ab70485eae418ec41e6b0ff10940c2f16",
    "name": "Clé de la connaissance",
    "desc": "Clé mythique conservée par les sages des mondes. Permet d'améliorer modérément les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Érudition</span>.",
    "lore": "Elle est capable de dévoiler les mystères du monde et accorde des connaissances dépassant l'entendement humain.<br />Quand bien même le porteur tenterait de se vanter de la posséder, lui seul en verra la forme physique. Certains pensent qu'il s'agit d'un cadeau du ciel, tandis que d'autres y voient un signe de maladie mentale.<br /><br />« J'ai rêvé de molécules s'enroulant en boucle, tel un serpent se mordant la queue. Je me suis réveillé et j'ai compris que c'était là la réponse que je cherchais depuis tout ce temps ! »",
@@ -196,7 +200,7 @@
    "comeFrom": [
     "Calice de la Ville de Rivet",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

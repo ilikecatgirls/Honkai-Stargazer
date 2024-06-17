@@ -2,16 +2,17 @@
  "name": "Clameur du monde",
  "rarity": 4,
  "descHash": "Elle se tenait sur scène, faisant signe à son public, l'encourageant à se faire entendre.<br />Chants, cris, soupirs... tout ce qui faisait du bruit.<br />Dites ce que vous avez sur le cœur pour que les autres puissent vous aider.<br /><br />« Faites que votre cœur ne soit pas aussi froid que cette jungle de béton. »<br /><br />— Faites entendre la clameur du monde.",
- "iconPath": "42131af601e4eb0520ead795ec9cff31f444e306dc4fbbd6ec89ded052db2847",
- "artPath": "b3e3d54eba4ea560dd24a34f5cccbe87f27bec388e432d59d33d068825f5edb1",
+ "iconPath": "0be6ad27c48edac114542beaa931d19676033978d2fa60cd34ac4fa215f9ef58",
+ "artPath": "49599f9fe4c90765f9fbe07f9c43c60107480101cb624853f563ea9155327abe",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRlgCAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSCAAAAABD9D/iAiobSSpCfFs/7ViNsN0ENH/UI5F+SkaFGWIP1ZQOCASAgAAMAsAnQEqFAAcAD5tLJNGpCIhoTAYCACADYlsAJ0yhHXnqtuHa7tu+oDbAc+B6AN4W3jqYxeQGMwsunQDZrPpj2Bf1k/1P5hhjzI/k75dsms1YAnSqjEf7PuXZJPwQyL6ogAA/vughH4xE/tGVuL9EHZVbqx7S1BVv4M5Gmw+xg/oxfSX8PRsDwQvnKP29Dr40FYhoeZ+b0wXE50RzJM7oLMJj1n579+Wb5daMJhVBF2Wd+CQt3qfLK0QmbTrOahF4xzSm+ruFtGejjyj2a1TRMeuGIlQf1UF8ZLHMfoxsMpwWx/3S256OsmkEEJx3bTkVkYXGRYNmOSvcOzwqauwKWjdfXHyt/3jwEeRKipDw/tfpTuITekf5VAN3+aYHcf+M+mmhdlf8YkwsHyEn60H0KySvC/1gH938XhsHU+8SvQl91vZ5/gBI1zYy78Cl/8dhm/4v/48h/3RR/F8K5DIOUlXgY/HOX01qh5nQCs/b/70E6zHDaWP65HkhPa2z+sXFrq86CSkVpCEEHF732ydAPcf3Dyp1BYiK0zkQvPMC4aox7ZYvraUna/H+VlS7zkrqyl72//P/OlxogUzg1bMkThmNe/pZsRXpc+OqoP3h93t8vPrR//y3+sZ3uil522BpPv6MHZknx1VpPxOTFYXFvq4KcKmZkDZVM5oL7ROlR1T/HmUZpVPmf7QpzS6aeAAAAA=",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "2ecdd3d31c9fab9e009a25f7fcdd0adcaea441a0ccc71f8c7b7c40fd17d2d140",
+ "mediumIconPath": "446c21465f478c8b186c0e09013f958729177a9c2d43f817305339ca3de49f0a",
  "baseType": {
   "id": 0,
-  "iconPath": "a1916e75aa6a99295aa01786a946ae601da457b578603446740cbe30bc5fba5a",
+  "iconPath": "666728a6ff62e1312e1a1fc35ef8beb21f55310b14a5b76c94fbbdcaf2cb9a89",
   "color": "#FFFFFF",
   "name": "L'Érudition",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549408": {
    "id": 549408,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "28d0ba947e29fa63210d8ae2c432cb80339f98427c8655a9ca050184f69c4819",
+   "iconPath": "66b7af9abc3a5b3a0c397e90ff5b79398ad5f3ed452c3adeb20a467543fd8810",
    "name": "Ancienne pièce mécanique",
    "desc": "Pièce mécanique provenant de l'Ancien monde. Matériau commun utilisé pour le renforcement.",
    "lore": "Malgré sa taille, elle a été moulée et polie d'une façon qu'il serait difficile de reproduire aujourd'hui.<br /><br />« Une simple vis de l'Ancien monde est plus solide que nos armures. »",
@@ -51,9 +52,10 @@
    "rewardPath": "/material/549408",
    "comeFrom": [
     "Automates",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -62,7 +64,7 @@
    "id": 633349,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "7089e982e18575f3824ab28ae0e91f40c8214edf6253a7162142bdc7fc0acdbe",
+   "iconPath": "eee031381b2ae54c8df870a7c9f5089dfb9b6fa995a2c2ff29efb09bbffa02ef",
    "name": "Ancien essieu",
    "desc": "Essieu mécanique provenant de l'Ancien monde. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "Une fois démontés, les composants de précision ne peuvent pas être réassemblés. Même les vétérans de la maintenance de la Division technologique de Belobog y réfléchiraient à deux fois avant d'y toucher.<br /><br />« Imbécile, les Tuniques bleues ne vont te donner que quelques conserves en échange. Amène ça au boss Svarog et tu n'auras plus à te soucier de ta nourriture ou de tes vêtements pendant un moment. »",
@@ -72,6 +74,7 @@
    "comeFrom": [
     "Automates au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -80,7 +83,7 @@
    "id": 635675,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "5d1c50902cff0d2be1eb952d08078e3134c231cdf0c9142c1ef475ec07c42b50",
+   "iconPath": "0558df3e5e5ca8710ff54542568bf59d21e7ffd5fd542d4ce0b64236047cc80b",
    "name": "Clé de l'inspiration",
    "desc": "Clé mythique conservée par les érudits méditatifs. Permet d'améliorer légèrement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Érudition</span>.",
    "lore": "Elle est capable de débloquer des inspirations enfouies au plus profond de la conscience.<br />S'emparer de la clé, c'est saisir les braises de la pensée qui éclairent la voie à suivre.<br /><br />« Eurêka ! »",
@@ -89,7 +92,7 @@
    "rewardPath": "/material/635675",
    "comeFrom": [
     "Calice de la Ville de Rivet",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -97,7 +100,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -115,7 +118,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -126,14 +129,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -151,7 +154,7 @@
    "id": 717290,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "4ef8700321d72ae07d3b931df6b9f6567d87f4035e2afed42d53e7c53aa09ceb",
+   "iconPath": "e57cd777cd6ae2ec9c4d8aa0fa1e9a18f5114a2b78d59db8bcc9231d470f77fc",
    "name": "Ancien moteur",
    "desc": "Moteur mécanique provenant de l'Ancien monde. Matériau avancé utilisé pour le renforcement.",
    "lore": "Il utilise de la géomoelle comme source d'énergie. Lorsqu'il est alimenté, il crache des aurores vagabondes, et non des étincelles.<br /><br />« Il n'y a que la Division technologique directement rattachée à la Gardienne suprême qui a accès aux informations concernant l'Ancien monde. J'ai perdu mes accès quand on m'a mise à la porte. »",
@@ -161,6 +164,7 @@
    "comeFrom": [
     "Automates au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -169,7 +173,7 @@
    "id": 836261,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "36e68603fbc67d4b69c02e01d7d5d41a80446ea6c49b1d828b47320f6225825c",
+   "iconPath": "f20dcddb7d5f53ca8e31f98f97f55ba2c8ebc935e110471bb9e1d913fa53025e",
    "name": "Clé de la sagesse",
    "desc": "Clé mythique conservée par les plus grands prodiges de l'univers. Permet d'améliorer considérablement les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Érudition</span>.",
    "lore": "C'est la preuve d'une invitation aux salles du temple de Sagesse.<br />Trouver la porte qu'elle ouvre s'avère être une tâche bien plus ardue que d'obtenir la clé elle-même. Ceux qui franchissent les portes comprendront rapidement l'impossibilité de revenir en arrière.<br /><br />« L'Érudition n'apporte pas les réponses à l'univers, mais elle vous apprend à poser les bonnes questions. »",
@@ -186,7 +190,7 @@
    "id": 920202,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "489f5c80b6f0de258e076634803c9540b0504c32e55f556748095c334780289d",
+   "iconPath": "26f9f701e21f71fb607d18470b7aee7ab70485eae418ec41e6b0ff10940c2f16",
    "name": "Clé de la connaissance",
    "desc": "Clé mythique conservée par les sages des mondes. Permet d'améliorer modérément les Traces des personnages de l'<span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Érudition</span>.",
    "lore": "Elle est capable de dévoiler les mystères du monde et accorde des connaissances dépassant l'entendement humain.<br />Quand bien même le porteur tenterait de se vanter de la posséder, lui seul en verra la forme physique. Certains pensent qu'il s'agit d'un cadeau du ciel, tandis que d'autres y voient un signe de maladie mentale.<br /><br />« J'ai rêvé de molécules s'enroulant en boucle, tel un serpent se mordant la queue. Je me suis réveillé et j'ai compris que c'était là la réponse que je cherchais depuis tout ce temps ! »",
@@ -196,7 +200,7 @@
    "comeFrom": [
     "Calice de la Ville de Rivet",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }

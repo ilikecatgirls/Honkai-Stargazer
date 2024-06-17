@@ -2,16 +2,17 @@
  "name": "Seul le silence subsiste",
  "rarity": 4,
  "descHash": "« On ne devrait pas descendre ? C'est notre arrêt. »<br />Il entendit un ricanement au-dessus de lui, ses yeux bougèrent mais il ne leva pas le regard.<br /><br />« Pour être honnête, March dit toujours que tu n'as pas la moindre expression, mais je ne suis pas d'accord.<br />— La banque de données du train indique une mise à jour, mais les résultats n'ont pas été sauvegardés.<br />— Alors... quelle entrée posait problème au juste ? »<br /><br />Il serra son stylo en regardant la scène sanglante dessinée de tête dans son calepin.<br /><br />« Je vois. C'était celle qui te concernait... »",
- "iconPath": "a484e467911f5a52ce30b632a46d7660ac07b63aa5d0c54a006ba337d8b856f5",
- "artPath": "43aa269a8c9a982286b179e8ee3d218b865073547c6fce942e339bdbd291c2f6",
+ "iconPath": "1199c7ed5a71b1f9fdd10560bec96f936d63b1fee7a630e2474e9494505e9034",
+ "artPath": "9a3ae3851947ec0e5a75d70be20dfa4ef6fe01d9900ae29784ec9eaac0a90d7a",
  "artPlaceholder": {
-  "w": 0,
-  "h": 0
+  "data": "data:image/webp;base64,UklGRrgBAABXRUJQVlA4WAoAAAAQAAAAEwAAGwAAQUxQSBcAAAABD9D/iAiQBYMg5E8T2u4iiOh/kHfDDABWUDggegEAADAIAJ0BKhQAHAA+bSyTRiQioaEoDVCADYlmAJ0y1UD/BLgN4Bz1WmO7z6V4IZb45h5Agxvt5t/rWEjgOT+waw+R04O01SzFeWgAAP78yI/aKA7rrl98ltCmYjBEE8MwE92FrPQDcHfigsN8nEHSsvdbdwkzBFzSBT5Dvp6bWzjFo04rNWWOzY/PKT+8DNTMNf/qm5RAO3LYBBfjx68L3BSGybU9k1/1ptEFOtX82Yz8TzUtvyvPEj/8pGvOJEumn9rC6o2An/Ai+6bvfL4vEuFNbpCwirMVjvE+Tq/0SXQzh/D9dl7q/lCY5kTnduvYjg2V2vxu2RYQdQXxMKWnwFmtCJrnBo32R7p6opaF88vAs7prNwC2KFPjp8fciYJvyifNgXGvOm/1trRov0thGAFrOxshyGktdmHWd/9997vLXv6JIgglCSRv6d1DQkj5nw6eZIlfi/RNLhtR3vjQIny73UtSSJJ5Evm64BIBXSLctnJuERG7RuAAAA==",
+  "w": 867,
+  "h": 1230
  },
- "mediumIconPath": "07d16f638ae25bffbd00456983ee616010161443417da150e4794f75947d0729",
+ "mediumIconPath": "b4d8b7b1c62f7aee6d963562d99411037d0c2c63e433c90fcc331c7396877602",
  "baseType": {
   "id": 0,
-  "iconPath": "948d90296adc5203a105a16be892d9e4d5e83c93df11abf59a8ad4321e37fbb8",
+  "iconPath": "d5302975290739e51dc53d919353f47705d836fa6db628c190b1faaf195f7319",
   "color": "#FFFFFF",
   "name": "La Chasse",
   "rarity": 0
@@ -22,7 +23,7 @@
    "id": 29328,
    "type": 101,
    "purposeId": 11,
-   "iconPath": "5f5d136a26ef31f77e957533a35243f3fe1773b3167eb996dd3bc3e9508165cb",
+   "iconPath": "8fc9b77806662a775629ea8ec25d17374356ee5827146419aefefb4e5fa64a27",
    "name": "Crédits",
    "desc": "Cette monnaie, utilisée par la Corporation pour la Paix Interastrale pour les échanges commerciaux avec ses clients, est désormais largement acceptée comme devise lors des voyages spatiaux.",
    "lore": "« Les gens se battent et négocient pour des numéros à un terminal, mais les choses les plus précieuses ne s'achètent pas. »",
@@ -35,14 +36,14 @@
     "Calice de l'Hôtel Rêverie du Pays des rêves",
     "Récompense de mission",
     "Récompense d'affectation",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "549407": {
    "id": 549407,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "d5bfc95d74fab56f9c9be440028051ed2a9e02f4ee968c8d3db170d5b55dd931",
+   "iconPath": "a72fcf2954997ca8c5928ceaf5a1627bb831e3c8632cf048466d7885560c65be",
    "name": "Badge de la crinière d'argent",
    "desc": "Badge porté par les soldats de la Garde de la crinière d'argent. Matériau commun utilisé pour le renforcement.",
    "lore": "Il est criblé d'éraflures dues à l'érosion causée par le vent et la neige.<br /><br />« Dans l'ancien temps, il n'y avait qu'un seul moyen pour les Gardes de la crinière d'argent de partir à la retraite : la mort. »",
@@ -52,9 +53,10 @@
    "comeFrom": [
     "Marcheur de l'ombre de l'Hiver éternel et Marcheur de l'ombre de l'Incinération",
     "Gardes de la crinière d'argent et vagabonds",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Récompense d'affectation",
-    "Échange de braises",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur",
     "Calice doré"
    ]
@@ -63,7 +65,7 @@
    "id": 633348,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "5be2ad896306c15eb63529806cc7e0175b2c2111e3a6f175accb00a85cf9b90e",
+   "iconPath": "ba6bf0222b2d45356ef4505a36cbe77c7a9b780b174dba76a2ee29427b344447",
    "name": "Insigne de la crinière d'argent",
    "desc": "Insigne militaire porté par les capitaines de la Garde de la crinière d'argent. Matériau intermédiaire utilisé pour le renforcement.",
    "lore": "Il s'agit peut-être d'une preuve d'héroïsme qui permet de se vanter auprès de sa famille. Ou peut-être qu'il s'agit d'un porte-bonheur qui peut protéger d'une balle.<br /><br />« Les temps ont changé. »",
@@ -74,6 +76,7 @@
     "Marcheur de l'ombre d'Hiver éternel et Marcheur de l'ombre de l'Incinération au niveau d'équilibre 2 ou supérieur",
     "Gardes de la crinière d'argent et vagabonds au niveau d'équilibre 2 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -82,7 +85,7 @@
    "id": 635674,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "bbfb88036f821da503753ae4189da74a1586b0b7ee8ec0f234bbf9fb53474d01",
+   "iconPath": "11a70d892dc3b897bc3d714367c18fe413d9538c809eb21c211f322eed806403",
    "name": "Flèche du chasseur de bêtes",
    "desc": "Pointe de flèche forgée à partir de givracier par les artisans de Xianzhou. Permet d'améliorer légèrement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Cadeau que les parents offrent à leurs enfants lorsque ces derniers tuent leur première proie, lors de la cérémonie de passage à la majorité. Il symbolise les succès à venir, aussi sûrs que la flèche qui file en direction de sa cible.<br /><br />« Puissent la flèche à ta taille et l'épée dans ton fourreau t'être fidèles et toujours trouver leur cible. »",
@@ -91,7 +94,7 @@
    "rewardPath": "/material/635674",
    "comeFrom": [
     "Calice des Plaines des neiges périphériques",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   },
@@ -99,7 +102,7 @@
    "id": 694487,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "f098da0aef7117b02e1bd2fe0f1117e4a260c6b0563c4c7835ef48b6aee37f81",
+   "iconPath": "d5866e4c57959f77b39cfa0d05369fae9baec594e2cb9d76bb9d40f1046f206e",
    "name": "Éther purifié",
    "desc": "Matériau de renforcement de cône de lumière. Confère 6 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« Le Jardin se félicite de recréer une gloire passée, mais c'est une \"gloire passée\" qu'ils ont choisie. Tu comprends ? »",
@@ -117,7 +120,7 @@
    "id": 694488,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "026b806a3d824e733df266921f36f82bcff426f6ab12699ca5c4ad0c73723779",
+   "iconPath": "42e7a259fea56f95597d32fc400f255d0b0f23e677981562484e970737564410",
    "name": "Éther condensé",
    "desc": "Matériau de renforcement de cône de lumière. Confère 2 <nobr>000</nobr> points d'EXP de cône de lumière.",
    "lore": "Une bouteille d'éther raffiné par des procédés spéciaux.<br /><br />« À manier avec précaution, ne pas faire tomber, ne pas appliquer de pression. En cas de dommage ou de fuite, se référer au chapitre II du \"Manuel de prise en charge des désastres\" pour une solution d'urgence. »",
@@ -128,14 +131,14 @@
     "Calice du Col de Backwater",
     "Calice de la Commission de divination",
     "Calice du Rêve d'enfant",
-    "Braises immortelles"
+    "Échange de braises immortelles"
    ]
   },
   "694489": {
    "id": 694489,
    "type": 601,
    "purposeId": 5,
-   "iconPath": "d4e3585911d6f71b87b47ced1a2f6e0b0f77dbdc8615650896e77bae87361afd",
+   "iconPath": "008db407e717c5e4703a0152c945bb21883550260a93ee6c7bb0fa9229346126",
    "name": "Éther dilué",
    "desc": "Matériau de renforcement de cône de lumière. Confère <nobr>500</nobr> points d'EXP de cône de lumière.",
    "lore": "Substance imaginaire qui ne devrait pas exister dans le monde réel. Il s'agit du matériau de base pour fabriquer les cônes de lumière.<br />Les images des cônes de lumière sont plus nettes avec cette substance.<br /><br />« Je vois... Alors c'est ça la « mémorine » du Jardin de la mémoire. Pas étonnant que les protecteurs de la mémoire puissent embarquer pour des voyages galactiques avec des souvenirs. »",
@@ -153,7 +156,7 @@
    "id": 717289,
    "type": 601,
    "purposeId": 7,
-   "iconPath": "e5c567b0d1a069f86d1fa35a17b282346606c69e5f8cab4028224ece84c8ad58",
+   "iconPath": "0f804f4f5903741a391df7dca374c8f9a80e5a258e74bdebf04d9f811b23ba67",
    "name": "Médaille de la crinière d'argent",
    "desc": "Médaille d'honneur portée par les soldats de la Garde de la crinière d'argent ayant servi de façon courageuse et méritante. Matériau avancé utilisé pour le renforcement.",
    "lore": "Une marque d'honneur décernée à ceux qui ont combattu les créatures du Fragmentum, les habitants du Souterrain, et les catastrophes soudaines.<br />Elle est plus souvent placée sur le cercueil qu'épinglée sur la poitrine de son propriétaire.<br /><br />« Rappelle-toi, jeune Gepard. Ceci n'est pas un jouet : c'est le destin et le sang de la famille Landau. »",
@@ -164,6 +167,7 @@
     "Marcheur de l'ombre d'Hiver éternel et Marcheur de l'ombre de l'Incinération au niveau d'équilibre 4 ou supérieur",
     "Gardes de la crinière d'argent et vagabonds au niveau d'équilibre 4 ou supérieur",
     "Synthèse de matériaux de l'Omni-synthétiseur",
+    "Butin d'ennemis dans l'Univers parallèle",
     "Ennemi de l'Univers simulé",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
@@ -172,7 +176,7 @@
    "id": 836260,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "567e2625dad62dc022ca7b71109c76754e7fc5cc2ac9daa5debb5c65282743ab",
+   "iconPath": "cf5a458a6f5b56925e970a2f6e10ac8fc3034f2b045e7d87e13c0a49e4c8fba8",
    "name": "Flèche du chasseur d'étoiles",
    "desc": "Fragment de la Flèche de lumière briseuse de ciel tirée par le Seigneur archer de la Destinée. Permet d'améliorer considérablement les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Les ruines d'une construction divine que les humains ordinaires ont rarement la chance de contempler. Quelle est donc la force capable de faire exploser des étoiles à des années-lumière ? L'humanité ne peut qu'imaginer la puissance de la Flèche de lumière d'après les cendres qu'elle a laissées dans son sillage.<br />Seul le Maître de la fournaise, chef des artisans de Xianzhou, peut forger à nouveau ces éclats pour ceux qui en sont dignes.<br /><br />« La mort d'une étoile brillera de mille feux pour les siècles à venir. »",
@@ -189,7 +193,7 @@
    "id": 920201,
    "type": 601,
    "purposeId": 3,
-   "iconPath": "fdcef4e7b19d0d08fb9ea878b30e08be44286d0a6273f29c89a77c6e17ad9572",
+   "iconPath": "cde54d9ea3870506cfb7367e25d2eada09bfe948b459125b5e916d55fa6d4133",
    "name": "Flèche du tueur de démons",
    "desc": "Pointe de flèche forgée à partir d'essence de stellaris par les artisans de Xianzhou. Permet d'améliorer modérément les Traces des personnages de la <span style=\"display: inline-block; color: #f29e38ff; font-weight:bold;\">Chasse</span>.",
    "lore": "Une flèche plus fine qu'un doigt. Elle peut être utilisée à l'aide d'une arbalète électromagnétique ou d'un arc thermique. Sa puissance est telle qu'elle peut pénétrer les carapaces robustes des abominations en un seul coup.<br /><br />« Le banni céleste arrive de loin, après avoir parcouru de grandes distances entre les océans d'étoiles. Similaires à l'averse, les flèches s'abattent sur un casque reflétant l'éclat de la lune. »",
@@ -199,7 +203,7 @@
    "comeFrom": [
     "Calice des Plaines des neiges périphériques",
     "Synthèse de matériaux de l'Omni-synthétiseur",
-    "Braises immortelles",
+    "Échange de braises immortelles",
     "Échange de matériaux de l'Omni-synthétiseur"
    ]
   }
