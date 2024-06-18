@@ -1,5 +1,20 @@
 [
   {
+    "name": "Forge of the Kalpagni Lantern",
+    "type": "ORNAMENTS",
+    "status": "RELEASED",
+    "fileName": "316",
+    "version": "2.3.0"
+  },
+  {
+    "name": "Duran, Dynasty of Running Wolves",
+    "type": "ORNAMENTS",
+    "status": "RELEASED",
+    "fileName": "315",
+    "version": "2.3.0"
+  },
+
+  {
     "name": "Izumo Gensei and Takama Divine Realm",
     "type": "ORNAMENTS",
     "status": "RELEASED",
@@ -96,6 +111,22 @@
     "status": "RELEASED",
     "fileName": "307",
     "version": "1.0.5"
+  },
+  
+  {
+    "name": "The Wind-Soaring Valorous",
+    "type": "RELIC",
+    "status": "RELEASED",
+    "fileName": "120",
+    "version": "2.3.0"
+  },
+  
+  {
+    "name": "Iron Cavalry Against the Scourge",
+    "type": "RELIC",
+    "status": "RELEASED",
+    "fileName": "119",
+    "version": "2.3.0"
   },
   {
     "name": "Watchmaker, Master of Dream Machinations",

@@ -1,4 +1,26 @@
 [
+  
+  {
+    "name": "Jade",
+    "element": "Quantum",
+    "path": "Erudition",
+    "rare": 5,
+    "sex": "Female",
+    "status": "RELEASED",
+    "fileName": "jade",
+    "version": "2.3.0"
+  },
+  
+  {
+    "name": "Firefly",
+    "element": "Fire",
+    "path": "Destruction",
+    "rare": 5,
+    "sex": "Female",
+    "status": "RELEASED",
+    "fileName": "sam",
+    "version": "2.3.0"
+  },
   {
     "name": "Boothill",
     "element": "Physical",
