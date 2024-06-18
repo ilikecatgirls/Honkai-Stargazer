@@ -1,4 +1,7 @@
 const AvatarIcon: any = {
+  //Add in 2.3.0
+  1310: require("../../images/avatar_icon/1310.webp"),
+  1314: require("../../images/avatar_icon/1314.webp"),
   //Add in 2.2.0
   1309: require("../../images/avatar_icon/1309.webp"),
   1315: require("../../images/avatar_icon/1315.webp"),

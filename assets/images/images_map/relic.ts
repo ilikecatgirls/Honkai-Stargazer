@@ -1,4 +1,30 @@
 const Relic: any = {
+  //Add in 2.3.0
+  "Iron Cavalry Against the Scourge": {
+    icon1: require("../ornament_icon/iron_cavalry_against_the_scourge_1.webp"),
+    icon2: require("../ornament_icon/iron_cavalry_against_the_scourge_2.webp"),
+    icon3: require("../ornament_icon/iron_cavalry_against_the_scourge_3.webp"),
+    icon4: require("../ornament_icon/iron_cavalry_against_the_scourge_4.webp"),
+    pcIcon: require("../ornament_pcicon/iron_cavalry_against_the_scourge.webp"),
+  },
+  "The Wind-Soaring Valorous": {
+    icon1: require("../ornament_icon/the_wind_soaring_valorous_1.webp"),
+    icon2: require("../ornament_icon/the_wind_soaring_valorous_2.webp"),
+    icon3: require("../ornament_icon/the_wind_soaring_valorous_3.webp"),
+    icon4: require("../ornament_icon/the_wind_soaring_valorous_4.webp"),
+    pcIcon: require("../ornament_pcicon/the_wind_soaring_valorous.webp"),
+  },
+  "Duran, Dynasty of Running Wolves": {
+    icon1: require("../ornament_icon/duran_dynasty_of_running_wolves_5.webp"),
+    icon2: require("../ornament_icon/duran_dynasty_of_running_wolves_6.webp"),
+    pcIcon: require("../ornament_pcicon/duran_dynasty_of_running_wolves.webp"),
+  },
+  "Forge of the Kalpagni Lantern": {
+    icon1: require("../ornament_icon/forge_of_the_kalpagni_lantern_5.webp"),
+    icon2: require("../ornament_icon/forge_of_the_kalpagni_lantern_6.webp"),
+    pcIcon: require("../ornament_pcicon/forge_of_the_kalpagni_lantern.webp"),
+  },
+
   //Add in 2.1.0
   "Izumo Gensei and Takama Divine Realm": {
     icon1: require("../ornament_icon/izumo_gensei_and_takama_divine_realm_5.webp"),

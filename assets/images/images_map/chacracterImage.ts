@@ -1,4 +1,19 @@
 const CharacterImage: any = {
+  //add in 2.3.0
+  "Jade": {
+    icon: require("../../images/character_icon/jade_icon.webp"),
+    imageSplash: require("../../images/character_splash/jade_splash.webp"),
+    imageFull: require("../../images/character_splash/jade_splash.webp"),
+    //imageFull: require("../../images/character_full/jade_full.webp"),
+    fade: require("../../images/character_fade/jade_fade.webp"),
+  },
+  "Firefly": {
+    icon: require("../../images/character_icon/firefly_icon.webp"),
+    imageSplash: require("../../images/character_splash/firefly_splash.webp"),
+    imageFull: require("../../images/character_splash/firefly_splash.webp"),
+    //imageFull: require("../../images/character_full/firefly_full.webp"),
+    fade: require("../../images/character_fade/firefly_fade.webp"),
+  },
   //add in 2.2.0
   "Robin": {
     icon: require("../../images/character_icon/robin_icon.webp"),

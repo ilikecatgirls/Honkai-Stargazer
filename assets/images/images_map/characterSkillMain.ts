@@ -4,6 +4,21 @@
  */
 
 const CharacterSkillMain: any = {
+  //add in 2.3.0
+  "Jade": {
+    skill1: require("../../images/character_skill/jade_skill1.webp"),
+    skill2: require("../../images/character_skill/jade_skill2.webp"),
+    skill3: require("../../images/character_skill/jade_skill3.webp"),
+    skill4: require("../../images/character_skill/jade_skill4.webp"),
+    skill6: require("../../images/character_skill/jade_skill6.webp"),
+  },
+  "Firefly": {
+    skill1: require("../../images/character_skill/firefly_skill1.webp"),
+    skill2: require("../../images/character_skill/firefly_skill2.webp"),
+    skill3: require("../../images/character_skill/firefly_skill3.webp"),
+    skill4: require("../../images/character_skill/firefly_skill4.webp"),
+    skill6: require("../../images/character_skill/firefly_skill6.webp"),
+  },
   //add in 2.2.0
   "Robin": {
     skill1: require("../../images/character_skill/robin_skill1.webp"),

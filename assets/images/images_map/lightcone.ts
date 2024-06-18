@@ -1,4 +1,21 @@
 const Lightcone: any = {
+  //add in 2.3.0
+  "Yet Hope Is Priceless": {
+    icon: require("../../images/lightcone_icon/yet_hope_is_priceless.webp"),
+    imageFull: require("../../images/lightcone_artwork/yet_hope_is_priceless_artwork.webp"),
+  },
+  "Whereabouts Should Dreams Rest": {
+    icon: require("../../images/lightcone_icon/whereabouts_should_dreams_rest.webp"),
+    imageFull: require("../../images/lightcone_artwork/whereabouts_should_dreams_rest_artwork.webp"),
+  },
+  "Eternal Calculus": {
+    icon: require("../../images/lightcone_icon/eternal_calculus.webp"),
+    imageFull: require("../../images/lightcone_artwork/eternal_calculus_artwork.webp"),
+  },
+  "After the Charmony Fall": {
+    icon: require("../../images/lightcone_icon/after_the_charmony_fall.webp"),
+    imageFull: require("../../images/lightcone_artwork/after_the_charmony_fall_artwork.webp"),
+  },
   //add in 2.2.0
   "Sailing Towards A Second Life": {
     icon: require("../../images/lightcone_icon/sailing_towards_a_second_life.webp"),

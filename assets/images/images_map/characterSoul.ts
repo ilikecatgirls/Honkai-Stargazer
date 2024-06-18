@@ -4,6 +4,35 @@
  */
 
 const CharacterSoul: any = {
+  //add in 2.3.0
+  "Jade": {
+    eidolon1: require("../../images/character_eidolon/jade_eidolon1.webp"),
+    eidolon2: require("../../images/character_eidolon/jade_eidolon2.webp"),
+    eidolon3: require("../../images/character_eidolon/jade_eidolon3.webp"),
+    eidolon4: require("../../images/character_eidolon/jade_eidolon4.webp"),
+    eidolon5: require("../../images/character_eidolon/jade_eidolon5.webp"),
+    eidolon6: require("../../images/character_eidolon/jade_eidolon6.webp"),
+    soul1: require("../../images/character_soul/jade_soul1.webp"),
+    soul2: require("../../images/character_soul/jade_soul2.webp"),
+    soul3: require("../../images/character_soul/jade_soul3.webp"),
+    soul4: require("../../images/character_soul/jade_soul4.webp"),
+    soul5: require("../../images/character_soul/jade_soul5.webp"),
+    soul6: require("../../images/character_soul/jade_soul6.webp"),
+  },
+  "Firefly": {
+    eidolon1: require("../../images/character_eidolon/firefly_eidolon1.webp"),
+    eidolon2: require("../../images/character_eidolon/firefly_eidolon2.webp"),
+    eidolon3: require("../../images/character_eidolon/firefly_eidolon3.webp"),
+    eidolon4: require("../../images/character_eidolon/firefly_eidolon4.webp"),
+    eidolon5: require("../../images/character_eidolon/firefly_eidolon5.webp"),
+    eidolon6: require("../../images/character_eidolon/firefly_eidolon6.webp"),
+    soul1: require("../../images/character_soul/firefly_soul1.webp"),
+    soul2: require("../../images/character_soul/firefly_soul2.webp"),
+    soul3: require("../../images/character_soul/firefly_soul3.webp"),
+    soul4: require("../../images/character_soul/firefly_soul4.webp"),
+    soul5: require("../../images/character_soul/firefly_soul5.webp"),
+    soul6: require("../../images/character_soul/firefly_soul6.webp"),
+  },
   //add in 2.2.0
   "Robin": {
     eidolon1: require("../../images/character_eidolon/robin_eidolon1.webp"),
