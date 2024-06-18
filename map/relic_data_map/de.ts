@@ -32,8 +32,18 @@ import WatchmakerMasterofDreamMachinations from "../../data/relic_data/de/118.js
 //Add in 2.1.0
 import SigoniatheUnclaimedDesolation from "../../data/relic_data/de/313.json";
 import IzumoGenseiandTakamaDivineRealm from "../../data/relic_data/de/314.json";
+//Add in 2.3.0
+import IronCavalryAgainstTheScourge from "../../data/relic_data/de/119.json";
+import TheWindSoaringValorous from "../../data/relic_data/de/120.json";
+import DuranDynastyOfRunningWolves from "../../data/relic_data/de/315.json";
+import ForgeOfTheKalpagniLantern from "../../data/relic_data/de/316.json";
 
 const DE = {
+  //add in 2.3.0
+  "Iron Cavalry Against the Scourge":IronCavalryAgainstTheScourge,
+  "The Wind-Soaring Valorous":TheWindSoaringValorous,
+  "Duran, Dynasty of Running Wolves":DuranDynastyOfRunningWolves,
+  "Forge of the Kalpagni Lantern":ForgeOfTheKalpagniLantern,
   //add in 2.1.0
   "Sigonia, the Unclaimed Desolation":IzumoGenseiandTakamaDivineRealm,
   "Izumo Gensei and Takama Divine Realm":SigoniatheUnclaimedDesolation,

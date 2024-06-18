@@ -1,6 +1,8 @@
 const Material: any = {  
   //add in 2.3.0
   673757: require("../../images/material_icon/material_exquisite_colored_draft.webp"),
+  589816: require("../../images/material_icon/material_dynamic_outlining.webp"),
+  874343: require("../../images/material_icon/material_rough_sketch.webp"),
   
   //add in 2.2.0
   836267: require("../../images/material_icon/material_countertemporal_shot.webp"),

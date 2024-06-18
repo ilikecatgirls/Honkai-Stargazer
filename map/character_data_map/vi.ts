@@ -61,7 +61,14 @@ import Boothill from "../../data/character_data/vi/boothill.json";
 import PlayerBoy3 from "../../data/character_data/vi/playerboy3.json";
 import PlayerGirl3 from "../../data/character_data/vi/playergirl3.json";
 
+//add in 2.3.0
+import Jade from "../../data/character_data/vi/jade.json";
+import Firefly from "../../data/character_data/vi/sam.json";
+
 const VI = {
+  //add in 2.3.0
+  Jade,
+  Firefly,
   //add in 2.2.0
   Robin,
   Boothill,

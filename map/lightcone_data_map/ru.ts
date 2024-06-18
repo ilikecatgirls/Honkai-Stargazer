@@ -107,7 +107,18 @@ import FlowingNightglow from "../../data/lightcone_data/ru/23026.json";
 import ForTomorrowsJourney from "../../data/lightcone_data/ru/22002.json";
 import BoundlessChoreo from "../../data/lightcone_data/ru/21044.json";
 
+//add in 2.3.0
+import EternalCalculus from "../../data/lightcone_data/ru/24004.json";
+import WhereaboutsShouldDreamsRest from "../../data/lightcone_data/ru/23025.json";
+import YetHopeIsPriceless from "../../data/lightcone_data/ru/23028.json";
+import AfterTheCharmonyFall from "../../data/lightcone_data/ru/21045.json";
+
 const RU = {
+  //add in 2.3.0
+  "Eternal Calculus": EternalCalculus,
+  "Whereabouts Should Dreams Rest": WhereaboutsShouldDreamsRest,
+  "Yet Hope Is Priceless": YetHopeIsPriceless,
+  "After the Charmony Fall": AfterTheCharmonyFall,
   //add in 2.2.0
   "Sailing Towards A Second Life": SailingTowardsASecondLife,
   "Flowing Nightglow": FlowingNightglow,

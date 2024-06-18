@@ -62,6 +62,7 @@ const adviceId: any = {
     "-344": { icon: require("../../assets/images/ui_icon/ic_unknown.webp"), name: "體系核心" },
     "-345": { icon: require("../../assets/images/ui_icon/ic_break_effect.webp"), name: "降低防禦" },
     "-346": { icon: require("../../assets/images/ui_icon/ic_unknown.webp"), name: "禁錮" },
+    "-347": { icon: require("../../assets/images/ui_icon/ic_effect_hit_rate.webp"), name: "超擊破" },
 
 };
 

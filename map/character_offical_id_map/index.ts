@@ -51,7 +51,9 @@ const officalCharId: any = {
   1307: "Black Swan",
   1308: "Acheron",
   1309: "Robin",
+  1310: "Firefly",
   1312: "Misha",
+  1314: "Jade",
   1315: "Boothill",
 };
 

@@ -61,7 +61,14 @@ import Boothill from "../../data/character_data/ru/boothill.json";
 import PlayerBoy3 from "../../data/character_data/ru/playerboy3.json";
 import PlayerGirl3 from "../../data/character_data/ru/playergirl3.json";
 
+//add in 2.3.0
+import Jade from "../../data/character_data/ru/jade.json";
+import Firefly from "../../data/character_data/ru/sam.json";
+
 const RU = {
+  //add in 2.3.0
+  Jade,
+  Firefly,
   //add in 2.2.0
   Robin,
   Boothill,

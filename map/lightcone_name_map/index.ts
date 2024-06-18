@@ -1,4 +1,9 @@
 const LightconeName = {
+  //Add in 2.3.0
+  "eternal-calculus":"Eternal Calculus",
+  "whereabouts-should-dreams-rest":"Whereabouts Should Dreams Rest",
+  "yet-hope-is-priceless":"Yet Hope Is Priceless",
+  "after-the-charmony-fall":"After the Charmony Fall",
   //Add in 2.2.0
   "sailing-towards-a-second-life":"Sailing Towards A Second Life",
   "flowing-nightglow":"Flowing Nightglow",

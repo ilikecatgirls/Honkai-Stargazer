@@ -1,4 +1,9 @@
 const CharacterName = {
+  //add in 2.3.0
+  "jade": "Jade",
+  "sam": "Firefly",
+  "firefly": "Firefly",
+
   //add in 2.2.0
   "robin": "Robin",
   "boothill": "Boothill",

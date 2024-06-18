@@ -1,4 +1,10 @@
 const officalLightconeId: any = {
+  //Add in 2.3.0
+  24004: "Eternal Calculus",
+  23028: "Yet Hope Is Priceless",
+  23025: "Whereabouts Should Dreams Rest",
+  21045: "After the Charmony Fall",
+
   //Add in 2.2.0
   23027: "Sailing Towards A Second Life",
   23026: "Flowing Nightglow",

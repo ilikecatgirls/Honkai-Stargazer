@@ -17,6 +17,8 @@ const officalRelicId: any = {
   116: "Prisoner in Deep Confinement",
   117: "Pioneer Diver of Dead Waters",
   118: "Watchmaker, Master of Dream Machinations",
+  119: "Iron Cavalry Against the Scourge",
+  120: "The Wind-Soaring Valorous",
   301: "Space Sealing Station",
   302: "Fleet of the Ageless",
   303: "Pan-Cosmic Commercial Enterprise",
@@ -31,6 +33,8 @@ const officalRelicId: any = {
   312: "Penacony, Land of the Dreams",
   313: "Sigonia, the Unclaimed Desolation",
   314: "Izumo Gensei and Takama Divine Realm",
+  315: "Duran, Dynasty of Running Wolves",
+  316: "Forge of the Kalpagni Lantern",
 };
 
 export default officalRelicId;
