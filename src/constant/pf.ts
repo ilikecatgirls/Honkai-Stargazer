@@ -3,6 +3,11 @@ import { TextLanguage } from "../language/language.types";
 
 export const PFVersion = (lang: TextLanguage) => [
   {
+    id: 2007,
+    name: `${PFDataMap[2007].name[lang]}`,
+    startBegin: PFDataMap[2007].time.begin,
+  },
+  {
     id: 2006,
     name: `${PFDataMap[2006].name[lang]}`,
     startBegin: PFDataMap[2006].time.begin,
