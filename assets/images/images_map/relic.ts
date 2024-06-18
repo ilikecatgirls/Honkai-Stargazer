@@ -1,18 +1,18 @@
 const Relic: any = {
   //Add in 2.3.0
   "Iron Cavalry Against the Scourge": {
-    icon1: require("../ornament_icon/iron_cavalry_against_the_scourge_1.webp"),
-    icon2: require("../ornament_icon/iron_cavalry_against_the_scourge_2.webp"),
-    icon3: require("../ornament_icon/iron_cavalry_against_the_scourge_3.webp"),
-    icon4: require("../ornament_icon/iron_cavalry_against_the_scourge_4.webp"),
-    pcIcon: require("../ornament_pcicon/iron_cavalry_against_the_scourge.webp"),
+    icon1: require("../relic_icon/iron_cavalry_against_the_scourge_1.webp"),
+    icon2: require("../relic_icon/iron_cavalry_against_the_scourge_2.webp"),
+    icon3: require("../relic_icon/iron_cavalry_against_the_scourge_3.webp"),
+    icon4: require("../relic_icon/iron_cavalry_against_the_scourge_4.webp"),
+    pcIcon: require("../relic_pcicon/iron_cavalry_against_the_scourge.webp"),
   },
   "The Wind-Soaring Valorous": {
-    icon1: require("../ornament_icon/the_wind_soaring_valorous_1.webp"),
-    icon2: require("../ornament_icon/the_wind_soaring_valorous_2.webp"),
-    icon3: require("../ornament_icon/the_wind_soaring_valorous_3.webp"),
-    icon4: require("../ornament_icon/the_wind_soaring_valorous_4.webp"),
-    pcIcon: require("../ornament_pcicon/the_wind_soaring_valorous.webp"),
+    icon1: require("../relic_icon/the_wind_soaring_valorous_1.webp"),
+    icon2: require("../relic_icon/the_wind_soaring_valorous_2.webp"),
+    icon3: require("../relic_icon/the_wind_soaring_valorous_3.webp"),
+    icon4: require("../relic_icon/the_wind_soaring_valorous_4.webp"),
+    pcIcon: require("../relic_pcicon/the_wind_soaring_valorous.webp"),
   },
   "Duran, Dynasty of Running Wolves": {
     icon1: require("../ornament_icon/duran_dynasty_of_running_wolves_5.webp"),

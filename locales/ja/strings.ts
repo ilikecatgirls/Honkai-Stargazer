@@ -299,13 +299,13 @@ export const strings = {
   //20240122 -> Home Page Button
   MemoryOfChaosShort: "混沌の記憶",
   ScoreLevel: "熟練度",
-  MemoryOfChaosLeaderboard: "混沌の記憶¥nリーダーボード",
-  ScoreLevelLeaderboard: "熟練度¥nリーダーボード",
+  MemoryOfChaosLeaderboard: "混沌の記憶\nリーダーボード",
+  ScoreLevelLeaderboard: "熟練度\nリーダーボード",
   //20240125 -> Home Page Button
   PureFiction: "虚構叙事",
   //20240126 -> Home Page Button & Pure Fiction (Leaderboard & Info Page)
   PureFictionShort: "虚構",
-  PureFictionLeaderboard: "虚構叙事リーダーボード",
+  PureFictionLeaderboard: "虚構叙事\nリーダーボード",
   About: "About",
   //Short form for display in Home Page
   AboutTheApp: "About Stargazer",
@@ -327,7 +327,7 @@ export const strings = {
   PrevPage: "前のページ",
   NextPage: "次のページ",
   //20240209 - Wrap Simulator
-  LotterySimulator: "跳躍シミュレーター",
+  LotterySimulator: "跳躍\nシミュレーター",
   MakeOnePull: "1回跳躍",
   MakeTenPull: "10回跳躍",
   TutorialVideo: "演出",
@@ -394,10 +394,10 @@ export const strings = {
   SurveyButtonNowDontHave: "現在、必要なアンケートはありません",
   //20240422 - Action Order List & Simulator
   //Title of Action Order in menu and header
-  ActionOrder: "Action Order",
-  ActionOrderAddTeam: "Add",
-  ActionOrderEdit: "Edit",
+  ActionOrder: "行動順",
+  ActionOrderAddTeam: "追加",
+  ActionOrderEdit: "編集",
   //The text next to the bar of Wrap Analysis Record List
   //E.g. once if u got Himeko in Robin's pool, then that'll name as "LOSE"
-  WrapAnalysisPullFailed: "LOSE"
+  WrapAnalysisPullFailed: "敗北"
 };
