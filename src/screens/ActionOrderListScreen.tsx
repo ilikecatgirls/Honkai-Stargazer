@@ -79,7 +79,7 @@ export default function ActionOrderListScreen() {
       teamBuildDate: 1713839701000,
       teamInfo: [
         {
-          ...charCardListData?.filter((char: TeamData) => (char.id === "Kafka"))[0], ...
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Sparkle"))[0], ...
           {
             level: 78,
             energyRechargeRate: 1.00,
@@ -161,6 +161,8 @@ export default function ActionOrderListScreen() {
     } as TeamListItem,
   ];
 
+  const enemySpeed = 158 
+
   const teamListContent = teamDataTest;
 
   //Go to ActionOrderSimuator
@@ -169,6 +171,7 @@ export default function ActionOrderListScreen() {
     // @ts-ignore
     navigation.push(SCREENS.ActionOrderSimulatorPage.id, {
       selectedTeamData: teamListContent[teamIndex],
+      selectedEnemyData: {enemySpeed : enemySpeed}
     });
   };
 

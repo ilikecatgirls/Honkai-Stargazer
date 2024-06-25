@@ -321,7 +321,6 @@ export default function Menu() {
      */
 
     //排軸 Action Order
-    /*
     
     {
       type: "normal",
@@ -339,7 +338,6 @@ export default function Menu() {
       },
 
     },
-    */
      
     // 問卷
     {
