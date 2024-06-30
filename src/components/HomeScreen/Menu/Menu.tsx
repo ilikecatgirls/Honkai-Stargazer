@@ -324,7 +324,7 @@ export default function Menu() {
     
     {
       type: "normal",
-      name: SCREENS.ActionOrderListPage.getShortName(language),
+      name: SCREENS.ActionOrderListPage.getShortName(language)+"(PREVIEW)",
       icon: SCREENS.ActionOrderListPage.icon,
       onPress: async () => {
         const value = (await db.UserFunctionUsage.doc("ActionOrderListPage").get()).data() as UserFunctionUsage

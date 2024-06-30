@@ -182,7 +182,7 @@ export default function ActionOrderSimulatorScreen() {
       />
 
       {/** Body */}
-      <View style={{ flex: 1, backgroundColor: "#CCCCCC00", flexDirection: "row", margin: 24 }}>
+      <View style={{ flex: 1, backgroundColor: "#CCCCCC00", flexDirection: "row", margin: 24, marginBottom:8 }}>
         {/** Left - Showing Team Data & Params */}
         <View style={{ flex: 0.45, backgroundColor: "#55555500" }}>
           {/** Header of Page (Left only) */}
@@ -209,7 +209,7 @@ export default function ActionOrderSimulatorScreen() {
               {/* 中間主體 */}
               <View
                 style={{ alignItems: "center", justifyContent: "center", flex: 1 }}>
-                <Text style={{ color: "#FFF", fontSize: 18 }}>{teamData?.teamName}</Text>
+                <Text style={{ color: "#FFF", fontSize: 18 }} numberOfLines={1}>{teamData?.teamName}</Text>
                 <Text style={{ color: "#FFFFFF64", fontSize: 14 }}>{getDisplayDateByUnix(teamData?.teamBuildDate)}</Text>
               </View>
 
@@ -324,7 +324,13 @@ export default function ActionOrderSimulatorScreen() {
             </ScrollView>
           </View>
         </View>
+
+        
       </View>
+
+      {/** Preview Text */}
+      <Text style={{color : "#FFFFFF", alignSelf:"center", paddingBottom:8}}>This function is in the Preview Version | 本功能為預覽版</Text>
+      
 
     </View>
   )

@@ -23,6 +23,8 @@ import { getCharFullData } from "../utils/data/getDataFromMap";
 import { getCharAttrData } from "../utils/calculator/getAttrData";
 import Button from "../components/global/Button/Button";
 import { LOCALES } from "../../locales";
+import React from "react";
+import Toast from "../utils/toast/Toast";
 
 
 export type TeamListItem = {
@@ -75,11 +77,26 @@ export default function ActionOrderListScreen() {
   //Read data from character's team...
   const teamDataTest: Array<TeamListItem> = [
     {
-      teamName: "名字隨意改",
-      teamBuildDate: 1713839701000,
+      teamName: "開拓者，生日快樂！Happy Birthday to Trilblazer!",
+      teamBuildDate: 1721344740000,
       teamInfo: [
         {
-          ...charCardListData?.filter((char: TeamData) => (char.id === "Sparkle"))[0], ...
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Trailblazer Girl (Imaginary)"))[0], ...
+          {
+            level: 19,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
+        },
+      ],
+    } as TeamListItem,
+    {
+      teamName: "再見，Stargazer 2；你好，Stargazer 3！\nBye Stargazer 2 and Hi Stargazer 3!",
+      teamBuildDate: 1719789540000,
+      teamInfo: [
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Firefly"))[0], ...
           {
             level: 78,
             energyRechargeRate: 1.00,
@@ -88,7 +105,7 @@ export default function ActionOrderListScreen() {
           }
         },
         {
-          ...charCardListData?.filter((char: TeamData) => (char.id === "Guinaifen"))[0], ...
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Trailblazer Girl (Imaginary)"))[0], ...
           {
             level: 78,
             energyRechargeRate: 1.00,
@@ -117,12 +134,13 @@ export default function ActionOrderListScreen() {
       ],
     } as TeamListItem,
 
+
     {
-      teamName: "冰隊",
-      teamBuildDate: 1710839701000,
+      teamName: "終於決定做排軸功能了！ Finally we confirmed to develop Action Order Function",
+      teamBuildDate: 1713839701000,
       teamInfo: [
         {
-          ...charCardListData?.filter((char: TeamData) => (char.id === "Jingliu"))[0], ...
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Acheron"))[0], ...
           {
             level: 80,
             energyRechargeRate: 1.00,
@@ -131,16 +149,16 @@ export default function ActionOrderListScreen() {
           }
         },
         {
-          ...charCardListData?.filter((char: TeamData) => (char.id === "Pela"))[0], ...
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Robin"))[0], ...
           {
-            level: 80,
+            level: 70,
             energyRechargeRate: 1.00,
             speedBase: 106.0,
             speedAddition: 25.0,
           }
         },
         {
-          ...charCardListData?.filter((char: TeamData) => (char.id === "Ruan Mei"))[0], ...
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Sparkle"))[0], ...
           {
             level: 60,
             energyRechargeRate: 1.00,
@@ -149,7 +167,94 @@ export default function ActionOrderListScreen() {
           }
         },
         {
-          ...charCardListData?.filter((char: TeamData) => (char.id === "Huohuo"))[0], ...
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Bailu"))[0], ...
+          {
+            level: 60,
+            energyRechargeRate: 1.244,
+            speedBase: 98.0,
+            speedAddition: 46.88,
+          }
+        },
+      ],
+    } as TeamListItem,
+
+
+    {
+      teamName: "「開拓」之旅永不結束，他只是到了他的下一站\nThe journey of \"Trailblaze\" never ends, he just reaches his next stop",
+      teamBuildDate: 1708961520000,
+      teamInfo: [
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Trailblazer Girl (Imaginary)"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
+        },
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Himeko"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.00,
+            speedBase: 106.0,
+            speedAddition: 25.0,
+          }
+        },
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "March 7th"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
+        },
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Welt"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.244,
+            speedBase: 98.0,
+            speedAddition: 46.88,
+          }
+        },
+      ],
+    } as TeamListItem,
+
+    {
+      teamName: "夢開始的地方 Where Dream Start",
+      teamBuildDate: 1700956800000,
+      teamInfo: [
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Seele"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
+        },
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Silver Wolf"))[0], ...
+          {
+            level: 80,
+            energyRechargeRate: 1.00,
+            speedBase: 106.0,
+            speedAddition: 25.0,
+          }
+        },
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Qingque"))[0], ...
+          {
+            level: 60,
+            energyRechargeRate: 1.00,
+            speedBase: 100.0,
+            speedAddition: 34.0,
+          }
+        },
+        {
+          ...charCardListData?.filter((char: TeamData) => (char.id === "Fu Xuan"))[0], ...
           {
             level: 80,
             energyRechargeRate: 1.244,
@@ -197,13 +302,16 @@ export default function ActionOrderListScreen() {
         justifyContent: "flex-end",
         alignItems: "center",
       }}>
-        <Button width={212} height={46}>
+        <Button width={212} height={46} onPress={() => {Toast("Developing...")}}>
           <Text className="font-[HY65] text-[16px]">{LOCALES[appLanguage].ActionOrderAddTeam}</Text>
         </Button>
+        {/** Preview Text */}
+      <Text style={{color : "#FFFFFF", alignSelf:"center", paddingTop:8}}>This function is in the Preview Version | 本功能為預覽版</Text>
+      
       </View>
 
 
-      <ScrollView className={dynamicHeightScrollView} ref={scrollViewRef} nestedScrollEnabled={true}>
+      <ScrollView className={dynamicHeightScrollView} ref={scrollViewRef} nestedScrollEnabled={true} >
         {
           teamListContent?.map((team: TeamListItem, index: number) => {
             return (
@@ -229,6 +337,9 @@ export default function ActionOrderListScreen() {
             )
           })
         }
+
+        <View style={{padding:160}}></View>
+        
       </ScrollView>
 
 
